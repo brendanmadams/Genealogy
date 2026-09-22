@@ -63,6 +63,7 @@ export function indexFamily(F) {
         if (p.name.toLowerCase().startsWith(q)) score += 3;
         if (hay.startsWith(q)) score += 2;
         if (p.connected) score += 1;
+        if (p.dna_match) score -= 10;          // low priority: always after family members
         scored.push([score, p]);
       }
       return scored.sort((a, b) => b[0] - a[0] || a[1].name.localeCompare(b[1].name)).slice(0, limit).map(x => x[1]);

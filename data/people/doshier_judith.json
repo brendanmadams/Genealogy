@@ -27,7 +27,10 @@
     "adams_dna_linkage_v1"
   ],
   "notes": [
-    "DNA profile only. Simons branch \u2014 Glen Simons' niece, 1C1R.",
-    "Simons branch. True relationship: 1C1R."
-  ]
+    "DNA profile only. Simons branch — Glen Simons' niece, 1C1R.",
+    "Simons branch. True relationship: 1C1R.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+  ],
+  "record_type": "dna_match",
+  "priority": "low"
 }

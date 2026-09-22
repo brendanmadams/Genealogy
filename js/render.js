@@ -18,7 +18,15 @@ export class Renderer {
     this.nodeLayer = el('g', { class: 'nodes' });
     this.root.append(this.linkLayer, this.nodeLayer);
     svg.appendChild(this.root);
-    this.zoom = d3.zoom().scaleExtent([0.25, 2.5]).on('zoom', e => this.root.setAttribute('transform', e.transform));
+    // Column headings (Parents, Grandchildren …) are pinned to the top of the
+    // chart area: they follow the columns sideways but never scroll out of view.
+    this.headLayer = el('g', { class: 'col-heads' });
+    svg.appendChild(this.headLayer);
+    this.labels = [];
+    this.zoom = d3.zoom().scaleExtent([0.25, 2.5]).on('zoom', e => {
+      this.root.setAttribute('transform', e.transform);
+      this.placeHeads(e.transform);
+    });
     d3.select(svg).call(this.zoom).on('dblclick.zoom', null);
     this.bounds = null;
   }
@@ -26,13 +34,30 @@ export class Renderer {
   draw(layout) {
     this.linkLayer.replaceChildren();
     this.nodeLayer.replaceChildren();
-    for (const t of layout.labels || []) {
-      this.linkLayer.appendChild(el('text', { class: 'col-label', x: t.x, y: t.y, 'text-anchor': 'middle' }, t.text));
+    this.labels = layout.labels || [];
+    this.headLayer.replaceChildren();
+    if (this.labels.length) {
+      this.headLayer.appendChild(el('rect', { class: 'col-heads-bg', x: 0, y: 0, width: '100%', height: 30 }));
+      for (const t of this.labels) this.headLayer.appendChild(el('text', { class: 'col-label', y: 19, 'text-anchor': 'middle' }, t.text));
+      this.placeHeads(d3.zoomTransform(this.svg));
     }
     for (const l of layout.links) this.drawLink(l);
     for (const n of layout.nodes) this.drawNode(n);
     this.bounds = layout.bounds;
     this.focusNode = layout.focusNode || layout.nodes.find(n => n.role === 'focus');
+  }
+
+  placeHeads(t) {
+    const texts = this.headLayer.querySelectorAll('text');
+    // column width on screen decides between the full and the short heading
+    const col = this.labels.length > 1 ? (this.labels[1].x - this.labels[0].x) * t.k : Infinity;
+    const useShort = col < 170;
+    this.labels.forEach((lab, i) => {
+      const tx = texts[i]; if (!tx) return;
+      tx.setAttribute('x', t.applyX(lab.x));
+      const want = useShort && lab.short ? lab.short : lab.text;
+      if (tx.textContent !== want) tx.textContent = want;
+    });
   }
 
   drawLink(l) {
@@ -189,9 +214,16 @@ export class Renderer {
       this.root.removeAttribute('transform');
       this.svg.setAttribute('viewBox', `${b.x0} ${b.y0} ${b.x1 - b.x0} ${b.y1 - b.y0}`);
       this.svg.setAttribute('preserveAspectRatio', 'xMidYMin meet');
+      // headings go back to chart coordinates, above their columns
+      const texts = this.headLayer.querySelectorAll('text');
+      this.labels.forEach((lab, i) => { texts[i]?.setAttribute('x', lab.x); texts[i]?.setAttribute('y', lab.y); });
+      this.headLayer.classList.add('printing');
     } else {
       this.svg.removeAttribute('viewBox');
       if (this.savedTransform) this.root.setAttribute('transform', this.savedTransform);
+      this.headLayer.classList.remove('printing');
+      this.headLayer.querySelectorAll('text').forEach(t => t.setAttribute('y', 19));
+      this.placeHeads(d3.zoomTransform(this.svg));
     }
   }
   zoomBy(f) { d3.select(this.svg).transition().duration(200).call(this.zoom.scaleBy, f); }

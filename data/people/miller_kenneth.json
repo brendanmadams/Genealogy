@@ -7,7 +7,7 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "DNA match: 1.68% shared DNA. 23&Me label: 3C. Placed paternal in 23&Me tree but NOT in Glen's first 4 RIC pages \u2014 likely Adams-Trumbo branch, not Simons."
+    "DNA match: 1.68% shared DNA. 23&Me label: 3C. Placed paternal in 23&Me tree but NOT in Glen's first 4 RIC pages — likely Adams-Trumbo branch, not Simons."
   ],
   "risk_events": [],
   "milestones": [],
@@ -25,6 +25,9 @@
     "adams_dna_linkage_v1"
   ],
   "notes": [
-    "DNA match #23. Possibly Adams-Trumbo branch or Simons \u2014 unconfirmed."
-  ]
+    "DNA match #23. Possibly Adams-Trumbo branch or Simons — unconfirmed.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+  ],
+  "record_type": "dna_match",
+  "priority": "low"
 }

@@ -124,7 +124,7 @@ function showLanding() {
   $('#landing').innerHTML = `
     <div class="landing-card">
       <h1>Adams · McKeldin Family Tree</h1>
-      <p class="lede">${D.meta.people} people across ${D.meta.families} families. Pick anyone to see their parents, grandparents, brothers and sisters, spouses, children and grandchildren. Click any card to move through the family, or switch to <strong>Ancestors</strong> or <strong>Descendants</strong> for printable charts.</p>
+      <p class="lede">${D.meta.family_members ?? D.meta.people} people across ${D.meta.families} families. Pick anyone to see their parents, grandparents, brothers and sisters, spouses, children and grandchildren. Click any card to move through the family, or switch to <strong>Ancestors</strong> or <strong>Descendants</strong> for printable charts.</p>
       <div class="landing-search"><input id="landing-search" type="search" placeholder="Search for a name, place or year…" autocomplete="off" /><div class="dropdown" id="landing-results"></div></div>
       ${recent.length ? `<h3>Recently viewed</h3><div class="chips">${recent.map(chip).join('')}</div>` : ''}
       <h3>Start from the earliest known ancestors</h3>
@@ -171,7 +171,7 @@ function closeDropdowns() { document.querySelectorAll('.dropdown.show').forEach(
 function wireSearch(input, drop) {
   let sel = -1, hits = [];
   const render = () => {
-    drop.innerHTML = hits.map((p, i) => `<div class="hit${i === sel ? ' sel' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><div><div class="hit-name">${esc(p.name)}</div><div class="hit-sub">${esc([lifespan(p), p.locations?.[0]].filter(Boolean).join(' · '))}</div></div></div>`).join('')
+    drop.innerHTML = hits.map((p, i) => `<div class="hit${i === sel ? ' sel' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><div><div class="hit-name">${esc(p.name)}</div><div class="hit-sub">${esc([p.dna_match ? 'DNA match · low priority' : '', lifespan(p), p.locations?.[0]].filter(Boolean).join(' · '))}</div></div></div>`).join('')
       || `<div class="hit none">No one found</div>`;
     drop.classList.add('show');
   };

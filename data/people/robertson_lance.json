@@ -28,6 +28,9 @@
   ],
   "notes": [
     "DNA profile only. McKeldin branch, 3rd cousin.",
-    "McKeldin branch CONFIRMED."
-  ]
+    "McKeldin branch CONFIRMED.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+  ],
+  "record_type": "dna_match",
+  "priority": "low"
 }

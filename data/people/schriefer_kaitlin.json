@@ -30,6 +30,9 @@
   ],
   "notes": [
     "DNA match profile only. Likely descended from Kenneth or George Schriefer Jr.",
-    "Schriefer branch anchor. Recommended contact for opening up the Schriefer line."
-  ]
+    "Schriefer branch anchor. Recommended contact for opening up the Schriefer line.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+  ],
+  "record_type": "dna_match",
+  "priority": "low"
 }

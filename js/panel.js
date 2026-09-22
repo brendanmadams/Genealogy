@@ -50,7 +50,7 @@ export function renderPanel(container, D, p) {
         <div class="badges">
           <span class="badge branch">${esc(branch.label)}${p.branch_by_marriage ? ' · by marriage' : ''}</span>
           ${lines.map(l => `<span class="badge line">${esc(l)}</span>`).join('')}
-          ${p.connected ? '' : '<span class="badge warn">not yet connected</span>'}
+          ${p.dna_match ? '<span class="badge dna" title="Known only from a 23andMe match list; relationship unconfirmed">DNA match · low priority</span>' : (p.connected ? '' : '<span class="badge warn">not yet connected</span>')}
         </div>
         ${p.aliases?.length ? `<div class="aliases">Also: ${p.aliases.map(esc).join(', ')}</div>` : ''}
       </div>

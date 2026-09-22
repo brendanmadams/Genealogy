@@ -182,3 +182,11 @@ function descent(from, toNodes) {
   const busY = childTop - GAP.row * 0.45;
   return { type: 'descent', from: { x: from.x, y: fromY }, to: toNodes.map(n => ({ x: n.x, y: childTop })), busY, dashed: !!from.offset };
 }
+
+/** Compact column heading for narrow (zoomed-out) columns. */
+export function shortLabel(g, first) {
+  if (g === 1) return first;
+  if (g === 2) return 'Grand';
+  if (g === 3) return 'Great';
+  return `${g - 2}× great`;
+}

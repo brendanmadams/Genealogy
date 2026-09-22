@@ -6,7 +6,7 @@
 // a dashed "unknown" card marks the gap for research. Each card carries its
 // Ahnentafel number (1 = the chosen person, 2n = father of n, 2n+1 = mother).
 
-import { CARD } from './layout.js';
+import { CARD, shortLabel } from './layout.js';
 
 export const PED = { colGap: 64, rowGap: 14 };
 const COL = CARD.w + PED.colGap;
@@ -92,12 +92,12 @@ export function layoutPedigree(D, focus, maxGen = 4) {
 
   const shown = Math.max(...nodes.map(n => n.gen));
   const labels = [];
-  for (let g = 1; g <= shown; g++) labels.push({ x: g * COL, y: -CARD.h / 2 - 22, text: generationLabel(g) });
+  for (let g = 1; g <= shown; g++) labels.push({ x: g * COL, y: -CARD.h / 2 - 22, text: generationLabel(g), short: shortLabel(g, 'Parents') });
 
   const xs = nodes.map(n => n.x), ys = nodes.map(n => n.y);
   const bounds = {
     x0: Math.min(...xs) - CARD.w / 2 - 40, x1: Math.max(...xs) + CARD.w / 2 + 40,
-    y0: Math.min(...ys, 0) - CARD.h / 2 - 110, y1: Math.max(...ys) + CARD.h / 2 + 40,
+    y0: Math.min(...ys, 0) - CARD.h / 2 - 56, y1: Math.max(...ys) + CARD.h / 2 + 40,
   };
   return {
     nodes, links, labels, bounds,

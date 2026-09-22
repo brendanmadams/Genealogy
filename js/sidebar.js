@@ -17,6 +17,7 @@ export class Sidebar {
         this.render();
         return;
       }
+      if (e.target.closest('.dir-dna')) { this.dnaOpen = !this.el.querySelector('.dir-dna').classList.contains('open'); this.render(); return; }
       const row = e.target.closest('.dir-row');
       if (row) this.onPick(row.dataset.id);
     });
@@ -25,18 +26,26 @@ export class Sidebar {
   setFocus(id) {
     this.focusId = id;
     this.el.querySelectorAll('.dir-row.current').forEach(r => r.classList.remove('current'));
-    const row = this.el.querySelector(`.dir-row[data-id="${id}"]`);
+    let row = this.el.querySelector(`.dir-row[data-id="${id}"]`);
+    if (!row && this.D.person(id)?.dna_match && !this.active.size) {   // open the collapsed DNA section
+      this.dnaOpen = true; this.render();
+      row = this.el.querySelector(`.dir-row[data-id="${id}"]`);
+    }
     if (row) { row.classList.add('current'); row.scrollIntoView({ block: 'nearest' }); }
   }
 
   render() {
     const D = this.D;
+    // DNA-only matches are low priority: left out of counts and filters and
+    // kept in a collapsed section at the bottom.
+    const family = D.list.filter(p => !p.dna_match);
+    const dna = D.list.filter(p => p.dna_match);
     const counts = {};
-    for (const p of D.list) counts[p.branch] = (counts[p.branch] || 0) + 1;
+    for (const p of family) counts[p.branch] = (counts[p.branch] || 0) + 1;
     const pills = [...D.branches.values()].filter(b => counts[b.key]).map(b =>
       `<button class="pill${this.active.has(b.key) ? ' on' : ''}" data-branch="${b.key}" style="--branch:${b.color}"><i></i>${esc(b.label)}<span class="n">${counts[b.key]}</span></button>`).join('');
 
-    const visible = D.list.filter(p => !this.active.size || this.active.has(p.branch));
+    const visible = family.filter(p => !this.active.size || this.active.has(p.branch));
     const connected = visible.filter(p => p.connected), loose = visible.filter(p => !p.connected);
     const row = p => `<div class="dir-row${p.id === this.focusId ? ' current' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><span class="dir-name">${esc(displaySurnameFirst(p))}</span><span class="dir-dates">${esc(lifespan(p, { short: true }))}</span></div>`;
 
@@ -48,6 +57,11 @@ export class Sidebar {
       html += row(p);
     }
     if (loose.length) html += `<div class="dir-letter muted">Not yet connected (${loose.length})</div>` + loose.map(row).join('');
+    if (dna.length && !this.active.size) {
+      const open = this.dnaOpen || dna.some(p => p.id === this.focusId);
+      html += `<button class="dir-dna${open ? ' open' : ''}" aria-expanded="${open}">DNA matches · low priority <span>${dna.length}</span></button>`;
+      if (open) html += `<div class="dir-dna-list"><p class="dir-dna-note">From 23andMe match lists. Relationships are unconfirmed.</p>${dna.map(row).join('')}</div>`;
+    }
 
     this.el.innerHTML = `
       <div class="pills">${pills}${this.active.size ? '<button class="pill clear" data-branch="__clear">clear</button>' : ''}</div>

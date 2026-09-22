@@ -7,7 +7,7 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "DNA match: 0.64% shared DNA. Unplaced. 23&Me label: 3C1R. Distinctive \u2014 research hook."
+    "DNA match: 0.64% shared DNA. Unplaced. 23&Me label: 3C1R. Distinctive — research hook."
   ],
   "risk_events": [],
   "milestones": [],
@@ -25,6 +25,9 @@
     "adams_dna_linkage_v1"
   ],
   "notes": [
-    "DNA match #41. Unplaced."
-  ]
+    "DNA match #41. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+  ],
+  "record_type": "dna_match",
+  "priority": "low"
 }

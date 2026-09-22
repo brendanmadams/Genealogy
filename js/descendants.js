@@ -6,7 +6,7 @@
 // Children whose other parent is unknown branch off the person's own card.
 // Every card carries its d'Aboville number (1, 1.1, 1.2, 1.1.1 …).
 
-import { CARD } from './layout.js';
+import { CARD, shortLabel } from './layout.js';
 import { byBirth } from './data.js';
 
 export const TAG = { h: 30, gap: 6, indent: 18 };
@@ -120,12 +120,12 @@ export function layoutDescendants(D, focus, maxGen = 3) {
 
   const shown = Math.max(...nodes.filter(n => n.gen !== undefined).map(n => n.gen));
   const labels = [];
-  for (let g = 1; g <= shown; g++) labels.push({ x: g * COL, y: -22, text: descendantLabel(g) });
+  for (let g = 1; g <= shown; g++) labels.push({ x: g * COL, y: -22, text: descendantLabel(g), short: shortLabel(g, 'Children') });
 
   const people = nodes.filter(n => !n.type);
   const bounds = {
     x0: -CARD.w / 2 - 40, x1: shown * COL + CARD.w / 2 + 40,
-    y0: -110, y1: Math.max(...nodes.map(n => n.y + (n.type ? TAG.h / 2 : CARD.h / 2))) + 40,
+    y0: -56, y1: Math.max(...nodes.map(n => n.y + (n.type ? TAG.h / 2 : CARD.h / 2))) + 40,
   };
   return {
     nodes, links, labels, bounds,

@@ -283,6 +283,8 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     families: fams,                // families where this person is a partner
     parent_family: parentFam,
     connected: connectedIds.has(p.id),
+    dna_match: p.record_type === 'dna_match',
+    priority: p.priority === 'low' ? 'low' : 'normal',
     locations: p.locations || [],
     personality: p.personality || [],
     roles: p.roles || [],
@@ -303,6 +305,8 @@ const familyJson = {
   meta: {
     generated: new Date().toISOString(),
     people: outPeople.length,
+    family_members: outPeople.filter(p => !p.dna_match).length,
+    dna_matches: outPeople.filter(p => p.dna_match).length,
     connected_people: connectedIds.size,
     families: outFamilies.length,
     branches: branches.map(b => b.key),

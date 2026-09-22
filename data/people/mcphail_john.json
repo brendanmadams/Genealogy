@@ -8,7 +8,7 @@
   "childhood_experience": [],
   "notable_stories": [
     "DNA match: 0.35% shared. 4C; close Simons/McPhail relative sharing 2.94% with Glen",
-    "DNA match: 0.35% shared DNA. Simons branch extended. 4C. 1C2R of Glen Simons (2.94% with Glen) \u2014 close Simons relative. Worth individual outreach for Simons research."
+    "DNA match: 0.35% shared DNA. Simons branch extended. 4C. 1C2R of Glen Simons (2.94% with Glen) — close Simons relative. Worth individual outreach for Simons research."
   ],
   "risk_events": [],
   "milestones": [],
@@ -28,6 +28,9 @@
   ],
   "notes": [
     "DNA profile only. Simons/McPhail branch, 4th cousin.",
-    "Simons branch extended cluster. Already canonical."
-  ]
+    "Simons branch extended cluster. Already canonical.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+  ],
+  "record_type": "dna_match",
+  "priority": "low"
 }

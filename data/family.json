@@ -1,7 +1,9 @@
 {
  "meta": {
-  "generated": "2026-09-22T23:24:20.784Z",
+  "generated": "2026-09-22T23:26:35.509Z",
   "people": 268,
+  "family_members": 217,
+  "dna_matches": 51,
   "connected_people": 215,
   "families": 78,
   "branches": [
@@ -196,6 +198,8 @@
    ],
    "parent_family": "F_adams_john_wesley+vantine_mary_frances",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Colorado",
@@ -274,6 +278,8 @@
    ],
    "parent_family": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Jefferson County, VA",
     "Franklin County, OH"
@@ -350,6 +356,8 @@
    ],
    "parent_family": "F_adams_george_francis_1+lane_cynthia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Kansas City, MO"
@@ -426,6 +434,8 @@
    "families": [],
    "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Mendon, Chariton County, MO",
     "Kansas City, MO"
@@ -493,6 +503,8 @@
    ],
    "parent_family": "F_adams_george_francis_2+trumbo_serena_marie",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Oregon"
    ],
@@ -576,6 +588,8 @@
    ],
    "parent_family": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Jefferson County, VA",
     "Chariton County, MO",
@@ -672,6 +686,8 @@
    ],
    "parent_family": "F_adams_john_wesley+vantine_mary_frances",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Denver, CO",
@@ -758,6 +774,8 @@
    ],
    "parent_family": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Jefferson County, VA",
     "Licking County, OH"
@@ -824,6 +842,8 @@
    "families": [],
    "parent_family": "F_adams_george_francis_1+lane_cynthia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Douglas County, CO"
@@ -882,6 +902,8 @@
    "families": [],
    "parent_family": "F_adams_alexander_william_col+ashby_unknown",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO"
    ],
@@ -951,6 +973,8 @@
    ],
    "parent_family": "F_adams_george_francis_1+lane_cynthia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Castle Rock, CO"
@@ -1028,6 +1052,8 @@
    ],
    "parent_family": "F_adams_george_francis_1+lane_cynthia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Denver, CO",
@@ -1122,6 +1148,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Scotland",
     "Harpers Ferry, VA (now WV)",
@@ -1212,6 +1240,8 @@
    ],
    "parent_family": "F_adams_george_francis_1+lane_cynthia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Plum Creek, Douglas County, CO",
@@ -1286,6 +1316,8 @@
    ],
    "parent_family": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Jefferson County, VA",
     "Union Township, Licking County, OH"
@@ -1356,6 +1388,8 @@
    ],
    "parent_family": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Jefferson County, VA",
     "Franklin County, OH"
@@ -1425,6 +1459,8 @@
    ],
    "parent_family": "F_adams_george_francis_1+lane_cynthia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO",
     "Denver, CO"
@@ -1489,6 +1525,8 @@
    "families": [],
    "parent_family": "F_adams_george_francis_2+trumbo_serena_marie",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Sutherlin, OR",
     "Gardnerville, NV"
@@ -1553,6 +1591,8 @@
    "families": [],
    "parent_family": "F_camille_remy+ivo_john_obad",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -1615,6 +1655,8 @@
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -1674,6 +1716,8 @@
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Moscow, ID",
     "Boise, ID"
@@ -1740,6 +1784,8 @@
    "families": [],
    "parent_family": "F_adams_alberta+allen_george_julius",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Marceline, MO",
     "Amarillo, TX",
@@ -1809,6 +1855,8 @@
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -1870,6 +1918,8 @@
    ],
    "parent_family": "F_adams_alberta+allen_george_julius",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Marceline, MO",
     "St. Louis, MO",
@@ -1944,6 +1994,8 @@
    ],
    "parent_family": "F_allen_george_philip",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Waukegan, IL",
     "Sioux Falls, SD",
@@ -2024,6 +2076,8 @@
    ],
    "parent_family": "F_allen_george_philemon+spring_juliaetta",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Brockport, NY",
     "Ottawa, KS",
@@ -2091,6 +2145,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2158,6 +2214,8 @@
    ],
    "parent_family": "F_adams_alberta+allen_george_julius",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Marceline, MO",
     "Killingholme, England",
@@ -2232,6 +2290,8 @@
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Prescott, AZ",
     "Berkeley, CA"
@@ -2304,6 +2364,8 @@
    ],
    "parent_family": "F_adams_alberta+allen_george_julius",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Marceline, MO",
     "Southington, CT",
@@ -2371,6 +2433,8 @@
    ],
    "parent_family": "F_allen_george_philip",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Pueblo, CO"
    ],
@@ -2440,6 +2504,8 @@
    ],
    "parent_family": "F_adams_alberta+allen_george_julius",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Marceline, MO",
     "Portland, OR",
@@ -2510,6 +2576,8 @@
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2569,6 +2637,8 @@
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2628,6 +2698,8 @@
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2683,6 +2755,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2735,6 +2809,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2786,6 +2862,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2833,6 +2911,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -2848,7 +2928,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster."
+    "Simons extended cluster.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -2898,6 +2979,8 @@
    ],
    "parent_family": "F_charles_buckey_mckeldin+emily_schrieffer_mckeldin",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "St. Dominic’s School",
     "Mercy High",
@@ -3794,6 +3877,8 @@
    ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Lynden, WA",
     "Milton, OR",
@@ -3890,6 +3975,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -3905,7 +3992,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #27. Unplaced."
+    "DNA match #27. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -3960,6 +4048,8 @@
    ],
    "parent_family": "F_barbara_mckeldin_adams+john_howard_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Oak Harbor, WA",
     "Port Townsend, WA",
@@ -4061,6 +4151,8 @@
    ],
    "parent_family": "F_barbara_mckeldin_adams+john_howard_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Meridian, MS",
     "Oak Harbor, WA",
@@ -4142,6 +4234,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Louisiana",
     "Sacramento, CA"
@@ -4194,6 +4288,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4209,7 +4305,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster, beyond top-50."
+    "Simons extended cluster, beyond top-50.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -4261,6 +4358,8 @@
    ],
    "parent_family": "F_gertrude_adams_remy+michael_remy",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Loomis, CA",
     "Fair Oaks, CA",
@@ -4321,6 +4420,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4336,7 +4437,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #48. Unplaced."
+    "DNA match #48. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -4388,6 +4490,8 @@
    ],
    "parent_family": "F_emma_bell_mckeldin+mckeldin_charles_i",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -4467,6 +4571,8 @@
    "families": [],
    "parent_family": "F_chuck_mckeldin+michelle_mckeldin",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4518,6 +4624,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4563,6 +4671,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4581,7 +4691,8 @@
    ],
    "notes": [
     "DNA match profile only. No lineage details provided.",
-    "Simons branch confirmed."
+    "Simons branch confirmed.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -4613,6 +4724,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4628,7 +4741,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster."
+    "Simons extended cluster.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -4664,6 +4778,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4720,6 +4836,8 @@
    "families": [],
    "parent_family": "F_j_michael_mckeldin+shelly_mckeldin",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4779,6 +4897,8 @@
    "families": [],
    "parent_family": "F_gertrude_adams_remy+michael_remy",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Fair Oaks, CA"
    ],
@@ -4853,6 +4973,8 @@
    ],
    "parent_family": "F_charles_buckey_mckeldin+emily_schrieffer_mckeldin",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Ocean City MD",
     "Ocean City",
@@ -4953,6 +5075,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -4968,7 +5092,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #30 on Simons branch."
+    "DNA match #30 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -5003,6 +5128,8 @@
    "families": [],
    "parent_family": "F_clark_ephraim+vantine_mary_frances",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Chariton County, MO"
    ],
@@ -5062,6 +5189,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5115,6 +5244,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Montgomery County, PA"
    ],
@@ -5170,6 +5301,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Somerset, PA"
    ],
@@ -5219,6 +5352,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5234,7 +5369,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #42. Unplaced."
+    "DNA match #42. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -5272,6 +5408,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5329,6 +5467,8 @@
    ],
    "parent_family": "F_genevieve_mildred_smith+louis_russell_smith",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Pierce County, WA",
     "Tacoma, WA"
@@ -5385,6 +5525,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5400,7 +5542,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #9 on Schriefer branch."
+    "DNA match #9 on Schriefer branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -5432,6 +5575,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5450,7 +5595,8 @@
    ],
    "notes": [
     "DNA profile only. Simons branch — Glen Simons' niece, 1C1R.",
-    "Simons branch. True relationship: 1C1R."
+    "Simons branch. True relationship: 1C1R.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -5482,6 +5628,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5497,7 +5645,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #6 on Simons branch."
+    "DNA match #6 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -5533,6 +5682,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5590,6 +5741,8 @@
    "families": [],
    "parent_family": "F_geoffrey_louis_adams+nicole_adawn_della_selva",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5652,6 +5805,8 @@
    ],
    "parent_family": "F_ethel_quinn_schriefer+schriefer_george_goode",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Charlottesville, VA",
     "Baltimore, MD"
@@ -5735,6 +5890,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -5812,6 +5969,8 @@
    "families": [],
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Washington",
     "Boise State University, ID"
@@ -5879,6 +6038,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Nicklas Avenue",
     "Washington D.C.",
@@ -5944,6 +6105,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -5959,7 +6122,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster."
+    "Simons extended cluster.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -6003,6 +6167,8 @@
    "families": [],
    "parent_family": "F_geoffrey_louis_adams+nicole_adawn_della_selva",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -6051,6 +6217,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -6066,7 +6234,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #45. Unplaced."
+    "DNA match #45. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -6104,6 +6273,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Germantown, PA"
    ],
@@ -6167,6 +6338,8 @@
    "families": [],
    "parent_family": "F_camille_remy+ivo_john_obad",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -6233,6 +6406,8 @@
    "families": [],
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Vancouver, WA"
    ],
@@ -6309,6 +6484,8 @@
    "families": [],
    "parent_family": "F_brendan_mckeldin_adams+megan_marie_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Enoch Pratt",
     "Denver, CO"
@@ -6387,6 +6564,8 @@
    "families": [],
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Washington"
    ],
@@ -6449,6 +6628,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -6516,6 +6697,8 @@
    ],
    "parent_family": "F_cynthia_gail_smith+george_francis_adams_jr",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Honolulu, HI"
    ],
@@ -6587,6 +6770,8 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -6658,6 +6843,8 @@
    ],
    "parent_family": "F_cynthia_gail_smith+george_francis_adams_jr",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Milton, FL"
    ],
@@ -6735,6 +6922,8 @@
    ],
    "parent_family": "F_beryl_simons_adams+george_francis_adams_sr",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Annapolis, MD",
     "Pierce County, WA",
@@ -6826,6 +7015,8 @@
    ],
    "parent_family": "F_adams_george_francis_2+trumbo_serena_marie",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Sutherlin, OR",
     "Burlingame, CA",
@@ -6948,6 +7139,8 @@
    ],
    "parent_family": "F_beryl_simons_adams+george_francis_adams_sr",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Loomis, CA",
     "Battle Creek, MI",
@@ -7022,6 +7215,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7037,7 +7232,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #17 on Simons branch."
+    "DNA match #17 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -7073,6 +7269,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Licking County, OH"
    ],
@@ -7126,6 +7324,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7141,7 +7341,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #32. Unplaced."
+    "DNA match #32. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -7185,6 +7386,8 @@
    ],
    "parent_family": "F_zacher_kimberly_lynn",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Richland, WA",
     "Everett, WA"
@@ -7249,6 +7452,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7315,6 +7520,8 @@
    ],
    "parent_family": "F_grief_michael+vinzel_cunigunda",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -7383,6 +7590,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Bavaria, Germany",
     "Baltimore, MD"
@@ -7443,6 +7652,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7503,6 +7714,8 @@
    ],
    "parent_family": "F_hamilton_francis+hamilton_susan",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Jefferson County, VA",
     "Union Township, Licking County, OH"
@@ -7564,6 +7777,8 @@
    ],
    "parent_family": "F_hamilton_john_of_kype+young_jacobina",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Mauchline, Ayrshire, Scotland",
     "Jefferson County, VA"
@@ -7627,6 +7842,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Scotland"
    ],
@@ -7692,6 +7909,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Jefferson County, VA"
    ],
@@ -7741,6 +7960,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7756,7 +7977,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster."
+    "Simons extended cluster.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -7788,6 +8010,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7803,7 +8027,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #46. Unplaced."
+    "DNA match #46. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -7835,6 +8060,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7850,7 +8077,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #11 on Simons branch."
+    "DNA match #11 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -7882,6 +8110,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -7897,7 +8127,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #21. Unplaced."
+    "DNA match #21. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -7939,6 +8170,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Calaveras County"
    ],
@@ -8005,6 +8238,8 @@
    ],
    "parent_family": "F_charles_buckey_mckeldin+margaret_peggy_mckeldin",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Ocean City",
     "Chesapeake Bay",
@@ -8088,6 +8323,8 @@
    "families": [],
    "parent_family": "F_j_michael_mckeldin+shelly_mckeldin",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8144,6 +8381,8 @@
    "families": [],
    "parent_family": "F_chuck_mckeldin+michelle_mckeldin",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8212,6 +8451,8 @@
    ],
    "parent_family": "F_beryl_simons_adams+george_francis_adams_sr",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Milton FL",
     "Pen Bay Labs",
@@ -8496,6 +8737,8 @@
    "families": [],
    "parent_family": "F_goodman_amber+jorgensen_dan",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8548,6 +8791,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8601,6 +8846,8 @@
    "families": [],
    "parent_family": "F_goodman_amber+jorgensen_dan",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8650,6 +8897,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Milwaukee, WI",
     "Rock Ridge, CO",
@@ -8705,6 +8954,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8720,7 +8971,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #44. Unplaced."
+    "DNA match #44. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -8752,6 +9004,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8770,7 +9024,8 @@
    ],
    "notes": [
     "DNA profile only. Simons branch — Glen Simons' great-niece.",
-    "Simons branch confirmed via Glen's RIC."
+    "Simons branch confirmed via Glen's RIC.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -8806,6 +9061,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -8859,6 +9116,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Wolfsheim, Baden, Germany",
     "Palatinate, Germany"
@@ -8923,6 +9182,8 @@
    ],
    "parent_family": "F_kolb_dielman_edward+schumacher_agnes",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baden, Germany",
     "Germantown, PA"
@@ -8988,6 +9249,8 @@
    ],
    "parent_family": "F_kolb_peter+oberholtzer_elizabeth",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Kulpsville, Montgomery County, PA"
    ],
@@ -9050,6 +9313,8 @@
    ],
    "parent_family": "F_fretz_barbara+kolb_henry",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Bebberstown, Montgomery County, PA"
    ],
@@ -9106,6 +9371,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -9160,6 +9427,8 @@
    ],
    "parent_family": "F_clemens_mary_bachman+kolb_jacob_oberholtzer",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Towamencin, Montgomery County, PA",
     "Lycoming, PA"
@@ -9226,6 +9495,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -9288,6 +9559,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -9342,6 +9615,8 @@
    "families": [],
    "parent_family": "F_kulp_spencer_ritchey",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -9393,6 +9668,8 @@
    "families": [],
    "parent_family": "F_kulp_spencer_ritchey",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -9453,6 +9730,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -9527,6 +9806,8 @@
    ],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Delta Township, WA",
     "Lynden, WA",
@@ -9600,6 +9881,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -9670,6 +9953,8 @@
    ],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Lynden, WA",
     "Pasco, WA"
@@ -9734,6 +10019,8 @@
    ],
    "parent_family": "F_kulp_abraham_clemens",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Kulpsville, PA",
     "Elk City, Clarion County, PA",
@@ -9802,6 +10089,8 @@
    ],
    "parent_family": "F_kulp_elmer_spencer+ritchey_amy",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Pasco, WA"
    ],
@@ -9882,6 +10171,8 @@
    ],
    "parent_family": "F_kulp_michael_nicholas+vancel_sarah",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Stouts Grove, IL",
     "Delta Township, WA",
@@ -9963,6 +10254,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10021,6 +10314,8 @@
    ],
    "parent_family": "F_confer_maria_catharina+kulp_ephraim",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Oil City, PA",
     "Orting, WA"
@@ -10103,6 +10398,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10165,6 +10462,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10228,6 +10527,8 @@
    "families": [],
    "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10289,6 +10590,8 @@
    ],
    "parent_family": "F_kulp_elmer_spencer+ritchey_amy",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Lynden, WA",
     "Pasco, WA"
@@ -10353,6 +10656,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Kentucky",
     "Chariton County, MO"
@@ -10423,6 +10728,8 @@
    "families": [],
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Washington"
    ],
@@ -10489,6 +10796,8 @@
    "families": [],
    "parent_family": "F_emma_bell_mckeldin+mckeldin_charles_i",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10543,6 +10852,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10598,6 +10909,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10660,6 +10973,8 @@
    ],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -10740,6 +11055,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10806,6 +11123,8 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10867,6 +11186,8 @@
    "families": [],
    "parent_family": "F_camille_remy+ivo_john_obad",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10915,6 +11236,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -10930,7 +11253,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #26 on Simons branch."
+    "DNA match #26 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -10979,6 +11303,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11052,6 +11378,8 @@
    ],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11117,6 +11445,8 @@
    "families": [],
    "parent_family": "F_manzer_honolulu_claire+mckeldin_theodore_roosevelt",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11176,6 +11506,8 @@
    "families": [],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11240,6 +11572,8 @@
    ],
    "parent_family": "F_mckeldin_joseph+sinclair_mary",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11308,6 +11642,8 @@
    "families": [],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11372,6 +11708,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11450,6 +11788,8 @@
    ],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11530,6 +11870,8 @@
    "families": [],
    "parent_family": "F_mckeldin_john",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11596,6 +11938,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11666,6 +12010,8 @@
    ],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11724,6 +12070,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Ireland",
     "Baltimore, MD"
@@ -11792,6 +12140,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11859,6 +12209,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11920,6 +12272,8 @@
    "families": [],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -11984,6 +12338,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -12045,6 +12401,8 @@
    "families": [],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -12104,6 +12462,8 @@
    "families": [],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -12159,6 +12519,8 @@
    "families": [],
    "parent_family": "F_manzer_honolulu_claire+mckeldin_theodore_roosevelt",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -12232,6 +12594,8 @@
    ],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD",
     "Annapolis, MD"
@@ -12354,6 +12718,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -12420,6 +12786,8 @@
    "families": [],
    "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -12485,6 +12853,8 @@
    "families": [],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -12533,6 +12903,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -12551,7 +12923,8 @@
    ],
    "notes": [
     "DNA profile only. Simons/McPhail branch, 4th cousin.",
-    "Simons branch extended cluster. Already canonical."
+    "Simons branch extended cluster. Already canonical.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -12600,6 +12973,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Nashville, TN",
     "Albion, WA",
@@ -12664,6 +13039,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Denver, CO"
    ],
@@ -12729,6 +13106,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Loomis, CA",
     "Posen, Poland",
@@ -12802,6 +13181,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -12857,6 +13238,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -12903,6 +13286,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -12918,7 +13303,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #10. Unplaced."
+    "DNA match #10. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -12950,6 +13336,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -12965,7 +13353,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #23. Possibly Adams-Trumbo branch or Simons — unconfirmed."
+    "DNA match #23. Possibly Adams-Trumbo branch or Simons — unconfirmed.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -12997,6 +13386,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13012,7 +13403,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #35. Unplaced."
+    "DNA match #35. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -13044,6 +13436,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13059,7 +13453,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #16. Unplaced."
+    "DNA match #16. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -13095,6 +13490,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13140,6 +13537,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13155,7 +13554,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #33 on Schriefer branch."
+    "DNA match #33 on Schriefer branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -13194,6 +13594,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13248,6 +13650,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Montgomery County, PA"
    ],
@@ -13313,6 +13717,8 @@
    "families": [],
    "parent_family": "F_brendan_mckeldin_adams+megan_marie_adams",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Enoch Pratt",
     "Denver, CO"
@@ -13371,6 +13777,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13389,7 +13797,8 @@
    ],
    "notes": [
     "DNA match profile only. No lineage details provided.",
-    "McKeldin branch CONFIRMED. Priority contact for unlocking Charles McKeldin's parents and siblings."
+    "McKeldin branch CONFIRMED. Priority contact for unlocking Charles McKeldin's parents and siblings.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -13425,6 +13834,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13475,6 +13886,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13490,7 +13903,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #38. Unplaced."
+    "DNA match #38. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -13526,6 +13940,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -13577,6 +13993,8 @@
    ],
    "parent_family": "F_pugh_alexander",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Louden County, VA",
     "Missouri",
@@ -13637,6 +14055,8 @@
    "families": [],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -13706,6 +14126,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD",
     "Nicklas Avenue, Baltimore"
@@ -13792,6 +14214,8 @@
    "families": [],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -13854,6 +14278,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD",
     "Nicklas Avenue, Baltimore"
@@ -13962,6 +14388,8 @@
    "families": [],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -14015,6 +14443,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14030,7 +14460,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #36 on Simons branch. Hypothesis corrected."
+    "DNA match #36 on Simons branch. Hypothesis corrected.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14062,6 +14493,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14077,7 +14510,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #41. Unplaced."
+    "DNA match #41. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14109,6 +14543,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14124,7 +14560,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #18 on Schriefer branch."
+    "DNA match #18 on Schriefer branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14163,6 +14600,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Lynden, WA",
     "Bellingham, WA"
@@ -14223,6 +14662,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14241,7 +14682,8 @@
    ],
    "notes": [
     "DNA profile only. McKeldin branch, 3rd cousin.",
-    "McKeldin branch CONFIRMED."
+    "McKeldin branch CONFIRMED.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14277,6 +14719,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14322,6 +14766,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14337,7 +14783,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #22 on Simons branch."
+    "DNA match #22 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14384,6 +14831,8 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14446,6 +14895,8 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14493,6 +14944,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14508,7 +14961,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #24. Unplaced."
+    "DNA match #24. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14548,6 +15002,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Baltimore, MD"
    ],
@@ -14605,6 +15061,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [
     "Baltimore area (assumed)"
    ],
@@ -14625,7 +15083,8 @@
    ],
    "notes": [
     "DNA match profile only. Likely descended from Kenneth or George Schriefer Jr.",
-    "Schriefer branch anchor. Recommended contact for opening up the Schriefer line."
+    "Schriefer branch anchor. Recommended contact for opening up the Schriefer line.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14663,6 +15122,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Wolfsheim, Germany"
    ],
@@ -14712,6 +15173,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14727,7 +15190,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster."
+    "Simons extended cluster.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -14767,6 +15231,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14822,6 +15288,8 @@
    "families": [],
    "parent_family": "F_allen_margaret_jeanice+seavy_jack_frederick",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14877,6 +15345,8 @@
    "families": [],
    "parent_family": "F_allen_margaret_jeanice+seavy_jack_frederick",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14932,6 +15402,8 @@
    "families": [],
    "parent_family": "F_allen_margaret_jeanice+seavy_jack_frederick",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -14989,6 +15461,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Germany",
     "Baltimore, MD"
@@ -15046,6 +15520,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15100,6 +15576,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Ohio",
     "Covert Township, MI",
@@ -15166,6 +15644,8 @@
    "families": [],
    "parent_family": "F_simons_glen",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Washington"
    ],
@@ -15232,6 +15712,8 @@
    ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Washington"
    ],
@@ -15293,6 +15775,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Canada",
     "Michigan",
@@ -15363,6 +15847,8 @@
    "families": [],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15420,6 +15906,8 @@
    "families": [],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15479,6 +15967,8 @@
    ],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "South Haven, MI",
     "Milton, OR",
@@ -15567,6 +16057,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15612,6 +16104,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15627,7 +16121,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #14. Unplaced."
+    "DNA match #14. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -15659,6 +16154,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15674,7 +16171,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #31. Unplaced."
+    "DNA match #31. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -15710,6 +16208,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15759,6 +16259,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15810,6 +16312,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15855,6 +16359,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15870,7 +16376,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster."
+    "Simons extended cluster.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -15902,6 +16409,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15917,7 +16426,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #19 on Schriefer branch."
+    "DNA match #19 on Schriefer branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -15949,6 +16459,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -15964,7 +16476,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #15 on Schriefer branch."
+    "DNA match #15 on Schriefer branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -15996,6 +16509,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16011,7 +16526,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #50. Unplaced."
+    "DNA match #50. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -16043,6 +16559,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16094,6 +16612,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Franklin County, OH",
     "Licking County, OH"
@@ -16163,6 +16683,8 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16210,6 +16732,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16225,7 +16749,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #8. Highest-shared-DNA match on Adams-Trumbo branch."
+    "DNA match #8. Highest-shared-DNA match on Adams-Trumbo branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -16265,6 +16790,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Kentucky",
     "Lewis County, WA"
@@ -16332,6 +16859,8 @@
    ],
    "parent_family": "F_buckley_hannah_louise+trumbo_presley_neville",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Dryad, WA",
     "Sutherlin, OR",
@@ -16412,6 +16941,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16463,6 +16994,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Illinois",
     "Pennsylvania"
@@ -16526,6 +17059,8 @@
    ],
    "parent_family": "F_crook_mary+van_tine_abraham",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "New York, NY",
     "Chariton County, MO"
@@ -16586,6 +17121,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Bavaria, Germany",
     "Baltimore, MD"
@@ -16638,6 +17175,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16653,7 +17192,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #47. Unplaced."
+    "DNA match #47. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -16685,6 +17225,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16700,7 +17242,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #43 on Simons branch."
+    "DNA match #43 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -16738,6 +17281,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "San Francisco, CA"
    ],
@@ -16798,6 +17343,8 @@
    "families": [],
    "parent_family": "F_trumbo_serena_marie+wells_arthur",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "San Francisco, CA"
    ],
@@ -16860,6 +17407,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Sioux Falls, SD",
     "Santa Barbara, CA"
@@ -16916,6 +17465,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -16965,6 +17516,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17010,6 +17563,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17025,7 +17580,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #49. Unplaced."
+    "DNA match #49. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -17057,6 +17613,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17072,7 +17630,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #7 on Simons branch."
+    "DNA match #7 on Simons branch.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -17104,6 +17663,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17119,7 +17680,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "DNA match #20. Unplaced."
+    "DNA match #20. Unplaced.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -17151,6 +17713,8 @@
    "families": [],
    "parent_family": null,
    "connected": false,
+   "dna_match": true,
+   "priority": "low",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17166,7 +17730,8 @@
     "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Simons extended cluster."
+    "Simons extended cluster.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
   },
   {
@@ -17204,6 +17769,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Scotland"
    ],
@@ -17261,6 +17828,8 @@
    "families": [],
    "parent_family": "F_goodman_craig+zacher_kimberly_lynn",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17316,6 +17885,8 @@
    "families": [],
    "parent_family": "F_goodman_craig+zacher_kimberly_lynn",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17369,6 +17940,8 @@
    ],
    "parent_family": null,
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17419,6 +17992,8 @@
    "families": [],
    "parent_family": "F_zacher_kenneth_donald",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17474,6 +18049,8 @@
    "families": [],
    "parent_family": "F_goodman_craig+zacher_kimberly_lynn",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17532,6 +18109,8 @@
    ],
    "parent_family": "F_kulp_irmagene+zacher_donald_adam",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Richland, WA",
     "Kennewick, WA"
@@ -17604,6 +18183,8 @@
    ],
    "parent_family": "F_kulp_irmagene+zacher_donald_adam",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Richland, WA",
     "Kennewick, WA"
@@ -17671,6 +18252,8 @@
    ],
    "parent_family": "F_kulp_irmagene+zacher_donald_adam",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [
     "Richland, WA",
     "Pasco, WA"
@@ -17730,6 +18313,8 @@
    "families": [],
    "parent_family": "F_zacher_kippy_amy",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17782,6 +18367,8 @@
    "families": [],
    "parent_family": "F_zacher_kippy_amy",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],
@@ -17837,6 +18424,8 @@
    "families": [],
    "parent_family": "F_goodman_craig+zacher_kimberly_lynn",
    "connected": true,
+   "dna_match": false,
+   "priority": "normal",
    "locations": [],
    "personality": [],
    "roles": [],

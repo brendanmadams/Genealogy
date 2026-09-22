@@ -27,7 +27,10 @@
     "adams_dna_linkage_v1"
   ],
   "notes": [
-    "DNA profile only. Simons branch \u2014 Glen Simons' great-niece.",
-    "Simons branch confirmed via Glen's RIC."
-  ]
+    "DNA profile only. Simons branch — Glen Simons' great-niece.",
+    "Simons branch confirmed via Glen's RIC.",
+    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+  ],
+  "record_type": "dna_match",
+  "priority": "low"
 }
