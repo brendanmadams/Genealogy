@@ -227,6 +227,11 @@ function primaryBranch(id, trail = new Set()) {
 for (const id of people.keys()) primaryBranch(id);
 
 // ── Assemble output ────────────────────────────────────────────────────────
+// Photos: images/<id>.jpg, listed so the site never probes for missing files.
+const IMG_DIR = path.join(ROOT, 'images');
+const photos = new Set(fs.existsSync(IMG_DIR) ? fs.readdirSync(IMG_DIR).filter(f => /\.jpe?g$/i.test(f)).map(f => f.replace(/\.jpe?g$/i, '')) : []);
+for (const id of photos) if (!people.has(id)) warn(`images/${id}.jpg matches no person`);
+
 const connectedIds = new Set();
 for (const f of families.values()) for (const id of [...f.partners, ...f.children]) connectedIds.add(id);
 
@@ -241,6 +246,7 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     id: p.id,
     name: p.name,
     aliases: p.aliases || [],
+    photo: photos.has(p.id) ? `images/${p.id}.jpg` : null,
     birth: d.birth, death: d.death,
     living: !d.death.text && (d.birth.year ? d.birth.year > new Date().getFullYear() - 100 : false),
     branch: pb ? pb.key : OTHER.key,
