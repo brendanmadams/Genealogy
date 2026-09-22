@@ -31,6 +31,21 @@
       <svg id="svg" class="hidden" role="img" aria-label="Family tree around the selected person">
         <defs></defs>
       </svg>
+      <div class="view-bar" id="view-bar" hidden>
+        <div class="seg" role="tablist" aria-label="Chart type">
+          <button role="tab" data-view="family" id="tab-family">Family</button>
+          <button role="tab" data-view="ancestors" id="tab-ancestors">Ancestors</button>
+        </div>
+        <div class="gen-ctl" id="gen-ctl" hidden>
+          <span class="gen-label">Generations</span>
+          <button id="gen-less" aria-label="Fewer generations">−</button>
+          <span id="gen-count">4</span>
+          <button id="gen-more" aria-label="More generations">+</button>
+          <button id="gen-all" class="text">All <span id="gen-max"></span></button>
+          <button id="btn-print" class="text" title="Print this chart">Print</button>
+        </div>
+      </div>
+      <div class="print-title" id="print-title"></div>
       <div class="legend">
         <span><i></i>parent → child</span>
         <span><i class="dashed"></i>half sibling</span>

@@ -84,7 +84,7 @@ function searchText(p) {
 
 /** Surname-first key: "Alberta Adams (Allen)" → "adams alberta". */
 export function sortName(p) {
-  const base = p.name.replace(/\s*\(.*?\)\s*/g, ' ').replace(/,?\s+(Jr\.?|Sr\.?|II|III|IV|#\d+)(?=\s|$)/g, '').trim();
+  const base = p.name.replace(/\s*\(.*?\)\s*/g, ' ').replace(/,?\s+(Jr\.?|Sr\.?|I|II|III|IV|#\d+)(?=\s|$)/g, '').trim();
   const parts = base.split(/\s+/).filter(w => !/^(col|dr|rev|mrs|mr)\.?$/i.test(w));
   if (parts.length < 2) return base.toLowerCase();
   return (parts[parts.length - 1] + ' ' + parts.slice(0, -1).join(' ')).toLowerCase();

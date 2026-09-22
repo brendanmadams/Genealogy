@@ -208,3 +208,56 @@ body:not(.has-panel) #panel { display: none; }
   .v-frame { grid-template-columns: 1fr; grid-template-rows: 1fr auto; border-radius: 0; height: 100%; }
   .v-info { max-height: 40vh; }
 }
+
+/* ── Chart switcher ─────────────────────────────────────────────────────── */
+.view-bar { position: absolute; top: 14px; left: 16px; right: 16px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; pointer-events: none; z-index: 5; }
+.view-bar[hidden] { display: none; }
+.view-bar > * { pointer-events: auto; }
+.seg { display: inline-flex; padding: 3px; border-radius: 10px; background: var(--bg-3); border: 1px solid var(--line); }
+.seg button { height: 30px; padding: 0 14px; border: 0; border-radius: 7px; background: transparent; color: var(--text-2); font-size: 13px; }
+.seg button[aria-selected="true"] { background: var(--card-hover); color: var(--text); box-shadow: inset 0 0 0 1px var(--line-strong); }
+.gen-ctl { display: inline-flex; align-items: center; gap: 4px; padding: 3px 6px; border-radius: 10px; background: var(--bg-3); border: 1px solid var(--line); font-size: 13px; color: var(--text-2); }
+.gen-ctl[hidden] { display: none; }
+.gen-ctl .gen-label { padding: 0 6px; color: var(--muted); }
+.gen-ctl button { min-width: 30px; height: 30px; border: 0; border-radius: 7px; background: transparent; color: var(--text); font-size: 15px; }
+.gen-ctl button.text { font-size: 13px; padding: 0 10px; color: var(--text-2); white-space: nowrap; }
+.gen-ctl, .seg { white-space: nowrap; }
+.gen-ctl button:hover:not(:disabled) { background: var(--card-hover); }
+.gen-ctl button:disabled { opacity: .35; cursor: default; }
+#gen-count { min-width: 20px; text-align: center; font-weight: 600; color: var(--text); }
+#gen-max { color: var(--muted); }
+body[data-view="ancestors"] .legend { display: none; }
+#canvas.empty-chart::after { content: 'No parents are recorded for this person yet.'; position: absolute; inset: 0; display: grid; place-items: center; color: var(--muted); font-size: 14px; pointer-events: none; }
+.print-title { display: none; }
+
+/* pedigree marks */
+.links .col-label { fill: var(--muted); font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
+.card .ahnen { fill: var(--muted); font-size: 10px; font-variant-numeric: tabular-nums; }
+.card.role-unknown .body { fill: transparent; stroke: var(--line-strong); stroke-dasharray: 5 4; }
+.card.role-unknown { cursor: default; }
+.card .unknown-label { fill: var(--muted); font-size: 12px; font-style: italic; }
+.card.role-repeat .body { stroke-dasharray: 3 3; }
+.card .more { fill: none; stroke: var(--branch); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; opacity: .8; }
+
+@media (max-width: 900px) {
+  .view-bar { top: 10px; left: 10px; right: 10px; }
+  .gen-ctl .gen-label { display: none; }
+}
+
+/* ── Print (pedigree and family charts) ─────────────────────────────────── */
+@media print {
+  @page { size: landscape; margin: 10mm; }
+  :root { --bg: #fff; --bg-2: #fff; --bg-3: #fff; --card: #fff; --card-hover: #fff; --text: #111; --text-2: #333; --muted: #666; --line: #bbb; --line-strong: #888; color-scheme: light; }
+  html, body { height: auto; overflow: visible; background: #fff; }
+  #hdr, #dir, #panel, .view-bar, .zoom-ctl, .legend, #landing, #viewer { display: none !important; }
+  #app, #main { display: block; height: auto; }
+  #canvas { background: #fff; height: auto; }
+  .print-title { display: block; margin-bottom: 6mm; }
+  .print-title h1 { font-size: 18pt; }
+  .print-title p { margin: 2pt 0 0; color: #555; font-size: 10pt; }
+  #svg { width: 100%; height: 170mm; }
+  .card .body { stroke: #999; }
+  .card .avatar { fill: #fff; }
+  .card .focus-ring { display: none; }
+  .card .living { display: none; }
+}

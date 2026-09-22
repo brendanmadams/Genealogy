@@ -1,6 +1,7 @@
 // App shell: routing, focus state, search, landing page.
 import { loadFamily, lifespan, byBirth } from './data.js';
 import { layoutFocus } from './layout.js';
+import { layoutPedigree } from './pedigree.js';
 import { Renderer } from './render.js';
 import { renderPanel } from './panel.js';
 import { Sidebar } from './sidebar.js';
@@ -33,16 +34,26 @@ async function main() {
   route();
 }
 
-// ── Routing: #/p/<id> ────────────────────────────────────────────────────────
+// ── Routing: #/p/<id>  |  #/p/<id>/ancestors[/<generations>] ─────────────────
+let view = 'family';
+let generations = 4;
+
 function route() {
-  const m = location.hash.match(/^#\/p\/([\w-]+)/);
+  const m = location.hash.match(/^#\/p\/([\w-]+)(?:\/(ancestors)(?:\/(\d+|all))?)?/);
   const id = m && D.person(m[1]) ? m[1] : null;
   if (!id) return showLanding();
+  view = m[2] ? 'ancestors' : 'family';
+  if (m[3]) generations = m[3] === 'all' ? 99 : Math.max(1, Math.min(99, Number(m[3])));
   showPerson(id);
 }
-function focus(id) {
+function hashFor(id, v = view, g = generations) {
+  if (v === 'family') return `#/p/${id}`;
+  return `#/p/${id}/ancestors/${g >= 99 ? 'all' : g}`;
+}
+function focus(id, v = view) {
   if (!D.person(id)) return;
-  if (location.hash !== `#/p/${id}`) location.hash = `#/p/${id}`;   // triggers route()
+  const h = hashFor(id, v);
+  if (location.hash !== h) location.hash = h;   // triggers route()
   else showPerson(id);
 }
 
@@ -51,11 +62,33 @@ function showPerson(id) {
   const p = D.person(id);
   $('#landing').hidden = true;
   $('#svg').classList.remove('hidden');
-  renderer.draw(layoutFocus(D, p));
+  $('#view-bar').hidden = false;
+  $('#tab-family').setAttribute('aria-selected', view === 'family');
+  $('#tab-ancestors').setAttribute('aria-selected', view === 'ancestors');
+  document.body.dataset.view = view;
+  if (view === 'ancestors') {
+    const L = layoutPedigree(D, p, generations);
+    const max = L.depth;
+    $('#gen-ctl').hidden = false;
+    $('#gen-count').textContent = Math.min(generations, max) || 0;
+    $('#gen-max').textContent = max ? `(${max})` : '';
+    $('#gen-less').disabled = Math.min(generations, max) <= 1;
+    $('#gen-more').disabled = generations >= max;
+    $('#gen-all').disabled = generations >= max;
+    $('#print-title').innerHTML = `<h1>Ancestors of ${esc(p.name)}</h1><p>${esc(lifespan(p))}${lifespan(p) ? ' · ' : ''}${L.count} ancestors in ${L.shownDepth} generation${L.shownDepth === 1 ? '' : 's'} · printed ${new Date().toLocaleDateString()}</p>`;
+    renderer.draw(L);
+    if (!max) $('#print-title').innerHTML = '';
+    $('#canvas').classList.toggle('empty-chart', !max);
+  } else {
+    $('#gen-ctl').hidden = true;
+    $('#canvas').classList.remove('empty-chart');
+    renderer.draw(layoutFocus(D, p));
+  }
   renderPanel($('#panel'), D, p);
   // On wide screens the details panel opens automatically; wait for its column
   // to finish opening before fitting the tree into the remaining space.
-  const opening = !document.body.classList.contains('has-panel') && !matchMedia('(max-width: 900px)').matches;
+  // (The ancestor chart is wide, so it leaves the panel as the user set it.)
+  const opening = view === 'family' && !document.body.classList.contains('has-panel') && !matchMedia('(max-width: 900px)').matches;
   if (opening) document.body.classList.add('has-panel');
   setTimeout(() => renderer.fit(true), opening ? 280 : 0);
   sidebar.setFocus(id);
@@ -65,6 +98,7 @@ function showPerson(id) {
 
 function showLanding() {
   focusId = null;
+  $('#view-bar').hidden = true;
   document.body.classList.remove('has-panel');
   $('#svg').classList.add('hidden');
   sidebar.setFocus(null);
@@ -78,7 +112,7 @@ function showLanding() {
   $('#landing').innerHTML = `
     <div class="landing-card">
       <h1>Adams · McKeldin Family Tree</h1>
-      <p class="lede">${D.meta.people} people across ${D.meta.families} families. Pick anyone to see their parents, grandparents, brothers and sisters, spouses, children and grandchildren. Click any card to move through the family.</p>
+      <p class="lede">${D.meta.people} people across ${D.meta.families} families. Pick anyone to see their parents, grandparents, brothers and sisters, spouses, children and grandchildren. Click any card to move through the family, or switch to <strong>Ancestors</strong> for a printable pedigree chart.</p>
       <div class="landing-search"><input id="landing-search" type="search" placeholder="Search for a name, place or year…" autocomplete="off" /><div class="dropdown" id="landing-results"></div></div>
       ${recent.length ? `<h3>Recently viewed</h3><div class="chips">${recent.map(chip).join('')}</div>` : ''}
       <h3>Start from the earliest known ancestors</h3>
@@ -97,6 +131,16 @@ function wireHeader() {
   $('#zoom-in').addEventListener('click', () => renderer.zoomBy(1.3));
   $('#zoom-out').addEventListener('click', () => renderer.zoomBy(1 / 1.3));
   $('#btn-dir').addEventListener('click', () => document.body.classList.toggle('dir-open'));
+  // chart type and generations
+  $('#tab-family').addEventListener('click', () => focusId && focus(focusId, 'family'));
+  $('#tab-ancestors').addEventListener('click', () => focusId && focus(focusId, 'ancestors'));
+  const setGen = g => { generations = g; location.hash = hashFor(focusId, 'ancestors', g); };
+  $('#gen-less').addEventListener('click', () => setGen(Math.max(1, Math.min(generations, Number($('#gen-count').textContent)) - 1)));
+  $('#gen-more').addEventListener('click', () => setGen(Math.min(99, Number($('#gen-count').textContent) + 1)));
+  $('#gen-all').addEventListener('click', () => setGen(99));
+  $('#btn-print').addEventListener('click', () => window.print());
+  window.addEventListener('beforeprint', () => renderer.printMode(true));
+  window.addEventListener('afterprint', () => renderer.printMode(false));
   $('#btn-panel').addEventListener('click', () => { document.body.classList.toggle('has-panel'); setTimeout(() => renderer.fit(true), 280); });
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') { document.body.classList.remove('dir-open'); closeDropdowns(); }

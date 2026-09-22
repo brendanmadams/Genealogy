@@ -63,7 +63,7 @@ function displaySurnameFirst(p) {
   const m = name.match(/^(.*?)\s*(\(.*\))$/);
   const core = (m ? m[1] : name).trim(), paren = m ? ' ' + m[2] : '';
   const parts = core.split(/\s+/);
-  const suffix = /^(Jr\.?|Sr\.?|II|III|IV|#\d+)$/.test(parts[parts.length - 1]) ? ' ' + parts.pop() : '';
+  const suffix = /^(Jr\.?|Sr\.?|I|II|III|IV|#\d+)$/.test(parts[parts.length - 1]) ? ' ' + parts.pop() : '';
   if (parts.length < 2) return core + paren;
   const last = parts.pop();
   return `${last}, ${parts.join(' ')}${suffix}${paren}`;
