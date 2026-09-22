@@ -7,14 +7,14 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "Arthur Wells' biological daughter (~same age as George Sr., so ~1916), who became George Sr.'s step-sister and his closest sibling-figure \u2014 raised essentially as his sister"
+    "Arthur Wells' biological daughter (~same age as George Sr., so ~1916), who became George Sr.'s step-sister and his closest sibling-figure — raised essentially as his sister"
   ],
   "risk_events": [],
   "milestones": [],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "trumbo_serena_marie",
     "father": "wells_arthur",
     "siblings": [],
     "spouse": "",
@@ -27,6 +27,7 @@
     "adams_direct_line_summary_v1"
   ],
   "notes": [
-    "Not a blood relative of Adams line. Step-sister of George Francis Adams Sr. Daughter of Arthur Wells."
+    "Not a blood relative of Adams line. Step-sister of George Francis Adams Sr. Daughter of Arthur Wells.",
+    "CORRECTION 2026-09-22: Mother set to trumbo_serena_marie, wife of Arthur Wells (confirmed by Brendan Adams). This makes Rosemary a half sister, not a step-sister, of George Francis Adams Sr."
   ]
 }

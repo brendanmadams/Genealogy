@@ -12,7 +12,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "shelly_mckeldin",
     "father": "j_michael_mckeldin",
     "siblings": [],
     "spouse": "",
@@ -38,6 +38,8 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
   ],
-  "notes": [],
+  "notes": [
+    "CORRECTION 2026-09-22: Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams)."
+  ],
   "aliases": []
 }

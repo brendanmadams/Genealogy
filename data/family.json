@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generated": "2026-09-22T22:51:15.180Z",
+  "generated": "2026-09-22T22:59:33.234Z",
   "people": 268,
   "connected_people": 215,
-  "families": 83,
+  "families": 79,
   "branches": [
    "adams",
    "hamilton",
@@ -4525,9 +4525,10 @@
     "schriefer"
    ],
    "father": "chuck_mckeldin",
-   "mother": null,
+   "mother": "michelle_mckeldin",
    "parents": [
-    "chuck_mckeldin"
+    "chuck_mckeldin",
+    "michelle_mckeldin"
    ],
    "spouses": [],
    "children": [],
@@ -4535,7 +4536,7 @@
     "jennifer_mckeldin"
    ],
    "families": [],
-   "parent_family": "F_chuck_mckeldin",
+   "parent_family": "F_chuck_mckeldin+michelle_mckeldin",
    "connected": true,
    "locations": [
     "Annapolis, MD",
@@ -4565,7 +4566,9 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams)."
+   ]
   },
   {
    "id": "charters_john_dixon",
@@ -4789,9 +4792,10 @@
     "quinn"
    ],
    "father": "j_michael_mckeldin",
-   "mother": null,
+   "mother": "shelly_mckeldin",
    "parents": [
-    "j_michael_mckeldin"
+    "j_michael_mckeldin",
+    "shelly_mckeldin"
    ],
    "spouses": [],
    "children": [],
@@ -4799,7 +4803,7 @@
     "jeffery_mckeldin"
    ],
    "families": [],
-   "parent_family": "F_j_michael_mckeldin",
+   "parent_family": "F_j_michael_mckeldin+shelly_mckeldin",
    "connected": true,
    "locations": [
     "Annapolis, MD",
@@ -4829,7 +4833,9 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams)."
+   ]
   },
   {
    "id": "christopher_jon_remy",
@@ -4954,8 +4960,7 @@
     "barbara_mckeldin_adams"
    ],
    "families": [
-    "F_chuck_mckeldin+michelle_mckeldin",
-    "F_chuck_mckeldin"
+    "F_chuck_mckeldin+michelle_mckeldin"
    ],
    "parent_family": "F_charles_buckey_mckeldin+emily_schrieffer_mckeldin",
    "connected": true,
@@ -7688,11 +7693,14 @@
     "mckeldin_james_alfred"
    ],
    "children": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -8399,8 +8407,7 @@
    ],
    "siblings": [],
    "families": [
-    "F_j_michael_mckeldin+shelly_mckeldin",
-    "F_j_michael_mckeldin"
+    "F_j_michael_mckeldin+shelly_mckeldin"
    ],
    "parent_family": "F_charles_buckey_mckeldin+margaret_peggy_mckeldin",
    "connected": true,
@@ -8486,9 +8493,10 @@
     "quinn"
    ],
    "father": "j_michael_mckeldin",
-   "mother": null,
+   "mother": "shelly_mckeldin",
    "parents": [
-    "j_michael_mckeldin"
+    "j_michael_mckeldin",
+    "shelly_mckeldin"
    ],
    "spouses": [],
    "children": [],
@@ -8496,7 +8504,7 @@
     "christian_mckeldin"
    ],
    "families": [],
-   "parent_family": "F_j_michael_mckeldin",
+   "parent_family": "F_j_michael_mckeldin+shelly_mckeldin",
    "connected": true,
    "locations": [
     "Annapolis, MD",
@@ -8526,7 +8534,9 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams)."
+   ]
   },
   {
    "id": "jennifer_mckeldin",
@@ -8553,9 +8563,10 @@
     "schriefer"
    ],
    "father": "chuck_mckeldin",
-   "mother": null,
+   "mother": "michelle_mckeldin",
    "parents": [
-    "chuck_mckeldin"
+    "chuck_mckeldin",
+    "michelle_mckeldin"
    ],
    "spouses": [],
    "children": [],
@@ -8563,7 +8574,7 @@
     "charlie_mckeldin"
    ],
    "families": [],
-   "parent_family": "F_chuck_mckeldin",
+   "parent_family": "F_chuck_mckeldin+michelle_mckeldin",
    "connected": true,
    "locations": [
     "Annapolis, MD",
@@ -8593,7 +8604,9 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams)."
+   ]
   },
   {
    "id": "john_howard_adams",
@@ -11465,11 +11478,14 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt"
    ],
@@ -11533,10 +11549,13 @@
     "lola"
    ],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -11840,21 +11859,31 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
+    "grief",
     "mckeldin"
    ],
    "father": "mckeldin_james_alfred",
-   "mother": null,
+   "mother": "grief_dorothea",
    "parents": [
+    "grief_dorothea",
     "mckeldin_james_alfred"
    ],
    "spouses": [],
    "children": [],
    "siblings": [
+    "mckeldin_john",
+    "mckeldin_charles_i",
+    "mckeldin_lillian_j",
+    "mckeldin_theresa",
     "mckeldin_laura_s",
-    "mckeldin_william"
+    "mckeldin_louis_lawrence",
+    "mckeldin_william",
+    "mckeldin_james_raymond",
+    "mckeldin_theodore_roosevelt",
+    "mckeldin_alice_holsey"
    ],
    "families": [],
-   "parent_family": "F_mckeldin_james_alfred",
+   "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
    "locations": [
     "Baltimore, MD"
@@ -11873,7 +11902,8 @@
     "adams_direct_line_json_v1"
    ],
    "notes": [
-    "Listed as half-sibling in source — same father James Alfred McKeldin, possibly different mother. Birth 1880, before James Alfred's ~1878 marriage to Dorothea Grief."
+    "Listed as half-sibling in source — same father James Alfred McKeldin, possibly different mother. Birth 1880, before James Alfred's ~1878 marriage to Dorothea Grief.",
+    "CORRECTION 2026-09-22: Mother set to grief_dorothea (confirmed by Brendan Adams). The earlier half-sibling suspicion rested on a birth \"before the ~1878 marriage\", but 1880 is after it."
    ]
   },
   {
@@ -11908,17 +11938,17 @@
     "grief_dorothea"
    ],
    "children": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
-    "mckeldin_alice_holsey",
-    "mckeldin_george_edward",
-    "mckeldin_laura_s",
-    "mckeldin_william"
+    "mckeldin_alice_holsey"
    ],
    "siblings": [
     "mckeldin_david_w",
@@ -11929,8 +11959,7 @@
     "mckeldin_mary_alice"
    ],
    "families": [
-    "F_grief_dorothea+mckeldin_james_alfred",
-    "F_mckeldin_james_alfred"
+    "F_grief_dorothea+mckeldin_james_alfred"
    ],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
    "connected": true,
@@ -12064,11 +12093,14 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
    ],
@@ -12129,10 +12161,13 @@
     "mckeldin_james_b"
    ],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -12242,21 +12277,31 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
+    "grief",
     "mckeldin"
    ],
    "father": "mckeldin_james_alfred",
-   "mother": null,
+   "mother": "grief_dorothea",
    "parents": [
+    "grief_dorothea",
     "mckeldin_james_alfred"
    ],
    "spouses": [],
    "children": [],
    "siblings": [
     "mckeldin_george_edward",
-    "mckeldin_william"
+    "mckeldin_john",
+    "mckeldin_charles_i",
+    "mckeldin_lillian_j",
+    "mckeldin_theresa",
+    "mckeldin_louis_lawrence",
+    "mckeldin_william",
+    "mckeldin_james_raymond",
+    "mckeldin_theodore_roosevelt",
+    "mckeldin_alice_holsey"
    ],
    "families": [],
-   "parent_family": "F_mckeldin_james_alfred",
+   "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
    "locations": [
     "Baltimore, MD"
@@ -12275,7 +12320,8 @@
     "adams_direct_line_json_v1"
    ],
    "notes": [
-    "Listed as half-sibling in source — same father James Alfred McKeldin, possibly different mother from Dorothea Grief. Birth year ~1894 same as Louis Lawrence McKeldin — may be a twin or separate half-sibling line."
+    "Listed as half-sibling in source — same father James Alfred McKeldin, possibly different mother from Dorothea Grief. Birth year ~1894 same as Louis Lawrence McKeldin — may be a twin or separate half-sibling line.",
+    "CORRECTION 2026-09-22: Mother set to grief_dorothea (confirmed by Brendan Adams). The earlier half-sibling suspicion rested on a birth \"before the ~1878 marriage\", but 1880 is after it."
    ]
   },
   {
@@ -12310,10 +12356,13 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -12432,10 +12481,13 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -12675,11 +12727,14 @@
     "mckeldin_theodore_jr"
    ],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_alice_holsey"
    ],
@@ -12796,10 +12851,13 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -12847,21 +12905,31 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
+    "grief",
     "mckeldin"
    ],
    "father": "mckeldin_james_alfred",
-   "mother": null,
+   "mother": "grief_dorothea",
    "parents": [
+    "grief_dorothea",
     "mckeldin_james_alfred"
    ],
    "spouses": [],
    "children": [],
    "siblings": [
     "mckeldin_george_edward",
-    "mckeldin_laura_s"
+    "mckeldin_john",
+    "mckeldin_charles_i",
+    "mckeldin_lillian_j",
+    "mckeldin_theresa",
+    "mckeldin_laura_s",
+    "mckeldin_louis_lawrence",
+    "mckeldin_james_raymond",
+    "mckeldin_theodore_roosevelt",
+    "mckeldin_alice_holsey"
    ],
    "families": [],
-   "parent_family": "F_mckeldin_james_alfred",
+   "parent_family": "F_grief_dorothea+mckeldin_james_alfred",
    "connected": true,
    "locations": [
     "Baltimore, MD"
@@ -12883,7 +12951,8 @@
    ],
    "notes": [
     "Siblings listed: Theodore R., Charles E. I, and 8 others.",
-    "Child of James Alfred McKeldin and Dorothea Grief. Birth date newly established."
+    "Child of James Alfred McKeldin and Dorothea Grief. Birth date newly established.",
+    "CORRECTION 2026-09-22: Mother set to grief_dorothea (confirmed by Brendan Adams). The earlier half-sibling suspicion rested on a birth \"before the ~1878 marriage\", but 1880 is after it."
    ]
   },
   {
@@ -13315,7 +13384,10 @@
    "spouses": [
     "chuck_mckeldin"
    ],
-   "children": [],
+   "children": [
+    "charlie_mckeldin",
+    "jennifer_mckeldin"
+   ],
    "siblings": [],
    "families": [
     "F_chuck_mckeldin+michelle_mckeldin"
@@ -15569,7 +15641,10 @@
    "spouses": [
     "j_michael_mckeldin"
    ],
-   "children": [],
+   "children": [
+    "christian_mckeldin",
+    "jeffery_mckeldin"
+   ],
    "siblings": [],
    "families": [
     "F_j_michael_mckeldin+shelly_mckeldin"
@@ -16891,7 +16966,8 @@
    "children": [
     "adams_presley",
     "adams_edith_v",
-    "george_francis_adams_sr"
+    "george_francis_adams_sr",
+    "wells_rosemary"
    ],
    "siblings": [],
    "families": [
@@ -17302,8 +17378,7 @@
    ],
    "siblings": [],
    "families": [
-    "F_trumbo_serena_marie+wells_arthur",
-    "F_wells_arthur"
+    "F_trumbo_serena_marie+wells_arthur"
    ],
    "parent_family": null,
    "connected": true,
@@ -17350,19 +17425,22 @@
     "qualifier": null
    },
    "living": false,
-   "branch": "other",
+   "branch": "trumbo",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "trumbo"
+   ],
    "father": "wells_arthur",
-   "mother": null,
+   "mother": "trumbo_serena_marie",
    "parents": [
+    "trumbo_serena_marie",
     "wells_arthur"
    ],
    "spouses": [],
    "children": [],
    "siblings": [],
    "families": [],
-   "parent_family": "F_wells_arthur",
+   "parent_family": "F_trumbo_serena_marie+wells_arthur",
    "connected": true,
    "locations": [
     "San Francisco, CA"
@@ -17381,7 +17459,8 @@
     "adams_direct_line_summary_v1"
    ],
    "notes": [
-    "Not a blood relative of Adams line. Step-sister of George Francis Adams Sr. Daughter of Arthur Wells."
+    "Not a blood relative of Adams line. Step-sister of George Francis Adams Sr. Daughter of Arthur Wells.",
+    "CORRECTION 2026-09-22: Mother set to trumbo_serena_marie, wife of Arthur Wells (confirmed by Brendan Adams). This makes Rosemary a half sister, not a step-sister, of George Francis Adams Sr."
    ]
   },
   {
@@ -18823,23 +18902,15 @@
    "marriage": null
   },
   {
-   "id": "F_chuck_mckeldin",
-   "partners": [
-    "chuck_mckeldin"
-   ],
-   "children": [
-    "charlie_mckeldin",
-    "jennifer_mckeldin"
-   ],
-   "marriage": null
-  },
-  {
    "id": "F_chuck_mckeldin+michelle_mckeldin",
    "partners": [
     "chuck_mckeldin",
     "michelle_mckeldin"
    ],
-   "children": [],
+   "children": [
+    "charlie_mckeldin",
+    "jennifer_mckeldin"
+   ],
    "marriage": null
   },
   {
@@ -19009,11 +19080,14 @@
     "mckeldin_james_alfred"
    ],
    "children": [
+    "mckeldin_george_edward",
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
+    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -19054,23 +19128,15 @@
    "marriage": null
   },
   {
-   "id": "F_j_michael_mckeldin",
-   "partners": [
-    "j_michael_mckeldin"
-   ],
-   "children": [
-    "christian_mckeldin",
-    "jeffery_mckeldin"
-   ],
-   "marriage": null
-  },
-  {
    "id": "F_j_michael_mckeldin+shelly_mckeldin",
    "partners": [
     "j_michael_mckeldin",
     "shelly_mckeldin"
    ],
-   "children": [],
+   "children": [
+    "christian_mckeldin",
+    "jeffery_mckeldin"
+   ],
    "marriage": null
   },
   {
@@ -19224,18 +19290,6 @@
    "marriage": null
   },
   {
-   "id": "F_mckeldin_james_alfred",
-   "partners": [
-    "mckeldin_james_alfred"
-   ],
-   "children": [
-    "mckeldin_george_edward",
-    "mckeldin_laura_s",
-    "mckeldin_william"
-   ],
-   "marriage": null
-  },
-  {
    "id": "F_mckeldin_john",
    "partners": [
     "mckeldin_john"
@@ -19314,14 +19368,6 @@
    "id": "F_trumbo_serena_marie+wells_arthur",
    "partners": [
     "trumbo_serena_marie",
-    "wells_arthur"
-   ],
-   "children": [],
-   "marriage": null
-  },
-  {
-   "id": "F_wells_arthur",
-   "partners": [
     "wells_arthur"
    ],
    "children": [

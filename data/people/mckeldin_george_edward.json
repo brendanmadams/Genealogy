@@ -14,7 +14,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "grief_dorothea",
     "father": "mckeldin_james_alfred",
     "siblings": [
       "mckeldin_john"
@@ -29,6 +29,7 @@
     "adams_direct_line_json_v1"
   ],
   "notes": [
-    "Listed as half-sibling in source \u2014 same father James Alfred McKeldin, possibly different mother. Birth 1880, before James Alfred's ~1878 marriage to Dorothea Grief."
+    "Listed as half-sibling in source — same father James Alfred McKeldin, possibly different mother. Birth 1880, before James Alfred's ~1878 marriage to Dorothea Grief.",
+    "CORRECTION 2026-09-22: Mother set to grief_dorothea (confirmed by Brendan Adams). The earlier half-sibling suspicion rested on a birth \"before the ~1878 marriage\", but 1880 is after it."
   ]
 }

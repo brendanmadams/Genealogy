@@ -12,7 +12,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "michelle_mckeldin",
     "father": "chuck_mckeldin",
     "siblings": [],
     "spouse": "",
@@ -38,6 +38,8 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
   ],
-  "notes": [],
+  "notes": [
+    "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams)."
+  ],
   "aliases": []
 }

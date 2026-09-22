@@ -16,7 +16,10 @@
     "father": "",
     "siblings": [],
     "spouse": "chuck_mckeldin",
-    "children": []
+    "children": [
+      "charlie_mckeldin",
+      "jennifer_mckeldin"
+    ]
   },
   "locations": [
     "Annapolis, MD",
