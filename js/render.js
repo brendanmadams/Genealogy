@@ -36,6 +36,17 @@ export class Renderer {
   }
 
   drawLink(l) {
+    if (l.type === 'branch') {
+      // parent (or spouse tag) right edge → spine → each child's left edge.
+      // Several families from one person get separate spine lanes.
+      const childL = l.to[0].x - CARD.w / 2;
+      const xm = l.from.x + (childL - l.from.x) / 2 + (l.lane - (l.lanes - 1) / 2) * 8;
+      const ys = [l.from.y, ...l.to.map(t => t.y)];
+      let d = `M${l.from.x},${l.from.y} H${xm} M${xm},${Math.min(...ys)} V${Math.max(...ys)}`;
+      for (const t of l.to) d += ` M${xm},${t.y} H${childL}`;
+      this.linkLayer.appendChild(el('path', { class: 'descent', d }));
+      return;
+    }
     if (l.type === 'elbow') {
       // child's right edge → vertical spine → each parent's left edge
       const x0 = l.from.x + CARD.w / 2, xm = x0 + (l.to[0].x - CARD.w / 2 - x0) / 2;
@@ -65,11 +76,35 @@ export class Renderer {
     const g = el('g', { class: 'card role-unknown', transform: `translate(${n.x - CARD.w / 2},${n.y - CARD.h / 2})` });
     g.appendChild(el('rect', { class: 'body', width: CARD.w, height: CARD.h, rx: 12 }));
     g.appendChild(el('text', { class: 'unknown-label', x: CARD.w / 2, y: CARD.h / 2 + 4, 'text-anchor': 'middle' }, n.label));
-    g.appendChild(el('text', { class: 'ahnen', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, String(n.ahnen)));
+    g.appendChild(el('text', { class: 'ahnen', x: CARD.w - 8, y: CARD.h - 8, 'text-anchor': 'end' }, String(n.ahnen)));
+    this.nodeLayer.appendChild(g);
+  }
+
+  drawTag(t) {
+    const h = 30;
+    const sp = t.id ? this.D.person(t.id) : null;
+    const g = el('g', { class: 'spouse-tag' + (sp ? '' : ' unknown'), transform: `translate(${t.x - t.w / 2},${t.y - h / 2})` });
+    if (sp) {
+      g.style.setProperty('--branch', this.D.color(sp));
+      g.setAttribute('tabindex', 0); g.setAttribute('role', 'button');
+      g.dataset.id = sp.id;
+      g.appendChild(el('title', {}, `Spouse: ${sp.name}${t.sub ? ' · ' + t.sub : ''}`));
+    }
+    g.appendChild(el('rect', { class: 'body', width: t.w, height: h, rx: 8 }));
+    g.appendChild(el('text', { class: 'amp', x: 10, y: 19 }, '&'));
+    const name = t.label.length > 22 ? t.label.slice(0, 21) + '…' : t.label;
+    g.appendChild(el('text', { class: 'tag-name', x: 24, y: t.sub ? 13 : 19 }, name));
+    if (t.sub) g.appendChild(el('text', { class: 'tag-sub', x: 24, y: 25 }, t.sub.length > 30 ? t.sub.slice(0, 29) + '…' : t.sub));
+    if (sp) {
+      const pick = () => this.onPick(sp.id);
+      g.addEventListener('click', pick);
+      g.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(); } });
+    }
     this.nodeLayer.appendChild(g);
   }
 
   drawNode(n) {
+    if (n.type === 'tag') return this.drawTag(n);
     if (n.role === 'unknown') return this.drawUnknown(n);
     const p = this.D.person(n.id);
     const color = this.D.color(p);
@@ -96,13 +131,20 @@ export class Renderer {
     const span = lifespan(p);
     if (span) g.appendChild(el('text', { class: 'dates', x: 66, y: l2 ? 59 : 54 }, span));
     if (n.half) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'half'));
-    if (n.ahnen) g.appendChild(el('text', { class: 'ahnen', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, String(n.ahnen)));
+    if (n.ahnen || n.number) {
+      // bottom-right, clear of the name; very long descendant numbers keep their tail
+      const num = String(n.ahnen || n.number);
+      const shown = num.length > 11 ? '…' + num.slice(-10) : num;
+      const t = el('text', { class: 'ahnen', x: CARD.w - 8, y: CARD.h - 8, 'text-anchor': 'end' }, shown);
+      g.appendChild(t);
+      g.querySelector('title').textContent += ` · no. ${num}`;
+    }
     if (n.role === 'repeat') g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: CARD.h - 8, 'text-anchor': 'end' }, `same as ${n.repeatOf}`));
     if (n.more) {
       // ancestors continue beyond the generations shown
       g.appendChild(el('path', { class: 'more', d: `M${CARD.w + 6},${CARD.h / 2 - 7} l8,7 l-8,7` }));
     }
-    if (p.living) g.appendChild(el('circle', { class: 'living', cx: CARD.w - 10, cy: CARD.h - 10, r: 3 }));
+    if (p.living) g.appendChild(el('circle', { class: 'living', cx: CARD.w - 10, cy: 10, r: 3 }));
 
     const pick = () => this.onPick(n.id);
     g.addEventListener('click', pick);

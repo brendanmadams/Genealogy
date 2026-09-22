@@ -97,7 +97,7 @@ export function layoutPedigree(D, focus, maxGen = 4) {
   const xs = nodes.map(n => n.x), ys = nodes.map(n => n.y);
   const bounds = {
     x0: Math.min(...xs) - CARD.w / 2 - 40, x1: Math.max(...xs) + CARD.w / 2 + 40,
-    y0: Math.min(...ys, 0) - CARD.h / 2 - 56, y1: Math.max(...ys) + CARD.h / 2 + 40,
+    y0: Math.min(...ys, 0) - CARD.h / 2 - 110, y1: Math.max(...ys) + CARD.h / 2 + 40,
   };
   return {
     nodes, links, labels, bounds,

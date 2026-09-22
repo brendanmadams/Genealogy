@@ -2,6 +2,7 @@
 import { loadFamily, lifespan, byBirth } from './data.js';
 import { layoutFocus } from './layout.js';
 import { layoutPedigree } from './pedigree.js';
+import { layoutDescendants } from './descendants.js';
 import { Renderer } from './render.js';
 import { renderPanel } from './panel.js';
 import { Sidebar } from './sidebar.js';
@@ -34,22 +35,27 @@ async function main() {
   route();
 }
 
-// ── Routing: #/p/<id>  |  #/p/<id>/ancestors[/<generations>] ─────────────────
+// ── Routing: #/p/<id>  |  #/p/<id>/(ancestors|descendants)[/<generations|all>] ─
 let view = 'family';
-let generations = 4;
+const gens = { ancestors: 4, descendants: 3 };   // remembered per chart type
 
 function route() {
-  const m = location.hash.match(/^#\/p\/([\w-]+)(?:\/(ancestors)(?:\/(\d+|all))?)?/);
+  const m = location.hash.match(/^#\/p\/([\w-]+)(?:\/(ancestors|descendants)(?:\/(\d+|all))?)?/);
   const id = m && D.person(m[1]) ? m[1] : null;
   if (!id) return showLanding();
-  view = m[2] ? 'ancestors' : 'family';
-  if (m[3]) generations = m[3] === 'all' ? 99 : Math.max(1, Math.min(99, Number(m[3])));
+  view = m[2] || 'family';
+  if (m[2] && m[3]) gens[view] = m[3] === 'all' ? 99 : Math.max(1, Math.min(99, Number(m[3])));
   showPerson(id);
 }
-function hashFor(id, v = view, g = generations) {
+function hashFor(id, v = view, g = gens[v]) {
   if (v === 'family') return `#/p/${id}`;
-  return `#/p/${id}/ancestors/${g >= 99 ? 'all' : g}`;
+  return `#/p/${id}/${v}/${g >= 99 ? 'all' : g}`;
 }
+
+const CHARTS = {
+  ancestors: { layout: layoutPedigree, title: 'Ancestors of', noun: 'ancestor', empty: 'No parents are recorded for this person yet.' },
+  descendants: { layout: layoutDescendants, title: 'Descendants of', noun: 'descendant', empty: 'No children are recorded for this person yet.' },
+};
 function focus(id, v = view) {
   if (!D.person(id)) return;
   const h = hashFor(id, v);
@@ -65,20 +71,25 @@ function showPerson(id) {
   $('#view-bar').hidden = false;
   $('#tab-family').setAttribute('aria-selected', view === 'family');
   $('#tab-ancestors').setAttribute('aria-selected', view === 'ancestors');
+  $('#tab-descendants').setAttribute('aria-selected', view === 'descendants');
   document.body.dataset.view = view;
-  if (view === 'ancestors') {
-    const L = layoutPedigree(D, p, generations);
-    const max = L.depth;
+  const chart = CHARTS[view];
+  if (chart) {
+    const g = gens[view];
+    const L = chart.layout(D, p, g);
+    const max = L.depth, shown = Math.min(g, max);
     $('#gen-ctl').hidden = false;
-    $('#gen-count').textContent = Math.min(generations, max) || 0;
+    $('#gen-count').textContent = shown || 0;
     $('#gen-max').textContent = max ? `(${max})` : '';
-    $('#gen-less').disabled = Math.min(generations, max) <= 1;
-    $('#gen-more').disabled = generations >= max;
-    $('#gen-all').disabled = generations >= max;
-    $('#print-title').innerHTML = `<h1>Ancestors of ${esc(p.name)}</h1><p>${esc(lifespan(p))}${lifespan(p) ? ' · ' : ''}${L.count} ancestors in ${L.shownDepth} generation${L.shownDepth === 1 ? '' : 's'} · printed ${new Date().toLocaleDateString()}</p>`;
+    $('#gen-less').disabled = shown <= 1;
+    $('#gen-more').disabled = g >= max;
+    $('#gen-all').disabled = g >= max;
+    $('#print-title').innerHTML = max
+      ? `<h1>${chart.title} ${esc(p.name)}</h1><p>${esc(lifespan(p))}${lifespan(p) ? ' · ' : ''}${L.count} ${chart.noun}${L.count === 1 ? '' : 's'} in ${L.shownDepth} generation${L.shownDepth === 1 ? '' : 's'} · printed ${new Date().toLocaleDateString()}</p>`
+      : '';
     renderer.draw(L);
-    if (!max) $('#print-title').innerHTML = '';
     $('#canvas').classList.toggle('empty-chart', !max);
+    $('#canvas').dataset.empty = chart.empty;
   } else {
     $('#gen-ctl').hidden = true;
     $('#canvas').classList.remove('empty-chart');
@@ -87,7 +98,7 @@ function showPerson(id) {
   renderPanel($('#panel'), D, p);
   // On wide screens the details panel opens automatically; wait for its column
   // to finish opening before fitting the tree into the remaining space.
-  // (The ancestor chart is wide, so it leaves the panel as the user set it.)
+  // (The ancestor and descendant charts are wide, so they leave the panel as the user set it.)
   const opening = view === 'family' && !document.body.classList.contains('has-panel') && !matchMedia('(max-width: 900px)').matches;
   if (opening) document.body.classList.add('has-panel');
   setTimeout(() => renderer.fit(true), opening ? 280 : 0);
@@ -107,12 +118,13 @@ function showLanding() {
   const chip = p => `<button class="chip" data-id="${p.id}" style="--branch:${D.color(p)}"><span class="chip-name">${esc(p.name)}</span>${lifespan(p, { short: true }) ? `<span class="chip-sub">${esc(lifespan(p, { short: true }))}</span>` : ''}</button>`;
   const lines = [...D.branches.values()].filter(b => b.roots?.length).map(b => {
     const roots = byBirth(b.roots.map(id => D.person(id)).filter(Boolean));
-    return `<div class="line" style="--branch:${b.color}"><div class="line-name"><i></i>${esc(b.label)}</div><div class="chips">${roots.map(chip).join('')}</div></div>`;
+    const first = roots[0];
+    return `<div class="line" style="--branch:${b.color}"><div class="line-name"><i></i>${esc(b.label)}</div><div class="chips">${roots.map(chip).join('')}</div>${first ? `<a class="line-desc" href="${hashFor(first.id, 'descendants', 99)}">All descendants →</a>` : ''}</div>`;
   }).join('');
   $('#landing').innerHTML = `
     <div class="landing-card">
       <h1>Adams · McKeldin Family Tree</h1>
-      <p class="lede">${D.meta.people} people across ${D.meta.families} families. Pick anyone to see their parents, grandparents, brothers and sisters, spouses, children and grandchildren. Click any card to move through the family, or switch to <strong>Ancestors</strong> for a printable pedigree chart.</p>
+      <p class="lede">${D.meta.people} people across ${D.meta.families} families. Pick anyone to see their parents, grandparents, brothers and sisters, spouses, children and grandchildren. Click any card to move through the family, or switch to <strong>Ancestors</strong> or <strong>Descendants</strong> for printable charts.</p>
       <div class="landing-search"><input id="landing-search" type="search" placeholder="Search for a name, place or year…" autocomplete="off" /><div class="dropdown" id="landing-results"></div></div>
       ${recent.length ? `<h3>Recently viewed</h3><div class="chips">${recent.map(chip).join('')}</div>` : ''}
       <h3>Start from the earliest known ancestors</h3>
@@ -134,8 +146,9 @@ function wireHeader() {
   // chart type and generations
   $('#tab-family').addEventListener('click', () => focusId && focus(focusId, 'family'));
   $('#tab-ancestors').addEventListener('click', () => focusId && focus(focusId, 'ancestors'));
-  const setGen = g => { generations = g; location.hash = hashFor(focusId, 'ancestors', g); };
-  $('#gen-less').addEventListener('click', () => setGen(Math.max(1, Math.min(generations, Number($('#gen-count').textContent)) - 1)));
+  $('#tab-descendants').addEventListener('click', () => focusId && focus(focusId, 'descendants'));
+  const setGen = g => { gens[view] = g; location.hash = hashFor(focusId, view, g); };
+  $('#gen-less').addEventListener('click', () => setGen(Math.max(1, Number($('#gen-count').textContent) - 1)));
   $('#gen-more').addEventListener('click', () => setGen(Math.min(99, Number($('#gen-count').textContent) + 1)));
   $('#gen-all').addEventListener('click', () => setGen(99));
   $('#btn-print').addEventListener('click', () => window.print());

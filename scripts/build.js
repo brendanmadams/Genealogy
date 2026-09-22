@@ -7,8 +7,6 @@
  *
  * Outputs
  *   data/family.json   – people, family units, branches (the new data model)
- *   family-graph.js    – nodes/edges for the current page (deduplicated)
- *   family-canon.js    – the person records for the current page
  *
  * Model
  *   A *family* is one set of partners (one or two people) plus their children.
@@ -315,15 +313,6 @@ const familyJson = {
   media: mediaItems,
 };
 
-// Legacy files for the current page.
-const graphNodes = outPeople.filter(p => p.connected).map(p => ({ id: p.id, label: p.name, type: 'person' }));
-const graphEdges = [];
-for (const f of outFamilies) {
-  if (f.partners.length === 2) graphEdges.push({ from: f.partners[0], to: f.partners[1], type: 'spouse' });
-  for (const par of f.partners) for (const c of f.children) graphEdges.push({ from: par, to: c, type: 'parent' });
-}
-const canon = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).filter(p => connectedIds.has(p.id));
-
 // ── Report ─────────────────────────────────────────────────────────────────
 const byBranch = {};
 for (const p of outPeople) byBranch[p.branch] = (byBranch[p.branch] || 0) + 1;
@@ -331,7 +320,6 @@ const roots = outPeople.filter(p => p.connected && !p.parents.length && p.childr
 
 console.log(`people: ${outPeople.length} (${connectedIds.size} connected, ${outPeople.length - connectedIds.size} unconnected)`);
 console.log(`families: ${outFamilies.length} (${outFamilies.filter(f => f.partners.length === 1).length} with one known parent, ${outFamilies.filter(f => f.marriage).length} with a marriage date)`);
-console.log(`graph edges: ${graphEdges.filter(e => e.type === 'parent').length} parent, ${graphEdges.filter(e => e.type === 'spouse').length} spouse`);
 console.log('people per branch:', JSON.stringify(byBranch));
 console.log(`multi-lineage people: ${outPeople.filter(p => p.lineages.length > 1).length}`);
 if (roots.length) {
@@ -346,7 +334,4 @@ if (CHECK_ONLY) { console.log('\ncheck only; nothing written'); process.exit(0);
 
 // ── Write ──────────────────────────────────────────────────────────────────
 fs.writeFileSync(path.join(ROOT, 'data', 'family.json'), JSON.stringify(familyJson, null, 1) + '\n');
-fs.writeFileSync(path.join(ROOT, 'family-graph.js'),
-  'window.FAMILY_GRAPH = {\n  "nodes": ' + JSON.stringify(graphNodes) + ',\n  "edges": ' + JSON.stringify(graphEdges) + '\n};');
-fs.writeFileSync(path.join(ROOT, 'family-canon.js'), 'window.FAMILY_CANON = ' + JSON.stringify(canon) + ';');
-console.log('\nwritten: data/family.json, family-graph.js, family-canon.js');
+console.log('\nwritten: data/family.json');

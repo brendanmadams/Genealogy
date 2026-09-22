@@ -226,8 +226,8 @@ body:not(.has-panel) #panel { display: none; }
 .gen-ctl button:disabled { opacity: .35; cursor: default; }
 #gen-count { min-width: 20px; text-align: center; font-weight: 600; color: var(--text); }
 #gen-max { color: var(--muted); }
-body[data-view="ancestors"] .legend { display: none; }
-#canvas.empty-chart::after { content: 'No parents are recorded for this person yet.'; position: absolute; inset: 0; display: grid; place-items: center; color: var(--muted); font-size: 14px; pointer-events: none; }
+body[data-view="ancestors"] .legend, body[data-view="descendants"] .legend { display: none; }
+#canvas.empty-chart::after { content: attr(data-empty); position: absolute; inset: 0; display: grid; place-items: center; color: var(--muted); font-size: 14px; pointer-events: none; }
 .print-title { display: none; }
 
 /* pedigree marks */
@@ -261,3 +261,17 @@ body[data-view="ancestors"] .legend { display: none; }
   .card .focus-ring { display: none; }
   .card .living { display: none; }
 }
+
+/* descendant chart */
+.spouse-tag { cursor: pointer; outline: none; }
+.spouse-tag .body { fill: var(--bg-3); stroke: var(--line); stroke-width: 1; }
+.spouse-tag:hover .body, .spouse-tag:focus-visible .body { fill: var(--card-hover); stroke: var(--branch, var(--line-strong)); }
+.spouse-tag .amp { fill: var(--branch, var(--muted)); font-size: 12px; font-weight: 700; }
+.spouse-tag .tag-name { fill: var(--text-2); font-size: 11px; font-weight: 500; }
+.spouse-tag .tag-sub { fill: var(--muted); font-size: 9.5px; }
+.spouse-tag.unknown { cursor: default; }
+.spouse-tag.unknown .body { fill: transparent; stroke-dasharray: 4 3; }
+.spouse-tag.unknown .tag-name { fill: var(--muted); font-style: italic; }
+.line-desc { display: inline-block; margin-top: 8px; font-size: 12px; color: var(--accent); text-decoration: none; }
+.line-desc:hover { text-decoration: underline; }
+@media print { .spouse-tag .body { fill: #fff; stroke: #aaa; } }

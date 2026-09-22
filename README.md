@@ -7,14 +7,13 @@ An interactive family history site for the whole family, published with GitHub P
 
 | Path | Purpose |
 |---|---|
-| `index.html`, `css/`, `js/` | The site. Pick anyone to see their grandparents, parents, siblings, spouses, children and grandchildren; click any card to move. Links like `#/p/adams_alberta` open on that person. The Ancestors tab draws a printable pedigree chart (`#/p/<id>/ancestors/<generations>` or `/all`). |
+| `index.html`, `css/`, `js/` | The site. Pick anyone to see their grandparents, parents, siblings, spouses, children and grandchildren; click any card to move. Links like `#/p/adams_alberta` open on that person. The Ancestors and Descendants tabs draw printable charts (`#/p/<id>/ancestors/<generations>`, `#/p/<id>/descendants/all`). |
 | `images/<id>.jpg` | Portraits shown on cards and in the details panel. Generated from `data/media.json` crops, or drop one in by hand. |
 | `media/` | Photos, documents and album pages shown under “Photos & documents”. Generated. |
 | `data/media.json` | What each photo or document is, who is in it, where it came from, and portrait crops. |
 | `data/people/*.json` | **The source of truth.** One record per person. Edit these, then rebuild. |
 | `data/branches.json` | Family lines (Adams, McKeldin, Kulp, …), their colours, and the earliest known ancestor that seeds each line. |
 | `data/family.json` | Generated. People, family units, and branches in one file for the site to load. |
-| `family-graph.js`, `family-canon.js` | Generated. Kept for the old page; nothing in the new site reads them. |
 | `scripts/build.js` | Validates the records and generates the files above. |
 | `scripts/fix-*.js` | Dated, re-runnable data corrections, kept so the reasoning is on record. |
 
