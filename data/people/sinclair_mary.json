@@ -1,0 +1,30 @@
+{
+  "id": "sinclair_mary",
+  "name": "Mary Sinclair",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "mckeldin_joseph",
+    "children": [
+      "mckeldin_edward_hazelton"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Spouse of Joseph McKeldin."
+  ]
+}

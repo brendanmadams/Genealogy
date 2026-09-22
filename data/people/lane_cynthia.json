@@ -1,0 +1,44 @@
+{
+  "id": "lane_cynthia",
+  "name": "Cynthia Lane",
+  "birth": "abt 1824",
+  "death": "1861/1863",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "C-002: John Lane confirmed as Cynthia Lane's father. Missouri as key geographic node. High confidence lineage anchor. Documents from Bill Allen confirm linkage."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married George Francis Adams #1 (m. 1841)",
+    "Daughter of John Lane; her 1841 marriage to George Francis Adams facilitated his settlement in Missouri on land grants originally set aside for War of 1812 veterans"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "adams_george_francis_1",
+    "children": [
+      "adams_alexander_william_col",
+      "adams_joseph_pierre_jose2",
+      "adams_missouri",
+      "adams_james_casper",
+      "adams_harriett_e",
+      "adams_john_wesley"
+    ]
+  },
+  "locations": [
+    "Kentucky",
+    "Chariton County, MO"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "email_summary_conclusions_v1"
+  ],
+  "notes": [
+    "John Lane = Cynthia Lane's father confirmed. Already in canonical as 'Daughter of John S. Lane' — consistent."
+  ]
+}

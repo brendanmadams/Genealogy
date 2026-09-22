@@ -1,0 +1,59 @@
+{
+  "id": "adams_jose_pierre",
+  "name": "Jose Pierre Adams",
+  "birth": "abt 1791",
+  "death": "abt 1836",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Reported by family tradition to be the bastard son of John Quincy Adams, though records indicate Scotland or Virginia birth",
+    "He was reportedly accidentally poisoned while testing a variety of herb as a chemist",
+    "Immigrated in early manhood (probably the 1810s), settled in Jefferson County, VA",
+    "Served as executor of brother-in-law Thomas Hamilton's will in 1836",
+    "Parentage unknown",
+    "C-004: RESEARCH FLAG \u2014 Jose P. vs Jesse P. name variation. No primary records identified for Jose Pierre Adams. Name may be transcription or naming drift from 'Jesse' to 'Jose'. High-impact uncertainty. Confidence: LOW."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Elizabeth (Eliza) Hamilton (m. 1813)",
+    "Settled in Harpers Ferry; worked as a chemist",
+    "Served as executor for brother-in-law Thomas Hamilton's will in 1836",
+    "Married Elizabeth Eliza Hamilton (1813, Jefferson County, VA)",
+    "Census trail: Morgan County VA (1820) \u2192 Jefferson County VA (1830)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_elizabeth_eliza",
+    "children": [
+      "adams_george_francis_1",
+      "adams_alexander_washington",
+      "adams_harriet_josephine",
+      "adams_magdalena",
+      "adams_mary_swan"
+    ]
+  },
+  "locations": [
+    "Scotland",
+    "Harpers Ferry, VA (now WV)",
+    "Morgan County, VA",
+    "Jefferson County, VA",
+    "Jefferson County, VA (now WV)"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1",
+    "manual_stitch_adams_direct_line",
+    "email_summary_conclusions_v1"
+  ],
+  "notes": [
+    "Also identified as Jose1 to distinguish from Jose Pierre Adams (Jose2), his grandson",
+    "Brendan's 6x-great-grandfather (paternal line Gen 1)",
+    "Child added: adams_george_francis_1. Evidence: Adams direct line: Gen 2 (George Francis Adams #1, b.~1817) is son of Gen 1 (Jose Pierre Adams, b.~1791). Source: adams_direct_line_json_v1, family_data_v1.",
+    "C-004: Research flag \u2014 possible name transcription error: 'Jose' vs 'Jesse P.' Adams. No primary records confirmed. Should be investigated."
+  ]
+}

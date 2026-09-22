@@ -1,0 +1,30 @@
+{
+  "id": "van_tine_abraham",
+  "name": "Abraham Van Tine",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "crook_mary",
+    "children": [
+      "vantine_mary_frances"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Father of Mary Frances VanTine (spouse of John Wesley Adams). New to record."
+  ]
+}

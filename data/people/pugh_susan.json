@@ -1,0 +1,34 @@
+{
+  "id": "pugh_susan",
+  "name": "Susan M. Pugh (Adams)",
+  "birth": "Apr 1849",
+  "death": "1919",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Joseph Pierre Jose Adams (m. 1872)",
+    "Daughter of Alexander Pugh",
+    "Buried at Fairmount Cemetery in Denver"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "pugh_alexander",
+    "siblings": [],
+    "spouse": "adams_joseph_pierre_jose2",
+    "children": []
+  },
+  "locations": [
+    "Louden County, VA",
+    "Missouri",
+    "Denver, CO"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": []
+}

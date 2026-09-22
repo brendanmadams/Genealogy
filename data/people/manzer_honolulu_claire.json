@@ -1,0 +1,31 @@
+{
+  "id": "manzer_honolulu_claire",
+  "name": "Honolulu Claire Manzer",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "mckeldin_theodore_roosevelt",
+    "children": [
+      "mckeldin_theodore_jr",
+      "mckeldin_clara"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Spouse of Theodore Roosevelt McKeldin."
+  ]
+}

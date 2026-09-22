@@ -1,0 +1,50 @@
+{
+  "id": "roy_adams",
+  "name": "Roy Adams",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "anne_marie_bainbridge",
+    "father": "george_francis_adams_iv",
+    "siblings": [
+      "sam_adams",
+      "ted_adams",
+      "mary_adams",
+      "george_adams"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: George, Ted, Sam, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge."
+  ],
+  "aliases": []
+}

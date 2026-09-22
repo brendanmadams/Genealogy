@@ -1,0 +1,30 @@
+{
+  "id": "kulp_edith_sarah",
+  "name": "Edith Sarah Kulp (Smith)",
+  "birth": "1899",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Emmett Smith"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "kulp_john_jacob",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown."
+  ]
+}

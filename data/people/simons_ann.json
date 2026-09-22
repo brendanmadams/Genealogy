@@ -1,0 +1,35 @@
+{
+  "id": "simons_ann",
+  "name": "Ann Simons",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "DNA testing corrected her relationship status; she is a 1st cousin once removed to the researcher, sharing 49.88% DNA with her father, Glen",
+    "CORRECTION: 23&Me labels Ann as 2C but she is actually Brendan's 1C1R. Ann shares 49.88% DNA with Glen Simons confirming parent-child relationship. Therefore Ann is Glen's daughter and Brendan's 1st cousin once removed."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "simons_glen",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Washington"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_dna_linkage_v1"
+  ],
+  "notes": [
+    "Parent: Glen Simons.",
+    "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect."
+  ]
+}

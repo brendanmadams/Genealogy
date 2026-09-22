@@ -1,0 +1,37 @@
+{
+  "id": "vinzel_cunigunda",
+  "name": "Cunigunda Vinzel (Grief)",
+  "birth": "abt 1824",
+  "death": "abt 1892",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Michael Grief",
+    "Immigrated from Germany to Maryland in the mid-19th century"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "grief_michael",
+    "children": [
+      "grief_dorothea"
+    ]
+  },
+  "locations": [
+    "Bavaria, Germany",
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Prior source had abt 1824 \u2013 abt 1892. This source gives 1824\u20131890. Consistent birth, minor death year difference."
+  ]
+}

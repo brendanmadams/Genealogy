@@ -1,0 +1,41 @@
+{
+  "id": "vantine_mary_frances",
+  "name": "Mary Frances Vantine",
+  "birth": "Oct 1844",
+  "death": "7 Apr 1895",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "She was previously married at age 15 to a man named Clark and had one child, Clay C. Clark, who was given up for adoption and raised by neighbors before she married John Wesley Adams",
+    "Previously married at 15 to Ephraim Clark; had son Clay Clark"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married John Wesley Adams (m. 1866)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "crook_mary",
+    "father": "van_tine_abraham",
+    "siblings": [],
+    "spouse": "adams_john_wesley",
+    "children": [
+      "clark_clay_c",
+      "adams_alberta",
+      "adams_george_francis_2"
+    ]
+  },
+  "locations": [
+    "New York, NY",
+    "Chariton County, MO"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "family_data_v1"
+  ],
+  "notes": [
+    "First husband now named: Ephraim Clark (prior sources said 'a man named Clark')."
+  ]
+}

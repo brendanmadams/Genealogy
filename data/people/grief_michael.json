@@ -1,0 +1,41 @@
+{
+  "id": "grief_michael",
+  "name": "Michael Grief",
+  "birth": "abt 1822",
+  "death": "abt 1903",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Part of the wave of Bavarian immigrants who settled in the Baltimore area"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Cunigunda Vinzel",
+    "Patriarch of the Grief branch of the family"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "vinzel_cunigunda",
+    "children": [
+      "grief_dorothea"
+    ]
+  },
+  "locations": [
+    "Bavaria, Germany",
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "New source gives 1826 (prior: ~1822). Minor variance.",
+    "New source gives 1896 (prior: ~1903). Conflict retained in notes.",
+    "Prior source had abt 1822 \u2013 abt 1903. This source gives 1826\u20131896. Conflict \u2014 preserve both."
+  ]
+}

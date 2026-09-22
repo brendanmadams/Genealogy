@@ -1,0 +1,52 @@
+{
+  "id": "anne_marie_bainbridge",
+  "name": "Anne Marie Bainbridge",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "george_francis_adams_iv",
+    "children": [
+      "george_adams",
+      "mary_adams",
+      "roy_adams",
+      "sam_adams",
+      "ted_adams"
+    ]
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Referenced in George Francis Adams IV: Married Anne Marie Bainbridge on November 23, 1996",
+    "Relationship: George Francis Adams IV -spouse-> Anne Marie Bainbridge"
+  ],
+  "aliases": []
+}

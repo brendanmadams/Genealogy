@@ -1,0 +1,41 @@
+{
+  "id": "adams_harriett_e",
+  "name": "Harriett E Adams",
+  "birth": "1853",
+  "death": "1933",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 1853, Chariton County, MO",
+    "Death: 1933, Douglas County, CO",
+    "Married Lemon B Palmer"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "lane_cynthia",
+    "father": "adams_george_francis_1",
+    "siblings": [
+      "adams_john_wesley",
+      "adams_alexander_william_col",
+      "adams_joseph_pierre_jose2",
+      "adams_missouri",
+      "adams_james_casper"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Chariton County, MO",
+    "Douglas County, CO"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Child of George Francis Adams (#1) and Cynthia Lane. Distinct from Harriett Josephine Adams Gill (adams_harriet_josephine) who is a child of Jose Pierre Adams \u2014 different generation. Source: Adams Family Doc."
+  ]
+}

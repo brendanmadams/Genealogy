@@ -1,0 +1,40 @@
+{
+  "id": "quinn_pat",
+  "name": "Pat Quinn",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "quinn_marie_ellinghaus",
+    "father": "quinn_john_joseph",
+    "siblings": [
+      "quinn_joan",
+      "quinn_john_jr",
+      "margaret_peggy_mckeldin"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1",
+    "adams_direct_line_summary_v1",
+    "barbara_memoir_ch02_a_typical_birth_day"
+  ],
+  "notes": [
+    "Barbara identifies Pat as one of John Joseph Quinn\u2019s teenage children.",
+    "Pat Quinn. Sibling of Peggy Quinn McKeldin, teenager in 1952.",
+    "Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn.",
+    "Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn. Sex unknown per source.",
+    "Promoted from unresolved (pat.json)."
+  ]
+}

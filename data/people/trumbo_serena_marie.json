@@ -1,0 +1,61 @@
+{
+  "id": "trumbo_serena_marie",
+  "name": "Serena Marie Nevada Trumbo",
+  "birth": "24 Mar 1890",
+  "death": "28 Sep 1967",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Described as a master of shorthand and a June Cleaver figure who managed three children during her husband's global military deployments",
+    "Remarried Arthur Wells (San Francisco) after George Francis Adams' 1920 death",
+    "Moved in with John Howard Adams' family in San Francisco after Arthur Wells died (~1963-64), until her own death in 1967",
+    "After Arthur Wells died (when John was in 11th grade, ~1963-64), Nini came to live with John's family.",
+    "Nini died during John's second year at the Naval Academy (~1966-67), consistent with confirmed death date 28 Sep 1967.",
+    "John's father told him not to come home for the funeral.",
+    "She frequently wore white bobby socks around the house, saying it was 'what all the kids were wearing now-a-days.'",
+    "She would become very excited watching 'What's My Line' on television.",
+    "Had an aqua and white Hudson coupe that she and Arthur only drove when necessary.",
+    "Their apartment in downtown San Francisco had metropolitan traffic noise all night long.",
+    "Theirs was a 'yours, mine, and ours' family: Dad's siblings (Presley, Edith) from George Sr. + Nini, Rosemary Wells from Nini + Arthur, and another (Arthur's daughter from prior)."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married George Francis Adams #2 (m. 1909)",
+    "Following the 1920 death of George Francis Adams, she remarried Arthur Wells in 1929 and raised her children in San Francisco",
+    "Married George Francis Adams (#2) (7 January 1909, Lewis County, WA)",
+    "Married Arthur Wells (San Francisco) after 1920",
+    "Parents: Presley Neville Trumbo (1840\u20131923) and Hannah Louise Buckley"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "buckley_hannah_louise",
+    "father": "trumbo_presley_neville",
+    "siblings": [],
+    "spouse": "adams_george_francis_2",
+    "children": [
+      "george_francis_adams_sr",
+      "adams_presley",
+      "adams_edith_v"
+    ]
+  },
+  "locations": [
+    "Dryad, WA",
+    "Sutherlin, OR",
+    "San Francisco, CA",
+    "Burlingame, CA",
+    "Pierce County, WA",
+    "Dryad, Lewis County, WA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1",
+    "john_howard_adams_memoir_v1"
+  ],
+  "notes": [
+    "Nicknamed Nini",
+    "Additional spouse: wells_arthur",
+    "Death timing confirmed by memoir: John's 2nd year at USNA = 1966-67. Death date 28 Sep 1967 is consistent."
+  ]
+}

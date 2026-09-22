@@ -1,0 +1,34 @@
+{
+  "id": "simons_howard",
+  "name": "Howard Simons",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Legal name Byron Daniel \u2014 Dradie filled out the birth certificate differently than Raymond had agreed. Beryl's favorite brother."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "kulp_dradie_ellen",
+    "father": "simons_raymond_zell",
+    "siblings": [
+      "beryl_simons_adams",
+      "simons_glen",
+      "simons_ralph"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Known as Howard; legal name Byron Daniel Simons. Beryl's favorite brother. Previously referenced in prior sources as 'Byron Daniel Howard Simons.'"
+  ]
+}

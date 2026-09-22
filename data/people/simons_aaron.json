@@ -1,0 +1,46 @@
+{
+  "id": "simons_aaron",
+  "name": "Aaron Simons",
+  "birth": "1852",
+  "death": "after 1920",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Worked in the logging industry and later as a farmer in Delta Township, Washington",
+    "C-005: 1900 Census (Michigan): Aaron Simons, age 48, birthplace Ohio. Confirms Ohio origin.",
+    "1910 Census (Washington): Aaron Simons, age 58. Household also includes 'Zell Busey, age 4 (unknown)' — unidentified person in the household.",
+    "1920 Census (Washington): Aaron Simons, age 68 (farmer). Hattie age 62.",
+    "Simons, McPhail, and Kulp families were located within a few farms of each other. Raymond Simons and Dradie Kulp were neighbors prior to marriage."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Harriet M. Hattie (born Canada)",
+    "Migration path: Ohio to Michigan (by 1900) to Whatcom County, Washington (by 1910)",
+    "1900: living in Michigan; 1910: living in Washington; 1920: living in Washington (farmer)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_harriet_hattie",
+    "children": [
+      "simons_raymond_zell"
+    ]
+  },
+  "locations": [
+    "Ohio",
+    "Covert Township, MI",
+    "Delta Township, WA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "email_summary_conclusions_v1"
+  ],
+  "notes": [
+    "Aaron Simons birth ~1852 confirmed (age 48 in 1900). Birthplace Ohio confirmed. 1910 household includes 'Zell Busey, age 4' — identity unknown.",
+    "CORRECTION 2026-09-22: Spouse reference harriet_m_hattie pointed at no record; changed to simons_harriet_hattie."
+  ]
+}

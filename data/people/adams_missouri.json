@@ -1,0 +1,37 @@
+{
+  "id": "adams_missouri",
+  "name": "Missouri Adams (Hall)",
+  "birth": "Nov 1850",
+  "death": "1914",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Though born as Matilda, she adopted the name Missouri as a child and used it for the remainder of her life"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married David R. Hall",
+    "Migrated with the Adams family to Colorado in 1878",
+    "Buried at Fairmount Cemetery in Denver"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "lane_cynthia",
+    "father": "adams_george_francis_1",
+    "siblings": [],
+    "spouse": "hall_david_r",
+    "children": []
+  },
+  "locations": [
+    "Chariton County, MO",
+    "Denver, CO"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: John Wesley, Col. Alexander William, Mary, Joseph Pierre Jose, Harriet E., James Casper, Virginia M., Nancy E."
+  ]
+}

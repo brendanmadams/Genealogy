@@ -1,0 +1,30 @@
+{
+  "id": "fox_casey",
+  "name": "Casey Fox",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "DNA match: 0.45% shared DNA. Simons branch extended. 4C1R. 2C3R of Glen Simons (0.56% with Glen)."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "adams_dna_linkage_v1"
+  ],
+  "notes": [
+    "Simons extended cluster."
+  ]
+}

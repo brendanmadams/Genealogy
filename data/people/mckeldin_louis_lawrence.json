@@ -1,0 +1,41 @@
+{
+  "id": "mckeldin_louis_lawrence",
+  "name": "Louis Lawrence McKeldin",
+  "birth": "17 January 1894",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 17 January 1894"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "grief_dorothea",
+    "father": "mckeldin_james_alfred",
+    "siblings": [
+      "mckeldin_charles_i",
+      "mckeldin_theodore_roosevelt",
+      "mckeldin_john",
+      "mckeldin_lillian_j",
+      "mckeldin_theresa",
+      "mckeldin_james_raymond",
+      "mckeldin_william",
+      "mckeldin_alice_holsey"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "Child of James Alfred McKeldin and Dorothea Grief."
+  ]
+}

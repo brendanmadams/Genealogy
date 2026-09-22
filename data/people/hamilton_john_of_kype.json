@@ -1,0 +1,44 @@
+{
+  "id": "hamilton_john_of_kype",
+  "name": "John Hamilton of Kype",
+  "birth": "",
+  "death": "before 1800",
+  "personality": [],
+  "roles": [
+    "Lawyer",
+    "Clerk to the regality of Mauchline"
+  ],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Best friend of Scottish poet Robert Burns"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Death: before 1800",
+    "Lawyer and clerk to the regality of Mauchline",
+    "Father of Francis Hamilton"
+  ],
+  "education": [],
+  "career": [
+    "Lawyer",
+    "Clerk to the regality of Mauchline"
+  ],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "young_jacobina",
+    "children": [
+      "hamilton_francis"
+    ]
+  },
+  "locations": [
+    "Scotland"
+  ],
+  "sources": [
+    "family_data_v1"
+  ],
+  "notes": [
+    "Father of Francis Hamilton, who is father of Elizabeth Hamilton (wife of Jose Pierre Adams). Robert Burns connection."
+  ]
+}

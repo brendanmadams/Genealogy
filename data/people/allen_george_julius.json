@@ -1,0 +1,50 @@
+{
+  "id": "allen_george_julius",
+  "name": "George Julius Allen",
+  "birth": "2 Feb 1865",
+  "death": "8 Sep 1953",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Graduated from Ottawa University; for health reasons, he moved his family to Colorado in a covered wagon, working as a stagecoach driver from Beulah to Pueblo"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Alberta Adams (m. 5 Sep 1888)",
+    "Co-founded the First Baptist Church in Marceline (1888)",
+    "Established and operated a bank with his father in Marceline",
+    "Constructed the Allen Hotel in 1906",
+    "Prominent real estate and implement businessman"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "spring_juliaetta",
+    "father": "allen_george_philemon",
+    "siblings": [],
+    "spouse": "adams_alberta",
+    "children": [
+      "allen_frances_rosetta",
+      "allen_george_philip",
+      "allen_leroy_gaylord",
+      "allen_ralph_kenneth",
+      "allen_bernice"
+    ]
+  },
+  "locations": [
+    "Brockport, NY",
+    "Ottawa, KS",
+    "Marceline, MO",
+    "Beulah, CO",
+    "Pueblo, CO",
+    "Grand Rapids, MI"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Parents listed: George Philemon Allen and Juliaetta A. Spring.",
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen)."
+  ]
+}

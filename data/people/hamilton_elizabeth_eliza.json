@@ -1,0 +1,39 @@
+{
+  "id": "hamilton_elizabeth_eliza",
+  "name": "Elizabeth (Eliza) Hamilton",
+  "birth": "abt 1791",
+  "death": "after 1860",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Migrated to Ohio following the death of Jose Pierre, providing the link for the missing Ohio branch of the family"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Jose Pierre Adams (m. 1813)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_susan",
+    "father": "hamilton_francis",
+    "siblings": [],
+    "spouse": "adams_jose_pierre",
+    "children": [
+      "adams_alexander_washington",
+      "adams_harriet_josephine",
+      "adams_magdalena",
+      "adams_mary_swan",
+      "adams_george_francis_1"
+    ]
+  },
+  "locations": [
+    "Jefferson County, VA",
+    "Union Township, Licking County, OH"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "adams_alberta",
+  "name": "Alberta Adams (Allen)",
+  "birth": "15 Nov 1866",
+  "death": "8 May 1938",
+  "personality": [
+    "Characterized as the functional matriarch of the Adams family"
+  ],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Took responsibility for ensuring relatives were buried in the family plot in Marceline, Missouri",
+    "While signing her father John Wesley's death certificate, she mistakenly noted his father was born in Ohio, a detail that led future researchers to investigate a previously unknown Ohio branch of the family"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married George Julius Allen (m. 5 Sep 1888)",
+    "Migrated to Colorado in a covered wagon with her husband in the late 1880s for health reasons",
+    "Returned to Marceline and eventually moved to Kansas in 1918"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "vantine_mary_frances",
+    "father": "adams_john_wesley",
+    "siblings": [],
+    "spouse": "allen_george_julius",
+    "children": [
+      "allen_frances_rosetta",
+      "allen_george_philip",
+      "allen_leroy_gaylord",
+      "allen_ralph_kenneth",
+      "allen_bernice"
+    ]
+  },
+  "locations": [
+    "Chariton County, MO",
+    "Colorado",
+    "Marceline, MO",
+    "Carrollton, KS",
+    "Ottawa, KS",
+    "Garnett, KS",
+    "Wellsville, KS"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: Anna M., Charles W., Mary Susan, George Francis (#2), Gertrude, William W. (Full); Clay C. Clark (Half)",
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen)."
+  ]
+}

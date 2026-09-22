@@ -1,0 +1,50 @@
+{
+  "id": "mary_adams",
+  "name": "Mary Adams",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "anne_marie_bainbridge",
+    "father": "george_francis_adams_iv",
+    "siblings": [
+      "roy_adams",
+      "sam_adams",
+      "ted_adams",
+      "george_adams"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: George, Ted, Roy, and Sam. Child of George Francis Adams IV and Anne Marie Bainbridge. Disambiguated from Mary Adams (Swan), ancestor."
+  ],
+  "aliases": []
+}

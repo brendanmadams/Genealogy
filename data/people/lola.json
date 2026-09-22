@@ -1,0 +1,32 @@
+{
+  "id": "lola",
+  "name": "Lola",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Called Barbara’s father Buckey, which Barbara’s mother hated."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "emma_bell_mckeldin",
+    "father": "mckeldin_charles_i",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "barbara_memoir_ch04_nicknames",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Barbara identifies Lola as one of her father’s sisters."
+  ],
+  "aliases": []
+}

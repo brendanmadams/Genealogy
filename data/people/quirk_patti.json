@@ -1,0 +1,30 @@
+{
+  "id": "quirk_patti",
+  "name": "Patti Quirk",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "DNA match: 0.85% shared DNA. Simons branch (confirmed via Glen's RIC). 23&Me label: 3C1R. 3C1R of Glen Simons (0.60% with Glen). CORRECTION: previously hypothesized as Quinn-related; confirmed Simons."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "adams_dna_linkage_v1"
+  ],
+  "notes": [
+    "DNA match #36 on Simons branch. Hypothesis corrected."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ivo_john_obad",
+  "name": "Ivo John Obad",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "camille_remy",
+    "children": [
+      "gabriel_michael_obad",
+      "alina_camille_obad",
+      "mateo_vlaho_obad"
+    ]
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Referenced in Camille Remy: Married Ivo John Obad on August 18, 2006",
+    "Relationship: Camille Remy -spouse-> Ivo John Obad"
+  ],
+  "aliases": []
+}

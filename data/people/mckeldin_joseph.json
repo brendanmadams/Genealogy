@@ -1,0 +1,36 @@
+{
+  "id": "mckeldin_joseph",
+  "name": "Joseph McKeldin",
+  "birth": "abt 1779",
+  "death": "abt Dec 1834",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Part of the first generation of McKeldin immigrants from Ireland to settle in Baltimore"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Mary Sinclair",
+    "Migration from Ireland to Baltimore, MD"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "sinclair_mary",
+    "children": [
+      "mckeldin_edward_hazelton"
+    ]
+  },
+  "locations": [
+    "Ireland",
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": []
+}

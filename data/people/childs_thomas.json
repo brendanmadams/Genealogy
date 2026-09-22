@@ -1,0 +1,30 @@
+{
+  "id": "childs_thomas",
+  "name": "Thomas Childs",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Edith V. Adams (per memoir p. 57)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "adams_edith_v",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Husband of Edith V. Adams (George Francis Adams Sr.'s sister). New to record."
+  ]
+}

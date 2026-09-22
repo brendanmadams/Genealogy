@@ -1,0 +1,41 @@
+{
+  "id": "goodman_amber",
+  "name": "Amber Goodman (Jorgensen)",
+  "birth": "abt 1986",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "DNA match: 0.72% shared DNA. 23&Me label: 3C1R. Simons branch via Glen's RIC. Confirmed consistent with canonical: Amber is Kimberly Zacher's daughter \u2192 Irmagene Kulp Zacher \u2192 Elmer Spencer Kulp \u2192 John Jacob Kulp. Brendan's connection also through John Jacob Kulp (via Dradie\u2192Beryl\u2192John Howard\u2192Brendan). Makes them 3rd cousins."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Dan Jorgensen",
+    "Mother of Damian and Dominick"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "zacher_kimberly_lynn",
+    "father": "",
+    "siblings": [],
+    "spouse": "jorgensen_dan",
+    "children": [
+      "jorgensen_damian",
+      "jorgensen_dominick"
+    ]
+  },
+  "locations": [
+    "Richland, WA",
+    "Everett, WA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_dna_linkage_v1"
+  ],
+  "notes": [
+    "Parent: Kimberly Lynn Zacher.",
+    "Simons branch DNA confirmed. Already canonical family member."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "quinn_marie_ellinghaus",
+  "name": "Marie Ellinghaus Quinn",
+  "birth": "abt 1901",
+  "death": "abt 1997",
+  "personality": [
+    "Lifelong learner",
+    "Self-taught \u2014 quit school in 7th grade as eldest child with fragile mother",
+    "Declined a Chicago promotion to stay in Baltimore",
+    "Generously took in those in need",
+    "Could tell you up-to-the-minute data on movie stars, presidents, TV actors, songs, and nearly every politician who ever lived"
+  ],
+  "roles": [
+    "Secretary to President of Olin Mathieson Chemical Corporation"
+  ],
+  "childhood_experience": [
+    "Quit school in 7th grade as eldest child with fragile mother; self-taught typing, shorthand, stenography"
+  ],
+  "notable_stories": [
+    "Described by Barbara Adams as 'the wisest person I've known' (memoir p. 57)",
+    "Worked for the President of Olin Mathieson Chemical Corporation and declined a Chicago promotion",
+    "Took in Barbara, Chuck, and Mary Brown; displaced her own son John into the basement to make room",
+    "Taught herself shorthand and was a skilled secretary",
+    "Took in blind Irish immigrant Mary Brown, bringing her back into the household after she went blind",
+    "Alive for J. Michael McKeldin's wedding",
+    "Had 5(?) sisters and 1 brother",
+    "Typed Barbara's term papers through high school and college",
+    "Quit school in 7th grade; eldest child with a fragile mother; took over mother's household responsibilities",
+    "Self-taught typing, shorthand, stenography. Eventually worked for the President of Olin Mathieson Chemical Corporation. Declined promotion to Chicago.",
+    "Still alive at J. Michael McKeldin's wedding (pictured with Barbara in memoir p. 59)",
+    "Displaced her own son John into the basement to make room for Barbara and Chuck",
+    "Took in Mary Brown (Irish immigrant teenager, later blind)",
+    "Quit school in 7th grade due to mother's fragile health; was the eldest so took over household duties.",
+    "Taught herself typing, shorthand, stenography.",
+    "Worked for the President of Olin Mathieson Chemical Corporation; declined to follow him to Chicago for advancement.",
+    "Took in Mary Brown (Irish immigrant, later blind \u2014 famous for scrubbing Baltimore marble stoops) along with Barbara and Chuck.",
+    "Alive at J. Michael McKeldin's wedding \u2014 pictured with Barbara on memoir p. 59."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married John Joseph Quinn",
+    "Served as the functional Grandmother to Barbara McKeldin Adams"
+  ],
+  "education": [
+    "Self-taught \u2014 typing, shorthand, stenography after leaving school in 7th grade"
+  ],
+  "career": [
+    "Secretary to President of Olin Mathieson Chemical Corporation"
+  ],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "quinn_john_joseph",
+    "children": [
+      "margaret_peggy_mckeldin",
+      "quinn_joan",
+      "quinn_john_jr",
+      "quinn_pat"
+    ]
+  },
+  "locations": [
+    "Baltimore, MD",
+    "Nicklas Avenue, Baltimore"
+  ],
+  "sources": [
+    "adams_direct_line_summary_v1",
+    "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
+    "adams_direct_line_json_v1",
+    "mckeldin_research_v1"
+  ],
+  "notes": [
+    "Barbara says Marie knew current and historical information about movie stars, presidents, TV actors, popular songs, and politicians.",
+    "Barbara's eulogy describes Marie's starring role as grandmother.",
+    "Worked for the president of Olin Mathieson Chemical Corporation.",
+    "Lived 96 years.",
+    "Motto: Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life.",
+    "Displaced her own son John into the basement to make room for Barbara and Chuck.",
+    "Alive for J. Michael McKeldin's wedding.",
+    "Promoted from unresolved (marie_ellinghaus_quinn.json).",
+    "Canonical anchors: spouse of quinn_john_joseph AND mother of margaret_peggy_mckeldin.",
+    "Motto: 'Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life.' + 'Celebrate the good times and roll up your sleeves with the bad times.'",
+    "CORRECTION: Prior record attributed typing/shorthand + Olin Mathieson career to Ethel Quinn Schriefer. Memoir p. 58 reveals this describes MARIE Ellinghaus-Quinn, not Ethel. Correction applied.",
+    "Maiden name: Ellinghaus. Married John Joseph Quinn.",
+    "Motto: 'Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life. Celebrate the good times and roll up your sleeves with the bad times.'"
+  ]
+}

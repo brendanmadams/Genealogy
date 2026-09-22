@@ -1,0 +1,42 @@
+{
+  "id": "allen_ralph_kenneth",
+  "name": "Ralph Kenneth Allen",
+  "birth": "16 Dec 1904",
+  "death": "7 Jan 1994",
+  "personality": [
+    "An English scholar who could fluently speak Gaelic English and quote Steppenwolf at will"
+  ],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "An English scholar who could fluently speak Gaelic English and quote Steppenwolf at will"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Zella Campbell Peggy Whitman",
+    "Married Irene Louisa Smith (second marriage)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "adams_alberta",
+    "father": "allen_george_julius",
+    "siblings": [],
+    "spouse": "whitman_zella_campbell",
+    "children": [],
+    "_extra_spouses": [
+      "smith_irene_louisa"
+    ]
+  },
+  "locations": [
+    "Marceline, MO",
+    "Portland, OR",
+    "Spokane, WA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Multiple spouses: whitman_zella_campbell, smith_irene_louisa"
+  ]
+}

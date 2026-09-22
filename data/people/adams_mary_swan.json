@@ -1,0 +1,36 @@
+{
+  "id": "adams_mary_swan",
+  "name": "Mary Adams (Swan)",
+  "birth": "abt 1818",
+  "death": "before 1860",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "George's twin sister",
+    "In a common practice of the time, she married her late sister Magdalena's husband to care for her nieces and nephews"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Lewis Swan in Franklin County, Ohio (m. 24 Sep 1848)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_elizabeth_eliza",
+    "father": "adams_jose_pierre",
+    "siblings": [],
+    "spouse": "swan_lewis",
+    "children": []
+  },
+  "locations": [
+    "Jefferson County, VA",
+    "Franklin County, OH"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: Twin brother George Francis (#1), Alexander Washington, Magdalena, Harriet Josephine, Susan, and Ursula"
+  ]
+}

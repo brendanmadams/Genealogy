@@ -1,0 +1,38 @@
+{
+  "id": "adams_alexander_washington",
+  "name": "Alexander Washington Adams",
+  "birth": "abt 1818",
+  "death": "after 1863",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "His existence was long a mystery to Missouri-based family researchers until he was located in Ohio records",
+    "He and his family were neighbors to his sister Harriet Josephine Gill"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Christiana F. Konitzer",
+    "Migrated from Virginia to Ohio via the National Road",
+    "Registered for the Civil War draft in 1863"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_elizabeth_eliza",
+    "father": "adams_jose_pierre",
+    "siblings": [],
+    "spouse": "konitzer_christiana",
+    "children": []
+  },
+  "locations": [
+    "Jefferson County, VA",
+    "Franklin County, OH"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: George Francis #1, Magdalena, Mary, Harriet Josephine, Susan, and Ursula"
+  ]
+}

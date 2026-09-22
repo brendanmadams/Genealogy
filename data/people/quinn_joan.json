@@ -1,0 +1,45 @@
+{
+  "id": "quinn_joan",
+  "name": "Joan Quinn",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [
+    "telephone operator"
+  ],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [
+    "telephone operator"
+  ],
+  "relationships": {
+    "mother": "quinn_marie_ellinghaus",
+    "father": "quinn_john_joseph",
+    "siblings": [
+      "quinn_john_jr",
+      "quinn_pat",
+      "margaret_peggy_mckeldin"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1",
+    "adams_direct_line_summary_v1",
+    "barbara_memoir_ch02_a_typical_birth_day"
+  ],
+  "notes": [
+    "Barbara identifies Joan as one of John Joseph Quinn\u2019s children.",
+    "Worked as a telephone operator.",
+    "Joan Quinn, telephone operator. Sibling of Peggy Quinn McKeldin.",
+    "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn.",
+    "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14.",
+    "Promoted from unresolved (joan.json)."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "simons_glen",
+  "name": "Glen Simons",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "A key anchor for the Simons branch DNA cluster",
+    "7.86% shared DNA with Brendan \u2014 anchor match for Simons branch. Beryl's brother (or Glen Sr.'s son Glen). Ann Simons confirmed as Glen's daughter (49.88% shared DNA = parent-child)."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "kulp_dradie_ellen",
+    "father": "simons_raymond_zell",
+    "siblings": [
+      "simons_ralph",
+      "simons_howard"
+    ],
+    "spouse": "",
+    "children": [
+      "simons_ann"
+    ]
+  },
+  "locations": [
+    "Washington"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_dna_linkage_v1"
+  ],
+  "notes": [
+    "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
+    "Simons branch anchor. Father of Ann Simons (confirmed by DNA)."
+  ]
+}

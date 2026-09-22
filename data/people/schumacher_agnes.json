@@ -1,0 +1,34 @@
+{
+  "id": "schumacher_agnes",
+  "name": "Agnes Schumacher",
+  "birth": "1652",
+  "death": "7 February 1705",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 1652, Wolfsheim, Germany",
+    "Death: 7 February 1705",
+    "Married Dielman Edward Kolb (m. 1670)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "kolb_dielman_edward",
+    "children": [
+      "kolb_henry"
+    ]
+  },
+  "locations": [
+    "Wolfsheim, Germany"
+  ],
+  "sources": [
+    "family_data_v1"
+  ],
+  "notes": []
+}

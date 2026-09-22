@@ -1,0 +1,20 @@
+{
+  "_comment": "Family lines used for colouring and filtering. A line is seeded by its earliest known ancestor(s) in the data ('roots'). Everyone descended from a root belongs to that line ('lineages'); a person's primary 'branch' follows the father's line when known, otherwise the mother's. Spouses who marry in are assigned their partner's branch with branch_by_marriage = true. Edit freely: add roots, rename, recolour.",
+  "branches": [
+    { "key": "adams",     "label": "Adams",          "color": "#f59e0b", "roots": ["adams_jose_pierre"] },
+    { "key": "hamilton",  "label": "Hamilton",       "color": "#d97706", "roots": ["hamilton_john_of_kype"] },
+    { "key": "mckeldin",  "label": "McKeldin",       "color": "#10b981", "roots": ["mckeldin_joseph"] },
+    { "key": "grief",     "label": "Grief",          "color": "#34d399", "roots": ["grief_michael"] },
+    { "key": "quinn",     "label": "Quinn",          "color": "#6366f1", "roots": ["quinn_john_joseph", "quinn_marie_ellinghaus"] },
+    { "key": "schriefer", "label": "Schriefer",      "color": "#22c55e", "roots": ["schriefer_george_goode", "ethel_quinn_schriefer"] },
+    { "key": "kulp",      "label": "Kolb / Kulp",    "color": "#14b8a6", "roots": ["kolb_dielman_edward"] },
+    { "key": "simons",    "label": "Simons",         "color": "#0ea5e9", "roots": ["simons_aaron", "simons_harriet_hattie"] },
+    { "key": "allen",     "label": "Allen",          "color": "#a3e635", "roots": ["allen_george_philemon", "spring_juliaetta"] },
+    { "key": "trumbo",    "label": "Trumbo",         "color": "#eab308", "roots": ["trumbo_presley_neville", "buckley_hannah_louise"] },
+    { "key": "zacher",    "label": "Zacher",         "color": "#fb923c", "roots": ["zacher_donald_adam"] },
+    { "key": "smith",     "label": "Smith",          "color": "#ec4899", "roots": ["louis_russell_smith", "genevieve_mildred_smith"] },
+    { "key": "remy",      "label": "Remy",           "color": "#8b5cf6", "roots": ["michael_remy"] },
+    { "key": "obad",      "label": "Obad",           "color": "#f43f5e", "roots": ["ivo_john_obad"] }
+  ],
+  "other": { "key": "other", "label": "Other / In-law", "color": "#94a3b8" }
+}

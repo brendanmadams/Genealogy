@@ -1,0 +1,34 @@
+{
+  "id": "clemens_mary_bachman",
+  "name": "Mary Bachman Clemens",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Jacob Oberholtzer Kolb"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "kolb_jacob_oberholtzer",
+    "children": [
+      "kulp_abraham_clemens"
+    ]
+  },
+  "locations": [
+    "Montgomery County, PA"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Wife of Jacob Oberholtzer Kolb. Source: Irmagene Kulp Zacher, Kulp Family Lineage."
+  ]
+}

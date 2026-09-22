@@ -1,0 +1,66 @@
+{
+  "id": "adams_george_francis_1",
+  "name": "George Francis Adams (#1)",
+  "birth": "11 May 1816",
+  "death": "abt 1898",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Reportedly took part in the Black Hawk war (1835) and helped drive Mormons from Missouri (1836)",
+    "Served in the Confederate army during the Civil War under Generals Price, Van Dorn, and McGruder",
+    "C-001: George F. birthplace listed as Ohio on John W. Adams' death certificate, but informant (Alberta Allen) likely guessed. Confidence: Identity HIGH, Birthplace LOW.",
+    "Primary documents (land patents signed by Presidents Fillmore and Buchanan; military enlistment record) reinforce lineage validity.",
+    "Birthplace conflict originates from weak source (death certificate informant who probably guessed)."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Cynthia Lane (m. 1841)",
+    "Settled in Chariton County MO abt 1836",
+    "Moved to Douglas County CO in 1878",
+    "Served as Justice of the Peace in Missouri",
+    "Developed a section of land for a stock business",
+    "Retired to Castle Rock, Colorado, in 1886",
+    "Married Cynthia Lane (14 January 1841, Chariton County, MO)",
+    "Occupation: Farmer, later stock grower",
+    "Buried: Cedar Hills Cemetery, Castle Rock, CO — unmarked grave in Adams Family Plot",
+    "Census trail: Chariton County MO (1850, 1860, 1870) → Douglas County CO (1880)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_elizabeth_eliza",
+    "father": "adams_jose_pierre",
+    "siblings": [],
+    "spouse": "lane_cynthia",
+    "children": [
+      "adams_john_wesley",
+      "adams_harriett_e",
+      "adams_alexander_william_col",
+      "adams_joseph_pierre_jose2",
+      "adams_missouri",
+      "adams_james_casper"
+    ]
+  },
+  "locations": [
+    "Jefferson County, VA",
+    "Chariton County, MO",
+    "Douglas County, CO",
+    "Virginia",
+    "Castle Rock, CO"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1",
+    "manual_stitch_adams_direct_line",
+    "email_summary_conclusions_v1"
+  ],
+  "notes": [
+    "Siblings listed: Alexander Washington, Magdalena (Margaret), Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)",
+    "Brendan's 5x-great-grandfather (paternal line Gen 2). Source note: born ~1817 per this document vs 11 May 1816 per prior sources — minor discrepancy preserved.",
+    "Child added: adams_john_wesley. Evidence: Adams direct line: Gen 3 (John Wesley Adams, b.1841) is son of Gen 2 (George Francis Adams #1, b.~1817). Source: adams_direct_line_json_v1, family_data_v1.",
+    "Father set: adams_jose_pierre. Evidence: Adams direct line: Gen 2 (George Francis Adams #1, b.~1817) is son of Gen 1 (Jose Pierre Adams, b.~1791). Source: adams_direct_line_json_v1, family_data_v1.",
+    "C-001: Birthplace conflict — Ohio on death cert likely informant error. Primary docs (land patents, military record) anchor identity with high confidence.",
+    "CORRECTION 2026-09-22: Mother set to hamilton_elizabeth_eliza: the only recorded wife of his father Jose Pierre Adams, and named as mother by his siblings' records."
+  ]
+}

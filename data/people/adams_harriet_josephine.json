@@ -1,0 +1,37 @@
+{
+  "id": "adams_harriet_josephine",
+  "name": "Harriet Josephine Adams (Gill)",
+  "birth": "8 Dec 1819",
+  "death": "30 Jan 1900",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Often referred to in records as Jacobina, she provided a home for her widowed mother Elizabeth in Ohio",
+    "Acted as the anchor for the missing Ohio branch of the Adams family",
+    "Outlived almost all of her siblings"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Stephen Augusta Gill"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_elizabeth_eliza",
+    "father": "adams_jose_pierre",
+    "siblings": [],
+    "spouse": "gill_stephen_augusta",
+    "children": []
+  },
+  "locations": [
+    "Jefferson County, VA",
+    "Licking County, OH"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: George Francis #1, Alexander Washington, Magdalena, Mary, Susan, and Ursula"
+  ]
+}

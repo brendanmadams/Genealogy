@@ -1,0 +1,37 @@
+{
+  "id": "mckeldin_david_w",
+  "name": "David W McKeldin",
+  "birth": "1849",
+  "death": "1889",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "selbe_sophia",
+    "father": "mckeldin_edward_hazelton",
+    "siblings": [
+      "mckeldin_james_alfred",
+      "mckeldin_sarah_rebecca",
+      "mckeldin_george",
+      "mckeldin_louis",
+      "mckeldin_william_edward_son",
+      "mckeldin_mary_alice"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "Child of Edward Hazelton McKeldin and Sophia Selbe. Sibling of James Alfred McKeldin."
+  ]
+}

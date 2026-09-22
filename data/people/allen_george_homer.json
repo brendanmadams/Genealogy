@@ -1,0 +1,61 @@
+{
+  "id": "allen_george_homer",
+  "name": "George Homer Allen",
+  "birth": "8 Mar 1921",
+  "death": "18 Sep 2010",
+  "personality": [
+    "Brilliant lawyer"
+  ],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "A brilliant lawyer who graduated Yale with Phi Beta Kappa honors",
+    "He traveled 17,000 miles across the U.S. and Canada by car in the 1980s"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Dorothy Ann Wheeler (m. 1944)",
+    "Married Suzzanne Modine (m. 1972)",
+    "Served as a Lieutenant in the Third Air Force during WWII",
+    "Father of five children from his first marriage",
+    "Harvard Law grad",
+    "Lieutenant in Third Air Force during WWII"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "allen_george_philip",
+    "siblings": [
+      "allen_margaret_jeanice"
+    ],
+    "spouse": "wheeler_dorothy_ann",
+    "children": [
+      "allen_guinevere",
+      "allen_benjamin_alistair",
+      "allen_wendy",
+      "allen_susan",
+      "allen_william_dorothy",
+      "allen_anthony",
+      "allen_brooks"
+    ],
+    "_extra_spouses": [
+      "modine_suzzanne"
+    ]
+  },
+  "locations": [
+    "Waukegan, IL",
+    "Sioux Falls, SD",
+    "Pueblo, CO",
+    "Santa Barbara, CA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "family_data_v1"
+  ],
+  "notes": [
+    "Siblings listed: Margaret Jeanice Peggy Allen",
+    "Multiple spouses: wheeler_dorothy_ann, modine_suzzanne",
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter."
+  ]
+}

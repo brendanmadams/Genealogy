@@ -1,0 +1,30 @@
+{
+  "id": "smith_brianna",
+  "name": "Brianna Smith",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "DNA match: 0.80% shared DNA. Unplaced. 23&Me label: 3C."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "adams_dna_linkage_v1"
+  ],
+  "notes": [
+    "DNA match #31. Unplaced."
+  ]
+}

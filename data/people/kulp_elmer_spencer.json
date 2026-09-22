@@ -1,0 +1,39 @@
+{
+  "id": "kulp_elmer_spencer",
+  "name": "Elmer Spencer Kulp",
+  "birth": "17 Oct 1908",
+  "death": "10 Sept 1989",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Filed for a birth certificate later in life with confirmation from his uncle Tate McPhail"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Amy Ritchey"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "kulp_john_jacob",
+    "siblings": [],
+    "spouse": "ritchey_amy",
+    "children": [
+      "kulp_irmagene",
+      "kulp_spencer_ritchey"
+    ]
+  },
+  "locations": [
+    "Lynden, WA",
+    "Pasco, WA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Spouse corrected to ritchey_amy (was erroneously self-referencing)."
+  ]
+}

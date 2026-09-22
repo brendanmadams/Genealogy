@@ -1,0 +1,37 @@
+{
+  "id": "adams_presley",
+  "name": "Presley Adams",
+  "birth": "22 June 1910",
+  "death": "January 1987",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "trumbo_serena_marie",
+    "father": "adams_george_francis_2",
+    "siblings": [
+      "george_francis_adams_sr",
+      "adams_edith_v",
+      "adams_george_francis_2"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Sutherlin, OR",
+    "Gardnerville, NV"
+  ],
+  "sources": [
+    "adams_direct_line_summary_v1",
+    "family_data_v1"
+  ],
+  "notes": [
+    "Sibling of George Francis Adams Sr. (child of George Francis Adams #2 and Serena Trumbo). Previously listed as 'Presley Marcason Adams' in prior sources.",
+    "Precise birth and death dates newly established. Sibling of George Francis Adams Sr."
+  ]
+}

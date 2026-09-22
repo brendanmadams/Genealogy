@@ -1,0 +1,59 @@
+{
+  "id": "adams_alexander_william_col",
+  "name": "Col. Alexander William Adams",
+  "birth": "Jun 1842",
+  "death": "21 Sep 1904",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Served in the military in 1862 and joined the 3rd Missouri Cavalry, mustering out as a Sergeant in 1865",
+    "CONFLICT RESOLVED: Col. Alexander William Adams served in the UNION Army during the Civil War, joining the 3rd Missouri Cavalry in 1862 as private and mustering out as Sergeant in 1865. Primary source (Adams Family Doc) explicitly states Union Army.",
+    "After the war Alexander moved back home, became a farmer, and married Unknown Ashby. She died soon after giving birth to their son Henry in 1868.",
+    "Alexander married Mary Martin January 17, 1871 in Chariton County, Missouri."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Unknown Ashby (d. 1868)",
+    "Married Mary Louisa Martin (m. 1871)",
+    "Worked as a farmer after the Civil War",
+    "Later lived in Kansas City until his death",
+    "Union Army veteran, 3rd Missouri Cavalry",
+    "Kansas City merchant",
+    "Served in the Union Army, 3rd Missouri Cavalry, 1862-1865, mustered out as Sergeant",
+    "Married Unknown Ashby (d. shortly after 1868)",
+    "Married Mary Louisa Martin: 17 January 1871, Chariton County, MO"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "lane_cynthia",
+    "father": "adams_george_francis_1",
+    "siblings": [],
+    "spouse": "ashby_unknown",
+    "children": [
+      "adams_henry_a",
+      "adams_caleb_martin"
+    ],
+    "_extra_spouses": [
+      "martin_mary_louisa"
+    ]
+  },
+  "locations": [
+    "Chariton County, MO",
+    "Kansas City, MO"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "family_data_v1",
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Siblings listed: John Wesley, Mary, Joseph Pierre Jose, Missouri, Harriet E., James Casper, Virginia M., Nancy E.",
+    "Multiple spouses: unknown_ashby, martin_mary_louisa",
+    "CONFLICT: This source says 'Union Army veteran'; prior sources say 'Confederate Army.' Both recorded. The 3rd Missouri Cavalry had both Union and Confederate regiments — requires resolution.",
+    "UNRESOLVED: Col. Alexander William Adams — this source lists 'Union Army veteran, 3rd Missouri Cavalry'; prior source lists 'Confederate Army.' Both a Union 3rd Missouri Cavalry and a Confederate 3rd Missouri Cavalry existed during the Civil War. Further research needed to determine which regiment.",
+    "Union Army CONFIRMED. Prior source conflict resolved — he served Union, not Confederate. Source: Adams Family Doc primary genealogy.",
+    "CORRECTION 2026-09-22: Spouse reference unknown_ashby pointed at no record; created ashby_unknown and pointed to it."
+  ]
+}

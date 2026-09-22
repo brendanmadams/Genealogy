@@ -1,0 +1,37 @@
+{
+  "id": "swan_lewis",
+  "name": "Lewis Swan",
+  "birth": "abt 1807",
+  "death": "between 1870-1880",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Magdalena Adams (m. 1838)",
+    "Married Mary Adams (m. 1848) after Magdalena's death"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "adams_magdalena",
+    "children": []
+  },
+  "locations": [
+    "Franklin County, OH",
+    "Licking County, OH"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "family_data_v1"
+  ],
+  "notes": [
+    "Married Magdalena Adams (m. 25 Sep 1838) then Mary Adams (Swan) (m. 24 Sep 1848) after Magdalena's death.",
+    "Additional spouse: adams_mary_swan",
+    "Birth date newly established: abt 1807."
+  ]
+}

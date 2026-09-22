@@ -1,0 +1,46 @@
+{
+  "id": "mckeldin_john",
+  "name": "John McKeldin",
+  "birth": "25 March 1883",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 25 March 1883",
+    "Father of James B McKeldin (1907-1969)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "grief_dorothea",
+    "father": "mckeldin_james_alfred",
+    "siblings": [
+      "mckeldin_charles_i",
+      "mckeldin_theodore_roosevelt",
+      "mckeldin_william_edward_son",
+      "mckeldin_george_edward",
+      "mckeldin_lillian_j",
+      "mckeldin_theresa",
+      "mckeldin_louis_lawrence",
+      "mckeldin_james_raymond",
+      "mckeldin_william",
+      "mckeldin_alice_holsey"
+    ],
+    "spouse": "",
+    "children": [
+      "mckeldin_james_b"
+    ]
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "Child of James Alfred McKeldin and Dorothea Grief. Father of James B McKeldin (1907-1969). Distinct from William McKeldin (child of Edward Hazelton)."
+  ]
+}

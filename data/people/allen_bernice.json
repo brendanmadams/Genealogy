@@ -1,0 +1,38 @@
+{
+  "id": "allen_bernice",
+  "name": "Bernice Allen",
+  "birth": "30 July 1891",
+  "death": "30 November 1989",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Died at age 98 in Tacoma, WA; buried at Amarillo, TX in Llano Cemetery"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 30 July 1891, Marceline, MO",
+    "Death: 30 November 1989, Tacoma, Pierce County, WA (age 98)",
+    "Married Harold Emerson Billingslea: 11 June 1913"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "adams_alberta",
+    "father": "allen_george_julius",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Marceline, MO",
+    "Amarillo, TX",
+    "Tacoma, WA"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Daughter of Alberta Adams Allen and George Julius Allen. Source: Adams Family Doc."
+  ]
+}

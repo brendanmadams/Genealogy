@@ -1,0 +1,46 @@
+{
+  "id": "ritchey_amy",
+  "name": "Amy Ritchey",
+  "birth": "2 January 1908",
+  "death": "13 May 2007",
+  "personality": [
+    "Longtime school teacher"
+  ],
+  "roles": [
+    "School teacher"
+  ],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Died on Mother's Day at 99.5 years old"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 2 January 1908",
+    "Death: 13 May 2007 (Mother's Day)",
+    "Married Elmer Spencer Kulp: 4 June 1931, Bellingham, Whatcom County, WA"
+  ],
+  "education": [],
+  "career": [
+    "Longtime school teacher"
+  ],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "kulp_elmer_spencer",
+    "children": [
+      "kulp_irmagene",
+      "kulp_spencer_ritchey"
+    ]
+  },
+  "locations": [
+    "Lynden, WA",
+    "Bellingham, WA"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Marriage date confirmed: 4 June 1931, Bellingham. Fixes prior issue where Elmer Spencer Kulp's spouse field incorrectly pointed to himself."
+  ]
+}

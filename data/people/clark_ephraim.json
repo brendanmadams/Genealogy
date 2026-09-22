@@ -1,0 +1,32 @@
+{
+  "id": "clark_ephraim",
+  "name": "Ephraim Clark",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "First husband of Mary Frances Vantine; married her when she was 15"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "vantine_mary_frances",
+    "children": [
+      "clark_clay_c"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "family_data_v1"
+  ],
+  "notes": [
+    "First husband of Mary Frances Vantine (prior to John Wesley Adams). Father of Clay C. Clark. First name newly established in this source."
+  ]
+}

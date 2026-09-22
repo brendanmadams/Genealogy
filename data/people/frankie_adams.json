@@ -1,0 +1,46 @@
+{
+  "id": "frankie_adams",
+  "name": "Frankie Adams",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "nicole_adawn_della_selva",
+    "father": "geoffrey_louis_adams",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: Elizabeth. Child of Geoffry Louis Adams and Nicole Adawn Della Selva.",
+    "CORRECTION 2026-09-22: Mother set to nicole_adawn_della_selva, named in this record's own notes (\"Child of Geoffry Louis Adams and Nicole Adawn Della Selva\")."
+  ],
+  "aliases": []
+}

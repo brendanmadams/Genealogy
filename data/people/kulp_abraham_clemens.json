@@ -1,0 +1,36 @@
+{
+  "id": "kulp_abraham_clemens",
+  "name": "Abraham Clemens Kulp",
+  "birth": "19 July 1770",
+  "death": "11 February 1847",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 19 July 1770, Towamencin, Montgomery County, PA",
+    "Death: 11 February 1847, Lycoming, PA"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "clemens_mary_bachman",
+    "father": "kolb_jacob_oberholtzer",
+    "siblings": [],
+    "spouse": "",
+    "children": [
+      "kulp_ephraim"
+    ]
+  },
+  "locations": [
+    "Towamencin, Montgomery County, PA",
+    "Lycoming, PA"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Son of Jacob Oberholtzer Kolb. Father of Ephraim Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage."
+  ]
+}

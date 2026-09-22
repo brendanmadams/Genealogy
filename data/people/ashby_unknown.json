@@ -1,0 +1,32 @@
+{
+  "id": "ashby_unknown",
+  "name": "(Unknown) Ashby",
+  "birth": "",
+  "death": "1868",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Col. Alexander William Adams (first wife)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "adams_alexander_william_col",
+    "children": [
+      "adams_henry_a"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "martin_mary_louisa notes: \"first wife Unknown Ashby died 1868\""
+  ],
+  "notes": [
+    "CORRECTION 2026-09-22: Stub record created so the first marriage of Col. Alexander William Adams can be represented. Given name unknown. Henry A. Adams (b. Jan 1868) is attributed to her by inference: born before her death in 1868 and before the Colonel's 1871 marriage to Mary Louisa Martin."
+  ]
+}

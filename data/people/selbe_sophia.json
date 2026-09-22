@@ -1,0 +1,41 @@
+{
+  "id": "selbe_sophia",
+  "name": "Sophia E. Selbe",
+  "birth": "20 March 1825",
+  "death": "8 October 1891",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "German immigrant"
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "mckeldin_edward_hazelton",
+    "children": [
+      "mckeldin_james_alfred",
+      "mckeldin_david_w",
+      "mckeldin_george",
+      "mckeldin_louis",
+      "mckeldin_mary_alice",
+      "mckeldin_sarah_rebecca",
+      "mckeldin_william_edward_son"
+    ]
+  },
+  "locations": [
+    "Germany",
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "McKeldin Gen 3. Brendan's 3x-great-grandmother. New to record."
+  ]
+}

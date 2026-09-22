@@ -1,0 +1,37 @@
+{
+  "id": "mckeldin_mary_alice",
+  "name": "Mary Alice McKeldin van Fossen",
+  "birth": "1862",
+  "death": "1947",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "selbe_sophia",
+    "father": "mckeldin_edward_hazelton",
+    "siblings": [
+      "mckeldin_james_alfred",
+      "mckeldin_david_w",
+      "mckeldin_sarah_rebecca",
+      "mckeldin_george",
+      "mckeldin_louis",
+      "mckeldin_william_edward_son"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "Child of Edward Hazelton McKeldin and Sophia Selbe. Married surname: van Fossen."
+  ]
+}

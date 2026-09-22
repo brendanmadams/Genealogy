@@ -1,0 +1,69 @@
+{
+  "id": "adams_john_wesley",
+  "name": "John Wesley Adams",
+  "birth": "Sep 1841",
+  "death": "12 Nov 1920",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "A farmer near Marceline, MO",
+    "His daughter Alberta Allen signed his death certificate and mistakenly noted his father (George F.) was born in Ohio",
+    "Death certificate mistake regarding father's birthplace led to Ohio research breakthrough",
+    "C-003: Death location confirmed as Benton, Arkansas from death certificate. Connected to George F. and Cynthia Lane. High confidence."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Mary Frances Vantine (m. 1866)",
+    "Married Serina Smith (m. 1907)",
+    "Enumerated in Missouri censuses as a farmer",
+    "Moved to Oregon and finally Arkansas in his later years",
+    "Married Mary Frances VanTine (3 January 1866, Chariton County, MO)",
+    "Married Saurena (Serina Smith) (~1907, Multnomah County, OR)",
+    "Census trail: MO (1850, 1860, 1870, 1900) → Denver CO (1880) → Multnomah County OR (1910) → Benton County AR (1920)",
+    "Married Mary Frances VanTine: 3 January 1866, Chariton County, MO",
+    "Married Saurena (Serina Smith): about 1907"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "lane_cynthia",
+    "father": "adams_george_francis_1",
+    "siblings": [],
+    "spouse": "vantine_mary_frances",
+    "children": [
+      "adams_george_francis_2",
+      "adams_alberta"
+    ],
+    "_extra_spouses": [
+      "smith_serina"
+    ]
+  },
+  "locations": [
+    "Chariton County, MO",
+    "Denver, CO",
+    "Powell Valley, OR",
+    "Dickson Township, AR",
+    "Missouri",
+    "Multnomah County, OR",
+    "Benton County, AR"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1",
+    "manual_stitch_adams_direct_line",
+    "adams_family_doc_ocr_v1",
+    "email_summary_conclusions_v1"
+  ],
+  "notes": [
+    "Siblings listed: Alexander William, Mary, Joseph Pierre Jose, Missouri, Harriet E., James Casper, Virginia M., Nancy E.",
+    "Multiple spouses: vantine_mary_frances, smith_serina",
+    "Death date more precise here: 14 November 1920 (vs 12 Nov 1920 in prior source)",
+    "Additional spouse: smith_serina",
+    "Child added: adams_george_francis_2. Evidence: Adams direct line: Gen 4 (George Francis Adams #2, b.1876) is son of Gen 3 (John Wesley Adams, b.1841). Source: adams_direct_line_json_v1, family_data_v1.",
+    "Father set: adams_george_francis_1. Evidence: Adams direct line: Gen 3 (John Wesley Adams, b.1841) is son of Gen 2 (George Francis Adams #1, b.~1817). Source: adams_direct_line_json_v1, family_data_v1.",
+    "Death date confirmed: 14 November 1920. Note: prior source had 12 Nov 1920 — this source gives 14 Nov. Confirm with death certificate.",
+    "Benton County AR confirmed — consistent with canonical 'Dickson Township, Benton County, AR'.",
+    "CORRECTION 2026-09-22: Mother set to lane_cynthia: the only recorded wife of his father George Francis Adams (#1), married 1841, the year of his birth; his siblings' records name her as mother."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "hamilton_francis",
+  "name": "Francis Hamilton",
+  "birth": "1743",
+  "death": "c. 1802",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Best friend of Scottish poet Robert Burns"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 1743, Mauchline, Ayrshire, Scotland",
+    "Death: c. 1802",
+    "Settled at Keeptriste, VA, in 1773",
+    "Property distributed to heirs in 1809"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "young_jacobina",
+    "father": "hamilton_john_of_kype",
+    "siblings": [],
+    "spouse": "hamilton_susan",
+    "children": [
+      "hamilton_elizabeth_eliza"
+    ]
+  },
+  "locations": [
+    "Mauchline, Ayrshire, Scotland",
+    "Jefferson County, VA"
+  ],
+  "sources": [
+    "family_data_v1"
+  ],
+  "notes": [
+    "Father of Elizabeth (Eliza) Hamilton (wife of Jose Pierre Adams). Parents: John Hamilton of Kype and Jacobina Young."
+  ]
+}

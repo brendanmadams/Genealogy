@@ -1,0 +1,32 @@
+{
+  "id": "mckeldin_clara",
+  "name": "Clara McKeldin",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "manzer_honolulu_claire",
+    "father": "mckeldin_theodore_roosevelt",
+    "siblings": [
+      "mckeldin_theodore_jr"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "mckeldin_research_v1"
+  ],
+  "notes": [
+    "Daughter of Theodore Roosevelt McKeldin (53rd Governor of Maryland) and Honolulu Claire Manzer. Source: McKeldin Research 18 Apr 2026."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mckeldin_william_edward_son",
+  "name": "William McKeldin",
+  "birth": "1857",
+  "death": "1902",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "selbe_sophia",
+    "father": "mckeldin_edward_hazelton",
+    "siblings": [
+      "mckeldin_james_alfred",
+      "mckeldin_david_w",
+      "mckeldin_sarah_rebecca",
+      "mckeldin_george",
+      "mckeldin_louis",
+      "mckeldin_mary_alice",
+      "mckeldin_john"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "Child of Edward Hazelton McKeldin and Sophia Selbe. Distinct from William Frederick Podge McKeldin (mckeldin_william \u2014 CONFLICT with existing ID).",
+    "ID disambiguated: mckeldin_william was taken by William Frederick Podge McKeldin. This is William McKeldin (1857-1902), child of Edward Hazelton McKeldin."
+  ]
+}

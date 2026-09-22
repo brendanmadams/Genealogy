@@ -1,0 +1,38 @@
+{
+  "id": "quinn_john_jr",
+  "name": "John Quinn Jr.",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "quinn_marie_ellinghaus",
+    "father": "quinn_john_joseph",
+    "siblings": [
+      "quinn_joan",
+      "quinn_pat",
+      "margaret_peggy_mckeldin"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1",
+    "barbara_memoir_ch16_the_wisest_person_ive_ever_known"
+  ],
+  "notes": [
+    "Barbara identifies John Quinn as Marie Ellinghaus-Quinn's husband.",
+    "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn.",
+    "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14. Disambiguated from father quinn_john_joseph.",
+    "Promoted from unresolved (john_quinn.json)."
+  ]
+}

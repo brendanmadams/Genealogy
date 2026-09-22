@@ -1,0 +1,30 @@
+{
+  "id": "yingling_john",
+  "name": "John Yingling",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "DNA match: 0.38% shared DNA. Simons branch extended. 4C2R. 3C2R of Glen Simons (0.50% with Glen)."
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "adams_dna_linkage_v1"
+  ],
+  "notes": [
+    "Simons extended cluster."
+  ]
+}

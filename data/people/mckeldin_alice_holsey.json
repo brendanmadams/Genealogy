@@ -1,0 +1,41 @@
+{
+  "id": "mckeldin_alice_holsey",
+  "name": "Alice McKeldin Holsey",
+  "birth": "30 December 1902",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 30 December 1902"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "grief_dorothea",
+    "father": "mckeldin_james_alfred",
+    "siblings": [
+      "mckeldin_charles_i",
+      "mckeldin_theodore_roosevelt",
+      "mckeldin_john",
+      "mckeldin_lillian_j",
+      "mckeldin_theresa",
+      "mckeldin_louis_lawrence",
+      "mckeldin_james_raymond",
+      "mckeldin_william"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "Child of James Alfred McKeldin and Dorothea Grief. Married surname: Holsey."
+  ]
+}

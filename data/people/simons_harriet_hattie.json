@@ -1,0 +1,45 @@
+{
+  "id": "simons_harriet_hattie",
+  "name": "Harriet M. Hattie Simons",
+  "birth": "December 1858",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "C-005: 1900 Census: Harriet Simons, age 41, birthplace Canada → birth ~1858-59 (consistent with canonical Dec 1858).",
+    "1910 Census: Hattie Simons, age 59 → birth ~1851 (CONFLICT with 1900 census calculation). Death index conflict.",
+    "Noted as 'closest relative' on Raymond Zell Simons' WWI draft card."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Birth: December 1858"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_aaron",
+    "children": [
+      "simons_raymond_zell"
+    ]
+  },
+  "locations": [
+    "Canada",
+    "Michigan",
+    "Washington"
+  ],
+  "sources": [
+    "family_data_v1",
+    "john_howard_adams_memoir_v1",
+    "email_summary_conclusions_v1"
+  ],
+  "notes": [
+    "Birth date Dec 1858 newly established — previously excluded as nickname-only. Mother of Raymond Zell Simons.",
+    "OPEN QUESTION: John's memoir states Gertrude Elaine Adams Remy was named after 'Beryl's grandmother.' Harriet M. Hattie Simons is one of Beryl's two grandmothers (paternal). If she carried 'Gertrude' as a middle or alternate name, Trudy's naming is explained. Research: Harriet's full name on marriage/birth records.",
+    "Date conflict: 1900 census gives birth ~1858-59; 1910 census gives ~1851. Canonical holds Dec 1858 per prior source.",
+    "CORRECTION 2026-09-22: Removed simons_glen from children; he is her grandson (son of Raymond Zell Simons)."
+  ]
+}

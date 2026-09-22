@@ -1,0 +1,40 @@
+{
+  "id": "kulp_ephraim",
+  "name": "Ephraim Kulp",
+  "birth": "10 April 1811",
+  "death": "2 April 1884",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Irmagene Zacher notes multiple conflicting birth dates: 1805/1809/1811 \u2014 not sure which is right"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 10 April 1811, Kulpsville, PA (disputed: also recorded as 1805/1809)",
+    "Death: 2 April 1884, Elk City, Clarion County, PA",
+    "Married Maria Catharina Confer, Somerset, PA"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "kulp_abraham_clemens",
+    "siblings": [],
+    "spouse": "confer_maria_catharina",
+    "children": [
+      "kulp_michael_nicholas"
+    ]
+  },
+  "locations": [
+    "Kulpsville, PA",
+    "Elk City, Clarion County, PA",
+    "Somerset, PA"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Son of Abraham Clemens Kulp. Father of Michael Nicholas Kulp \u2014 fills the final missing generation. Birth year disputed: Irmagene Zacher explicitly notes uncertainty. Source: Irmagene Kulp Zacher, Kulp Family Lineage."
+  ]
+}

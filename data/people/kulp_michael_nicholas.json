@@ -1,0 +1,52 @@
+{
+  "id": "kulp_michael_nicholas",
+  "name": "Michael Nicholas Kulp",
+  "birth": "December 1842",
+  "death": "21 February 1911",
+  "personality": [],
+  "roles": [
+    "Civil War veteran"
+  ],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Michael Nicholas Kulp and three of his brothers were in the Civil War from 1861-1863, PA Bucktail Regiment of sharpshooters",
+    "Sarah Kulp went to Illinois to be near her parents the Vancels while John was in the war",
+    "John Jacob Kulp was their first child"
+  ],
+  "risk_events": [
+    "Civil War service, Bucktail Regiment"
+  ],
+  "milestones": [
+    "Birth: December 1842, Oil City, PA",
+    "Death: 21 February 1911",
+    "Civil War veteran, Bucktail Regiment",
+    "Homesteaded in Washington Territory",
+    "Buried at Orting, WA Soldiers Home Cemetery",
+    "Served in PA Bucktail Regiment, Civil War 1861-1863"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "confer_maria_catharina",
+    "father": "kulp_ephraim",
+    "siblings": [],
+    "spouse": "vancel_sarah",
+    "children": [
+      "kulp_john_jacob"
+    ]
+  },
+  "locations": [
+    "Oil City, PA",
+    "Orting, WA"
+  ],
+  "sources": [
+    "family_data_v1",
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Father of John Jacob Kulp. Son of Henry Kolb. Also spelled Culp.",
+    "CORRECTION (detected 2026): Henry Kolb (b.~1679, d.1730) CANNOT be the direct father — Michael Nicholas Kulp was born December 1842, 112 years after Henry's death. Henry Kolb is a probable ancestor with 3-4 intermediate generations currently unknown. Link removed pending genealogical research. Source: family_data_v1 pipeline error (arrow notation misread as direct parent-child).",
+    "Father: Ephraim Kulp (NOW CONFIRMED — fills the missing generation). Source: Irmagene Kulp Zacher Kulp Family Lineage.",
+    "CORRECTION 2026-09-22: Mother changed from fretz_barbara (wife of Henry Kolb, d. 1730) to confer_maria_catharina, wife of his confirmed father Ephraim Kulp."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "mckeldin_james_alfred",
+  "name": "James Alfred McKeldin",
+  "birth": "abt 1844",
+  "death": "abt 1912",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Worked as a tinsmith and sheet metal worker in Baltimore",
+    "Tinsmith per 1916 Baltimore City Directory; sheet metal clerk at C.D. Prude per WWI draft registration",
+    "Lived at 615 W. Hamburg St., later 1000 Russell St.",
+    "Buried Mount Olivet Cemetery (plot O, 122, S/2, #1)",
+    "CORRECTION: 'Stonecutter turned policeman' attribution more likely applies to his FATHER Edward Hazelton McKeldin, not James Alfred. Baltimore City Directory records show James Alfred was a 'Tinner' (tinsmith) and sheet metal clerk — contradicting the stonecutter attribution.",
+    "Lived at 615 W. Hamburg Street, then 1000 Russell Street, Baltimore.",
+    "Both James Alfred and Dorothea buried at Mount Olivet Cemetery, Baltimore (plot: O, 122, S/2, #1)."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Dorothea Grief",
+    "Buried at Mount Olivet Cemetery",
+    "Father of eleven children, including Governor Theodore R. McKeldin and Charles E. McKeldin I",
+    "Married Dorothea Grief (~1878, James 17, Dorothea 14)",
+    "11 children including Theodore R. McKeldin and Charles E McKeldin I",
+    "Occupation: Tinsmith (1916 Baltimore City Directory 'Tinner'); sheet metal clerk at C.D. Prude (WWI draft registration)",
+    "Address: 615 W. Hamburg Street, later 1000 Russell Street",
+    "Buried: Mount Olivet Cemetery, Baltimore (plot O, 122, S/2, #1)",
+    "11 children"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "selbe_sophia",
+    "father": "mckeldin_edward_hazelton",
+    "siblings": [
+      "mckeldin_david_w",
+      "mckeldin_sarah_rebecca",
+      "mckeldin_george",
+      "mckeldin_louis",
+      "mckeldin_william_edward_son",
+      "mckeldin_mary_alice"
+    ],
+    "spouse": "grief_dorothea",
+    "children": [
+      "mckeldin_charles_i",
+      "mckeldin_theodore_roosevelt",
+      "mckeldin_john",
+      "mckeldin_william",
+      "mckeldin_george_edward",
+      "mckeldin_lillian_j",
+      "mckeldin_theresa",
+      "mckeldin_louis_lawrence",
+      "mckeldin_james_raymond",
+      "mckeldin_alice_holsey",
+      "mckeldin_laura_s"
+    ]
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1",
+    "adams_direct_line_json_v1",
+    "mckeldin_research_v1"
+  ],
+  "notes": [
+    "New source gives ~29 Mar 1860 (prior: ~1844). Conflict retained in notes pending death certificate.",
+    "New source gives ~30 May 1923 (prior: ~1912). Conflict retained in notes pending death certificate.",
+    "Prior source had birth ~1844 and death ~1912 — this source provides more precise dates: ~29 Mar 1860 – ~30 May 1923. CONFLICT with prior data — preserve both, defer to death certificate.",
+    "Full children list established in this source with birth dates.",
+    "Stonecutter attribution likely belongs to father Edward Hazelton McKeldin, not James Alfred.",
+    "CORRECTION 2026-09-22: Removed duplicate child reference theodore_r_mckeldin (unresolved stub); mckeldin_theodore_roosevelt is already listed."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "poleman_jack",
+  "name": "Jack Poleman",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Naval aviator shot down on D-Day",
+    "His insurance policy named Emily Schriefer as beneficiary; Emily redirected to brothers before marrying Buckey"
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "emily_schrieffer_mckeldin",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Naval aviator; first husband of Emily Schriefer. Shot down on D-Day. Name per rule_updates.json alias: Jack Poehlman -> Jack Poleman.",
+    "Emily Schriefer's first husband. Not a blood relative."
+  ]
+}

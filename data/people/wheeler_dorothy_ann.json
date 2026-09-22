@@ -1,0 +1,49 @@
+{
+  "id": "wheeler_dorothy_ann",
+  "name": "Dorothy Ann Wheeler (Allen)",
+  "birth": "26 Apr 1924",
+  "death": "",
+  "personality": [
+    "Talented musician"
+  ],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "A talented musician who won a scholarship the same day she became a bride",
+    "Her children include Wendy, Susan, William, Anthony, and Brooks"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married George Homer Allen"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [
+      "wheeler_marjorie"
+    ],
+    "spouse": "allen_george_homer",
+    "children": [
+      "allen_guinevere",
+      "allen_benjamin_alistair",
+      "allen_wendy",
+      "allen_susan",
+      "allen_william_dorothy",
+      "allen_anthony",
+      "allen_brooks"
+    ]
+  },
+  "locations": [
+    "Sioux Falls, SD",
+    "Santa Barbara, CA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: Marjorie Wheeler",
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is George Homer Allen's sister, not his daughter."
+  ]
+}

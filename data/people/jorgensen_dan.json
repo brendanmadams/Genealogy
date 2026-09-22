@@ -1,0 +1,31 @@
+{
+  "id": "jorgensen_dan",
+  "name": "Dan Jorgensen",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "goodman_amber",
+    "children": [
+      "jorgensen_damian",
+      "jorgensen_dominick"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Spouse of Amber Goodman."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "lauren_adams",
+  "name": "Lauren Adams",
+  "birth": "",
+  "death": "",
+  "personality": [
+    "Extremely social",
+    "Focused on her friendships"
+  ],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Known for having frequent sleepovers with her best friend, Olivea"
+  ],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "michelle_ellis_adams",
+    "father": "brian_john_adams",
+    "siblings": [
+      "ethan_adams",
+      "gabrielle_adams",
+      "gavin_adams"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA",
+    "Washington"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Explicit child-of relationship from Brian John Adams to Lauren Adams.",
+    "Relationship: Brian John Adams -child-> Lauren Adams",
+    "Parent explicitly identified: Brian John Adams",
+    "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
+    "Siblings listed: Ethan, Gabrielle, and Gavin"
+  ],
+  "aliases": []
+}

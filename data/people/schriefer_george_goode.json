@@ -1,0 +1,42 @@
+{
+  "id": "schriefer_george_goode",
+  "name": "George Goode Schriefer",
+  "birth": "",
+  "death": "12 May 1951",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Barbara's biological maternal grandfather, remembered by the nickname Goode",
+    "His death followed closely after the death of his daughter Emily, contributing to the family upheaval"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Death: 12 May 1951"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "ethel_quinn_schriefer",
+    "children": [
+      "emily_schrieffer_mckeldin"
+    ]
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "barbara_memoir_ch02_a_typical_birth_day",
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Barbara identifies him as her maternal grandfather.",
+    "Promoted from unresolved (george_schriefer.json). Explicit spouse relationship to ethel_quinn_schriefer.",
+    "Nickname: Goode. Also described as biological maternal grandfather of Barbara McKeldin Adams and Chuck McKeldin Jr.",
+    "Emily's father. Nickname: Goode."
+  ]
+}

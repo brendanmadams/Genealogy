@@ -1,0 +1,30 @@
+{
+  "id": "crook_mary",
+  "name": "Mary Crook",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "van_tine_abraham",
+    "children": [
+      "vantine_mary_frances"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Mother of Mary Frances VanTine (spouse of John Wesley Adams). New to record."
+  ]
+}

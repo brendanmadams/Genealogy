@@ -1,0 +1,39 @@
+{
+  "id": "kolb_henry",
+  "name": "Henry Kolb",
+  "birth": "abt 1679",
+  "death": "18 July 1730",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: abt 1679, Baden, Germany",
+    "Death: 18 July 1730",
+    "Immigrated to America in 1707",
+    "Settled in Germantown, PA"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "schumacher_agnes",
+    "father": "kolb_dielman_edward",
+    "siblings": [],
+    "spouse": "fretz_barbara",
+    "children": [
+      "kolb_peter"
+    ]
+  },
+  "locations": [
+    "Baden, Germany",
+    "Germantown, PA"
+  ],
+  "sources": [
+    "family_data_v1"
+  ],
+  "notes": [
+    "Son of Dielman Edward Kolb. Immigrated to America 1707.",
+    "CORRECTION (detected 2026): kulp_michael_nicholas removed from children. Michael Nicholas Kulp (b.1842) was born 112 years after Henry's death (1730). Henry Kolb is a probable ancestor of the Kulp line but the intermediate generations (approx. 3-4) are currently unknown. Further research needed."
+  ]
+}

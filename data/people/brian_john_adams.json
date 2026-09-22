@@ -1,0 +1,66 @@
+{
+  "id": "brian_john_adams",
+  "name": "Brian John Adams",
+  "birth": "February 8, 1972",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Was first seen by Robin Smiley, who called him 'little Brie.'",
+    "As a toddler, he ate the hair off an Ernie finger puppet during a family move to San Diego",
+    "He later charged a nickel for neighborhood kids to see his new baby brother, Brendan"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Born February 8, 1972, Meridian, MS",
+    "Bachelor of Science in Psychology, University of Washington, Seattle",
+    "Married Michelle Ellis",
+    "Salem, OR \u2014 while Michelle attended law school",
+    "Master's degree and PhD in Psychology, University of Tennessee, Knoxville",
+    "Father of Ethan, Gabrielle, Lauren, and Gavin"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "barbara_mckeldin_adams",
+    "father": "john_howard_adams",
+    "siblings": [
+      "brendan_mckeldin_adams"
+    ],
+    "spouse": "michelle_ellis_adams",
+    "children": [
+      "ethan_adams",
+      "gabrielle_adams",
+      "lauren_adams",
+      "gavin_adams"
+    ]
+  },
+  "locations": [
+    "Meridian, MS",
+    "Oak Harbor, WA",
+    "Port Townsend, WA",
+    "Gilroy, CA",
+    "Kelso, WA",
+    "Seattle, WA",
+    "Salem, OR",
+    "Knoxville, TN",
+    "Vancouver, WA"
+  ],
+  "sources": [
+    "barbara_memoir_ch22_my_childrens_names",
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Barbara says the meaning of Brian was 'high, noble, dark one, warrior.'",
+    "Was named Brian John Adams.",
+    "Born in Meridian, MS",
+    "Explicit child-of relationship from John Howard Adams to Brian John Adams.",
+    "Explicit parent in family_notes_adams_mckeldin: John Howard Adams",
+    "Siblings listed: Brendan McKeldin Adams"
+  ],
+  "aliases": [
+    "Brian"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "adams_magdalena",
+  "name": "Magdalena (Margaret) Adams",
+  "birth": "",
+  "death": "before 1848",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "She was the first child mentioned in Hamilton family reports",
+    "Family researchers believe she moved to Ohio following her mother, Elizabeth",
+    "After her early death, her twin sister Mary reportedly stepped in to marry her widower and raise her children"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Lewis Swan at St. Lukes Church in Granville, OH (m. 25 Sep 1838)",
+    "Migrated from Virginia to Licking County, Ohio via the National Road"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_elizabeth_eliza",
+    "father": "adams_jose_pierre",
+    "siblings": [],
+    "spouse": "swan_lewis",
+    "children": []
+  },
+  "locations": [
+    "Jefferson County, VA",
+    "Union Township, Licking County, OH"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Siblings listed: George Francis (#1), Alexander Washington, Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)"
+  ]
+}

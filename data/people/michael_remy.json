@@ -1,0 +1,61 @@
+{
+  "id": "michael_remy",
+  "name": "Michael Remy",
+  "birth": "February 27, 1944",
+  "death": "April 2, 2003",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Born in a refugee camp in Poland"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Born February 27, 1944",
+    "Died April 2, 2003",
+    "Married Gertrude Adams Remy",
+    "Born in Posen, Poland (refugee camp)",
+    "Married Gertrude Elaine Adams (m. 1964)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "gertrude_adams_remy",
+    "children": [
+      "camille_remy",
+      "christopher_jon_remy"
+    ]
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA",
+    "Loomis, CA"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1",
+    "family_data_v1"
+  ],
+  "notes": [
+    "Born in refugee camp, Posen, Poland",
+    "Date conflict — birth: this source gives '27 February 1944', prior has 'February 27, 1944'. Retain both pending verification.",
+    "Date conflict — death: this source gives '2 April 2003', prior has 'April 2, 2003'. Retain both pending verification.",
+    "Birth and death dates newly established in this source — previously TBD. Born in refugee camp in Posen, Poland."
+  ],
+  "aliases": []
+}

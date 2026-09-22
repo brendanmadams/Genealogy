@@ -1,0 +1,51 @@
+{
+  "id": "michelle_ellis_adams",
+  "name": "Michelle Ellis Adams",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "brian_john_adams",
+    "children": [
+      "ethan_adams",
+      "gabrielle_adams",
+      "lauren_adams",
+      "gavin_adams"
+    ]
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Referenced in Brian John Adams: Married Michelle Ellis Adams",
+    "Relationship: Brian John Adams -spouse-> Michelle Ellis Adams"
+  ],
+  "aliases": []
+}

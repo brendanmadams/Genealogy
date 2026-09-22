@@ -1,0 +1,47 @@
+{
+  "id": "mckeldin_edward_hazelton",
+  "name": "Edward Hazelton McKeldin",
+  "birth": "~1818",
+  "death": "9 July 1864",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "May have been the stonecutter-turned-policeman attributed to the family (secondary-source attribution is disputed)",
+    "May have been the stonecutter-turned-policeman (attribution disputed in secondary sources)"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "7 documented children; James Alfred McKeldin is on Brendan's line",
+    "Married Sophia E. Selbe",
+    "7 documented children including James Alfred McKeldin (1860-1923)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "sinclair_mary",
+    "father": "mckeldin_joseph",
+    "siblings": [],
+    "spouse": "selbe_sophia",
+    "children": [
+      "mckeldin_james_alfred",
+      "mckeldin_david_w",
+      "mckeldin_sarah_rebecca",
+      "mckeldin_george",
+      "mckeldin_louis",
+      "mckeldin_william_edward_son",
+      "mckeldin_mary_alice"
+    ]
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "adams_direct_line_summary_v1",
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "McKeldin Gen 3. Brendan's 3x-great-grandfather. New to record.",
+    "Full children list now available from this source."
+  ]
+}

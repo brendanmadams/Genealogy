@@ -1,0 +1,36 @@
+{
+  "id": "martin_mary_louisa",
+  "name": "Mary Louisa Martin",
+  "birth": "22 May 1850, Brunswick, Chariton County, MO",
+  "death": "11 January 1935, Kansas City, Jackson County, MO (age 84)",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Parents: Kaleb Martin and Louisa Woods Devaw",
+    "Married Col. Alexander William Adams: 17 January 1871"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "adams_alexander_william_col",
+    "children": [
+      "adams_caleb_martin"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Second spouse of Col. Alexander William Adams (m. 1871); first wife Unknown Ashby died 1868.",
+    "Parents newly established: Kaleb Martin and Louisa Woods Devaw. Precise birth/death dates established. Source: Adams Family Doc.",
+    "CORRECTION 2026-09-22: Added adams_caleb_martin, who names her as mother."
+  ]
+}

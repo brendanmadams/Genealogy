@@ -1,0 +1,32 @@
+{
+  "id": "simons_ralph",
+  "name": "Ralph Simons",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "kulp_dradie_ellen",
+    "father": "simons_raymond_zell",
+    "siblings": [
+      "beryl_simons_adams",
+      "simons_glen",
+      "simons_howard"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Sibling of Beryl Eva Simons. Named as one of Beryl's known brothers in this source."
+  ]
+}

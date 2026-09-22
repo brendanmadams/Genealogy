@@ -1,0 +1,60 @@
+{
+  "id": "ethan_adams",
+  "name": "Ethan Adams",
+  "birth": "abt 2002",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "During his first year away at college, his grandmother Barbara sent him regular care packages consisting of riddles, cartoons, and painted rocks to help him manage the social and academic challenges of university life"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Graduated from high school in 2020",
+    "Currently attending Boise State University"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "michelle_ellis_adams",
+    "father": "brian_john_adams",
+    "siblings": [
+      "gabrielle_adams",
+      "lauren_adams",
+      "gavin_adams"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "Meridian, MS",
+    "Pierce County, WA",
+    "Tacoma, WA",
+    "Milton, FL",
+    "Honolulu, HI",
+    "Posen, Poland",
+    "Battle Creek, MI",
+    "San Francisco, CA",
+    "Sacramento, CA",
+    "Fair Oaks, CA",
+    "Calaveras County",
+    "Roseville, CA",
+    "Washington",
+    "Boise State University, ID"
+  ],
+  "sources": [
+    "family_notes_adams_mckeldin",
+    "consolidated_research_digest_v1"
+  ],
+  "notes": [
+    "Explicit child-of relationship from Brian John Adams to Ethan Adams.",
+    "Relationship: Brian John Adams -child-> Ethan Adams",
+    "Parent explicitly identified: Brian John Adams",
+    "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
+    "Siblings listed: Gabrielle, Lauren, and Gavin"
+  ],
+  "aliases": []
+}

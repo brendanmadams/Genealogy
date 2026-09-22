@@ -1,0 +1,52 @@
+{
+  "id": "mckeldin_charles_i",
+  "name": "Charles E. McKeldin I",
+  "birth": "4 Feb 1887",
+  "death": "14 Feb 1949",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "His brother was the 53rd Governor of Maryland and a two-term Mayor of Baltimore"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Emma Bell (McKeldin)",
+    "Lived and worked in Baltimore",
+    "Father of Buckey McKeldin",
+    "Married Emma Bell McKeldin",
+    "Theodore R. McKeldin's brother"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "grief_dorothea",
+    "father": "mckeldin_james_alfred",
+    "siblings": [
+      "mckeldin_theodore_roosevelt",
+      "mckeldin_john",
+      "mckeldin_lillian_j",
+      "mckeldin_theresa",
+      "mckeldin_louis_lawrence",
+      "mckeldin_james_raymond",
+      "mckeldin_william",
+      "mckeldin_alice_holsey"
+    ],
+    "spouse": "emma_bell_mckeldin",
+    "children": [
+      "charles_buckey_mckeldin",
+      "lola"
+    ]
+  },
+  "locations": [
+    "Baltimore, MD"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Siblings listed: Theodore Roosevelt McKeldin (Governor of Maryland), George Edward, John, Lillian J., Theresa, Laura S., Louis Lawrence, William Frederick, James Raymond, Alice",
+    "Brendan's great-grandfather."
+  ]
+}

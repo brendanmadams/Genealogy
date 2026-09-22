@@ -1,0 +1,36 @@
+{
+  "id": "adams_caleb_martin",
+  "name": "Caleb Martin Adams",
+  "birth": "13 January 1875",
+  "death": "15 November 1951",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 13 January 1875, Mendon, Chariton County, MO",
+    "Death: 15 November 1951, Kansas City, Jackson County, MO",
+    "Married Louise A Gosnell: 4 October 1899, St. Louis",
+    "Married Emily Hall: 4 September 1937"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "martin_mary_louisa",
+    "father": "adams_alexander_william_col",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Mendon, Chariton County, MO",
+    "Kansas City, MO"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Son of Col. Alexander William Adams and Mary Louisa Martin. Source: Adams Family Doc."
+  ]
+}

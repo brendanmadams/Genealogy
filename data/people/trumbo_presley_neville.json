@@ -1,0 +1,36 @@
+{
+  "id": "trumbo_presley_neville",
+  "name": "Presley Neville Trumbo",
+  "birth": "1840",
+  "death": "1923",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "buckley_hannah_louise",
+    "children": [
+      "trumbo_serena_marie"
+    ]
+  },
+  "locations": [
+    "Kentucky",
+    "Lewis County, WA"
+  ],
+  "sources": [
+    "adams_direct_line_summary_v1",
+    "family_data_v1"
+  ],
+  "notes": [
+    "Father of Serena Marie Nevada Trumbo (Nini). New to record.",
+    "Date conflict \u2014 birth: this source gives '30 May 1840', prior has '1840'. Retain both pending verification.",
+    "Precise birth day/month established: 30 May 1840. Prior had year only."
+  ]
+}

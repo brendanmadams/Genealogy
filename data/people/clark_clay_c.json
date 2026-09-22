@@ -1,0 +1,36 @@
+{
+  "id": "clark_clay_c",
+  "name": "Clay C. Clark",
+  "birth": "1860",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [
+    "Given up for adoption; raised by neighbors"
+  ],
+  "notable_stories": [
+    "Son of Mary Frances Vantine given up for adoption; raised by neighbors"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 1860, Chariton County, MO"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "vantine_mary_frances",
+    "father": "clark_ephraim",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Chariton County, MO"
+  ],
+  "sources": [
+    "family_data_v1"
+  ],
+  "notes": [
+    "Half-sibling of John Wesley Adams' children. Born 1860. Given up for adoption."
+  ]
+}

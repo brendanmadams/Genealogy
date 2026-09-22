@@ -1,0 +1,67 @@
+{
+  "id": "quinn_john_joseph",
+  "name": "John Joseph Quinn",
+  "birth": "abt 1900",
+  "death": "abt 1959",
+  "personality": [],
+  "roles": [
+    "WWI communication specialist"
+  ],
+  "childhood_experience": [],
+  "notable_stories": [
+    "A communication specialist in WWI who rolled out wires between battlefields; he suffered from shell shock and PTSD, having been kicked by his assistant mule during action",
+    "Returned from WWI unable to work due to the noise at the Continental Can Factory",
+    "Opened his home to orphans Barbara Adams and Chuck McKeldin",
+    "WWI veteran: shell-shocked, mustard-gassed once (survived via fast gas-mask response), worked as communication/wireline expert using a mule to route wires to combat-zone headquarters",
+    "Per Barbara p. 58: never worked a day in his life after WWI (likely meaning no fixed paid employment post-war)",
+    "Barbara's great-uncle (Ethel's youngest brother) and functional step-grandfather after Buckey married Peggy",
+    "WWI veteran. Shell-shocked. Mustard-gassed once (survived via fast gas-mask response).",
+    "Role: communication/wireline expert using a mule to route wires to headquarters in combat zones.",
+    "Per Barbara p. 58: 'He never worked a day in his life after that' — likely means no fixed paid employment post-war.",
+    "Ethel Quinn Schriefer's youngest brother — so John Joseph Quinn was great-uncle to Barbara AND step-grandfather after Buckey married Peggy"
+  ],
+  "risk_events": [
+    "Suffered shell shock and PTSD from WWI service; kicked by assistant mule during action"
+  ],
+  "milestones": [
+    "Served as WWI communication specialist",
+    "Opened home to Barbara McKeldin Adams and Chuck McKeldin Jr. after Emily Schriefer's death",
+    "Served in WWI as communication/wireline specialist",
+    "Household on Nicklas Avenue, Baltimore raised Barbara and Chuck after Emily's 1950 death and Ethel's 1952 death"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [
+      "ethel_quinn_schriefer"
+    ],
+    "spouse": "quinn_marie_ellinghaus",
+    "children": [
+      "margaret_peggy_mckeldin",
+      "quinn_joan",
+      "quinn_john_jr",
+      "quinn_pat"
+    ]
+  },
+  "locations": [
+    "Baltimore, MD",
+    "Nicklas Avenue, Baltimore"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "barbara_memoir_ch02_a_typical_birth_day",
+    "adams_direct_line_summary_v1",
+    "adams_direct_line_json_v1"
+  ],
+  "notes": [
+    "Barbara identifies him as her great uncle and the youngest sibling of her grandmother, Ethel.",
+    "Promoted from unresolved (john_joseph_quinn.json). Explicit father of margaret_peggy_mckeldin and sibling of ethel_quinn_schriefer.",
+    "Spouse marie_ellinghaus_quinn remains in unresolved pending re-evaluation after this promotion.",
+    "john_quinn (unresolved, from barbara_memoir_ch16) is likely the same person — recommend archiving john_quinn.",
+    "Ethel's youngest brother per this source — adds new detail (youngest).",
+    "Confirmed as Ethel Quinn Schriefer's youngest brother per this source. Children: Peggy, Joan, John, Pat.",
+    "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus."
+  ]
+}

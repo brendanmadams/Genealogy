@@ -1,0 +1,34 @@
+{
+  "id": "adams_henry_a",
+  "name": "Henry A Adams",
+  "birth": "January 1868",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: January 1868, Chariton County, MO",
+    "Married Mary C Locke: 15 May 1890, Chariton County, MO"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "ashby_unknown",
+    "father": "adams_alexander_william_col",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Chariton County, MO"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Son of Col. Alexander William Adams and first wife Unknown Ashby (who died c.1868 after childbirth). Source: Adams Family Doc.",
+    "CORRECTION 2026-09-22: Mother set to ashby_unknown by inference (born Jan 1868, before her death in 1868 and before his father's 1871 remarriage)."
+  ]
+}

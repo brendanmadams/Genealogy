@@ -1,0 +1,40 @@
+{
+  "id": "wells_arthur",
+  "name": "Arthur Wells",
+  "birth": "",
+  "death": "~1963-64 (when John Adams was in 11th grade)",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Remarried Serena Marie Nevada Trumbo (Nini) after George Francis Adams' 1920 death",
+    "Died when John Howard Adams was in 11th grade (~1963-64); Nini then moved in with John's family in San Francisco"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Serena Marie Nevada Trumbo"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "trumbo_serena_marie",
+    "children": [
+      "wells_rosemary"
+    ]
+  },
+  "locations": [
+    "San Francisco, CA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_direct_line_summary_v1"
+  ],
+  "notes": [
+    "Remarried Serena Marie Nevada Trumbo in 1929 after the death of George Francis Adams (#2).",
+    "Death: ~1963-64 per this source (when John Adams was in 11th grade).",
+    "Step-father of George Francis Adams Sr. Biological father of Rosemary Wells."
+  ]
+}

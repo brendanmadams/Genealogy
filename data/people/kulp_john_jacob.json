@@ -1,0 +1,58 @@
+{
+  "id": "kulp_john_jacob",
+  "name": "John Jacob Kulp",
+  "birth": "16 Oct 1860",
+  "death": "11 Jan 1947",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Migrated with his father (a Civil War veteran) to homestead in Washington Territory",
+    "He reportedly never knew his exact birth year, which is debated by family researchers",
+    "John's birth date is disputed: headstone in Albion Cemetery says 1860, but that would have made his mom Sarah Vancel Kulp only 14 years old. Family members question the date and John didn't seem to know when he was born.",
+    "About 1913, John moved his family of seven children and wife Mary to Schragg, WA after Dorothy Kulp Kenoyer was born in 1912. Then moved to Albion, WA.",
+    "Grandpa John Kulp died about 1946/7"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Mary Emily Valentine McPhail (m. 1897)",
+    "Homesteaded in Whatcom County",
+    "Moved family to the drier climate of Eastern Washington in 1913 for his wife's health",
+    "Married Mary Emily Valentine McPhail (b. 1878 Nashville, TN; d. 31 May 1931 Albion, WA)",
+    "Moved family from Whatcom County to Schragg, WA ~1913, then to Albion, WA"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "vancel_sarah",
+    "father": "kulp_michael_nicholas",
+    "siblings": [],
+    "spouse": "mcphail_mary_emily",
+    "children": [
+      "kulp_dradie_ellen",
+      "kulp_elmer_spencer",
+      "kulp_edith_sarah",
+      "kulp_marlan_john",
+      "kulp_nardin_ira",
+      "kulp_reta_may",
+      "kulp_dorothy_belle",
+      "kulp_ruth_zenith",
+      "kulp_alton_roger",
+      "kulp_audrey_rebecca"
+    ]
+  },
+  "locations": [
+    "Stouts Grove, IL",
+    "Delta Township, WA",
+    "Schragg, WA",
+    "Albion, WA"
+  ],
+  "sources": [
+    "consolidated_research_digest_v1",
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Siblings listed: Ida, Mary Elizabeth, George Jasper. Compiled family scrapbooks with daughter Dradie around 1943.",
+    "Birth year dispute documented. Death confirmed as 11 Jan 1947 in Colfax, Whitman County, WA. Source: Irmagene Kulp Zacher + Adams Family Doc."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "kolb_jacob_oberholtzer",
+  "name": "Jacob Oberholtzer Kolb",
+  "birth": "7 March 1740",
+  "death": "28 June 1818",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: 7 March 1740",
+    "Death: 28 June 1818, Kulpsville, Montgomery County, PA",
+    "Married Mary Bachman Clemens"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "oberholtzer_elizabeth",
+    "father": "kolb_peter",
+    "siblings": [],
+    "spouse": "clemens_mary_bachman",
+    "children": [
+      "kulp_abraham_clemens"
+    ]
+  },
+  "locations": [
+    "Kulpsville, Montgomery County, PA"
+  ],
+  "sources": [
+    "adams_family_doc_ocr_v1"
+  ],
+  "notes": [
+    "Son of Peter Kolb. Father of Abraham Clemens Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage."
+  ]
+}

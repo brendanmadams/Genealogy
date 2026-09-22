@@ -1,0 +1,41 @@
+{
+  "id": "adams_edith_v",
+  "name": "Edith V. Adams",
+  "birth": "abt 1913",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Likeness noted between her, Trudy Adams, and Serena Trumbo"
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Married Thomas Childs (per memoir p. 57)",
+    "Married Thomas Childs"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "trumbo_serena_marie",
+    "father": "adams_george_francis_2",
+    "siblings": [
+      "george_francis_adams_sr",
+      "adams_presley",
+      "adams_george_francis_2"
+    ],
+    "spouse": "childs_thomas",
+    "children": []
+  },
+  "locations": [
+    "Oregon"
+  ],
+  "sources": [
+    "adams_direct_line_summary_v1",
+    "family_data_v1"
+  ],
+  "notes": [
+    "Sibling of George Francis Adams Sr. (Gen 4). Marriage to Thomas Childs confirmed memoir p. 57.",
+    "Birth year approximate: abt 1913."
+  ]
+}

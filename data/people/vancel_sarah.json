@@ -1,0 +1,35 @@
+{
+  "id": "vancel_sarah",
+  "name": "Sarah Vancel",
+  "birth": "abt 1846",
+  "death": "abt 1875",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Birth: abt 1846",
+    "Death: abt 1875",
+    "Married Michael Nicholas Kulp"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "kulp_michael_nicholas",
+    "children": [
+      "kulp_john_jacob"
+    ]
+  },
+  "locations": [
+    "Illinois",
+    "Pennsylvania"
+  ],
+  "sources": [
+    "family_data_v1"
+  ],
+  "notes": []
+}
