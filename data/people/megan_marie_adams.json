@@ -24,20 +24,6 @@
     ]
   },
   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Denver, CO"
   ],
   "sources": [
@@ -50,7 +36,8 @@
     "Referenced in Brendan McKeldin Adams: Married Megan Marie Adams",
     "Relationship: Brendan McKeldin Adams -spouse-> Megan Marie Adams",
     "Birth date newly established in this source.",
-    "Moved to Denver, CO in 2006 with Brendan Adams."
+    "Moved to Denver, CO in 2006 with Brendan Adams.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
   ],
   "aliases": []
 }

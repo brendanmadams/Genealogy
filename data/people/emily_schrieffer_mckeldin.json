@@ -10,11 +10,11 @@
     "Her first husband was shot down on D-Day",
     "She passed away when her daughter Barbara was only two and a half years old",
     "Her death triggered the family's move to the Quinn household",
-    "First husband Jack Poleman, naval aviator shot down on D-Day. His insurance policy named Emily beneficiary. Emily redirected beneficiaries to brothers Kenneth and George Schriefer Jr. before marrying Buckey, then never updated. After Emily's 1950 death, the brothers took the money \u2014 source of Buckey's lifelong falling-out with his brothers-in-law (memoir p. 13-14).",
+    "First husband Jack Poleman, naval aviator shot down on D-Day. His insurance policy named Emily beneficiary. Emily redirected beneficiaries to brothers Kenneth and George Schriefer Jr. before marrying Buckey, then never updated. After Emily's 1950 death, the brothers took the money — source of Buckey's lifelong falling-out with his brothers-in-law (memoir p. 13-14).",
     "Photographed at University of Virginia, Charlottesville, 30 May 1943",
     "Her uncle the magician (unidentified) is a collateral relative",
-    "Had an uncle who was a magician (per memoir p. 15 photo caption) \u2014 collateral relative, unidentified",
-    "Insurance-policy feud: Jack Poleman's policy named Emily beneficiary; she redirected to brothers Kenneth and George Jr. before marrying Buckey, then never updated. After her 1950 death the brothers took the money \u2014 source of Buckey's lifelong feud with brothers-in-law (memoir p. 13-14)"
+    "Had an uncle who was a magician (per memoir p. 15 photo caption) — collateral relative, unidentified",
+    "Insurance-policy feud: Jack Poleman's policy named Emily beneficiary; she redirected to brothers Kenneth and George Jr. before marrying Buckey, then never updated. After her 1950 death the brothers took the money — source of Buckey's lifelong feud with brothers-in-law (memoir p. 13-14)"
   ],
   "risk_events": [],
   "milestones": [
@@ -37,21 +37,8 @@
     ]
   },
   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Charlottesville, VA"
+    "Charlottesville, VA",
+    "Baltimore, MD"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -64,10 +51,11 @@
     "Relationship: Emily Schrieffer McKeldin -mother-> Barbara Jeanne Adams",
     "Siblings listed: Kenneth, George Jr.",
     "DOB and full middle name still unknown (flagged as remaining hole).",
-    "Surname spelling: Barbara uses both Schriefer (single-f) and Schrieffer (double-f); AdamsFamilyDoc (p. 54) uses Schrieffer. No canonical spelling \u2014 death certificate would be tiebreaker.",
+    "Surname spelling: Barbara uses both Schriefer (single-f) and Schrieffer (double-f); AdamsFamilyDoc (p. 54) uses Schrieffer. No canonical spelling — death certificate would be tiebreaker.",
     "Additional spouse: poleman_jack",
-    "Maiden name Schriefer/Schrieffer \u2014 spelling unresolved; death certificate would be tiebreaker.",
-    "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother."
+    "Maiden name Schriefer/Schrieffer — spelling unresolved; death certificate would be tiebreaker.",
+    "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
   ],
   "aliases": []
 }

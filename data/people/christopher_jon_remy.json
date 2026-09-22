@@ -26,20 +26,7 @@
     "children": []
   },
   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Fair Oaks, CA"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -48,7 +35,8 @@
   "notes": [
     "Born in Sacramento, CA",
     "Died in Fair Oaks, CA",
-    "Siblings listed: Camille. Source states death at the age of 21 but birth year 1968 and death Sep 1984 implies age 15-16 — discrepancy preserved from source without resolution."
+    "Siblings listed: Camille. Source states death at the age of 21 but birth year 1968 and death Sep 1984 implies age 15-16 — discrepancy preserved from source without resolution.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA."
   ],
   "aliases": []
 }

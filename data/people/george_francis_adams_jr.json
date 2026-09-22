@@ -7,7 +7,7 @@
     "Extremely intelligent",
     "Quiet and detached",
     "Almost doesn't speak until spoken to",
-    "Wry sense of humor \u2014 'has to be dragged from him, kicking and screaming'"
+    "Wry sense of humor — 'has to be dragged from him, kicking and screaming'"
   ],
   "roles": [],
   "childhood_experience": [],
@@ -20,7 +20,9 @@
   "risk_events": [],
   "milestones": [
     "Married Cynthia Gail Smith on June 17, 1972",
-    "Married Cynthia Gail Smith in Pierce County, WA (m. 17 Jun 1972)"
+    "Married Cynthia Gail Smith in Pierce County, WA (m. 17 Jun 1972)",
+    "Grew up at the Presidio, San Francisco, until he left for the U.S. Naval Academy",
+    "Attended the U.S. Naval Academy, Annapolis, following his brother John"
   ],
   "education": [],
   "career": [],
@@ -39,19 +41,10 @@
   },
   "locations": [
     "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
     "Pierce County, WA",
     "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
     "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Presidio, San Francisco, CA"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -62,7 +55,9 @@
     "Marriage in Pierce County, WA",
     "Younger brother of John Howard Adams",
     "Siblings listed: John Howard Adams, Gertrude Elaine Adams",
-    "Character description from John's memoir."
+    "Character description from John's memoir.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Pierce County, WA; Tacoma, WA; San Francisco, CA.",
+    "CORRECTION 2026-09-22: Presidio childhood and Naval Academy attendance per Brendan Adams, 2026-09-22."
   ],
   "aliases": []
 }

@@ -16,12 +16,12 @@
     "A professional military law enforcement officer (Provost Marshall) who did not bring his work home and prioritized his wife, Beryl, above all else",
     "Drafted for WWII: MP, self-defense instructor, Commander of POW camp holding Japanese combatants in Hawaii",
     "Recalled for Korean War: Commander of MP detachment in Okinawa",
-    "Postings: Presidio SF (1954), Ft. Gordon GA, Frankfurt/Heidelberg (1958\u201362), Presidio SF (1962\u2013), South Korea (13 months unaccompanied), retired as Provost Marshall of Ft. Lewis / Eastern Washington (1971)",
-    "1930 census listed as George F. Wells, step-son \u2014 Arthur Wells was his step-father",
+    "Postings: Presidio SF (1954), Ft. Gordon GA, Frankfurt/Heidelberg (1958–62), Presidio SF (1962–), South Korea (13 months unaccompanied), retired as Provost Marshall of Ft. Lewis / Eastern Washington (1971)",
+    "1930 census listed as George F. Wells, step-son — Arthur Wells was his step-father",
     "Arthur died when John was in 11th grade (~1963-64); Nini then moved in with John's family in San Francisco until her own death in 1967",
     "Prior career included Union Oil / Standard Oil truck driver and St. Martin's College Olympia",
     "Recorded correctly as step-child with surname Adams on the 1930 census (not Wells)",
-    "Cause of death confirmed: cancer, 'probably self-inflicted' \u2014 he was a moderate smoker and daily drinker (John's memoir).",
+    "Cause of death confirmed: cancer, 'probably self-inflicted' — he was a moderate smoker and daily drinker (John's memoir).",
     "He was a 'prototypical, Greatest Generation Soldier.'",
     "Drafted first for WWII, then recalled for the Korean Conflict. After that he decided to make the Army his career.",
     "WWII: served in Hawaii as a Military Police Officer, self-defense instructor, and Commander of a POW camp holding Japanese combatants.",
@@ -41,7 +41,8 @@
     "Served as an MP officer in Okinawa, Germany, and the U.S.",
     "Retired from the Army in 1971",
     "Married Beryl Eva Simons (2 July 1942, Franklin County, WA)",
-    "Retired from U.S. Army 1971 as Provost Marshall of Ft. Lewis / Eastern Washington"
+    "Retired from U.S. Army 1971 as Provost Marshall of Ft. Lewis / Eastern Washington",
+    "Military police officer at the Presidio, San Francisco, where the family lived while John and George Jr. grew up"
   ],
   "education": [],
   "career": [],
@@ -60,20 +61,6 @@
     ]
   },
   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Sutherlin, OR",
     "Burlingame, CA",
     "Franklin County, WA",
@@ -84,7 +71,9 @@
     "Heidelberg, Germany",
     "South Korea",
     "Okinawa",
-    "Hawaii"
+    "Hawaii",
+    "San Francisco, CA",
+    "Presidio, San Francisco, CA"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -96,9 +85,10 @@
   "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams II",
     "Also referred to as George Francis Adams Sr. Siblings listed: Presley Marcason, Edith V.",
-    "Marriage to Beryl Eva Simons: 2 July 1942, Franklin County, WA \u2014 confirmed.",
-    "Rosemary Wells was his step-sister (Arthur Wells' biological daughter, ~1916), raised essentially as his sister. Prior source had birth listed as 10 Mar 1916 \u2014 confirmed here.",
-    "Cause of death: cancer, moderate smoker and daily drinker (John's memoir). Confirms 1980 death."
+    "Marriage to Beryl Eva Simons: 2 July 1942, Franklin County, WA — confirmed.",
+    "Rosemary Wells was his step-sister (Arthur Wells' biological daughter, ~1916), raised essentially as his sister. Prior source had birth listed as 10 Mar 1916 — confirmed here.",
+    "Cause of death: cancer, moderate smoker and daily drinker (John's memoir). Confirms 1980 death.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: San Francisco, CA."
   ],
   "aliases": []
 }

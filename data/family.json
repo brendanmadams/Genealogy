@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-22T23:06:39.110Z",
+  "generated": "2026-09-22T23:17:22.401Z",
   "people": 268,
   "connected_people": 215,
   "families": 78,
@@ -1553,22 +1553,7 @@
    "families": [],
    "parent_family": "F_camille_remy+ivo_john_obad",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -1583,7 +1568,8 @@
    ],
    "notes": [
     "Siblings listed: Mateo and Gabriel. Child of Camille Remy and Ivo Obad.",
-    "CORRECTION 2026-09-22: Parents filled in from ivo_john_obad and camille_remy, who both list this child."
+    "CORRECTION 2026-09-22: Parents filled in from ivo_john_obad and camille_remy, who both list this child.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -2697,22 +2683,7 @@
    ],
    "parent_family": null,
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -2727,7 +2698,8 @@
    ],
    "notes": [
     "Referenced in George Francis Adams IV: Married Anne Marie Bainbridge on November 23, 1996",
-    "Relationship: George Francis Adams IV -spouse-> Anne Marie Bainbridge"
+    "Relationship: George Francis Adams IV -spouse-> Anne Marie Bainbridge",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -3170,26 +3142,14 @@
     "Seattle Pacific",
     "St. John The Evangelist’s Church",
     "Smithsonian Institution",
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Beeville, TX",
     "Kelso, WA",
     "Oak Harbor, WA",
     "Crownpoint, NM",
     "Ridgefield, WA",
-    "Englewood, CO"
+    "Englewood, CO",
+    "Annapolis, MD",
+    "Baltimore, MD"
    ],
    "personality": [
     "preferred playing with boys over traditional girls' activities",
@@ -3783,7 +3743,8 @@
     "Granddaughter of Emma Bell McKeldin",
     "Stepmother figure Margaret Quinn referred to as Granny",
     "Siblings listed: Charles Chuck McKeldin Jr. (full); J. Michael Mike McKeldin (half)",
-    "Paulette Reck correction confirmed. Emily Schriefer's 1950 death date confirmed: 24 Oct 1950."
+    "Paulette Reck correction confirmed. Emily Schriefer's 1950 death date confirmed: 24 Oct 1950.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Baltimore, MD."
    ]
   },
   {
@@ -3834,23 +3795,12 @@
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Lynden, WA",
     "Milton, OR",
-    "Olympia, WA"
+    "Olympia, WA",
+    "Fair Oaks, CA",
+    "Presidio, San Francisco, CA",
+    "San Francisco, CA"
    ],
    "personality": [
     "Skilled secretary whose shorthand was described as universally loved",
@@ -3889,7 +3839,8 @@
     "Raised three children",
     "Married George Francis Adams Sr. (2 July 1942, Franklin County, WA)",
     "Secretary to U.S. Congressman Floyd Hicks in Olympia",
-    "Later administrative assistant to senior Army officers; personnel management"
+    "Later administrative assistant to senior Army officers; personnel management",
+    "Lived at the Presidio, San Francisco, while her husband served there as a military police officer"
    ],
    "education": [],
    "career": [],
@@ -3906,7 +3857,8 @@
     "DOD conflict: 1998-08-01 (prior records) vs 1999 (John's memoir). This source favors 1999 with cause-of-death detail. Verify with death certificate.",
     "DOD conflict: memoir says 1999, canonical is 1998-08-01 per user instruction. Maintaining 1998.",
     "Birth confirmed: Christmas Day (Dec 25), 1919. DOD maintained at 1998-08-01 per user instruction.",
-    "RESEARCH FINDING (John's memoir): Gertrude Elaine Adams Remy was named 'Gertrude' after Beryl's grandmother — therefore one of Beryl's grandmothers was named Gertrude. Current canonical grandmothers: Harriet M. Hattie Simons (paternal) and Mary Emily Valentine McPhail (maternal). Neither is documented as Gertrude — possibly an unrecorded middle name, or the reference is to a great-grandmother. Recommended research: ask Uncle Mike; request Beryl's birth certificate."
+    "RESEARCH FINDING (John's memoir): Gertrude Elaine Adams Remy was named 'Gertrude' after Beryl's grandmother — therefore one of Beryl's grandmothers was named Gertrude. Current canonical grandmothers: Harriet M. Hattie Simons (paternal) and Mary Emily Valentine McPhail (maternal). Neither is documented as Gertrude — possibly an unrecorded middle name, or the reference is to a great-grandmother. Recommended research: ask Uncle Mike; request Beryl's birth certificate.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA."
    ]
   },
   {
@@ -4310,21 +4262,9 @@
    "parent_family": "F_gertrude_adams_remy+michael_remy",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
+    "Loomis, CA",
     "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Loomis, CA"
+    "Calaveras County"
    ],
    "personality": [],
    "roles": [],
@@ -4348,7 +4288,8 @@
    ],
    "notes": [
     "Born in Sacramento, CA",
-    "Siblings listed: Christopher Remy"
+    "Siblings listed: Christopher Remy",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA; Calaveras County."
    ]
   },
   {
@@ -4448,20 +4389,7 @@
    "parent_family": "F_emma_bell_mckeldin+mckeldin_charles_i",
    "connected": true,
    "locations": [
-    "Baltimore, MD",
-    "Annapolis, MD",
-    "Honolulu, HI",
-    "Battle Creek, MI",
-    "Calaveras County",
-    "Pierce County, WA",
-    "Fair Oaks, CA",
-    "Tacoma, WA",
-    "Posen, Poland",
-    "Milton, FL",
-    "Roseville, CA",
-    "Sacramento, CA",
-    "San Francisco, CA",
-    "Meridian, MS"
+    "Baltimore, MD"
    ],
    "personality": [
     "Avid Orioles and Colts fan"
@@ -4497,7 +4425,8 @@
     "Father of Barbara Jeanne Adams, Chuck McKeldin, and J. Michael McKeldin",
     "Siblings listed: Sisters Lola, Lillian, Helen, and Emma",
     "Additional spouse: margaret_peggy_mckeldin",
-    "Lola/Lillian/Helen/Emma/Billy correction: likely Charles E I's siblings, not Buckey's."
+    "Lola/Lillian/Helen/Emma/Billy correction: likely Charles E I's siblings, not Buckey's.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
    ]
   },
   {
@@ -4538,22 +4467,7 @@
    "families": [],
    "parent_family": "F_chuck_mckeldin+michelle_mckeldin",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -4567,7 +4481,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams)."
+    "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -4805,22 +4720,7 @@
    "families": [],
    "parent_family": "F_j_michael_mckeldin+shelly_mckeldin",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -4834,7 +4734,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams)."
+    "CORRECTION 2026-09-22: Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -4879,20 +4780,7 @@
    "parent_family": "F_gertrude_adams_remy+michael_remy",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Fair Oaks, CA"
    ],
    "personality": [],
    "roles": [],
@@ -4914,7 +4802,8 @@
    "notes": [
     "Born in Sacramento, CA",
     "Died in Fair Oaks, CA",
-    "Siblings listed: Camille. Source states death at the age of 21 but birth year 1968 and death Sep 1984 implies age 15-16 — discrepancy preserved from source without resolution."
+    "Siblings listed: Camille. Source states death at the age of 21 but birth year 1968 and death Sep 1984 implies age 15-16 — discrepancy preserved from source without resolution.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA."
    ]
   },
   {
@@ -4965,99 +4854,18 @@
    "parent_family": "F_charles_buckey_mckeldin+emily_schrieffer_mckeldin",
    "connected": true,
    "locations": [
-    "St. Dominic’s School",
-    "Mercy High",
-    "Towson State College",
-    "Milton FL",
-    "Pen Bay Labs",
-    "Beeville TX",
-    "Meridian MI",
-    "San Diego CA",
-    "Oak Harbor WA",
-    "Port Townsend WA",
-    "Gilroy CA",
-    "Kelso WA",
-    "St. Rose School Longview WA",
-    "Lower Columbia College",
-    "Redding CA",
-    "Shasta Community College",
-    "Vancouver WA",
-    "WSU campus",
-    "University of Portland",
-    "New Mexico",
-    "Crownpoint NM",
-    "Farmington NM",
-    "Oklahoma City OK",
-    "Nicklas Avenue",
-    "Washington D.C.",
-    "Gettysburg PA",
     "Ocean City MD",
-    "University of Virginia Charlottesville",
     "Ocean City",
     "Chesapeake Bay",
     "Memorial Stadium",
     "Baltimore Zoo",
-    "Port Townsend",
-    "St. Rose School",
-    "Longview",
-    "Henry’s",
     "Herring Run Park",
-    "Mercy High School",
-    "Seton High",
     "Baltimore",
-    "PA",
     "Annapolis",
-    "Ireland",
-    "Chicago",
-    "Washington DC",
-    "Smithsonian",
-    "White House",
-    "Treasury Building",
-    "Washington Monument",
-    "Lincoln Memorial",
-    "Arlington National Cemetery",
-    "Hershey PA",
     "Fort McHenry",
     "Williamsburg",
-    "Mt. Saint Helens",
-    "Puget Sound",
-    "Seattle Pacific University",
-    "Kauai",
-    "Hawaii",
-    "Maui",
-    "Oahu",
-    "Kelso",
-    "Clatskanie Oregon",
-    "Coweeman Jr. High",
-    "Kelso High School",
-    "University of Washington",
-    "Mt. Batchelor",
-    "Mt. Hood",
-    "Lake Chelan",
-    "Mayfield Dam",
-    "Deschutes River",
-    "Oregon",
-    "Washington",
-    "SPU",
-    "Disneyland",
-    "Santa Barbara",
-    "Great America",
-    "Gilroy",
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Monterey, CA"
+    "Monterey, CA",
+    "Baltimore, MD"
    ],
    "personality": [
     "teasing",
@@ -5111,7 +4919,9 @@
     "Brother of Barbara Jeanne Adams",
     "Spouse Michelle",
     "Children: Jennifer, Charlie",
-    "Siblings listed: Barbara McKeldin Adams (full); J. Michael Mike McKeldin (half). Also identified as Chuck McKeldin."
+    "Siblings listed: Barbara McKeldin Adams (full); J. Michael Mike McKeldin (half). Also identified as Chuck McKeldin.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD.",
+    "CORRECTION 2026-09-22: Removed 68 places copied from his sister Barbara's memoir (her schools, homes and travels). Kept their shared Baltimore childhood, Annapolis (her wedding), Williamsburg (family trip) and Monterey (his postgraduate school)."
    ]
   },
   {
@@ -5520,20 +5330,8 @@
    "parent_family": "F_genevieve_mildred_smith+louis_russell_smith",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
     "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Tacoma, WA"
    ],
    "personality": [],
    "roles": [],
@@ -5554,7 +5352,8 @@
    ],
    "notes": [
     "Daughter of Louis Russell Smith and Genevieve Mildred Smith",
-    "Birth date newly established: 8 December 1950. Parents: Louis Russell Smith and Genevieve Mildred Smith."
+    "Birth date newly established: 8 December 1950. Parents: Louis Russell Smith and Genevieve Mildred Smith.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Pierce County, WA; Tacoma, WA."
    ]
   },
   {
@@ -5791,22 +5590,7 @@
    "families": [],
    "parent_family": "F_geoffrey_louis_adams+nicole_adawn_della_selva",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -5821,7 +5605,8 @@
    ],
    "notes": [
     "Siblings listed: Frankie. Child of Geoffry Louis Adams and Nicole Adawn Della Selva.",
-    "CORRECTION 2026-09-22: Mother set to nicole_adawn_della_selva, named in this record's own notes (\"Child of Geoffry Louis Adams and Nicole Adawn Della Selva\")."
+    "CORRECTION 2026-09-22: Mother set to nicole_adawn_della_selva, named in this record's own notes (\"Child of Geoffry Louis Adams and Nicole Adawn Della Selva\").",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -5868,21 +5653,8 @@
    "parent_family": "F_ethel_quinn_schriefer+schriefer_george_goode",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Charlottesville, VA"
+    "Charlottesville, VA",
+    "Baltimore, MD"
    ],
    "personality": [],
    "roles": [],
@@ -5921,7 +5693,8 @@
     "Surname spelling: Barbara uses both Schriefer (single-f) and Schrieffer (double-f); AdamsFamilyDoc (p. 54) uses Schrieffer. No canonical spelling — death certificate would be tiebreaker.",
     "Additional spouse: poleman_jack",
     "Maiden name Schriefer/Schrieffer — spelling unresolved; death certificate would be tiebreaker.",
-    "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother."
+    "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
    ]
   },
   {
@@ -5963,20 +5736,7 @@
    "parent_family": null,
    "connected": true,
    "locations": [
-    "Baltimore, MD",
-    "Annapolis, MD",
-    "Honolulu, HI",
-    "Battle Creek, MI",
-    "Calaveras County",
-    "Pierce County, WA",
-    "Fair Oaks, CA",
-    "Tacoma, WA",
-    "Posen, Poland",
-    "Milton, FL",
-    "Roseville, CA",
-    "Sacramento, CA",
-    "San Francisco, CA",
-    "Meridian, MS"
+    "Baltimore, MD"
    ],
    "personality": [],
    "roles": [],
@@ -6003,7 +5763,8 @@
    "notes": [
     "Referenced in Barbara Jeanne Adams: Granddaughter of Emma Bell McKeldin",
     "Grandmother to Barbara and Chuck McKeldin.",
-    "CONFIRMED identity via Barbara's memoir p. 57. Maiden name unknown. Research path: Buckey's 4/22/1917 Baltimore birth certificate, 1920/1930 Baltimore census, or Emma Bell's own death certificate (~Feb 1948)."
+    "CONFIRMED identity via Barbara's memoir p. 57. Maiden name unknown. Research path: Buckey's 4/22/1917 Baltimore birth certificate, 1920/1930 Baltimore census, or Emma Bell's own death certificate (~Feb 1948).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
    ]
   },
   {
@@ -6052,20 +5813,6 @@
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Washington",
     "Boise State University, ID"
    ],
@@ -6091,7 +5838,8 @@
     "Relationship: Brian John Adams -child-> Ethan Adams",
     "Parent explicitly identified: Brian John Adams",
     "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
-    "Siblings listed: Gabrielle, Lauren, and Gavin"
+    "Siblings listed: Gabrielle, Lauren, and Gavin",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -6255,22 +6003,7 @@
    "families": [],
    "parent_family": "F_geoffrey_louis_adams+nicole_adawn_della_selva",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -6285,7 +6018,8 @@
    ],
    "notes": [
     "Siblings listed: Elizabeth. Child of Geoffry Louis Adams and Nicole Adawn Della Selva.",
-    "CORRECTION 2026-09-22: Mother set to nicole_adawn_della_selva, named in this record's own notes (\"Child of Geoffry Louis Adams and Nicole Adawn Della Selva\")."
+    "CORRECTION 2026-09-22: Mother set to nicole_adawn_della_selva, named in this record's own notes (\"Child of Geoffry Louis Adams and Nicole Adawn Della Selva\").",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -6433,22 +6167,7 @@
    "families": [],
    "parent_family": "F_camille_remy+ivo_john_obad",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -6463,7 +6182,8 @@
    ],
    "notes": [
     "Siblings listed: Mateo and Alina. Child of Camille Remy and Ivo Obad.",
-    "CORRECTION 2026-09-22: Parents filled in from ivo_john_obad and camille_remy, who both list this child."
+    "CORRECTION 2026-09-22: Parents filled in from ivo_john_obad and camille_remy, who both list this child.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -6514,20 +6234,6 @@
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Vancouver, WA"
    ],
    "personality": [
@@ -6554,7 +6260,8 @@
     "Relationship: Brian John Adams -child-> Gabrielle Adams",
     "Parent explicitly identified: Brian John Adams",
     "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
-    "Also known as Elly. Alias confirmed per rule_updates.json: Gabrielle Adams = Elly. Siblings listed: Ethan, Lauren, and Gavin"
+    "Also known as Elly. Alias confirmed per rule_updates.json: Gabrielle Adams = Elly. Siblings listed: Ethan, Lauren, and Gavin",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -6603,21 +6310,7 @@
    "parent_family": "F_brendan_mckeldin_adams+megan_marie_adams",
    "connected": true,
    "locations": [
-    "Baltimore, MD",
-    "Annapolis, MD",
-    "Honolulu, HI",
     "Enoch Pratt",
-    "Battle Creek, MI",
-    "Calaveras County",
-    "Pierce County, WA",
-    "Fair Oaks, CA",
-    "Tacoma, WA",
-    "Posen, Poland",
-    "Milton, FL",
-    "Roseville, CA",
-    "Sacramento, CA",
-    "San Francisco, CA",
-    "Meridian, MS",
     "Denver, CO"
    ],
    "personality": [],
@@ -6645,7 +6338,8 @@
     "Explicit parent in family_notes_adams_mckeldin: Brendan McKeldin Adams",
     "Siblings listed: Owen",
     "CORRECTION: Prior source had 10 Apr 2005; this source confirms 10 Apr 2003.",
-    "Moved to Denver, CO in 2006 with Brendan Adams."
+    "Moved to Denver, CO in 2006 with Brendan Adams.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -6694,20 +6388,6 @@
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Washington"
    ],
    "personality": [],
@@ -6730,7 +6410,8 @@
     "Relationship: Brian John Adams -child-> Gavin Adams",
     "Parent explicitly identified: Brian John Adams",
     "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
-    "Siblings listed: Ethan, Gabrielle, and Lauren"
+    "Siblings listed: Ethan, Gabrielle, and Lauren",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -6768,22 +6449,7 @@
    ],
    "parent_family": null,
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -6798,7 +6464,8 @@
    ],
    "notes": [
     "Referenced in Cynthia Gail Smith: Daughter of Louis Russell Smith and Genevieve Mildred Smith",
-    "Mother of Cynthia Gail Smith. Already canonical (genevieve_mildred_smith.json)."
+    "Mother of Cynthia Gail Smith. Already canonical (genevieve_mildred_smith.json).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -6850,20 +6517,7 @@
    "parent_family": "F_cynthia_gail_smith+george_francis_adams_jr",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Honolulu, HI"
    ],
    "personality": [],
    "roles": [],
@@ -6885,7 +6539,8 @@
    "notes": [
     "Born in Honolulu, HI",
     "Children: Frankie, Elizabeth",
-    "Siblings listed: George Francis Adams IV"
+    "Siblings listed: George Francis Adams IV",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Honolulu, HI."
    ]
   },
   {
@@ -6932,22 +6587,7 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -6963,7 +6603,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "Siblings listed: Ted, Roy, Sam, and Mary"
+    "Siblings listed: Ted, Roy, Sam, and Mary",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -7018,20 +6659,7 @@
    "parent_family": "F_cynthia_gail_smith+george_francis_adams_jr",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Milton, FL"
    ],
    "personality": [],
    "roles": [],
@@ -7055,7 +6683,8 @@
    "notes": [
     "Born in Milton, FL",
     "Children: George, Ted, Roy, Sam, Mary",
-    "Siblings listed: Geoffry Louis Adams"
+    "Siblings listed: Geoffry Louis Adams",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Milton, FL."
    ]
   },
   {
@@ -7108,19 +6737,10 @@
    "connected": true,
    "locations": [
     "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
     "Pierce County, WA",
     "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
     "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Presidio, San Francisco, CA"
    ],
    "personality": [
     "Extremely intelligent",
@@ -7139,7 +6759,9 @@
    "risk_events": [],
    "milestones": [
     "Married Cynthia Gail Smith on June 17, 1972",
-    "Married Cynthia Gail Smith in Pierce County, WA (m. 17 Jun 1972)"
+    "Married Cynthia Gail Smith in Pierce County, WA (m. 17 Jun 1972)",
+    "Grew up at the Presidio, San Francisco, until he left for the U.S. Naval Academy",
+    "Attended the U.S. Naval Academy, Annapolis, following his brother John"
    ],
    "education": [],
    "career": [],
@@ -7152,7 +6774,9 @@
     "Marriage in Pierce County, WA",
     "Younger brother of John Howard Adams",
     "Siblings listed: John Howard Adams, Gertrude Elaine Adams",
-    "Character description from John's memoir."
+    "Character description from John's memoir.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Pierce County, WA; Tacoma, WA; San Francisco, CA.",
+    "CORRECTION 2026-09-22: Presidio childhood and Naval Academy attendance per Brendan Adams, 2026-09-22."
    ]
   },
   {
@@ -7203,20 +6827,6 @@
    "parent_family": "F_adams_george_francis_2+trumbo_serena_marie",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Sutherlin, OR",
     "Burlingame, CA",
     "Franklin County, WA",
@@ -7227,7 +6837,9 @@
     "Heidelberg, Germany",
     "South Korea",
     "Okinawa",
-    "Hawaii"
+    "Hawaii",
+    "San Francisco, CA",
+    "Presidio, San Francisco, CA"
    ],
    "personality": [
     "Did not bring his work home",
@@ -7267,7 +6879,8 @@
     "Served as an MP officer in Okinawa, Germany, and the U.S.",
     "Retired from the Army in 1971",
     "Married Beryl Eva Simons (2 July 1942, Franklin County, WA)",
-    "Retired from U.S. Army 1971 as Provost Marshall of Ft. Lewis / Eastern Washington"
+    "Retired from U.S. Army 1971 as Provost Marshall of Ft. Lewis / Eastern Washington",
+    "Military police officer at the Presidio, San Francisco, where the family lived while John and George Jr. grew up"
    ],
    "education": [],
    "career": [],
@@ -7283,7 +6896,8 @@
     "Also referred to as George Francis Adams Sr. Siblings listed: Presley Marcason, Edith V.",
     "Marriage to Beryl Eva Simons: 2 July 1942, Franklin County, WA — confirmed.",
     "Rosemary Wells was his step-sister (Arthur Wells' biological daughter, ~1916), raised essentially as his sister. Prior source had birth listed as 10 Mar 1916 — confirmed here.",
-    "Cause of death: cancer, moderate smoker and daily drinker (John's memoir). Confirms 1980 death."
+    "Cause of death: cancer, moderate smoker and daily drinker (John's memoir). Confirms 1980 death.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: San Francisco, CA."
    ]
   },
   {
@@ -7335,21 +6949,10 @@
    "parent_family": "F_beryl_simons_adams+george_francis_adams_sr",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
+    "Loomis, CA",
     "Battle Creek, MI",
     "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Loomis, CA"
+    "Fair Oaks, CA"
    ],
    "personality": [
     "Inherited mother Beryl's stubbornness"
@@ -7386,7 +6989,8 @@
     "Marriage in San Francisco, CA",
     "Older sister of John Howard Adams",
     "Siblings listed: John Howard Adams, George Francis Adams Jr.",
-    "Named after Beryl's grandmother (name still unknown) and Beryl's sister Elaine Deretha Simons."
+    "Named after Beryl's grandmother (name still unknown) and Beryl's sister Elaine Deretha Simons.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Battle Creek, MI; San Francisco, CA; Fair Oaks, CA."
    ]
   },
   {
@@ -8336,20 +7940,7 @@
    "parent_family": null,
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Calaveras County"
    ],
    "personality": [],
    "roles": [],
@@ -8365,7 +7956,8 @@
    ],
    "notes": [
     "Referenced in Camille Remy: Married Ivo John Obad on August 18, 2006",
-    "Relationship: Camille Remy -spouse-> Ivo John Obad"
+    "Relationship: Camille Remy -spouse-> Ivo John Obad",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Calaveras County."
    ]
   },
   {
@@ -8418,21 +8010,8 @@
     "Chesapeake Bay",
     "Memorial Stadium",
     "Baltimore Zoo",
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Portland, OR"
+    "Portland, OR",
+    "Baltimore, MD"
    ],
    "personality": [
     "kind",
@@ -8467,7 +8046,8 @@
     "Brother of Barbara Jeanne Adams and Chuck McKeldin",
     "Former spouse Shelly",
     "Children: Jeffery, Christian",
-    "Half-siblings: Barbara McKeldin Adams and Chuck McKeldin Jr. Also identified as Mike McKeldin."
+    "Half-siblings: Barbara McKeldin Adams and Chuck McKeldin Jr. Also identified as Mike McKeldin.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
    ]
   },
   {
@@ -8508,22 +8088,7 @@
    "families": [],
    "parent_family": "F_j_michael_mckeldin+shelly_mckeldin",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -8537,7 +8102,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams)."
+    "CORRECTION 2026-09-22: Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -8578,22 +8144,7 @@
    "families": [],
    "parent_family": "F_chuck_mckeldin+michelle_mckeldin",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -8607,7 +8158,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams)."
+    "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -8661,9 +8213,6 @@
    "parent_family": "F_beryl_simons_adams+george_francis_adams_sr",
    "connected": true,
    "locations": [
-    "St. Dominic’s School",
-    "Mercy High",
-    "Towson State College",
     "Milton FL",
     "Pen Bay Labs",
     "Beeville TX",
@@ -8673,10 +8222,7 @@
     "Port Townsend WA",
     "Gilroy CA",
     "Kelso WA",
-    "St. Rose School Longview WA",
-    "Lower Columbia College",
     "Redding CA",
-    "Shasta Community College",
     "Vancouver WA",
     "WSU campus",
     "University of Portland",
@@ -8690,14 +8236,8 @@
     "Ocean City MD",
     "University of Virginia Charlottesville",
     "Port Townsend",
-    "St. Rose School",
     "Longview",
     "Henry’s",
-    "Stella Maris Nursing Home",
-    "Hecht’s",
-    "Hutzler’s",
-    "Stewart’s",
-    "Hochschild Kohn",
     "Maryland",
     "Florida",
     "Texas",
@@ -8721,7 +8261,6 @@
     "Beeville Texas",
     "Blueberry Hill",
     "Meridian Mississippi",
-    "Kate Griffin Junior High",
     "San Diego",
     "Navy Lodge",
     "Vietnam",
@@ -8745,8 +8284,6 @@
     "Crownpoint New Mexico",
     "Navajo Nation",
     "north-central New Mexico",
-    "Farmington Library",
-    "Ridgefield School district",
     "San Diago California",
     "Oak Harbor",
     "UW",
@@ -8761,23 +8298,7 @@
     "lake Shasta",
     "Sutherlin OR",
     "Ridgefield",
-    "Crownpoint High School",
     "Mt. Hood",
-    "Towson State",
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Okinawa",
     "Augusta, GA",
     "Heidelberg, Germany",
@@ -8794,7 +8315,10 @@
     "Presidio, San Francisco, CA",
     "Fort Gordon, Augusta, GA",
     "Frankfurt, Germany",
-    "NAS Whidbey Island, WA"
+    "NAS Whidbey Island, WA",
+    "Annapolis, MD",
+    "Baltimore, MD",
+    "San Francisco, CA"
    ],
    "personality": [
     "supportive of Barbara's religious commitments",
@@ -8851,7 +8375,8 @@
     "On August 14, 2021, met a 60-year-old cousin for the very first time.",
     "Applied to all service academies; originally received West Point appointment but requested Annapolis as first choice. Father (in South Korea) was somewhat surprised.",
     "Father's advice staying at USNA: 'Well, if you do that, what do you think you'll do with yourself?' — kept John from leaving halfway through Plebe Year.",
-    "Career: State of New Mexico school construction financing in Crownpoint, NM. Position came through son Brendan, who was working for Gerald Martin General Contractor and introduced a State of New Mexico representative to John — John was hired as construction manager for public schools in the north-central part of the state."
+    "Career: State of New Mexico school construction financing in Crownpoint, NM. Position came through son Brendan, who was working for Gerald Martin General Contractor and introduced a State of New Mexico representative to John — John was hired as construction manager for public schools in the north-central part of the state.",
+    "Grew up at the Presidio in San Francisco, where his father was a military police officer, and went to high school with O.J. Simpson."
    ],
    "risk_events": [],
    "milestones": [
@@ -8912,7 +8437,6 @@
     "Served in the Navy with Barbara as his wife moved with him.",
     "Lost jobs that contributed to moves from Redding and later Vancouver.",
     "Got a job in New Mexico, which led to Barbara’s move there.",
-    "Barbara identifies John as one of John Joseph Quinn’s teenage children.",
     "Barbara says John was the sixth and final boyfriend during those years.",
     "Was raised Episcopal.",
     "Supports the family's Catholic religious life.",
@@ -8929,7 +8453,10 @@
     "Brother of Gertrude Adams Remy",
     "Siblings listed: Gertrude Elaine, George Francis Jr.",
     "Beryl's 1999 death: memoir confirms 1999 but user-confirmed canonical date is 1998-08-01. Maintaining 1998.",
-    "Navy call sign: Quincy. Memoir provides rich personal detail confirming known events."
+    "Navy call sign: Quincy. Memoir provides rich personal detail confirming known events.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Baltimore, MD; San Francisco, CA.",
+    "CORRECTION 2026-09-22: Removed 17 places copied from Barbara's memoir that were hers alone (her schools, workplaces, the nursing home and Baltimore department stores). Places they shared as a married couple were kept.",
+    "CORRECTION 2026-09-22: Removed a note wrongly calling John one of John Joseph Quinn’s children (copied from Barbara’s record)."
    ]
   },
   {
@@ -10897,20 +10424,6 @@
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Washington"
    ],
    "personality": [
@@ -10935,7 +10448,8 @@
     "Relationship: Brian John Adams -child-> Lauren Adams",
     "Parent explicitly identified: Brian John Adams",
     "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
-    "Siblings listed: Ethan, Gabrielle, and Gavin"
+    "Siblings listed: Ethan, Gabrielle, and Gavin",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -11029,22 +10543,7 @@
    ],
    "parent_family": null,
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -11059,7 +10558,8 @@
    ],
    "notes": [
     "Referenced in Cynthia Gail Smith: Daughter of Louis Russell Smith and Genevieve Mildred Smith",
-    "Father of Cynthia Gail Smith. Already canonical (louis_russell_smith.json)."
+    "Father of Cynthia Gail Smith. Already canonical (louis_russell_smith.json).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -11161,20 +10661,7 @@
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
    "locations": [
-    "Baltimore, MD",
-    "Annapolis, MD",
-    "Honolulu, HI",
-    "Battle Creek, MI",
-    "Calaveras County",
-    "Pierce County, WA",
-    "Fair Oaks, CA",
-    "Tacoma, WA",
-    "Posen, Poland",
-    "Milton, FL",
-    "Roseville, CA",
-    "Sacramento, CA",
-    "San Francisco, CA",
-    "Meridian, MS"
+    "Baltimore, MD"
    ],
    "personality": [],
    "roles": [],
@@ -11214,7 +10701,8 @@
     "Mother of J. Michael McKeldin",
     "Siblings listed: Joan, John, and Pat. Daughter of John Joseph Quinn.",
     "Brendan's Granny. Daughter of John Joseph Quinn and Marie Ellinghaus-Quinn.",
-    "Brendan's 'Granny.' Emily Schriefer (first wife of Buckey) was Peggy's 1st cousin."
+    "Brendan's 'Granny.' Emily Schriefer (first wife of Buckey) was Peggy's 1st cousin.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
    ]
   },
   {
@@ -11318,22 +10806,7 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -11347,7 +10820,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "Siblings listed: George, Ted, Roy, and Sam. Child of George Francis Adams IV and Anne Marie Bainbridge. Disambiguated from Mary Adams (Swan), ancestor."
+    "Siblings listed: George, Ted, Roy, and Sam. Child of George Francis Adams IV and Anne Marie Bainbridge. Disambiguated from Mary Adams (Swan), ancestor.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -11393,22 +10867,7 @@
    "families": [],
    "parent_family": "F_camille_remy+ivo_john_obad",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -11423,7 +10882,8 @@
    ],
    "notes": [
     "Siblings listed: Gabriel and Alina. Child of Camille Remy and Ivo Obad.",
-    "CORRECTION 2026-09-22: Parents filled in from ivo_john_obad and camille_remy, who both list this child."
+    "CORRECTION 2026-09-22: Parents filled in from ivo_john_obad and camille_remy, who both list this child.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -13205,20 +12665,6 @@
    "parent_family": null,
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
     "Denver, CO"
    ],
    "personality": [],
@@ -13241,7 +12687,8 @@
     "Referenced in Brendan McKeldin Adams: Married Megan Marie Adams",
     "Relationship: Brendan McKeldin Adams -spouse-> Megan Marie Adams",
     "Birth date newly established in this source.",
-    "Moved to Denver, CO in 2006 with Brendan Adams."
+    "Moved to Denver, CO in 2006 with Brendan Adams.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -13283,21 +12730,10 @@
    "parent_family": null,
    "connected": true,
    "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
+    "Loomis, CA",
     "Posen, Poland",
-    "Battle Creek, MI",
     "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Loomis, CA"
+    "Fair Oaks, CA"
    ],
    "personality": [],
    "roles": [],
@@ -13324,7 +12760,8 @@
     "Born in refugee camp, Posen, Poland",
     "Date conflict — birth: this source gives '27 February 1944', prior has 'February 27, 1944'. Retain both pending verification.",
     "Date conflict — death: this source gives '2 April 2003', prior has 'April 2, 2003'. Retain both pending verification.",
-    "Birth and death dates newly established in this source — previously TBD. Born in refugee camp in Posen, Poland."
+    "Birth and death dates newly established in this source — previously TBD. Born in refugee camp in Posen, Poland.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Posen, Poland; San Francisco, CA; Fair Oaks, CA."
    ]
   },
   {
@@ -13365,22 +12802,7 @@
    ],
    "parent_family": null,
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -13395,7 +12817,8 @@
    ],
    "notes": [
     "Referenced in Brian John Adams: Married Michelle Ellis Adams",
-    "Relationship: Brian John Adams -spouse-> Michelle Ellis Adams"
+    "Relationship: Brian John Adams -spouse-> Michelle Ellis Adams",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -13434,22 +12857,7 @@
    ],
    "parent_family": null,
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -13462,7 +12870,9 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+   ]
   },
   {
    "id": "miller_john",
@@ -13784,22 +13194,7 @@
    ],
    "parent_family": null,
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -13814,7 +13209,8 @@
    ],
    "notes": [
     "Referenced in Geoffrey Louis Adams: Married Nicole Adawn Della Selva on March 23, 2001",
-    "Relationship: Geoffrey Louis Adams -spouse-> Nicole Adawn Della Selva"
+    "Relationship: Geoffrey Louis Adams -spouse-> Nicole Adawn Della Selva",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -13918,21 +13314,7 @@
    "parent_family": "F_brendan_mckeldin_adams+megan_marie_adams",
    "connected": true,
    "locations": [
-    "Baltimore, MD",
-    "Annapolis, MD",
-    "Honolulu, HI",
     "Enoch Pratt",
-    "Battle Creek, MI",
-    "Calaveras County",
-    "Pierce County, WA",
-    "Fair Oaks, CA",
-    "Tacoma, WA",
-    "Posen, Poland",
-    "Milton, FL",
-    "Roseville, CA",
-    "Sacramento, CA",
-    "San Francisco, CA",
-    "Meridian, MS",
     "Denver, CO"
    ],
    "personality": [],
@@ -13956,7 +13338,8 @@
     "Parent explicitly identified: Brendan McKeldin Adams",
     "Explicit parent in family_notes_adams_mckeldin: Brendan McKeldin Adams",
     "Siblings listed: Garret",
-    "Moved to Denver, CO in 2006 with Brendan Adams."
+    "Moved to Denver, CO in 2006 with Brendan Adams.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -15001,22 +14384,7 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -15030,7 +14398,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "Siblings listed: George, Ted, Sam, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge."
+    "Siblings listed: George, Ted, Sam, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -15077,22 +14446,7 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -15106,7 +14460,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "Siblings listed: George, Ted, Roy, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge."
+    "Siblings listed: George, Ted, Roy, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {
@@ -15691,22 +15046,7 @@
    ],
    "parent_family": null,
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -15719,7 +15059,9 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+   ]
   },
   {
    "id": "simons_aaron",
@@ -16700,22 +16042,7 @@
    "families": [],
    "parent_family": null,
    "connected": false,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -16727,7 +16054,9 @@
    "sources": [
     "family_notes_adams_mckeldin"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+   ]
   },
   {
    "id": "swan_lewis",
@@ -16833,22 +16162,7 @@
    "families": [],
    "parent_family": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "connected": true,
-   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -16862,7 +16176,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "Siblings listed: George, Roy, Sam, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge."
+    "Siblings listed: George, Roy, Sam, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
   },
   {

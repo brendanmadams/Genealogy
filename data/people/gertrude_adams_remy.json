@@ -12,9 +12,9 @@
     "Known for her physical likeness to her grandmother Serena",
     "After losing her son Christopher in a motorcycle accident and her husband to cancer, she became somewhat reclusive but remained close to her brother John, traveling to Scotland with him in 2010",
     "Named 'Gertrude' after Beryl's grandmother; 'Elaine' after Beryl's sister Elaine (Elaine Deretha Simons).",
-    "After losing son Christopher at 21, then mother Beryl, then husband Mike at 59 \u2014 drove into an extended period of personal and emotional isolation.",
+    "After losing son Christopher at 21, then mother Beryl, then husband Mike at 59 — drove into an extended period of personal and emotional isolation.",
     "'Now, though she is loving and caring, she is almost finished fighting with what I think she stubbornly considers to be a downward spiral.'",
-    "'Fortunately for her she has the constant care of her daughter and grandkids.' \u2014 referring to Camille Remy Obad and her children.",
+    "'Fortunately for her she has the constant care of her daughter and grandkids.' — referring to Camille Remy Obad and her children.",
     "When John and Barbara visit Trudy, they only stay a few days. 'I see my mother as she was aging, in her.'"
   ],
   "risk_events": [],
@@ -42,21 +42,10 @@
     ]
   },
   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
+    "Loomis, CA",
     "Battle Creek, MI",
     "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Loomis, CA"
+    "Fair Oaks, CA"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -68,7 +57,8 @@
     "Marriage in San Francisco, CA",
     "Older sister of John Howard Adams",
     "Siblings listed: John Howard Adams, George Francis Adams Jr.",
-    "Named after Beryl's grandmother (name still unknown) and Beryl's sister Elaine Deretha Simons."
+    "Named after Beryl's grandmother (name still unknown) and Beryl's sister Elaine Deretha Simons.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Battle Creek, MI; San Francisco, CA; Fair Oaks, CA."
   ],
   "aliases": []
 }

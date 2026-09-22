@@ -30,21 +30,10 @@
     ]
   },
   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
+    "Loomis, CA",
     "Posen, Poland",
-    "Battle Creek, MI",
     "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA",
-    "Loomis, CA"
+    "Fair Oaks, CA"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -55,7 +44,8 @@
     "Born in refugee camp, Posen, Poland",
     "Date conflict — birth: this source gives '27 February 1944', prior has 'February 27, 1944'. Retain both pending verification.",
     "Date conflict — death: this source gives '2 April 2003', prior has 'April 2, 2003'. Retain both pending verification.",
-    "Birth and death dates newly established in this source — previously TBD. Born in refugee camp in Posen, Poland."
+    "Birth and death dates newly established in this source — previously TBD. Born in refugee camp in Posen, Poland.",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Posen, Poland; San Francisco, CA; Fair Oaks, CA."
   ],
   "aliases": []
 }

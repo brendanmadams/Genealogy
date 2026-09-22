@@ -25,28 +25,14 @@
     "spouse": "",
     "children": []
   },
-  "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
-  ],
+  "locations": [],
   "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1"
   ],
   "notes": [
-    "Siblings listed: Ted, Roy, Sam, and Mary"
+    "Siblings listed: Ted, Roy, Sam, and Mary",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
   ],
   "aliases": []
 }

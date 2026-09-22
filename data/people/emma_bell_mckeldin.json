@@ -31,20 +31,7 @@
     ]
   },
   "locations": [
-    "Baltimore, MD",
-    "Annapolis, MD",
-    "Honolulu, HI",
-    "Battle Creek, MI",
-    "Calaveras County",
-    "Pierce County, WA",
-    "Fair Oaks, CA",
-    "Tacoma, WA",
-    "Posen, Poland",
-    "Milton, FL",
-    "Roseville, CA",
-    "Sacramento, CA",
-    "San Francisco, CA",
-    "Meridian, MS"
+    "Baltimore, MD"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -54,7 +41,8 @@
   "notes": [
     "Referenced in Barbara Jeanne Adams: Granddaughter of Emma Bell McKeldin",
     "Grandmother to Barbara and Chuck McKeldin.",
-    "CONFIRMED identity via Barbara's memoir p. 57. Maiden name unknown. Research path: Buckey's 4/22/1917 Baltimore birth certificate, 1920/1930 Baltimore census, or Emma Bell's own death certificate (~Feb 1948)."
+    "CONFIRMED identity via Barbara's memoir p. 57. Maiden name unknown. Research path: Buckey's 4/22/1917 Baltimore birth certificate, 1920/1930 Baltimore census, or Emma Bell's own death certificate (~Feb 1948).",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
   ],
   "aliases": [
     "Emma"

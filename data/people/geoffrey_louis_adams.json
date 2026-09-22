@@ -29,20 +29,7 @@
     ]
   },
   "locations": [
-    "Annapolis, MD",
-    "Baltimore, MD",
-    "Meridian, MS",
-    "Pierce County, WA",
-    "Tacoma, WA",
-    "Milton, FL",
-    "Honolulu, HI",
-    "Posen, Poland",
-    "Battle Creek, MI",
-    "San Francisco, CA",
-    "Sacramento, CA",
-    "Fair Oaks, CA",
-    "Calaveras County",
-    "Roseville, CA"
+    "Honolulu, HI"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
@@ -51,7 +38,8 @@
   "notes": [
     "Born in Honolulu, HI",
     "Children: Frankie, Elizabeth",
-    "Siblings listed: George Francis Adams IV"
+    "Siblings listed: George Francis Adams IV",
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Honolulu, HI."
   ],
   "aliases": []
 }
