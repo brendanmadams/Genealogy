@@ -14,7 +14,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "mcphail_mary_emily",
     "father": "kulp_john_jacob",
     "siblings": [],
     "spouse": "",
@@ -24,5 +24,7 @@
   "sources": [
     "consolidated_research_digest_v1"
   ],
-  "notes": []
+  "notes": [
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+  ]
 }

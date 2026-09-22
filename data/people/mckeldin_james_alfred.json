@@ -1,7 +1,7 @@
 {
   "id": "mckeldin_james_alfred",
   "name": "James Alfred McKeldin",
-  "birth": "abt 1844",
+  "birth": "abt 29 Mar 1860",
   "death": "abt 1912",
   "personality": [],
   "roles": [],
@@ -70,6 +70,7 @@
     "Prior source had birth ~1844 and death ~1912 — this source provides more precise dates: ~29 Mar 1860 – ~30 May 1923. CONFLICT with prior data — preserve both, defer to death certificate.",
     "Full children list established in this source with birth dates.",
     "Stonecutter attribution likely belongs to father Edward Hazelton McKeldin, not James Alfred.",
-    "CORRECTION 2026-09-22: Removed duplicate child reference theodore_r_mckeldin (unresolved stub); mckeldin_theodore_roosevelt is already listed."
+    "CORRECTION 2026-09-22: Removed duplicate child reference theodore_r_mckeldin (unresolved stub); mckeldin_theodore_roosevelt is already listed.",
+    "CORRECTION 2026-09-22: Birth changed from \"abt 1844\" to \"abt 29 Mar 1860\" (confirmed by Brendan Adams). The later date fits the ~1877-78 marriage at ages 17 and 14 and the children's births 1880-1902; the earlier date would put Dorothea at 48 for her last child."
   ]
 }

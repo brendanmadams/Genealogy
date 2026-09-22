@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generated": "2026-09-22T22:59:33.234Z",
+  "generated": "2026-09-22T23:02:27.475Z",
   "people": 268,
   "connected_people": 215,
-  "families": 79,
+  "families": 78,
   "branches": [
    "adams",
    "hamilton",
@@ -7668,9 +7668,9 @@
    "photo": null,
    "media": [],
    "birth": {
-    "text": "abt 1854",
-    "year": 1854,
-    "qualifier": "about"
+    "text": "3 Jul 1863",
+    "year": 1863,
+    "qualifier": null
    },
    "death": {
     "text": "abt 1925",
@@ -7737,7 +7737,8 @@
    "notes": [
     "New source gives 3 Jul 1863 (prior: ~1854). Conflict retained in notes.",
     "New source gives 5 Mar 1925 (prior: ~1925 — consistent).",
-    "Prior source had birth ~1854 and death ~1925. This source gives precise: 3 Jul 1863 – 5 Mar 1925. Birth year conflict (1854 vs 1863) — preserve both, defer to records."
+    "Prior source had birth ~1854 and death ~1925. This source gives precise: 3 Jul 1863 – 5 Mar 1925. Birth year conflict (1854 vs 1863) — preserve both, defer to records.",
+    "CORRECTION 2026-09-22: Birth changed from \"abt 1854\" to \"3 Jul 1863\" (confirmed by Brendan Adams). The later date fits the ~1877-78 marriage at ages 17 and 14 and the children's births 1880-1902; the earlier date would put Dorothea at 48 for her last child."
    ]
   },
   {
@@ -9676,9 +9677,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -9694,7 +9696,7 @@
     "kulp_audrey_rebecca"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -9710,7 +9712,9 @@
    "sources": [
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+   ]
   },
   {
    "id": "kulp_audrey_rebecca",
@@ -9735,9 +9739,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -9753,7 +9758,7 @@
     "kulp_alton_roger"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -9770,7 +9775,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown."
+    "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
    ]
   },
   {
@@ -9898,9 +9904,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -9916,7 +9923,7 @@
     "kulp_audrey_rebecca"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -9933,7 +9940,9 @@
    "sources": [
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+   ]
   },
   {
    "id": "kulp_dradie_ellen",
@@ -9960,9 +9969,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [
     "simons_raymond_zell"
@@ -9987,7 +9997,7 @@
    "families": [
     "F_kulp_dradie_ellen+simons_raymond_zell"
    ],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [
     "Delta Township, WA",
@@ -10014,7 +10024,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "Siblings listed: Edith Sarah, Marlan John, Nardin Ira, Reta May, Elmer Spencer, Dorothy Belle, Ruth Zenith, Alton Roger, Audrey Rebecca"
+    "Siblings listed: Edith Sarah, Marlan John, Nardin Ira, Reta May, Elmer Spencer, Dorothy Belle, Ruth Zenith, Alton Roger, Audrey Rebecca",
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
    ]
   },
   {
@@ -10040,9 +10051,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -10058,7 +10070,7 @@
     "kulp_audrey_rebecca"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -10075,7 +10087,8 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown."
+    "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
    ]
   },
   {
@@ -10101,9 +10114,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [
     "ritchey_amy"
@@ -10126,7 +10140,7 @@
    "families": [
     "F_kulp_elmer_spencer+ritchey_amy"
    ],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [
     "Lynden, WA",
@@ -10149,7 +10163,8 @@
     "adams_family_doc_ocr_v1"
    ],
    "notes": [
-    "Spouse corrected to ritchey_amy (was erroneously self-referencing)."
+    "Spouse corrected to ritchey_amy (was erroneously self-referencing).",
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
    ]
   },
   {
@@ -10335,8 +10350,7 @@
    ],
    "siblings": [],
    "families": [
-    "F_kulp_john_jacob+mcphail_mary_emily",
-    "F_kulp_john_jacob"
+    "F_kulp_john_jacob+mcphail_mary_emily"
    ],
    "parent_family": "F_kulp_michael_nicholas+vancel_sarah",
    "connected": true,
@@ -10400,9 +10414,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -10418,7 +10433,7 @@
     "kulp_audrey_rebecca"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -10434,7 +10449,9 @@
    "sources": [
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+   ]
   },
   {
    "id": "kulp_michael_nicholas",
@@ -10537,9 +10554,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -10555,7 +10573,7 @@
     "kulp_audrey_rebecca"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -10571,7 +10589,9 @@
    "sources": [
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+   ]
   },
   {
    "id": "kulp_reta_may",
@@ -10596,9 +10616,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -10614,7 +10635,7 @@
     "kulp_audrey_rebecca"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -10631,7 +10652,9 @@
    "sources": [
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+   ]
   },
   {
    "id": "kulp_ruth_zenith",
@@ -10656,9 +10679,10 @@
     "kulp"
    ],
    "father": "kulp_john_jacob",
-   "mother": null,
+   "mother": "mcphail_mary_emily",
    "parents": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "spouses": [],
    "children": [],
@@ -10674,7 +10698,7 @@
     "kulp_audrey_rebecca"
    ],
    "families": [],
-   "parent_family": "F_kulp_john_jacob",
+   "parent_family": "F_kulp_john_jacob+mcphail_mary_emily",
    "connected": true,
    "locations": [],
    "personality": [],
@@ -10692,7 +10716,9 @@
    "sources": [
     "consolidated_research_digest_v1"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+   ]
   },
   {
    "id": "kulp_spencer_ritchey",
@@ -11679,11 +11705,11 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mckeldin_james_alfred",
     "mckeldin_sarah_rebecca",
     "mckeldin_george",
     "mckeldin_louis",
     "mckeldin_william_edward_son",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "families": [],
@@ -11739,12 +11765,12 @@
     "selbe_sophia"
    ],
    "children": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_sarah_rebecca",
     "mckeldin_george",
     "mckeldin_louis",
     "mckeldin_william_edward_son",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "siblings": [],
@@ -11811,11 +11837,11 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_sarah_rebecca",
     "mckeldin_louis",
     "mckeldin_william_edward_son",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "families": [],
@@ -11913,8 +11939,8 @@
    "photo": null,
    "media": [],
    "birth": {
-    "text": "abt 1844",
-    "year": 1844,
+    "text": "abt 29 Mar 1860",
+    "year": 1860,
     "qualifier": "about"
    },
    "death": {
@@ -12004,7 +12030,8 @@
     "Prior source had birth ~1844 and death ~1912 — this source provides more precise dates: ~29 Mar 1860 – ~30 May 1923. CONFLICT with prior data — preserve both, defer to death certificate.",
     "Full children list established in this source with birth dates.",
     "Stonecutter attribution likely belongs to father Edward Hazelton McKeldin, not James Alfred.",
-    "CORRECTION 2026-09-22: Removed duplicate child reference theodore_r_mckeldin (unresolved stub); mckeldin_theodore_roosevelt is already listed."
+    "CORRECTION 2026-09-22: Removed duplicate child reference theodore_r_mckeldin (unresolved stub); mckeldin_theodore_roosevelt is already listed.",
+    "CORRECTION 2026-09-22: Birth changed from \"abt 1844\" to \"abt 29 Mar 1860\" (confirmed by Brendan Adams). The later date fits the ~1877-78 marriage at ages 17 and 14 and the children's births 1880-1902; the earlier date would put Dorothea at 48 for her last child."
    ]
   },
   {
@@ -12421,11 +12448,11 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_sarah_rebecca",
     "mckeldin_george",
     "mckeldin_william_edward_son",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "families": [],
@@ -12546,12 +12573,12 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_sarah_rebecca",
     "mckeldin_george",
     "mckeldin_louis",
-    "mckeldin_william_edward_son"
+    "mckeldin_william_edward_son",
+    "mckeldin_james_alfred"
    ],
    "families": [],
    "parent_family": "F_mckeldin_edward_hazelton+selbe_sophia",
@@ -12605,11 +12632,11 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_george",
     "mckeldin_louis",
     "mckeldin_william_edward_son",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "families": [],
@@ -12986,11 +13013,11 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_sarah_rebecca",
     "mckeldin_george",
     "mckeldin_louis",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "families": [],
@@ -13093,7 +13120,18 @@
    "spouses": [
     "kulp_john_jacob"
    ],
-   "children": [],
+   "children": [
+    "kulp_dradie_ellen",
+    "kulp_edith_sarah",
+    "kulp_marlan_john",
+    "kulp_nardin_ira",
+    "kulp_reta_may",
+    "kulp_elmer_spencer",
+    "kulp_dorothy_belle",
+    "kulp_ruth_zenith",
+    "kulp_alton_roger",
+    "kulp_audrey_rebecca"
+   ],
    "siblings": [],
    "families": [
     "F_kulp_john_jacob+mcphail_mary_emily"
@@ -15580,12 +15618,12 @@
     "mckeldin_edward_hazelton"
    ],
    "children": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_sarah_rebecca",
     "mckeldin_george",
     "mckeldin_louis",
     "mckeldin_william_edward_son",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "siblings": [],
@@ -19211,9 +19249,10 @@
    "marriage": "28 Dec 1963"
   },
   {
-   "id": "F_kulp_john_jacob",
+   "id": "F_kulp_john_jacob+mcphail_mary_emily",
    "partners": [
-    "kulp_john_jacob"
+    "kulp_john_jacob",
+    "mcphail_mary_emily"
    ],
    "children": [
     "kulp_dradie_ellen",
@@ -19227,15 +19266,6 @@
     "kulp_alton_roger",
     "kulp_audrey_rebecca"
    ],
-   "marriage": null
-  },
-  {
-   "id": "F_kulp_john_jacob+mcphail_mary_emily",
-   "partners": [
-    "kulp_john_jacob",
-    "mcphail_mary_emily"
-   ],
-   "children": [],
    "marriage": "15 Aug 1897, Lynden, WA"
   },
   {
@@ -19279,12 +19309,12 @@
     "selbe_sophia"
    ],
    "children": [
-    "mckeldin_james_alfred",
     "mckeldin_david_w",
     "mckeldin_sarah_rebecca",
     "mckeldin_george",
     "mckeldin_louis",
     "mckeldin_william_edward_son",
+    "mckeldin_james_alfred",
     "mckeldin_mary_alice"
    ],
    "marriage": null

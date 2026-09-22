@@ -20,7 +20,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "mcphail_mary_emily",
     "father": "kulp_john_jacob",
     "siblings": [],
     "spouse": "simons_raymond_zell",
@@ -40,6 +40,7 @@
     "consolidated_research_digest_v1"
   ],
   "notes": [
-    "Siblings listed: Edith Sarah, Marlan John, Nardin Ira, Reta May, Elmer Spencer, Dorothy Belle, Ruth Zenith, Alton Roger, Audrey Rebecca"
+    "Siblings listed: Edith Sarah, Marlan John, Nardin Ira, Reta May, Elmer Spencer, Dorothy Belle, Ruth Zenith, Alton Roger, Audrey Rebecca",
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
   ]
 }
