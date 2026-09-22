@@ -8,7 +8,9 @@ An interactive family history site for the whole family, published with GitHub P
 | Path | Purpose |
 |---|---|
 | `index.html`, `css/`, `js/` | The site. Pick anyone to see their grandparents, parents, siblings, spouses, children and grandchildren; click any card to move. Links like `#/p/adams_alberta` open on that person. |
-| `images/<id>.jpg` | Optional portraits. Add a file named after the person's id and rebuild. |
+| `images/<id>.jpg` | Portraits shown on cards and in the details panel. Generated from `data/media.json` crops, or drop one in by hand. |
+| `media/` | Photos, documents and album pages shown under “Photos & documents”. Generated. |
+| `data/media.json` | What each photo or document is, who is in it, where it came from, and portrait crops. |
 | `data/people/*.json` | **The source of truth.** One record per person. Edit these, then rebuild. |
 | `data/branches.json` | Family lines (Adams, McKeldin, Kulp, …), their colours, and the earliest known ancestor that seeds each line. |
 | `data/family.json` | Generated. People, family units, and branches in one file for the site to load. |
@@ -33,6 +35,21 @@ An interactive family history site for the whole family, published with GitHub P
 3. Commit and push. GitHub Pages redeploys automatically.
 
 `node scripts/build.js --check` validates without writing anything.
+
+## Adding photos and documents
+
+1. Put the original in the research folder named by `source_dir` in `data/media.json`
+   (currently `claude_cowork/00_Raw_Input_Files/images`).
+2. Add an entry to `data/media.json`: an `id`, `kind` (`photo`, `document` or `album`),
+   the `file` (or `pages` for an album), a `title`, optional `caption` and `source`, and the
+   `people` it belongs to. To cut a portrait, add `portraits: [{ "person": "<id>", "crop": [x, y, size] }]`
+   using pixel positions in the original.
+3. Run:
+
+   ```bash
+   powershell -NoProfile -File scripts/prepare-media.ps1
+   node scripts/build.js
+   ```
 
 ## Data model
 

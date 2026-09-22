@@ -4,6 +4,7 @@ import { layoutFocus } from './layout.js';
 import { Renderer } from './render.js';
 import { renderPanel } from './panel.js';
 import { Sidebar } from './sidebar.js';
+import { Viewer } from './viewer.js';
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -14,7 +15,7 @@ const store = {
   push(id) { try { const r = [id, ...this.get().filter(x => x !== id)].slice(0, 8); localStorage.setItem(RECENT_KEY, JSON.stringify(r)); } catch { /* private mode etc. */ } },
 };
 
-let D, renderer, sidebar, focusId = null;
+let D, renderer, sidebar, viewer, focusId = null;
 
 async function main() {
   try { D = await loadFamily(); }
@@ -24,6 +25,7 @@ async function main() {
   }
   renderer = new Renderer($('#svg'), D, focus);
   sidebar = new Sidebar($('#dir'), D, focus);
+  viewer = new Viewer(D, focus);
   wireHeader();
   wirePanel();
   window.addEventListener('hashchange', route);
@@ -135,6 +137,8 @@ function wireSearch(input, drop) {
 function wirePanel() {
   $('#panel').addEventListener('click', e => {
     if (e.target.closest('#panel-close')) { document.body.classList.remove('has-panel'); setTimeout(() => renderer.fit(true), 280); }
+    const m = e.target.closest('.media[data-media]');
+    if (m) viewer.open(m.dataset.media);
   });
 }
 

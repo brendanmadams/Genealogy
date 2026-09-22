@@ -1,0 +1,160 @@
+{
+  "_comment": "Photos and documents shown on people's pages. `source_dir` holds the originals (kept outside the repo). Run scripts/prepare-media.ps1 to copy/resize them into media/ and cut portraits into images/, then node scripts/build.js. `crop` is [x, y, size] in original pixels for a square portrait. kind: photo | document | album.",
+  "source_dir": "../claude_cowork/00_Raw_Input_Files/images",
+  "items": [
+    {
+      "id": "gfa1-portrait",
+      "kind": "photo",
+      "file": "GeorgeFrancisAdams.jpg",
+      "title": "George Francis Adams (#1)",
+      "caption": "Seated studio portrait, probably a tintype.",
+      "source": "Bill Allen, forwarded by George Adams, April 2013 (\"a classic photo of GFA I\").",
+      "people": ["adams_george_francis_1"],
+      "portraits": [{ "person": "adams_george_francis_1", "crop": [240, 30, 340] }]
+    },
+    {
+      "id": "adams-brothers",
+      "kind": "photo",
+      "file": "AdamsBros.JPG",
+      "title": "The Adams brothers, sons of George Francis Adams (#1)",
+      "caption": "Back: James C. Adams and John Wesley Adams. Front: Jose P. Adams (II) with brothers-in-law John Lewis and L. B. Palmer.",
+      "source": "Bill Allen, forwarded by George Adams, April 2013.",
+      "people": ["adams_james_casper", "adams_john_wesley", "adams_joseph_pierre_jose2", "adams_george_francis_1"],
+      "portraits": [
+        { "person": "adams_james_casper", "crop": [150, 175, 125] },
+        { "person": "adams_john_wesley", "crop": [360, 170, 125] },
+        { "person": "adams_joseph_pierre_jose2", "crop": [228, 378, 125] }
+      ]
+    },
+    {
+      "id": "gfa1-grave-marker",
+      "kind": "photo",
+      "file": "IMG_0049.JPG",
+      "title": "Grave marker of George Francis Adams (#1)",
+      "caption": "Temporary marker (\"G. Adams, CSA\") set in November 2011 until a VA headstone could be placed.",
+      "source": "George Adams, email \"GFA pic\", 11 Nov 2011.",
+      "people": ["adams_george_francis_1"]
+    },
+    {
+      "id": "gfa1-family-plot",
+      "kind": "photo",
+      "file": "IMG_0043.JPG",
+      "title": "Adams family plot, Cedar Hills Cemetery, Castle Rock, Colorado",
+      "caption": "George Francis Adams's marker in the foreground, with the stones of Hattie Palmer and Virginia Lewis on either side.",
+      "source": "George Adams, 2011.",
+      "people": ["adams_george_francis_1"]
+    },
+    {
+      "id": "gfa1-marriage-record",
+      "kind": "document",
+      "file": "GFA_CL.jpg",
+      "title": "Marriage record of George F. Adams and Cinthia Lane, 14 January 1841",
+      "caption": "Chariton County, Missouri. Indexed as \"Geo. T. Adams\", which hid it from searches for years.",
+      "source": "Found on Ancestry.com by Bill Allen; George Adams email, 9 Feb 2012.",
+      "people": ["adams_george_francis_1", "lane_cynthia"]
+    },
+    {
+      "id": "gfa1-land-patent",
+      "kind": "document",
+      "file": "GeorgeFAdams_LandPatent.jpg",
+      "title": "Land patent to George F. Adams of Chariton County, Missouri, 1857",
+      "caption": "Eighty acres at the Milan land office, signed for President James Buchanan, 26 December 1857.",
+      "people": ["adams_george_francis_1"]
+    },
+    {
+      "id": "jose-pierre-obit",
+      "kind": "document",
+      "file": "JosePAdams_Obit.jpg",
+      "title": "Death notice of John P. Adams, 1836",
+      "caption": "Died at Leroy, Ohio, aged about 50, after eating a poisonous root mistaken for wild potato. Virginia Free Press, Charlestown, 24 November 1836.",
+      "people": ["adams_jose_pierre"]
+    },
+    {
+      "id": "jose2-obit",
+      "kind": "document",
+      "file": "JosePierre_sm.jpg",
+      "title": "Obituary of Jose P. Adams (II)",
+      "caption": "From The Trail, the magazine of the Sons of Colorado.",
+      "source": "Denver Public Library, via Bill Allen, May 2011.",
+      "people": ["adams_joseph_pierre_jose2"]
+    },
+    {
+      "id": "the-trail-cover",
+      "kind": "document",
+      "file": "TheTrailMagazine_sm.jpg",
+      "title": "The Trail magazine cover",
+      "caption": "The issue carrying Jose P. Adams (II)'s obituary.",
+      "source": "Denver Public Library, via Bill Allen, May 2011.",
+      "people": ["adams_joseph_pierre_jose2"]
+    },
+    {
+      "id": "harriet-gill-obit",
+      "kind": "document",
+      "file": "HarrietJAdamsGill_Obit.jpg",
+      "title": "Obituary of Harriet J. Adams Gill",
+      "people": ["adams_harriet_josephine"]
+    },
+    {
+      "id": "john-wesley-obit",
+      "kind": "document",
+      "file": "JohnWAdams_Obit.jpg",
+      "title": "Obituary of John W. Adams",
+      "people": ["adams_john_wesley"]
+    },
+    {
+      "id": "john-wesley-death-cert",
+      "kind": "document",
+      "file": "John W. Adams Death Certificate.jpg",
+      "title": "Death certificate of John W. Adams",
+      "caption": "Signed by his daughter Alberta, who gave his father's birthplace as Ohio.",
+      "people": ["adams_john_wesley", "adams_alberta"]
+    },
+    {
+      "id": "gfa2-army-record",
+      "kind": "document",
+      "file": "GeorgeFAdams_ArmyRecord.jpg",
+      "title": "U.S. Army register of enlistments, 1898",
+      "caption": "George F. Adams, enlisted 2 June 1898 at Denver, Colorado; born Sheridan, Missouri; laborer.",
+      "people": ["adams_george_francis_2"]
+    },
+    {
+      "id": "gfa2-nard-obit",
+      "kind": "document",
+      "file": "Mar1920_NARD_Journal.pdf",
+      "title": "Obituary in the NARD Journal, March 1920",
+      "caption": "National Association of Retail Druggists journal, with cover page.",
+      "source": "Bill Allen, April 2013.",
+      "people": ["adams_george_francis_2"]
+    },
+    {
+      "id": "gfa2-druggist-obit",
+      "kind": "document",
+      "file": "Practical_Druggist_and_Pharmaceutical_Re 47.pdf",
+      "title": "Obituary in Practical Druggist, April 1920",
+      "source": "Bill Allen, April 2013.",
+      "people": ["adams_george_francis_2"]
+    },
+    {
+      "id": "john-s-lane-land-warrant",
+      "kind": "document",
+      "file": "JohnSLane_LandWarrant.pdf",
+      "title": "Land warrant of John S. Lane",
+      "caption": "Cynthia Lane's father.",
+      "people": ["lane_cynthia"]
+    },
+    {
+      "id": "kulp-record-book",
+      "kind": "album",
+      "title": "Family record book, Christmas 1943",
+      "caption": "A handwritten family record kept in the Kulp and McPhail families: births, marriages and deaths, including John Belle McPhail's children and Mary Emily McPhail's marriage to John Kulp at Lynden, Washington, 15 August 1897.",
+      "source": "Photographed page by page, emailed 28 March 2011.",
+      "people": ["mcphail_mary_emily", "kulp_john_jacob", "kulp_dradie_ellen"],
+      "pages": [
+        "DSC_0007.jpg", "DSC_0008.jpg", "DSC_0009.jpg", "DSC_0010.jpg", "DSC_0011.jpg", "DSC_0012.jpg", "DSC_0013.jpg",
+        "DSC_0014.jpg", "DSC_0015.jpg", "DSC_0016.jpg", "DSC_0017.jpg", "DSC_0018.jpg", "DSC_0019.jpg", "DSC_0020.jpg",
+        "DSC_0021.jpg", "DSC_0022.jpg", "DSC_0023.jpg", "DSC_0024.jpg", "DSC_0025.jpg", "DSC_0026.jpg", "DSC_0027.jpg",
+        "DSC_0028.jpg", "DSC_0029.jpg", "DSC_0030.jpg", "DSC_0031.jpg", "DSC_0032.jpg", "DSC_0033.jpg", "DSC_0034.jpg"
+      ]
+    }
+  ]
+}

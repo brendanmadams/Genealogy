@@ -232,6 +232,29 @@ const IMG_DIR = path.join(ROOT, 'images');
 const photos = new Set(fs.existsSync(IMG_DIR) ? fs.readdirSync(IMG_DIR).filter(f => /\.jpe?g$/i.test(f)).map(f => f.replace(/\.jpe?g$/i, '')) : []);
 for (const id of photos) if (!people.has(id)) warn(`images/${id}.jpg matches no person`);
 
+// Media: photos, documents and albums from data/media.json (prepared by scripts/prepare-media.ps1).
+const MEDIA_CFG_PATH = path.join(ROOT, 'data', 'media.json');
+const mediaItems = [];
+const mediaOf = new Map([...people.keys()].map(id => [id, []]));
+if (fs.existsSync(MEDIA_CFG_PATH)) {
+  const cfg = JSON.parse(fs.readFileSync(MEDIA_CFG_PATH, 'utf8'));
+  const ids = new Set();
+  for (const it of cfg.items) {
+    if (ids.has(it.id)) { err(`media.json: duplicate id "${it.id}"`); continue; }
+    ids.add(it.id);
+    const files = it.kind === 'album'
+      ? (it.pages || []).map((_, i) => `media/${it.id}-${String(i + 1).padStart(2, '0')}.jpg`)
+      : [`media/${it.id}${/\.pdf$/i.test(it.file) ? '.pdf' : '.jpg'}`];
+    const missing = files.filter(f => !fs.existsSync(path.join(ROOT, f)));
+    if (missing.length) { warn(`media ${it.id}: ${missing.length} file(s) not prepared yet (run scripts/prepare-media.ps1)`); continue; }
+    for (const pid of it.people || []) {
+      if (!people.has(pid)) err(`media.json: ${it.id} tags unknown person "${pid}"`);
+      else mediaOf.get(pid).push(it.id);
+    }
+    mediaItems.push({ id: it.id, kind: it.kind, title: it.title, caption: it.caption || '', source: it.source || '', people: it.people || [], files });
+  }
+}
+
 const connectedIds = new Set();
 for (const f of families.values()) for (const id of [...f.partners, ...f.children]) connectedIds.add(id);
 
@@ -247,6 +270,7 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     name: p.name,
     aliases: p.aliases || [],
     photo: photos.has(p.id) ? `images/${p.id}.jpg` : null,
+    media: mediaOf.get(p.id),
     birth: d.birth, death: d.death,
     living: !d.death.text && (d.birth.year ? d.birth.year > new Date().getFullYear() - 100 : false),
     branch: pb ? pb.key : OTHER.key,
@@ -288,6 +312,7 @@ const familyJson = {
   branches: [...branches.map(b => ({ key: b.key, label: b.label, color: b.color, roots: b.roots })), OTHER],
   people: outPeople,
   families: outFamilies,
+  media: mediaItems,
 };
 
 // Legacy files for the current page.

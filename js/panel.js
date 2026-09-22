@@ -3,6 +3,20 @@ import { lifespan, byBirth, initials as initialsOf } from './data.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+function gallery(D, p) {
+  const list = D.mediaFor(p);
+  if (!list.length) return '';
+  const order = { photo: 0, album: 1, document: 2 };
+  list.sort((a, b) => order[a.kind] - order[b.kind]);
+  return `<div class="gallery">${list.map(m => {
+    const first = m.files[0];
+    const isPdf = /\.pdf$/i.test(first);
+    const thumb = isPdf ? `<div class="thumb pdf">PDF</div>` : `<img class="thumb" src="${first}" alt="" loading="lazy" />`;
+    const badge = m.kind === 'album' ? `<span class="count">${m.files.length} pages</span>` : '';
+    return `<button class="media" data-media="${m.id}" title="${esc(m.title)}">${thumb}${badge}<span class="media-title">${esc(m.title)}</span></button>`;
+  }).join('')}</div>`;
+}
+
 export function renderPanel(container, D, p) {
   const branch = D.branch(p);
   const chip = (q, extra = '') => {
@@ -45,6 +59,7 @@ export function renderPanel(container, D, p) {
     <div class="panel-body">
       ${section('Vitals', `<dl class="vitals"><dt>Born</dt><dd>${born}</dd><dt>Died</dt><dd>${died}</dd>${p.locations?.length ? `<dt>Places</dt><dd>${p.locations.map(esc).join(' · ')}</dd>` : ''}</dl>`)}
       ${section('Family', group('Parents', parents.map(q => chip(q))) + partnerBlocks + group('Siblings', sibs.full.map(q => chip(q))) + group('Half siblings', sibs.half.map(q => chip(q))) || '<p class="muted">No relationships recorded yet.</p>')}
+      ${section('Photos &amp; documents', gallery(D, p))}
       ${section('Milestones', items(p.milestones, 'timeline'))}
       ${section('Stories &amp; memories', items(p.notable_stories, 'stories'))}
       ${section('Character', p.personality?.length ? `<div class="traits">${p.personality.map(t => `<span class="trait">${esc(t)}</span>`).join('')}</div>` : '')}

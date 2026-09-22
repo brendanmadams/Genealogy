@@ -11,12 +11,15 @@ export function indexFamily(F) {
   const people = new Map(F.people.map(p => [p.id, p]));
   const families = new Map(F.families.map(f => [f.id, f]));
   const branches = new Map(F.branches.map(b => [b.key, b]));
+  const media = new Map((F.media || []).map(m => [m.id, m]));
   const other = F.branches.find(b => b.key === 'other') || { key: 'other', label: 'Other', color: '#94a3b8' };
 
   const D = {
     meta: F.meta, people, families, branches, other,
     list: [...people.values()].sort((a, b) => sortName(a).localeCompare(sortName(b))),
 
+    media,
+    mediaFor: p => (p.media || []).map(id => media.get(id)).filter(Boolean),
     person: id => people.get(id) || null,
     family: id => families.get(id) || null,
     branch: p => branches.get(p?.branch) || other,
