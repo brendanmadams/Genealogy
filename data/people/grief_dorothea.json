@@ -2,7 +2,7 @@
   "id": "grief_dorothea",
   "name": "Dorothea Grief (McKeldin)",
   "birth": "3 Jul 1863",
-  "death": "abt 1925",
+  "death": "5 Mar 1925",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -49,6 +49,7 @@
     "New source gives 3 Jul 1863 (prior: ~1854). Conflict retained in notes.",
     "New source gives 5 Mar 1925 (prior: ~1925 — consistent).",
     "Prior source had birth ~1854 and death ~1925. This source gives precise: 3 Jul 1863 – 5 Mar 1925. Birth year conflict (1854 vs 1863) — preserve both, defer to records.",
-    "CORRECTION 2026-09-22: Birth changed from \"abt 1854\" to \"3 Jul 1863\" (confirmed by Brendan Adams). The later date fits the ~1877-78 marriage at ages 17 and 14 and the children's births 1880-1902; the earlier date would put Dorothea at 48 for her last child."
+    "CORRECTION 2026-09-22: Birth changed from \"abt 1854\" to \"3 Jul 1863\" (confirmed by Brendan Adams). The later date fits the ~1877-78 marriage at ages 17 and 14 and the children's births 1880-1902; the earlier date would put Dorothea at 48 for her last child.",
+    "CORRECTION 2026-09-22: Death changed from \"abt 1925\" to \"5 Mar 1925\" (confirmed by Brendan Adams). Consistent with the earlier estimate, now exact."
   ]
 }
