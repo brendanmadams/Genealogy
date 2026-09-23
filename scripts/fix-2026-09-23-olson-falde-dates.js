@@ -25,7 +25,7 @@ const child = (kid, father) => { edit(kid, p => { p.relationships.father = fathe
 const DATES = {
   falde_randy: ['15 Apr 1947'], olson_bonnie: ['15 Apr 1947'], falde_mary: ['17 Jun 1927', '10 Dec 2018'],
   olson_kris: ['21 Oct 1948'], olson_tom: ['31 Jan 1947'], dickpeddie_rosemary: ['5 Apr 1925'],
-  olson_sigrid: ['26 Jun 1950'], olson_tommy: ['8 Nov 1987'],
+  olson_sigrid: ['26 Jun 1950'], olson_tommy: ['8 Nov 1987'], olson_tom_umpa: ['10 Nov 1924'],
 };
 for (const [id, [b, d]] of Object.entries(DATES)) { setDate(id, 'birth', b); if (d) setDate(id, 'death', d); }
 

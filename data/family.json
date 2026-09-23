@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T19:43:27.542Z",
+  "generated": "2026-09-23T19:58:06.157Z",
   "people": 623,
   "family_members": 573,
   "dna_matches": 50,
@@ -32044,8 +32044,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "10 Nov",
-    "year": null,
+    "text": "10 Nov 1924",
+    "year": 1924,
     "qualifier": null
    },
    "death": {
@@ -32054,7 +32054,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
