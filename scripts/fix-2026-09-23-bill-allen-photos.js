@@ -37,7 +37,7 @@ for (const ph of SPEC.photos) {
   const full = path.join(SRC, file);
   if (!fs.existsSync(full)) { console.warn('missing photo, run the cut script:', file); continue; }
   const people = ph.people.filter(id => exists(id) || console.warn('missing record', id));
-  const s = jpegWidth(full) / (ph.box[2] - ph.box[0]);
+  const s = jpegWidth(full) / (ph.rotate ? ph.box[3] - ph.box[1] : ph.box[2] - ph.box[0]);
   const faces = ph.faces || (ph.face ? [ph.face] : []);
   const item = {
     id: ph.id, kind: ph.kind || 'photo', file, title: ph.title,

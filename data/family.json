@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T15:11:07.025Z",
-  "people": 518,
-  "family_members": 467,
+  "generated": "2026-09-23T15:21:59.725Z",
+  "people": 528,
+  "family_members": 477,
   "dna_matches": 51,
-  "connected_people": 467,
-  "families": 159,
+  "connected_people": 477,
+  "families": 161,
   "branches": [
    "adams",
    "hamilton",
@@ -14418,6 +14418,87 @@
     "New source gives 1826 (prior: ~1822). Minor variance.",
     "New source gives 1896 (prior: ~1903). Conflict retained in notes.",
     "Prior source had abt 1822 – abt 1903. This source gives 1826–1896. Conflict — preserve both."
+   ]
+  },
+  {
+   "id": "grinnell_serepta_mary",
+   "name": "Serepta Mary Grinnell (Wheeler)",
+   "aliases": [
+    "Reppa Wheeler",
+    "Reppa Grinnell",
+    "Mrs. D. A. Wheeler"
+   ],
+   "photo": "images/grinnell_serepta_mary.jpg",
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894",
+    "mr-and-mrs-d-a-wheeler",
+    "reppa-wheeler",
+    "grinnell-family-group"
+   ],
+   "birth": {
+    "text": "1861",
+    "year": 1861,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "wheeler_d_a"
+   ],
+   "children": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "siblings": [],
+   "families": [
+    "F_grinnell_serepta_mary+wheeler_d_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Wisconsin",
+    "Sioux County, Iowa",
+    "Ireton, Sioux County, Iowa",
+    "Redwood Falls, Minnesota"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 1861, Wisconsin",
+    "Living at Redwood Falls, Minnesota, in May 1944, when she attended her granddaughter Dorothy Ann Wheeler’s wedding",
+    "Married D. A. Wheeler"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Known as Reppa. Named \"Serepta Mary (Grinnell) Wheeler\" under her photo on page 108 of Bill Allen’s document; the 1944 wedding notice calls her the bride’s grandmother, \"Mrs. Reppa Wheeler, now residing at Redwood Falls, Minn.\"",
+    "A group photo on page 103 includes \"Reppa Grinnell (probably Wheeler by this time)\" with Grinnell relatives, among them Bart, Esther, Anson and perhaps Frank (Francis) and Willis Grinnell, and Alice Grinnell, probably married to Roy Wheeler by then. Willard Grinnell and Mary Hanks Grinnell appear on the same page, perhaps her parents; not confirmed."
    ]
   },
   {
@@ -30030,9 +30111,12 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "shoush_william",
+   "mother": "willoughby_susanna",
+   "parents": [
+    "shoush_william",
+    "willoughby_susanna"
+   ],
    "spouses": [
     "anthony_homer_gideon"
    ],
@@ -30043,7 +30127,7 @@
    "families": [
     "F_anthony_homer_gideon+shoush_anna_elizabeth"
    ],
-   "parent_family": null,
+   "parent_family": "F_shoush_william+willoughby_susanna",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -30061,10 +30145,70 @@
    "career": [],
    "sources": [
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
-    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
-    "Mother of Esther Jane Anthony."
+    "Mother of Esther Jane Anthony.",
+    "CORRECTION 2026-09-23: Parents set to William Shoush and Susanna Willoughby Shoush, inferred from their photos on page 111 of Bill Allen’s document (the relationship is not stated there). Decision by Brendan Adams."
+   ]
+  },
+  {
+   "id": "shoush_william",
+   "name": "William Shoush",
+   "aliases": [],
+   "photo": "images/shoush_william.jpg",
+   "card_name": null,
+   "media": [
+    "william-and-susanna-shoush"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "willoughby_susanna"
+   ],
+   "children": [
+    "shoush_anna_elizabeth"
+   ],
+   "siblings": [],
+   "families": [
+    "F_shoush_william+willoughby_susanna"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Parent of Anna Elizabeth Shoush (Anthony): inferred, not stated. Bill Allen’s document shows photos captioned \"William Shoush\" and \"Susanna Willoughby Shoush\" together on its Allen family photo pages (page 111); Anna is the only Shoush in the family."
    ]
   },
   {
@@ -34826,6 +34970,207 @@
    ]
   },
   {
+   "id": "wheeler_alfred",
+   "name": "Alfred Wheeler",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "wheeler_d_a",
+   "mother": "grinnell_serepta_mary",
+   "parents": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_mabel"
+   ],
+   "families": [],
+   "parent_family": "F_grinnell_serepta_mary+wheeler_d_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireton, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Named as a child of D. A. and Reppa Wheeler in the key to the \"Wheeler Family, Christmas 1894, Ireton, Iowa\" photo in Bill Allen’s document (page 102); born before Christmas 1894."
+   ]
+  },
+  {
+   "id": "wheeler_d_a",
+   "name": "D. A. Wheeler",
+   "aliases": [],
+   "photo": "images/wheeler_d_a.jpg",
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894",
+    "mr-and-mrs-d-a-wheeler"
+   ],
+   "birth": {
+    "text": "1853",
+    "year": 1853,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "grinnell_serepta_mary"
+   ],
+   "children": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "siblings": [],
+   "families": [
+    "F_grinnell_serepta_mary+wheeler_d_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Wisconsin",
+    "Sioux County, Iowa",
+    "Ireton, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 1853, Wisconsin",
+    "Settled in Sioux County, Iowa, fall of 1881",
+    "Married Serepta Mary \"Reppa\" Grinnell"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "A newspaper clipping in Bill Allen’s document (page 103) captions \"Mr. and Mrs. D. A. Wheeler … Born in Wisconsin 1853-1861. Settled in Sioux Co. fall of 1881.\" The years are read as his birth (1853) and hers (1861). His given names are not recorded."
+   ]
+  },
+  {
+   "id": "wheeler_delbert",
+   "name": "Delbert Wheeler",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "wheeler_d_a",
+   "mother": "grinnell_serepta_mary",
+   "parents": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "families": [],
+   "parent_family": "F_grinnell_serepta_mary+wheeler_d_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireton, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Named as a child of D. A. and Reppa Wheeler in the key to the \"Wheeler Family, Christmas 1894, Ireton, Iowa\" photo in Bill Allen’s document (page 102); born before Christmas 1894."
+   ]
+  },
+  {
    "id": "wheeler_dorothy_ann",
    "name": "Dorothy Ann Wheeler (Allen)",
    "aliases": [],
@@ -34923,6 +35268,198 @@
     "Photo caption: Dorothy Ann Wheeler at age 2 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6433]",
     "CORRECTION 2026-09-23: Mother set to Dorothy Douthit Pfander, per her register entry (\"daughter of Melvin Wheeler and Dorothy Douthit Pfander\").",
     "Unconfirmed detail: A photo caption names her Dorothy (Wheeler) Angwin at her 80th birthday, which suggests a later married name. [Bill Allen, line 5367]"
+   ]
+  },
+  {
+   "id": "wheeler_edna",
+   "name": "Edna Wheeler",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "wheeler_d_a",
+   "mother": "grinnell_serepta_mary",
+   "parents": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "wheeler_melvin",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "families": [],
+   "parent_family": "F_grinnell_serepta_mary+wheeler_d_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireton, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Named as a child of D. A. and Reppa Wheeler in the key to the \"Wheeler Family, Christmas 1894, Ireton, Iowa\" photo in Bill Allen’s document (page 102); born before Christmas 1894."
+   ]
+  },
+  {
+   "id": "wheeler_judson",
+   "name": "Judson Wheeler",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "wheeler_d_a",
+   "mother": "grinnell_serepta_mary",
+   "parents": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "families": [],
+   "parent_family": "F_grinnell_serepta_mary+wheeler_d_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireton, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Named as a child of D. A. and Reppa Wheeler in the key to the \"Wheeler Family, Christmas 1894, Ireton, Iowa\" photo in Bill Allen’s document (page 102); born before Christmas 1894."
+   ]
+  },
+  {
+   "id": "wheeler_mabel",
+   "name": "Mabel Wheeler",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "wheeler_d_a",
+   "mother": "grinnell_serepta_mary",
+   "parents": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred"
+   ],
+   "families": [],
+   "parent_family": "F_grinnell_serepta_mary+wheeler_d_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireton, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Named as a child of D. A. and Reppa Wheeler in the key to the \"Wheeler Family, Christmas 1894, Ireton, Iowa\" photo in Bill Allen’s document (page 102); born before Christmas 1894."
    ]
   },
   {
@@ -35027,9 +35564,12 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "wheeler_d_a",
+   "mother": "grinnell_serepta_mary",
+   "parents": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
    "spouses": [
     "pfander_dorothy_douthit"
    ],
@@ -35037,11 +35577,18 @@
     "wheeler_dorothy_ann",
     "wheeler_marjorie"
    ],
-   "siblings": [],
+   "siblings": [
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
    "families": [
     "F_pfander_dorothy_douthit+wheeler_melvin"
    ],
-   "parent_family": null,
+   "parent_family": "F_grinnell_serepta_mary+wheeler_d_a",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -35064,7 +35611,72 @@
    ],
    "notes": [
     "Father of Dorothy Ann Wheeler; walked her down the aisle at her 1944 wedding (wedding notice in Bill Allen's document).",
-    "Walked his daughter down the aisle at her wedding [Bill Allen, Descendants of Jose Pierre Adams, line 6314]"
+    "Walked his daughter down the aisle at her wedding [Bill Allen, Descendants of Jose Pierre Adams, line 6314]",
+    "CORRECTION 2026-09-23: Parents set to D. A. Wheeler and Serepta Mary \"Reppa\" (Grinnell) Wheeler. The key to the 1894 Wheeler family photo lists their six children and adds \"Melvin not yet born\"; the 1944 wedding notice names Mrs. Reppa Wheeler as his daughter Dorothy Ann’s grandmother; and Bill Allen captions Melvin \"My Grandpa Wheeler\"."
+   ]
+  },
+  {
+   "id": "wheeler_nell",
+   "name": "Nell Wheeler",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [
+    "wheeler-family-1894"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "wheeler_d_a",
+   "mother": "grinnell_serepta_mary",
+   "parents": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "families": [],
+   "parent_family": "F_grinnell_serepta_mary+wheeler_d_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireton, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Named as a child of D. A. and Reppa Wheeler in the key to the \"Wheeler Family, Christmas 1894, Ireton, Iowa\" photo in Bill Allen’s document (page 102); born before Christmas 1894."
    ]
   },
   {
@@ -35244,6 +35856,66 @@
     "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
    ],
    "notes": []
+  },
+  {
+   "id": "willoughby_susanna",
+   "name": "Susanna Willoughby (Shoush)",
+   "aliases": [
+    "Susanna Shoush"
+   ],
+   "photo": "images/willoughby_susanna.jpg",
+   "card_name": null,
+   "media": [
+    "william-and-susanna-shoush"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "shoush_william"
+   ],
+   "children": [
+    "shoush_anna_elizabeth"
+   ],
+   "siblings": [],
+   "families": [
+    "F_shoush_william+willoughby_susanna"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Parent of Anna Elizabeth Shoush (Anthony): inferred, not stated. Bill Allen’s document shows photos captioned \"William Shoush\" and \"Susanna Willoughby Shoush\" together on its Allen family photo pages (page 111); Anna is the only Shoush in the family."
+   ]
   },
   {
    "id": "winfrey_victor",
@@ -37441,6 +38113,23 @@
    "marriage": null
   },
   {
+   "id": "F_grinnell_serepta_mary+wheeler_d_a",
+   "partners": [
+    "grinnell_serepta_mary",
+    "wheeler_d_a"
+   ],
+   "children": [
+    "wheeler_melvin",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_hamilton_alice_g+house_harry",
    "partners": [
     "hamilton_alice_g",
@@ -38014,6 +38703,17 @@
    "marriage": null
   },
   {
+   "id": "F_shoush_william+willoughby_susanna",
+   "partners": [
+    "shoush_william",
+    "willoughby_susanna"
+   ],
+   "children": [
+    "shoush_anna_elizabeth"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_simons_aaron+simons_harriet_hattie",
    "partners": [
     "simons_aaron",
@@ -38480,7 +39180,7 @@
    "id": "jose-pierre-adams-2",
    "kind": "photo",
    "title": "Jose Pierre Adams (II)",
-   "caption": "Captioned only \"Jose Pierre Adams\". The clothes and photo style date it to the late 1800s, so it is Jose Pierre (II), born 1847; no photograph of the first Jose Pierre (died about 1836) could exist. From the photo pages of Bill Allen’s family document (page 96).",
+   "caption": "Captioned only \"Jose Pierre Adams\". The clothes and photo style date it to the late 1800s, so it is Jose Pierre (II), born 1847; no photograph of the first Jose Pierre (died about 1836) could exist. Probably from the Denver Portrait and Biographical Record (1898), which printed his biographical sketch. From the photo pages of Bill Allen’s family document (page 96).",
    "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 96.",
    "people": [
     "adams_joseph_pierre_jose2"
@@ -38952,6 +39652,80 @@
    ],
    "files": [
     "media/billy-wendy-dorothy-susie-tony-allen.jpg"
+   ]
+  },
+  {
+   "id": "wheeler-family-1894",
+   "kind": "photo",
+   "title": "Wheeler family, Christmas 1894, Ireton, Iowa",
+   "caption": "The typed key names, front row: Reppa holding Edna Wheeler, D. A. Wheeler holding Nell Wheeler, Mary Frances, Alonzo holding Elsi (daughter of Roy and Alice), Cora Wheeler Forncrook holding daughter Jessie and son Charlie in front, Vina Wheeler with daughters Florence and Gracie. Second row: Alfred, Judson and Delbert Wheeler, Mable Wheeler Searle, Albert Wheeler (son of Dealton and Vina). Third row: Alice Grinnell Wheeler, Reuben Leroy Wheeler holding son Clarence, Ed Wheeler, George Edwards (Charlotte’s husband) holding son Francis, Charlotte Wheeler holding daughter Hazel, Henry Thomas holding daughter Fannie, Mary Wheeler Thomas, Fred Forncrook, Laura Wheeler, Isaac Wheeler, Dealton Wheeler holding son Elwin. \"Children of D.A and Reppa are Edna, Nell, Delbert, Judson, Alfred and Mabel. Melvin not yet born.\" From the photo pages of Bill Allen’s family document (page 102).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 102.",
+   "people": [
+    "wheeler_d_a",
+    "grinnell_serepta_mary",
+    "wheeler_edna",
+    "wheeler_nell",
+    "wheeler_delbert",
+    "wheeler_judson",
+    "wheeler_alfred",
+    "wheeler_mabel"
+   ],
+   "files": [
+    "media/wheeler-family-1894.jpg"
+   ]
+  },
+  {
+   "id": "mr-and-mrs-d-a-wheeler",
+   "kind": "photo",
+   "title": "Mr. and Mrs. D. A. Wheeler",
+   "caption": "Newspaper clipping: \"Born in Wisconsin 1853-1861. Settled in Sioux Co. fall of 1881.\" From the photo pages of Bill Allen’s family document (page 103).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+   "people": [
+    "wheeler_d_a",
+    "grinnell_serepta_mary"
+   ],
+   "files": [
+    "media/mr-and-mrs-d-a-wheeler.jpg"
+   ]
+  },
+  {
+   "id": "reppa-wheeler",
+   "kind": "photo",
+   "title": "Reppa Wheeler",
+   "caption": "Serepta Mary (Grinnell) Wheeler, reading. The same photo appears on page 108. From the photo pages of Bill Allen’s family document (page 103).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+   "people": [
+    "grinnell_serepta_mary"
+   ],
+   "files": [
+    "media/reppa-wheeler.jpg"
+   ]
+  },
+  {
+   "id": "grinnell-family-group",
+   "kind": "photo",
+   "title": "Grinnell family group (undated)",
+   "caption": "Handwritten key, left to right: Bart Grinnell, Esther Grinnell, Anson Grinnell, Reppa Grinnell (probably Wheeler by this time), perhaps Frank (Francis) Grinnell, Alice Grinnell (probably married to Roy Wheeler by this time), a bearded man perhaps Willis Grinnell; the remaining two women are unidentified. From the photo pages of Bill Allen’s family document (page 103).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+   "people": [
+    "grinnell_serepta_mary"
+   ],
+   "files": [
+    "media/grinnell-family-group.jpg"
+   ]
+  },
+  {
+   "id": "william-and-susanna-shoush",
+   "kind": "photo",
+   "title": "William Shoush and Susanna Willoughby Shoush",
+   "caption": "Two oval portraits, captioned by hand. From the photo pages of Bill Allen’s family document (page 111).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 111.",
+   "people": [
+    "shoush_william",
+    "willoughby_susanna"
+   ],
+   "files": [
+    "media/william-and-susanna-shoush.jpg"
    ]
   }
  ]

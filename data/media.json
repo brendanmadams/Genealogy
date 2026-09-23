@@ -323,7 +323,7 @@
       "kind": "photo",
       "file": "JosePierreAdams_AdamsFamilyDoc_p096.jpg",
       "title": "Jose Pierre Adams (II)",
-      "caption": "Captioned only \"Jose Pierre Adams\". The clothes and photo style date it to the late 1800s, so it is Jose Pierre (II), born 1847; no photograph of the first Jose Pierre (died about 1836) could exist. From the photo pages of Bill Allen’s family document (page 96).",
+      "caption": "Captioned only \"Jose Pierre Adams\". The clothes and photo style date it to the late 1800s, so it is Jose Pierre (II), born 1847; no photograph of the first Jose Pierre (died about 1836) could exist. Probably from the Denver Portrait and Biographical Record (1898), which printed his biographical sketch. From the photo pages of Bill Allen’s family document (page 96).",
       "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 96.",
       "people": [
         "adams_joseph_pierre_jose2"
@@ -942,6 +942,108 @@
         "wheeler_dorothy_ann",
         "allen_susan",
         "allen_anthony"
+      ]
+    },
+    {
+      "id": "wheeler-family-1894",
+      "kind": "photo",
+      "file": "WheelerFamily1894_AdamsFamilyDoc_p102.jpg",
+      "title": "Wheeler family, Christmas 1894, Ireton, Iowa",
+      "caption": "The typed key names, front row: Reppa holding Edna Wheeler, D. A. Wheeler holding Nell Wheeler, Mary Frances, Alonzo holding Elsi (daughter of Roy and Alice), Cora Wheeler Forncrook holding daughter Jessie and son Charlie in front, Vina Wheeler with daughters Florence and Gracie. Second row: Alfred, Judson and Delbert Wheeler, Mable Wheeler Searle, Albert Wheeler (son of Dealton and Vina). Third row: Alice Grinnell Wheeler, Reuben Leroy Wheeler holding son Clarence, Ed Wheeler, George Edwards (Charlotte’s husband) holding son Francis, Charlotte Wheeler holding daughter Hazel, Henry Thomas holding daughter Fannie, Mary Wheeler Thomas, Fred Forncrook, Laura Wheeler, Isaac Wheeler, Dealton Wheeler holding son Elwin. \"Children of D.A and Reppa are Edna, Nell, Delbert, Judson, Alfred and Mabel. Melvin not yet born.\" From the photo pages of Bill Allen’s family document (page 102).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 102.",
+      "people": [
+        "wheeler_d_a",
+        "grinnell_serepta_mary",
+        "wheeler_edna",
+        "wheeler_nell",
+        "wheeler_delbert",
+        "wheeler_judson",
+        "wheeler_alfred",
+        "wheeler_mabel"
+      ]
+    },
+    {
+      "id": "mr-and-mrs-d-a-wheeler",
+      "kind": "photo",
+      "file": "MrMrsDAWheeler_AdamsFamilyDoc_p103.jpg",
+      "title": "Mr. and Mrs. D. A. Wheeler",
+      "caption": "Newspaper clipping: \"Born in Wisconsin 1853-1861. Settled in Sioux Co. fall of 1881.\" From the photo pages of Bill Allen’s family document (page 103).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+      "people": [
+        "wheeler_d_a",
+        "grinnell_serepta_mary"
+      ],
+      "portraits": [
+        {
+          "person": "wheeler_d_a",
+          "crop": [
+            517,
+            221,
+            410
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reppa-wheeler",
+      "kind": "photo",
+      "file": "ReppaWheeler_AdamsFamilyDoc_p103.jpg",
+      "title": "Reppa Wheeler",
+      "caption": "Serepta Mary (Grinnell) Wheeler, reading. The same photo appears on page 108. From the photo pages of Bill Allen’s family document (page 103).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+      "people": [
+        "grinnell_serepta_mary"
+      ],
+      "portraits": [
+        {
+          "person": "grinnell_serepta_mary",
+          "crop": [
+            74,
+            0,
+            377
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grinnell-family-group",
+      "kind": "photo",
+      "file": "GrinnellFamilyGroup_AdamsFamilyDoc_p103.jpg",
+      "title": "Grinnell family group (undated)",
+      "caption": "Handwritten key, left to right: Bart Grinnell, Esther Grinnell, Anson Grinnell, Reppa Grinnell (probably Wheeler by this time), perhaps Frank (Francis) Grinnell, Alice Grinnell (probably married to Roy Wheeler by this time), a bearded man perhaps Willis Grinnell; the remaining two women are unidentified. From the photo pages of Bill Allen’s family document (page 103).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+      "people": [
+        "grinnell_serepta_mary"
+      ]
+    },
+    {
+      "id": "william-and-susanna-shoush",
+      "kind": "photo",
+      "file": "WilliamSusannaShoush_AdamsFamilyDoc_p111.jpg",
+      "title": "William Shoush and Susanna Willoughby Shoush",
+      "caption": "Two oval portraits, captioned by hand. From the photo pages of Bill Allen’s family document (page 111).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 111.",
+      "people": [
+        "shoush_william",
+        "willoughby_susanna"
+      ],
+      "portraits": [
+        {
+          "person": "shoush_william",
+          "crop": [
+            726,
+            33,
+            490
+          ]
+        },
+        {
+          "person": "willoughby_susanna",
+          "crop": [
+            114,
+            237,
+            416
+          ]
+        }
       ]
     }
   ]

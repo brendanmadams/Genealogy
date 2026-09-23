@@ -28,6 +28,7 @@ foreach ($ph in $spec.photos) {
     $g.DrawImage($page, (New-Object System.Drawing.Rectangle 0, 0, $w, $h), (New-Object System.Drawing.Rectangle $x, $y, $w, $h), 'Pixel')
     $g.Dispose()
     $name = '{0}_AdamsFamilyDoc_p{1:D3}.jpg' -f $ph.file, $ph.page
+    if ($ph.rotate -eq 90) { $bmp.RotateFlip([System.Drawing.RotateFlipType]::Rotate90FlipNone) }
     $bmp.Save((Join-Path $out $name), $jpeg, $params); $bmp.Dispose()
     Write-Host "$name  ${w}x${h}"
   } finally { $page.Dispose() }
