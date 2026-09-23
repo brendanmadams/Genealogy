@@ -1,0 +1,47 @@
+{
+  "id": "adams_myrtle_anna",
+  "name": "Myrtle Anna Adams (Urbach)",
+  "birth": "17 Dec 1869",
+  "death": "1 Sep 1936",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Born 17 Dec 1869, Chariton County, MO",
+    "Died 1 Sep 1936, Marceline, Linn County, Missouri",
+    "Buried at Mt. Olivet Cemetery, Marceline",
+    "Married William L. Green (m. 6 Mar 1889, Chariton County, MO)",
+    "Married Phillip L. Urbach (m. 2 Jan 1898, Marceline, Linn County, Missouri)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "vantine_mary_frances",
+    "father": "adams_john_wesley",
+    "siblings": [],
+    "spouse": "green_william_l",
+    "children": [
+      "green_lester_d",
+      "urbach_robert_henry",
+      "urbach_charles_phillip",
+      "urbach_howard_c"
+    ],
+    "_extra_spouses": [
+      "urbach_phillip_l"
+    ]
+  },
+  "locations": [
+    "Chariton County, MO",
+    "Marceline, Linn County, Missouri",
+    "Mt. Olivet Cemetery, Marceline, Linn County, Missouri"
+  ],
+  "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+  ],
+  "notes": [
+    "Living in 1929 (survived her son Charles) [Bill Allen, Descendants of Jose Pierre Adams, line 5195]"
+  ],
+  "aliases": []
+}

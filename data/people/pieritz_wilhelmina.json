@@ -1,0 +1,33 @@
+{
+  "id": "pieritz_wilhelmina",
+  "name": "Wilhelmina Pieritz (Kaempfer)",
+  "birth": "1841",
+  "death": "1894",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Born 1841",
+    "Died 1894",
+    "Married Anton Kaempfer"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "kaempfer_anton",
+    "children": [
+      "kaempfer_adela"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+  ],
+  "notes": [],
+  "aliases": []
+}

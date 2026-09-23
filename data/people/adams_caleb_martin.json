@@ -13,8 +13,8 @@
   "milestones": [
     "Birth: 13 January 1875, Mendon, Chariton County, MO",
     "Death: 15 November 1951, Kansas City, Jackson County, MO",
-    "Married Louise A Gosnell: 4 October 1899, St. Louis",
-    "Married Emily Hall: 4 September 1937"
+    "Married Louise A. Gosnell (Adams) (m. 4 Oct 1899, St. Louis, Jackson County, MO)",
+    "Married Emily Hall (Adams) (m. 2 Sep 1937)"
   ],
   "education": [],
   "career": [
@@ -24,8 +24,13 @@
     "mother": "martin_mary_louisa",
     "father": "adams_alexander_william_col",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "gosnell_louise_a",
+    "children": [
+      "adams_cornelia"
+    ],
+    "_extra_spouses": [
+      "hall_emily"
+    ]
   },
   "locations": [
     "Mendon, Chariton County, MO",
@@ -37,5 +42,6 @@
   ],
   "notes": [
     "Son of Col. Alexander William Adams and Mary Louisa Martin. Source: Adams Family Doc."
-  ]
+  ],
+  "aliases": []
 }

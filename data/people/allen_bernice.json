@@ -13,7 +13,7 @@
   "milestones": [
     "Birth: 30 July 1891, Marceline, MO",
     "Death: 30 November 1989, Tacoma, Pierce County, WA (age 98)",
-    "Married Harold Emerson Billingslea: 11 June 1913",
+    "Married Harold Emerson Billingslea (m. 11 Jun 1913)",
     "Died 30 Nov 1989, Gig Harbor, Pierce County, WA",
     "Buried in Llano Cemetery, Amarillo, Texas"
   ],
@@ -23,8 +23,13 @@
     "mother": "adams_alberta",
     "father": "allen_george_julius",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "billingslea_harold_emerson",
+    "children": [
+      "billingslea_frances_fern",
+      "billingslea_doris_alberta",
+      "billingslea_ruth_virginia",
+      "billingslea_harold_emerson_jr"
+    ]
   },
   "locations": [
     "Marceline, MO",
@@ -41,5 +46,6 @@
   "notes": [
     "Daughter of Alberta Adams Allen and George Julius Allen. Source: Adams Family Doc.",
     "Photo caption gives her married surname Billingslea [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6184]"
-  ]
+  ],
+  "aliases": []
 }

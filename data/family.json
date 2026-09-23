@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T14:26:32.103Z",
-  "people": 310,
-  "family_members": 259,
+  "generated": "2026-09-23T14:31:58.827Z",
+  "people": 401,
+  "family_members": 350,
   "dna_matches": 51,
-  "connected_people": 257,
-  "families": 96,
+  "connected_people": 348,
+  "families": 128,
   "branches": [
    "adams",
    "hamilton",
@@ -189,12 +189,21 @@
    "children": [
     "allen_frances_rosetta",
     "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
     "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_ralph_kenneth",
     "allen_leroy_gaylord"
    ],
    "siblings": [
-    "adams_george_francis_2"
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_mary_susan",
+    "adams_george_francis_2",
+    "adams_gertrude_1881",
+    "adams_william_w_1885"
    ],
    "families": [
     "F_adams_alberta+allen_george_julius"
@@ -369,14 +378,25 @@
    ],
    "children": [
     "adams_henry_a",
-    "adams_caleb_martin"
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
    ],
    "siblings": [
     "adams_john_wesley",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_missouri",
     "adams_harriett_e",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "families": [
     "F_adams_alexander_william_col+ashby_unknown",
@@ -509,6 +529,76 @@
    ]
   },
   {
+   "id": "adams_caleb_francis",
+   "name": "Caleb Francis Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "7 Jul 1901",
+    "year": 1901,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Feb 1975",
+    "year": 1975,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_frank_1879",
+   "mother": "brannan_katherine_a",
+   "parents": [
+    "adams_frank_1879",
+    "brannan_katherine_a"
+   ],
+   "spouses": [
+    "reece_hallie_ione"
+   ],
+   "children": [],
+   "siblings": [
+    "adams_frances_m_1905",
+    "adams_frank_jr_1905",
+    "adams_cecelia_m",
+    "adams_john_j_1916"
+   ],
+   "families": [
+    "F_adams_caleb_francis+reece_hallie_ione"
+   ],
+   "parent_family": "F_adams_frank_1879+brannan_katherine_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kansas City, Jackson County, MO",
+    "Lancaster, Los Angeles County, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 7 Jul 1901, Kansas City, Jackson County, MO",
+    "Died 5 Feb 1975, Lancaster, Los Angeles County, CA",
+    "Married Hallie Ione Reece (Adams) (m. 12 Oct 1935, Kansas City, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "adams_caleb_martin",
    "name": "Caleb Martin Adams",
    "aliases": [],
@@ -540,10 +630,27 @@
     "adams_alexander_william_col",
     "martin_mary_louisa"
    ],
-   "spouses": [],
-   "children": [],
-   "siblings": [],
-   "families": [],
+   "spouses": [
+    "gosnell_louise_a",
+    "hall_emily"
+   ],
+   "children": [
+    "adams_cornelia"
+   ],
+   "siblings": [
+    "adams_loula",
+    "adams_willie_may",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
+   ],
+   "families": [
+    "F_adams_caleb_martin+gosnell_louise_a",
+    "F_adams_caleb_martin+hall_emily"
+   ],
    "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
    "connected": true,
    "dna_match": false,
@@ -562,8 +669,8 @@
    "milestones": [
     "Birth: 13 January 1875, Mendon, Chariton County, MO",
     "Death: 15 November 1951, Kansas City, Jackson County, MO",
-    "Married Louise A Gosnell: 4 October 1899, St. Louis",
-    "Married Emily Hall: 4 September 1937"
+    "Married Louise A. Gosnell (Adams) (m. 4 Oct 1899, St. Louis, Jackson County, MO)",
+    "Married Emily Hall (Adams) (m. 2 Sep 1937)"
    ],
    "education": [],
    "career": [
@@ -576,6 +683,200 @@
    "notes": [
     "Son of Col. Alexander William Adams and Mary Louisa Martin. Source: Adams Family Doc."
    ]
+  },
+  {
+   "id": "adams_cecelia_m",
+   "name": "Cecelia M. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1911",
+    "year": 1911,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_frank_1879",
+   "mother": "brannan_katherine_a",
+   "parents": [
+    "adams_frank_1879",
+    "brannan_katherine_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_caleb_francis",
+    "adams_frances_m_1905",
+    "adams_frank_jr_1905",
+    "adams_john_j_1916"
+   ],
+   "families": [],
+   "parent_family": "F_adams_frank_1879+brannan_katherine_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1911, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_charles_w",
+   "name": "Charles W. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "May 1871",
+    "year": 1871,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_john_wesley",
+   "mother": "vantine_mary_frances",
+   "parents": [
+    "adams_john_wesley",
+    "vantine_mary_frances"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_alberta",
+    "adams_myrtle_anna",
+    "adams_mary_susan",
+    "adams_george_francis_2",
+    "adams_gertrude_1881",
+    "adams_william_w_1885"
+   ],
+   "families": [],
+   "parent_family": "F_adams_john_wesley+vantine_mary_frances",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO",
+    "Mt. Olivet Cemetery, Marceline, Linn County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [
+    "He ended up in a state hospital (insane asylum); death certificate gives cause as exhaustion with insanity as contributory cause. Nativity and birth date confirm he was the son of John Wesley and Mary F. Adams."
+   ],
+   "risk_events": [],
+   "milestones": [
+    "Born May 1871, Chariton County, MO",
+    "Buried 22 May 1913"
+   ],
+   "education": [],
+   "career": [
+    "Railroad engineer"
+   ],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Brother of Mary Susan Adams; ended up under psychiatric care [Bill Allen, Descendants of Jose Pierre Adams, line 4637]"
+   ]
+  },
+  {
+   "id": "adams_cornelia",
+   "name": "Cornelia Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1910",
+    "year": 1910,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_caleb_martin",
+   "mother": "gosnell_louise_a",
+   "parents": [
+    "adams_caleb_martin",
+    "gosnell_louise_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_adams_caleb_martin+gosnell_louise_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1910, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_edith_v",
@@ -720,6 +1021,620 @@
    ]
   },
   {
+   "id": "adams_ethel_e",
+   "name": "Ethel E. Adams (Mead)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Aug 1890",
+    "year": 1890,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1952",
+    "year": 1952,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_james_casper",
+   "mother": "kaempfer_adela",
+   "parents": [
+    "adams_james_casper",
+    "kaempfer_adela"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_minnie_f",
+    "adams_reda_florence",
+    "adams_frank_melbourne"
+   ],
+   "families": [],
+   "parent_family": "F_adams_james_casper+kaempfer_adela",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Douglas County, CO",
+    "Castle Rock, Douglas County, CO",
+    "Castle Rock, Colorado",
+    "Cedar Hills Cemetery, Castle Rock, Douglas County, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Aug 1890, Douglas County, CO",
+    "Died 1952, Castle Rock, Douglas County, CO",
+    "Buried at Cedar Hills Cemetery, Castle Rock"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_frances_j_1922",
+   "name": "Frances J. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1922",
+    "year": 1922,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_ralph_l",
+   "mother": null,
+   "parents": [
+    "adams_ralph_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_adams_ralph_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1922, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_frances_l_1915",
+   "name": "Frances L. Adams",
+   "aliases": [
+    "Frankie Adams"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1915",
+    "year": 1915,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_frank_melbourne",
+   "mother": "kendall_estella_l",
+   "parents": [
+    "adams_frank_melbourne",
+    "kendall_estella_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_maxine_a"
+   ],
+   "families": [],
+   "parent_family": "F_adams_frank_melbourne+kendall_estella_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Colorado"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1915, Colorado"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_frances_m_1905",
+   "name": "Frances M. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1905",
+    "year": 1905,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_frank_1879",
+   "mother": "brannan_katherine_a",
+   "parents": [
+    "adams_frank_1879",
+    "brannan_katherine_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_caleb_francis",
+    "adams_frank_jr_1905",
+    "adams_cecelia_m",
+    "adams_john_j_1916"
+   ],
+   "families": [],
+   "parent_family": "F_adams_frank_1879+brannan_katherine_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1905, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_frank_1879",
+   "name": "Frank Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "7 Apr 1879",
+    "year": 1879,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Apr 1946",
+    "year": 1946,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [
+    "brannan_katherine_a"
+   ],
+   "children": [
+    "adams_caleb_francis",
+    "adams_frances_m_1905",
+    "adams_frank_jr_1905",
+    "adams_cecelia_m",
+    "adams_john_j_1916"
+   ],
+   "siblings": [
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
+   ],
+   "families": [
+    "F_adams_frank_1879+brannan_katherine_a"
+   ],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Linn County, Missouri",
+    "Kansas City, Jackson County, MO",
+    "Forest Hill Cemetery, Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 7 Apr 1879, Linn County, Missouri",
+    "Died 10 Apr 1946, Kansas City, Jackson County, MO",
+    "Buried at Forest Hill (spelled Forrest Hill) Cemetery, Kansas City",
+    "Buried at Forest Hill Cemetery, Kansas City, MO",
+    "Married Katherine A. Brannan (Adams) (m. 9 Aug 1900, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_frank_jr_1905",
+   "name": "Frank Adams Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1905",
+    "year": 1905,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_frank_1879",
+   "mother": "brannan_katherine_a",
+   "parents": [
+    "adams_frank_1879",
+    "brannan_katherine_a"
+   ],
+   "spouses": [
+    "bridges_beula"
+   ],
+   "children": [],
+   "siblings": [
+    "adams_caleb_francis",
+    "adams_frances_m_1905",
+    "adams_cecelia_m",
+    "adams_john_j_1916"
+   ],
+   "families": [
+    "F_adams_frank_jr_1905+bridges_beula"
+   ],
+   "parent_family": "F_adams_frank_1879+brannan_katherine_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1905, Missouri",
+    "Married Beula Bridges (Adams) (m. 20 Aug 1928, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_frank_melbourne",
+   "name": "Frank Melbourne Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "30 Mar 1896",
+    "year": 1896,
+    "qualifier": null
+   },
+   "death": {
+    "text": "30 Jan 1989",
+    "year": 1989,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_james_casper",
+   "mother": "kaempfer_adela",
+   "parents": [
+    "adams_james_casper",
+    "kaempfer_adela"
+   ],
+   "spouses": [
+    "kendall_estella_l"
+   ],
+   "children": [
+    "adams_frances_l_1915",
+    "adams_maxine_a"
+   ],
+   "siblings": [
+    "adams_minnie_f",
+    "adams_ethel_e",
+    "adams_reda_florence"
+   ],
+   "families": [
+    "F_adams_frank_melbourne+kendall_estella_l"
+   ],
+   "parent_family": "F_adams_james_casper+kaempfer_adela",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Douglas County, CO",
+    "Littleton, Arapahoe County, CO",
+    "Denver, Colorado",
+    "Cedar Hills Cemetery, Douglas County, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 30 Mar 1896, Douglas County, CO",
+    "Died 30 Jan 1989, Littleton, Arapahoe County, CO",
+    "Buried 1989 at Cedar Hills Cemetery, Douglas County",
+    "Married Estella L. Kendall (Adams) (m. 12 Apr 1914, Douglas County, CO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_fred_j",
+   "name": "Fred J. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Jul 1881",
+    "year": 1881,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kansas"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Jul 1881, Kansas"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_george_f_1887",
+   "name": "George F. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "18 Mar 1887",
+    "year": 1887,
+    "qualifier": null
+   },
+   "death": {
+    "text": "29 Oct 1941",
+    "year": 1941,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_grace"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 18 Mar 1887, Kansas City, Jackson County, MO",
+    "Died 29 Oct 1941, Kansas City, Jackson County, MO"
+   ],
+   "education": [],
+   "career": [
+    "Clerk for Martin, Bloomquist, and Lee Commission Company"
+   ],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Son of Col. Alexander William Adams, born 1887. Not one of the George Francis Adams line."
+   ]
+  },
+  {
    "id": "adams_george_francis_1",
    "name": "George Francis Adams (#1)",
    "aliases": [],
@@ -764,10 +1679,13 @@
    "children": [
     "adams_john_wesley",
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_missouri",
     "adams_harriett_e",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "siblings": [
     "adams_alexander_washington",
@@ -911,7 +1829,12 @@
     "george_francis_adams_sr"
    ],
    "siblings": [
-    "adams_alberta"
+    "adams_alberta",
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_mary_susan",
+    "adams_gertrude_1881",
+    "adams_william_w_1885"
    ],
    "families": [
     "F_adams_george_francis_2+trumbo_serena_marie"
@@ -977,6 +1900,151 @@
     "Survived by his widow and three children [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4697]",
     "Pictured in a family photograph c. 1919 with Serena, Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
    ]
+  },
+  {
+   "id": "adams_gertrude_1881",
+   "name": "Gertrude Adams (Clark)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "31 Jul 1881",
+    "year": 1881,
+    "qualifier": null
+   },
+   "death": {
+    "text": "12 Aug 1963",
+    "year": 1963,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_john_wesley",
+   "mother": "vantine_mary_frances",
+   "parents": [
+    "adams_john_wesley",
+    "vantine_mary_frances"
+   ],
+   "spouses": [
+    "clark_wallace_bowlingreen"
+   ],
+   "children": [
+    "clark_frances"
+   ],
+   "siblings": [
+    "adams_alberta",
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_mary_susan",
+    "adams_george_francis_2",
+    "adams_william_w_1885"
+   ],
+   "families": [
+    "F_adams_gertrude_1881+clark_wallace_bowlingreen"
+   ],
+   "parent_family": "F_adams_john_wesley+vantine_mary_frances",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, Missouri",
+    "Houston, Harris County, TX",
+    "Mt. Olivet Cemetery, Marceline, Linn County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 31 Jul 1881, Chariton County, Missouri",
+    "Died 12 Aug 1963, Houston, Harris County, TX",
+    "Buried 13 Aug 1963 at Mt. Olivet Cemetery, Marceline",
+    "Married Wallace Bowlingreen Clark (m. 15 Sep 1898, Marceline, Missouri)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_grace",
+   "name": "Grace Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Jan 1891",
+    "year": 1891,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Dec 1977",
+    "year": 1977,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri",
+    "Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Jan 1891, Missouri",
+    "Died Dec 1977, Kansas City, Jackson County, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_harriet_josephine",
@@ -1092,16 +2160,23 @@
     "adams_george_francis_1",
     "lane_cynthia"
    ],
-   "spouses": [],
+   "spouses": [
+    "palmer_lemon_b"
+   ],
    "children": [],
    "siblings": [
     "adams_john_wesley",
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_missouri",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
-   "families": [],
+   "families": [
+    "F_adams_harriett_e+palmer_lemon_b"
+   ],
    "parent_family": "F_adams_george_francis_1+lane_cynthia",
    "connected": true,
    "dna_match": false,
@@ -1166,10 +2241,17 @@
     "adams_alexander_william_col",
     "ashby_unknown"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "locke_mary_c"
+   ],
+   "children": [
+    "adams_ralph_l"
+   ],
    "siblings": [],
-   "families": [],
+   "families": [
+    "F_adams_henry_a+locke_mary_c",
+    "F_adams_henry_a"
+   ],
    "parent_family": "F_adams_alexander_william_col+ashby_unknown",
    "connected": true,
    "dna_match": false,
@@ -1184,17 +2266,87 @@
    "risk_events": [],
    "milestones": [
     "Birth: January 1868, Chariton County, MO",
-    "Married Mary C Locke: 15 May 1890, Chariton County, MO"
+    "Married Mary C. Locke (Adams) (m. 15 May 1890, Chariton County, MO)"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Son of Col. Alexander William Adams and first wife Unknown Ashby (who died c.1868 after childbirth). Source: Adams Family Doc.",
     "CORRECTION 2026-09-22: Mother set to ashby_unknown by inference (born Jan 1868, before her death in 1868 and before his father's 1871 remarriage)."
    ]
+  },
+  {
+   "id": "adams_homer_clarence",
+   "name": "Homer Clarence Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "23 Apr 1878",
+    "year": 1878,
+    "qualifier": null
+   },
+   "death": {
+    "text": "12 Apr 1935",
+    "year": 1935,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Mendon, Chariton County, MO",
+    "Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 23 Apr 1878, Mendon, Chariton County, MO",
+    "Died 12 Apr 1935, Kansas City, Jackson County, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_james_casper",
@@ -1233,13 +2385,21 @@
    "spouses": [
     "kaempfer_adela"
    ],
-   "children": [],
+   "children": [
+    "adams_minnie_f",
+    "adams_ethel_e",
+    "adams_reda_florence",
+    "adams_frank_melbourne"
+   ],
    "siblings": [
     "adams_john_wesley",
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_missouri",
-    "adams_harriett_e"
+    "adams_harriett_e",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "families": [
     "F_adams_james_casper+kaempfer_adela"
@@ -1279,6 +2439,71 @@
    "notes": [
     "Siblings listed: John Wesley, Col. Alexander William, Mary, Joseph Pierre Jose, Missouri, Harriet E., Virginia M., Nancy E."
    ]
+  },
+  {
+   "id": "adams_john_j_1916",
+   "name": "John J. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "27 Mar 1916",
+    "year": 1916,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Apr 1998",
+    "year": 1998,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_frank_1879",
+   "mother": "brannan_katherine_a",
+   "parents": [
+    "adams_frank_1879",
+    "brannan_katherine_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_caleb_francis",
+    "adams_frances_m_1905",
+    "adams_frank_jr_1905",
+    "adams_cecelia_m"
+   ],
+   "families": [],
+   "parent_family": "F_adams_frank_1879+brannan_katherine_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri",
+    "Union, Franklin County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 27 Mar 1916, Missouri",
+    "Died 10 Apr 1998, Union, Franklin County, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_john_wesley",
@@ -1322,14 +2547,22 @@
    ],
    "children": [
     "adams_alberta",
-    "adams_george_francis_2"
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_mary_susan",
+    "adams_george_francis_2",
+    "adams_gertrude_1881",
+    "adams_william_w_1885"
    ],
    "siblings": [
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_missouri",
     "adams_harriett_e",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "families": [
     "F_adams_john_wesley+vantine_mary_frances",
@@ -1558,9 +2791,12 @@
    "siblings": [
     "adams_john_wesley",
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_missouri",
     "adams_harriett_e",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "families": [
     "F_adams_joseph_pierre_jose2+pugh_susan"
@@ -1643,6 +2879,73 @@
    ]
   },
   {
+   "id": "adams_loula",
+   "name": "Loula Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1872",
+    "year": 1872,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1872, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "adams_magdalena",
    "name": "Magdalena (Margaret) Adams",
    "aliases": [],
@@ -1720,6 +3023,133 @@
    ]
   },
   {
+   "id": "adams_mary_1845",
+   "name": "Mary Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1845",
+    "year": 1845,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "14 Oct 1868",
+    "year": 1868,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_francis_1",
+   "mother": "lane_cynthia",
+   "parents": [
+    "adams_george_francis_1",
+    "lane_cynthia"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_john_wesley",
+    "adams_alexander_william_col",
+    "adams_joseph_pierre_jose2",
+    "adams_missouri",
+    "adams_harriett_e",
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
+   ],
+   "families": [],
+   "parent_family": "F_adams_george_francis_1+lane_cynthia",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO",
+    "St. Louis, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1845, Chariton County, MO",
+    "Died 14 Oct 1868, St. Louis, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_mary_e_1916",
+   "name": "Mary E. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1916",
+    "year": 1916,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_ralph_l",
+   "mother": "brandt_pauline",
+   "parents": [
+    "adams_ralph_l",
+    "brandt_pauline"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_adams_ralph_l+brandt_pauline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1916, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "adams_mary_j",
    "name": "Mary J. Adams (Collins)",
    "aliases": [
@@ -1785,6 +3215,88 @@
    "notes": [
     "Daughter of Jose Pierre Adams (II) and Susan M. Pugh. Identified as \"Mrs. J. F. Collins of San Francisco\" in her father's 1923 obituary by elimination: the obituary names Alice and Edna, and the family document gives Mary as the third daughter."
    ]
+  },
+  {
+   "id": "adams_mary_susan",
+   "name": "Mary Susan Adams (Jones)",
+   "aliases": [
+    "Susie Adams"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "4 Dec 1873",
+    "year": 1873,
+    "qualifier": null
+   },
+   "death": {
+    "text": "3 Dec 1943",
+    "year": 1943,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_john_wesley",
+   "mother": "vantine_mary_frances",
+   "parents": [
+    "adams_john_wesley",
+    "vantine_mary_frances"
+   ],
+   "spouses": [
+    "jones_reeves_h"
+   ],
+   "children": [
+    "jones_virginia_ruth"
+   ],
+   "siblings": [
+    "adams_alberta",
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_george_francis_2",
+    "adams_gertrude_1881",
+    "adams_william_w_1885"
+   ],
+   "families": [
+    "F_adams_mary_susan+jones_reeves_h"
+   ],
+   "parent_family": "F_adams_john_wesley+vantine_mary_frances",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO",
+    "Des Moines, Boone, IA",
+    "Des Moines, IA",
+    "The Retreat, Des Moines, IA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [
+    "Mary Susan and her brother Charles both ended up under psychiatric care. She is listed as a patient at 'The Retreat' in Des Moines in the 1930 census, and was probably a resident there by 1925 since her husband was then living alone in a boarding house; it is unclear whether she was ever released."
+   ],
+   "risk_events": [],
+   "milestones": [
+    "Born 4 Dec 1873, Chariton County, MO",
+    "Died 3 Dec 1943, Des Moines, Boone, IA",
+    "Died 3 Dec 1943, Des Moines, IA",
+    "Reeves is listed as divorced in the 1930 census",
+    "Married Reeves H. Jones (m. 24 May 1899, Chariton County, Missouri)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_mary_swan",
@@ -1866,6 +3378,140 @@
    ]
   },
   {
+   "id": "adams_maxine_a",
+   "name": "Maxine A. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1920",
+    "year": 1920,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_frank_melbourne",
+   "mother": "kendall_estella_l",
+   "parents": [
+    "adams_frank_melbourne",
+    "kendall_estella_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_frances_l_1915"
+   ],
+   "families": [],
+   "parent_family": "F_adams_frank_melbourne+kendall_estella_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Colorado"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1920, Colorado"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_minnie_f",
+   "name": "Minnie F. Adams (Seeley)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "13 Jun 1889",
+    "year": 1889,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Jan 1984",
+    "year": 1984,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_james_casper",
+   "mother": "kaempfer_adela",
+   "parents": [
+    "adams_james_casper",
+    "kaempfer_adela"
+   ],
+   "spouses": [
+    "seeley_frank_pierce"
+   ],
+   "children": [
+    "seeley_donald_d",
+    "seeley_frances_maxine",
+    "seeley_alice_n"
+   ],
+   "siblings": [
+    "adams_ethel_e",
+    "adams_reda_florence",
+    "adams_frank_melbourne"
+   ],
+   "families": [
+    "F_adams_minnie_f+seeley_frank_pierce"
+   ],
+   "parent_family": "F_adams_james_casper+kaempfer_adela",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Douglas County, CO",
+    "Butte County, SD",
+    "Sturgis, South Dakota"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 13 Jun 1889, Douglas County, CO",
+    "Died Jan 1984, Butte County, SD",
+    "Married Frank Pierce Seeley (m. abt 1909)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "adams_missouri",
    "name": "Missouri Adams (Hall)",
    "aliases": [],
@@ -1904,9 +3550,12 @@
    "siblings": [
     "adams_john_wesley",
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_harriett_e",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "families": [
     "F_adams_missouri+hall_david_r"
@@ -1942,6 +3591,228 @@
     "Siblings listed: John Wesley, Col. Alexander William, Mary, Joseph Pierre Jose, Harriet E., James Casper, Virginia M., Nancy E.",
     "Listed as Matilda in 1850; by 1860 known as Missouri, a name she kept for the rest of her life. [Bill Allen, Further Research, 2012, line 6608]"
    ]
+  },
+  {
+   "id": "adams_myrtle_anna",
+   "name": "Myrtle Anna Adams (Urbach)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "17 Dec 1869",
+    "year": 1869,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1 Sep 1936",
+    "year": 1936,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_john_wesley",
+   "mother": "vantine_mary_frances",
+   "parents": [
+    "adams_john_wesley",
+    "vantine_mary_frances"
+   ],
+   "spouses": [
+    "green_william_l",
+    "urbach_phillip_l"
+   ],
+   "children": [
+    "green_lester_d",
+    "urbach_robert_henry",
+    "urbach_charles_phillip",
+    "urbach_howard_c"
+   ],
+   "siblings": [
+    "adams_alberta",
+    "adams_charles_w",
+    "adams_mary_susan",
+    "adams_george_francis_2",
+    "adams_gertrude_1881",
+    "adams_william_w_1885"
+   ],
+   "families": [
+    "F_adams_myrtle_anna+green_william_l",
+    "F_adams_myrtle_anna+urbach_phillip_l"
+   ],
+   "parent_family": "F_adams_john_wesley+vantine_mary_frances",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO",
+    "Marceline, Linn County, Missouri",
+    "Mt. Olivet Cemetery, Marceline, Linn County, Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 17 Dec 1869, Chariton County, MO",
+    "Died 1 Sep 1936, Marceline, Linn County, Missouri",
+    "Buried at Mt. Olivet Cemetery, Marceline",
+    "Married William L. Green (m. 6 Mar 1889, Chariton County, MO)",
+    "Married Phillip L. Urbach (m. 2 Jan 1898, Marceline, Linn County, Missouri)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Living in 1929 (survived her son Charles) [Bill Allen, Descendants of Jose Pierre Adams, line 5195]"
+   ]
+  },
+  {
+   "id": "adams_nancy_e",
+   "name": "Nancy E. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "May 1860",
+    "year": 1860,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_francis_1",
+   "mother": "lane_cynthia",
+   "parents": [
+    "adams_george_francis_1",
+    "lane_cynthia"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_john_wesley",
+    "adams_alexander_william_col",
+    "adams_mary_1845",
+    "adams_joseph_pierre_jose2",
+    "adams_missouri",
+    "adams_harriett_e",
+    "adams_james_casper",
+    "adams_virginia_m"
+   ],
+   "families": [],
+   "parent_family": "F_adams_george_francis_1+lane_cynthia",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born May 1860, Chariton County, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_olie",
+   "name": "Olie Adams",
+   "aliases": [
+    "Ollie Adams"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "8 Mar 1883",
+    "year": 1883,
+    "qualifier": null
+   },
+   "death": {
+    "text": "21 Apr 1945",
+    "year": 1945,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_george_f_1887",
+    "adams_grace"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Frankfort, Marshall County, Kansas",
+    "Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 8 Mar 1883, Frankfort, Marshall County, Kansas",
+    "Died 21 Apr 1945, Kansas City, Jackson County, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_presley",
@@ -2011,6 +3882,354 @@
     "Precise birth and death dates newly established. Sibling of George Francis Adams Sr.",
     "Pictured in a family photograph c. 1919 with his family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
    ]
+  },
+  {
+   "id": "adams_ralph_l",
+   "name": "Ralph L. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "27 Sep 1891",
+    "year": 1891,
+    "qualifier": null
+   },
+   "death": {
+    "text": "17 Apr 1945",
+    "year": 1945,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_henry_a",
+   "mother": null,
+   "parents": [
+    "adams_henry_a"
+   ],
+   "spouses": [
+    "brandt_pauline"
+   ],
+   "children": [
+    "adams_mary_e_1916",
+    "adams_frances_j_1922"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_ralph_l+brandt_pauline",
+    "F_adams_ralph_l"
+   ],
+   "parent_family": "F_adams_henry_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri",
+    "Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 27 Sep 1891, Missouri",
+    "Died 17 Apr 1945, Kansas City, Jackson County, MO",
+    "Married Pauline Brandt (Adams) (m. 15 Apr 1913, Kansas City, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_reda_florence",
+   "name": "Reda Florence Adams (Olsen)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Mar 1893",
+    "year": 1893,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Apr 1980",
+    "year": 1980,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_james_casper",
+   "mother": "kaempfer_adela",
+   "parents": [
+    "adams_james_casper",
+    "kaempfer_adela"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_minnie_f",
+    "adams_ethel_e",
+    "adams_frank_melbourne"
+   ],
+   "families": [],
+   "parent_family": "F_adams_james_casper+kaempfer_adela",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Douglas County, CO",
+    "Contra Costa County, CA",
+    "Denver, Colorado",
+    "Cedar Hills Cemetery, Castle Rock, Douglas County, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Mar 1893, Douglas County, CO",
+    "Died Apr 1980, Contra Costa County, CA",
+    "Buried at Cedar Hills Cemetery, Castle Rock"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_virginia_m",
+   "name": "Virginia M. Adams (Lewis)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1858",
+    "year": 1858,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1934",
+    "year": 1934,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_francis_1",
+   "mother": "lane_cynthia",
+   "parents": [
+    "adams_george_francis_1",
+    "lane_cynthia"
+   ],
+   "spouses": [
+    "lewis_john"
+   ],
+   "children": [],
+   "siblings": [
+    "adams_john_wesley",
+    "adams_alexander_william_col",
+    "adams_mary_1845",
+    "adams_joseph_pierre_jose2",
+    "adams_missouri",
+    "adams_harriett_e",
+    "adams_james_casper",
+    "adams_nancy_e"
+   ],
+   "families": [
+    "F_adams_virginia_m+lewis_john"
+   ],
+   "parent_family": "F_adams_george_francis_1+lane_cynthia",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO",
+    "Douglas County, CO",
+    "Franktown, Douglas County, CO",
+    "Cedar Hill Cemetery, Douglas County, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 1858, Chariton County, MO",
+    "Died 1934, Douglas County, CO",
+    "Buried at Cedar Hill Cemetery, Douglas County, CO",
+    "Married John Lewis"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_william_w_1885",
+   "name": "William W. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "26 Aug 1885",
+    "year": 1885,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_john_wesley",
+   "mother": "vantine_mary_frances",
+   "parents": [
+    "adams_john_wesley",
+    "vantine_mary_frances"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_alberta",
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_mary_susan",
+    "adams_george_francis_2",
+    "adams_gertrude_1881"
+   ],
+   "families": [],
+   "parent_family": "F_adams_john_wesley+vantine_mary_frances",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 26 Aug 1885, Chariton County, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Son of John Wesley Adams, born 1885. Not the family historian William W. \"Bill\" Allen."
+   ]
+  },
+  {
+   "id": "adams_willie_may",
+   "name": "Willie May Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "16 May 1873",
+    "year": 1873,
+    "qualifier": null
+   },
+   "death": {
+    "text": "14 Sep 1934",
+    "year": 1934,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_william_col",
+   "mother": "martin_mary_louisa",
+   "parents": [
+    "adams_alexander_william_col",
+    "martin_mary_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_loula",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_william_col+martin_mary_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Brookfield, Chariton County, MO",
+    "Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 16 May 1873, Brookfield, Chariton County, MO",
+    "Died 14 Sep 1934, Kansas City, Jackson County, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "alina_camille_obad",
@@ -2165,6 +4384,63 @@
    ]
   },
   {
+   "id": "allen_barbara_1934",
+   "name": "Barbara Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "10 Dec 1934",
+    "year": 1934,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_ralph_kenneth",
+   "mother": "whitman_zella_campbell",
+   "parents": [
+    "allen_ralph_kenneth",
+    "whitman_zella_campbell"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_allen_ralph_kenneth+whitman_zella_campbell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 10 Dec 1934"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "allen_benjamin_alistair",
    "name": "Benjamin Alistair Allen",
    "aliases": [
@@ -2272,15 +4548,28 @@
     "adams_alberta",
     "allen_george_julius"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "billingslea_harold_emerson"
+   ],
+   "children": [
+    "billingslea_frances_fern",
+    "billingslea_doris_alberta",
+    "billingslea_ruth_virginia",
+    "billingslea_harold_emerson_jr"
+   ],
    "siblings": [
     "allen_frances_rosetta",
+    "allen_henry_eisley",
+    "allen_william_laurence",
     "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_ralph_kenneth",
     "allen_leroy_gaylord"
    ],
-   "families": [],
+   "families": [
+    "F_allen_bernice+billingslea_harold_emerson"
+   ],
    "parent_family": "F_adams_alberta+allen_george_julius",
    "connected": true,
    "dna_match": false,
@@ -2302,7 +4591,7 @@
    "milestones": [
     "Birth: 30 July 1891, Marceline, MO",
     "Death: 30 November 1989, Tacoma, Pierce County, WA (age 98)",
-    "Married Harold Emerson Billingslea: 11 June 1913",
+    "Married Harold Emerson Billingslea (m. 11 Jun 1913)",
     "Died 30 Nov 1989, Gig Harbor, Pierce County, WA",
     "Buried in Llano Cemetery, Amarillo, Texas"
    ],
@@ -2395,6 +4684,132 @@
    ]
   },
   {
+   "id": "allen_dorothy_ann_1943",
+   "name": "Dorothy Ann Allen (Larkin)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "27 Oct 1943",
+    "year": 1943,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_marion_lafayette",
+   "mother": "jiskra_florence_rose",
+   "parents": [
+    "allen_marion_lafayette",
+    "jiskra_florence_rose"
+   ],
+   "spouses": [
+    "larkin_stephen_max"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_dorothy_ann_1943+larkin_stephen_max"
+   ],
+   "parent_family": "F_allen_marion_lafayette+jiskra_florence_rose",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 27 Oct 1943",
+    "Married Stephen Max Larkin (m. 30 Apr 1965, St George, Washington County, UT)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "allen_edward_george",
+   "name": "Edward George Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "8 Oct 1946",
+    "year": 1946,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_ralph_kenneth",
+   "mother": "smith_irene_louisa",
+   "parents": [
+    "allen_ralph_kenneth",
+    "smith_irene_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "allen_judith",
+    "allen_ralph_kenneth_jr"
+   ],
+   "families": [],
+   "parent_family": "F_allen_ralph_kenneth+smith_irene_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Portland, Multnomah County, OR"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 8 Oct 1946, Portland, Multnomah County, OR"
+   ],
+   "education": [],
+   "career": [
+    "Principal Horn of the New Zealand Symphony Orchestra for many years, retiring in 2009; earlier with the Utah Symphony Orchestra"
+   ],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "allen_frances_rosetta",
    "name": "Frances Rosetta Allen (Charters)",
    "aliases": [],
@@ -2430,10 +4845,16 @@
    "spouses": [
     "charters_john_dixon"
    ],
-   "children": [],
+   "children": [
+    "charters_william_allen"
+   ],
    "siblings": [
     "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
     "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_ralph_kenneth",
     "allen_leroy_gaylord"
    ],
@@ -2632,7 +5053,11 @@
    "children": [
     "allen_frances_rosetta",
     "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
     "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_ralph_kenneth",
     "allen_leroy_gaylord"
    ],
@@ -2799,6 +5224,10 @@
    "siblings": [
     "allen_frances_rosetta",
     "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_ralph_kenneth",
     "allen_leroy_gaylord"
    ],
@@ -2857,6 +5286,80 @@
     "CORRECTION 2026-09-22: Added daughter allen_margaret_jeanice (b. 1925), sister of George Homer Allen.",
     "Died of cancer after fighting it for over five years [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4995]"
    ]
+  },
+  {
+   "id": "allen_gerald_franklin",
+   "name": "Gerald Franklin Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "30 Jun 1935",
+    "year": 1935,
+    "qualifier": null
+   },
+   "death": {
+    "text": "29 Oct 1985",
+    "year": 1985,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_leroy_gaylord",
+   "mother": "eberhart_gladys",
+   "parents": [
+    "allen_leroy_gaylord",
+    "eberhart_gladys"
+   ],
+   "spouses": [
+    "peterson_lois_june"
+   ],
+   "children": [],
+   "siblings": [
+    "allen_william_rolland"
+   ],
+   "families": [
+    "F_allen_gerald_franklin+peterson_lois_june"
+   ],
+   "parent_family": "F_allen_leroy_gaylord+eberhart_gladys",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "New Haven, New Haven County, CT",
+    "Claremont, Los Angeles County, CA",
+    "New Haven, New Haven, CT",
+    "Claremont, Los Angeles, CA",
+    "Eastlawn Cemetery, Tucson, AZ"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 30 Jun 1935, New Haven, New Haven County, CT",
+    "Died 29 Oct 1985, Claremont, Los Angeles County, CA",
+    "Born 30 Jun 1935, New Haven, New Haven, CT",
+    "Died 29 Oct 1985, Claremont, Los Angeles, CA",
+    "Buried at Eastlawn Cemetery in Tucson, AZ",
+    "Married Lois June Peterson (Allen) (m. 8 Jun 1960, Hartington, NE)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "allen_guinevere",
@@ -2939,6 +5442,216 @@
    ]
   },
   {
+   "id": "allen_helen_loraine",
+   "name": "Helen Loraine Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "12 Mar 1902",
+    "year": 1902,
+    "qualifier": null
+   },
+   "death": {
+    "text": "26 Sep 1903",
+    "year": 1903,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_george_julius",
+   "mother": "adams_alberta",
+   "parents": [
+    "adams_alberta",
+    "allen_george_julius"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "allen_frances_rosetta",
+    "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
+    "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_ralph_kenneth",
+    "allen_leroy_gaylord"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alberta+allen_george_julius",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, MO",
+    "Mt. Olivet Cemetery, Marceline, Linn County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 12 Mar 1902, Marceline, MO",
+    "Died 26 Sep 1903, Marceline, MO",
+    "Buried at Mt. Olivet Cemetery, Marceline"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "allen_henry_eisley",
+   "name": "Henry Eisley Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "7 Feb 1893",
+    "year": 1893,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Mar 1894",
+    "year": 1894,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_george_julius",
+   "mother": "adams_alberta",
+   "parents": [
+    "adams_alberta",
+    "allen_george_julius"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "allen_frances_rosetta",
+    "allen_bernice",
+    "allen_william_laurence",
+    "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
+    "allen_ralph_kenneth",
+    "allen_leroy_gaylord"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alberta+allen_george_julius",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, MO",
+    "Mt. Olivet Cemetery, Marceline, Linn County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 7 Feb 1893, Marceline, MO",
+    "Died 5 Mar 1894, Marceline, MO",
+    "Buried at Mt. Olivet Cemetery, Marceline"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "allen_judith",
+   "name": "Judith Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "6 Jul 1938",
+    "year": 1938,
+    "qualifier": null
+   },
+   "death": {
+    "text": "26 Feb 2000",
+    "year": 2000,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_ralph_kenneth",
+   "mother": "smith_irene_louisa",
+   "parents": [
+    "allen_ralph_kenneth",
+    "smith_irene_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "allen_ralph_kenneth_jr",
+    "allen_edward_george"
+   ],
+   "families": [],
+   "parent_family": "F_allen_ralph_kenneth+smith_irene_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Portland, Multnomah County, OR",
+    "Port Townsend, WA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [
+    "The preparer calls Judy his pal and 'second Mom'; when his parents were having difficulties he would drive to her place in Moorpark, and she always knew what to say."
+   ],
+   "risk_events": [],
+   "milestones": [
+    "Born 6 Jul 1938, Portland, Multnomah County, OR",
+    "Died 26 Feb 2000, Port Townsend, WA"
+   ],
+   "education": [],
+   "career": [
+    "Taught English at Moorpark College in southern California"
+   ],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "allen_leroy_gaylord",
    "name": "Leroy Gaylord Allen",
    "aliases": [],
@@ -2974,11 +5687,18 @@
    "spouses": [
     "eberhart_gladys"
    ],
-   "children": [],
+   "children": [
+    "allen_william_rolland",
+    "allen_gerald_franklin"
+   ],
    "siblings": [
     "allen_frances_rosetta",
     "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
     "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_ralph_kenneth"
    ],
    "families": [
@@ -3095,6 +5815,93 @@
    ]
   },
   {
+   "id": "allen_marion_lafayette",
+   "name": "Marion Lafayette Allen",
+   "aliases": [
+    "Fay Allen",
+    "Marion L. Allen"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "27 May 1900",
+    "year": 1900,
+    "qualifier": null
+   },
+   "death": {
+    "text": "25 Sep 1985",
+    "year": 1985,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_george_julius",
+   "mother": "adams_alberta",
+   "parents": [
+    "adams_alberta",
+    "allen_george_julius"
+   ],
+   "spouses": [
+    "muriel_wife_of_fay_allen",
+    "jiskra_florence_rose"
+   ],
+   "children": [
+    "allen_dorothy_ann_1943"
+   ],
+   "siblings": [
+    "allen_frances_rosetta",
+    "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
+    "allen_george_philip",
+    "allen_helen_loraine",
+    "allen_ralph_kenneth",
+    "allen_leroy_gaylord"
+   ],
+   "families": [
+    "F_allen_marion_lafayette+muriel_wife_of_fay_allen",
+    "F_allen_marion_lafayette+jiskra_florence_rose"
+   ],
+   "parent_family": "F_adams_alberta+allen_george_julius",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, MO",
+    "Garnett, Anderson County, KS",
+    "Salt Lake City, Salt Lake County, Utah",
+    "Grand Rapids, Mich."
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 27 May 1900, Marceline, MO",
+    "Died 25 Sep 1985, Salt Lake City, Salt Lake County, Utah",
+    "Married Muriel (m. bef 1930)",
+    "Married Florence Rose Jiskra (Allen) (m. 21 Jul 1938, Chesterton, Porter County, IN)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Mr. and Mrs. Marion L. Allen and daughter attended George J. Allen's funeral; Mrs. Williams is named as sister of Mrs. Marion Allen [Bill Allen, Descendants of Jose Pierre Adams, line 4518]"
+   ]
+  },
+  {
    "id": "allen_ralph_kenneth",
    "name": "Ralph Kenneth Allen",
    "aliases": [],
@@ -3131,11 +5938,20 @@
     "whitman_zella_campbell",
     "smith_irene_louisa"
    ],
-   "children": [],
+   "children": [
+    "allen_barbara_1934",
+    "allen_judith",
+    "allen_ralph_kenneth_jr",
+    "allen_edward_george"
+   ],
    "siblings": [
     "allen_frances_rosetta",
     "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
     "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_leroy_gaylord"
    ],
    "families": [
@@ -3176,6 +5992,70 @@
    ],
    "notes": [
     "Multiple spouses: whitman_zella_campbell, smith_irene_louisa"
+   ]
+  },
+  {
+   "id": "allen_ralph_kenneth_jr",
+   "name": "Ralph Kenneth Allen Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "11 Jan 1943",
+    "year": 1943,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_ralph_kenneth",
+   "mother": "smith_irene_louisa",
+   "parents": [
+    "allen_ralph_kenneth",
+    "smith_irene_louisa"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "allen_judith",
+    "allen_edward_george"
+   ],
+   "families": [],
+   "parent_family": "F_allen_ralph_kenneth+smith_irene_louisa",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Portland, Multnomah County, OR"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 11 Jan 1943, Portland, Multnomah County, OR"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Wrote the poem 'A Wanderer & Traveler', reproduced in the document (poem text not extracted) [Bill Allen, Descendants of Jose Pierre Adams, line 5117]"
    ]
   },
   {
@@ -3342,6 +6222,135 @@
    "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
    ]
+  },
+  {
+   "id": "allen_william_laurence",
+   "name": "William Laurence Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "24 Jun 1895",
+    "year": 1895,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Apr 1896",
+    "year": 1896,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_george_julius",
+   "mother": "adams_alberta",
+   "parents": [
+    "adams_alberta",
+    "allen_george_julius"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "allen_frances_rosetta",
+    "allen_bernice",
+    "allen_henry_eisley",
+    "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
+    "allen_ralph_kenneth",
+    "allen_leroy_gaylord"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alberta+allen_george_julius",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 24 Jun 1895, Marceline, MO",
+    "Died Apr 1896, Marceline, MO"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "allen_william_rolland",
+   "name": "William Rolland Allen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "28 Nov 1929",
+    "year": 1929,
+    "qualifier": null
+   },
+   "death": {
+    "text": "11 Mar 1933",
+    "year": 1933,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_leroy_gaylord",
+   "mother": "eberhart_gladys",
+   "parents": [
+    "allen_leroy_gaylord",
+    "eberhart_gladys"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "allen_gerald_franklin"
+   ],
+   "families": [],
+   "parent_family": "F_allen_leroy_gaylord+eberhart_gladys",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 28 Nov 1929",
+    "Died 11 Mar 1933"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "allen_william_w",
@@ -4775,6 +7784,338 @@
    ]
   },
   {
+   "id": "billingslea_doris_alberta",
+   "name": "Doris Alberta Billingslea",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "8 Jun 1916",
+    "year": 1916,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "billingslea_harold_emerson",
+   "mother": "allen_bernice",
+   "parents": [
+    "allen_bernice",
+    "billingslea_harold_emerson"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "billingslea_frances_fern",
+    "billingslea_ruth_virginia",
+    "billingslea_harold_emerson_jr"
+   ],
+   "families": [],
+   "parent_family": "F_allen_bernice+billingslea_harold_emerson",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kansas"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 8 Jun 1916, Kansas"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "billingslea_frances_fern",
+   "name": "Frances Fern Billingslea (Scott)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "5 May 1915",
+    "year": 1915,
+    "qualifier": null
+   },
+   "death": {
+    "text": "27 Dec 1969",
+    "year": 1969,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "billingslea_harold_emerson",
+   "mother": "allen_bernice",
+   "parents": [
+    "allen_bernice",
+    "billingslea_harold_emerson"
+   ],
+   "spouses": [
+    "scott_howard_e"
+   ],
+   "children": [
+    "scott_bernice_elizabeth"
+   ],
+   "siblings": [
+    "billingslea_doris_alberta",
+    "billingslea_ruth_virginia",
+    "billingslea_harold_emerson_jr"
+   ],
+   "families": [
+    "F_billingslea_frances_fern+scott_howard_e"
+   ],
+   "parent_family": "F_allen_bernice+billingslea_harold_emerson",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kansas",
+    "Johnson County, Texas",
+    "Rosehill Cemetery, Cleburne, Johnson County, Texas"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 5 May 1915, Kansas",
+    "Died 27 Dec 1969, Johnson County, Texas",
+    "Buried at Rosehill Cemetery in Cleburne, Johnson County, Texas",
+    "Married Rev. Howard E. Scott"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "billingslea_harold_emerson",
+   "name": "Harold Emerson Billingslea",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "4 Nov 1888",
+    "year": 1888,
+    "qualifier": null
+   },
+   "death": {
+    "text": "12 Jun 1978",
+    "year": 1978,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_bernice"
+   ],
+   "children": [
+    "billingslea_frances_fern",
+    "billingslea_doris_alberta",
+    "billingslea_ruth_virginia",
+    "billingslea_harold_emerson_jr"
+   ],
+   "siblings": [],
+   "families": [
+    "F_allen_bernice+billingslea_harold_emerson"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Keokuk, IA",
+    "Potter County, TX"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 4 Nov 1888, Keokuk, IA",
+    "Died 12 Jun 1978, Potter County, TX",
+    "Married Bernice Allen (m. 11 Jun 1913)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "billingslea_harold_emerson_jr",
+   "name": "Harold Emerson Billingslea Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "9 Sep 1928",
+    "year": 1928,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "billingslea_harold_emerson",
+   "mother": "allen_bernice",
+   "parents": [
+    "allen_bernice",
+    "billingslea_harold_emerson"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "billingslea_frances_fern",
+    "billingslea_doris_alberta",
+    "billingslea_ruth_virginia"
+   ],
+   "families": [],
+   "parent_family": "F_allen_bernice+billingslea_harold_emerson",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Potter County, TX"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 9 Sep 1928, Potter County, TX"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "billingslea_ruth_virginia",
+   "name": "Ruth Virginia Billingslea (Wagner)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "14 Mar 1920",
+    "year": 1920,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "billingslea_harold_emerson",
+   "mother": "allen_bernice",
+   "parents": [
+    "allen_bernice",
+    "billingslea_harold_emerson"
+   ],
+   "spouses": [
+    "wagner_fred_clark"
+   ],
+   "children": [],
+   "siblings": [
+    "billingslea_frances_fern",
+    "billingslea_doris_alberta",
+    "billingslea_harold_emerson_jr"
+   ],
+   "families": [
+    "F_billingslea_ruth_virginia+wagner_fred_clark"
+   ],
+   "parent_family": "F_allen_bernice+billingslea_harold_emerson",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 14 Mar 1920, Missouri",
+    "Married Fred Clark Wagner"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "billups_anthony",
    "name": "Anthony Billups",
    "aliases": [],
@@ -4826,6 +8167,126 @@
     "DNA match #27. Unplaced.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
+  },
+  {
+   "id": "brandt_pauline",
+   "name": "Pauline Brandt (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_ralph_l"
+   ],
+   "children": [
+    "adams_mary_e_1916"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_ralph_l+brandt_pauline"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ralph L. Adams (m. 15 Apr 1913, Kansas City, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "brannan_katherine_a",
+   "name": "Katherine A. Brannan (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1881",
+    "year": 1881,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_frank_1879"
+   ],
+   "children": [
+    "adams_caleb_francis",
+    "adams_frances_m_1905",
+    "adams_frank_jr_1905",
+    "adams_cecelia_m",
+    "adams_john_j_1916"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_frank_1879+brannan_katherine_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1881, Tennessee",
+    "Born 1881",
+    "Married Frank Adams (m. 9 Aug 1900, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "brendan_mckeldin_adams",
@@ -5033,6 +8494,64 @@
     "Explicit parent in family_notes_adams_mckeldin: John Howard Adams",
     "Siblings listed: Brendan McKeldin Adams"
    ]
+  },
+  {
+   "id": "bridges_beula",
+   "name": "Beula Bridges (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1902",
+    "year": 1902,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_frank_jr_1905"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_frank_jr_1905+bridges_beula"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1902, Missouri",
+    "Born 1902",
+    "Married Frank Adams Jr. (m. 20 Aug 1928, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "buckley_hannah_louise",
@@ -5478,7 +8997,9 @@
    "spouses": [
     "allen_frances_rosetta"
    ],
-   "children": [],
+   "children": [
+    "charters_william_allen"
+   ],
    "siblings": [],
    "families": [
     "F_allen_frances_rosetta+charters_john_dixon"
@@ -5514,6 +9035,66 @@
    "notes": [
     "Spouse of Frances Rosetta Allen."
    ]
+  },
+  {
+   "id": "charters_william_allen",
+   "name": "William Allen Charters",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "14 Apr 1933",
+    "year": 1933,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "charters_john_dixon",
+   "mother": "allen_frances_rosetta",
+   "parents": [
+    "allen_frances_rosetta",
+    "charters_john_dixon"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_allen_frances_rosetta+charters_john_dixon",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ashton, Lee County, IL"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 14 Apr 1933, Ashton, Lee County, IL",
+    "Born 1933"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "chau_jennifer",
@@ -6112,6 +9693,152 @@
    ]
   },
   {
+   "id": "clark_frances",
+   "name": "Frances Clark (Eubank)",
+   "aliases": [
+    "Frances W. Clark"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1 Jan 1900",
+    "year": 1900,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Jun 1995",
+    "year": 1995,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "clark_wallace_bowlingreen",
+   "mother": "adams_gertrude_1881",
+   "parents": [
+    "adams_gertrude_1881",
+    "clark_wallace_bowlingreen"
+   ],
+   "spouses": [
+    "eubank_myron_lee"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_clark_frances+eubank_myron_lee"
+   ],
+   "parent_family": "F_adams_gertrude_1881+clark_wallace_bowlingreen",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, Linn County, Missouri",
+    "Colorado Springs, El Paso County, CO",
+    "Evergreen Cemetery, Colorado Springs, El Paso County, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 1 Jan 1900, Marceline, Linn County, Missouri",
+    "Died 10 Jun 1995, Colorado Springs, El Paso County, CO",
+    "Buried at Evergreen Cemetery, Colorado Springs",
+    "Born 1900",
+    "Died 1995",
+    "Married Myron Lee Eubank (m. abt 1919, Oklahoma)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "clark_wallace_bowlingreen",
+   "name": "Wallace Bowlingreen Clark",
+   "aliases": [
+    "Wallace B. Clark"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "26 Mar 1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1917",
+    "year": 1917,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_gertrude_1881"
+   ],
+   "children": [
+    "clark_frances"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_gertrude_1881+clark_wallace_bowlingreen"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, Missouri",
+    "Oklahoma City, OK"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [
+    "An active Republican campaigner even before he came of age, in 1896 he spoke against free silver in Missouri and was howled down in strongly pro-Bryan areas. In 1907 in Oklahoma he broke with his party to back adopting the constitution, and was nominated for Kay County attorney, having earlier received a similar nomination in Linn County."
+   ],
+   "risk_events": [],
+   "milestones": [
+    "Born 1875",
+    "Died 1917",
+    "Born 26 Mar 1875, Chariton County, Missouri",
+    "Died 1917, Oklahoma City, OK",
+    "Married Gertrude Adams (Clark) (m. 15 Sep 1898, Marceline, Missouri)"
+   ],
+   "education": [
+    "Educated in the district schools, the Salisbury Academy and the Keytesville Normal School; completed legal studies in the office of Major Mullins at Linneus"
+   ],
+   "career": [
+    "Attorney at law, practising in Marceline and Ponca City, OK",
+    "Taught school for seven years in Chariton and Ray counties before turning to law",
+    "Admitted to the bar January 13, 1899 before Judge John P Butler at Salisbury; practised law in Linn County for four years, then in Ponca, Oklahoma"
+   ],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Siblings: Andrew J (Centerville, Iowa); Nancy J, wife of John J Rogers; William S. (Macon County, MO); John C. (Nebraska); Margaret, wife of AG Sterner; Mary, wife of S.L. Addis; Christiana, wife of EB Proctor; twins Edward and David [Bill Allen, Descendants of Jose Pierre Adams, line 4745]"
+   ]
+  },
+  {
    "id": "clemens_mary_bachman",
    "name": "Mary Bachman Clemens",
    "aliases": [],
@@ -6420,6 +10147,64 @@
    ]
   },
   {
+   "id": "devaw_louisa_woods",
+   "name": "Louisa Woods Devaw (Martin)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "martin_kaleb"
+   ],
+   "children": [
+    "martin_mary_louisa"
+   ],
+   "siblings": [],
+   "families": [
+    "F_devaw_louisa_woods+martin_kaleb"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Kaleb Martin"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Listed in Index of Names under DEVAW, page 5, no dates [Bill Allen, Descendants of Jose Pierre Adams, line 5796]"
+   ]
+  },
+  {
    "id": "donovan_meghan",
    "name": "Meghan Donovan",
    "aliases": [],
@@ -6666,7 +10451,10 @@
    "spouses": [
     "allen_leroy_gaylord"
    ],
-   "children": [],
+   "children": [
+    "allen_william_rolland",
+    "allen_gerald_franklin"
+   ],
    "siblings": [],
    "families": [
     "F_allen_leroy_gaylord+eberhart_gladys"
@@ -7091,6 +10879,69 @@
     "Siblings listed: John Joseph Quinn",
     "Emily's mother."
    ]
+  },
+  {
+   "id": "eubank_myron_lee",
+   "name": "Myron Lee Eubank",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "21 Feb 1893",
+    "year": 1893,
+    "qualifier": null
+   },
+   "death": {
+    "text": "21 Jul 1962",
+    "year": 1962,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "clark_frances"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_clark_frances+eubank_myron_lee"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Colorado Springs, El Paso County, CO",
+    "Harris County, TX",
+    "Evergreen Cemetery, Colorado Springs, El Paso County, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 21 Feb 1893, Colorado Springs, El Paso County, CO",
+    "Died 21 Jul 1962, Harris County, TX",
+    "Buried at Evergreen Cemetery, Colorado Springs",
+    "Born 1893",
+    "Died 1962",
+    "Married Frances Clark (Eubank) (m. abt 1919, Oklahoma)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "fonshill_susan_bethany",
@@ -8635,6 +12486,194 @@
    ]
   },
   {
+   "id": "gosnell_louise_a",
+   "name": "Louise A. Gosnell (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "27 Aug 1874",
+    "year": 1874,
+    "qualifier": null
+   },
+   "death": {
+    "text": "22 Jul 1935",
+    "year": 1935,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_caleb_martin"
+   ],
+   "children": [
+    "adams_cornelia"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_caleb_martin+gosnell_louise_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Iroquois County, IL",
+    "St. Louis, MO",
+    "Forest Hill Cemetery, Kansas City, Jackson County, MO",
+    "St. Louis, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 27 Aug 1874, Iroquois County, IL",
+    "Died 22 Jul 1935, St. Louis, MO",
+    "Buried 24 Jul 1935 at Forest Hill Cemetery, Kansas City, MO",
+    "Died 22 Jul 1935, St. Louis, Jackson County, MO",
+    "Buried at Forest Hill Cemetery, Kansas City (24 Jul 1935)",
+    "Born 1874",
+    "Died 1935",
+    "Married Caleb Martin Adams (m. 4 Oct 1899, St. Louis, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "green_lester_d",
+   "name": "Lester D. Green",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Sep 1890",
+    "year": 1890,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "green_william_l",
+   "mother": "adams_myrtle_anna",
+   "parents": [
+    "adams_myrtle_anna",
+    "green_william_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_adams_myrtle_anna+green_william_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri",
+    "Binghamton, NY"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Sep 1890, Missouri",
+    "Born 1890"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "green_william_l",
+   "name": "William L. Green",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1862",
+    "year": 1862,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_myrtle_anna"
+   ],
+   "children": [
+    "green_lester_d"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_myrtle_anna+green_william_l"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1862, Virginia",
+    "Born 1862",
+    "Married Myrtle Anna Adams (Urbach) (m. 6 Mar 1889, Chariton County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "grief_dorothea",
    "name": "Dorothea Grief (McKeldin)",
    "aliases": [],
@@ -8854,6 +12893,64 @@
    ]
   },
   {
+   "id": "hall_emily",
+   "name": "Emily Hall (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "13 Dec 1884",
+    "year": 1884,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_caleb_martin"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_caleb_martin+hall_emily"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Cedar Rapids, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 13 Dec 1884, Cedar Rapids, Iowa",
+    "Born 1884",
+    "Married Caleb Martin Adams (m. 2 Sep 1937)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "hamilton_elizabeth_eliza",
    "name": "Elizabeth (Eliza) Hamilton",
    "aliases": [],
@@ -8965,11 +13062,13 @@
     "hamilton_susan"
    ],
    "children": [
-    "hamilton_elizabeth_eliza"
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas"
    ],
    "siblings": [],
    "families": [
-    "F_hamilton_francis+hamilton_susan"
+    "F_hamilton_francis+hamilton_susan",
+    "F_hamilton_francis"
    ],
    "parent_family": "F_hamilton_john_of_kype+young_jacobina",
    "connected": true,
@@ -9159,6 +13258,68 @@
    ],
    "notes": [
     "Wife of Francis Hamilton. Possibly Susan Blandford per source."
+   ]
+  },
+  {
+   "id": "hamilton_thomas",
+   "name": "Thomas Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "abt 1834",
+    "year": 1834,
+    "qualifier": "about"
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis",
+   "mother": null,
+   "parents": [
+    "hamilton_francis"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_hamilton_francis",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Jefferson Co., VA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Died abt 1834, Jefferson Co., VA"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Brother of Elizabeth (Eliza) Hamilton; Jose Pierre Adams, his brother-in-law, administered his estate (final account May 1836).",
+    "His will (written 1830) was executed by his brother-in-law Jose P. Adams in 1836; it names George as minor son of Jose P. Adams [Bill Allen, Descendants of Jose Pierre Adams, line 3999]",
+    "Received from his uncle the remainder of the slaves held by his brother John Alexander [Bill Allen, Descendants of Jose Pierre Adams, line 9655]",
+    "Estate appraisal named Jose P. and William ADAMS; final account filed May 1836 by the administrator Jose P. ADAMS, his brother-in-law [Bill Allen, Descendants of Jose Pierre Adams, line 9657]",
+    "Named as Uncle in the will of Francis A. HAMILTON [Bill Allen, Descendants of Jose Pierre Adams, line 9695]"
    ]
   },
   {
@@ -9776,6 +13937,69 @@
    ]
   },
   {
+   "id": "jiskra_florence_rose",
+   "name": "Florence Rose Jiskra (Allen)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "23 Jun 1908",
+    "year": 1908,
+    "qualifier": null
+   },
+   "death": {
+    "text": "22 Aug 1980",
+    "year": 1980,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_marion_lafayette"
+   ],
+   "children": [
+    "allen_dorothy_ann_1943"
+   ],
+   "siblings": [],
+   "families": [
+    "F_allen_marion_lafayette+jiskra_florence_rose"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chicago, IL",
+    "Ventura, Ventura County, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 23 Jun 1908, Chicago, IL",
+    "Died 22 Aug 1980, Ventura, Ventura County, CA",
+    "Born 1908",
+    "Died 1980",
+    "Married Marion Lafayette Allen (m. 21 Jul 1938, Chesterton, Porter County, IN)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "john_howard_adams",
    "name": "John Howard Adams",
    "aliases": [
@@ -10080,6 +14304,133 @@
    ]
   },
   {
+   "id": "jones_reeves_h",
+   "name": "Reeves H. Jones",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Aug 1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Apr 1945",
+    "year": 1945,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_mary_susan"
+   ],
+   "children": [
+    "jones_virginia_ruth"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_mary_susan+jones_reeves_h"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri",
+    "Omaha, NE",
+    "Des Moines, IA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Aug 1875, Missouri",
+    "Died 5 Apr 1945, Omaha, NE",
+    "Listed as divorced and living in Omaha, NE in the 1930 census; apparently remarried sometime after 1930",
+    "Born 1875",
+    "Died 1945",
+    "Married Mary Susan Adams (Jones) (m. 24 May 1899, Chariton County, Missouri)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "jones_virginia_ruth",
+   "name": "Virginia Ruth Jones",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "25 Jan 1900",
+    "year": 1900,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1983",
+    "year": 1983,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "jones_reeves_h",
+   "mother": "adams_mary_susan",
+   "parents": [
+    "adams_mary_susan",
+    "jones_reeves_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_adams_mary_susan+jones_reeves_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 25 Jan 1900, Missouri",
+    "Born 1900",
+    "Died 1983"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "No record that she ever married [Bill Allen, Descendants of Jose Pierre Adams, line 4651]"
+   ]
+  },
+  {
    "id": "jorgensen_damian",
    "name": "Damian Jorgensen",
    "aliases": [],
@@ -10275,18 +14626,26 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "kaempfer_anton",
+   "mother": "pieritz_wilhelmina",
+   "parents": [
+    "kaempfer_anton",
+    "pieritz_wilhelmina"
+   ],
    "spouses": [
     "adams_james_casper"
    ],
-   "children": [],
+   "children": [
+    "adams_minnie_f",
+    "adams_ethel_e",
+    "adams_reda_florence",
+    "adams_frank_melbourne"
+   ],
    "siblings": [],
    "families": [
     "F_adams_james_casper+kaempfer_adela"
    ],
-   "parent_family": null,
+   "parent_family": "F_kaempfer_anton+pieritz_wilhelmina",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -10325,6 +14684,130 @@
     "Sisters Emma E. Ingersoll of Denver and Minnie C. Sturdevant of Castle Rock, and brother A. C. G. Kaempfer of Bridgeport, Nebraska survived her; also seven grandchildren and four great-grandchildren [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4437]",
     "Funeral at the Andrew Funeral Home, Rev. William J. Wilcox officiating (obituary from the Record Journal of Douglas County, October 1941) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4449]"
    ]
+  },
+  {
+   "id": "kaempfer_anton",
+   "name": "Anton Kaempfer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1821",
+    "year": 1821,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1915",
+    "year": 1915,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "pieritz_wilhelmina"
+   ],
+   "children": [
+    "kaempfer_adela"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kaempfer_anton+pieritz_wilhelmina"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 1821",
+    "Died 1915",
+    "Married Wilhelmina Pieritz (Kaempfer)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "kendall_estella_l",
+   "name": "Estella L. Kendall (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "11 Oct 1895",
+    "year": 1895,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Mar 1982",
+    "year": 1982,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_frank_melbourne"
+   ],
+   "children": [
+    "adams_frances_l_1915",
+    "adams_maxine_a"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_frank_melbourne+kendall_estella_l"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Colorado",
+    "Denver, Denver County, CO",
+    "Cedar Hills Cemetery, Castle Rock, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 11 Oct 1895, Colorado",
+    "Died Mar 1982, Denver, Denver County, CO",
+    "Buried at Cedar Hills Cemetery, Castle Rock",
+    "Born 1895",
+    "Died 1982",
+    "Married Frank Melbourne Adams (m. 12 Apr 1914, Douglas County, CO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "kessler_tammy",
@@ -12155,25 +16638,30 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
+   "father": "lane_john_s",
    "mother": null,
-   "parents": [],
+   "parents": [
+    "lane_john_s"
+   ],
    "spouses": [
     "adams_george_francis_1"
    ],
    "children": [
     "adams_john_wesley",
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_missouri",
     "adams_harriett_e",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "siblings": [],
    "families": [
     "F_adams_george_francis_1+lane_cynthia"
    ],
-   "parent_family": null,
+   "parent_family": "F_lane_john_s",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -12209,6 +16697,125 @@
     "Per the 1898 biography, mother of four sons and four daughters, all living in 1898 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4343]",
     "DPBR: mother of four sons and four daughters, all living in 1898. [Bill Allen, Further Research, 2012, line 6958]"
    ]
+  },
+  {
+   "id": "lane_john_s",
+   "name": "John S. Lane",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "lane_cynthia"
+   ],
+   "siblings": [],
+   "families": [
+    "F_lane_john_s"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chariton County, MO",
+    "Kentucky; Chariton County, Missouri",
+    "Chariton County, Missouri",
+    "Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Died Chariton County, Missouri",
+    "Granted a land warrant in 1851 for service in the Missouri Volunteers, probably in Indian or Mormon conflicts."
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Father of Cynthia Lane. His 1851 land warrant in Chariton County, Missouri, included the parcel later patented by George Francis Adams (#1).",
+    "Listed in Index of Names under LANE, page 3, no dates [Bill Allen, Descendants of Jose Pierre Adams, line 5878]"
+   ]
+  },
+  {
+   "id": "larkin_stephen_max",
+   "name": "Stephen Max Larkin",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1944",
+    "year": 1944,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_dorothy_ann_1943"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_dorothy_ann_1943+larkin_stephen_max"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1944",
+    "Born 1944",
+    "Married Dorothy Ann Allen (Larkin) (m. 30 Apr 1965, St George, Washington County, UT)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "lauren_adams",
@@ -12342,6 +16949,123 @@
    "career": [],
    "sources": [
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "lewis_john",
+   "name": "John Lewis",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_virginia_m"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_virginia_m+lewis_john"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Virginia M. Adams (Lewis)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Husband of Virginia M. Adams. Bill Allen gives only the surname Lewis; the Adams brothers photograph names a brother-in-law John Lewis, and a Virginia Lewis (1858–1934) is buried in the Adams family plot at Castle Rock."
+   ]
+  },
+  {
+   "id": "locke_mary_c",
+   "name": "Mary C. Locke (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "10 May 1869",
+    "year": 1869,
+    "qualifier": null
+   },
+   "death": {
+    "text": "17 Jan 1933",
+    "year": 1933,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_henry_a"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_henry_a+locke_mary_c"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Missouri",
+    "Kansas City, Jackson County, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 10 May 1869, Missouri",
+    "Died 17 Jan 1933, Kansas City, Jackson County, MO",
+    "Born 1869",
+    "Died 1933",
+    "Married Henry A Adams (m. 15 May 1890, Chariton County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
   },
@@ -12561,6 +17285,64 @@
    ]
   },
   {
+   "id": "martin_kaleb",
+   "name": "Kaleb Martin",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "devaw_louisa_woods"
+   ],
+   "children": [
+    "martin_mary_louisa"
+   ],
+   "siblings": [],
+   "families": [
+    "F_devaw_louisa_woods+martin_kaleb"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Louisa Woods Devaw (Martin)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Listed in Index of Names under MARTIN, page 5, no dates [Bill Allen, Descendants of Jose Pierre Adams, line 5897]"
+   ]
+  },
+  {
    "id": "martin_mary_louisa",
    "name": "Mary Louisa Martin",
    "aliases": [],
@@ -12583,20 +17365,31 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "martin_kaleb",
+   "mother": "devaw_louisa_woods",
+   "parents": [
+    "devaw_louisa_woods",
+    "martin_kaleb"
+   ],
    "spouses": [
     "adams_alexander_william_col"
    ],
    "children": [
-    "adams_caleb_martin"
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
    ],
    "siblings": [],
    "families": [
     "F_adams_alexander_william_col+martin_mary_louisa"
    ],
-   "parent_family": null,
+   "parent_family": "F_devaw_louisa_woods+martin_kaleb",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -15302,6 +20095,66 @@
    ]
   },
   {
+   "id": "muriel_wife_of_fay_allen",
+   "name": "Muriel",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1908",
+    "year": 1908,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_marion_lafayette"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_marion_lafayette+muriel_wife_of_fay_allen"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Minnesota",
+    "Garnett, Anderson County, KS"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1908, Minnesota",
+    "Married Marion Lafayette Allen (m. bef 1930)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "First wife of Marion Lafayette \"Fay\" Allen (married before 1930); surname not recorded."
+   ]
+  },
+  {
    "id": "naqui_annette",
    "name": "Annette Naqui",
    "aliases": [],
@@ -15671,6 +20524,125 @@
    ]
   },
   {
+   "id": "owens_ruth_eva",
+   "name": "Ruth Eva Owens (Urbach)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "urbach_charles_phillip"
+   ],
+   "children": [
+    "urbach_lester_charles",
+    "urbach_phillip_owen"
+   ],
+   "siblings": [],
+   "families": [
+    "F_owens_ruth_eva+urbach_charles_phillip"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Charles Phillip Urbach (m. 16 May 1921)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Listed in Index of Names under OWENS, page 24, no dates [Bill Allen, Descendants of Jose Pierre Adams, line 5914]"
+   ]
+  },
+  {
+   "id": "palmer_lemon_b",
+   "name": "Lemon B. Palmer",
+   "aliases": [
+    "L. B. Palmer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1854",
+    "year": 1854,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_harriett_e"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_harriett_e+palmer_lemon_b"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Danville, Des Moines County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1854, Danville, Des Moines County, Iowa",
+    "Born 1854",
+    "Married Harriett E Adams"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "paul_patricia",
    "name": "Patricia Paul",
    "aliases": [],
@@ -15725,6 +20697,122 @@
     "McKeldin branch CONFIRMED. Priority contact for unlocking Charles McKeldin's parents and siblings.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
+  },
+  {
+   "id": "peterson_lois_june",
+   "name": "Lois June Peterson (Allen)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "2 Jun 1936",
+    "year": 1936,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_gerald_franklin"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_gerald_franklin+peterson_lois_june"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hartington, Cedar County, NE"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 2 Jun 1936, Hartington, Cedar County, NE",
+    "Born 1936",
+    "Married Gerald Franklin Allen (m. 8 Jun 1960, Hartington, NE)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "pieritz_wilhelmina",
+   "name": "Wilhelmina Pieritz (Kaempfer)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1841",
+    "year": 1841,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1894",
+    "year": 1894,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "kaempfer_anton"
+   ],
+   "children": [
+    "kaempfer_adela"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kaempfer_anton+pieritz_wilhelmina"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 1841",
+    "Died 1894",
+    "Married Anton Kaempfer"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "poleman_jack",
@@ -16427,6 +21515,67 @@
     "DNA match #36 on Simons branch. Hypothesis corrected.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
+  },
+  {
+   "id": "reece_hallie_ione",
+   "name": "Hallie Ione Reece (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "12 Sep 1902",
+    "year": 1902,
+    "qualifier": null
+   },
+   "death": {
+    "text": "13 Aug 1993",
+    "year": 1993,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_caleb_francis"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_caleb_francis+reece_hallie_ione"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hominy, OK",
+    "Lancaster, Los Angeles County, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 12 Sep 1902, Hominy, OK",
+    "Died 13 Aug 1993, Lancaster, Los Angeles County, CA",
+    "Born 1902",
+    "Died 1993",
+    "Married Caleb Francis Adams (m. 12 Oct 1935, Kansas City, Jackson County, MO)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "reigler_clayton",
@@ -17314,6 +22463,132 @@
    "notes": []
   },
   {
+   "id": "scott_bernice_elizabeth",
+   "name": "Bernice Elizabeth Scott",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "24 May 1939",
+    "year": 1939,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "scott_howard_e",
+   "mother": "billingslea_frances_fern",
+   "parents": [
+    "billingslea_frances_fern",
+    "scott_howard_e"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_billingslea_frances_fern+scott_howard_e",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Potter County, TX"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 24 May 1939, Potter County, TX",
+    "Born 1939"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "scott_howard_e",
+   "name": "Rev. Howard E. Scott",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "10 Dec 1910",
+    "year": 1910,
+    "qualifier": null
+   },
+   "death": {
+    "text": "27 Dec 1969",
+    "year": 1969,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "billingslea_frances_fern"
+   ],
+   "children": [
+    "scott_bernice_elizabeth"
+   ],
+   "siblings": [],
+   "families": [
+    "F_billingslea_frances_fern+scott_howard_e"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Texas",
+    "Johnson County, Texas"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 10 Dec 1910, Texas",
+    "Died 27 Dec 1969, Johnson County, Texas",
+    "Born 1910",
+    "Died 1969",
+    "Married Frances Fern Billingslea (Scott)"
+   ],
+   "education": [],
+   "career": [
+    "Given the title Rev. (clergyman)",
+    "Clergyman (index gives the title 'Rev.')"
+   ],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "seaton_shirley",
    "name": "Shirley Seaton",
    "aliases": [],
@@ -17630,6 +22905,263 @@
    "notes": [
     "Child of Jack Frederick Seavy and Margaret Jeanice Peggy Allen (Seavy)."
    ]
+  },
+  {
+   "id": "seeley_alice_n",
+   "name": "Alice N. Seeley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1914",
+    "year": 1914,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "seeley_frank_pierce",
+   "mother": "adams_minnie_f",
+   "parents": [
+    "adams_minnie_f",
+    "seeley_frank_pierce"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "seeley_donald_d",
+    "seeley_frances_maxine"
+   ],
+   "families": [],
+   "parent_family": "F_adams_minnie_f+seeley_frank_pierce",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Nebraska"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1914, Nebraska",
+    "Born 1914"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "seeley_donald_d",
+   "name": "Donald D. Seeley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "13 Jan 1910",
+    "year": 1910,
+    "qualifier": null
+   },
+   "death": {
+    "text": "25 Aug 1984",
+    "year": 1984,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "seeley_frank_pierce",
+   "mother": "adams_minnie_f",
+   "parents": [
+    "adams_minnie_f",
+    "seeley_frank_pierce"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "seeley_frances_maxine",
+    "seeley_alice_n"
+   ],
+   "families": [],
+   "parent_family": "F_adams_minnie_f+seeley_frank_pierce",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Antelope County, Nebraska",
+    "Hennepin County, MN"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 13 Jan 1910, Antelope County, Nebraska",
+    "Died 25 Aug 1984, Hennepin County, MN",
+    "Born 1910",
+    "Died 1984"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "seeley_frances_maxine",
+   "name": "Frances Maxine Seeley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "15 Sep 1911",
+    "year": 1911,
+    "qualifier": null
+   },
+   "death": {
+    "text": "3 Mar 2004",
+    "year": 2004,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "seeley_frank_pierce",
+   "mother": "adams_minnie_f",
+   "parents": [
+    "adams_minnie_f",
+    "seeley_frank_pierce"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "seeley_donald_d",
+    "seeley_alice_n"
+   ],
+   "families": [],
+   "parent_family": "F_adams_minnie_f+seeley_frank_pierce",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Nebraska",
+    "Meade County, SD"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 15 Sep 1911, Nebraska",
+    "Died 3 Mar 2004, Meade County, SD",
+    "Born 1911",
+    "Died 2004"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "seeley_frank_pierce",
+   "name": "Frank Pierce Seeley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Jan 1886",
+    "year": 1886,
+    "qualifier": null
+   },
+   "death": {
+    "text": "21 Nov 1939",
+    "year": 1939,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_minnie_f"
+   ],
+   "children": [
+    "seeley_donald_d",
+    "seeley_frances_maxine",
+    "seeley_alice_n"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_minnie_f+seeley_frank_pierce"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Nebraska",
+    "Meade County, SD"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Jan 1886, Nebraska",
+    "Died 21 Nov 1939, Meade County, SD",
+    "Born 1886",
+    "Died 1939",
+    "Married Minnie F. Adams (Seeley) (m. abt 1909)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
   },
   {
    "id": "selbe_sophia",
@@ -19872,7 +25404,11 @@
    "spouses": [
     "allen_ralph_kenneth"
    ],
-   "children": [],
+   "children": [
+    "allen_judith",
+    "allen_ralph_kenneth_jr",
+    "allen_edward_george"
+   ],
    "siblings": [],
    "families": [
     "F_allen_ralph_kenneth+smith_irene_louisa"
@@ -20754,6 +26290,453 @@
    ]
   },
   {
+   "id": "urbach_betty_j",
+   "name": "Betty J. Urbach",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1929",
+    "year": 1929,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "urbach_phillip_owen"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_urbach_betty_j+urbach_phillip_owen"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1929",
+    "Married Phillip Owen Urbach"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Wife of Phillip Owen Urbach; maiden name not recorded."
+   ]
+  },
+  {
+   "id": "urbach_charles_phillip",
+   "name": "Charles Phillip Urbach",
+   "aliases": [
+    "Charlie Urbach"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "10 Jul 1901",
+    "year": 1901,
+    "qualifier": null
+   },
+   "death": {
+    "text": "7 Mar 1929",
+    "year": 1929,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "urbach_phillip_l",
+   "mother": "adams_myrtle_anna",
+   "parents": [
+    "adams_myrtle_anna",
+    "urbach_phillip_l"
+   ],
+   "spouses": [
+    "owens_ruth_eva"
+   ],
+   "children": [
+    "urbach_lester_charles",
+    "urbach_phillip_owen"
+   ],
+   "siblings": [
+    "urbach_robert_henry",
+    "urbach_howard_c"
+   ],
+   "families": [
+    "F_owens_ruth_eva+urbach_charles_phillip"
+   ],
+   "parent_family": "F_adams_myrtle_anna+urbach_phillip_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, Linn County, Missouri",
+    "Purdin, Linn County, Missouri",
+    "Purdin Cemetery, Purdin, Linn County, Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 10 Jul 1901, Marceline, Linn County, Missouri",
+    "Died 7 Mar 1929, Purdin, Linn County, Missouri",
+    "Services at Purdin; buried at Purdin Cemetery",
+    "Married Ruth Eva Owens (Urbach) (m. 16 May 1921)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Siblings named in obituary: brothers Robert H. (Worcester, MA) and Howard C. (Marceline), half-brother Lester D. Green (Binghamton, NY) [Bill Allen, Descendants of Jose Pierre Adams, line 5195]"
+   ]
+  },
+  {
+   "id": "urbach_howard_c",
+   "name": "Howard C. Urbach",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1910",
+    "year": 1910,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "urbach_phillip_l",
+   "mother": "adams_myrtle_anna",
+   "parents": [
+    "adams_myrtle_anna",
+    "urbach_phillip_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "urbach_robert_henry",
+    "urbach_charles_phillip"
+   ],
+   "families": [],
+   "parent_family": "F_adams_myrtle_anna+urbach_phillip_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, Linn County, Missouri",
+    "Marceline, MO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1910, Marceline, Linn County, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "urbach_lester_charles",
+   "name": "Lester Charles Urbach",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "6 Mar 1923",
+    "year": 1923,
+    "qualifier": null
+   },
+   "death": {
+    "text": "18 May 1985",
+    "year": 1985,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "urbach_charles_phillip",
+   "mother": "owens_ruth_eva",
+   "parents": [
+    "owens_ruth_eva",
+    "urbach_charles_phillip"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "urbach_phillip_owen"
+   ],
+   "families": [],
+   "parent_family": "F_owens_ruth_eva+urbach_charles_phillip",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Siskiyou County, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 6 Mar 1923",
+    "Died 18 May 1985, Siskiyou County, CA"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "urbach_phillip_l",
+   "name": "Phillip L. Urbach",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "14 Oct 1865",
+    "year": 1865,
+    "qualifier": null
+   },
+   "death": {
+    "text": "11 Aug 1937",
+    "year": 1937,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_myrtle_anna"
+   ],
+   "children": [
+    "urbach_robert_henry",
+    "urbach_charles_phillip",
+    "urbach_howard_c"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_myrtle_anna+urbach_phillip_l"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia",
+    "Marceline, Linn County, Missouri",
+    "Mt. Olivet Cemetery, Marceline, Linn County, Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 14 Oct 1865, Virginia",
+    "Died 11 Aug 1937, Marceline, Linn County, Missouri",
+    "Buried at Mt. Olivet Cemetery, Marceline",
+    "Married Myrtle Anna Adams (Urbach) (m. 2 Jan 1898, Marceline, Linn County, Missouri)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "urbach_phillip_owen",
+   "name": "Phillip Owen Urbach",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1927",
+    "year": 1927,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "urbach_charles_phillip",
+   "mother": "owens_ruth_eva",
+   "parents": [
+    "owens_ruth_eva",
+    "urbach_charles_phillip"
+   ],
+   "spouses": [
+    "urbach_betty_j"
+   ],
+   "children": [],
+   "siblings": [
+    "urbach_lester_charles"
+   ],
+   "families": [
+    "F_urbach_betty_j+urbach_phillip_owen"
+   ],
+   "parent_family": "F_owens_ruth_eva+urbach_charles_phillip",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born abt 1927",
+    "Married Betty J. Urbach"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "urbach_robert_henry",
+   "name": "Robert Henry Urbach",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "26 Nov 1899",
+    "year": 1899,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "urbach_phillip_l",
+   "mother": "adams_myrtle_anna",
+   "parents": [
+    "adams_myrtle_anna",
+    "urbach_phillip_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "urbach_charles_phillip",
+    "urbach_howard_c"
+   ],
+   "families": [],
+   "parent_family": "F_adams_myrtle_anna+urbach_phillip_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Marceline, Linn County, Missouri",
+    "Worcester, MA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 26 Nov 1899, Marceline, Linn County, Missouri"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
    "id": "van_tine_abraham",
    "name": "Abraham Van Tine",
    "aliases": [],
@@ -20909,7 +26892,12 @@
    ],
    "children": [
     "adams_alberta",
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_mary_susan",
     "adams_george_francis_2",
+    "adams_gertrude_1881",
+    "adams_william_w_1885",
     "clark_clay_c"
    ],
    "siblings": [],
@@ -21013,6 +27001,62 @@
    ],
    "notes": [
     "Prior source had abt 1824 – abt 1892. This source gives 1824–1890. Consistent birth, minor death year difference."
+   ]
+  },
+  {
+   "id": "wagner_fred_clark",
+   "name": "Fred Clark Wagner",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "billingslea_ruth_virginia"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_billingslea_ruth_virginia+wagner_fred_clark"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ruth Virginia Billingslea (Wagner)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Listed in Index of Names under WAGNER, page 27, no dates [Bill Allen, Descendants of Jose Pierre Adams, line 6005]"
    ]
   },
   {
@@ -21334,9 +27378,11 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
+   "father": "wheeler_melvin",
    "mother": null,
-   "parents": [],
+   "parents": [
+    "wheeler_melvin"
+   ],
    "spouses": [
     "allen_george_homer"
    ],
@@ -21351,7 +27397,7 @@
    "families": [
     "F_allen_george_homer+wheeler_dorothy_ann"
    ],
-   "parent_family": null,
+   "parent_family": "F_wheeler_melvin",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -21447,6 +27493,66 @@
    ]
   },
   {
+   "id": "wheeler_melvin",
+   "name": "Melvin Wheeler",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1897",
+    "year": 1897,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1961",
+    "year": 1961,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "wheeler_dorothy_ann"
+   ],
+   "siblings": [],
+   "families": [
+    "F_wheeler_melvin"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Sioux Falls"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 1897",
+    "Died 1961"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Father of Dorothy Ann Wheeler; walked her down the aisle at her 1944 wedding (wedding notice in Bill Allen's document).",
+    "Walked his daughter down the aisle at her wedding [Bill Allen, Descendants of Jose Pierre Adams, line 6314]"
+   ]
+  },
+  {
    "id": "whitman_zella_campbell",
    "name": "Zella Campbell Whitman",
    "aliases": [],
@@ -21475,7 +27581,9 @@
    "spouses": [
     "allen_ralph_kenneth"
    ],
-   "children": [],
+   "children": [
+    "allen_barbara_1934"
+   ],
    "siblings": [],
    "families": [
     "F_allen_ralph_kenneth+whitman_zella_campbell"
@@ -22532,7 +28640,11 @@
    "children": [
     "allen_frances_rosetta",
     "allen_bernice",
+    "allen_henry_eisley",
+    "allen_william_laurence",
     "allen_george_philip",
+    "allen_marion_lafayette",
+    "allen_helen_loraine",
     "allen_ralph_kenneth",
     "allen_leroy_gaylord"
    ],
@@ -22565,9 +28677,46 @@
     "martin_mary_louisa"
    ],
    "children": [
-    "adams_caleb_martin"
+    "adams_loula",
+    "adams_willie_may",
+    "adams_caleb_martin",
+    "adams_homer_clarence",
+    "adams_frank_1879",
+    "adams_fred_j",
+    "adams_olie",
+    "adams_george_f_1887",
+    "adams_grace"
    ],
    "marriage": "17 Jan 1871, Chariton County, MO"
+  },
+  {
+   "id": "F_adams_caleb_francis+reece_hallie_ione",
+   "partners": [
+    "adams_caleb_francis",
+    "reece_hallie_ione"
+   ],
+   "children": [],
+   "marriage": "12 Oct 1935, Kansas City, Jackson County, MO"
+  },
+  {
+   "id": "F_adams_caleb_martin+gosnell_louise_a",
+   "partners": [
+    "adams_caleb_martin",
+    "gosnell_louise_a"
+   ],
+   "children": [
+    "adams_cornelia"
+   ],
+   "marriage": "4 Oct 1899, St. Louis, Jackson County, MO"
+  },
+  {
+   "id": "F_adams_caleb_martin+hall_emily",
+   "partners": [
+    "adams_caleb_martin",
+    "hall_emily"
+   ],
+   "children": [],
+   "marriage": "2 Sep 1937"
   },
   {
    "id": "F_adams_edith_v+childs_thomas",
@@ -22579,6 +28728,42 @@
    "marriage": null
   },
   {
+   "id": "F_adams_frank_1879+brannan_katherine_a",
+   "partners": [
+    "adams_frank_1879",
+    "brannan_katherine_a"
+   ],
+   "children": [
+    "adams_caleb_francis",
+    "adams_frances_m_1905",
+    "adams_frank_jr_1905",
+    "adams_cecelia_m",
+    "adams_john_j_1916"
+   ],
+   "marriage": "9 Aug 1900, Jackson County, MO"
+  },
+  {
+   "id": "F_adams_frank_jr_1905+bridges_beula",
+   "partners": [
+    "adams_frank_jr_1905",
+    "bridges_beula"
+   ],
+   "children": [],
+   "marriage": "20 Aug 1928, Jackson County, MO"
+  },
+  {
+   "id": "F_adams_frank_melbourne+kendall_estella_l",
+   "partners": [
+    "adams_frank_melbourne",
+    "kendall_estella_l"
+   ],
+   "children": [
+    "adams_frances_l_1915",
+    "adams_maxine_a"
+   ],
+   "marriage": "12 Apr 1914, Douglas County, CO"
+  },
+  {
    "id": "F_adams_george_francis_1+lane_cynthia",
    "partners": [
     "adams_george_francis_1",
@@ -22587,10 +28772,13 @@
    "children": [
     "adams_john_wesley",
     "adams_alexander_william_col",
+    "adams_mary_1845",
     "adams_joseph_pierre_jose2",
     "adams_missouri",
     "adams_harriett_e",
-    "adams_james_casper"
+    "adams_james_casper",
+    "adams_virginia_m",
+    "adams_nancy_e"
    ],
    "marriage": "14 Jan 1841, Chariton County, MO"
   },
@@ -22608,6 +28796,17 @@
    "marriage": "7 Jan 1909, Lewis County, WA"
   },
   {
+   "id": "F_adams_gertrude_1881+clark_wallace_bowlingreen",
+   "partners": [
+    "adams_gertrude_1881",
+    "clark_wallace_bowlingreen"
+   ],
+   "children": [
+    "clark_frances"
+   ],
+   "marriage": "15 Sep 1898, Marceline, Missouri"
+  },
+  {
    "id": "F_adams_harriet_josephine+gill_stephen_augusta",
    "partners": [
     "adams_harriet_josephine",
@@ -22617,12 +28816,45 @@
    "marriage": "8 Mar 1848"
   },
   {
+   "id": "F_adams_harriett_e+palmer_lemon_b",
+   "partners": [
+    "adams_harriett_e",
+    "palmer_lemon_b"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_adams_henry_a",
+   "partners": [
+    "adams_henry_a"
+   ],
+   "children": [
+    "adams_ralph_l"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_adams_henry_a+locke_mary_c",
+   "partners": [
+    "adams_henry_a",
+    "locke_mary_c"
+   ],
+   "children": [],
+   "marriage": "15 May 1890, Chariton County, MO"
+  },
+  {
    "id": "F_adams_james_casper+kaempfer_adela",
    "partners": [
     "adams_james_casper",
     "kaempfer_adela"
    ],
-   "children": [],
+   "children": [
+    "adams_minnie_f",
+    "adams_ethel_e",
+    "adams_reda_florence",
+    "adams_frank_melbourne"
+   ],
    "marriage": "26 Feb 1888, Douglas County, CO"
   },
   {
@@ -22642,7 +28874,12 @@
    ],
    "children": [
     "adams_alberta",
-    "adams_george_francis_2"
+    "adams_myrtle_anna",
+    "adams_charles_w",
+    "adams_mary_susan",
+    "adams_george_francis_2",
+    "adams_gertrude_1881",
+    "adams_william_w_1885"
    ],
    "marriage": "3 Jan 1866, Chariton County, MO"
   },
@@ -22684,6 +28921,17 @@
    "marriage": "25 Sep 1838"
   },
   {
+   "id": "F_adams_mary_susan+jones_reeves_h",
+   "partners": [
+    "adams_mary_susan",
+    "jones_reeves_h"
+   ],
+   "children": [
+    "jones_virginia_ruth"
+   ],
+   "marriage": "24 May 1899, Chariton County, Missouri"
+  },
+  {
    "id": "F_adams_mary_swan+swan_lewis",
    "partners": [
     "adams_mary_swan",
@@ -22693,6 +28941,19 @@
    "marriage": "24 Sep 1848"
   },
   {
+   "id": "F_adams_minnie_f+seeley_frank_pierce",
+   "partners": [
+    "adams_minnie_f",
+    "seeley_frank_pierce"
+   ],
+   "children": [
+    "seeley_donald_d",
+    "seeley_frances_maxine",
+    "seeley_alice_n"
+   ],
+   "marriage": "abt 1909"
+  },
+  {
    "id": "F_adams_missouri+hall_david_r",
    "partners": [
     "adams_missouri",
@@ -22700,6 +28961,60 @@
    ],
    "children": [],
    "marriage": "10 Apr 1873, Chariton County, MO"
+  },
+  {
+   "id": "F_adams_myrtle_anna+green_william_l",
+   "partners": [
+    "adams_myrtle_anna",
+    "green_william_l"
+   ],
+   "children": [
+    "green_lester_d"
+   ],
+   "marriage": "6 Mar 1889, Chariton County, MO"
+  },
+  {
+   "id": "F_adams_myrtle_anna+urbach_phillip_l",
+   "partners": [
+    "adams_myrtle_anna",
+    "urbach_phillip_l"
+   ],
+   "children": [
+    "urbach_robert_henry",
+    "urbach_charles_phillip",
+    "urbach_howard_c"
+   ],
+   "marriage": "2 Jan 1898, Marceline, Linn County, Missouri"
+  },
+  {
+   "id": "F_adams_ralph_l",
+   "partners": [
+    "adams_ralph_l"
+   ],
+   "children": [
+    "adams_frances_j_1922"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_adams_ralph_l+brandt_pauline",
+   "partners": [
+    "adams_ralph_l",
+    "brandt_pauline"
+   ],
+   "children": [
+    "adams_mary_e_1916"
+   ],
+   "marriage": "15 Apr 1913, Kansas City, Jackson County, MO"
+  },
+  {
+   "id": "F_adams_virginia_m+lewis_john",
+   "partners": [
+    "adams_virginia_m",
+    "lewis_john"
+   ],
+   "children": [],
+   "marriage": null
   },
   {
    "id": "F_allen_anthony+fonshill_susan_bethany",
@@ -22712,6 +29027,20 @@
     "allen_benjamin_alistair"
    ],
    "marriage": "1 Mar 1979, Prescott, AZ"
+  },
+  {
+   "id": "F_allen_bernice+billingslea_harold_emerson",
+   "partners": [
+    "allen_bernice",
+    "billingslea_harold_emerson"
+   ],
+   "children": [
+    "billingslea_frances_fern",
+    "billingslea_doris_alberta",
+    "billingslea_ruth_virginia",
+    "billingslea_harold_emerson_jr"
+   ],
+   "marriage": "11 Jun 1913"
   },
   {
    "id": "F_allen_brooks+dworman_jamie_leigh",
@@ -22732,12 +29061,23 @@
    "marriage": "1 Apr 1986, Santa Barbara, CA"
   },
   {
+   "id": "F_allen_dorothy_ann_1943+larkin_stephen_max",
+   "partners": [
+    "allen_dorothy_ann_1943",
+    "larkin_stephen_max"
+   ],
+   "children": [],
+   "marriage": "30 Apr 1965, St George, Washington County, UT"
+  },
+  {
    "id": "F_allen_frances_rosetta+charters_john_dixon",
    "partners": [
     "allen_frances_rosetta",
     "charters_john_dixon"
    ],
-   "children": [],
+   "children": [
+    "charters_william_allen"
+   ],
    "marriage": "12 Sep 1918, Ashton, Lee County, IL"
   },
   {
@@ -22797,12 +29137,24 @@
    "marriage": null
   },
   {
+   "id": "F_allen_gerald_franklin+peterson_lois_june",
+   "partners": [
+    "allen_gerald_franklin",
+    "peterson_lois_june"
+   ],
+   "children": [],
+   "marriage": "8 Jun 1960, Hartington, NE"
+  },
+  {
    "id": "F_allen_leroy_gaylord+eberhart_gladys",
    "partners": [
     "allen_leroy_gaylord",
     "eberhart_gladys"
    ],
-   "children": [],
+   "children": [
+    "allen_william_rolland",
+    "allen_gerald_franklin"
+   ],
    "marriage": "3 Jun 1928"
   },
   {
@@ -22819,12 +29171,36 @@
    "marriage": "3 Sep 1948"
   },
   {
+   "id": "F_allen_marion_lafayette+jiskra_florence_rose",
+   "partners": [
+    "allen_marion_lafayette",
+    "jiskra_florence_rose"
+   ],
+   "children": [
+    "allen_dorothy_ann_1943"
+   ],
+   "marriage": "21 Jul 1938, Chesterton, Porter County, IN"
+  },
+  {
+   "id": "F_allen_marion_lafayette+muriel_wife_of_fay_allen",
+   "partners": [
+    "allen_marion_lafayette",
+    "muriel_wife_of_fay_allen"
+   ],
+   "children": [],
+   "marriage": "bef 1930"
+  },
+  {
    "id": "F_allen_ralph_kenneth+smith_irene_louisa",
    "partners": [
     "allen_ralph_kenneth",
     "smith_irene_louisa"
    ],
-   "children": [],
+   "children": [
+    "allen_judith",
+    "allen_ralph_kenneth_jr",
+    "allen_edward_george"
+   ],
    "marriage": "17 Aug 1937"
   },
   {
@@ -22833,7 +29209,9 @@
     "allen_ralph_kenneth",
     "whitman_zella_campbell"
    ],
-   "children": [],
+   "children": [
+    "allen_barbara_1934"
+   ],
    "marriage": "18 Aug 1928, Burton, WA"
   },
   {
@@ -22922,6 +29300,26 @@
     "george_francis_adams_jr"
    ],
    "marriage": "2 Jul 1942, Franklin County, WA"
+  },
+  {
+   "id": "F_billingslea_frances_fern+scott_howard_e",
+   "partners": [
+    "billingslea_frances_fern",
+    "scott_howard_e"
+   ],
+   "children": [
+    "scott_bernice_elizabeth"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_billingslea_ruth_virginia+wagner_fred_clark",
+   "partners": [
+    "billingslea_ruth_virginia",
+    "wagner_fred_clark"
+   ],
+   "children": [],
+   "marriage": null
   },
   {
    "id": "F_brendan_mckeldin_adams+megan_marie_adams",
@@ -23020,6 +29418,15 @@
    "marriage": null
   },
   {
+   "id": "F_clark_frances+eubank_myron_lee",
+   "partners": [
+    "clark_frances",
+    "eubank_myron_lee"
+   ],
+   "children": [],
+   "marriage": "abt 1919, Oklahoma"
+  },
+  {
    "id": "F_clemens_mary_bachman+kolb_jacob_oberholtzer",
    "partners": [
     "clemens_mary_bachman",
@@ -23063,6 +29470,17 @@
     "geoffrey_louis_adams"
    ],
    "marriage": "17 Jun 1972"
+  },
+  {
+   "id": "F_devaw_louisa_woods+martin_kaleb",
+   "partners": [
+    "devaw_louisa_woods",
+    "martin_kaleb"
+   ],
+   "children": [
+    "martin_mary_louisa"
+   ],
+   "marriage": null
   },
   {
    "id": "F_emily_schrieffer_mckeldin+poleman_jack",
@@ -23201,6 +29619,16 @@
    "marriage": null
   },
   {
+   "id": "F_hamilton_francis",
+   "partners": [
+    "hamilton_francis"
+   ],
+   "children": [
+    "hamilton_thomas"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_hamilton_francis+hamilton_susan",
    "partners": [
     "hamilton_francis",
@@ -23231,6 +29659,17 @@
    "children": [
     "christian_mckeldin",
     "jeffery_mckeldin"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_kaempfer_anton+pieritz_wilhelmina",
+   "partners": [
+    "kaempfer_anton",
+    "pieritz_wilhelmina"
+   ],
+   "children": [
+    "kaempfer_adela"
    ],
    "marriage": null
   },
@@ -23359,6 +29798,16 @@
    "marriage": null
   },
   {
+   "id": "F_lane_john_s",
+   "partners": [
+    "lane_john_s"
+   ],
+   "children": [
+    "lane_cynthia"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_manzer_honolulu_claire+mckeldin_theodore_roosevelt",
    "partners": [
     "manzer_honolulu_claire",
@@ -23428,6 +29877,18 @@
     "odell_louise"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_owens_ruth_eva+urbach_charles_phillip",
+   "partners": [
+    "owens_ruth_eva",
+    "urbach_charles_phillip"
+   ],
+   "children": [
+    "urbach_lester_charles",
+    "urbach_phillip_owen"
+   ],
+   "marriage": "16 May 1921"
   },
   {
    "id": "F_pugh_alexander",
@@ -23577,12 +30038,31 @@
    "marriage": "abt 1929, San Francisco, CA"
   },
   {
+   "id": "F_urbach_betty_j+urbach_phillip_owen",
+   "partners": [
+    "urbach_betty_j",
+    "urbach_phillip_owen"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
    "id": "F_wells_arthur",
    "partners": [
     "wells_arthur"
    ],
    "children": [
     "wells_rosemary"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_wheeler_melvin",
+   "partners": [
+    "wheeler_melvin"
+   ],
+   "children": [
+    "wheeler_dorothy_ann"
    ],
    "marriage": null
   },

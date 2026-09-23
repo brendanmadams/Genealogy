@@ -23,11 +23,16 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "pieritz_wilhelmina",
+    "father": "kaempfer_anton",
     "siblings": [],
     "spouse": "adams_james_casper",
-    "children": []
+    "children": [
+      "adams_minnie_f",
+      "adams_ethel_e",
+      "adams_reda_florence",
+      "adams_frank_melbourne"
+    ]
   },
   "locations": [
     "Milwaukee, WI",

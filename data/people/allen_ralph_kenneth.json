@@ -27,7 +27,12 @@
     "father": "allen_george_julius",
     "siblings": [],
     "spouse": "whitman_zella_campbell",
-    "children": [],
+    "children": [
+      "allen_barbara_1934",
+      "allen_judith",
+      "allen_ralph_kenneth_jr",
+      "allen_edward_george"
+    ],
     "_extra_spouses": [
       "smith_irene_louisa"
     ]

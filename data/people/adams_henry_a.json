@@ -10,7 +10,7 @@
   "risk_events": [],
   "milestones": [
     "Birth: January 1868, Chariton County, MO",
-    "Married Mary C Locke: 15 May 1890, Chariton County, MO"
+    "Married Mary C. Locke (Adams) (m. 15 May 1890, Chariton County, MO)"
   ],
   "education": [],
   "career": [],
@@ -18,17 +18,21 @@
     "mother": "ashby_unknown",
     "father": "adams_alexander_william_col",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "locke_mary_c",
+    "children": [
+      "adams_ralph_l"
+    ]
   },
   "locations": [
     "Chariton County, MO"
   ],
   "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
   ],
   "notes": [
     "Son of Col. Alexander William Adams and first wife Unknown Ashby (who died c.1868 after childbirth). Source: Adams Family Doc.",
     "CORRECTION 2026-09-22: Mother set to ashby_unknown by inference (born Jan 1868, before her death in 1868 and before his father's 1871 remarriage)."
-  ]
+  ],
+  "aliases": []
 }

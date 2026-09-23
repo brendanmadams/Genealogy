@@ -1,0 +1,40 @@
+{
+  "id": "adams_frank_melbourne",
+  "name": "Frank Melbourne Adams",
+  "birth": "30 Mar 1896",
+  "death": "30 Jan 1989",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Born 30 Mar 1896, Douglas County, CO",
+    "Died 30 Jan 1989, Littleton, Arapahoe County, CO",
+    "Buried 1989 at Cedar Hills Cemetery, Douglas County",
+    "Married Estella L. Kendall (Adams) (m. 12 Apr 1914, Douglas County, CO)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "kaempfer_adela",
+    "father": "adams_james_casper",
+    "siblings": [],
+    "spouse": "kendall_estella_l",
+    "children": [
+      "adams_frances_l_1915",
+      "adams_maxine_a"
+    ]
+  },
+  "locations": [
+    "Douglas County, CO",
+    "Littleton, Arapahoe County, CO",
+    "Denver, Colorado",
+    "Cedar Hills Cemetery, Douglas County, CO"
+  ],
+  "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+  ],
+  "notes": [],
+  "aliases": []
+}

@@ -20,7 +20,7 @@
   "career": [],
   "relationships": {
     "mother": "",
-    "father": "",
+    "father": "lane_john_s",
     "siblings": [],
     "spouse": "adams_george_francis_1",
     "children": [
@@ -29,7 +29,10 @@
       "adams_missouri",
       "adams_james_casper",
       "adams_harriett_e",
-      "adams_john_wesley"
+      "adams_john_wesley",
+      "adams_mary_1845",
+      "adams_virginia_m",
+      "adams_nancy_e"
     ]
   },
   "locations": [

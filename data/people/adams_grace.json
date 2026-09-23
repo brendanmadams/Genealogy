@@ -1,0 +1,33 @@
+{
+  "id": "adams_grace",
+  "name": "Grace Adams",
+  "birth": "Jan 1891",
+  "death": "Dec 1977",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Born Jan 1891, Missouri",
+    "Died Dec 1977, Kansas City, Jackson County, MO"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "martin_mary_louisa",
+    "father": "adams_alexander_william_col",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Missouri",
+    "Kansas City, Jackson County, MO"
+  ],
+  "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+  ],
+  "notes": [],
+  "aliases": []
+}

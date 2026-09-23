@@ -1,0 +1,5423 @@
+{
+ "source": "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition), with its clippings and letters",
+ "text_file": "claude_cowork/06_Archive/inbox_processed/AdamsFamilyDoc_ocr_text.txt",
+ "people": {
+  "adams_mary_1845": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "abt 1845",
+     "place": "Chariton County, MO",
+     "value": "Born about 1845",
+     "lines": [
+      4097
+     ],
+     "quote": "iii. Mary ADAMS was born about 1845 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "14 Oct 1868",
+     "place": "St. Louis, MO",
+     "value": "Died at age 23",
+     "lines": [
+      4097
+     ],
+     "quote": "She died on 14 Oct 1868 at",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George Francis Adams and Cynthia Lane",
+     "lines": [
+      4089
+     ],
+     "quote": "George Francis ADAMS and Cynthia LANE had the following children:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_virginia_m": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "1858",
+     "place": "Chariton County, MO",
+     "value": "Born 1858",
+     "lines": [
+      4107
+     ],
+     "quote": "9 viii. Virginia M ADAMS, born 1858, Chariton County, MO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George Francis Adams and Cynthia Lane",
+     "lines": [
+      4089
+     ],
+     "quote": "George Francis ADAMS and Cynthia LANE had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married a man surnamed Lewis (first name not given)",
+     "lines": [
+      4107
+     ],
+     "quote": "married LEWIS;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1934",
+     "place": "Douglas County, CO",
+     "value": "Died 1934",
+     "lines": [
+      4107
+     ],
+     "quote": "died 1934,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "5 May 1910",
+     "place": "Franktown, Douglas County, CO",
+     "value": "Her sister Hattie was living with her in the 1910 census",
+     "lines": [
+      4404
+     ],
+     "quote": "Listed living with her sister, Virginia.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George Francis Adams (generation 2)",
+     "lines": [
+      4468
+     ],
+     "quote": "9. Virginia M ADAMS (George Francis-2, Jose Pierre-1) was born in 1858 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1858",
+     "place": "Chariton County, MO",
+     "value": "Born 1858 in Chariton County, MO",
+     "lines": [
+      4468
+     ],
+     "quote": "was born in 1858 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "5 May 1910",
+     "place": "Franktown, Douglas County, CO",
+     "value": "In the 1910 census at Franktown, living with her sister Harriet E Palmer",
+     "lines": [
+      4469
+     ],
+     "quote": "appeared in the census on 5 May 1910 in Franktown, Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1934",
+     "place": "Douglas County, CO",
+     "value": "Died 1934 aged 76 in Douglas County, CO",
+     "lines": [
+      4471
+     ],
+     "quote": "She died in 1934 at the age of 76 in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Douglas County, CO",
+     "value": "Buried at Cedar Hill Cemetery, Douglas County, CO",
+     "lines": [
+      4472
+     ],
+     "quote": "Virginia was buried at Cedar Hill Cemetery in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married a man surnamed Lewis (first name and dates unknown)",
+     "lines": [
+      4474
+     ],
+     "quote": "Virginia M ADAMS and LEWIS were married. LEWIS was born (date unknown).",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "lewis_john": {
+   "facts": []
+  },
+  "adams_nancy_e": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "May 1860",
+     "place": "Chariton County, MO",
+     "value": "Born May 1860",
+     "lines": [
+      4109
+     ],
+     "quote": "ix. Nancy E ADAMS was born in May 1860 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George Francis Adams and Cynthia Lane",
+     "lines": [
+      4089
+     ],
+     "quote": "George Francis ADAMS and Cynthia LANE had the following children:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "palmer_lemon_b": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Harriett E \"Hattie\" Adams",
+     "lines": [
+      4103,
+      4410
+     ],
+     "quote": "7 vi. Harriett E \"Hattie\" ADAMS, born 1853, Chariton County, MO; married Lemon B",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1854",
+     "place": "Danville, Des Moines County, Iowa",
+     "value": "Born about 1854 in Danville, Des Moines County, Iowa",
+     "lines": [
+      4410
+     ],
+     "quote": "Lemon B PALMER was born about 1854",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1854",
+     "place": null,
+     "value": "Born 1854 (index lifespan; page 9)",
+     "lines": [
+      5917
+     ],
+     "quote": "Lemon B (1854— )...9",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_myrtle_anna": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "17 Dec 1869",
+     "place": "Chariton County, MO",
+     "value": "Born 17 Dec 1869",
+     "lines": [
+      4164
+     ],
+     "quote": "11 ii. Myrtle Anna ADAMS, born 17 Dec 1869, Chariton County, MO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of John Wesley Adams and Mary Frances Vantine",
+     "lines": [
+      4159
+     ],
+     "quote": "John Wesley ADAMS and Mary Frances VANTINE had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "6 Mar 1889",
+     "place": "Chariton County, MO",
+     "value": "Married William L Green",
+     "lines": [
+      4164
+     ],
+     "quote": "married William L",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "2 Jan 1898",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Married Phillip L Urbach",
+     "lines": [
+      4165
+     ],
+     "quote": "married Phillip L URBACH, 2 Jan 1898,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1 Sep 1936",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Died 1 Sep 1936",
+     "lines": [
+      4166
+     ],
+     "quote": "died 1 Sep 1936, Marceline, Linn County, Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of John Wesley Adams",
+     "lines": [
+      4598
+     ],
+     "quote": "Myrtle Anna ADAMS (John Wesley-3, George Francis-2, Jose Pierre-1) was",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "17 Dec 1869",
+     "place": "Chariton County, MO",
+     "value": "Born 17 Dec 1869 in Chariton County, MO",
+     "lines": [
+      4600
+     ],
+     "quote": "born on 17 Dec 1869 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1 Sep 1936",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Died 1 Sep 1936 aged 66 in Marceline, MO",
+     "lines": [
+      4600
+     ],
+     "quote": "She died on 1 Sep 1936 at the age of",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, Missouri",
+     "value": "Buried at Mt. Olivet Cemetery, Marceline",
+     "lines": [
+      4601
+     ],
+     "quote": "She was buried at Mt. Olivet Cemetery in",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "6 Mar 1889",
+     "place": "Chariton County, MO",
+     "value": "Married William L Green on 6 Mar 1889 in Chariton County, MO",
+     "lines": [
+      4613
+     ],
+     "quote": "Myrtle Anna ADAMS and William L GREEN were married on 6 Mar 1889 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "2 Jan 1898",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Married Phillip L Urbach on 2 Jan 1898 in Marceline, MO",
+     "lines": [
+      4620
+     ],
+     "quote": "Myrtle Anna ADAMS and Phillip L URBACH were married on 2 Jan 1898 in Marceline, Linn County,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of Lester D. Green (by William L Green)",
+     "lines": [
+      4618
+     ],
+     "quote": "i. Lester D. GREEN was born in Sep 1890 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of Robert Henry, Charles Phillip \"Charlie\" and Howard C Urbach (by Phillip L Urbach)",
+     "lines": [
+      4625
+     ],
+     "quote": "Phillip L URBACH and Myrtle Anna ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter in the John Wesley Adams line (Myrtle Anna Adams-4, John Wesley-3)",
+     "lines": [
+      5186
+     ],
+     "quote": "28. Charles Phillip \"Charlie\" URBACH (Myrtle Anna ADAMS-4, John Wesley-3, George Francis-2, Jose",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": null,
+     "place": null,
+     "value": "Wife of Phillip Urbach",
+     "lines": [
+      5192
+     ],
+     "quote": "the son of PHILLIP and MYRTLE URBACH",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "Mar 1929",
+     "place": null,
+     "value": "Living in 1929 (survived her son Charles)",
+     "lines": [
+      5195
+     ],
+     "quote": "Also leaves parents",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "green_william_l": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "6 Mar 1889",
+     "place": "Chariton County, MO",
+     "value": "Married Myrtle Anna Adams",
+     "lines": [
+      4165,
+      4613
+     ],
+     "quote": "GREEN, 6 Mar 1889, Chariton County, MO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1862",
+     "place": "Virginia",
+     "value": "Born about 1862 in Virginia",
+     "lines": [
+      4613
+     ],
+     "quote": "L GREEN was born about 1862 in Virginia.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Lester D. Green",
+     "lines": [
+      4616
+     ],
+     "quote": "William L GREEN and Myrtle Anna ADAMS had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1862",
+     "place": null,
+     "value": "Born 1862 (index lifespan; page 13)",
+     "lines": [
+      5832
+     ],
+     "quote": "William L (1862— )... 13",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "green_lester_d": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of William L Green and Myrtle Anna Adams",
+     "lines": [
+      4616
+     ],
+     "quote": "William L GREEN and Myrtle Anna ADAMS had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "Sep 1890",
+     "place": "Missouri",
+     "value": "Born Sep 1890 in Missouri",
+     "lines": [
+      4618
+     ],
+     "quote": "i. Lester D. GREEN was born in Sep 1890 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "Mar 1929",
+     "place": "Binghamton, NY",
+     "value": "Half-brother of Charles Phillip Urbach; living in Binghamton, New York in 1929",
+     "lines": [
+      5195
+     ],
+     "quote": "half brother LESTER D. GREEN, Binghamton NY.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1890",
+     "place": null,
+     "value": "Born 1890 (index lifespan; page 13)",
+     "lines": [
+      5830
+     ],
+     "quote": "Lester D. (1890— )... 13",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "urbach_phillip_l": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "2 Jan 1898",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Married Myrtle Anna Adams",
+     "lines": [
+      4165,
+      4620
+     ],
+     "quote": "married Phillip L URBACH, 2 Jan 1898,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "14 Oct 1865",
+     "place": "Virginia",
+     "value": "Born 14 Oct 1865 in Virginia",
+     "lines": [
+      4621
+     ],
+     "quote": "Phillip L URBACH was born on 14 Oct 1865 in Virginia.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "11 Aug 1937",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Died 11 Aug 1937 aged 71 in Marceline, MO",
+     "lines": [
+      4621
+     ],
+     "quote": "He died on 11 Aug 1937 at the age of 71",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, Missouri",
+     "value": "Buried at Mt. Olivet Cemetery, Marceline",
+     "lines": [
+      4622
+     ],
+     "quote": "He was buried at Mt. Olivet Cemetery in Marceline, Linn County,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Charles Phillip 'Charlie' Urbach",
+     "lines": [
+      5192
+     ],
+     "quote": "CHARLEY PHILLIP URBACH, the son of PHILLIP and MYRTLE URBACH, was born in Marceline MO",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": null,
+     "place": null,
+     "value": "Husband of Myrtle (Myrtle Anna Adams)",
+     "lines": [
+      5192
+     ],
+     "quote": "the son of PHILLIP and MYRTLE URBACH",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "urbach_robert_henry": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Phillip L Urbach and Myrtle Anna Adams",
+     "lines": [
+      4625
+     ],
+     "quote": "Phillip L URBACH and Myrtle Anna ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "26 Nov 1899",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Born 26 Nov 1899 in Marceline, MO",
+     "lines": [
+      4627
+     ],
+     "quote": "i. Robert Henry URBACH was born on 26 Nov 1899 in Marceline, Linn County, Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "Mar 1929",
+     "place": "Worcester, MA",
+     "value": "Living in Worcester (written Worchester), Massachusetts in 1929",
+     "lines": [
+      5195
+     ],
+     "quote": "brothers ROBERT H., Worchester MA",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "urbach_charles_phillip": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Phillip L Urbach and Myrtle Anna Adams",
+     "lines": [
+      4625
+     ],
+     "quote": "Phillip L URBACH and Myrtle Anna ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "10 Jul 1901",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Born 10 Jul 1901 in Marceline, MO",
+     "lines": [
+      4628
+     ],
+     "quote": "28 ii. Charles Phillip \"Charlie\" URBACH, born 10 Jul 1901, Marceline, Linn County,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "16 May 1921",
+     "place": null,
+     "value": "Married Ruth Eva Owens on 16 May 1921",
+     "lines": [
+      4629,
+      5200
+     ],
+     "quote": "married Ruth Eva OWENS, 16 May 1921;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "7 Mar 1929",
+     "place": "Purdin, Linn County, Missouri",
+     "value": "Died 7 Mar 1929 in Purdin, MO",
+     "lines": [
+      4629
+     ],
+     "quote": "died 7 Mar 1929, Purdin, Linn",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Phillip and Myrtle (Myrtle Anna Adams) Urbach",
+     "lines": [
+      5192
+     ],
+     "quote": "CHARLEY PHILLIP URBACH, the son of PHILLIP and MYRTLE URBACH, was born in Marceline MO, 10",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "10 Jul 1901",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Born 10 Jul 1901 in Marceline, Missouri",
+     "lines": [
+      5187
+     ],
+     "quote": "Pierre-1) was born on 10 Jul 1901 in Marceline, Linn County, Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Purdin Cemetery, Purdin, Linn County, Missouri",
+     "value": "Services at Purdin; buried at Purdin Cemetery",
+     "lines": [
+      5198
+     ],
+     "quote": "He was buried at Purdin Cemetery in Purdin, Linn County, Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "16 May 1921",
+     "place": null,
+     "value": "Married Ruth Eva Owens (obituary gives her name as Eva Ruth Ena Owens)",
+     "lines": [
+      5200
+     ],
+     "quote": "Charles Phillip \"Charlie\" URBACH and Ruth Eva OWENS were married on 16 May 1921.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Two children: Lester Charles (obituary: Charles Lester, age 6) and Phillip Owen (obituary: Philip Owen, age 2)",
+     "lines": [
+      5194
+     ],
+     "quote": "Two children born, CHARLES LESTER, 6, and PHILIP OWEN AGE 2.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": "Mar 1929",
+     "place": null,
+     "value": "Siblings named in obituary: brothers Robert H. (Worcester, MA) and Howard C. (Marceline), half-brother Lester D. Green (Binghamton, NY)",
+     "lines": [
+      5195
+     ],
+     "quote": "brothers ROBERT H., Worchester MA; HOWARD C., Marceline, half brother LESTER D. GREEN,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Son Lester Charles Urbach",
+     "lines": [
+      5204
+     ],
+     "quote": "i. Lester Charles URBACH was born on 6 Mar 1923.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Son Phillip Owen Urbach (register no. 40)",
+     "lines": [
+      5207
+     ],
+     "quote": "40 ii. Phillip Owen URBACH, born abt 1927; married Betty J.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "urbach_howard_c": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Phillip L Urbach and Myrtle Anna Adams",
+     "lines": [
+      4625
+     ],
+     "quote": "Phillip L URBACH and Myrtle Anna ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1910",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Born about 1910 in Marceline, MO",
+     "lines": [
+      4631
+     ],
+     "quote": "iii, Howard C URBACH was born about 1910 in Marceline, Linn County, Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "Mar 1929",
+     "place": "Marceline, MO",
+     "value": "Living in Marceline in 1929",
+     "lines": [
+      5195
+     ],
+     "quote": "HOWARD C., Marceline",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "owens_ruth_eva": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "16 May 1921",
+     "place": null,
+     "value": "Married Charles Phillip \"Charlie\" Urbach",
+     "lines": [
+      4629,
+      5200
+     ],
+     "quote": "married Ruth Eva OWENS, 16 May 1921;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "16 May 1921",
+     "place": null,
+     "value": "Married Charles Phillip 'Charlie' Urbach",
+     "lines": [
+      5200
+     ],
+     "quote": "Charles Phillip \"Charlie\" URBACH and Ruth Eva OWENS were married on 16 May 1921.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown",
+     "lines": [
+      5201
+     ],
+     "quote": "was born (date unknown).",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Son Lester Charles Urbach",
+     "lines": [
+      5203
+     ],
+     "quote": "Charles Phillip URBACH and Ruth Eva OWENS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Son Phillip Owen Urbach",
+     "lines": [
+      5207
+     ],
+     "quote": "40 ii. Phillip Owen URBACH, born abt 1927; married Betty J.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under OWENS, page 24, no dates",
+     "lines": [
+      5914
+     ],
+     "quote": "Ruth Eva( — )...24",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "urbach_lester_charles": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Charles Phillip Urbach and Ruth Eva Owens",
+     "lines": [
+      5203,
+      5203
+     ],
+     "quote": "Charles Phillip URBACH and Ruth Eva OWENS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "6 Mar 1923",
+     "place": null,
+     "value": "Born 6 Mar 1923",
+     "lines": [
+      5204,
+      5204
+     ],
+     "quote": "i. Lester Charles URBACH was born on 6 Mar 1923.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "18 May 1985",
+     "place": "Siskiyou County, CA",
+     "value": "Died 18 May 1985 aged 62 in Siskiyou County, California",
+     "lines": [
+      5204
+     ],
+     "quote": "He died on 18 May 1985 at the age of ... 62 in Siskiyou County, CA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "18 May 1985",
+     "place": "Siskiyou County, CA",
+     "value": "Died 18 May 1985 at age 62 in Siskiyou County, CA",
+     "lines": [
+      5206
+     ],
+     "quote": "He died on 18 May 1985 at the age of 62 in Siskiyou County, CA.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "urbach_phillip_owen": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Charles Phillip Urbach and Ruth Eva Owens",
+     "lines": [
+      5203
+     ],
+     "quote": "Charles Phillip URBACH and Ruth Eva OWENS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1927",
+     "place": null,
+     "value": "Born about 1927",
+     "lines": [
+      5207,
+      5428
+     ],
+     "quote": "40 ii. Phillip Owen URBACH, born abt 1927; married Betty J.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Betty J. (surname not given in this section)",
+     "lines": [
+      5207
+     ],
+     "quote": "married Betty J.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Charles Phillip Urbach; lineage runs through Myrtle Anna Adams (gen 4)",
+     "lines": [
+      5427
+     ],
+     "quote": "40. Phillip Owen URBACH (Charles Phillip-5, Myrtle Anna ADAMS-4, John Wesley-3, George Francis-2,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Betty J.",
+     "lines": [
+      5430
+     ],
+     "quote": "Phillip Owen URBACH and Betty J were married. Betty J was born about 1929.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "urbach_betty_j": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Phillip Owen Urbach",
+     "lines": [
+      5430
+     ],
+     "quote": "Phillip Owen URBACH and Betty J were married.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1929",
+     "place": null,
+     "value": "Born about 1929",
+     "lines": [
+      5430
+     ],
+     "quote": "Betty J was born about 1929.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_charles_w": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "May 1871",
+     "place": "Chariton County, MO",
+     "value": "Born May 1871",
+     "lines": [
+      4167
+     ],
+     "quote": "iii. Charles W. ADAMS was born in May 1871 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of John Wesley Adams and Mary F. Adams",
+     "lines": [
+      4175
+     ],
+     "quote": "to say that he was the Charles W. born to John Wesley",
+     "certainty": "clear"
+    },
+    {
+     "kind": "story",
+     "date": null,
+     "place": null,
+     "value": "He ended up in a state hospital (insane asylum); death certificate gives cause as exhaustion with insanity as contributory cause. Nativity and birth date confirm he was the son of John Wesley and Mary F. Adams.",
+     "lines": [
+      4171
+     ],
+     "quote": "Apparently, Charles wound up in a state hospital (insane",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": "22 May 1913",
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, MO",
+     "value": "Buried 22 May 1913",
+     "lines": [
+      4185
+     ],
+     "quote": "He was buried on 22 May 1913 at Mt. Olivet Cemetery in Marceline, Linn County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": null,
+     "value": "Railroad engineer",
+     "lines": [
+      4192
+     ],
+     "quote": "Charles was a Railroad engineer.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Brother of Mary Susan Adams; ended up under psychiatric care",
+     "lines": [
+      4637
+     ],
+     "quote": "Both Mary Susan and her brother Charles ended up under psychiatric care.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_mary_susan": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "4 Dec 1873",
+     "place": "Chariton County, MO",
+     "value": "Born 4 Dec 1873",
+     "lines": [
+      4194
+     ],
+     "quote": "12 iv. Mary Susan ADAMS, born 4 Dec 1873, Chariton County, MO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of John Wesley Adams and Mary Frances Vantine",
+     "lines": [
+      4159
+     ],
+     "quote": "John Wesley ADAMS and Mary Frances VANTINE had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "24 May 1899",
+     "place": "Chariton County, Missouri",
+     "value": "Married Reeves H. Jones",
+     "lines": [
+      4194
+     ],
+     "quote": "married Reeves H.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "3 Dec 1943",
+     "place": "Des Moines, Boone, IA",
+     "value": "Died 3 Dec 1943",
+     "lines": [
+      4195
+     ],
+     "quote": "died 3 Dec 1943, Des Moines, Boone,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of John Wesley Adams",
+     "lines": [
+      4633
+     ],
+     "quote": "12. Mary Susan ADAMS (John Wesley-3, George Francis-2, Jose Pierre-",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "4 Dec 1873",
+     "place": "Chariton County, MO",
+     "value": "Born 4 Dec 1873 in Chariton County, MO",
+     "lines": [
+      4634
+     ],
+     "quote": "1) was born on 4 Dec 1873 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "3 Dec 1943",
+     "place": "Des Moines, IA",
+     "value": "Died 3 Dec 1943 aged 69 in Des Moines, Iowa (source says 'Des Moines, Boone, IA')",
+     "lines": [
+      4634
+     ],
+     "quote": "She died on 3 Dec",
+     "certainty": "clear"
+    },
+    {
+     "kind": "story",
+     "date": null,
+     "place": "Des Moines, IA",
+     "value": "Mary Susan and her brother Charles both ended up under psychiatric care. She is listed as a patient at 'The Retreat' in Des Moines in the 1930 census, and was probably a resident there by 1925 since her husband was then living alone in a boarding house; it is unclear whether she was ever released.",
+     "lines": [
+      4637
+     ],
+     "quote": "Both Mary Susan and her brother Charles ended up under psychiatric care.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1930",
+     "place": "The Retreat, Des Moines, IA",
+     "value": "Listed as a patient at The Retreat, Des Moines, in the 1930 census",
+     "lines": [
+      4639
+     ],
+     "quote": "Moines, IA, but she is listed as a patient there in the 1930 census.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "24 May 1899",
+     "place": "Chariton County, Missouri",
+     "value": "Married Reeves H. Jones on 24 May 1899 in Chariton County, MO",
+     "lines": [
+      4660
+     ],
+     "quote": "Mary Susan ADAMS and Reeves H. JONES were married on 24 May 1899 in Chariton County, Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "divorce",
+     "date": "bef 1930",
+     "place": null,
+     "value": "Reeves is listed as divorced in the 1930 census",
+     "lines": [
+      4646
+     ],
+     "quote": "By 1930, Reeves has moved on and is listed as divorced in the 1930 census,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of Virginia Ruth Jones",
+     "lines": [
+      4668
+     ],
+     "quote": "Reeves H. JONES and Mary Susan ADAMS had the following child:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "jones_reeves_h": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "24 May 1899",
+     "place": "Chariton County, Missouri",
+     "value": "Married Mary Susan Adams",
+     "lines": [
+      4195,
+      4660
+     ],
+     "quote": "JONES, 24 May 1899, Chariton County, Missouri;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Andrew J Jones and Mary J Fisher",
+     "lines": [
+      4661
+     ],
+     "quote": "Reeves H. JONES, son of Andrew J JONES and Mary J FISHER, was born in Aug 1875 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "Aug 1875",
+     "place": "Missouri",
+     "value": "Born Aug 1875 in Missouri",
+     "lines": [
+      4661
+     ],
+     "quote": "was born in Aug 1875 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "5 Apr 1945",
+     "place": "Omaha, NE",
+     "value": "Died 5 Apr 1945 aged 69 in Omaha, NE (Omaha obituary index also mentions Norfolk, NE)",
+     "lines": [
+      4661
+     ],
+     "quote": "He died",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1925",
+     "place": "Des Moines, IA",
+     "value": "In the 1925 Iowa State census living alone in a boarding house in Des Moines, listed as married",
+     "lines": [
+      4640
+     ],
+     "quote": "husband is listed in the 1925 Iowa State census as living in Des Moines,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "divorce",
+     "date": "bef 1930",
+     "place": "Omaha, NE",
+     "value": "Listed as divorced and living in Omaha, NE in the 1930 census; apparently remarried sometime after 1930",
+     "lines": [
+      4646
+     ],
+     "quote": "By 1930, Reeves has moved on and is listed as divorced in the 1930 census,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Virginia Ruth Jones",
+     "lines": [
+      4668
+     ],
+     "quote": "Reeves H. JONES and Mary Susan ADAMS had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1875",
+     "place": null,
+     "value": "Born 1875 (index lifespan; page 14)",
+     "lines": [
+      5857
+     ],
+     "quote": "Reeves H. (1875-1945) ... 14",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1945",
+     "place": null,
+     "value": "Died 1945 (index lifespan)",
+     "lines": [
+      5857
+     ],
+     "quote": "Reeves H. (1875-1945) ... 14",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "jones_virginia_ruth": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Reeves H. Jones and Mary Susan Adams",
+     "lines": [
+      4668
+     ],
+     "quote": "Reeves H. JONES and Mary Susan ADAMS had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "25 Jan 1900",
+     "place": "Missouri",
+     "value": "Born 25 Jan 1900 in Missouri",
+     "lines": [
+      4670
+     ],
+     "quote": "i. Virginia Ruth JONES was born on 25 Jan 1900 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "No record that she ever married",
+     "lines": [
+      4651
+     ],
+     "quote": "There is no record that she ever married.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1900",
+     "place": null,
+     "value": "Born 1900 (index lifespan; page 14)",
+     "lines": [
+      5858
+     ],
+     "quote": "Virginia Ruth (1900-1983) ... 14",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1983",
+     "place": null,
+     "value": "Died 1983 (index lifespan)",
+     "lines": [
+      5858
+     ],
+     "quote": "Virginia Ruth (1900-1983) ... 14",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_gertrude_1881": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "31 Jul 1881",
+     "place": "Chariton County, Missouri",
+     "value": "Born 31 Jul 1881",
+     "lines": [
+      4202
+     ],
+     "quote": "14 vi. Gertrude ADAMS, born 31 Jul 1881, Chariton County, Missouri;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of John Wesley Adams and Mary Frances Vantine",
+     "lines": [
+      4159
+     ],
+     "quote": "John Wesley ADAMS and Mary Frances VANTINE had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "1898",
+     "place": null,
+     "value": "Married Wallace Bowlingreen Clark",
+     "lines": [
+      4202
+     ],
+     "quote": "married Wallace",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "12 Aug 1963",
+     "place": "Houston, Harris County, TX",
+     "value": "Died 12 Aug 1963",
+     "lines": [
+      4203
+     ],
+     "quote": "died 12 Aug 1963, Houston, Harris Cnty, TX.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of John Wesley Adams",
+     "lines": [
+      4765
+     ],
+     "quote": "Miss Gertrude Adams daughter of John W. Adams.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "31 Jul 1881",
+     "place": "Chariton County, Missouri",
+     "value": "Born 31 Jul 1881 in Chariton County, MO",
+     "lines": [
+      4718
+     ],
+     "quote": "14. Gertrude ADAMS (John Wesley-3, George Francis-2, Jose Pierre-1) was born on 31 Jul 1881 in Chariton",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "12 Aug 1963",
+     "place": "Houston, Harris County, TX",
+     "value": "Died 12 Aug 1963 aged 82 in Houston, TX",
+     "lines": [
+      4719
+     ],
+     "quote": "She died on 12 Aug 1963 at the age of 82 in Houston, Harris Cnty, TX.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": "13 Aug 1963",
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, MO",
+     "value": "Buried 13 Aug 1963 at Mt. Olivet Cemetery, Marceline",
+     "lines": [
+      4719
+     ],
+     "quote": "She was buried on",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "15 Sep 1898",
+     "place": "Marceline, Missouri",
+     "value": "Married Wallace Bowlingreen Clark in 1898 (biography gives September 15, 1898 at Marceline)",
+     "lines": [
+      4764
+     ],
+     "quote": "September 15 1898 Mr Clark married in Marceline Missouri Miss Gertrude Adams daughter of John W. Adams.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of Frances Clark",
+     "lines": [
+      4768
+     ],
+     "quote": "Wallace Bowlingreen CLARK and Gertrude ADAMS had the following child:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "clark_wallace_bowlingreen": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "1898",
+     "place": null,
+     "value": "Married Gertrude Adams",
+     "lines": [
+      4203
+     ],
+     "quote": "Bowlingreen CLARK, 1898;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1875",
+     "place": null,
+     "value": "Born 1875 (index lifespan; page 15)",
+     "lines": [
+      5790
+     ],
+     "quote": "Wallace Bowlingreen (1875-1917) . . . 15",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1917",
+     "place": null,
+     "value": "Died 1917 (index lifespan)",
+     "lines": [
+      5790
+     ],
+     "quote": "Wallace Bowlingreen (1875-1917) . . . 15",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Randal D (Randolph) Clark and Caroline (Carrie) Dover",
+     "lines": [
+      4726
+     ],
+     "quote": "son of Randal D CLARK and Caroline DOVER, was born in Mar 1875 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "26 Mar 1875",
+     "place": "Chariton County, Missouri",
+     "value": "Born March 26, 1875 in Chariton County, MO (register says Mar 1875 in Missouri)",
+     "lines": [
+      4733
+     ],
+     "quote": "Mr Clark was born in Chariton county Missouri March 26 1875 a son of Randolph Clark",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1917",
+     "place": "Oklahoma City, OK",
+     "value": "Died 1917 aged 42 in Oklahoma City, OK",
+     "lines": [
+      4726
+     ],
+     "quote": "He died in 1917 at the age",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": "Marceline, MO; Ponca City, OK",
+     "value": "Attorney at law, practising in Marceline and Ponca City, OK",
+     "lines": [
+      4727
+     ],
+     "quote": "He was an attorney at law, and is listed in both Marceline and Ponca City, OK as",
+     "certainty": "clear"
+    },
+    {
+     "kind": "education",
+     "date": null,
+     "place": "Chariton County, MO",
+     "value": "Educated in the district schools, the Salisbury Academy and the Keytesville Normal School; completed legal studies in the office of Major Mullins at Linneus",
+     "lines": [
+      4751
+     ],
+     "quote": "Wallace B Clark was educated in the district schools in the Salisbury Academy and in the Keytesville Normal",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": "Chariton and Ray counties, MO",
+     "value": "Taught school for seven years in Chariton and Ray counties before turning to law",
+     "lines": [
+      4752
+     ],
+     "quote": "He began life as a teacher and followed the profession in Chariton and Ray counties for seven years",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": "13 Jan 1899",
+     "place": "Salisbury, MO",
+     "value": "Admitted to the bar January 13, 1899 before Judge John P Butler at Salisbury; practised law in Linn County for four years, then in Ponca, Oklahoma",
+     "lines": [
+      4755
+     ],
+     "quote": "legal studies and January 13 1899 before Judge John P Butler at Salisbury he was admitted to the bar.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "story",
+     "date": "1896",
+     "place": "Missouri",
+     "value": "An active Republican campaigner even before he came of age, in 1896 he spoke against free silver in Missouri and was howled down in strongly pro-Bryan areas. In 1907 in Oklahoma he broke with his party to back adopting the constitution, and was nominated for Kay County attorney, having earlier received a similar nomination in Linn County.",
+     "lines": [
+      4759
+     ],
+     "quote": "In 1896 he was on the list of speakers combating free silver sentiment in Missouri",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "15 Sep 1898",
+     "place": "Marceline, Missouri",
+     "value": "Married Gertrude Adams, daughter of John W. Adams",
+     "lines": [
+      4764
+     ],
+     "quote": "September 15 1898 Mr Clark married in Marceline Missouri Miss Gertrude Adams daughter of John W. Adams.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Frances W. Clark, born January 1, 1900",
+     "lines": [
+      4765
+     ],
+     "quote": "They have one child Frances W born January 1 1900.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Siblings: Andrew J (Centerville, Iowa); Nancy J, wife of John J Rogers; William S. (Macon County, MO); John C. (Nebraska); Margaret, wife of AG Sterner; Mary, wife of S.L. Addis; Christiana, wife of EB Proctor; twins Edward and David",
+     "lines": [
+      4745
+     ],
+     "quote": "Their children are Andrew J of Centerville Iowa; Nancy J, wife of John J Rogers of Chariton county Missouri;",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "clark_frances": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Gertrude Adams (gen 4, daughter of John Wesley Adams)",
+     "lines": [
+      5238
+     ],
+     "quote": "30. Frances CLARK (Gertrude ADAMS-4, John Wesley-3, George",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1 Jan 1900",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Born 1 Jan 1900 in Marceline, Linn County, Missouri",
+     "lines": [
+      5239
+     ],
+     "quote": "was born on 1 Jan 1900 in Marceline, Linn",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "10 Jun 1995",
+     "place": "Colorado Springs, El Paso County, CO",
+     "value": "Died 10 Jun 1995 at age 95 in Colorado Springs, El Paso County, CO",
+     "lines": [
+      5240
+     ],
+     "quote": "She died on 10 Jun 1995 at the age of 95 in Colorado",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Evergreen Cemetery, Colorado Springs, El Paso County, CO",
+     "value": "Buried at Evergreen Cemetery, Colorado Springs",
+     "lines": [
+      5241
+     ],
+     "quote": "She was buried at Evergreen Cemetery in",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "abt 1919",
+     "place": "Oklahoma",
+     "value": "Married Myron Lee Eubank about 1919 in Oklahoma",
+     "lines": [
+      5246,
+      4770
+     ],
+     "quote": "Frances CLARK and Myron Lee EUBANK were married about 1919 in Oklahoma.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1900",
+     "place": null,
+     "value": "Born 1900 (index lifespan; pages 15, 25)",
+     "lines": [
+      5786
+     ],
+     "quote": "Frances (1900-1995)... 15, 25",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1995",
+     "place": null,
+     "value": "Died 1995 (index lifespan)",
+     "lines": [
+      5786
+     ],
+     "quote": "Frances (1900-1995)... 15, 25",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1 Jan 1900",
+     "place": "Marceline, Linn County, Missouri",
+     "value": "Born 1 Jan 1900 in Marceline, MO",
+     "lines": [
+      4770
+     ],
+     "quote": "30 i. Frances CLARK, born 1 Jan 1900, Marceline, Linn County, Missouri;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "10 Jun 1995",
+     "place": "Colorado Springs, El Paso County, CO",
+     "value": "Died 10 Jun 1995 in Colorado Springs, CO",
+     "lines": [
+      4771
+     ],
+     "quote": "died 10 Jun 1995, Colorado Springs, El Paso County, CO.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "eubank_myron_lee": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "abt 1919",
+     "place": "Oklahoma",
+     "value": "Married Frances Clark",
+     "lines": [
+      4770
+     ],
+     "quote": "married Myron Lee EUBANK, abt 1919, Oklahoma;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "abt 1919",
+     "place": "Oklahoma",
+     "value": "Married Frances Clark about 1919 in Oklahoma",
+     "lines": [
+      5246
+     ],
+     "quote": "Frances CLARK and Myron Lee EUBANK were married about 1919 in Oklahoma.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "21 Feb 1893",
+     "place": "Colorado Springs, El Paso County, CO",
+     "value": "Born 21 Feb 1893 in Colorado Springs, El Paso County, CO",
+     "lines": [
+      5247
+     ],
+     "quote": "born on 21 Feb 1893 in Colorado Springs, El] Paso County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "21 Jul 1962",
+     "place": "Harris County, TX",
+     "value": "Died 21 Jul 1962 at age 69 in Harris County, TX",
+     "lines": [
+      5247
+     ],
+     "quote": "He died on 21 Jul 1962 at the age of 69 in",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Evergreen Cemetery, Colorado Springs, El Paso County, CO",
+     "value": "Buried at Evergreen Cemetery, Colorado Springs",
+     "lines": [
+      5248
+     ],
+     "quote": "He was buried at Evergreen Cemetery in Colorado Springs, El Paso County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1893",
+     "place": null,
+     "value": "Born 1893 (index lifespan; page 25)",
+     "lines": [
+      5814
+     ],
+     "quote": "Myron Lee (1893-1962) . . . 25",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1962",
+     "place": null,
+     "value": "Died 1962 (index lifespan)",
+     "lines": [
+      5814
+     ],
+     "quote": "Myron Lee (1893-1962) . . . 25",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_william_w_1885": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "26 Aug 1885",
+     "place": "Chariton County, MO",
+     "value": "Born 26 Aug 1885",
+     "lines": [
+      4205
+     ],
+     "quote": "vii. William W. ADAMS was born on 26 Aug 1885 in Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of John Wesley Adams and Mary Frances Vantine",
+     "lines": [
+      4159
+     ],
+     "quote": "John Wesley ADAMS and Mary Frances VANTINE had the following children:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_loula": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "abt 1872",
+     "place": "Missouri",
+     "value": "Born about 1872",
+     "lines": [
+      4245
+     ],
+     "quote": "ii. Loula ADAMS was born about 1872 in Missouri.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_willie_may": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "16 May 1873",
+     "place": "Brookfield, Chariton County, MO",
+     "value": "Born 16 May 1873",
+     "lines": [
+      4246
+     ],
+     "quote": "iii. Willie May ADAMS was born on 16 May 1873 in Brookfield, Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "14 Sep 1934",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died at age 61",
+     "lines": [
+      4247
+     ],
+     "quote": "died on 14 Sep 1934 at the age of 61 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_homer_clarence": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "23 Apr 1878",
+     "place": "Mendon, Chariton County, MO",
+     "value": "Born 23 Apr 1878",
+     "lines": [
+      4256
+     ],
+     "quote": "v. Homer Clarence ADAMS was born on 23 Apr 1878 in Mendon, Chariton County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "12 Apr 1935",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died at age 56 of a carbuncle on his neck",
+     "lines": [
+      4257
+     ],
+     "quote": "died of a carbunkle on his neck on 12 Apr 1935 at the age of 56 in",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_frank_1879": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "7 Apr 1879",
+     "place": "Linn County, Missouri",
+     "value": "Born 7 Apr 1879",
+     "lines": [
+      4262
+     ],
+     "quote": "17 vi. Frank ADAMS, born 7 Apr 1879, Linn County, Missouri;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "9 Aug 1900",
+     "place": "Jackson County, MO",
+     "value": "Married Katherine A Brannan",
+     "lines": [
+      4262,
+      4816
+     ],
+     "quote": "married Katherine A",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "10 Apr 1946",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died 10 Apr 1946",
+     "lines": [
+      4263
+     ],
+     "quote": "died 10 Apr 1946, Kansas City, Jackson",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "7 Apr 1879",
+     "place": "Linn County, Missouri",
+     "value": "Born 7 Apr 1879 in Linn County, Missouri",
+     "lines": [
+      4810
+     ],
+     "quote": "was born on 7 Apr 1879 in ... Linn County, Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "10 Apr 1946",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died 10 Apr 1946 aged 67 in Kansas City",
+     "lines": [
+      4813
+     ],
+     "quote": "He died on 10 Apr 1946 at the age of 67 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Forest Hill Cemetery, Kansas City, Jackson County, MO",
+     "value": "Buried at Forest Hill (spelled Forrest Hill) Cemetery, Kansas City",
+     "lines": [
+      4814
+     ],
+     "quote": "buried at Forrest Hill Cemetery in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Children with Katherine A Brannan: Caleb Francis, Frank Jr, Frances M, Cecelia M, John J Adams",
+     "lines": [
+      4819
+     ],
+     "quote": "Frank ADAMS and Katherine A BRANNAN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "7 Apr 1879",
+     "place": "Linn County, Missouri",
+     "value": "Born 7 Apr 1879 in Linn County, MO (place continues on line 4813 after a page break)",
+     "lines": [
+      4810
+     ],
+     "quote": "17. Frank ADAMS (Alexander Washington-3, George Francis-2, Jose Pierre-1) was born on 7 Apr 1879 in",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "10 Apr 1946",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died 10 Apr 1946 aged 67 in Kansas City, MO",
+     "lines": [
+      4813
+     ],
+     "quote": "He died on 10 Apr 1946 at the age of 67 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Forest Hill Cemetery, Kansas City, Jackson County, MO",
+     "value": "Buried at Forest Hill Cemetery, Kansas City, MO",
+     "lines": [
+      4814
+     ],
+     "quote": "buried at Forrest Hill Cemetery in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_fred_j": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "Jul 1881",
+     "place": "Kansas",
+     "value": "Born Jul 1881",
+     "lines": [
+      4265
+     ],
+     "quote": "vii. Fred J ADAMS was born in Jul 1881 in Kansas.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_olie": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "8 Mar 1883",
+     "place": "Frankfort, Marshall County, Kansas",
+     "value": "Born 8 Mar 1883",
+     "lines": [
+      4266
+     ],
+     "quote": "viii. Olie ADAMS was born on 8 Mar 1883 in Frankfort, Marshal County, Kansas.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "21 Apr 1945",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died at age 62",
+     "lines": [
+      4267
+     ],
+     "quote": "Apr 1945 at the age of 62 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_george_f_1887": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "18 Mar 1887",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Born 18 Mar 1887",
+     "lines": [
+      4271
+     ],
+     "quote": "ix. George F. ADAMS was born on 18 Mar 1887 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "29 Oct 1941",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died at age 54",
+     "lines": [
+      4272
+     ],
+     "quote": "died on 29 Oct 1941 at the age of 54 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": null,
+     "value": "Clerk for Martin, Bloomquist, and Lee Commission Company",
+     "lines": [
+      4274
+     ],
+     "quote": "He worked as a clerk for Martin, Bloomquist, and Lee Commission Company.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_grace": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "Jan 1891",
+     "place": "Missouri",
+     "value": "Born Jan 1891",
+     "lines": [
+      4283
+     ],
+     "quote": "x. Grace ADAMS was born in Jan 1891 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "Dec 1977",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died at age 86",
+     "lines": [
+      4283
+     ],
+     "quote": "She died in Dec 1977 at the age of 86 in",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "brannan_katherine_a": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "9 Aug 1900",
+     "place": "Jackson County, MO",
+     "value": "Married Frank Adams",
+     "lines": [
+      4263
+     ],
+     "quote": "BRANNAN, 9 Aug 1900, Jackson County, MO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "9 Aug 1900",
+     "place": "Jackson County, MO",
+     "value": "Married Frank Adams",
+     "lines": [
+      4816
+     ],
+     "quote": "Frank ADAMS and Katherine A BRANNAN were married on 9 Aug 1900 in Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1881",
+     "place": "Tennessee",
+     "value": "Born about 1881 in Tennessee",
+     "lines": [
+      4817
+     ],
+     "quote": "A BRANNAN was born about 1881 in Tennessee.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1881",
+     "place": null,
+     "value": "Born 1881 (index lifespan; listed on page 17)",
+     "lines": [
+      5762
+     ],
+     "quote": "Katherine A (1881— )...17",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_caleb_francis": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Frank Adams and Katherine A Brannan",
+     "lines": [
+      4819
+     ],
+     "quote": "Frank ADAMS and Katherine A BRANNAN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "7 Jul 1901",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Born 7 Jul 1901 in Kansas City",
+     "lines": [
+      4821
+     ],
+     "quote": "32 i. Caleb Francis ADAMS, born 7 Jul 1901, Kansas City, Jackson County, MO; married",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "12 Oct 1935",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Married Hallie Ione Reece",
+     "lines": [
+      4822
+     ],
+     "quote": "Hallie Ione REECE, 12 Oct 1935, Kansas City, Jackson County, MO; died 5 Feb 1975,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "5 Feb 1975",
+     "place": "Lancaster, Los Angeles County, CA",
+     "value": "Died 5 Feb 1975 in Lancaster, California",
+     "lines": [
+      4824
+     ],
+     "quote": "died 5 Feb 1975, ... Lancaster, Los Angeles County, CA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Frank Adams (gen 4); doc lineage Frank-4, Alexander Washington-3",
+     "lines": [
+      5261
+     ],
+     "quote": "32. Caleb Francis ADAMS (Frank-4, Alexander Washington-3, George Francis-2, Jose Pierre-1) was born on",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "7 Jul 1901",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Born 7 Jul 1901 in Kansas City, Jackson County, MO",
+     "lines": [
+      5262
+     ],
+     "quote": "7 Jul 1901 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "5 Feb 1975",
+     "place": "Lancaster, Los Angeles County, CA",
+     "value": "Died 5 Feb 1975 at age 73 in Lancaster, Los Angeles County, CA",
+     "lines": [
+      5262
+     ],
+     "quote": "He died on 5 Feb 1975 at the age of 73 in Lancaster, Los",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "12 Oct 1935",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Married Hallie Ione Reece on 12 Oct 1935 in Kansas City, Jackson County, MO",
+     "lines": [
+      5272
+     ],
+     "quote": "Caleb Francis ADAMS and Hallie lone REECE were married on 12 Oct 1935 in Kansas City, Jackson County,",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_frances_m_1905": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Child of Frank Adams and Katherine A Brannan",
+     "lines": [
+      4819
+     ],
+     "quote": "Frank ADAMS and Katherine A BRANNAN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1905",
+     "place": "Missouri",
+     "value": "Born about 1905 in Missouri",
+     "lines": [
+      4827
+     ],
+     "quote": "iii. Frances M ADAMS was born about 1905 in Missouri.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_frank_jr_1905": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Frank Adams and Katherine A Brannan",
+     "lines": [
+      4819
+     ],
+     "quote": "Frank ADAMS and Katherine A BRANNAN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1905",
+     "place": "Missouri",
+     "value": "Born about 1905 in Missouri",
+     "lines": [
+      4825,
+      5277
+     ],
+     "quote": "33 ii, Frank ADAMS Jr, born abt 1905, Missouri; married Beula BRIDGES, 20 Aug 1928,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "20 Aug 1928",
+     "place": "Jackson County, MO",
+     "value": "Married Beula Bridges",
+     "lines": [
+      4825
+     ],
+     "quote": "married Beula BRIDGES, 20 Aug 1928, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Frank Adams (gen 4)",
+     "lines": [
+      5276
+     ],
+     "quote": "33. Frank ADAMS Jr (Frank-4, Alexander Washington-3, George Francis-2, Jose Pierre-",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "20 Aug 1928",
+     "place": "Jackson County, MO",
+     "value": "Married Beula Bridges on 20 Aug 1928 in Jackson County, MO",
+     "lines": [
+      5281
+     ],
+     "quote": "Frank ADAMS Jr and Beula BRIDGES were married on 20 Aug 1928 in Jackson County, MO.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_cecelia_m": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Child of Frank Adams and Katherine A Brannan",
+     "lines": [
+      4819
+     ],
+     "quote": "Frank ADAMS and Katherine A BRANNAN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1911",
+     "place": "Missouri",
+     "value": "Born about 1911 in Missouri",
+     "lines": [
+      4828
+     ],
+     "quote": "iv. Cecelia M ADAMS was born about 1911 in Missouri.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_john_j_1916": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Child of Frank Adams and Katherine A Brannan",
+     "lines": [
+      4819
+     ],
+     "quote": "Frank ADAMS and Katherine A BRANNAN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "27 Mar 1916",
+     "place": "Missouri",
+     "value": "Born 27 Mar 1916 in Missouri",
+     "lines": [
+      4829
+     ],
+     "quote": "v. John J ADAMS was born on 27 Mar 1916 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "10 Apr 1998",
+     "place": "Union, Franklin County, MO",
+     "value": "Died 10 Apr 1998 aged 82 in Union, Missouri",
+     "lines": [
+      4829
+     ],
+     "quote": "He died on 10 Apr 1998 at the age of 82 in Union, Franklin County, MO.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "reece_hallie_ione": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "12 Oct 1935",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Married Caleb Francis Adams",
+     "lines": [
+      5272
+     ],
+     "quote": "Caleb Francis ADAMS and Hallie lone REECE were married on 12 Oct 1935 in Kansas City, Jackson County,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "12 Sep 1902",
+     "place": "Hominy, OK",
+     "value": "Born 12 Sep 1902 in Hominy, OK",
+     "lines": [
+      5273
+     ],
+     "quote": "Hallie lone REECE was born on 12 Sep 1902 in Hominy, OK.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "13 Aug 1993",
+     "place": "Lancaster, Los Angeles County, CA",
+     "value": "Died 13 Aug 1993 at age 90 in Lancaster, Los Angeles County, CA",
+     "lines": [
+      5273
+     ],
+     "quote": "She died on 13 Aug 1993 at the age of 90",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1902",
+     "place": null,
+     "value": "Born 1902 (index lifespan; page 26)",
+     "lines": [
+      5932
+     ],
+     "quote": "Hallie Ione (1902-1993) . . . 26",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1993",
+     "place": null,
+     "value": "Died 1993 (index lifespan)",
+     "lines": [
+      5932
+     ],
+     "quote": "Hallie Ione (1902-1993) . . . 26",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "bridges_beula": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "20 Aug 1928",
+     "place": "Jackson County, MO",
+     "value": "Married Frank Adams Jr",
+     "lines": [
+      5281
+     ],
+     "quote": "Frank ADAMS Jr and Beula BRIDGES were married on 20 Aug 1928 in Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1902",
+     "place": "Missouri",
+     "value": "Born about 1902 in Missouri",
+     "lines": [
+      5282
+     ],
+     "quote": "BRIDGES was born about 1902 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1902",
+     "place": null,
+     "value": "Born 1902 (index lifespan; page 26)",
+     "lines": [
+      5765
+     ],
+     "quote": "Beula (1902— )...26",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "locke_mary_c": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "15 May 1890",
+     "place": "Chariton County, MO",
+     "value": "Married Henry A Adams",
+     "lines": [
+      4243,
+      4777
+     ],
+     "quote": "married Mary C LOCKE, 15",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "10 May 1869",
+     "place": "Missouri",
+     "value": "Born 10 May 1869 in Missouri",
+     "lines": [
+      4778
+     ],
+     "quote": "LOCKE was born on 10 May 1869 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "17 Jan 1933",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died 17 Jan 1933 aged 63 in Kansas City, MO",
+     "lines": [
+      4778
+     ],
+     "quote": "She died on 17 Jan 1933 at the age of 63 in Kansas City,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1869",
+     "place": null,
+     "value": "Born 1869 (index lifespan; page 16)",
+     "lines": [
+      5894
+     ],
+     "quote": "Mary C (1869-1933) .. . 16",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1933",
+     "place": null,
+     "value": "Died 1933 (index lifespan)",
+     "lines": [
+      5894
+     ],
+     "quote": "Mary C (1869-1933) .. . 16",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_ralph_l": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Henry A Adams and Mary C Locke",
+     "lines": [
+      4781
+     ],
+     "quote": "Henry A ADAMS and Mary C LOCKE had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "27 Sep 1891",
+     "place": "Missouri",
+     "value": "Born 27 Sep 1891 in Missouri",
+     "lines": [
+      4783,
+      5251
+     ],
+     "quote": "31 i. Ralph L. ADAMS, born 27 Sep 1891, Missouri;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "15 Apr 1913",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Married Pauline Brandt on 15 Apr 1913 in Kansas City, MO",
+     "lines": [
+      4783,
+      5253
+     ],
+     "quote": "married Pauline BRANDT, 15 Apr 1913,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "17 Apr 1945",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died 17 Apr 1945 in Kansas City, MO",
+     "lines": [
+      4784
+     ],
+     "quote": "died 17 Apr 1945, Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "17 Apr 1945",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died 17 Apr 1945 at age 53 in Kansas City, Jackson County, MO",
+     "lines": [
+      5251
+     ],
+     "quote": "He died on 17 Apr 1945 at the age of 53 in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Daughter Mary E. Adams",
+     "lines": [
+      5258
+     ],
+     "quote": "i. Mary E ADAMS was born about 1916 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Daughter Frances J. Adams",
+     "lines": [
+      5259
+     ],
+     "quote": "ii. Frances J ADAMS was born about 1922 in Missouri.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "brandt_pauline": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "15 Apr 1913",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Married Ralph L. Adams",
+     "lines": [
+      4783,
+      5253
+     ],
+     "quote": "married Pauline BRANDT, 15 Apr 1913,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown",
+     "lines": [
+      5254
+     ],
+     "quote": "Pauline BRANDT was born (date unknown).",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Daughters Mary E. and Frances J. Adams",
+     "lines": [
+      5256
+     ],
+     "quote": "Ralph L. ADAMS and Pauline BRANDT had the following children:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_mary_e_1916": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Ralph L. Adams and Pauline Brandt",
+     "lines": [
+      5256
+     ],
+     "quote": "Ralph L. ADAMS and Pauline BRANDT had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1916",
+     "place": "Missouri",
+     "value": "Born about 1916 in Missouri",
+     "lines": [
+      5258
+     ],
+     "quote": "i. Mary E ADAMS was born about 1916 in Missouri.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_frances_j_1922": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Ralph L. Adams and Pauline Brandt",
+     "lines": [
+      5256
+     ],
+     "quote": "Ralph L. ADAMS and Pauline BRANDT had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1922",
+     "place": "Missouri",
+     "value": "Born about 1922 in Missouri",
+     "lines": [
+      5259
+     ],
+     "quote": "ii. Frances J ADAMS was born about 1922 in Missouri.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "gosnell_louise_a": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "4 Oct 1899",
+     "place": "St. Louis, Jackson County, MO",
+     "value": "Married Caleb Martin Adams",
+     "lines": [
+      4254,
+      4801
+     ],
+     "quote": "married Louise A. GOSNELL, 4 Oct 1899, St. Louis, Jackson County,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Peter Gosnell and Maria Hamlin",
+     "lines": [
+      4802,
+      4802
+     ],
+     "quote": "Louise A. GOSNELL, daughter of Peter GOSNELL and Maria HAMLIN, was born on 27 Aug 1874 in",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "27 Aug 1874",
+     "place": "Iroquois County, IL",
+     "value": "Born 27 Aug 1874 in Iroquois County, IL",
+     "lines": [
+      4802
+     ],
+     "quote": "was born on 27 Aug 1874 in",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "22 Jul 1935",
+     "place": "St. Louis, MO",
+     "value": "Died 22 Jul 1935 aged 60 in St. Louis (source says 'St. Louis, Jackson County')",
+     "lines": [
+      4803
+     ],
+     "quote": "She died on 22 Jul 1935 at the age of 60 in St. Louis, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": "24 Jul 1935",
+     "place": "Forest Hill Cemetery, Kansas City, Jackson County, MO",
+     "value": "Buried 24 Jul 1935 at Forest Hill Cemetery, Kansas City, MO",
+     "lines": [
+      4804
+     ],
+     "quote": "buried on 24 Jul 1935 at Forest Hill Cemetery in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of Cornelia Adams",
+     "lines": [
+      4806
+     ],
+     "quote": "Caleb Martin ADAMS and Louise A. GOSNELL had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "4 Oct 1899",
+     "place": "St. Louis, Jackson County, MO",
+     "value": "Married Caleb Martin Adams",
+     "lines": [
+      4801
+     ],
+     "quote": "Caleb Martin ADAMS and Louise A. GOSNELL were married on 4 Oct 1899 in St. Louis, Jackson County,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "27 Aug 1874",
+     "place": "Iroquois County, IL",
+     "value": "Born 27 Aug 1874 in Iroquois County, Illinois",
+     "lines": [
+      4802
+     ],
+     "quote": "was born on 27 Aug 1874 in Iroquois County, IL.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "22 Jul 1935",
+     "place": "St. Louis, Jackson County, MO",
+     "value": "Died 22 Jul 1935 aged 60 (place written as St. Louis, Jackson County, MO)",
+     "lines": [
+      4803
+     ],
+     "quote": "She died on 22 Jul 1935 at the age of 60 in St. Louis, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": "24 Jul 1935",
+     "place": "Forest Hill Cemetery, Kansas City, Jackson County, MO",
+     "value": "Buried at Forest Hill Cemetery, Kansas City",
+     "lines": [
+      4804
+     ],
+     "quote": "buried on 24 Jul 1935 at Forest Hill Cemetery in Kansas City, Jackson County, MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Child Cornelia Adams",
+     "lines": [
+      4806
+     ],
+     "quote": "Caleb Martin ADAMS and Louise A. GOSNELL had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1874",
+     "place": null,
+     "value": "Born 1874 (index lifespan; page 16)",
+     "lines": [
+      5825
+     ],
+     "quote": "Louise A. (1874-1935) ... 16",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1935",
+     "place": null,
+     "value": "Died 1935 (index lifespan)",
+     "lines": [
+      5825
+     ],
+     "quote": "Louise A. (1874-1935) ... 16",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_cornelia": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Caleb Martin Adams and Louise A. Gosnell",
+     "lines": [
+      4806
+     ],
+     "quote": "Caleb Martin ADAMS and Louise A. GOSNELL had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1910",
+     "place": "Missouri",
+     "value": "Born about 1910 in Missouri",
+     "lines": [
+      4808,
+      4808
+     ],
+     "quote": "i. Cornelia ADAMS was born about 1910 in Missouri.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Child of Caleb Martin Adams and Louise A. Gosnell",
+     "lines": [
+      4806
+     ],
+     "quote": "Caleb Martin ADAMS and Louise A. GOSNELL had the following child:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "hall_emily": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "2 Sep 1937",
+     "place": null,
+     "value": "Married Caleb Martin Adams",
+     "lines": [
+      4254,
+      4796
+     ],
+     "quote": "HALL, 2 Sep 1937;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "13 Dec 1884",
+     "place": "Cedar Rapids, Iowa",
+     "value": "Born 13 Dec 1884 in Cedar Rapids, Iowa",
+     "lines": [
+      4797
+     ],
+     "quote": "HALL was born on 13 Dec 1884 in Cedar Rapids, lowa.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1884",
+     "place": null,
+     "value": "Born 1884 (index lifespan; page 16)",
+     "lines": [
+      5837
+     ],
+     "quote": "Emily (1884— )...16",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "martin_kaleb": {
+   "facts": [
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Mary Louisa Martin",
+     "lines": [
+      4235
+     ],
+     "quote": "daughter of Kaleb MARTIN",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": null,
+     "place": null,
+     "value": "Spouse of Louisa Woods Devaw (parents of Mary Louisa Martin)",
+     "lines": [
+      4235
+     ],
+     "quote": "daughter of Kaleb MARTIN and Louisa Woods DEVAW",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under MARTIN, page 5, no dates",
+     "lines": [
+      5897
+     ],
+     "quote": "Kaleb( — )...5",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "devaw_louisa_woods": {
+   "facts": [
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of Mary Louisa Martin",
+     "lines": [
+      4235
+     ],
+     "quote": "and Louisa Woods DEVAW",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under DEVAW, page 5, no dates",
+     "lines": [
+      5796
+     ],
+     "quote": "Louisa Woods( — )...5",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_minnie_f": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of James Casper Adams and Adela J Kaempfer",
+     "lines": [
+      4453
+     ],
+     "quote": "James Casper ADAMS and Adela J KAEMPFER had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "13 Jun 1889",
+     "place": "Douglas County, CO",
+     "value": "Born 13 Jun 1889 in Douglas County, CO",
+     "lines": [
+      4455
+     ],
+     "quote": "18 i. Minnie F ADAMS, born 13 Jun 1889, Douglas County, CO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "abt 1909",
+     "place": null,
+     "value": "Married Frank Pierce Seeley about 1909",
+     "lines": [
+      4455
+     ],
+     "quote": "married Frank Pierce SEELEY, abt 1909;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "Jan 1984",
+     "place": "Butte County, SD",
+     "value": "Died Jan 1984 in Butte County, SD",
+     "lines": [
+      4456
+     ],
+     "quote": "died Jan 1984, Butte County, SD.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1941",
+     "place": "Sturgis, South Dakota",
+     "value": "Living in Sturgis, SD as Minnie F. Seeley in 1941",
+     "lines": [
+      4435
+     ],
+     "quote": "Minnie F. Seeley, of Sturgis, South Dakota",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of James Casper Adams",
+     "lines": [
+      4832
+     ],
+     "quote": "18. Minnie F ADAMS (James Casper-3, George Francis-2, Jose Pierre-1) was born on 13 Jun 1889 in Douglas",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "13 Jun 1889",
+     "place": "Douglas County, CO",
+     "value": "Born 13 Jun 1889 in Douglas County, Colorado",
+     "lines": [
+      4832
+     ],
+     "quote": "was born on 13 Jun 1889 in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "Jan 1984",
+     "place": "Butte County, SD",
+     "value": "Died Jan 1984 aged 94 in Butte County, South Dakota",
+     "lines": [
+      4833
+     ],
+     "quote": "She died in Jan 1984 at the age of 94 in Butte County, SD.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "abt 1909",
+     "place": null,
+     "value": "Married Frank Pierce Seeley",
+     "lines": [
+      4835
+     ],
+     "quote": "Minnie F ADAMS and Frank Pierce SEELEY were married about 1909.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Children with Frank Pierce Seeley: Donald D, Frances Maxine and Alice N Seeley",
+     "lines": [
+      4838
+     ],
+     "quote": "Frank Pierce SEELEY and Minnie F ADAMS had the following children:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "seeley_frank_pierce": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "abt 1909",
+     "place": null,
+     "value": "Married Minnie F Adams about 1909",
+     "lines": [
+      4455
+     ],
+     "quote": "married Frank Pierce SEELEY, abt 1909;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "abt 1909",
+     "place": null,
+     "value": "Married Minnie F Adams",
+     "lines": [
+      4835
+     ],
+     "quote": "Minnie F ADAMS and Frank Pierce SEELEY were married about 1909.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "Jan 1886",
+     "place": "Nebraska",
+     "value": "Born Jan 1886 in Nebraska",
+     "lines": [
+      4835
+     ],
+     "quote": "Frank Pierce SEELEY was born in Jan 1886 in Nebraska.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "21 Nov 1939",
+     "place": "Meade County, SD",
+     "value": "Died 21 Nov 1939 aged 53 in Meade County, South Dakota",
+     "lines": [
+      4836
+     ],
+     "quote": "He died on 21 Nov 1939 at the age of 53 in Meade County, SD.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1886",
+     "place": null,
+     "value": "Born 1886 (index lifespan; page 17)",
+     "lines": [
+      5961
+     ],
+     "quote": "Frank Pierce (1886-1939) ...17",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1939",
+     "place": null,
+     "value": "Died 1939 (index lifespan)",
+     "lines": [
+      5961
+     ],
+     "quote": "Frank Pierce (1886-1939) ...17",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "seeley_donald_d": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Frank Pierce Seeley and Minnie F Adams",
+     "lines": [
+      4838
+     ],
+     "quote": "Frank Pierce SEELEY and Minnie F ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "13 Jan 1910",
+     "place": "Antelope County, Nebraska",
+     "value": "Born 13 Jan 1910 in Antelope County, Nebraska",
+     "lines": [
+      4840
+     ],
+     "quote": "i. Donald D SEELEY was born on 13 Jan 1910 in Antelope County, Nebraska.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "25 Aug 1984",
+     "place": "Hennepin County, MN",
+     "value": "Died 25 Aug 1984 aged 74 in Hennepin County, Minnesota",
+     "lines": [
+      4841
+     ],
+     "quote": "25 Aug 1984 at the age of 74 in Hennepin County, MN.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1910",
+     "place": null,
+     "value": "Born 1910 (index lifespan; page 17)",
+     "lines": [
+      5959
+     ],
+     "quote": "Donald D (1910-1984) ... 17",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1984",
+     "place": null,
+     "value": "Died 1984 (index lifespan)",
+     "lines": [
+      5959
+     ],
+     "quote": "Donald D (1910-1984) ... 17",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "seeley_frances_maxine": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Frank Pierce Seeley and Minnie F Adams",
+     "lines": [
+      4838
+     ],
+     "quote": "Frank Pierce SEELEY and Minnie F ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "15 Sep 1911",
+     "place": "Nebraska",
+     "value": "Born 15 Sep 1911 in Nebraska",
+     "lines": [
+      4842
+     ],
+     "quote": "ii. Frances Maxine SEELEY was born on 15 Sep 1911 in Nebraska.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "3 Mar 2004",
+     "place": "Meade County, SD",
+     "value": "Died 3 Mar 2004 aged 92 in Meade County, South Dakota",
+     "lines": [
+      4842
+     ],
+     "quote": "She died on 3 Mar 2004 at the age of 92 in Meade County, SD.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1911",
+     "place": null,
+     "value": "Born 1911 (index lifespan; page 17)",
+     "lines": [
+      5960
+     ],
+     "quote": "Frances Maxine (1911-2004) ...17",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "2004",
+     "place": null,
+     "value": "Died 2004 (index lifespan)",
+     "lines": [
+      5960
+     ],
+     "quote": "Frances Maxine (1911-2004) ...17",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "seeley_alice_n": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Frank Pierce Seeley and Minnie F Adams",
+     "lines": [
+      4838
+     ],
+     "quote": "Frank Pierce SEELEY and Minnie F ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1914",
+     "place": "Nebraska",
+     "value": "Born about 1914 in Nebraska",
+     "lines": [
+      4844
+     ],
+     "quote": "iii. Alice N SEELEY was born about 1914 in Nebraska.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1914",
+     "place": null,
+     "value": "Born 1914 (index lifespan; page 17)",
+     "lines": [
+      5958
+     ],
+     "quote": "~~ AliceN(1914— )...17 |",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_ethel_e": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of James Casper Adams and Adela J Kaempfer",
+     "lines": [
+      4453
+     ],
+     "quote": "James Casper ADAMS and Adela J KAEMPFER had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "Aug 1890",
+     "place": "Douglas County, CO",
+     "value": "Born Aug 1890 in Douglas County, CO",
+     "lines": [
+      4457
+     ],
+     "quote": "19 ii. Ethel E. ADAMS, born Aug 1890, Douglas County, CO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married a man surnamed Mead (first name not given)",
+     "lines": [
+      4457
+     ],
+     "quote": "married MEAD;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1952",
+     "place": "Castle Rock, Douglas County, CO",
+     "value": "Died 1952 in Castle Rock, CO",
+     "lines": [
+      4459
+     ],
+     "quote": "died 1952, Castle Rock, Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1941",
+     "place": "Castle Rock, Colorado",
+     "value": "Living in Castle Rock as Ethel E. Mead in 1941",
+     "lines": [
+      4435
+     ],
+     "quote": "Ethel E. Mead, of",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of James Casper Adams",
+     "lines": [
+      4846
+     ],
+     "quote": "19. Ethel E. ADAMS (James Casper-3, George Francis-2, Jose Pierre-1) was born in Aug 1890 in Douglas",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "Aug 1890",
+     "place": "Douglas County, CO",
+     "value": "Born Aug 1890 in Douglas County, Colorado",
+     "lines": [
+      4846
+     ],
+     "quote": "was born in Aug 1890 in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1952",
+     "place": "Castle Rock, Douglas County, CO",
+     "value": "Died 1952 aged 62 in Castle Rock, Colorado",
+     "lines": [
+      4847
+     ],
+     "quote": "She died in 1952 at the age of 62 in Castle Rock, Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hills Cemetery, Castle Rock, Douglas County, CO",
+     "value": "Buried at Cedar Hills Cemetery, Castle Rock",
+     "lines": [
+      4847
+     ],
+     "quote": "She was buried at Cedar Hills Cemetery in Castle Rock, Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married a man surnamed Mead (given name not stated)",
+     "lines": [
+      4850
+     ],
+     "quote": "Ethel E. ADAMS and MEAD were married. MEAD was born (date unknown).",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_reda_florence": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of James Casper Adams and Adela J Kaempfer",
+     "lines": [
+      4453
+     ],
+     "quote": "James Casper ADAMS and Adela J KAEMPFER had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "Mar 1893",
+     "place": "Douglas County, CO",
+     "value": "Born Mar 1893 in Douglas County, CO",
+     "lines": [
+      4461
+     ],
+     "quote": "20 iii. Reda Florence ADAMS, born Mar 1893, Douglas County, CO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married a man surnamed Olsen (first name not given)",
+     "lines": [
+      4461
+     ],
+     "quote": "married OLSEN;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "Apr 1980",
+     "place": "Contra Costa County, CA",
+     "value": "Died Apr 1980 in Contra Costa County, CA",
+     "lines": [
+      4461
+     ],
+     "quote": "died Apr 1980, Contra Costa County, CA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1941",
+     "place": "Denver, Colorado",
+     "value": "Living in Denver as Reda F. Olsen in 1941",
+     "lines": [
+      4436
+     ],
+     "quote": "Reda F. Olsen and Frank M. Adams of Denver, Colorado",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of James Casper Adams",
+     "lines": [
+      4852
+     ],
+     "quote": "20. Reda Florence ADAMS (James Casper-3, George Francis-2, Jose Pierre-1) was born in Mar 1893 in",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "Mar 1893",
+     "place": "Douglas County, CO",
+     "value": "Born Mar 1893 in Douglas County, Colorado",
+     "lines": [
+      4852
+     ],
+     "quote": "was born in Mar 1893 in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "Apr 1980",
+     "place": "Contra Costa County, CA",
+     "value": "Died Apr 1980 aged 87 in Contra Costa County, California",
+     "lines": [
+      4853
+     ],
+     "quote": "She died in Apr 1980 at the age of 87 in Contra Costa County, CA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hills Cemetery, Castle Rock, Douglas County, CO",
+     "value": "Buried at Cedar Hills Cemetery, Castle Rock",
+     "lines": [
+      4854
+     ],
+     "quote": "Cedar Hills Cemetery in Castle Rock, Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married a man surnamed Olsen (given name not stated)",
+     "lines": [
+      4856
+     ],
+     "quote": "Reda Florence ADAMS and OLSEN were married. OLSEN was born (date unknown).",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_frank_melbourne": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of James Casper Adams and Adela J Kaempfer",
+     "lines": [
+      4453
+     ],
+     "quote": "James Casper ADAMS and Adela J KAEMPFER had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "30 Mar 1896",
+     "place": "Douglas County, CO",
+     "value": "Born 30 Mar 1896 in Douglas County, CO",
+     "lines": [
+      4464
+     ],
+     "quote": "21 iv. Frank Melbourne ADAMS, born 30 Mar 1896, Douglas County, CO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "12 Apr 1914",
+     "place": "Douglas County, CO",
+     "value": "Married Estella L Kendall on 12 Apr 1914 in Douglas County, CO",
+     "lines": [
+      4464
+     ],
+     "quote": "married Estella L KENDALL, 12 Apr 1914, Douglas County, CO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "30 Jan 1989",
+     "place": "Littleton, Arapahoe County, CO",
+     "value": "Died 30 Jan 1989 in Littleton, CO",
+     "lines": [
+      4465
+     ],
+     "quote": "died 30 Jan 1989, Littleton, Arapahoe",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1941",
+     "place": "Denver, Colorado",
+     "value": "Living in Denver in 1941",
+     "lines": [
+      4436
+     ],
+     "quote": "Reda F. Olsen and Frank M. Adams of Denver, Colorado",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of James Casper Adams",
+     "lines": [
+      4858
+     ],
+     "quote": "21. Frank Melbourne ADAMS (James Casper-3, George Francis-2, Jose Pierre-1) was born on 30 Mar 1896",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "30 Mar 1896",
+     "place": "Douglas County, CO",
+     "value": "Born 30 Mar 1896 in Douglas County, Colorado",
+     "lines": [
+      4858
+     ],
+     "quote": "was born on 30 Mar 1896 in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": "1989",
+     "place": "Cedar Hills Cemetery, Douglas County, CO",
+     "value": "Buried 1989 at Cedar Hills Cemetery, Douglas County",
+     "lines": [
+      4859
+     ],
+     "quote": "He was buried in 1989 at Cedar Hills Cemetery in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "12 Apr 1914",
+     "place": "Douglas County, CO",
+     "value": "Married Estella L Kendall",
+     "lines": [
+      4868
+     ],
+     "quote": "Frank Melbourne ADAMS and Estella L KENDALL were married on 12 Apr 1914 in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Children with Estella L Kendall: Frances L 'Frankie' Adams and Maxine A Adams",
+     "lines": [
+      4872
+     ],
+     "quote": "Frank Melbourne ADAMS and Estella L KENDALL had the following children:",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "kendall_estella_l": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "12 Apr 1914",
+     "place": "Douglas County, CO",
+     "value": "Married Frank Melbourne Adams",
+     "lines": [
+      4464
+     ],
+     "quote": "married Estella L KENDALL, 12 Apr 1914, Douglas County, CO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "12 Apr 1914",
+     "place": "Douglas County, CO",
+     "value": "Married Frank Melbourne Adams",
+     "lines": [
+      4868
+     ],
+     "quote": "Frank Melbourne ADAMS and Estella L KENDALL were married on 12 Apr 1914 in Douglas County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "11 Oct 1895",
+     "place": "Colorado",
+     "value": "Born 11 Oct 1895 in Colorado",
+     "lines": [
+      4869
+     ],
+     "quote": "Estella L KENDALL was born on 11 Oct 1895 in Colorado.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "Mar 1982",
+     "place": "Denver, Denver County, CO",
+     "value": "Died Mar 1982 aged 86 in Denver",
+     "lines": [
+      4869
+     ],
+     "quote": "She died in Mar 1982 at the age of 86 in Denver, Denver County, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hills Cemetery, Castle Rock, CO",
+     "value": "Buried at Cedar Hills Cemetery, Castle Rock",
+     "lines": [
+      4870
+     ],
+     "quote": "She was buried at Cedar Hills Cemetery in Castel Rock, CO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1895",
+     "place": null,
+     "value": "Born 1895 (index lifespan; page 18)",
+     "lines": [
+      5867
+     ],
+     "quote": "Estella L (1895-1982) .. . 18",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1982",
+     "place": null,
+     "value": "Died 1982 (index lifespan)",
+     "lines": [
+      5867
+     ],
+     "quote": "Estella L (1895-1982) .. . 18",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_frances_l_1915": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Frank Melbourne Adams and Estella L Kendall",
+     "lines": [
+      4872
+     ],
+     "quote": "Frank Melbourne ADAMS and Estella L KENDALL had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1915",
+     "place": "Colorado",
+     "value": "Born about 1915 in Colorado",
+     "lines": [
+      4874
+     ],
+     "quote": "i. Frances L \"Frankie\" ADAMS was born about 1915 in Colorado.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "adams_maxine_a": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Frank Melbourne Adams and Estella L Kendall",
+     "lines": [
+      4872
+     ],
+     "quote": "Frank Melbourne ADAMS and Estella L KENDALL had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1920",
+     "place": "Colorado",
+     "value": "Born about 1920 in Colorado",
+     "lines": [
+      4875
+     ],
+     "quote": "ii. Maxine A ADAMS was born about 1920 in Colorado.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "kaempfer_anton": {
+   "facts": [
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Adela J Kaempfer",
+     "lines": [
+      4421
+     ],
+     "quote": "KAEMPEER and Wilhelmina PIERITZ, was born on 2 Mar 1867 in Milwaukee, Wisconsin.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1821",
+     "place": null,
+     "value": "Born 1821 (index lifespan; page 9)",
+     "lines": [
+      5861
+     ],
+     "quote": "Anton (1821-1915) ...9",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1915",
+     "place": null,
+     "value": "Died 1915 (index lifespan)",
+     "lines": [
+      5861
+     ],
+     "quote": "Anton (1821-1915) ...9",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "pieritz_wilhelmina": {
+   "facts": [
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of Adela J Kaempfer",
+     "lines": [
+      4421
+     ],
+     "quote": "KAEMPEER and Wilhelmina PIERITZ, was born on 2 Mar 1867 in Milwaukee, Wisconsin.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1841",
+     "place": null,
+     "value": "Born 1841 (index lifespan; page 9)",
+     "lines": [
+      5926
+     ],
+     "quote": "Wilhelmina (1841-1894) ...9",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1894",
+     "place": null,
+     "value": "Died 1894 (index lifespan)",
+     "lines": [
+      5926
+     ],
+     "quote": "Wilhelmina (1841-1894) ...9",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_henry_eisley": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of George Julius Allen and Alberta Adams",
+     "lines": [
+      4561
+     ],
+     "quote": "George Julius ALLEN and Alberta ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "7 Feb 1893",
+     "place": "Marceline, MO",
+     "value": "Born 7 Feb 1893 in Marceline, MO",
+     "lines": [
+      4571
+     ],
+     "quote": "iii. Henry Eisley ALLEN was born on 7 Feb 1893 in Marceline. MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "5 Mar 1894",
+     "place": "Marceline, MO",
+     "value": "Died 5 Mar 1894 aged 1 in Marceline, MO",
+     "lines": [
+      4571
+     ],
+     "quote": "He died on 5 Mar 1894",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, MO",
+     "value": "Buried at Mt. Olivet Cemetery, Marceline",
+     "lines": [
+      4572
+     ],
+     "quote": "He was buried at Mt. Olivet Cemetery in Marceline, Linn",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_william_laurence": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of George Julius Allen and Alberta Adams",
+     "lines": [
+      4561
+     ],
+     "quote": "George Julius ALLEN and Alberta ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "24 Jun 1895",
+     "place": "Marceline, MO",
+     "value": "Born 24 Jun 1895 in Marceline, MO",
+     "lines": [
+      4575
+     ],
+     "quote": "iv. William Laurence ALLEN was born on 24 Jun 1895 in Marceline. MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "Apr 1896",
+     "place": "Marceline, MO",
+     "value": "Died Apr 1896 in infancy in Marceline, MO",
+     "lines": [
+      4575
+     ],
+     "quote": "He died in Apr",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_marion_lafayette": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Alberta Adams",
+     "lines": [
+      5030
+     ],
+     "quote": "25. Marion Lafayette \"Fay\" ALLEN (Alberta ADAMS-4, John Wesley-3, George Francis-2, Jose Pierre-1)",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "27 May 1900",
+     "place": "Marceline, MO",
+     "value": "Born 27 May 1900 in Marceline, Missouri",
+     "lines": [
+      5031
+     ],
+     "quote": "was born on 27 May 1900 in Marceline. MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "25 Apr 1930",
+     "place": "Garnett, Anderson County, KS",
+     "value": "1930 census: living next door to George J. and Alberta Allen, with wife Muriel, in Garnett, Kansas",
+     "lines": [
+      5031
+     ],
+     "quote": "He appeared in the census on 25 Apr 1930 at house next door to George J. & Alberta Allen, with wife Muriel in Garnett, Anderson County, KS.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "25 Sep 1985",
+     "place": "Salt Lake City, Salt Lake County, Utah",
+     "value": "Died 25 Sep 1985 aged 85 in Salt Lake City",
+     "lines": [
+      5032
+     ],
+     "quote": "He died on 25 Sep 1985 at the age of 85 in Salt Lake City, Salt Lake County, Utah.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "21 Jul 1938",
+     "place": "Chesterton, Porter County, IN",
+     "value": "Married Florence Rose Jiskra",
+     "lines": [
+      5035
+     ],
+     "quote": "Marion Lafayette \"Fay\" ALLEN and Florence Rose JISKRA were married on 21 Jul 1938 in Chesterton, Porter",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Child with Florence Rose Jiskra: Dorothy Ann Allen",
+     "lines": [
+      5039
+     ],
+     "quote": "Marion Lafayette ALLEN and Florence Rose JISKRA had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "bef 1930",
+     "place": null,
+     "value": "Married Muriel (surname not given) before 1930",
+     "lines": [
+      5043,
+      4583
+     ],
+     "quote": "Marion Lafayette \"Fay\" ALLEN and Muriel were married before 1930.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of George Julius Allen and Alberta Adams",
+     "lines": [
+      4561
+     ],
+     "quote": "George Julius ALLEN and Alberta ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "27 May 1900",
+     "place": "Marceline, MO",
+     "value": "Born 27 May 1900 in Marceline, MO",
+     "lines": [
+      4582
+     ],
+     "quote": "25 vi. Marion Lafayette \"Fay\" ALLEN, born 27 May 1900, Marceline. MO;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "21 Jul 1938",
+     "place": "Chesterton, Porter County, IN",
+     "value": "Married Florence Rose Jiskra on 21 Jul 1938 in Chesterton, IN",
+     "lines": [
+      4582
+     ],
+     "quote": "married Florence Rose JISKRA, 21 Jul 1938, Chesterton, Porter County, IN;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "25 Sep 1985",
+     "place": "Salt Lake City, Salt Lake County, Utah",
+     "value": "Died 25 Sep 1985 in Salt Lake City, Utah",
+     "lines": [
+      4584
+     ],
+     "quote": "25 Sep 1985, Salt Lake City, Salt Lake County, Utah.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1953",
+     "place": "Grand Rapids, Mich.",
+     "value": "Living in Grand Rapids, Michigan in 1953; his father died at his home there",
+     "lines": [
+      4543
+     ],
+     "quote": "Marion L. (Fay) Allen, Grand Rapids, Mich.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": "1953",
+     "place": null,
+     "value": "Mr. and Mrs. Marion L. Allen and daughter attended George J. Allen's funeral; Mrs. Williams is named as sister of Mrs. Marion Allen",
+     "lines": [
+      4518
+     ],
+     "quote": "Marion L. Allen and daughter, Grand Rapids, Mich,",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_helen_loraine": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George Julius Allen and Alberta Adams",
+     "lines": [
+      4561
+     ],
+     "quote": "George Julius ALLEN and Alberta ADAMS had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "12 Mar 1902",
+     "place": "Marceline, MO",
+     "value": "Born 12 Mar 1902 in Marceline, MO",
+     "lines": [
+      4586
+     ],
+     "quote": "vii. Helen Loraine ALLEN was born on 12 Mar 1902 in Marceline. MO.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "26 Sep 1903",
+     "place": "Marceline, MO",
+     "value": "Died 26 Sep 1903 aged 1 in Marceline, MO",
+     "lines": [
+      4586
+     ],
+     "quote": "She died on 26 Sep",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, MO",
+     "value": "Buried at Mt. Olivet Cemetery, Marceline",
+     "lines": [
+      4587
+     ],
+     "quote": "She was buried at Mt. Olivet Cemetery in",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "muriel_wife_of_fay_allen": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "bef 1930",
+     "place": null,
+     "value": "Married Marion Lafayette \"Fay\" Allen before 1930",
+     "lines": [
+      4583
+     ],
+     "quote": "married Muriel , bef 1930;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "bef 1930",
+     "place": null,
+     "value": "Married Marion Lafayette 'Fay' Allen before 1930",
+     "lines": [
+      5043
+     ],
+     "quote": "Marion Lafayette \"Fay\" ALLEN and Muriel were married before 1930.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1908",
+     "place": "Minnesota",
+     "value": "Born about 1908 in Minnesota",
+     "lines": [
+      5043
+     ],
+     "quote": "Muriel was born about 1908 in Minnesota.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "25 Apr 1930",
+     "place": "Garnett, Anderson County, KS",
+     "value": "Living in Garnett, Kansas with husband Fay at the 1930 census",
+     "lines": [
+      5032
+     ],
+     "quote": "with wife Muriel in Garnett, Anderson County, KS.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "jiskra_florence_rose": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "21 Jul 1938",
+     "place": "Chesterton, Porter County, IN",
+     "value": "Married Marion Lafayette \"Fay\" Allen",
+     "lines": [
+      4582
+     ],
+     "quote": "married Florence Rose JISKRA, 21 Jul 1938, Chesterton, Porter County, IN;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "21 Jul 1938",
+     "place": "Chesterton, Porter County, IN",
+     "value": "Married Marion Lafayette 'Fay' Allen",
+     "lines": [
+      5035
+     ],
+     "quote": "Marion Lafayette \"Fay\" ALLEN and Florence Rose JISKRA were married on 21 Jul 1938 in Chesterton, Porter",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Joseph Jiskra and Annastasia S Dvorak",
+     "lines": [
+      5036
+     ],
+     "quote": "Florence Rose JISKRA, daughter of Joseph JISKRA and Annastasia S DVORAK, was born on 23",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "23 Jun 1908",
+     "place": "Chicago, IL",
+     "value": "Born 23 Jun 1908 in Chicago",
+     "lines": [
+      5037
+     ],
+     "quote": "Jun 1908 in Chicago, IL.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "22 Aug 1980",
+     "place": "Ventura, Ventura County, CA",
+     "value": "Died 22 Aug 1980 aged 72 in Ventura, California",
+     "lines": [
+      5037
+     ],
+     "quote": "She died on 22 Aug 1980 at the age of 72 in Ventura, Ventura County, CA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1908",
+     "place": null,
+     "value": "Born 1908 (index lifespan; page 21)",
+     "lines": [
+      5853
+     ],
+     "quote": "Florence Rose (1908-1980)... 21",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1980",
+     "place": null,
+     "value": "Died 1980 (index lifespan)",
+     "lines": [
+      5853
+     ],
+     "quote": "Florence Rose (1908-1980)... 21",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_dorothy_ann_1943": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Marion Lafayette Allen and Florence Rose Jiskra",
+     "lines": [
+      5039
+     ],
+     "quote": "Marion Lafayette ALLEN and Florence Rose JISKRA had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "27 Oct 1943",
+     "place": null,
+     "value": "Born 27 Oct 1943",
+     "lines": [
+      5040,
+      5415
+     ],
+     "quote": "38 i. Dorothy Ann ALLEN, born 27 Oct 1943; married Stephen Max LARKIN, 30 Apr 1965, St",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "30 Apr 1965",
+     "place": "St George, Washington County, UT",
+     "value": "Married Stephen Max Larkin",
+     "lines": [
+      5040
+     ],
+     "quote": "married Stephen Max LARKIN, 30 Apr 1965, St George, Washington County, UT.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Marion Lafayette Allen (gen 5, son of Alberta Adams)",
+     "lines": [
+      5414
+     ],
+     "quote": "38. Dorothy Ann ALLEN (Marion Lafayette-5, Alberta ADAMS-4, John Wesley-3, George Francis-2, Jose",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "30 Apr 1965",
+     "place": "St George, Washington County, UT",
+     "value": "Married Stephen Max Larkin on 30 Apr 1965 in St George, Washington County, UT",
+     "lines": [
+      5417
+     ],
+     "quote": "Dorothy Ann ALLEN and Stephen Max LARKIN were married on 30 Apr 1965 in St George, Washington",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "larkin_stephen_max": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "30 Apr 1965",
+     "place": "St George, Washington County, UT",
+     "value": "Married Dorothy Ann Allen",
+     "lines": [
+      5417
+     ],
+     "quote": "Dorothy Ann ALLEN and Stephen Max LARKIN were married on 30 Apr 1965 in St George, Washington",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "abt 1944",
+     "place": null,
+     "value": "Born about 1944",
+     "lines": [
+      5418
+     ],
+     "quote": "County, UT. Stephen Max LARKIN was born about 1944.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1944",
+     "place": null,
+     "value": "Born 1944 (index lifespan; page 29)",
+     "lines": [
+      5882
+     ],
+     "quote": "Stephen Max (1944— )...29",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "billingslea_harold_emerson": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "11 Jun 1913",
+     "place": null,
+     "value": "Married Bernice Allen",
+     "lines": [
+      4567
+     ],
+     "quote": "married Harold Emerson BILLINGSLEA, 11 Jun 1913;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "spouse",
+     "date": "11 Jun 1913",
+     "place": null,
+     "value": "Married Bernice Allen",
+     "lines": [
+      4914
+     ],
+     "quote": "Bernice ALLEN and Harold Emerson BILLINGSLEA were married on 11 Jun 1913.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "4 Nov 1888",
+     "place": "Keokuk, IA",
+     "value": "Born 4 Nov 1888 in Keokuk, Iowa",
+     "lines": [
+      4915
+     ],
+     "quote": "BILLINGSLEA was born on 4 Nov 1888 in Keokuk, IA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "12 Jun 1978",
+     "place": "Potter County, TX",
+     "value": "Died 12 Jun 1978 aged 89 in Potter County, Texas",
+     "lines": [
+      4915
+     ],
+     "quote": "He died on 12 Jun 1978 at the age of 89 in Potter County, TX.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "billingslea_frances_fern": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Harold Emerson Billingslea and Bernice Allen",
+     "lines": [
+      4918
+     ],
+     "quote": "Harold Emerson BILLINGSLEA and Bernice ALLEN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "5 May 1915",
+     "place": "Kansas",
+     "value": "Born 5 May 1915 in Kansas",
+     "lines": [
+      4920,
+      5292
+     ],
+     "quote": "34 i. Frances Fern BILLINGSLEA, born 5 May 1915, Kansas; married Rev. Howard E.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Rev. Howard E. Scott",
+     "lines": [
+      4920,
+      5295
+     ],
+     "quote": "married Rev. Howard E. SCOTT",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "27 Dec 1969",
+     "place": "Johnson County, Texas",
+     "value": "Died 27 Dec 1969 in Johnson County, Texas",
+     "lines": [
+      4921
+     ],
+     "quote": "SCOTT; died 27 Dec 1969, Johnson County, Texas.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Bernice Allen",
+     "lines": [
+      5291
+     ],
+     "quote": "34. Frances Fern BILLINGSLEA (Bernice ALLEN-5, Alberta ADAMS-4, John Wesley-3, George Francis-",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "27 Dec 1969",
+     "place": "Johnson County, Texas",
+     "value": "Died 27 Dec 1969 at age 54 in Johnson County, Texas",
+     "lines": [
+      5292
+     ],
+     "quote": "She died on 27 Dec 1969 at the age of 54 in Johnson",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Rosehill Cemetery, Cleburne, Johnson County, Texas",
+     "value": "Buried at Rosehill Cemetery in Cleburne, Johnson County, Texas",
+     "lines": [
+      5293
+     ],
+     "quote": "She was buried at Rosehill Cemetery in Cleburne, Johnson County, Texas.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Daughter Bernice Elizabeth Scott",
+     "lines": [
+      5300
+     ],
+     "quote": "i. Bernice Elizabeth SCOTT was born on 24 May 1939 in Potter County, TX.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "scott_howard_e": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Frances Fern Billingslea",
+     "lines": [
+      5295
+     ],
+     "quote": "Frances Fern BILLINGSLEA and Rev. Howard E. SCOTT were married.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": null,
+     "value": "Given the title Rev. (clergyman)",
+     "lines": [
+      5295
+     ],
+     "quote": "Rev. Howard E. SCOTT",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "10 Dec 1910",
+     "place": "Texas",
+     "value": "Born 10 Dec 1910 in Texas",
+     "lines": [
+      5296
+     ],
+     "quote": "on 10 Dec 1910 in Texas.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "27 Dec 1969",
+     "place": "Johnson County, Texas",
+     "value": "Died 27 Dec 1969 at age 59 in Johnson County, Texas (same death date as his wife as written)",
+     "lines": [
+      5296
+     ],
+     "quote": "He died on 27 Dec 1969 at the age of 59 in Johnson County, Texas.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Daughter Bernice Elizabeth Scott",
+     "lines": [
+      5298
+     ],
+     "quote": "Howard E. SCOTT and Frances Fern BILLINGSLEA had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1910",
+     "place": null,
+     "value": "Born 1910 (index lifespan; page 27)",
+     "lines": [
+      5940
+     ],
+     "quote": "Rev. Howard E. (1910-1969) ...27",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1969",
+     "place": null,
+     "value": "Died 1969 (index lifespan)",
+     "lines": [
+      5940
+     ],
+     "quote": "Rev. Howard E. (1910-1969) ...27",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": null,
+     "value": "Clergyman (index gives the title 'Rev.')",
+     "lines": [
+      5940
+     ],
+     "quote": "Rev. Howard E. (1910-1969) ...27",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "scott_bernice_elizabeth": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Howard E. Scott and Frances Fern Billingslea",
+     "lines": [
+      5298
+     ],
+     "quote": "Howard E. SCOTT and Frances Fern BILLINGSLEA had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "24 May 1939",
+     "place": "Potter County, TX",
+     "value": "Born 24 May 1939 in Potter County, TX",
+     "lines": [
+      5300
+     ],
+     "quote": "i. Bernice Elizabeth SCOTT was born on 24 May 1939 in Potter County, TX.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1939",
+     "place": null,
+     "value": "Born 1939 (index lifespan; page 27)",
+     "lines": [
+      5938
+     ],
+     "quote": "Bernice Elizabeth (1939- )...27",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "billingslea_doris_alberta": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Harold Emerson Billingslea and Bernice Allen",
+     "lines": [
+      4918
+     ],
+     "quote": "Harold Emerson BILLINGSLEA and Bernice ALLEN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "8 Jun 1916",
+     "place": "Kansas",
+     "value": "Born 8 Jun 1916 in Kansas",
+     "lines": [
+      4922
+     ],
+     "quote": "ii. Doris Alberta BILLINGSLEA was born on 8 Jun 1916 in Kansas.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "billingslea_ruth_virginia": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Harold Emerson Billingslea and Bernice Allen",
+     "lines": [
+      4918
+     ],
+     "quote": "Harold Emerson BILLINGSLEA and Bernice ALLEN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "14 Mar 1920",
+     "place": "Missouri",
+     "value": "Born 14 Mar 1920 in Missouri",
+     "lines": [
+      4923,
+      5303
+     ],
+     "quote": "35 iii. Ruth Virginia BILLINGSLEA, born 14 Mar 1920, Missouri; married Fred Clark",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Fred Clark Wagner",
+     "lines": [
+      4923,
+      5305
+     ],
+     "quote": "married Fred Clark WAGNER.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Bernice Allen",
+     "lines": [
+      5302
+     ],
+     "quote": "35. Ruth Virginia BILLINGSLEA (Bernice ALLEN-5, Alberta ADAMS-4, John Wesley-3, George Francis-",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "wagner_fred_clark": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Ruth Virginia Billingslea",
+     "lines": [
+      5305
+     ],
+     "quote": "Ruth Virginia BILLINGSLEA and Fred Clark WAGNER were married.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown",
+     "lines": [
+      5306
+     ],
+     "quote": "(date unknown).",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under WAGNER, page 27, no dates",
+     "lines": [
+      6005
+     ],
+     "quote": "Fred Clark ( — )...27",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "billingslea_harold_emerson_jr": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Harold Emerson Billingslea and Bernice Allen",
+     "lines": [
+      4918
+     ],
+     "quote": "Harold Emerson BILLINGSLEA and Bernice ALLEN had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "9 Sep 1928",
+     "place": "Potter County, TX",
+     "value": "Born 9 Sep 1928 in Potter County, Texas",
+     "lines": [
+      4925
+     ],
+     "quote": "iv. Harold Emerson BILLINGSLEA Jr was born on 9 Sep 1928 in Potter County, TX.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_barbara_1934": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Ralph Kenneth Allen and Zella Campbell Whitman",
+     "lines": [
+      5082
+     ],
+     "quote": "Ralph Kenneth ALLEN and Zella Campbell WHITMAN had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "10 Dec 1934",
+     "place": null,
+     "value": "Born 10 Dec 1934",
+     "lines": [
+      5084
+     ],
+     "quote": "i. Barbara ALLEN was born on 10 Dec 1934.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_judith": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Ralph Kenneth Allen and Irene Louisa Smith",
+     "lines": [
+      5088
+     ],
+     "quote": "Ralph Kenneth ALLEN and Irene Louisa SMITH had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "6 Jul 1938",
+     "place": "Portland, Multnomah County, OR",
+     "value": "Born 6 Jul 1938 in Portland, Oregon",
+     "lines": [
+      5090
+     ],
+     "quote": "i. Judith ALLEN was born on 6 Jul 1938 in Portland, Multnomah County, OR.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "26 Feb 2000",
+     "place": "Port Townsend, WA",
+     "value": "Died 26 Feb 2000 aged 61 in Port Townsend, Washington",
+     "lines": [
+      5090
+     ],
+     "quote": "She died on 26 i Feb 2000 at the age of 61 in Port Townsend, WA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": "Moorpark, CA",
+     "value": "Taught English at Moorpark College in southern California",
+     "lines": [
+      5102
+     ],
+     "quote": "At the time, she was teaching English (like her father) at Moorpark College in southern California.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "story",
+     "date": null,
+     "place": "Moorpark, CA",
+     "value": "The preparer calls Judy his pal and 'second Mom'; when his parents were having difficulties he would drive to her place in Moorpark, and she always knew what to say.",
+     "lines": [
+      5098
+     ],
+     "quote": "Judith and I were pals.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_ralph_kenneth_jr": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Ralph Kenneth Allen and Irene Louisa Smith",
+     "lines": [
+      5088
+     ],
+     "quote": "Ralph Kenneth ALLEN and Irene Louisa SMITH had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "11 Jan 1943",
+     "place": "Portland, Multnomah County, OR",
+     "value": "Born 11 Jan 1943 in Portland, Oregon",
+     "lines": [
+      5115
+     ],
+     "quote": "ii. Ralph Kenneth ALLEN Jr was born on 11 Jan 1943 in Portland, Multnomah County, OR.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Wrote the poem 'A Wanderer & Traveler', reproduced in the document (poem text not extracted)",
+     "lines": [
+      5117
+     ],
+     "quote": "A Wanderer & Traveler",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_edward_george": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Ralph Kenneth Allen and Irene Louisa Smith",
+     "lines": [
+      5088
+     ],
+     "quote": "Ralph Kenneth ALLEN and Irene Louisa SMITH had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "8 Oct 1946",
+     "place": "Portland, Multnomah County, OR",
+     "value": "Born 8 Oct 1946 in Portland, Oregon",
+     "lines": [
+      5150
+     ],
+     "quote": "iii, Edward George ALLEN was born on 8 Oct 1946 in Portland, Multnomah County, OR.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "career",
+     "date": null,
+     "place": "New Zealand; Utah",
+     "value": "Principal Horn of the New Zealand Symphony Orchestra for many years, retiring in 2009; earlier with the Utah Symphony Orchestra",
+     "lines": [
+      5151
+     ],
+     "quote": "Before retiring in 2009, Ed was Principle Horn in the New Zealand",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_gerald_franklin": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Leroy Gaylord Allen and Gladys Eberhart",
+     "lines": [
+      5177
+     ],
+     "quote": "Leroy Gaylord ALLEN and Gladys EBERHART had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "30 Jun 1935",
+     "place": "New Haven, New Haven County, CT",
+     "value": "Born 30 Jun 1935 in New Haven, Connecticut",
+     "lines": [
+      5182
+     ],
+     "quote": "39 ii. Gerald Franklin ALLEN, born 30 Jun 1935, New Haven, New Haven, CT; married Lois",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "8 Jun 1960",
+     "place": "Hartington, NE",
+     "value": "Married Lois June Peterson",
+     "lines": [
+      5182
+     ],
+     "quote": "married Lois June PETERSON, 8 Jun 1960, Hartington, NE;",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "29 Oct 1985",
+     "place": "Claremont, Los Angeles County, CA",
+     "value": "Died 29 Oct 1985 in Claremont, California",
+     "lines": [
+      5183
+     ],
+     "quote": "died 29 Oct 1985, Claremont, Los Angeles, CA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Leroy Gaylord Allen",
+     "lines": [
+      5420
+     ],
+     "quote": "39. Gerald Franklin ALLEN (Leroy Gaylord-5, Alberta ADAMS-4, John Wesley-3, George Francis-2, Jose",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "30 Jun 1935",
+     "place": "New Haven, New Haven, CT",
+     "value": "Born 30 Jun 1935 in New Haven, CT",
+     "lines": [
+      5421
+     ],
+     "quote": "Pierre-1) was born on 30 Jun 1935 in New Haven, New Haven, CT.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "29 Oct 1985",
+     "place": "Claremont, Los Angeles, CA",
+     "value": "Died of a brain tumor on 29 Oct 1985 at age 50 in Claremont, Los Angeles, CA",
+     "lines": [
+      5421
+     ],
+     "quote": "He died of a brain tumor on 29 Oct 1985 at",
+     "certainty": "clear"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Eastlawn Cemetery, Tucson, AZ",
+     "value": "Buried at Eastlawn Cemetery in Tucson, AZ",
+     "lines": [
+      5422
+     ],
+     "quote": "He was buried at Eastlawn Cemetery in Tuscon, AZ.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "marriage",
+     "date": "8 Jun 1960",
+     "place": "Hartington, NE",
+     "value": "Married Lois June Peterson on 8 Jun 1960 in Hartington, NE",
+     "lines": [
+      5424
+     ],
+     "quote": "Gerald Franklin ALLEN and Lois June PETERSON were married on 8 Jun 1960 in Hartington, NE.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "peterson_lois_june": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "8 Jun 1960",
+     "place": "Hartington, NE",
+     "value": "Married Gerald Franklin Allen",
+     "lines": [
+      5424
+     ],
+     "quote": "Gerald Franklin ALLEN and Lois June PETERSON were married on 8 Jun 1960 in Hartington, NE.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "2 Jun 1936",
+     "place": "Hartington, Cedar County, NE",
+     "value": "Born 2 Jun 1936 in Hartington, Cedar County, NE",
+     "lines": [
+      5425
+     ],
+     "quote": "PETERSON was born on 2 Jun 1936 in Hartington, Cedar County, NE.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1936",
+     "place": null,
+     "value": "Born 1936 (index lifespan; page 29)",
+     "lines": [
+      5920
+     ],
+     "quote": "Lois June (1936— )...29",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "allen_william_rolland": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Leroy Gaylord Allen and Gladys Eberhart",
+     "lines": [
+      5177
+     ],
+     "quote": "Leroy Gaylord ALLEN and Gladys EBERHART had the following children:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "28 Nov 1929",
+     "place": null,
+     "value": "Born 28 Nov 1929",
+     "lines": [
+      5178
+     ],
+     "quote": "i. William Rolland ALLEN was born on 28 Nov 1929.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "11 Mar 1933",
+     "place": null,
+     "value": "Died 11 Mar 1933 (age at death garbled in OCR)",
+     "lines": [
+      5178
+     ],
+     "quote": "He died on 11 Mar 1933 at the age of ... a.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "charters_william_allen": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of John Dixon Charters and Frances Rosetta Allen",
+     "lines": [
+      4903
+     ],
+     "quote": "John Dixon CHARTERS and Frances Rosetta ALLEN had the following child:",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "14 Apr 1933",
+     "place": "Ashton, Lee County, IL",
+     "value": "Born 14 Apr 1933 in Ashton, Illinois",
+     "lines": [
+      4905
+     ],
+     "quote": "i. William Allen CHARTERS was born on 14 Apr 1933 in Ashton, Lee County, IL.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "birth",
+     "date": "1933",
+     "place": null,
+     "value": "Born 1933 (index lifespan; page 19)",
+     "lines": [
+      5783
+     ],
+     "quote": "William Allen (1933— )...19",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "lane_john_s": {
+   "facts": [
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Cynthia Lane",
+     "lines": [
+      4086,
+      6956
+     ],
+     "quote": "Cynthia LANE, daughter of John S. LANE,",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": null,
+     "place": "Chariton County, MO",
+     "value": "Removed from Kentucky to Chariton County, MO, where he died (1898 biography calls him John Lane)",
+     "lines": [
+      4343
+     ],
+     "quote": "father, John Lane, removed from Kentucky to Chariton County, Mo., where he died.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under LANE, page 3, no dates",
+     "lines": [
+      5878
+     ],
+     "quote": "John S.( — )...3",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": null,
+     "place": "Kentucky; Chariton County, Missouri",
+     "value": "Moved from Kentucky to Chariton County, Missouri.",
+     "lines": [
+      6957
+     ],
+     "quote": "father, John Lane, removed from Kentucky to Chariton\nCounty, Mo., where he died.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": null,
+     "place": "Chariton County, Missouri",
+     "value": "Died in Chariton County, Missouri.",
+     "lines": [
+      6958
+     ],
+     "quote": "County, Mo., where he died.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "military",
+     "date": "1851",
+     "place": "Missouri",
+     "value": "Granted a land warrant in 1851 for service in the Missouri Volunteers, probably in Indian or Mormon conflicts.",
+     "lines": [
+      7090
+     ],
+     "quote": "land warrant granted to his father-in-law, John S. Lane, in 1851 for\nhis service in the Missouri Volunteers, probably in Indian or Mormon\nconflicts.",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "hamilton_thomas": {
+   "facts": [
+    {
+     "kind": "other",
+     "date": "1836",
+     "place": null,
+     "value": "His will (written 1830) was executed by his brother-in-law Jose P. Adams in 1836; it names George as minor son of Jose P. Adams",
+     "lines": [
+      3999
+     ],
+     "quote": "brother-in-law, Thomas Hamilton in 1836.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Francis HAMILTON (#158)",
+     "lines": [
+      9244
+     ],
+     "quote": "158.3 Thomas HAMILTON d. c1834, VA",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "abt 1834",
+     "place": "Jefferson Co., VA",
+     "value": "Died about 1834 in Jefferson Co., VA; estate appraised 12 Apr 1834",
+     "lines": [
+      9655
+     ],
+     "quote": "158.3 Thomas HAMILTON d. c1834, Jefferson Co., VA.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": "1799",
+     "place": null,
+     "value": "Received from his uncle the remainder of the slaves held by his brother John Alexander",
+     "lines": [
+      9655
+     ],
+     "quote": "Thomas received from his uncle in 1799, the remainder of the Negroes now in the possession of his brother John Alexander.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": "12 Apr 1834",
+     "place": null,
+     "value": "Estate appraisal named Jose P. and William ADAMS; final account filed May 1836 by the administrator Jose P. ADAMS, his brother-in-law",
+     "lines": [
+      9657
+     ],
+     "quote": "His estate was appraised on 12 Apr 1834. Named in the appraisal was Jose P. and William ADAMS.",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": "3 May 1830",
+     "place": null,
+     "value": "Named as Uncle in the will of Francis A. HAMILTON",
+     "lines": [
+      9695
+     ],
+     "quote": "Uncle: Thomas HAMILTON",
+     "certainty": "clear"
+    }
+   ]
+  },
+  "wheeler_melvin": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "1897",
+     "place": null,
+     "value": "Born 1897 (index lifespan; page 28)",
+     "lines": [
+      6013
+     ],
+     "quote": "Melvin (1897-1961) . . . 28",
+     "certainty": "clear"
+    },
+    {
+     "kind": "death",
+     "date": "1961",
+     "place": null,
+     "value": "Died 1961 (index lifespan)",
+     "lines": [
+      6013
+     ],
+     "quote": "Melvin (1897-1961) . . . 28",
+     "certainty": "clear"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Father of Dorothy Ann Wheeler",
+     "lines": [
+      6411
+     ],
+     "quote": "The bride who is: the daughter of | Mr. and Mrs. Melvin Wheeler",
+     "certainty": "clear"
+    },
+    {
+     "kind": "residence",
+     "date": "1944",
+     "place": "Sioux Falls",
+     "value": "Lived in Sioux Falls in 1944",
+     "lines": [
+      6412
+     ],
+     "quote": "Mr. and Mrs. Melvin Wheeler, 1715) South Ninth ave., is one of Sioux Falls",
+     "certainty": "clear"
+    },
+    {
+     "kind": "other",
+     "date": "May 1944",
+     "place": null,
+     "value": "Walked his daughter down the aisle at her wedding",
+     "lines": [
+      6314
+     ],
+     "quote": "the lovely bride who came dowh! the aisle on the arm of her father",
+     "certainty": "clear"
+    }
+   ]
+  }
+ }
+}

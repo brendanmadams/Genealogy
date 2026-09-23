@@ -1,0 +1,44 @@
+{
+  "id": "adams_mary_susan",
+  "name": "Mary Susan Adams (Jones)",
+  "birth": "4 Dec 1873",
+  "death": "3 Dec 1943",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [
+    "Mary Susan and her brother Charles both ended up under psychiatric care. She is listed as a patient at 'The Retreat' in Des Moines in the 1930 census, and was probably a resident there by 1925 since her husband was then living alone in a boarding house; it is unclear whether she was ever released."
+  ],
+  "risk_events": [],
+  "milestones": [
+    "Born 4 Dec 1873, Chariton County, MO",
+    "Died 3 Dec 1943, Des Moines, Boone, IA",
+    "Died 3 Dec 1943, Des Moines, IA",
+    "Reeves is listed as divorced in the 1930 census",
+    "Married Reeves H. Jones (m. 24 May 1899, Chariton County, Missouri)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "vantine_mary_frances",
+    "father": "adams_john_wesley",
+    "siblings": [],
+    "spouse": "jones_reeves_h",
+    "children": [
+      "jones_virginia_ruth"
+    ]
+  },
+  "locations": [
+    "Chariton County, MO",
+    "Des Moines, Boone, IA",
+    "Des Moines, IA",
+    "The Retreat, Des Moines, IA"
+  ],
+  "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+  ],
+  "notes": [],
+  "aliases": [
+    "Susie Adams"
+  ]
+}

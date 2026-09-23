@@ -1,0 +1,35 @@
+{
+  "id": "adams_olie",
+  "name": "Olie Adams",
+  "birth": "8 Mar 1883",
+  "death": "21 Apr 1945",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Born 8 Mar 1883, Frankfort, Marshall County, Kansas",
+    "Died 21 Apr 1945, Kansas City, Jackson County, MO"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "martin_mary_louisa",
+    "father": "adams_alexander_william_col",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Frankfort, Marshall County, Kansas",
+    "Kansas City, Jackson County, MO"
+  ],
+  "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+  ],
+  "notes": [],
+  "aliases": [
+    "Ollie Adams"
+  ]
+}

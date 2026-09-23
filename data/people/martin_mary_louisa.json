@@ -17,12 +17,20 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "devaw_louisa_woods",
+    "father": "martin_kaleb",
     "siblings": [],
     "spouse": "adams_alexander_william_col",
     "children": [
-      "adams_caleb_martin"
+      "adams_caleb_martin",
+      "adams_loula",
+      "adams_willie_may",
+      "adams_homer_clarence",
+      "adams_frank_1879",
+      "adams_fred_j",
+      "adams_olie",
+      "adams_george_f_1887",
+      "adams_grace"
     ]
   },
   "locations": [
