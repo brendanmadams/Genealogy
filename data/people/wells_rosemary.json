@@ -1,6 +1,6 @@
 {
   "id": "wells_rosemary",
-  "name": "Rosemary Wells",
+  "name": "Rosemary Wells (O'Dell)",
   "birth": "~1916",
   "death": "",
   "personality": [],
@@ -17,9 +17,9 @@
     "mother": "",
     "father": "wells_arthur",
     "siblings": [],
-    "spouse": "ralph_husband_of_rosemary_wells",
+    "spouse": "odell_ralph",
     "children": [
-      "morgan_louise"
+      "odell_louise"
     ]
   },
   "locations": [

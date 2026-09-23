@@ -1,6 +1,6 @@
 {
-  "id": "morgan_louise",
-  "name": "Louise Morgan",
+  "id": "odell_louise",
+  "name": "Louise O'Dell (Morgan)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -13,7 +13,7 @@
   "career": [],
   "relationships": {
     "mother": "wells_rosemary",
-    "father": "ralph_husband_of_rosemary_wells",
+    "father": "odell_ralph",
     "siblings": [],
     "spouse": "",
     "children": [
@@ -25,7 +25,9 @@
     "Brendan Adams, 2026-09-22"
   ],
   "notes": [
-    "Daughter of Rosemary Wells and Ralph. Goes by Louise Morgan, her husband's surname; her maiden name (Ralph's surname) is not recorded. Not the same person as the DNA match Louise Craig (confirmed by Brendan Adams)."
+    "Daughter of Rosemary Wells and Ralph. Goes by Louise Morgan, her husband's surname; her maiden name is O'Dell. Not the same person as the DNA match Louise Craig (confirmed by Brendan Adams)."
   ],
-  "aliases": []
+  "aliases": [
+    "Louise Morgan"
+  ]
 }

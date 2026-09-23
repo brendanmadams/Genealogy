@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T02:14:44.493Z",
+  "generated": "2026-09-23T02:22:06.325Z",
   "people": 294,
   "family_members": 243,
   "dna_matches": 51,
@@ -13698,61 +13698,6 @@
    ]
   },
   {
-   "id": "morgan_louise",
-   "name": "Louise Morgan",
-   "aliases": [],
-   "photo": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "branch": "other",
-   "branch_by_marriage": false,
-   "lineages": [],
-   "adopted": false,
-   "father": "ralph_husband_of_rosemary_wells",
-   "mother": "wells_rosemary",
-   "parents": [
-    "ralph_husband_of_rosemary_wells",
-    "wells_rosemary"
-   ],
-   "spouses": [],
-   "children": [
-    "morgan_scott"
-   ],
-   "siblings": [],
-   "families": [
-    "F_morgan_louise"
-   ],
-   "parent_family": "F_ralph_husband_of_rosemary_wells+wells_rosemary",
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams, 2026-09-22"
-   ],
-   "notes": [
-    "Daughter of Rosemary Wells and Ralph. Goes by Louise Morgan, her husband's surname; her maiden name (Ralph's surname) is not recorded. Not the same person as the DNA match Louise Craig (confirmed by Brendan Adams)."
-   ]
-  },
-  {
    "id": "morgan_scott",
    "name": "Scott Morgan",
    "aliases": [],
@@ -13774,15 +13719,15 @@
    "lineages": [],
    "adopted": false,
    "father": null,
-   "mother": "morgan_louise",
+   "mother": "odell_louise",
    "parents": [
-    "morgan_louise"
+    "odell_louise"
    ],
    "spouses": [],
    "children": [],
    "siblings": [],
    "families": [],
-   "parent_family": "F_morgan_louise",
+   "parent_family": "F_odell_louise",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -13967,6 +13912,119 @@
    ],
    "notes": [
     "Wife of Peter Kolb. Source: Irmagene Kulp Zacher, Kulp Family Lineage."
+   ]
+  },
+  {
+   "id": "odell_louise",
+   "name": "Louise O'Dell (Morgan)",
+   "aliases": [
+    "Louise Morgan"
+   ],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "odell_ralph",
+   "mother": "wells_rosemary",
+   "parents": [
+    "odell_ralph",
+    "wells_rosemary"
+   ],
+   "spouses": [],
+   "children": [
+    "morgan_scott"
+   ],
+   "siblings": [],
+   "families": [
+    "F_odell_louise"
+   ],
+   "parent_family": "F_odell_ralph+wells_rosemary",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Daughter of Rosemary Wells and Ralph. Goes by Louise Morgan, her husband's surname; her maiden name is O'Dell. Not the same person as the DNA match Louise Craig (confirmed by Brendan Adams)."
+   ]
+  },
+  {
+   "id": "odell_ralph",
+   "name": "Ralph O'Dell",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "wells_rosemary"
+   ],
+   "children": [
+    "odell_louise"
+   ],
+   "siblings": [],
+   "families": [
+    "F_odell_ralph+wells_rosemary"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "adams_direct_line_summary_v1",
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "CORRECTION 2026-09-22: Previously recorded as \"Ralph Simons\", a brother of Beryl Simons Adams (from the Adams direct-line summary). Brendan Adams confirms Ralph was not a Simons: he was the husband of Rosemary Wells, on the Adams side. Surname not recorded.",
+    "Surname O'Dell per Brendan Adams, 2026-09-22. Husband of Rosemary Wells."
    ]
   },
   {
@@ -14771,61 +14829,6 @@
    "notes": [
     "DNA match #36 on Simons branch. Hypothesis corrected.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
-   ]
-  },
-  {
-   "id": "ralph_husband_of_rosemary_wells",
-   "name": "Ralph",
-   "aliases": [],
-   "photo": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "branch": "other",
-   "branch_by_marriage": false,
-   "lineages": [],
-   "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "spouses": [
-    "wells_rosemary"
-   ],
-   "children": [
-    "morgan_louise"
-   ],
-   "siblings": [],
-   "families": [
-    "F_ralph_husband_of_rosemary_wells+wells_rosemary"
-   ],
-   "parent_family": null,
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "adams_direct_line_summary_v1",
-    "Brendan Adams, 2026-09-22"
-   ],
-   "notes": [
-    "CORRECTION 2026-09-22: Previously recorded as \"Ralph Simons\", a brother of Beryl Simons Adams (from the Adams direct-line summary). Brendan Adams confirms Ralph was not a Simons: he was the husband of Rosemary Wells, on the Adams side. Surname not recorded."
    ]
   },
   {
@@ -19072,7 +19075,7 @@
   },
   {
    "id": "wells_rosemary",
-   "name": "Rosemary Wells",
+   "name": "Rosemary Wells (O'Dell)",
    "aliases": [],
    "photo": null,
    "media": [],
@@ -19097,14 +19100,14 @@
     "wells_arthur"
    ],
    "spouses": [
-    "ralph_husband_of_rosemary_wells"
+    "odell_ralph"
    ],
    "children": [
-    "morgan_louise"
+    "odell_louise"
    ],
    "siblings": [],
    "families": [
-    "F_ralph_husband_of_rosemary_wells+wells_rosemary"
+    "F_odell_ralph+wells_rosemary"
    ],
    "parent_family": "F_wells_arthur",
    "connected": true,
@@ -21034,12 +21037,23 @@
    "marriage": null
   },
   {
-   "id": "F_morgan_louise",
+   "id": "F_odell_louise",
    "partners": [
-    "morgan_louise"
+    "odell_louise"
    ],
    "children": [
     "morgan_scott"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_odell_ralph+wells_rosemary",
+   "partners": [
+    "odell_ralph",
+    "wells_rosemary"
+   ],
+   "children": [
+    "odell_louise"
    ],
    "marriage": null
   },
@@ -21064,17 +21078,6 @@
     "quinn_joan",
     "quinn_john_jr",
     "quinn_pat"
-   ],
-   "marriage": null
-  },
-  {
-   "id": "F_ralph_husband_of_rosemary_wells+wells_rosemary",
-   "partners": [
-    "ralph_husband_of_rosemary_wells",
-    "wells_rosemary"
-   ],
-   "children": [
-    "morgan_louise"
    ],
    "marriage": null
   },
