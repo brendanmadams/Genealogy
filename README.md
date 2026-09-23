@@ -14,7 +14,7 @@ An interactive family history site for the whole family, published with GitHub P
 | `data/people/*.json` | **The source of truth.** One record per person. Edit these, then rebuild. |
 | `data/branches.json` | Family lines (Adams, McKeldin, Kulp, …), their colours, and the earliest known ancestor that seeds each line. |
 | `data/family.json` | Generated. People, family units, and branches in one file for the site to load. |
-| `scripts/build.js` | Validates the records and generates the files above. |
+| `scripts/build.js` | Validates the records, generates the files above, and stamps `index.html` with a version code for each script and the stylesheet so browsers pick up changes right away. Run it after editing code too. |
 | `scripts/fix-*.js` | Dated, re-runnable data corrections, kept so the reasoning is on record. |
 
 ## Editing a person

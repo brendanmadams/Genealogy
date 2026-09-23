@@ -343,3 +343,23 @@ if (CHECK_ONLY) { console.log('\ncheck only; nothing written'); process.exit(0);
 // ── Write ──────────────────────────────────────────────────────────────────
 fs.writeFileSync(path.join(ROOT, 'data', 'family.json'), JSON.stringify(familyJson, null, 1) + '\n');
 console.log('\nwritten: data/family.json');
+
+// ── Cache-busting ──────────────────────────────────────────────────────────
+// GitHub Pages lets browsers reuse files for 10 minutes. Stamp every script
+// and the stylesheet with a short content hash so a new version is fetched as
+// soon as it is deployed. Module imports are redirected through an import map.
+{
+  const crypto = require('crypto');
+  const hash = f => crypto.createHash('sha1').update(fs.readFileSync(path.join(ROOT, f))).digest('hex').slice(0, 8);
+  const jsFiles = fs.readdirSync(path.join(ROOT, 'js')).filter(f => f.endsWith('.js')).sort();
+  const imports = {};
+  for (const f of jsFiles) imports[`./js/${f}`] = `./js/${f}?v=${hash('js/' + f)}`;
+  const idxPath = path.join(ROOT, 'index.html');
+  let html = fs.readFileSync(idxPath, 'utf8');
+  const before = html;
+  html = html.replace(/(<!-- versions:start[^\n]*-->\n)[\s\S]*?(<!-- versions:end -->)/,
+    `$1<script type="importmap">${JSON.stringify({ imports }, null, 1)}</script>\n$2`);
+  html = html.replace(/href="css\/app\.css(\?v=[0-9a-f]+)?" data-versioned/, `href="css/app.css?v=${hash('css/app.css')}" data-versioned`);
+  html = html.replace(/src="js\/app\.js(\?v=[0-9a-f]+)?" data-versioned/, `src="js/app.js?v=${hash('js/app.js')}" data-versioned`);
+  if (html !== before) { fs.writeFileSync(idxPath, html); console.log('index.html: asset versions updated'); }
+}
