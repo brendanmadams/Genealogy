@@ -39,7 +39,7 @@ marriage('olson_bonnie', 'Married Tom Olson (m. 14 Jun 1969)');
 person('adams_fran', 'Fran Adams', 'F', p => note(p, 'Wife of Presley Adams; her birth surname is not recorded.'));
 wed('adams_presley', 'adams_fran');
 person('adams_sally', 'Sally Adams', 'F');
-person('adams_casey', 'Casey Adams', null, p => { if (!p.death) p.death = 'deceased'; note(p, 'Never married; deceased.'); });
+person('adams_casey', 'Casey Adams', 'F', p => { if (!p.death) p.death = 'deceased'; note(p, 'Never married; deceased.'); });
 for (const k of ['adams_sally', 'adams_casey']) child(k, 'adams_presley', 'adams_fran');
 edit('adams_presley', p => note(p, 'He and Fran had three children: Sally, Casey and a third whose name is not recorded.'));
 
