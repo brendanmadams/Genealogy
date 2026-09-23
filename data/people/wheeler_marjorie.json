@@ -1,6 +1,6 @@
 {
   "id": "wheeler_marjorie",
-  "name": "Marjorie Wheeler",
+  "name": "Marjorie Wheeler (Schlatter)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -8,25 +8,35 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Charles W. Schlatter (before 1944)",
+    "Matron of honor at her sister Dorothy Ann’s wedding to George Homer Allen, 8 May 1944, Sioux Falls, SD"
+  ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "pfander_dorothy_douthit",
+    "father": "wheeler_melvin",
     "siblings": [
       "wheeler_dorothy_ann"
     ],
-    "spouse": "",
+    "spouse": "schlatter_charles_w",
     "children": []
   },
   "locations": [],
   "sources": [
     "consolidated_research_digest_v1",
-    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
   ],
   "notes": [
     "Sibling of Dorothy Ann Wheeler (Allen).",
-    "Sister of Dorothy Ann Wheeler; matron of honor at her wedding [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6337]"
+    "Sister of Dorothy Ann Wheeler; matron of honor at her wedding [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6337]",
+    "CORRECTION 2026-09-23: Parents set to Melvin Wheeler and Dorothy Douthit Pfander, and husband Charles W. Schlatter, from the 1944 wedding notice (\"Sister Is Attendant: Mrs. Charles W. Schlatter (Marjorie Wheeler)\") and Dorothy Ann’s register entry in Bill Allen’s document.",
+    "Unclear reference: Probably the \"Marge\" in the photo caption \"Dorothy A, Dorothy D & Marge\". [Bill Allen, line 6249]"
+  ],
+  "aliases": [
+    "Mrs. Charles W. Schlatter",
+    "Marge Wheeler"
   ]
 }

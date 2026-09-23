@@ -253,6 +253,27 @@
         "DSC_0033.jpg",
         "DSC_0034.jpg"
       ]
+    },
+    {
+      "id": "marjorie-wheeler",
+      "kind": "photo",
+      "file": "MarjorieWheeler_AdamsFamilyDoc_p105.jpg",
+      "title": "Marjorie Wheeler",
+      "caption": "In a wedding gown, holding a bouquet. From the photo pages of Bill Allen’s family document (page 105).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 105.",
+      "people": [
+        "wheeler_marjorie"
+      ],
+      "portraits": [
+        {
+          "person": "wheeler_marjorie",
+          "crop": [
+            210,
+            45,
+            230
+          ]
+        }
+      ]
     }
   ]
 }
