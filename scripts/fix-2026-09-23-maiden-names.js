@@ -30,3 +30,9 @@ for (const [id, name] of Object.entries(RENAME)) {
   save(p);
   console.log(id, '->', name);
 }
+// hand-set card names, in the same obituary style
+const CARD = { allen_margaret_jeanice: ['Peggy', '(Allen) Seavy'], margaret_peggy_mckeldin: ['Peggy', '(Quinn) McKeldin'] };
+for (const [id, card] of Object.entries(CARD)) {
+  const p = load(id);
+  if (JSON.stringify(p.card_name) !== JSON.stringify(card)) { p.card_name = card; save(p); console.log(id, 'card ->', card.join(' / ')); }
+}
