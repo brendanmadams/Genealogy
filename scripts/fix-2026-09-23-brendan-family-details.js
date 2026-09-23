@@ -8,7 +8,7 @@
  *    Tom married Evonne "Bonnie" Jelcick on 14 Jun 1969.
  *  - Presley Adams's wife Fran and children Sally and Casey (a third child
  *    not yet named); Edith Adams Childs's two sons (names not recorded).
- *  - Daphne Wells's husband Bill (surname unknown) and their children, named for the letters
+ *  - Daphne Wells's husband Bill Miller and their children, named for the letters
  *    of their first child James, who died at birth.
  */
 'use strict';
@@ -61,32 +61,35 @@ edit('childs_thomas', p => {
   note(p, 'UNPROVEN: known only from family recollection (Brendan Adams, 2026); no document in the collection records the marriage.');
 });
 
-// Daphne Wells's family (unproven: family recollection; Bill's surname is
-// not known. For a while this script gave him the surname Childs, which came
-// from a mix-up with Edith's husband.)
+// Daphne Wells's family (unproven: family recollection). The surname Miller
+// is John Howard Adams's recollection, passed on by Brendan Adams on
+// 2026-09-24; an earlier "Childs" came from a mix-up with Edith's husband.
 const UNP_DAPHNE = 'UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.';
-person('bill_daphne_wells', 'Bill', 'M', p => {
-  if (p.name === 'Bill Childs') p.name = 'Bill';
+const MILLER = 'The surname Miller is John Howard Adams’s recollection (2026); not yet confirmed by a document.';
+person('bill_daphne_wells', 'Bill Miller', 'M', p => {
+  if (['Bill', 'Bill Childs'].includes(p.name)) p.name = 'Bill Miller';
   p.notes = p.notes.filter(t => !/^Husband of Daphne Wells/.test(t));
   add(p.locations, 'San Francisco Bay Area, California');
-  note(p, 'Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area.');
+  note(p, 'Husband of Daphne Wells. They lived in the San Francisco Bay Area.');
+  note(p, MILLER);
   note(p, UNP_DAPHNE);
 });
 wed('wells_daphne', 'bill_daphne_wells');
 edit('wells_daphne', p => {
-  if (p.name === 'Daphne Wells (Childs)') p.name = 'Daphne Wells';
-  p.aliases = p.aliases.filter(a => a !== 'Daphne Childs');
+  if (['Daphne Wells', 'Daphne Wells (Childs)'].includes(p.name)) p.name = 'Daphne Wells (Miller)';
+  p.aliases = p.aliases.filter(a => a !== 'Daphne Childs'); add(p.aliases, 'Daphne Miller');
   add(p.locations, 'San Francisco Bay Area, California');
-  p.notes = p.notes.filter(t => !/^She and her husband Bill( Childs)? lost their first child/.test(t));
-  note(p, 'She and her husband Bill lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen. (Unproven: family recollection.)');
+  p.notes = p.notes.filter(t => !/^She and her husband Bill( Childs| Miller)? lost their first child/.test(t));
+  note(p, 'She and her husband Bill Miller lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen. (Unproven: family recollection; the surname Miller is John Howard Adams’s recollection.)');
 });
 const KIDS = [['daphne_james', 'James', 'M'], ['daphne_john', 'John', 'M'], ['daphne_arthur', 'Arthur', 'M'], ['daphne_mary', 'Mary', 'F'], ['daphne_edward', 'Edward', 'M'], ['daphne_stephen', 'Stephen', 'M']];
-for (const [id, name, sex] of KIDS) {
+for (const [id, first, sex] of KIDS) {
+  const name = `${first} Miller`;
   person(id, name, sex, p => {
-    if (p.name === `${name} Childs`) p.name = name;
+    if ([first, `${first} Childs`].includes(p.name)) p.name = name;
     p.notes = p.notes.filter(t => !/^Child of Bill and Daphne/.test(t));
     if (id === 'daphne_james') { if (!p.death) p.death = 'deceased'; add(p.milestones, 'Died at birth; the first child of Bill and Daphne'); }
-    else note(p, `Child of Bill and Daphne (Wells); named for the letter ${name[0]} in the name of their first child, James, who died at birth. Surname not recorded.`);
+    else note(p, `Child of Bill and Daphne (Wells) Miller; named for the letter ${first[0]} in the name of their first child, James, who died at birth.`);
     note(p, UNP_DAPHNE);
   });
   child(id, 'bill_daphne_wells', 'wells_daphne');

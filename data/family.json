@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T23:12:15.092Z",
+  "generated": "2026-09-23T23:19:33.503Z",
   "people": 634,
   "family_members": 584,
   "dna_matches": 50,
@@ -9573,7 +9573,7 @@
   },
   {
    "id": "bill_daphne_wells",
-   "name": "Bill",
+   "name": "Bill Miller",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -9633,7 +9633,8 @@
    ],
    "notes": [
     "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
-    "Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area."
+    "The surname Miller is John Howard Adams’s recollection (2026); not yet confirmed by a document.",
+    "Husband of Daphne Wells. They lived in the San Francisco Bay Area."
    ]
   },
   {
@@ -12357,7 +12358,7 @@
   },
   {
    "id": "daphne_arthur",
-   "name": "Arthur",
+   "name": "Arthur Miller",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12415,12 +12416,12 @@
    ],
    "notes": [
     "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
-    "Child of Bill and Daphne (Wells); named for the letter A in the name of their first child, James, who died at birth. Surname not recorded."
+    "Child of Bill and Daphne (Wells) Miller; named for the letter A in the name of their first child, James, who died at birth."
    ]
   },
   {
    "id": "daphne_edward",
-   "name": "Edward",
+   "name": "Edward Miller",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12478,12 +12479,12 @@
    ],
    "notes": [
     "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
-    "Child of Bill and Daphne (Wells); named for the letter E in the name of their first child, James, who died at birth. Surname not recorded."
+    "Child of Bill and Daphne (Wells) Miller; named for the letter E in the name of their first child, James, who died at birth."
    ]
   },
   {
    "id": "daphne_james",
-   "name": "James",
+   "name": "James Miller",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12547,7 +12548,7 @@
   },
   {
    "id": "daphne_john",
-   "name": "John",
+   "name": "John Miller",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12605,12 +12606,12 @@
    ],
    "notes": [
     "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
-    "Child of Bill and Daphne (Wells); named for the letter J in the name of their first child, James, who died at birth. Surname not recorded."
+    "Child of Bill and Daphne (Wells) Miller; named for the letter J in the name of their first child, James, who died at birth."
    ]
   },
   {
    "id": "daphne_mary",
-   "name": "Mary",
+   "name": "Mary Miller",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12668,12 +12669,12 @@
    ],
    "notes": [
     "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
-    "Child of Bill and Daphne (Wells); named for the letter M in the name of their first child, James, who died at birth. Surname not recorded."
+    "Child of Bill and Daphne (Wells) Miller; named for the letter M in the name of their first child, James, who died at birth."
    ]
   },
   {
    "id": "daphne_stephen",
-   "name": "Stephen",
+   "name": "Stephen Miller",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12731,7 +12732,7 @@
    ],
    "notes": [
     "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
-    "Child of Bill and Daphne (Wells); named for the letter S in the name of their first child, James, who died at birth. Surname not recorded."
+    "Child of Bill and Daphne (Wells) Miller; named for the letter S in the name of their first child, James, who died at birth."
    ]
   },
   {
@@ -43127,8 +43128,10 @@
   },
   {
    "id": "wells_daphne",
-   "name": "Daphne Wells",
-   "aliases": [],
+   "name": "Daphne Wells (Miller)",
+   "aliases": [
+    "Daphne Miller"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -43197,7 +43200,7 @@
    "notes": [
     "Daughter of Arthur T. Wells and Serena (Trumbo) Wells, so a half-sister of George Francis Adams Sr. John Adams's memoir says Serena and Arthur had a daughter together; the 1940 census of their San Francisco household lists Daphne, aged 15, born in California. [John Howard Adams, A Memoir, text line 546] Decision by Brendan Adams.",
     "Aged 15 and born in California in the 1940 census of Arthur T. Wells's San Francisco household, with Serena and George Adams. [1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)]",
-    "She and her husband Bill lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen. (Unproven: family recollection.)"
+    "She and her husband Bill Miller lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen. (Unproven: family recollection; the surname Miller is John Howard Adams’s recollection.)"
    ]
   },
   {
