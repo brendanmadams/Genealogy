@@ -22,8 +22,13 @@ An interactive family history site for the whole family, published with GitHub P
 1. Open `data/people/<id>.json`. Relationship fields use other people's ids
    (`father`, `mother`, `spouse`, `children`, `siblings`). A second marriage goes in
    `_extra_spouses`.
+   Names: write the birth surname first and married surnames after it in
+   parentheses, `"Megan Marie Falde (Adams)"` or `"Dorothy Douthit Pfander (Wheeler, Howard)"`.
+   The site shows them obituary style, "Megan Marie (Falde) Adams", and the directory
+   lists them under the birth surname. If the birth surname is not known, use the
+   married name alone ("Nellie Kulp").
    Tree cards show a short name (the name they went by, middle initials, surname,
-   latest married name). To choose it yourself, add `"card_name": ["Peggy", "Allen (Seavy)"]`.
+   latest married name). To choose it yourself, add `"card_name": ["Peggy", "(Allen) Seavy"]`.
 2. Rebuild:
 
    ```bash

@@ -1,6 +1,6 @@
 // Draws a layout (from layout.js) into the SVG and handles pan/zoom.
 import { CARD } from './layout.js';
-import { lifespan, initials, cardNameOptions } from './data.js';
+import { lifespan, initials, cardNameOptions, displayName } from './data.js';
 
 const NS = 'http://www.w3.org/2000/svg';
 const el = (tag, attrs = {}, text) => {
@@ -144,7 +144,7 @@ export class Renderer {
       g.style.setProperty('--branch', this.D.color(sp));
       g.setAttribute('tabindex', 0); g.setAttribute('role', 'button');
       g.dataset.id = sp.id;
-      g.appendChild(el('title', {}, `Spouse: ${sp.name}${t.sub ? ' · ' + t.sub : ''}`));
+      g.appendChild(el('title', {}, `Spouse: ${displayName(sp)}${t.sub ? ' · ' + t.sub : ''}`));
     }
     g.appendChild(el('rect', { class: 'body', width: t.w, height: h, rx: 8 }));
     g.appendChild(el('text', { class: 'amp', x: 10, y: 19 }, '&'));
@@ -167,7 +167,7 @@ export class Renderer {
     const g = el('g', { class: `card role-${n.role}${n.half ? ' half' : ''}`, transform: `translate(${n.x - CARD.w / 2},${n.y - CARD.h / 2})`, tabindex: 0, role: 'button' });
     g.dataset.id = n.id;
     g.style.setProperty('--branch', color);
-    g.appendChild(el('title', {}, `${p.name}${lifespan(p) ? ' · ' + lifespan(p) : ''}`));
+    g.appendChild(el('title', {}, `${displayName(p)}${lifespan(p) ? ' · ' + lifespan(p) : ''}`));
 
     if (n.role === 'focus') g.appendChild(el('rect', { class: 'focus-ring', x: -5, y: -5, width: CARD.w + 10, height: CARD.h + 10, rx: 16 }));
     // Like the chips in the details panel: the colour stripe is trimmed to the

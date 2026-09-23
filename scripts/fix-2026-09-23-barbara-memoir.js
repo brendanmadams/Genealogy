@@ -115,7 +115,7 @@ edit('beryl_simons_adams', p => { add(p.milestones, 'Married Bob (surname not re
 
 // Adams grandchildren
 setDate('ethan_adams', 'birth', '5 Aug 2002', BA);
-person('rae_mae', 'Rae Mae (Adams)', BA, { milestones: ['Married Ethan Adams (m. 25 Apr 2026)'] });
+person('rae_mae', 'Rae Mae Adams', BA, { milestones: ['Married Ethan Adams (m. 25 Apr 2026)'] });
 edit('ethan_adams', p => add(p.milestones, 'Married Rae Mae (m. 25 Apr 2026)'), BA);
 wed('ethan_adams', 'rae_mae');
 setDate('gabrielle_adams', 'birth', '8 Apr 2004', BA); edit('gabrielle_adams', p => add(p.aliases, 'Elly Adams'), BA);

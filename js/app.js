@@ -1,5 +1,5 @@
 // App shell: routing, focus state, search, landing page.
-import { loadFamily, lifespan, byBirth } from './data.js';
+import { loadFamily, lifespan, byBirth, displayName } from './data.js';
 import { layoutFocus } from './layout.js';
 import { layoutPedigree } from './pedigree.js';
 import { layoutDescendants } from './descendants.js';
@@ -87,7 +87,7 @@ function showPerson(id) {
     $('#gen-more').disabled = g >= max;
     $('#gen-all').disabled = g >= max;
     $('#print-title').innerHTML = max
-      ? `<h1>${chart.title} ${esc(p.name)}</h1><p>${esc(lifespan(p))}${lifespan(p) ? ' · ' : ''}${L.count} ${chart.noun}${L.count === 1 ? '' : 's'} in ${L.shownDepth} generation${L.shownDepth === 1 ? '' : 's'} · printed ${new Date().toLocaleDateString()}</p>`
+      ? `<h1>${chart.title} ${esc(displayName(p))}</h1><p>${esc(lifespan(p))}${lifespan(p) ? ' · ' : ''}${L.count} ${chart.noun}${L.count === 1 ? '' : 's'} in ${L.shownDepth} generation${L.shownDepth === 1 ? '' : 's'} · printed ${new Date().toLocaleDateString()}</p>`
       : '';
     if (!max) L.emptyMessage = chart.empty;
     renderer.draw(L);
@@ -104,7 +104,7 @@ function showPerson(id) {
   setTimeout(() => renderer.fit(true), opening ? 280 : 0);
   sidebar.setFocus(id);
   store.push(id);
-  document.title = `${p.name} · Family Tree`;
+  document.title = `${displayName(p)} · Family Tree`;
 }
 
 function showLanding() {
@@ -115,7 +115,7 @@ function showLanding() {
   sidebar.setFocus(null);
   document.title = 'Adams · McKeldin Family Tree';
   const recent = store.get().map(id => D.person(id)).filter(Boolean);
-  const chip = p => `<button class="chip" data-id="${p.id}" style="--branch:${D.color(p)}"><span class="chip-name">${esc(p.name)}</span>${lifespan(p, { short: true }) ? `<span class="chip-sub">${esc(lifespan(p, { short: true }))}</span>` : ''}</button>`;
+  const chip = p => `<button class="chip" data-id="${p.id}" style="--branch:${D.color(p)}"><span class="chip-name">${esc(displayName(p))}</span>${lifespan(p, { short: true }) ? `<span class="chip-sub">${esc(lifespan(p, { short: true }))}</span>` : ''}</button>`;
   const lines = [...D.branches.values()].filter(b => b.roots?.length).map(b => {
     const roots = byBirth(b.roots.map(id => D.person(id)).filter(Boolean));
     const first = roots[0];
@@ -171,7 +171,7 @@ function closeDropdowns() { document.querySelectorAll('.dropdown.show').forEach(
 function wireSearch(input, drop) {
   let sel = -1, hits = [];
   const render = () => {
-    drop.innerHTML = hits.map((p, i) => `<div class="hit${i === sel ? ' sel' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><div><div class="hit-name">${esc(p.name)}</div><div class="hit-sub">${esc([p.dna_match ? 'DNA match · low priority' : '', lifespan(p), p.locations?.[0]].filter(Boolean).join(' · '))}</div></div></div>`).join('')
+    drop.innerHTML = hits.map((p, i) => `<div class="hit${i === sel ? ' sel' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><div><div class="hit-name">${esc(displayName(p))}</div><div class="hit-sub">${esc([p.dna_match ? 'DNA match · low priority' : '', lifespan(p), p.locations?.[0]].filter(Boolean).join(' · '))}</div></div></div>`).join('')
       || `<div class="hit none">No one found</div>`;
     drop.classList.add('show');
   };

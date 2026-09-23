@@ -117,7 +117,36 @@ function fmtYear(dt, short) {
 
 export function initials(p) {
   const parts = p.name.replace(/\(.*?\)/g, '').trim().split(/\s+/).filter(w => !/^(col|dr|rev)\.?$/i.test(w));
-  return ((parts[0]?.[0] || '') + (parts.length > 1 ? parts[parts.length - 1][0] : '')).toUpperCase();
+  const last = marriedNames(p).pop() || (parts.length > 1 ? parts[parts.length - 1] : '');
+  return ((parts[0]?.[0] || '') + (last[0] || '')).toUpperCase();
+}
+
+/**
+ * Records store a woman's birth surname first and married names after it in
+ * parentheses: "Megan Marie Falde (Adams)", "Dorothy Douthit Pfander (Wheeler,
+ * Howard)". Pages show the obituary style instead: "Megan Marie (Falde) Adams",
+ * "Dorothy Douthit (Pfander) (Wheeler) Howard". A trailing "(…)" counts as
+ * married names only when it holds capitalised surnames separated by commas or
+ * slashes, so labels such as "(#1)", "(Jose2)" and "(fl. 1670)" are left alone.
+ */
+const MARRIED = /^\s*[A-Z][A-Za-z'’.-]*(?:\s[A-Z][A-Za-z'’.-]*)*(?:\s*[,/]\s*[A-Z][A-Za-z'’.-]*(?:\s[A-Z][A-Za-z'’.-]*)*)*\s*$/;
+function splitMarried(name) {
+  const m = name.trim().match(/^(.*\S)\s*\(([^()]*)\)$/);
+  if (!m || /\d/.test(m[2]) || !MARRIED.test(m[2])) return null;
+  const core = m[1].trim();
+  if (!/\s/.test(core.replace(/["“][^"”]*["”]/g, '').trim())) return null;   // need given + birth surname
+  return { core, married: m[2].split(/\s*[,/]\s*/).map(s => s.trim()).filter(Boolean) };
+}
+export function marriedNames(p) { return splitMarried(p.name)?.married || []; }
+export function displayName(p) {
+  const s = splitMarried(p.name);
+  if (!s) return p.name;
+  const t = s.core.split(/\s+/);
+  let si = t.length - 1;
+  if (si > 1 && PARTICLE.test(t[si - 1])) si--;
+  const givens = t.slice(0, si).join(' '), birth = t.slice(si).join(' ');
+  const last = s.married[s.married.length - 1];
+  return [givens, `(${birth})`, ...s.married.slice(0, -1).map(x => `(${x})`), last].join(' ');
 }
 
 /** Two display lines for a card: given names / surname(s). */
@@ -172,6 +201,10 @@ export function cardName(p, { middlesWithSurname = false } = {}) {
   if (wentBy) given = wentBy;
   else if (middlesWithSurname) { given = givens[0]; middles = givens.slice(1).join(' '); }
   else given = [givens[0], ...givens.slice(1).map(g => (g.length <= 2 && g.endsWith('.')) ? g : g[0].toUpperCase() + '.')].join(' ');
-  const line2 = [middles, surname, suffix, trail ? `(${trail})` : ''].filter(Boolean).join(' ');
+  // obituary style: birth surname in parentheses before the (last) married name
+  const married = trail && splitMarried(p.name) ? trail : '';
+  const line2 = married
+    ? [middles, `(${[surname, suffix].filter(Boolean).join(' ')})`, married].filter(Boolean).join(' ')
+    : [middles, surname, suffix, trail ? `(${trail})` : ''].filter(Boolean).join(' ');
   return [[title, given].filter(Boolean).join(' '), line2];
 }

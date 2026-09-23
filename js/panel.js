@@ -1,5 +1,5 @@
 // The details panel for the focus person.
-import { lifespan, byBirth, initials as initialsOf } from './data.js';
+import { lifespan, byBirth, initials as initialsOf, displayName } from './data.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
@@ -21,7 +21,7 @@ export function renderPanel(container, D, p) {
   const branch = D.branch(p);
   const chip = (q, extra = '') => {
     const span = lifespan(q, { short: true });
-    return `<button class="chip" data-id="${q.id}" style="--branch:${D.color(q)}"><span class="chip-name">${esc(q.name)}</span>${span ? `<span class="chip-sub">${esc(span)}</span>` : ''}${extra ? `<span class="chip-sub">${esc(extra)}</span>` : ''}</button>`;
+    return `<button class="chip" data-id="${q.id}" style="--branch:${D.color(q)}"><span class="chip-name">${esc(displayName(q))}</span>${span ? `<span class="chip-sub">${esc(span)}</span>` : ''}${extra ? `<span class="chip-sub">${esc(extra)}</span>` : ''}</button>`;
   };
   const section = (title, body) => body ? `<section class="sec"><h3>${title}</h3>${body}</section>` : '';
   const items = (arr, cls = '') => arr?.length ? `<ul class="${cls}">${arr.map(x => `<li>${esc(typeof x === 'string' ? x : (x.event || x.description || x.story || x.text || JSON.stringify(x)))}</li>`).join('')}</ul>` : '';
@@ -45,7 +45,7 @@ export function renderPanel(container, D, p) {
     <header class="panel-head" style="--branch:${branch.color}">
       <div class="panel-photo" id="panel-photo"></div>
       <div class="panel-title">
-        <h2>${esc(p.name)}</h2>
+        <h2>${esc(displayName(p))}</h2>
         <div class="panel-dates">${esc(lifespan(p)) || 'Dates unknown'}</div>
         <div class="badges">
           <span class="badge branch">${esc(branch.label)}${p.branch_by_marriage ? ' · by marriage' : ''}</span>
@@ -74,7 +74,7 @@ export function renderPanel(container, D, p) {
 
   if (p.photo) {
     const img = new Image();
-    img.alt = p.name;
+    img.alt = displayName(p);
     img.src = p.photo;
     container.querySelector('#panel-photo').replaceChildren(img);
   } else {

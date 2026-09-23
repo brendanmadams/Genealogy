@@ -7,7 +7,7 @@
 // Every card carries its d'Aboville number (1, 1.1, 1.2, 1.1.1 …).
 
 import { CARD, shortLabel } from './layout.js';
-import { byBirth } from './data.js';
+import { byBirth, displayName } from './data.js';
 
 export const TAG = { h: 30, gap: 6, indent: 18 };
 const COL = CARD.w + 72;
@@ -99,7 +99,7 @@ export function layoutDescendants(D, focus, maxGen = 3) {
         type: 'tag', id: sp?.id || null, familyId: f.id,
         x: x + TAG.indent / 2, w: CARD.w - TAG.indent,
         y: top + CARD.h + TAG.gap + i * (TAG.h + TAG.gap) + TAG.h / 2,
-        label: sp ? sp.name : 'Spouse unknown', sub: f.marriage ? `m. ${f.marriage}` : '',
+        label: sp ? displayName(sp) : 'Spouse unknown', sub: f.marriage ? `m. ${f.marriage}` : '',
       };
       nodes.push(t);
       tagNodes.set(f.id, t);

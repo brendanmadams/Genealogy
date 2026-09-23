@@ -1,4 +1,5 @@
 // Full-screen viewer for photos, documents and album pages.
+import { displayName } from './data.js';
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
 export class Viewer {
@@ -47,7 +48,7 @@ export class Viewer {
       ? `<iframe class="v-pdf" src="${f}" title="${esc(m.title)}"></iframe>`
       : `<img class="v-img" src="${f}" alt="${esc(m.title)}" />`;
     const people = m.people.map(id => this.D.person(id)).filter(Boolean)
-      .map(p => `<button class="chip" data-person="${p.id}" style="--branch:${this.D.color(p)}"><span class="chip-name">${esc(p.name)}</span></button>`).join('');
+      .map(p => `<button class="chip" data-person="${p.id}" style="--branch:${this.D.color(p)}"><span class="chip-name">${esc(displayName(p))}</span></button>`).join('');
     this.el.innerHTML = `
       <div class="v-frame">
         <div class="v-stage">${body}

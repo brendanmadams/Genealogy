@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T19:05:38.434Z",
+  "generated": "2026-09-23T19:11:47.553Z",
   "people": 621,
   "family_members": 571,
   "dna_matches": 50,
@@ -8037,9 +8037,10 @@
   },
   {
    "id": "barbara_mckeldin_adams",
-   "name": "Barbara McKeldin Adams",
+   "name": "Barbara Jeanne McKeldin (Adams)",
    "aliases": [
-    "Barbara Jeanne Adams"
+    "Barbara Jeanne Adams",
+    "Barbara McKeldin Adams"
    ],
    "photo": null,
    "card_name": null,
@@ -9117,8 +9118,10 @@
   },
   {
    "id": "beryl_simons_adams",
-   "name": "Beryl Simons Adams",
-   "aliases": [],
+   "name": "Beryl Eva Simons (Adams)",
+   "aliases": [
+    "Beryl Simons Adams"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
@@ -12688,8 +12691,10 @@
   },
   {
    "id": "emily_schrieffer_mckeldin",
-   "name": "Emily Schrieffer McKeldin",
-   "aliases": [],
+   "name": "Emily Schrieffer (McKeldin)",
+   "aliases": [
+    "Emily Schrieffer McKeldin"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
@@ -12955,8 +12960,10 @@
   },
   {
    "id": "ethel_quinn_schriefer",
-   "name": "Ethel Quinn Schriefer",
-   "aliases": [],
+   "name": "Ethel Quinn (Schriefer)",
+   "aliases": [
+    "Ethel Quinn Schriefer"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
@@ -14569,8 +14576,10 @@
   },
   {
    "id": "gertrude_adams_remy",
-   "name": "Gertrude Adams Remy",
-   "aliases": [],
+   "name": "Gertrude Elaine Adams (Remy)",
+   "aliases": [
+    "Gertrude Adams Remy"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
@@ -27175,9 +27184,10 @@
   },
   {
    "id": "margaret_peggy_mckeldin",
-   "name": "Margaret Peggy McKeldin",
+   "name": "Margaret “Peggy” Quinn (McKeldin)",
    "aliases": [
-    "Margaret Quinn"
+    "Margaret Quinn",
+    "Margaret Peggy McKeldin"
    ],
    "photo": null,
    "card_name": [
@@ -30399,10 +30409,11 @@
   },
   {
    "id": "megan_marie_adams",
-   "name": "Megan Marie Adams",
+   "name": "Megan Marie Falde (Adams)",
    "aliases": [
     "Megan Marie Falde",
-    "Megan Falde"
+    "Megan Falde",
+    "Megan Marie Adams"
    ],
    "photo": null,
    "card_name": null,
@@ -33075,8 +33086,10 @@
   },
   {
    "id": "quinn_marie_ellinghaus",
-   "name": "Marie Ellinghaus Quinn",
-   "aliases": [],
+   "name": "Marie Ellinghaus (Quinn)",
+   "aliases": [
+    "Marie Ellinghaus Quinn"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
@@ -33320,7 +33333,7 @@
   },
   {
    "id": "rae_mae",
-   "name": "Rae Mae (Adams)",
+   "name": "Rae Mae Adams",
    "aliases": [],
    "photo": null,
    "card_name": null,
