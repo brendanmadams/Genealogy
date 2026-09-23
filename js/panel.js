@@ -1,5 +1,6 @@
 // The details panel for the focus person.
 import { lifespan, byBirth, initials as initialsOf, displayName } from './data.js';
+import { relate } from './relate.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
@@ -17,7 +18,33 @@ function gallery(D, p) {
   }).join('')}</div>`;
 }
 
-export function renderPanel(container, D, p) {
+/**
+ * "How are we related?": the focus person described relative to the chosen
+ * comparison person, or else to the viewer ("me", remembered in this browser).
+ */
+function relatedBox(D, p, { me, other }) {
+  const chipOf = (q, cls = '') => `<button class="chip${cls}" data-id="${q.id}" style="--branch:${D.color(q)}"><span class="chip-name">${esc(displayName(q))}</span></button>`;
+  const search = `<div class="rel-search search"><input id="rel-input" type="search" placeholder="Compare with someone…" autocomplete="off" /><div class="dropdown" id="rel-results"></div></div>`;
+  const withId = other || (me !== p.id ? me : null);
+  let body = '';
+  if (withId && D.person(withId)) {
+    const o = D.person(withId), r = relate(D, withId, p.id);
+    const whose = withId === me ? 'your' : `${esc(displayName(o))}’s`;
+    const sentence = r.kind === 'none'
+      ? `No relationship between <strong>${esc(displayName(p))}</strong> and ${withId === me ? 'you' : `<strong>${esc(displayName(o))}</strong>`} is recorded yet.`
+      : `<strong>${esc(displayName(p))}</strong> is ${whose} <strong>${esc(r.text)}</strong>.`;
+    const path = r.path.length > 1 ? `<div class="rel-path">${r.path.map(id => D.person(id)).filter(Boolean).map(q => chipOf(q, r.ancestors.includes(q.id) ? ' rel-anc' : '')).join('<span class="rel-arrow">›</span>')}</div>` : '';
+    const shared = r.ancestors.length ? `<div class="rel-note muted">Nearest shared ancestor${r.ancestors.length > 1 ? 's' : ''}: ${r.ancestors.map(id => esc(displayName(D.person(id)))).join(' and ')}</div>` : '';
+    body = `<p class="rel-sentence">${sentence}</p>${path}${shared}${other ? `<button class="link-btn" id="rel-clear">${me && me !== p.id ? 'Back to how they relate to you' : 'Clear comparison'}</button>` : ''}`;
+  } else if (me === p.id) body = `<p class="rel-sentence">This is you. Open anyone else to see how they are related to you.</p>`;
+  else body = `<p class="rel-sentence muted">Pick someone to compare with, or mark who you are and every page will say how that person is related to you.</p>`;
+  const meCtl = me === p.id
+    ? `<button class="link-btn" id="rel-forget">Forget me</button>`
+    : `<button class="link-btn" id="rel-me">This is me</button>`;
+  return `<section class="sec relate"><h3>How are we related?</h3>${body}${search}<div class="rel-ctl">${meCtl}${me && me !== p.id ? `<span class="muted">You: ${esc(displayName(D.person(me)) || '')}</span>` : ''}</div></section>`;
+}
+
+export function renderPanel(container, D, p, rel = {}) {
   const branch = D.branch(p);
   const chip = (q, extra = '') => {
     const span = lifespan(q, { short: true });
@@ -57,6 +84,7 @@ export function renderPanel(container, D, p) {
       <button class="icon-btn" id="panel-close" title="Close" aria-label="Close details">✕</button>
     </header>
     <div class="panel-body">
+      ${relatedBox(D, p, rel)}
       ${section('Vitals', `<dl class="vitals"><dt>Born</dt><dd>${born}</dd><dt>Died</dt><dd>${died}</dd>${p.locations?.length ? `<dt>Places</dt><dd>${p.locations.map(esc).join(' · ')}</dd>` : ''}</dl>`)}
       ${section('Family', group(p.adopted ? 'Adoptive parents' : 'Parents', parents.map(q => chip(q))) + partnerBlocks + group('Siblings', sibs.full.map(q => chip(q))) + group('Half siblings', sibs.half.map(q => chip(q))) || '<p class="muted">No relationships recorded yet.</p>')}
       ${section('Photos &amp; documents', gallery(D, p))}

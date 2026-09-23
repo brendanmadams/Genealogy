@@ -7,7 +7,7 @@ An interactive family history site for the whole family, published with GitHub P
 
 | Path | Purpose |
 |---|---|
-| `index.html`, `css/`, `js/` | The site. Pick anyone to see their grandparents, parents, siblings, spouses, children and grandchildren; click any card to move. Links like `#/p/adams_alberta` open on that person. The Ancestors and Descendants tabs draw printable charts (`#/p/<id>/ancestors/<generations>`, `#/p/<id>/descendants/all`). |
+| `index.html`, `css/`, `js/` | The site. Pick anyone to see their grandparents, parents, siblings, spouses, children and grandchildren; click any card to move. Links like `#/p/adams_alberta` open on that person. The Ancestors and Descendants tabs draw printable charts (`#/p/<id>/ancestors/<generations>`, `#/p/<id>/descendants/all`). The details panel's “How are we related?” names the relationship between any two people and shows the path (`js/relate.js`); “This is me” remembers the viewer in their own browser so every page says how that person is related to them. |
 | `images/<id>.jpg` | Portraits shown on cards and in the details panel. Generated from `data/media.json` crops, or drop one in by hand. |
 | `media/` | Photos, documents and album pages shown under “Photos & documents”. Generated. |
 | `data/media.json` | What each photo or document is, who is in it, where it came from, and portrait crops. |

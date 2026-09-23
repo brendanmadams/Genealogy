@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T19:58:06.157Z",
+  "generated": "2026-09-23T20:04:37.156Z",
   "people": 623,
   "family_members": 573,
   "dna_matches": 50,
@@ -31567,8 +31567,10 @@
   },
   {
    "id": "olson_bonnie",
-   "name": "Bonnie Olson",
-   "aliases": [],
+   "name": "Bonnie Jelcick (Olson)",
+   "aliases": [
+    "Bonnie Olson"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],

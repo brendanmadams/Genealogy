@@ -17,6 +17,14 @@ const store = {
   push(id) { try { const r = [id, ...this.get().filter(x => x !== id)].slice(0, 8); localStorage.setItem(RECENT_KEY, JSON.stringify(r)); } catch { /* private mode etc. */ } },
 };
 
+// who the viewer is, for "How are we related?" (this browser only)
+const ME_KEY = 'familytree.me';
+const me = {
+  get() { try { const id = localStorage.getItem(ME_KEY); return id && D.person(id) ? id : null; } catch { return null; } },
+  set(id) { try { id ? localStorage.setItem(ME_KEY, id) : localStorage.removeItem(ME_KEY); } catch { /* private mode etc. */ } },
+};
+let compareId = null;   // someone picked in the panel's compare box
+
 let D, renderer, sidebar, viewer, focusId = null;
 
 async function main() {
@@ -95,7 +103,7 @@ function showPerson(id) {
     $('#gen-ctl').hidden = true;
     renderer.draw(layoutFocus(D, p));
   }
-  renderPanel($('#panel'), D, p);
+  renderPanelFor(p);
   // On wide screens the details panel opens automatically; wait for its column
   // to finish opening before fitting the tree into the remaining space.
   // (The ancestor and descendant charts are wide, so they leave the panel as the user set it.)
@@ -168,7 +176,7 @@ function wireHeader() {
 }
 function closeDropdowns() { document.querySelectorAll('.dropdown.show').forEach(d => d.classList.remove('show')); }
 
-function wireSearch(input, drop) {
+function wireSearch(input, drop, onPick = focus) {
   let sel = -1, hits = [];
   const render = () => {
     drop.innerHTML = hits.map((p, i) => `<div class="hit${i === sel ? ' sel' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><div><div class="hit-name">${esc(displayName(p))}</div><div class="hit-sub">${esc([p.dna_match ? 'DNA match · low priority' : '', lifespan(p), p.locations?.[0]].filter(Boolean).join(' · '))}</div></div></div>`).join('')
@@ -187,13 +195,23 @@ function wireSearch(input, drop) {
     else if (e.key === 'Enter' && hits[sel]) { pick(hits[sel].id); }
   });
   drop.addEventListener('click', e => { const h = e.target.closest('.hit[data-id]'); if (h) pick(h.dataset.id); });
-  const pick = id => { input.value = ''; drop.classList.remove('show'); focus(id); };
+  const pick = id => { input.value = ''; drop.classList.remove('show'); onPick(id); };
 }
 
 // ── Panel ───────────────────────────────────────────────────────────────────
+function renderPanelFor(p) {
+  if (compareId && !D.person(compareId)) compareId = null;
+  renderPanel($('#panel'), D, p, { me: me.get(), other: compareId !== p.id ? compareId : null });
+  const input = $('#rel-input');
+  if (input) wireSearch(input, $('#rel-results'), id => { compareId = id; renderPanelFor(p); });
+}
 function wirePanel() {
   $('#panel').addEventListener('click', e => {
     if (e.target.closest('#panel-close')) { document.body.classList.remove('has-panel'); setTimeout(() => renderer.fit(true), 280); }
+    const p = focusId && D.person(focusId);
+    if (p && e.target.closest('#rel-me')) { me.set(p.id); compareId = null; renderPanelFor(p); }
+    if (p && e.target.closest('#rel-forget')) { me.set(null); renderPanelFor(p); }
+    if (p && e.target.closest('#rel-clear')) { compareId = null; renderPanelFor(p); }
     const m = e.target.closest('.media[data-media]');
     if (m) viewer.open(m.dataset.media);
   });

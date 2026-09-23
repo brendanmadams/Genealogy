@@ -294,3 +294,16 @@ body[data-view="ancestors"] .legend, body[data-view="descendants"] .legend { dis
 .col-heads { pointer-events: none; }
 .col-heads-bg { fill: var(--bg); opacity: .88; }
 .col-heads.printing .col-heads-bg { display: none; }
+
+/* How are we related? */
+.relate .rel-sentence { font-size: 14px; line-height: 1.5; color: var(--text); margin: 0 0 10px; }
+.relate .rel-path { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-bottom: 8px; }
+.relate .rel-arrow { color: var(--muted); font-size: 14px; }
+.relate .chip.rel-anc { outline: 1px dashed var(--accent); outline-offset: 1px; }
+.relate .rel-note { font-size: 12px; margin-bottom: 8px; }
+.relate .rel-search { max-width: none; margin: 8px 0 6px; }
+.relate .rel-search input { width: 100%; }
+.relate .rel-ctl { display: flex; gap: 12px; align-items: center; font-size: 12px; }
+.link-btn { background: none; border: 0; padding: 0; color: var(--accent); font-size: 12px; cursor: pointer; }
+.link-btn:hover { text-decoration: underline; }
+@media print { .relate { display: none; } }

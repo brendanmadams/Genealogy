@@ -1,0 +1,151 @@
+// "How are we related?": the relationship between two people, and the path.
+// The tree records no sex, so the words are neutral ("aunt or uncle").
+
+const ORD = ['', 'first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth'];
+const ordinal = n => ORD[n] || `${n}th`;
+const removed = n => n === 0 ? '' : n === 1 ? ' once removed' : n === 2 ? ' twice removed' : ` ${n} times removed`;
+const greats = n => n <= 0 ? '' : n === 1 ? 'great-' : `${n}× great-`;
+
+/** Ancestors of id with their distance and the child through whom each is reached. */
+function ancestors(D, id) {
+  const out = new Map([[id, { dist: 0, via: null }]]);
+  let frontier = [id];
+  for (let d = 1; frontier.length && d < 60; d++) {
+    const next = [];
+    for (const x of frontier) for (const par of D.person(x)?.parents || []) {
+      if (!out.has(par) && D.person(par)) { out.set(par, { dist: d, via: x }); next.push(par); }
+    }
+    frontier = next;
+  }
+  return out;
+}
+
+function partners(D, id) {
+  const p = D.person(id);
+  if (!p) return [];
+  const ids = new Set(p.spouses || []);
+  for (const f of D.partnerFamilies(p)) for (const x of f.partners) if (x !== id) ids.add(x);
+  return [...ids].filter(x => D.person(x));
+}
+
+/** Words for "B is A's ___" given generations up from A (a) and from B (b) to the shared ancestor. */
+function bloodWords(a, b, half) {
+  const h = half ? 'half-' : '';
+  if (a === 0 && b === 0) return 'same person';
+  if (a === 0) return b === 1 ? 'child' : b === 2 ? 'grandchild' : `${greats(b - 2)}grandchild`;
+  if (b === 0) return a === 1 ? 'parent' : a === 2 ? 'grandparent' : `${greats(a - 2)}grandparent`;
+  if (a === 1 && b === 1) return `${h}sibling`;
+  if (a === 1) return b === 2 ? `${h}niece or nephew` : b === 3 ? `${h}grandniece or grandnephew` : `${h}${greats(b - 3)}grandniece or grandnephew`;
+  if (b === 1) return a === 2 ? `${h}aunt or uncle` : `${h}${greats(a - 2)}aunt or uncle`;
+  return `${h}${ordinal(Math.min(a, b) - 1)} cousin${removed(Math.abs(a - b))}`;
+}
+
+/** Closest blood relationship, or null. Path runs from A up to the ancestor and down to B. */
+function blood(D, aId, bId) {
+  const A = ancestors(D, aId), B = ancestors(D, bId);
+  let best = null;
+  for (const [id, x] of A) {
+    const y = B.get(id);
+    if (!y) continue;
+    const score = x.dist + y.dist;
+    if (!best || score < best.score || (score === best.score && Math.max(x.dist, y.dist) < Math.max(best.a, best.b))) best = { id, a: x.dist, b: y.dist, score };
+  }
+  if (!best) return null;
+  const chain = (M, from) => { const out = []; for (let x = from; x; x = M.get(x)?.via) out.push(x); return out; };
+  // chain(A, ancestor) runs ancestor → … → A; reverse it so the path starts at A
+  const up = chain(A, best.id).reverse(), down = chain(B, best.id).slice(1);
+  // half relationship: the two lines come down from the ancestor through different partners
+  let half = false, couple = [best.id];
+  if (best.a >= 1 && best.b >= 1) {
+    const other = partners(D, best.id).find(p => A.get(p)?.dist === best.a && B.get(p)?.dist === best.b);
+    if (other) couple.push(other);
+    else {
+      const ca = up[up.length - 2], cb = down[0];                 // the ancestor's children on each line
+      const op = c => (D.person(c)?.parents || []).find(x => x !== best.id);
+      if (ca && cb && ca !== cb && op(ca) && op(cb) && op(ca) !== op(cb)) half = true;
+    }
+  }
+  return { words: bloodWords(best.a, best.b, half), a: best.a, b: best.b, score: best.score, path: [...up, ...down], ancestors: couple };
+}
+
+/**
+ * relate(D, aId, bId) → { text, path, ancestors, kind } describing B relative to A:
+ * "B is A's <text>". kind is 'self', 'blood', 'marriage' or 'none'.
+ */
+export function relate(D, aId, bId) {
+  if (aId === bId) return { kind: 'self', text: 'the same person', path: [aId], ancestors: [] };
+  const direct = blood(D, aId, bId);
+  if (direct) return { kind: 'blood', text: direct.words, path: direct.path, ancestors: direct.ancestors };
+
+  const aP = partners(D, aId), bP = partners(D, bId);
+  if (aP.includes(bId)) return { kind: 'marriage', text: 'spouse', path: [aId, bId], ancestors: [] };
+  const options = [];
+  // B is married to one of A's blood relatives
+  for (const s of bP) {
+    const r = blood(D, aId, s);
+    if (!r) continue;
+    const t = r.a === 1 && r.b === 0 ? 'step-parent' : r.a === 0 && r.b === 1 ? 'child-in-law' : r.a === 1 && r.b === 1 ? 'sibling-in-law' : stepWords(`${r.words}’s spouse`);
+    options.push({ score: r.score, text: t, path: [...r.path, bId], ancestors: r.ancestors });
+  }
+  // B is a blood relative of A's spouse
+  for (const s of aP) {
+    const r = blood(D, s, bId);
+    if (!r) continue;
+    const t = r.a === 0 && r.b === 1 ? 'stepchild' : r.a === 1 && r.b === 0 ? 'parent-in-law' : r.a === 1 && r.b === 1 ? 'sibling-in-law' : `spouse’s ${r.words}`;
+    options.push({ score: r.score, text: t, path: [aId, ...r.path], ancestors: r.ancestors });
+  }
+  // B is married to a blood relative of A's spouse (e.g. a spouse's sibling's spouse)
+  if (!options.length) for (const s of aP) for (const t of bP) {
+    const r = blood(D, s, t);
+    if (r) options.push({ score: r.score + 1, text: `spouse’s ${r.words}’s spouse`, path: [aId, ...r.path, bId], ancestors: r.ancestors });
+  }
+  if (options.length) {
+    const o = options.sort((x, y) => x.score - y.score)[0];
+    return { kind: 'marriage', text: o.text, path: o.path, ancestors: o.ancestors };
+  }
+  // anything else: shortest path over parent, child and spouse links, told step by step
+  // ("step-grandparent’s niece or nephew")
+  const path = linkPath(D, aId, bId);
+  if (!path) return { kind: 'none', text: 'no recorded relationship', path: [], ancestors: [] };
+  const words = [];
+  let start = 0;
+  for (let i = 1; i <= path.length; i++) {
+    const hop = i < path.length && partners(D, path[i - 1]).includes(path[i]) && !(D.person(path[i]).parents || []).includes(path[i - 1]) && !(D.person(path[i - 1]).parents || []).includes(path[i]);
+    if (i === path.length || hop) {
+      if (i - 1 > start) words.push(blood(D, path[start], path[i - 1])?.words || 'relative');
+      if (hop) words.push('spouse');
+      start = i;
+    }
+  }
+  return { kind: 'marriage', text: stepWords(words.join('’s ')), path, ancestors: [] };
+}
+
+/** "grandparent’s spouse" → "step-grandparent", at the start of a chain. */
+function stepWords(t) {
+  return t.replace(/^((?:\d+× )?(?:great-)?(?:grand)?parent)’s spouse/, (m, rel) => `step-${rel}`);
+}
+
+function linkPath(D, aId, bId) {
+  const prev = new Map([[aId, null]]);
+  let q = [aId];
+  while (q.length) {
+    const next = [];
+    for (const x of q) {
+      const p = D.person(x);
+      for (const y of [...(p.parents || []), ...(p.children || []), ...partners(D, x)]) {
+        if (prev.has(y) || !D.person(y)) continue;
+        prev.set(y, x);
+        if (y === bId) { const out = []; for (let z = y; z; z = prev.get(z)) out.unshift(z); return out; }
+        next.push(y);
+      }
+    }
+    q = next;
+  }
+  return null;
+}
+
+/** "a first cousin" / "an aunt or uncle" / "the spouse" — for sentences. */
+export function article(text) {
+  if (/^(spouse|same person)/.test(text)) return `the ${text}`;
+  return /^[aeiou]/i.test(text) ? `an ${text}` : `a ${text}`;
+}
