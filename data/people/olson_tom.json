@@ -1,0 +1,33 @@
+{
+  "id": "olson_tom",
+  "name": "Tom Olson",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "olson_tom_umpa",
+    "siblings": [],
+    "spouse": "olson_bonnie",
+    "children": [
+      "olson_nels",
+      "olson_kari",
+      "olson_tommy"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Son of Tom \"Umpa\" Olson; brother of Kris and Sigrid."
+  ],
+  "aliases": []
+}

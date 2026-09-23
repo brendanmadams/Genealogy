@@ -9,8 +9,12 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [],
-  "education": [],
-  "career": [],
+  "education": [
+    "Michelle holds a BS and a law degree (JD)."
+  ],
+  "career": [
+    "Her law degree helped her build a career in pharmaceutical and medical equipment sales."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
@@ -26,7 +30,8 @@
   "locations": [],
   "sources": [
     "family_notes_adams_mckeldin",
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Referenced in Brian John Adams: Married Michelle Ellis Adams",

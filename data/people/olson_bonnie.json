@@ -1,0 +1,33 @@
+{
+  "id": "olson_bonnie",
+  "name": "Bonnie Olson",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "olson_tom",
+    "children": [
+      "olson_nels",
+      "olson_kari",
+      "olson_tommy"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Wife of Tom Olson (son of Tom \"Umpa\" Olson)."
+  ],
+  "aliases": []
+}

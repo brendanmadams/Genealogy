@@ -16,12 +16,14 @@
     "Born February 8, 1972, Meridian, MS",
     "Bachelor of Science in Psychology, University of Washington, Seattle",
     "Married Michelle Ellis",
-    "Salem, OR \u2014 while Michelle attended law school",
+    "Salem, OR — while Michelle attended law school",
     "Master's degree and PhD in Psychology, University of Tennessee, Knoxville",
     "Father of Ethan, Gabrielle, Lauren, and Gavin"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Brian works as a psychologist, and his father calls his empathy for people with mental-health struggles his model of compassion."
+  ],
   "relationships": {
     "mother": "barbara_mckeldin_adams",
     "father": "john_howard_adams",
@@ -50,7 +52,8 @@
   "sources": [
     "barbara_memoir_ch22_my_childrens_names",
     "family_notes_adams_mckeldin",
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Barbara says the meaning of Brian was 'high, noble, dark one, warrior.'",

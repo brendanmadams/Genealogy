@@ -1,0 +1,1649 @@
+{
+ "source": {
+  "m": "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+ },
+ "people": {
+  "john_howard_adams": {
+   "name": "John Howard Adams",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "before 1952",
+     "place": "Richmond and Sacramento, California",
+     "value": "As a small child John lived in Richmond and Sacramento, California, while his father worked for Union Oil after leaving the Army after WWII.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      78
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1952",
+     "place": "Pasco, Washington",
+     "value": "In 1952, when his father left for Okinawa, John, his mother and siblings lived in Pasco, Washington, near his mother's family until they could join him.",
+     "related": "beryl_simons_adams",
+     "source": "m",
+     "lines": [
+      789
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1952 to about 1954",
+     "place": "Naha, Okinawa",
+     "value": "The family lived for almost two years in military housing in the town of Naha, Okinawa, with blackout shutters on the windows; John started school there.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      820
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1954 to 1958",
+     "place": "Presidio, San Francisco, California",
+     "value": "John lived at the Presidio in San Francisco for his 1st through 4th grades (1954-1958), during his father's first assignment there.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1069
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1962",
+     "place": "Richmond District, San Francisco, California",
+     "value": "On returning from Germany in 1962 (John's 9th grade), the family first lived in a flat in the Richmond District of San Francisco before getting housing on the Presidio, later in senior officers' quarters whose back yard was a fairway of the Presidio golf course.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1071
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1962",
+     "place": "Frankfurt, Germany to New York",
+     "value": "The family flew home from Frankfurt to New York on a 707 in 1962, picked up a new Dodge and drove across the country by a southern route.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      233
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1958",
+     "place": "Pasco, WA to Fort Gordon, GA",
+     "value": "After John finished 4th grade in 1958, the family spent about a month camping across the country from Pasco through Idaho and South Dakota to Georgia, seeing Coeur d'Alene, Mount Rushmore, Yellowstone and the Smoky Mountains; it was the longest stretch of daily time the children ever had with their father.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      214
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1958-1962",
+     "place": "Europe",
+     "value": "While living in Germany John first skied in Switzerland, saw the Passion Play at Oberammergau, toured East Berlin before the Wall was built, spent two weeks on the Spanish Riviera, and as a Boy Scout visited Great Britain.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      221
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Russian River, California",
+     "value": "In high school John rode his 15-speed French touring bike from San Francisco to the Russian River and camped on property owned by Mike Remy's family.",
+     "related": "michael_remy",
+     "source": "m",
+     "lines": [
+      160
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "about 1955 to 1967",
+     "place": "San Francisco Bay Area",
+     "value": "John began playing baseball at 7, often on more than one team at once, and stopped after his second year of college; at 15-16 he played on three Bay Area teams and was named league MVP playing catcher and pitcher.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1178
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1964",
+     "place": "San Francisco, California",
+     "value": "John played center on the 1964 San Francisco City champion high school football team and was named to the All-City team; the team played against future stars O.J. Simpson and Mike Holmgren.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1165
+     ],
+     "quote": null
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "about 1962-1965",
+     "place": "San Francisco, California",
+     "value": "In high school John was a diver on the swim team, ran for class officer, was active in student government, played on at least three sports teams and belonged to a social club.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1086
+     ],
+     "quote": null
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1965-1967",
+     "place": "U.S. Naval Academy, Annapolis, MD",
+     "value": "At the Naval Academy John played NCAA baseball and lightweight football for two years, boxed in the Plebe winter tournament, and with his handball partner reached the late rounds of the Brigade handball championship.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1156
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "summer 1968",
+     "place": "Norfolk, VA and Baltimore, MD",
+     "value": "On his summer cruise out of Norfolk, John's ship collided with a fleet tug playing an enemy ship in a war-at-sea exercise; it went into dry dock in Baltimore, Barbara's home town, so he spent most weekends that summer with her.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      1379
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "Christmas 1968",
+     "place": "Annapolis, MD",
+     "value": "John bought a car over Christmas break of his senior year, against Academy rules, and kept it hidden; most weekends Barbara came to Annapolis or he went to Baltimore.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      1388
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "A few people called John 'Howie', from his middle name, but it never lasted because the family moved so often.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      685
+     ],
+     "quote": null
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "University of Portland, Portland, OR",
+     "value": "John earned his MBA at the University of Portland while working at a paper mill.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1294
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1972",
+     "place": "Washington State (Oak Harbor)",
+     "value": "John and Barbara arrived in Washington State in 1972.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      1012
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "about 1995-2000",
+     "place": "Redding, CA; Vancouver, WA",
+     "value": "After 19 years with his first paper company, John took a management job with another paper company that was soon sold; he stayed in Redding working as a consultant, then became an Engineering Manager for another paper company in Vancouver, WA, which was also later sold.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      110
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "between 1989 and 1998",
+     "place": null,
+     "value": "John retired from the Navy (Reserves) sometime between ages 41 and 50.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      110
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "about 2010",
+     "place": "Ridgefield, WA",
+     "value": "After seven years in New Mexico, John and Barbara moved back to Ridgefield, WA (this passage gives his retirement as 2010; the summary chapter says 2009).",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      1014
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1980 onward",
+     "place": null,
+     "value": "John never golfed with his father, joking that golf wasn't a sport because you didn't tape your ankles, but took it up with his father's clubs; he played Pebble Beach twice in the late 1980s, made a hole-in-one in a 2001 company tournament at Heron Lakes Golf Course in Portland, OR, and was once paired with Cheech Marin at the Presidio course.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      1189
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1962-1967",
+     "place": "San Francisco, California",
+     "value": "John's lasting high school friends included Susie Miller, Kendall Price and Mark Peterson, who followed him to the Naval Academy; he spent a week with Susie's family on Lake Michigan in summer 1967 and took her to that year's Army-Navy Game.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      927
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1960-1961",
+     "place": "Germany; France; Spain; Austria; Switzerland; Great Britain; Berlin",
+     "value": "While living in Germany he toured France, Spain, Austria and Switzerland with his family, went to Great Britain with the Boy Scouts, and rode the trains through East Germany to the divided city of Berlin.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1524
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1962-1965",
+     "place": "Presidio, San Francisco, CA",
+     "value": "The family came back to San Francisco in 1962 and lived on the Presidio until 1965, when he finished high school.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1535
+     ],
+     "quote": null
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1962-1965",
+     "place": "San Francisco, CA",
+     "value": "In high school (about 3,000 students, overlooking the Bay) he was class president twice (including senior class president), student body president, captain of several teams, a football and baseball player, MVP of his summer Babe Ruth baseball league, and prom king at his senior prom.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1544
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "before June 1965",
+     "place": "San Francisco, CA",
+     "value": "His first job was as a paperboy for the San Francisco Chronicle, which he kept until he left for Annapolis.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2109
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "June 1965-June 1966",
+     "place": "U.S. Naval Academy, Annapolis, MD",
+     "value": "Plebe Year was the worst year of his life: he was hazed constantly and fought to keep a C average, since anything lower meant probation or dismissal.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1552
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1968-1969",
+     "place": null,
+     "value": "Once during the engagement Barbara took off her ring outside a movie theater, put it in John's shirt pocket and said she didn't think she wanted to go through with it; later that evening she took it back out of his pocket.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      1683
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1969-1970",
+     "place": "NAS Pensacola, FL; USS Lexington, Gulf of Mexico",
+     "value": "His first carrier landings were in a T-28 trainer, flying from NAS Pensacola to the USS Lexington for five landings and five 'deck run' take-offs without a catapult; on the way out the tower had to tell him his wheels were still down.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2041
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1972",
+     "place": null,
+     "value": "In 1972 he was offered the A-7 Corsair first but chose the A-6 Intruder, partly so he would be based in Washington State rather than Jacksonville, Florida.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2594
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": "USS Ranger (CV-61)",
+     "value": "His squadron on the USS Ranger was VA-145, and his job on the night of the mid-air collision was flying as a tanker, refuelling F-4 Phantoms before their missions.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2124
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1965-c.1990",
+     "place": null,
+     "value": "He counts 25 years in all between the Naval Academy and his Navy career, active and reserve.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2122
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "He still has the original Navy 'Wings of Gold' that Barbara pinned on him when he earned them as a carrier pilot.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      3001
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "c. 1973",
+     "place": "Oak Harbor, WA",
+     "value": "The family was living in Oak Harbor, Washington, in about 1973.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2949
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "c. 1973",
+     "place": "Oak Harbor, WA; Philippines",
+     "value": "The Rolex his parents gave him for his 1965 high-school graduation vanished in about 1973; a couple of years later friends in the Philippines mailed it back after finding it behind the cushions of a sofa set they had bought from John and Barbara. A jeweler later found it was made in 1958, so his father probably bought it in Korea.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      2941
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1976",
+     "place": "Port Townsend, WA",
+     "value": "On leaving active duty in 1976 he became a Mechanical Engineer with Crown Zellerbach Paper Company in Port Townsend, and he and Barbara bought their first home, on a hill overlooking the town.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2616
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1978",
+     "place": "Gilroy, CA",
+     "value": "In 1978 he took a fast-track management job with Crown Zellerbach's Containerboard Division and moved the family to Gilroy, California; when the promises weren't kept he moved back to the Paper Division.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2624
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "c. 1979-1995",
+     "place": "Wauna Mill, near Clatskanie, OR; Kelso, WA",
+     "value": "He then took an engineering job at the Wauna Mill outside Clatskanie, Oregon, and the family lived in Kelso, Washington, for about 16 years; he later became Logistics Manager at Wauna and rose to Superintendent. The company went from Crown Zellerbach to James River to Fort Howard over those years.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2629
+     ],
+     "quote": null
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "c. 1983-1986",
+     "place": "University of Portland, Portland, OR",
+     "value": "He earned his MBA at the University of Portland after about three years of part-time study begun roughly 14 years after his Naval Academy degree, while working at the Wauna Mill.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1711
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "c. 1989",
+     "place": "Carthage, NY",
+     "value": "He was offered the job of Mill Manager in Carthage, New York, when Brian was about to start his senior year of high school and Brendan his freshman year, and turned it down for the family's sake.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2636
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1995",
+     "place": "Redding, CA",
+     "value": "In 1995 he left after 19 years to take a management job with Simpson Paper Company in Redding, California; six months later Simpson sold his division and the new owners let the managers go.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2646
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "c. 1995-2000",
+     "place": null,
+     "value": "After Simpson he joined a consulting company teaching ways to improve human performance, and turned down an interview for a Mill Manager job in Michigan; over the next five years he held two more jobs, including long-haul trucking.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2654
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "2001",
+     "place": "Montana",
+     "value": "He drove long-haul truck for Swift in 2001 and accepted his State of New Mexico job over the phone while driving somewhere in Montana.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2266
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "2000 or 2001-c. 2010",
+     "place": "Crownpoint, NM",
+     "value": "He worked for the New Mexico Public School Facilities Authority, managing state funding and overseeing construction and maintenance for over 50 public schools in west-central New Mexico, including the Navajo, Zuni and Acoma reservations, Grants, Gallup and Crownpoint, with his office in Crownpoint.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2686
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "late 1990s",
+     "place": "Ridgefield, WA",
+     "value": "Before moving to New Mexico, John and Barbara lived in the 'blue house' in Ridgefield, Washington.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      2782
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "c. 1960-1961",
+     "place": null,
+     "value": "His mother taught him to iron and to cook when he was in about seventh grade; he has done most of the family's ironing ever since and cooks most evening meals in retirement.",
+     "related": "beryl_simons_adams",
+     "source": "m",
+     "lines": [
+      2891
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "after 1980",
+     "place": null,
+     "value": "After his father died, his mother let the children choose keepsakes and John took his father's pocket knife. He later lost it, Brendan tried to replace it one Christmas, and John finally found the same model.",
+     "related": "brendan_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      2990
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Columbia Gorge; Mt. Hood, OR",
+     "value": "As Logistics Manager at Wauna he won a weekend at a Columbia Gorge bed and breakfast in a trucking company's golf-tournament drawing; he and Barbara used it for their anniversary and went skiing on Mt. Hood.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      2389
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Family and friends call John by the pet names \"Papa\" (to his grandchildren), \"Johnboy\" and \"Best Buddy\".",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3196
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "John played organized baseball from age 7 until his second year of college, often on two teams at once, and played every position except first base and the outfield.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3041
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "When his high-school baseball glove was stolen from the bench during batting practice, John had to buy a replacement from his own savings; he named it \"Mr. Mitt,\" and the glove still survives almost 60 years later in Colorado.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3044
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1980",
+     "place": null,
+     "value": "After his father died, John took the gift of his father's golf clubs as a sign to take the game seriously, and went on to play more than a thousand rounds over 40-plus years.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      3058
+     ],
+     "quote": null
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "In school John was often team captain, class president or student body president, until he reached college.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      4372
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "St. Francisville, Louisiana",
+     "value": "John worked for James River Corporation in the paper industry; on a company visit to its St. Francisville paper mill near Baton Rouge he learned his one party trick, making two wine corks appear to pass through each other.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3239
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "2001",
+     "place": "North Portland, Oregon",
+     "value": "In 2001 John was Plant Engineer for the paper company Rexam in North Portland; when Rexam sold the plant to a competitor, his engineering job was cut and he managed the graveyard shift until the handover.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3530
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "about 2001-2003",
+     "place": "Vancouver, WA",
+     "value": "Over the two years after the Rexam job ended, John drove a long-haul truck while still living in Vancouver, WA, and then moved to New Mexico for work.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3546
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "January 2010",
+     "place": "Ridgefield, WA",
+     "value": "John and Barbara came back from New Mexico to the Vancouver area in January 2010 and settled in Ridgefield, WA, that year.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      3555
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "John had to eject from two different Navy airplanes, and both aircraft were destroyed; each time investigations cleared him to fly again.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      4395
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1976",
+     "place": null,
+     "value": "John left active duty for two reasons: long sea tours kept him away from his family, and he feared the ejection investigations on his record would limit his career. He went on to reach the rank of Commander in the Naval Reserve.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      4391
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "The aircraft carrier John flew from was USS Ranger, hull number CVA-61.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3862
+     ],
+     "quote": null
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "John earned his MBA by taking evening classes while he worked.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      4421
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "During the pandemic John made hard-bound photo books of their international trips, and he makes a photo book for each grandchild's 16th birthday.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3020
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Hawaii",
+     "value": "John and Barbara planned a Hawaii vacation for the whole extended family together, and they have made about ten trips to Hawaii, visiting all of the islands.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      4131
+     ],
+     "quote": null
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Since retiring, John and Barbara have travelled to Scotland, Ireland, continental Europe, Paris (three times), Normandy, a river cruise in France, Spain and Portugal, northern Italy, Switzerland, Norway, Finland, Australia, New Zealand, Alaska, the Caribbean, South America and the Falklands, Iguazu Falls, and Peru, Ecuador and the Galapagos. A planned Russia river cruise was cancelled four times, the last because of the war in Ukraine.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      3777
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "about 1982-2015",
+     "place": "Lloyd Center, Portland, OR",
+     "value": "John and Barbara found the Cadillac Cafe near Lloyd Center in Portland around 1982, just after it opened. They stayed regulars for as long as it existed, and on their 45th anniversary visit, probably in 2015, the owners told them they had sold it.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      3617
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "about 2020",
+     "place": "Ridgefield, WA",
+     "value": "John and Barbara celebrated their 50th wedding anniversary with the whole family at El Rancho Viejo, their regular Mexican restaurant in Ridgefield.",
+     "related": "barbara_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      3601
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "george_francis_adams_sr": {
+   "name": "George Francis Adams Sr. (Dad)",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "late 1940s to 1952",
+     "place": "Richmond and Sacramento, California",
+     "value": "After WWII he briefly left the Army and worked for Union Oil (called Standard Oil in another chapter), and the family lived in Richmond and then Sacramento, California.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      278
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "about 1941-1942",
+     "place": "Olympia, Washington",
+     "value": "Before his marriage he drove truck for Union Oil, then enrolled at St. Martin's College in Olympia and worked at a filling station.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      268
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1952 to about 1954",
+     "place": "Naha, Okinawa",
+     "value": "Recalled in 1952 as an Army Reservist, he commanded a company of the Military Police unit on Okinawa for almost two years; the family joined him and lived in military housing in Naha.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      783
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1954-1958",
+     "place": "Presidio, San Francisco, California",
+     "value": "At the Presidio he was promoted and ran the stockade, so prisoners mowed the lawn at the family's quarters; the family got its first television and he never missed the Friday Night Fights.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      373
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1958",
+     "place": "Fort Gordon, Augusta, Georgia",
+     "value": "On his way to Germany in 1958 he attended a month-long Military Police school at Fort Gordon, Georgia.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      385
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1958-1962",
+     "place": "Europe",
+     "value": "In Germany he was Commanding Officer of the Military Police train riders throughout Europe, so the family had its own bodyguards whenever they rode the trains.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1519
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "about 1953",
+     "place": "Okinawa",
+     "value": "When a typhoon was coming in on Okinawa, he took young John and George out into the yard and ran holding their hands while they flapped in the wind behind him.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      825
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1958-1962",
+     "place": "Germany",
+     "value": "When John was accused of breaking windows with a slingshot in Germany, his father made him prove it wasn't him ('Just the facts, mister'), which taught John to stay out of trouble.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      396
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Pasco, Washington",
+     "value": "On visits to the Simons farm in Pasco he fished the Columbia River, catching big steelhead.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      194
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "mid-1970s",
+     "place": "Olympia, Washington",
+     "value": "In the mid-1970s, after his Army retirement, he and Beryl lived in Olympia, Washington, where Ray and Dradie Simons visited them.",
+     "related": "beryl_simons_adams",
+     "source": "m",
+     "lines": [
+      630
+     ],
+     "quote": null
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "c. 1964-1965",
+     "place": "South Korea",
+     "value": "He was stationed in South Korea for all of John's senior year of high school (1964-65).",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      2942
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "after 1971",
+     "place": "southern Puget Sound, WA",
+     "value": "In retirement he and Beryl lived near the southernmost point of Puget Sound; he took up golf again, played at the Ft. Lewis golf course, and bought a cabin cruiser that he and Beryl took out on day trips to fish for salmon.",
+     "related": "beryl_simons_adams",
+     "source": "m",
+     "lines": [
+      1832
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1970s",
+     "place": "Puget Sound, WA",
+     "value": "On a rare fishing trip together, John tried to net a big salmon his father had fought for fifteen minutes, flipped it into the air, and it broke the line and swam off. Dad barely spoke on the way home, never told the story, and never asked John to go fishing again. Everyone else found it hilarious.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      1851
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1970s",
+     "place": "Ft. Lewis Golf Course, WA",
+     "value": "He once took both sons, John and George, for 18 holes at the Ft. Lewis Golf Course; they struggled so badly that he never asked them again.",
+     "related": "george_francis_adams_jr",
+     "source": "m",
+     "lines": [
+      1826
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "George Sr. was a golfer who played early perimeter-weighted Lynx clubs. He was set on making John a golfer and took him, and sometimes his brother George Jr., out to the course.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      3050
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "beryl_simons_adams": {
+   "name": "Beryl Eva Simons Adams (Mom)",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "WWII and 1952",
+     "place": "Pasco, Washington",
+     "value": "During WWII Beryl first followed George to his training posts, then lived with her family in Pasco while he served in Hawaii; she lived in Pasco again with the children in 1952 while he went ahead to Okinawa.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      272
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "about 1961-1962",
+     "place": null,
+     "value": "Beryl went back to work when John was a high school freshman, starting as an administrative assistant to senior Army officers.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      309
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Beryl rose by 5 a.m., could cook equally well on gas, electric, wood stove or campfire, and said pie a la mode was the best breakfast because it had fruit, dairy and starch; John called his father 'the Hammer' and her 'the Velvet Glove'.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      293
+     ],
+     "quote": null
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Pasco, Washington",
+     "value": "A street in the Pasco area laid out by her father Ray Simons is named after Beryl.",
+     "related": "simons_raymond_zell",
+     "source": "m",
+     "lines": [
+      591
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Beryl was an adventurous cook who tried out dishes on her family, from pig's feet and liver to lima beans and okra. John called her about the world's best cook, with an almost endless list of desserts.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3270
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1980",
+     "place": null,
+     "value": "After George Sr. died, Beryl had his Lynx golf clubs re-gripped and gave them, with all his golf gear, to John.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      3055
+     ],
+     "quote": null
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Beryl claimed her favorite pieces of chicken were the back and neck, which John believed was because nobody else wanted them and she hated to waste food.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3273
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "trumbo_serena_marie": {
+   "name": "Serena \"Nini\" Adams Wells (grandmother)",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "San Francisco Bay Area",
+     "value": "Most Easters, Arthur, Nini and George Sr.'s siblings gathered at one of their Bay Area homes and the family made a weekend of it.",
+     "related": "wells_arthur",
+     "source": "m",
+     "lines": [
+      549
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "San Francisco, California",
+     "value": "Her grandson George remembers being left for the day at her downtown apartment, which bored him, but she always took him to Fisherman's Wharf to sightsee and look for toys.",
+     "related": "george_francis_adams_jr",
+     "source": "m",
+     "lines": [
+      560
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "simons_raymond_zell": {
+   "name": "Ray (Raymond Z.) Simons (grandfather)",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1950s",
+     "place": "Pasco, Washington",
+     "value": "Ray's Pasco farm had about half a mile of Columbia River waterfront, bought before the Hanford Nuclear Reservation was built; the land became valuable as the area grew.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      587
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Pasco, Washington",
+     "value": "John's first memory of Ray is of him chasing John's father around the farmyard with a pair of pants smeared with cow manure that George Sr. had tricked him into sitting on.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      599
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "late 1970s",
+     "place": null,
+     "value": "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold.",
+     "related": "kulp_dradie_ellen",
+     "source": "m",
+     "lines": [
+      594
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "kulp_dradie_ellen": {
+   "name": "Dradie Simons (grandmother)",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "late 1970s",
+     "place": "Pasco, Washington",
+     "value": "A few years after Ray's death Dradie was in a nursing home in Pasco battling cancer; John and a cousin took her out to breakfast and had a lovely morning.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      632
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "simons_glen": {
+   "name": "Uncle Glen (Simons)",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1952",
+     "place": "Pasco, WA to San Francisco, CA",
+     "value": "In 1952 Uncle Glen drove Beryl and her three children from Pasco to San Francisco on two-lane highways so they could board the ship to Okinawa.",
+     "related": "beryl_simons_adams",
+     "source": "m",
+     "lines": [
+      796
+     ],
+     "quote": null
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Pasco, Washington",
+     "value": "'Glen Acres', a residential development in Pasco, is named after him.",
+     "related": "simons_raymond_zell",
+     "source": "m",
+     "lines": [
+      592
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "simons_howard": {
+   "name": "Uncle Howard (Byron Daniel Simons)",
+   "facts": [
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Howard enlisted in the military service, and only then learned that his legal name was Byron Daniel.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      656
+     ],
+     "quote": null
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "His nephew John Howard Adams got his middle name from him and was fond of him.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      682
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "michael_remy": {
+   "name": "Mike Remy",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "about 1962-1965",
+     "place": "Russian River, California",
+     "value": "Mike Remy's family owned property on the Russian River, where John camped after riding his bike up from San Francisco in high school.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      162
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "george_francis_adams_jr": {
+   "name": "George Francis Adams Jr. (brother)",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "about 1967-1968",
+     "place": null,
+     "value": "George left home at 17, and he and John never again lived in the same area.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      480
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "As boys, George and John lined up small toy cars in football formations on the floor and crashed them together to see if an offensive 'player' could break through.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      153
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "owen_adams": {
+   "name": "Owen (grandson)",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "George Francis Adams Sr.'s golf clubs, given to John in 1980, were passed down to Brendan and then to Owen.",
+     "related": "brendan_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      1187
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "odell_ralph": {
+   "name": "Uncle Ralph",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "about 1962-1965",
+     "place": "San Francisco, California",
+     "value": "Uncle Ralph came with George Sr. to one of John's high school games, the only one John remembers his father attending.",
+     "related": "george_francis_adams_sr",
+     "source": "m",
+     "lines": [
+      410
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "gertrude_adams_remy": {
+   "name": "Trudy (with husband Mike)",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1999",
+     "place": "Sacramento, CA",
+     "value": "Trudy and Mike had a house in Sacramento in 1999, where Beryl was staying when she had her fatal stroke.",
+     "related": "michael_remy",
+     "source": "m",
+     "lines": [
+      2675
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "michelle_ellis_adams": {
+   "name": "Michelle",
+   "facts": [
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Michelle holds a BS and a law degree (JD).",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1762
+     ],
+     "quote": null
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Her law degree helped her build a career in pharmaceutical and medical equipment sales.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1789
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "megan_marie_adams": {
+   "name": "Megan",
+   "facts": [
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Megan works in education; like Barbara, she needed her master's degree for pay and promotion there.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      1787
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1999",
+     "place": null,
+     "value": "During the festivities for her wedding to Brendan, Megan held her bride's luncheon at a Le Peep restaurant for about 20 people.",
+     "related": "brendan_mckeldin_adams",
+     "source": "m",
+     "lines": [
+      3679
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "brendan_mckeldin_adams": {
+   "name": "Brendan",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "c. 1977-1980",
+     "place": null,
+     "value": "As a small boy Brendan renamed the Tiller family's dog 'Mister' as 'Mintner', and the new name stuck.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      2146
+     ],
+     "quote": null
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Since high school Brendan has, on his own, made healthy eating and fitness a lifelong priority and passed it on to his family. John counts him as the example that got him to change his own habits after 50.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      3396
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "barbara_mckeldin_adams": {
+   "name": "Barbara",
+   "facts": [
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "c. 2010",
+     "place": "Crownpoint, NM",
+     "value": "Barbara and John both retired at 62, as they had planned (about 2010 for Barbara).",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      2703
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "about 2005",
+     "place": "New Mexico",
+     "value": "Barbara joined John in New Mexico about two years after he moved there for work.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      3549
+     ],
+     "quote": null
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "2010",
+     "place": "Ridgefield, WA",
+     "value": "Barbara and John moved back from New Mexico to Ridgefield, WA, in 2010, arriving in the Vancouver area that January.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      3595
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Barbara designs her own quilts, including an Australian-themed quilt inspired by their trip there, a complex burgundy pattern, a sun design taken from a favorite TV show, and a caricature quilt of her two sons.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3122
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "2010",
+     "place": "Ridgefield, WA",
+     "value": "Soon after moving to Ridgefield, Barbara made a quilt for the new baby of the family who owned their local Mexican restaurant, El Rancho Viejo, and she has been greeted with hugs there ever since.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3598
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "brian_john_adams": {
+   "name": "Brian the psychologist",
+   "facts": [
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Brian works as a psychologist, and his father calls his empathy for people with mental-health struggles his model of compassion.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3429
+     ],
+     "quote": null
+    }
+   ]
+  },
+  "gabrielle_adams": {
+   "name": "Gabrielle (Elly)",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Her grandparents took Gabrielle to see \"Phantom of the Opera,\" John's favorite play, hoping she would love it as much as they did.",
+     "related": "john_howard_adams",
+     "source": "m",
+     "lines": [
+      3165
+     ],
+     "quote": null
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Elly liked to celebrate her birthdays at Red Robin.",
+     "related": null,
+     "source": "m",
+     "lines": [
+      3696
+     ],
+     "quote": null
+    }
+   ]
+  }
+ }
+}

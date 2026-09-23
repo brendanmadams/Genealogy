@@ -6,17 +6,21 @@
   "personality": [],
   "roles": [],
   "childhood_experience": [],
-  "notable_stories": [],
+  "notable_stories": [
+    "During the festivities for her wedding to Brendan, Megan held her bride's luncheon at a Le Peep restaurant for about 20 people."
+  ],
   "risk_events": [],
   "milestones": [
     "Education: BS, MS",
     "Married Brendan McKeldin Adams (m. 14 Aug 1999, St. Michael and All Angels Church, Albuquerque, NM)"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Megan works in education; like Barbara, she needed her master's degree for pay and promotion there."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "olson_kris",
+    "father": "falde_randy",
     "siblings": [],
     "spouse": "brendan_mckeldin_adams",
     "children": [
@@ -32,14 +36,19 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Referenced in Brendan McKeldin Adams: Spouse Megan Marie Adams born December 17, 1975",
     "Referenced in Brendan McKeldin Adams: Married Megan Marie Adams",
     "Relationship: Brendan McKeldin Adams -spouse-> Megan Marie Adams",
     "Birth date newly established in this source.",
-    "Moved to Denver, CO in 2006 with Brendan Adams."
+    "Moved to Denver, CO in 2006 with Brendan Adams.",
+    "John and Barbara visited \"the wonderful Olson and Falde families\" in Albuquerque while living in New Mexico. [John Howard Adams, A Memoir, text line 2699]"
   ],
-  "aliases": []
+  "aliases": [
+    "Megan Marie Falde",
+    "Megan Falde"
+  ]
 }

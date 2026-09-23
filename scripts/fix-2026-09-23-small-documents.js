@@ -77,7 +77,7 @@ edit('george_francis_adams_sr', p => {
   note(p, `The 1920 census of his parents' household in Douglas County, Oregon, lists a son "Edward G. Adams", aged 3 years 9 months (born about 1916-17, Oregon), and no other young son; George, born 10 Mar 1916, would have been 3 years 10 months. The emails say Oregon birth certificates exist under both names. Brendan Adams doubts they are the same person; left open. [${C1920}]`);
 }, C1940);
 edit('wells_arthur', p => { add(p.aliases, 'Arthur T. Wells'); add(p.milestones, 'Census 1940: San Francisco, California, aged 49, born New Zealand, with his wife Serena, stepson George Adams and daughter Daphne (15)'); add(p.locations, 'New Zealand'); }, C1940);
-person('wells_daphne', 'Daphne Wells', C1940, { birth: 'abt 1925', locations: ['California', 'San Francisco, CA'], notes: [`Daughter of Arthur T. Wells, aged 15 and born in California in the 1940 census of his San Francisco household, with her stepmother Serena and stepbrother George Adams. [${C1940}]`] });
+person('wells_daphne', 'Daphne Wells', C1940, { birth: 'abt 1925', locations: ['California', 'San Francisco, CA'], notes: [`Aged 15 and born in California in the 1940 census of Arthur T. Wells's San Francisco household, with Serena and George Adams. [${C1940}]`] });
 child('wells_daphne', 'wells_arthur', null);
 
 // ── Gavin Hamilton: the Kilmarnock edition ────────────────────────────────
