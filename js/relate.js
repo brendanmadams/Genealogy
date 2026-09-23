@@ -24,6 +24,9 @@ export function genderize(term, sex) {
     .replace(/spouse$/, f ? 'wife' : 'husband');
 }
 const sexOf = (D, id) => D.person(id)?.sex || null;
+/** An unmarried couple (family.partnered) are "partners", not husband and wife. */
+const partnered = (D, a, b) => !!D.partnerFamilies(D.person(a) || { families: [] }).find(f => f.partnered && f.partners.includes(b));
+const spouseWord = (D, a, b) => partnered(D, a, b) ? 'partner' : genderize('spouse', sexOf(D, b));
 const ANCESTOR = /^(?:\d+× )?(?:great-)?(?:grand)?parent$/;
 
 /** Ancestors of id with their distance and the child through whom each is reached. */
@@ -99,32 +102,35 @@ export function relate(D, aId, bId) {
   if (direct) return { kind: 'blood', text: direct.words, path: direct.path, ancestors: direct.ancestors };
 
   const aP = partners(D, aId), bP = partners(D, bId), sB = sexOf(D, bId);
-  if (aP.includes(bId)) return { kind: 'marriage', text: genderize('spouse', sB), path: [aId, bId], ancestors: [] };
+  if (aP.includes(bId)) return { kind: 'marriage', text: spouseWord(D, aId, bId), path: [aId, bId], ancestors: [] };
   const options = [];
-  // B is married to one of A's blood relatives
+  // B is married to (or the partner of) one of A's blood relatives; in-law and
+  // step words are for marriages, so an unmarried partner is "sister's partner"
   for (const s of bP) {
     const r = blood(D, aId, s);
     if (!r) continue;
-    const t = r.a === 0 && r.b === 1 ? genderize('child-in-law', sB)
-      : r.a === 1 && r.b === 1 ? genderize('sibling-in-law', sB)
-      : ANCESTOR.test(r.neutral) ? genderize(`step-${r.neutral}`, sB)
-      : `${r.words}’s ${genderize('spouse', sB)}`;
+    const wed = !partnered(D, s, bId);
+    const t = wed && r.a === 0 && r.b === 1 ? genderize('child-in-law', sB)
+      : wed && r.a === 1 && r.b === 1 ? genderize('sibling-in-law', sB)
+      : wed && ANCESTOR.test(r.neutral) ? genderize(`step-${r.neutral}`, sB)
+      : `${r.words}’s ${spouseWord(D, s, bId)}`;
     options.push({ score: r.score, text: t, path: [...r.path, bId], ancestors: r.ancestors });
   }
-  // B is a blood relative of A's spouse
+  // B is a blood relative of A's spouse or partner
   for (const s of aP) {
     const r = blood(D, s, bId);
     if (!r) continue;
-    const t = r.a === 0 && r.b === 1 ? genderize('stepchild', sB)
-      : r.a === 1 && r.b === 0 ? genderize('parent-in-law', sB)
-      : r.a === 1 && r.b === 1 ? genderize('sibling-in-law', sB)
-      : `${genderize('spouse', sexOf(D, s))}’s ${r.words}`;
+    const wed = !partnered(D, aId, s);
+    const t = wed && r.a === 0 && r.b === 1 ? genderize('stepchild', sB)
+      : wed && r.a === 1 && r.b === 0 ? genderize('parent-in-law', sB)
+      : wed && r.a === 1 && r.b === 1 ? genderize('sibling-in-law', sB)
+      : `${spouseWord(D, aId, s)}’s ${r.words}`;
     options.push({ score: r.score, text: t, path: [aId, ...r.path], ancestors: r.ancestors });
   }
   // B is married to a blood relative of A's spouse (e.g. a spouse's sibling's spouse)
   if (!options.length) for (const s of aP) for (const t of bP) {
     const r = blood(D, s, t);
-    if (r) options.push({ score: r.score + 1, text: `${genderize('spouse', sexOf(D, s))}’s ${r.words}’s ${genderize('spouse', sB)}`, path: [aId, ...r.path, bId], ancestors: r.ancestors });
+    if (r) options.push({ score: r.score + 1, text: `${spouseWord(D, aId, s)}’s ${r.words}’s ${spouseWord(D, t, bId)}`, path: [aId, ...r.path, bId], ancestors: r.ancestors });
   }
   if (options.length) {
     const o = options.sort((x, y) => x.score - y.score)[0];
@@ -140,7 +146,7 @@ export function relate(D, aId, bId) {
     const hop = i < path.length && partners(D, path[i - 1]).includes(path[i]) && !(D.person(path[i]).parents || []).includes(path[i - 1]) && !(D.person(path[i - 1]).parents || []).includes(path[i]);
     if (i === path.length || hop) {
       if (i - 1 > start) parts.push([blood(D, path[start], path[i - 1])?.neutral || 'relative', path[i - 1]]);
-      if (hop) parts.push(['spouse', path[i]]);
+      if (hop) parts.push([partnered(D, path[i - 1], path[i]) ? 'partner' : 'spouse', path[i]]);
       start = i;
     }
   }

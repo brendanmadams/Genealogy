@@ -99,7 +99,7 @@ export function layoutDescendants(D, focus, maxGen = 3) {
         type: 'tag', id: sp?.id || null, familyId: f.id,
         x: x + TAG.indent / 2, w: CARD.w - TAG.indent,
         y: top + CARD.h + TAG.gap + i * (TAG.h + TAG.gap) + TAG.h / 2,
-        label: sp ? displayName(sp) : 'Spouse unknown', sub: f.marriage ? `m. ${f.marriage}` : '',
+        label: sp ? displayName(sp) : 'Spouse unknown', sub: f.marriage ? `m. ${f.marriage}` : '', partnered: !!f.partnered,
       };
       nodes.push(t);
       tagNodes.set(f.id, t);

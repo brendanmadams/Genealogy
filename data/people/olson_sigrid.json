@@ -16,7 +16,10 @@
     "father": "olson_tom_umpa",
     "siblings": [],
     "spouse": "wood_chris",
-    "children": []
+    "children": [],
+    "unmarried_partners": [
+      "wood_chris"
+    ]
   },
   "locations": [],
   "sources": [

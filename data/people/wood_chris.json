@@ -16,7 +16,10 @@
     "father": "",
     "siblings": [],
     "spouse": "olson_sigrid",
-    "children": []
+    "children": [],
+    "unmarried_partners": [
+      "olson_sigrid"
+    ]
   },
   "locations": [],
   "sources": [
@@ -25,5 +28,6 @@
   "notes": [
     "Partner of Sigrid Olson; they have no children."
   ],
-  "aliases": []
+  "aliases": [],
+  "sex": "M"
 }

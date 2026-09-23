@@ -164,6 +164,13 @@ for (const f of families.values()) {
   }
 }
 
+// Unmarried couples: either record lists the other in relationships.unmarried_partners.
+for (const f of families.values()) {
+  if (f.partners.length !== 2) continue;
+  const [a, b] = f.partners, u = id => people.get(id).relationships?.unmarried_partners || [];
+  if (u(a).includes(b) || u(b).includes(a)) f.partnered = true;
+}
+
 // Sort children by birth year (unknown last, then record order).
 // Undated children keep the order their parents' records list them in.
 for (const f of families.values()) {

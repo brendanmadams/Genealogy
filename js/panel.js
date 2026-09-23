@@ -70,7 +70,8 @@ export function renderPanel(container, D, p, rel = {}) {
     const kids = byBirth(f.children.map(id => D.person(id)).filter(Boolean));
     const head = partner ? chip(partner, f.marriage ? `m. ${f.marriage}` : '') : `<span class="muted">Other parent not recorded</span>`;
     const n = withPartner.indexOf(f);
-    const label = !partner ? 'Children' : withPartner.length > 1 ? `${ORDINAL[n] || `${n + 1}th`} spouse` : 'Spouse';
+    const kind = f.partnered ? 'partner' : 'spouse';
+    const label = !partner ? 'Children' : withPartner.length > 1 ? `${ORDINAL[n] || `${n + 1}th`} ${kind}` : kind[0].toUpperCase() + kind.slice(1);
     return `<div class="fam-group"><div class="fam-label">${label}</div><div class="chips">${head}</div>${kids.length ? `<div class="fam-label sub">Children${partner ? ' together' : ''}</div><div class="chips">${kids.map(k => chip(k)).join('')}</div>` : ''}</div>`;
   }).join('');
 

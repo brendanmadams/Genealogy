@@ -148,7 +148,7 @@ export class Renderer {
       g.style.setProperty('--branch', this.D.color(sp));
       g.setAttribute('tabindex', 0); g.setAttribute('role', 'button');
       g.dataset.id = sp.id;
-      g.appendChild(el('title', {}, `Spouse: ${displayName(sp)}${t.sub ? ' · ' + t.sub : ''}`));
+      g.appendChild(el('title', {}, `${t.partnered ? 'Partner' : 'Spouse'}: ${displayName(sp)}${t.sub ? ' · ' + t.sub : ''}`));
     }
     g.appendChild(el('rect', { class: 'body', width: t.w, height: h, rx: 8 }));
     g.appendChild(el('text', { class: 'amp', x: 10, y: 19 }, '&'));

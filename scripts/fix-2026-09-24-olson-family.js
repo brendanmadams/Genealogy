@@ -56,8 +56,10 @@ for (const [id, name] of [['olson_debbie', 'Debbie Olson'], ['olson_diane', 'Dia
 }
 
 // Sigrid's partner; Tommy's former wife
-person('wood_chris', 'Chris Wood', null, p => note(p, 'Partner of Sigrid Olson; they have no children.'));
+person('wood_chris', 'Chris Wood', 'M', p => { p.sex = 'M'; note(p, 'Partner of Sigrid Olson; they have no children.'); });
 wed('olson_sigrid', 'wood_chris');
+// partners, not married: build.js marks the couple "partnered" from this list
+for (const [a, b] of [['olson_sigrid', 'wood_chris'], ['wood_chris', 'olson_sigrid']]) edit(a, p => { p.relationships.unmarried_partners = p.relationships.unmarried_partners || []; add(p.relationships.unmarried_partners, b); });
 edit('olson_sigrid', p => note(p, 'Her partner is Chris Wood; they have no children.'));
 person('megan_ex_olson', 'Megan', 'F', p => { add(p.aliases, 'Megan Olson'); add(p.milestones, 'Married Thomas Mikkel “Tommy” Olson; later divorced'); note(p, 'Former wife of Thomas Mikkel "Tommy" Olson; no children. Her surname is not recorded.'); });
 wed('olson_tommy', 'megan_ex_olson');

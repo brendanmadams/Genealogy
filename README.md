@@ -27,6 +27,9 @@ An interactive family history site for the whole family, published with GitHub P
    The site shows them obituary style, "Megan Marie (Falde) Adams", and the directory
    lists them under the birth surname. If the birth surname is not known, use the
    married name alone ("Nellie Kulp").
+   An unmarried couple: link them as spouses and also list each other in
+   `relationships.unmarried_partners`; the site then says "partner" instead of
+   "spouse", "wife" or "husband".
    `sex` is optional: `"F"` or `"M"`. It is only used for relationship words
    ("aunt" rather than "aunt or uncle"); leave it out when unknown.
    Tree cards show a short name (the name they went by, middle initials, surname,

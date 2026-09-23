@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T23:35:24.637Z",
+  "generated": "2026-09-23T23:39:12.959Z",
   "people": 645,
   "family_members": 595,
   "dna_matches": 50,
@@ -44915,7 +44915,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "sex": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -48147,7 +48147,8 @@
     "wood_chris"
    ],
    "children": [],
-   "marriage": null
+   "marriage": null,
+   "partnered": true
   },
   {
    "id": "F_olson_unknown_father",
