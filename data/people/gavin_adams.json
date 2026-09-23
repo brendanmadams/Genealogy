@@ -1,14 +1,15 @@
 {
   "id": "gavin_adams",
   "name": "Gavin Adams",
-  "birth": "",
+  "birth": "19 Aug 2009",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
     "As the baby of the family, he received extra emotional support from his grandmother following anxiety attacks over schoolwork",
-    "Known for his love of celebrating his birthday at Red Robin"
+    "Known for his love of celebrating his birthday at Red Robin",
+    "Barbara painted a 'Gavinator' rock for Gavin, apparently a family nickname for him."
   ],
   "risk_events": [],
   "milestones": [],
@@ -30,7 +31,9 @@
   ],
   "sources": [
     "family_notes_adams_mckeldin",
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Brendan Adams (personal knowledge), 2026",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Explicit child-of relationship from Brian John Adams to Gavin Adams.",
@@ -39,5 +42,7 @@
     "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
     "Siblings listed: Ethan, Gabrielle, and Lauren"
   ],
-  "aliases": []
+  "aliases": [
+    "Gavinator"
+  ]
 }

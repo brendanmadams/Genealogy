@@ -1,0 +1,32 @@
+{
+  "id": "falde_mary",
+  "name": "Mary Falde",
+  "birth": "17 Jun",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "",
+    "children": [
+      "falde_randy",
+      "falde_robin"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Mother of Randy and Robin Falde."
+  ],
+  "aliases": []
+}

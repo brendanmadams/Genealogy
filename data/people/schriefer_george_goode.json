@@ -22,7 +22,9 @@
     "siblings": [],
     "spouse": "ethel_quinn_schriefer",
     "children": [
-      "emily_schrieffer_mckeldin"
+      "emily_schrieffer_mckeldin",
+      "schriefer_kenneth",
+      "schriefer_george_jr"
     ]
   },
   "locations": [
@@ -38,5 +40,6 @@
     "Promoted from unresolved (george_schriefer.json). Explicit spouse relationship to ethel_quinn_schriefer.",
     "Nickname: Goode. Also described as biological maternal grandfather of Barbara McKeldin Adams and Chuck McKeldin Jr.",
     "Emily's father. Nickname: Goode."
-  ]
+  ],
+  "aliases": []
 }

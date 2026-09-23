@@ -1,7 +1,7 @@
 {
   "id": "ethan_adams",
   "name": "Ethan Adams",
-  "birth": "abt 2002",
+  "birth": "5 Aug 2002",
   "death": "",
   "personality": [],
   "roles": [],
@@ -12,7 +12,8 @@
   "risk_events": [],
   "milestones": [
     "Graduated from high school in 2020",
-    "Currently attending Boise State University"
+    "Currently attending Boise State University",
+    "Married Rae Mae (m. 25 Apr 2026)"
   ],
   "education": [],
   "career": [],
@@ -24,7 +25,7 @@
       "lauren_adams",
       "gavin_adams"
     ],
-    "spouse": "",
+    "spouse": "rae_mae",
     "children": []
   },
   "locations": [
@@ -33,14 +34,16 @@
   ],
   "sources": [
     "family_notes_adams_mckeldin",
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
     "Explicit child-of relationship from Brian John Adams to Ethan Adams.",
     "Relationship: Brian John Adams -child-> Ethan Adams",
     "Parent explicitly identified: Brian John Adams",
     "Explicit parent in family_notes_adams_mckeldin: Brian John Adams",
-    "Siblings listed: Gabrielle, Lauren, and Gavin"
+    "Siblings listed: Gabrielle, Lauren, and Gavin",
+    "CORRECTION 2026-09-23: Birth changed from \"abt 2002\" to \"5 Aug 2002\", per Brendan Adams."
   ],
   "aliases": []
 }

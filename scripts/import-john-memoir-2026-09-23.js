@@ -95,8 +95,10 @@ for (const [id, entry] of Object.entries(IMP.people)) {
       case 'education': if (!mentions(p.education, f.value) && add(p.education, f.value)) { stats.education++; touched = true; } break;
       case 'story': if (!mentions(p.notable_stories, f.value) && add(p.notable_stories, f.value)) { stats.stories++; touched = true; } break;
       case 'residence': {
-        if (where) { if (add(p.locations, where)) { stats.places++; touched = true; } }
-        else if (add(p.notes, f.value + cite(f))) { stats.notes++; touched = true; }
+        // memoirs: keep the sentence as well as the place
+        if (where && add(p.locations, where)) { stats.places++; touched = true; }
+        const txt = f.value + (f.date && !String(f.value).includes(String(yearOf(f.date))) ? ` (${f.date})` : '');
+        if (!mentions(p.milestones, f.value) && !mentions(p.notable_stories, f.value) && add(p.milestones, txt)) { stats.milestones++; touched = true; }
         break;
       }
       case 'child': {

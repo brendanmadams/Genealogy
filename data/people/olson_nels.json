@@ -1,7 +1,7 @@
 {
   "id": "olson_nels",
   "name": "Nels Olson",
-  "birth": "",
+  "birth": "28 Aug 1976",
   "death": "",
   "personality": [],
   "roles": [],
@@ -15,8 +15,10 @@
     "mother": "olson_bonnie",
     "father": "olson_tom",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "kirk_faith",
+    "children": [
+      "olson_mirabelle"
+    ]
   },
   "locations": [],
   "sources": [

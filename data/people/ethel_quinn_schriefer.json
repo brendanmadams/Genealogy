@@ -1,7 +1,7 @@
 {
   "id": "ethel_quinn_schriefer",
   "name": "Ethel Quinn Schriefer",
-  "birth": "",
+  "birth": "abt 1890",
   "death": "12 Apr 1952",
   "personality": [],
   "roles": [],
@@ -28,7 +28,9 @@
     ],
     "spouse": "schriefer_george_goode",
     "children": [
-      "emily_schrieffer_mckeldin"
+      "emily_schrieffer_mckeldin",
+      "schriefer_kenneth",
+      "schriefer_george_jr"
     ]
   },
   "locations": [
@@ -42,12 +44,14 @@
   "sources": [
     "barbara_memoir_ch02_a_typical_birth_day",
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Barbara identifies her as her maternal grandmother.",
     "Siblings listed: John Joseph Quinn",
-    "Emily's mother."
+    "Emily's mother.",
+    "Birth estimated: Barbara says her grandmother died in her early sixties (she died 12 Apr 1952). [Barbara McKeldin Adams, A Memoir, text line 4158]"
   ],
   "aliases": []
 }

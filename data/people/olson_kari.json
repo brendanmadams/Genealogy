@@ -1,22 +1,26 @@
 {
   "id": "olson_kari",
   "name": "Kari Olson (Rosgen)",
-  "birth": "",
+  "birth": "28 Oct 1981",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married John Rosgen (m. 7 Jan 2012)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "olson_bonnie",
     "father": "olson_tom",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "rosgen_john",
+    "children": [
+      "olson_eddy_orlando"
+    ]
   },
   "locations": [],
   "sources": [

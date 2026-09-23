@@ -2,13 +2,17 @@
   "id": "quinn_pat",
   "name": "Pat Quinn",
   "birth": "",
-  "death": "",
+  "death": "before 2021",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
-  "notable_stories": [],
+  "notable_stories": [
+    "Aunt Pat collected every Elvis Presley 45 rpm record and played all his songs."
+  ],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Died before 2021"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -28,13 +32,15 @@
   "sources": [
     "adams_direct_line_json_v1",
     "adams_direct_line_summary_v1",
-    "barbara_memoir_ch02_a_typical_birth_day"
+    "barbara_memoir_ch02_a_typical_birth_day",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
-    "Barbara identifies Pat as one of John Joseph Quinn\u2019s teenage children.",
+    "Barbara identifies Pat as one of John Joseph Quinn’s teenage children.",
     "Pat Quinn. Sibling of Peggy Quinn McKeldin, teenager in 1952.",
     "Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn.",
-    "Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn. Sex unknown per source.",
+    "Pat Quinn, a teenager in about 1952; daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Barbara calls her \"Aunt Pat\".",
     "Promoted from unresolved (pat.json)."
-  ]
+  ],
+  "aliases": []
 }

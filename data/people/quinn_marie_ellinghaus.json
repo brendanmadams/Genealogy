@@ -2,10 +2,10 @@
   "id": "quinn_marie_ellinghaus",
   "name": "Marie Ellinghaus Quinn",
   "birth": "abt 1901",
-  "death": "abt 1997",
+  "death": "12 Feb (about 1997)",
   "personality": [
     "Lifelong learner",
-    "Self-taught \u2014 quit school in 7th grade as eldest child with fragile mother",
+    "Self-taught — quit school in 7th grade as eldest child with fragile mother",
     "Declined a Chicago promotion to stay in Baltimore",
     "Generously took in those in need",
     "Could tell you up-to-the-minute data on movie stars, presidents, TV actors, songs, and nearly every politician who ever lived"
@@ -33,16 +33,19 @@
     "Quit school in 7th grade due to mother's fragile health; was the eldest so took over household duties.",
     "Taught herself typing, shorthand, stenography.",
     "Worked for the President of Olin Mathieson Chemical Corporation; declined to follow him to Chicago for advancement.",
-    "Took in Mary Brown (Irish immigrant, later blind \u2014 famous for scrubbing Baltimore marble stoops) along with Barbara and Chuck.",
-    "Alive at J. Michael McKeldin's wedding \u2014 pictured with Barbara on memoir p. 59."
+    "Took in Mary Brown (Irish immigrant, later blind — famous for scrubbing Baltimore marble stoops) along with Barbara and Chuck.",
+    "Alive at J. Michael McKeldin's wedding — pictured with Barbara on memoir p. 59.",
+    "Called 'Granny Quinn' and 'Grandmother'. Barbara and Chuck were the first to call her Grandmother, and 15 more grandchildren followed. Seventeen cousins came to her funeral.",
+    "Barbara's grandmother came out west with Buckey and Peggy one time to visit the Adams family."
   ],
   "risk_events": [],
   "milestones": [
     "Married John Joseph Quinn",
-    "Served as the functional Grandmother to Barbara McKeldin Adams"
+    "Served as the functional Grandmother to Barbara McKeldin Adams",
+    "Died 12 Feb (about 1997)"
   ],
   "education": [
-    "Self-taught \u2014 typing, shorthand, stenography after leaving school in 7th grade"
+    "Self-taught — typing, shorthand, stenography after leaving school in 7th grade"
   ],
   "career": [
     "Secretary to President of Olin Mathieson Chemical Corporation"
@@ -67,7 +70,8 @@
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
     "adams_direct_line_json_v1",
-    "mckeldin_research_v1"
+    "mckeldin_research_v1",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Barbara says Marie knew current and historical information about movie stars, presidents, TV actors, popular songs, and politicians.",
@@ -82,6 +86,7 @@
     "Motto: 'Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life.' + 'Celebrate the good times and roll up your sleeves with the bad times.'",
     "CORRECTION: Prior record attributed typing/shorthand + Olin Mathieson career to Ethel Quinn Schriefer. Memoir p. 58 reveals this describes MARIE Ellinghaus-Quinn, not Ethel. Correction applied.",
     "Maiden name: Ellinghaus. Married John Joseph Quinn.",
-    "Motto: 'Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life. Celebrate the good times and roll up your sleeves with the bad times.'"
+    "Motto: 'Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life. Celebrate the good times and roll up your sleeves with the bad times.'",
+    "CORRECTION 2026-09-23: Death refined from \"abt 1997\" to \"12 Feb (about 1997)\" [Barbara McKeldin Adams, A Memoir, text line 1057]."
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "kirk_faith",
+  "name": "Faith Kirk (Olson)",
+  "birth": "2 Mar",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "olson_nels",
+    "children": [
+      "olson_mirabelle"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [],
+  "aliases": [
+    "Faith Olson"
+  ]
+}

@@ -1,14 +1,17 @@
 {
   "id": "charlie_mckeldin",
   "name": "Charlie McKeldin",
-  "birth": "",
+  "birth": "about 1978-1979",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born about 1978-1979, Monterey, CA",
+    "Religion: Charlie was baptized in Monterey by the same priest who had baptized Brian in Meridian, Mississippi, by then chaplain to the naval graduate students. (about 1978-1979)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,10 +21,13 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Monterey, CA"
+  ],
   "sources": [
     "family_notes_adams_mckeldin",
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "CORRECTION 2026-09-22: Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams)."

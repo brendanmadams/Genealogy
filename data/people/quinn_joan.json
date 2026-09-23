@@ -2,7 +2,7 @@
   "id": "quinn_joan",
   "name": "Joan Quinn",
   "birth": "",
-  "death": "",
+  "death": "before 2021",
   "personality": [],
   "roles": [
     "telephone operator"
@@ -10,7 +10,10 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Died before 2021",
+    "Aunt Joan had a house in Ocean City, Maryland, where Barbara's family stayed on visits east when it was free."
+  ],
   "education": [],
   "career": [
     "telephone operator"
@@ -23,23 +26,27 @@
       "quinn_pat",
       "margaret_peggy_mckeldin"
     ],
-    "spouse": "",
+    "spouse": "bern_joan_quinn",
     "children": []
   },
   "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "Ocean City, MD"
   ],
   "sources": [
     "adams_direct_line_json_v1",
     "adams_direct_line_summary_v1",
-    "barbara_memoir_ch02_a_typical_birth_day"
+    "barbara_memoir_ch02_a_typical_birth_day",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
-    "Barbara identifies Joan as one of John Joseph Quinn\u2019s children.",
+    "Barbara identifies Joan as one of John Joseph Quinn’s children.",
     "Worked as a telephone operator.",
     "Joan Quinn, telephone operator. Sibling of Peggy Quinn McKeldin.",
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14.",
-    "Promoted from unresolved (joan.json)."
-  ]
+    "Promoted from unresolved (joan.json).",
+    "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]"
+  ],
+  "aliases": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "emily_schrieffer_mckeldin",
   "name": "Emily Schrieffer McKeldin",
-  "birth": "",
+  "birth": "abt 1914",
   "death": "24 Oct 1950",
   "personality": [],
   "roles": [],
@@ -14,7 +14,9 @@
     "Photographed at University of Virginia, Charlottesville, 30 May 1943",
     "Her uncle the magician (unidentified) is a collateral relative",
     "Had an uncle who was a magician (per memoir p. 15 photo caption) — collateral relative, unidentified",
-    "Insurance-policy feud: Jack Poleman's policy named Emily beneficiary; she redirected to brothers Kenneth and George Jr. before marrying Buckey, then never updated. After her 1950 death the brothers took the money — source of Buckey's lifelong feud with brothers-in-law (memoir p. 13-14)"
+    "Insurance-policy feud: Jack Poleman's policy named Emily beneficiary; she redirected to brothers Kenneth and George Jr. before marrying Buckey, then never updated. After her 1950 death the brothers took the money — source of Buckey's lifelong feud with brothers-in-law (memoir p. 13-14)",
+    "Barbara describes her as 'quite the equestrian', and family photos show her at Ocean City.",
+    "The 'uncle the magician' Emily helped in an old photo is probably her uncle John Joseph Quinn, whom Barbara remembers doing magic tricks for the children."
   ],
   "risk_events": [],
   "milestones": [
@@ -24,7 +26,9 @@
     "Married Jack Poleman (first husband)",
     "Married Charles E Buckey McKeldin II (second husband)"
   ],
-  "education": [],
+  "education": [
+    "Went to Seton High School. This is why Barbara chose Mercy High instead."
+  ],
   "career": [],
   "relationships": {
     "mother": "ethel_quinn_schriefer",
@@ -44,7 +48,8 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "adams_direct_line_json_v1"
+    "adams_direct_line_json_v1",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Referenced in Barbara Jeanne Adams: Daughter of Charles McKeldin and Emily Schrieffer McKeldin",
@@ -54,7 +59,8 @@
     "Surname spelling: Barbara uses both Schriefer (single-f) and Schrieffer (double-f); AdamsFamilyDoc (p. 54) uses Schrieffer. No canonical spelling — death certificate would be tiebreaker.",
     "Additional spouse: poleman_jack",
     "Maiden name Schriefer/Schrieffer — spelling unresolved; death certificate would be tiebreaker.",
-    "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother."
+    "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother.",
+    "Birth estimated: Barbara says her mother died at 36 (she died 24 Oct 1950). [Barbara McKeldin Adams, A Memoir, text line 4157]"
   ],
   "aliases": []
 }

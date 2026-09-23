@@ -1,7 +1,7 @@
 {
   "id": "gabrielle_adams",
   "name": "Gabrielle Adams",
-  "birth": "",
+  "birth": "8 Apr 2004",
   "death": "",
   "personality": [
     "Characterized as a very busy girl"
@@ -37,7 +37,8 @@
   "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
     "Explicit child-of relationship from Brian John Adams to Gabrielle Adams.",
@@ -47,6 +48,7 @@
     "Also known as Elly. Alias confirmed per rule_updates.json: Gabrielle Adams = Elly. Siblings listed: Ethan, Lauren, and Gavin"
   ],
   "aliases": [
-    "Elly"
+    "Elly",
+    "Elly Adams"
   ]
 }

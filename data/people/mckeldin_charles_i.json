@@ -35,7 +35,11 @@
     "spouse": "emma_bell_mckeldin",
     "children": [
       "charles_buckey_mckeldin",
-      "mckeldin_lola"
+      "mckeldin_lola",
+      "mckeldin_lillian_buckey",
+      "mckeldin_helen_buckey",
+      "mckeldin_emma_buckey",
+      "mckeldin_william_billy"
     ]
   },
   "locations": [
@@ -48,5 +52,6 @@
   "notes": [
     "Siblings listed: Theodore Roosevelt McKeldin (Governor of Maryland), George Edward, John, Lillian J., Theresa, Laura S., Louis Lawrence, William Frederick, James Raymond, Alice",
     "Brendan's great-grandfather."
-  ]
+  ],
+  "aliases": []
 }

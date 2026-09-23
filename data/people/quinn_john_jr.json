@@ -2,13 +2,15 @@
   "id": "quinn_john_jr",
   "name": "John Quinn Jr.",
   "birth": "",
-  "death": "",
+  "death": "before 2021",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Died before 2021"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -27,7 +29,8 @@
   ],
   "sources": [
     "adams_direct_line_json_v1",
-    "barbara_memoir_ch16_the_wisest_person_ive_ever_known"
+    "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
     "Barbara identifies John Quinn as Marie Ellinghaus-Quinn's husband.",

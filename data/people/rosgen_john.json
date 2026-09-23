@@ -1,0 +1,33 @@
+{
+  "id": "rosgen_john",
+  "name": "John Rosgen",
+  "birth": "3 Mar",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Kari Olson (m. 7 Jan 2012)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "olson_kari",
+    "children": [
+      "olson_eddy_orlando"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [],
+  "aliases": [
+    "John Rosegen"
+  ]
+}
