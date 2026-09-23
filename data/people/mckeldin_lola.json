@@ -1,6 +1,6 @@
 {
-  "id": "lola",
-  "name": "Lola",
+  "id": "mckeldin_lola",
+  "name": "Lola McKeldin",
   "birth": "",
   "death": "",
   "personality": [],
@@ -26,7 +26,10 @@
     "consolidated_research_digest_v1"
   ],
   "notes": [
-    "Barbara identifies Lola as one of her father’s sisters."
+    "Barbara identifies Lola as one of her father’s sisters.",
+    "Recorded under her birth surname McKeldin (daughter of Charles E. McKeldin I and Emma Bell McKeldin). She likely took a husband's surname, which is not recorded."
   ],
-  "aliases": []
+  "aliases": [
+    "Lola"
+  ]
 }

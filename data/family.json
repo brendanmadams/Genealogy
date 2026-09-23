@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T02:38:44.517Z",
+  "generated": "2026-09-23T02:42:14.819Z",
   "people": 294,
   "family_members": 243,
   "dna_matches": 51,
@@ -4534,7 +4534,7 @@
     "j_michael_mckeldin"
    ],
    "siblings": [
-    "lola"
+    "mckeldin_lola"
    ],
    "families": [
     "F_charles_buckey_mckeldin+emily_schrieffer_mckeldin",
@@ -5957,7 +5957,7 @@
    ],
    "children": [
     "charles_buckey_mckeldin",
-    "lola"
+    "mckeldin_lola"
    ],
    "siblings": [],
    "families": [
@@ -10909,65 +10909,6 @@
    ]
   },
   {
-   "id": "lola",
-   "name": "Lola",
-   "aliases": [],
-   "photo": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "branch": "mckeldin",
-   "branch_by_marriage": false,
-   "lineages": [
-    "grief",
-    "mckeldin"
-   ],
-   "adopted": false,
-   "father": "mckeldin_charles_i",
-   "mother": "emma_bell_mckeldin",
-   "parents": [
-    "emma_bell_mckeldin",
-    "mckeldin_charles_i"
-   ],
-   "spouses": [],
-   "children": [],
-   "siblings": [
-    "charles_buckey_mckeldin"
-   ],
-   "families": [],
-   "parent_family": "F_emma_bell_mckeldin+mckeldin_charles_i",
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [
-    "Called Barbara’s father Buckey, which Barbara’s mother hated."
-   ],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "barbara_memoir_ch04_nicknames",
-    "consolidated_research_digest_v1"
-   ],
-   "notes": [
-    "Barbara identifies Lola as one of her father’s sisters."
-   ]
-  },
-  {
    "id": "louis_russell_smith",
    "name": "Louis Russell Smith",
    "aliases": [],
@@ -11518,7 +11459,7 @@
    ],
    "children": [
     "charles_buckey_mckeldin",
-    "lola"
+    "mckeldin_lola"
    ],
    "siblings": [
     "mckeldin_george_edward",
@@ -12402,6 +12343,68 @@
    ],
    "notes": [
     "Child of James Alfred McKeldin and Dorothea Grief. Married surname: Nuffer."
+   ]
+  },
+  {
+   "id": "mckeldin_lola",
+   "name": "Lola McKeldin",
+   "aliases": [
+    "Lola"
+   ],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "mckeldin",
+   "branch_by_marriage": false,
+   "lineages": [
+    "grief",
+    "mckeldin"
+   ],
+   "adopted": false,
+   "father": "mckeldin_charles_i",
+   "mother": "emma_bell_mckeldin",
+   "parents": [
+    "emma_bell_mckeldin",
+    "mckeldin_charles_i"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "charles_buckey_mckeldin"
+   ],
+   "families": [],
+   "parent_family": "F_emma_bell_mckeldin+mckeldin_charles_i",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [
+    "Called Barbara’s father Buckey, which Barbara’s mother hated."
+   ],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "barbara_memoir_ch04_nicknames",
+    "consolidated_research_digest_v1"
+   ],
+   "notes": [
+    "Barbara identifies Lola as one of her father’s sisters.",
+    "Recorded under her birth surname McKeldin (daughter of Charles E. McKeldin I and Emma Bell McKeldin). She likely took a husband's surname, which is not recorded."
    ]
   },
   {
@@ -20724,7 +20727,7 @@
    ],
    "children": [
     "charles_buckey_mckeldin",
-    "lola"
+    "mckeldin_lola"
    ],
    "marriage": null
   },
