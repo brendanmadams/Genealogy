@@ -87,12 +87,10 @@ function showPerson(id) {
     $('#print-title').innerHTML = max
       ? `<h1>${chart.title} ${esc(p.name)}</h1><p>${esc(lifespan(p))}${lifespan(p) ? ' · ' : ''}${L.count} ${chart.noun}${L.count === 1 ? '' : 's'} in ${L.shownDepth} generation${L.shownDepth === 1 ? '' : 's'} · printed ${new Date().toLocaleDateString()}</p>`
       : '';
+    if (!max) L.emptyMessage = chart.empty;
     renderer.draw(L);
-    $('#canvas').classList.toggle('empty-chart', !max);
-    $('#canvas').dataset.empty = chart.empty;
   } else {
     $('#gen-ctl').hidden = true;
-    $('#canvas').classList.remove('empty-chart');
     renderer.draw(layoutFocus(D, p));
   }
   renderPanel($('#panel'), D, p);

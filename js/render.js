@@ -45,6 +45,14 @@ export class Renderer {
     for (const n of layout.nodes) this.drawNode(n);
     this.bounds = layout.bounds;
     this.focusNode = layout.focusNode || layout.nodes.find(n => n.role === 'focus');
+    if (layout.emptyMessage && this.focusNode) {
+      // "No children / parents recorded" sits just below the person (and any
+      // spouse tags), never on top of the card.
+      const bottom = Math.max(...layout.nodes.map(n => n.y + (n.type === 'tag' ? 15 : CARD.h / 2)));
+      const y = bottom + 30;
+      this.nodeLayer.appendChild(el('text', { class: 'empty-note', x: this.focusNode.x, y, 'text-anchor': 'middle' }, layout.emptyMessage));
+      this.bounds = { ...this.bounds, y1: Math.max(this.bounds.y1, y + 24) };
+    }
   }
 
   placeHeads(t) {

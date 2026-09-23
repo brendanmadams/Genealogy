@@ -228,7 +228,7 @@ body:not(.has-panel) #panel { display: none; }
 #gen-count { min-width: 20px; text-align: center; font-weight: 600; color: var(--text); }
 #gen-max { color: var(--muted); }
 body[data-view="ancestors"] .legend, body[data-view="descendants"] .legend { display: none; }
-#canvas.empty-chart::after { content: attr(data-empty); position: absolute; inset: 0; display: grid; place-items: center; color: var(--muted); font-size: 14px; pointer-events: none; }
+.empty-note { fill: var(--muted); font-size: 13px; }
 .print-title { display: none; }
 
 /* pedigree marks */
