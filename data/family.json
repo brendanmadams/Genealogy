@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T02:22:06.325Z",
+  "generated": "2026-09-23T02:38:44.517Z",
   "people": 294,
   "family_members": 243,
   "dna_matches": 51,
@@ -7641,14 +7641,16 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Maryland Manual, 1951-52, vol. 164, p. 2 (Maryland State Archives): https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000164/html/am164--2.html"
    ],
    "notes": [
     "New source gives 3 Jul 1863 (prior: ~1854). Conflict retained in notes.",
     "New source gives 5 Mar 1925 (prior: ~1925 — consistent).",
     "Prior source had birth ~1854 and death ~1925. This source gives precise: 3 Jul 1863 – 5 Mar 1925. Birth year conflict (1854 vs 1863) — preserve both, defer to records.",
     "CORRECTION 2026-09-22: Birth changed from \"abt 1854\" to \"3 Jul 1863\" (confirmed by Brendan Adams). The later date fits the ~1877-78 marriage at ages 17 and 14 and the children's births 1880-1902; the earlier date would put Dorothea at 48 for her last child.",
-    "CORRECTION 2026-09-22: Death changed from \"abt 1925\" to \"5 Mar 1925\" (confirmed by Brendan Adams). Consistent with the earlier estimate, now exact."
+    "CORRECTION 2026-09-22: Death changed from \"abt 1925\" to \"5 Mar 1925\" (confirmed by Brendan Adams). Consistent with the earlier estimate, now exact.",
+    "Maryland Manual, 1951-52 (official state register, published while Theodore R. McKeldin was governor): Theodore \"was born November 20, 1900, in Baltimore City, one of the eleven children of the late James A. and Dora (Greif) McKeldin.\" The same biography appears in the 1953-54 and 1955-56 editions."
    ]
   },
   {
@@ -11986,7 +11988,8 @@
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
-    "mckeldin_research_v1"
+    "mckeldin_research_v1",
+    "Maryland Manual, 1951-52, vol. 164, p. 2 (Maryland State Archives): https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000164/html/am164--2.html"
    ],
    "notes": [
     "New source gives ~29 Mar 1860 (prior: ~1844). Conflict retained in notes pending death certificate.",
@@ -11996,7 +11999,8 @@
     "Stonecutter attribution likely belongs to father Edward Hazelton McKeldin, not James Alfred.",
     "CORRECTION 2026-09-22: Removed duplicate child reference theodore_r_mckeldin (unresolved stub); mckeldin_theodore_roosevelt is already listed.",
     "CORRECTION 2026-09-22: Birth changed from \"abt 1844\" to \"abt 29 Mar 1860\" (confirmed by Brendan Adams). The later date fits the ~1877-78 marriage at ages 17 and 14 and the children's births 1880-1902; the earlier date would put Dorothea at 48 for her last child.",
-    "CORRECTION 2026-09-22: Death changed from \"abt 1912\" to \"abt 30 May 1923\" (confirmed by Brendan Adams). He appears in the 1916 Baltimore city directory and registered for the WWI draft (1917-18), so he was alive after 1912."
+    "CORRECTION 2026-09-22: Death changed from \"abt 1912\" to \"abt 30 May 1923\" (confirmed by Brendan Adams). He appears in the 1916 Baltimore city directory and registered for the WWI draft (1917-18), so he was alive after 1912.",
+    "Maryland Manual, 1951-52 (official state register, published while Theodore R. McKeldin was governor): Theodore \"was born November 20, 1900, in Baltimore City, one of the eleven children of the late James A. and Dora (Greif) McKeldin.\" The same biography appears in the 1953-54 and 1955-56 editions."
    ]
   },
   {
@@ -12825,7 +12829,8 @@
     "barbara_memoir_ch22_my_childrens_names",
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
-    "mckeldin_research_v1"
+    "mckeldin_research_v1",
+    "Maryland Manual, 1951-52, vol. 164, p. 2 (Maryland State Archives): https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000164/html/am164--2.html"
    ],
    "notes": [
     "Barbara identifies him as her great uncle Teddy.",
@@ -12844,7 +12849,8 @@
     "Barbara McKeldin Adams identifies him as her great-uncle (extended relationship — not stored in direct relationships).",
     "Brendan's great-great-uncle. New detail: declined VP offer from Eisenhower; Nixon got the nod instead.",
     "Manzer marriage date newly established: 17 October 1924.",
-    "Children (Theodore Jr. and Clara) newly documented."
+    "Children (Theodore Jr. and Clara) newly documented.",
+    "Maryland Manual, 1951-52 (official state register, published while Theodore R. McKeldin was governor): Theodore \"was born November 20, 1900, in Baltimore City, one of the eleven children of the late James A. and Dora (Greif) McKeldin.\" The same biography appears in the 1953-54 and 1955-56 editions."
    ]
   },
   {

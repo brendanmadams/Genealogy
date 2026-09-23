@@ -32,8 +32,8 @@
     "Served as the 53rd Governor of Maryland",
     "Nominated Dwight D. Eisenhower for President at the 1952 Republican National Convention",
     "Wrote Washington Bowed and No Mean City",
-    "53rd Governor of Maryland (1951\u20131959)",
-    "Mayor of Baltimore (1943\u20131947, 1963\u20131967)",
+    "53rd Governor of Maryland (1951–1959)",
+    "Mayor of Baltimore (1943–1947, 1963–1967)",
     "Nominated Eisenhower at the 1952 RNC",
     "Married Honolulu Claire Manzer (17 October 1924)",
     "53rd Governor of Maryland (1951-1959)",
@@ -44,7 +44,7 @@
   "education": [],
   "career": [
     "Two-term Mayor of Baltimore",
-    "53rd Governor of Maryland (1951\u20131959)"
+    "53rd Governor of Maryland (1951–1959)"
   ],
   "relationships": {
     "mother": "grief_dorothea",
@@ -76,7 +76,8 @@
     "barbara_memoir_ch22_my_childrens_names",
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
-    "mckeldin_research_v1"
+    "mckeldin_research_v1",
+    "Maryland Manual, 1951-52, vol. 164, p. 2 (Maryland State Archives): https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000164/html/am164--2.html"
   ],
   "notes": [
     "Barbara identifies him as her great uncle Teddy.",
@@ -84,7 +85,7 @@
     "Served as the fifty-third Governor of Maryland from 1951 to 1959.",
     "Nominated Dwight D. Eisenhower at the 1952 Republican National Convention in Chicago.",
     "Supported civil rights.",
-    "Was appointed by President Johnson to a panel of American Advisors to oversee South Vietnam\u2019s elections.",
+    "Was appointed by President Johnson to a panel of American Advisors to oversee South Vietnam’s elections.",
     "Testified before the United States Congress in opposition to capital punishment.",
     "Wrote the books Washington Bowed and No Mean City.",
     "Barbara describes the McKeldin name as famous in Maryland politics.",
@@ -92,9 +93,10 @@
     "Barbara identifies Teddy as her great uncle.",
     "Promoted from unresolved (theodore_r_mckeldin.json). Explicit sibling relationship to mckeldin_charles_i.",
     "rule_updates.json aliases: Teddy -> Theodore R. McKeldin. uncle_ted_mckeldin and uncle_teddy (unresolved) should be archived.",
-    "Barbara McKeldin Adams identifies him as her great-uncle (extended relationship \u2014 not stored in direct relationships).",
+    "Barbara McKeldin Adams identifies him as her great-uncle (extended relationship — not stored in direct relationships).",
     "Brendan's great-great-uncle. New detail: declined VP offer from Eisenhower; Nixon got the nod instead.",
     "Manzer marriage date newly established: 17 October 1924.",
-    "Children (Theodore Jr. and Clara) newly documented."
+    "Children (Theodore Jr. and Clara) newly documented.",
+    "Maryland Manual, 1951-52 (official state register, published while Theodore R. McKeldin was governor): Theodore \"was born November 20, 1900, in Baltimore City, one of the eleven children of the late James A. and Dora (Greif) McKeldin.\" The same biography appears in the 1953-54 and 1955-56 editions."
   ]
 }
