@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T22:55:47.082Z",
+  "generated": "2026-09-23T23:12:15.092Z",
   "people": 634,
   "family_members": 584,
   "dna_matches": 50,
@@ -10,17 +10,16 @@
    "adams",
    "hamilton",
    "mckeldin",
-   "grief",
    "quinn",
    "schriefer",
    "kulp",
+   "mcphail",
    "simons",
    "allen",
    "trumbo",
    "zacher",
-   "smith",
-   "remy",
-   "obad"
+   "olson",
+   "falde"
   ]
  },
  "branches": [
@@ -37,7 +36,8 @@
    "label": "Hamilton",
    "color": "#d97706",
    "roots": [
-    "hamilton_john_of_kype"
+    "hamilton_john_kype_1611",
+    "hamilton_isobel_kypchapel"
    ]
   },
   {
@@ -46,14 +46,6 @@
    "color": "#10b981",
    "roots": [
     "mckeldin_joseph"
-   ]
-  },
-  {
-   "key": "grief",
-   "label": "Grief",
-   "color": "#34d399",
-   "roots": [
-    "grief_michael"
    ]
   },
   {
@@ -80,6 +72,15 @@
    "color": "#14b8a6",
    "roots": [
     "kolb_dielman_edward"
+   ]
+  },
+  {
+   "key": "mcphail",
+   "label": "McPhail",
+   "color": "#f472b6",
+   "roots": [
+    "mcphail_john_belle",
+    "ball_ellen_rogers"
    ]
   },
   {
@@ -118,28 +119,21 @@
    ]
   },
   {
-   "key": "smith",
-   "label": "Smith",
-   "color": "#ec4899",
-   "roots": [
-    "louis_russell_smith",
-    "genevieve_mildred_smith"
-   ]
-  },
-  {
-   "key": "remy",
-   "label": "Remy",
+   "key": "olson",
+   "label": "Olson",
    "color": "#8b5cf6",
    "roots": [
-    "michael_remy"
+    "olson_tom_umpa",
+    "dickpeddie_rosemary"
    ]
   },
   {
-   "key": "obad",
-   "label": "Obad",
+   "key": "falde",
+   "label": "Falde",
    "color": "#f43f5e",
    "roots": [
-    "ivo_john_obad"
+    "falde_roger",
+    "falde_mary"
    ]
   },
   {
@@ -5499,14 +5493,13 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "obad",
+   "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
     "adams",
     "hamilton",
     "kulp",
-    "obad",
-    "remy",
+    "mcphail",
     "simons",
     "trumbo"
    ],
@@ -8231,9 +8224,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -8358,7 +8353,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin",
     "schriefer"
    ],
@@ -9442,6 +9436,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -10242,10 +10237,10 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
     "schriefer",
     "simons",
     "trumbo"
@@ -10363,10 +10358,10 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
     "schriefer",
     "simons",
     "trumbo"
@@ -10728,7 +10723,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": null,
@@ -10784,13 +10780,13 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "remy",
+   "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
     "adams",
     "hamilton",
     "kulp",
-    "remy",
+    "mcphail",
     "simons",
     "trumbo"
    ],
@@ -10928,7 +10924,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -11036,7 +11031,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin",
     "schriefer"
    ],
@@ -11403,7 +11397,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin",
     "quinn"
    ],
@@ -11461,13 +11454,13 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "remy",
+   "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
     "adams",
     "hamilton",
     "kulp",
-    "remy",
+    "mcphail",
     "simons",
     "trumbo"
    ],
@@ -11539,7 +11532,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin",
     "schriefer"
    ],
@@ -12006,8 +11998,8 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -12310,11 +12302,9 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "smith",
-   "branch_by_marriage": false,
-   "lineages": [
-    "smith"
-   ],
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
    "adopted": false,
    "father": "louis_russell_smith",
    "mother": "genevieve_mildred_smith",
@@ -12967,9 +12957,11 @@
    },
    "living": false,
    "living_status": "assumed",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -13444,8 +13436,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -13692,10 +13684,10 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
     "schriefer",
     "simons",
     "trumbo"
@@ -13924,9 +13916,12 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "falde",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "falde",
+    "olson"
+   ],
    "adopted": false,
    "father": "falde_randy",
    "mother": "olson_kris",
@@ -13986,9 +13981,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "falde",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "falde"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -14047,9 +14044,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "falde",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "falde"
+   ],
    "adopted": false,
    "father": "falde_roger",
    "mother": "falde_mary",
@@ -14110,9 +14109,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "falde",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "falde"
+   ],
    "adopted": false,
    "father": "falde_roger",
    "mother": "falde_mary",
@@ -14166,9 +14167,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "falde",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "falde"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -14405,8 +14408,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -14579,14 +14582,13 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "obad",
+   "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
     "adams",
     "hamilton",
     "kulp",
-    "obad",
-    "remy",
+    "mcphail",
     "simons",
     "trumbo"
    ],
@@ -14652,10 +14654,10 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
     "schriefer",
     "simons",
     "trumbo"
@@ -14739,10 +14741,12 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
+    "falde",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
+    "olson",
     "schriefer",
     "simons",
     "trumbo"
@@ -14822,10 +14826,10 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
     "schriefer",
     "simons",
     "trumbo"
@@ -14898,11 +14902,9 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "smith",
+   "branch": "other",
    "branch_by_marriage": false,
-   "lineages": [
-    "smith"
-   ],
+   "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -14963,8 +14965,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -15043,8 +15045,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -15112,8 +15114,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -15201,6 +15203,7 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
     "trumbo"
    ],
@@ -15488,6 +15491,7 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
     "trumbo"
    ],
@@ -15934,6 +15938,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -16258,11 +16263,9 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "grief",
-   "branch_by_marriage": false,
-   "lineages": [
-    "grief"
-   ],
+   "branch": "mckeldin",
+   "branch_by_marriage": true,
+   "lineages": [],
    "adopted": false,
    "father": "grief_michael",
    "mother": "vinzel_cunigunda",
@@ -16347,11 +16350,9 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "grief",
+   "branch": "other",
    "branch_by_marriage": false,
-   "lineages": [
-    "grief"
-   ],
+   "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -16741,8 +16742,8 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -17866,9 +17867,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
@@ -18868,9 +18871,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_kype_1611",
    "mother": "hamilton_isobel_kypchapel",
@@ -18935,9 +18940,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
@@ -19308,9 +19315,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_kype_1611",
    "mother": "hamilton_isobel_kypchapel",
@@ -19365,9 +19374,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
@@ -19484,9 +19495,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_kype_1611",
    "mother": "hamilton_isobel_kypchapel",
@@ -19667,9 +19680,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -19864,9 +19879,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
@@ -19989,9 +20006,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_gavin_kype_1649",
    "mother": "hamilton_abigail",
@@ -20046,9 +20065,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
@@ -20470,9 +20491,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -20643,9 +20666,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_gavin_kype_1649",
    "mother": "hamilton_abigail",
@@ -20779,9 +20804,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "hamilton",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "hamilton"
+   ],
    "adopted": false,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
@@ -22931,11 +22958,9 @@
    },
    "living": false,
    "living_status": "assumed",
-   "branch": "obad",
-   "branch_by_marriage": false,
-   "lineages": [
-    "obad"
-   ],
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -23004,7 +23029,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin",
     "quinn"
    ],
@@ -23340,7 +23364,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin",
     "quinn"
    ],
@@ -23403,7 +23426,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin",
     "schriefer"
    ],
@@ -23539,6 +23561,7 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
     "trumbo"
    ],
@@ -24067,6 +24090,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -24187,6 +24211,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -24516,7 +24541,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kenoyer_james_fredrick",
@@ -24578,7 +24604,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kenoyer_james_fredrick",
@@ -24711,7 +24738,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kenoyer_james_fredrick",
@@ -24834,7 +24862,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kenoyer_james_fredrick",
@@ -25006,8 +25035,8 @@
    },
    "living": false,
    "living_status": "assumed",
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "olson",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -25749,7 +25778,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -25824,7 +25854,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -25897,7 +25928,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_spencer_ritchey",
@@ -25957,7 +25989,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_spencer_ritchey",
@@ -26017,7 +26050,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -26103,7 +26137,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -26204,7 +26239,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -26278,7 +26314,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -26372,7 +26409,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_nardin_ira",
@@ -26627,7 +26665,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_elmer_spencer",
@@ -26827,7 +26866,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -27056,7 +27096,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -27201,7 +27242,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -27281,7 +27323,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_john_jacob",
@@ -27358,7 +27401,8 @@
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
-    "kulp"
+    "kulp",
+    "mcphail"
    ],
    "adopted": false,
    "father": "kulp_elmer_spencer",
@@ -27648,10 +27692,10 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
     "schriefer",
     "simons",
     "trumbo"
@@ -27900,11 +27944,9 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "smith",
+   "branch": "other",
    "branch_by_marriage": false,
-   "lineages": [
-    "smith"
-   ],
+   "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -28635,8 +28677,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -28696,11 +28738,9 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "obad",
+   "branch": "other",
    "branch_by_marriage": false,
-   "lineages": [
-    "obad"
-   ],
+   "lineages": [],
    "adopted": false,
    "father": "ivo_john_obad",
    "mother": "susan_obad",
@@ -28869,7 +28909,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -28941,7 +28980,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29032,7 +29070,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29237,7 +29274,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29365,7 +29401,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29438,7 +29473,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29612,7 +29646,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29672,7 +29705,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29744,7 +29776,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29886,7 +29917,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -29959,7 +29989,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30022,7 +30051,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30096,7 +30124,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30230,7 +30257,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30432,7 +30458,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30495,7 +30520,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30635,7 +30659,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30710,7 +30733,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30790,7 +30812,6 @@
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
-    "grief",
     "mckeldin"
    ],
    "adopted": false,
@@ -30916,9 +30937,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": "mcphail_john_tate",
    "mother": null,
@@ -30976,9 +30999,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
@@ -31040,9 +31065,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": "mcphail_john_tate",
    "mother": null,
@@ -31156,9 +31183,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -31229,9 +31258,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
@@ -31303,9 +31334,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "kulp",
-   "branch_by_marriage": true,
-   "lineages": [],
+   "branch": "mcphail",
+   "branch_by_marriage": false,
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
@@ -31401,9 +31434,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
@@ -31471,9 +31506,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "mcphail",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "mcphail"
+   ],
    "adopted": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
@@ -31603,9 +31640,12 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "adams",
-   "branch_by_marriage": true,
-   "lineages": [],
+   "branch": "falde",
+   "branch_by_marriage": false,
+   "lineages": [
+    "falde",
+    "olson"
+   ],
    "adopted": false,
    "father": "falde_randy",
    "mother": "olson_kris",
@@ -31685,11 +31725,9 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "remy",
-   "branch_by_marriage": false,
-   "lineages": [
-    "remy"
-   ],
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -32654,8 +32692,8 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "falde",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -32712,8 +32750,8 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "olson",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -32773,9 +32811,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "rosgen_john",
    "mother": "olson_kari",
@@ -32827,9 +32867,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "olson_tom",
    "mother": "olson_bonnie",
@@ -32892,9 +32934,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "olson_tom_umpa",
    "mother": "dickpeddie_rosemary",
@@ -32958,9 +33002,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "olson_nels",
    "mother": "kirk_faith",
@@ -33010,9 +33056,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "olson_tom",
    "mother": "olson_bonnie",
@@ -33071,9 +33119,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "olson_tom_umpa",
    "mother": "dickpeddie_rosemary",
@@ -33126,9 +33176,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "olson_tom_umpa",
    "mother": "dickpeddie_rosemary",
@@ -33195,9 +33247,11 @@
    },
    "living": false,
    "living_status": "assumed",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -33258,9 +33312,11 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
+   "branch": "olson",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "olson"
+   ],
    "adopted": false,
    "father": "olson_tom",
    "mother": "olson_bonnie",
@@ -33319,10 +33375,12 @@
    "branch_by_marriage": false,
    "lineages": [
     "adams",
-    "grief",
+    "falde",
     "hamilton",
     "kulp",
     "mckeldin",
+    "mcphail",
+    "olson",
     "schriefer",
     "simons",
     "trumbo"
@@ -34868,6 +34926,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -34933,6 +34992,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -35378,8 +35438,8 @@
    },
    "living": true,
    "living_status": "living",
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "olson",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -35506,8 +35566,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -36225,8 +36285,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -37768,6 +37828,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -37959,6 +38020,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": true,
@@ -38018,6 +38080,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": true,
@@ -38077,6 +38140,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -38136,6 +38200,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -38292,6 +38357,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -38465,6 +38531,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -38611,6 +38678,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -38675,6 +38743,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -38790,6 +38859,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -38918,6 +38988,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -39097,6 +39168,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -39235,6 +39307,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -39440,6 +39513,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -39498,6 +39572,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -39558,6 +39633,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -39623,6 +39699,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "simons"
    ],
    "adopted": false,
@@ -41234,8 +41311,8 @@
    },
    "living": false,
    "living_status": "assumed",
-   "branch": "obad",
-   "branch_by_marriage": true,
+   "branch": "other",
+   "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -41556,8 +41633,8 @@
     "adams",
     "hamilton",
     "kulp",
+    "mcphail",
     "simons",
-    "smith",
     "trumbo"
    ],
    "adopted": false,
@@ -42644,8 +42721,8 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "grief",
-   "branch_by_marriage": true,
+   "branch": "other",
+   "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -42875,8 +42952,8 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "mcphail",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -44642,6 +44719,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -44707,6 +44785,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -44838,6 +44917,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -44897,6 +44977,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -44962,6 +45043,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -45034,6 +45116,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -45119,6 +45202,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -45198,6 +45282,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -45259,6 +45344,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
@@ -45320,6 +45406,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "kulp",
+    "mcphail",
     "zacher"
    ],
    "adopted": false,
