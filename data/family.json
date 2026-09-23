@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T01:29:46.082Z",
+  "generated": "2026-09-23T01:37:38.745Z",
   "people": 289,
   "family_members": 238,
   "dna_matches": 51,
   "connected_people": 236,
-  "families": 86,
+  "families": 87,
   "branches": [
    "adams",
    "hamilton",
@@ -10931,7 +10931,7 @@
   },
   {
    "id": "louise_daughter_of_rosemary_wells",
-   "name": "Louise",
+   "name": "Louise Morgan",
    "aliases": [],
    "photo": null,
    "media": [],
@@ -10946,11 +10946,9 @@
     "qualifier": null
    },
    "living": false,
-   "branch": "trumbo",
+   "branch": "other",
    "branch_by_marriage": false,
-   "lineages": [
-    "trumbo"
-   ],
+   "lineages": [],
    "father": "ralph_husband_of_rosemary_wells",
    "mother": "wells_rosemary",
    "parents": [
@@ -10982,7 +10980,7 @@
     "Brendan Adams, 2026-09-22"
    ],
    "notes": [
-    "Daughter of Rosemary Wells and Ralph. Surname not recorded. Possibly the same person as the DNA match Louise Craig; not merged until confirmed."
+    "Daughter of Rosemary Wells and Ralph. Goes by Louise Morgan, her husband's surname; her maiden name (Ralph's surname) is not recorded. Not the same person as the DNA match Louise Craig (confirmed by Brendan Adams)."
    ]
   },
   {
@@ -14593,8 +14591,8 @@
     "qualifier": null
    },
    "living": false,
-   "branch": "trumbo",
-   "branch_by_marriage": true,
+   "branch": "other",
+   "branch_by_marriage": false,
    "lineages": [],
    "father": null,
    "mother": null,
@@ -15327,11 +15325,9 @@
     "qualifier": null
    },
    "living": false,
-   "branch": "trumbo",
+   "branch": "other",
    "branch_by_marriage": false,
-   "lineages": [
-    "trumbo"
-   ],
+   "lineages": [],
    "father": null,
    "mother": "louise_daughter_of_rosemary_wells",
    "parents": [
@@ -15358,7 +15354,7 @@
     "Brendan Adams, 2026-09-22"
    ],
    "notes": [
-    "Son of Louise, the daughter of Rosemary Wells. Surname not recorded."
+    "Son of Louise Morgan, the daughter of Rosemary Wells. Surname not recorded."
    ]
   },
   {
@@ -18055,8 +18051,7 @@
    "children": [
     "adams_presley",
     "adams_edith_v",
-    "george_francis_adams_sr",
-    "wells_rosemary"
+    "george_francis_adams_sr"
    ],
    "siblings": [],
    "families": [
@@ -18483,7 +18478,8 @@
    ],
    "siblings": [],
    "families": [
-    "F_trumbo_serena_marie+wells_arthur"
+    "F_trumbo_serena_marie+wells_arthur",
+    "F_wells_arthur"
    ],
    "parent_family": null,
    "connected": true,
@@ -18532,15 +18528,12 @@
     "qualifier": null
    },
    "living": false,
-   "branch": "trumbo",
+   "branch": "other",
    "branch_by_marriage": false,
-   "lineages": [
-    "trumbo"
-   ],
+   "lineages": [],
    "father": "wells_arthur",
-   "mother": "trumbo_serena_marie",
+   "mother": null,
    "parents": [
-    "trumbo_serena_marie",
     "wells_arthur"
    ],
    "spouses": [
@@ -18553,7 +18546,7 @@
    "families": [
     "F_ralph_husband_of_rosemary_wells+wells_rosemary"
    ],
-   "parent_family": "F_trumbo_serena_marie+wells_arthur",
+   "parent_family": "F_wells_arthur",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -18575,7 +18568,7 @@
    ],
    "notes": [
     "Not a blood relative of Adams line. Step-sister of George Francis Adams Sr. Daughter of Arthur Wells.",
-    "CORRECTION 2026-09-22: Mother set to trumbo_serena_marie, wife of Arthur Wells (confirmed by Brendan Adams). This makes Rosemary a half sister, not a step-sister, of George Francis Adams Sr."
+    "CORRECTION 2026-09-22: Mother is not Serena Marie Nevada Trumbo (confirmed by Brendan Adams): Rosemary was born about 1916 and Serena married Arthur Wells in 1929. Rosemary was Arthur's daughter from an earlier marriage, so she was a step-sister of George Francis Adams Sr. Her mother is not recorded."
    ]
   },
   {
@@ -20606,6 +20599,14 @@
    "id": "F_trumbo_serena_marie+wells_arthur",
    "partners": [
     "trumbo_serena_marie",
+    "wells_arthur"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_wells_arthur",
+   "partners": [
     "wells_arthur"
    ],
    "children": [

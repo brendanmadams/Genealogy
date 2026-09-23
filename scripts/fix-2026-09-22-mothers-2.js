@@ -11,7 +11,7 @@ const TAG = 'CORRECTION 2026-09-22:';
 const FILLS = [
   ['michelle_mckeldin', ['charlie_mckeldin', 'jennifer_mckeldin'], 'Mother set to michelle_mckeldin, wife of Chuck McKeldin (confirmed by Brendan Adams).'],
   ['shelly_mckeldin', ['christian_mckeldin', 'jeffery_mckeldin'], 'Mother set to shelly_mckeldin, wife of J. Michael McKeldin (confirmed by Brendan Adams).'],
-  ['trumbo_serena_marie', ['wells_rosemary'], 'Mother set to trumbo_serena_marie, wife of Arthur Wells (confirmed by Brendan Adams). This makes Rosemary a half sister, not a step-sister, of George Francis Adams Sr.'],
+  // Rosemary Wells was later found NOT to be Serena's daughter; see fix-2026-09-22-wells.js.
   ['grief_dorothea', ['mckeldin_george_edward', 'mckeldin_laura_s', 'mckeldin_william'], 'Mother set to grief_dorothea (confirmed by Brendan Adams). The earlier half-sibling suspicion rested on a birth "before the ~1878 marriage", but 1880 is after it.'],
 ];
 
