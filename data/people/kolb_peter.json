@@ -21,17 +21,21 @@
     "siblings": [],
     "spouse": "oberholtzer_elizabeth",
     "children": [
-      "kolb_jacob_oberholtzer"
+      "kolb_jacob_oberholtzer",
+      "kolb_dorthea",
+      "kolb_elizabeth"
     ]
   },
   "locations": [
     "Bebberstown, Montgomery County, PA"
   ],
   "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Son of Henry Kolb. Previously missing generation between Henry Kolb (d.1730) and Jacob Oberholtzer Kolb (b.1740). Source: Irmagene Kulp Zacher, Kulp Family Lineage.",
-    "CORRECTION 2026-09-22: Mother changed from schumacher_agnes (his grandmother, wife of Dielman Kolb) to fretz_barbara, wife of his father Henry Kolb."
+    "CORRECTION 2026-09-22: Mother changed from schumacher_agnes (his grandmother, wife of Dielman Kolb) to fretz_barbara, wife of his father Henry Kolb.",
+    "Open question: Peter Kolb is listed as born 1718, married 1748 and died 1748, yet his son Jacob Oberholtzer Kolb was born 7 Mar 1740. The marriage year or birth dates may be wrong [Family research emails, email 23]"
   ]
 }

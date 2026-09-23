@@ -20,7 +20,9 @@
     "Buried: No burial site has been found"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Francis came to oversee the Keep Triste iron furnace (the Harper's Ferry foundry) for his father, a major investor in it. (from 1764)"
+  ],
   "relationships": {
     "mother": "young_jacobina",
     "father": "hamilton_john_of_kype",
@@ -39,14 +41,14 @@
   "locations": [
     "Mauchline, Ayrshire, Scotland",
     "Jefferson County, VA",
-    "Jefferson Co., VA",
     "Shepherdstown area, along the Potomac River",
-    "Keeptrist, Berkeley Co., VA (now Jefferson Co., WV)"
+    "Keeptrist, Berkeley County, VA (now Jefferson County, WV)"
   ],
   "sources": [
     "family_data_v1",
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Father of Elizabeth (Eliza) Hamilton (wife of Jose Pierre Adams). Parents: John Hamilton of Kype and Jacobina Young.",
@@ -70,6 +72,12 @@
     "Bought 120 acres from Peter Fleck, previously owned by Charles Friend [Bill Allen, Further Research, 2012, line 9220]",
     "Three estate records exist in Jefferson Co. (pages missing); property distributed to heirs on 20 Apr 1809 [Bill Allen, Further Research, 2012, line 9223]",
     "Sources disagree: The register says he bought household goods from John Lindsay in \"1879\", apparently a misprint for 1789. [Bill Allen, line 9215]",
-    "Bill Allen’s hypothesis: A Maryland Historical Magazine article says he moved to Prince George’s County before 1799; the compiler thinks that was a different Francis Hamilton, who married Susan Blandford. [Bill Allen, line 9226]"
+    "Bill Allen’s hypothesis: A Maryland Historical Magazine article says he moved to Prince George’s County before 1799; the compiler thinks that was a different Francis Hamilton, who married Susan Blandford. [Bill Allen, line 9226]",
+    "Francis emigrated from Scotland to America in Aug 1764; John Semple paid his passage, according to Semple's receipt books at the Library of Virginia. [Family research emails, email 6]",
+    "Francis is the g.g.g.g. grandfather of George and John Adams. [Family research emails, email 7]",
+    "Unconfirmed: Through his father, Francis seems to have ended up with some of John Semple's holdings. [Family research emails, email 06]",
+    "Unconfirmed: John could not confirm a Gavin Hamilton as the father of the Francis purported to be Elizabeth's father. [Family research emails, email 36]",
+    "Open question: Were Eliza and Francis Hamilton children of Gavin Hamilton (Ralph Allen), grandchildren of Gavin Hamilton of Scotland via a Virginia line (George), or children of Francis and Susan Hamilton (Bill Allen)? [Family research emails, email 41]",
+    "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]"
   ]
 }

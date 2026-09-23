@@ -1,8 +1,8 @@
 {
   "id": "simons_howard",
   "name": "Howard Simons",
-  "birth": "",
-  "death": "",
+  "birth": "25 Dec 1925",
+  "death": "Sep 1973",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -10,8 +10,13 @@
     "Legal name Byron Daniel — Dradie filled out the birth certificate differently than Raymond had agreed. Beryl's favorite brother."
   ],
   "risk_events": [],
-  "milestones": [],
-  "education": [],
+  "milestones": [
+    "Born 25 Dec 1925, Lynden, Whatcom Co, Washington",
+    "Died Sep 1973"
+  ],
+  "education": [
+    "Howard Simons was an elementary school student of Amy Kulp and Alice Burk."
+  ],
   "career": [],
   "relationships": {
     "mother": "kulp_dradie_ellen",
@@ -29,9 +34,13 @@
       "simons_judy"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Lynden, Whatcom County, Washington",
+    "Delta, Whatcom County, Washington"
+  ],
   "sources": [
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Known as Howard; legal name Byron Daniel Simons. Beryl's favorite brother. Previously referenced in prior sources as 'Byron Daniel Howard Simons.'"

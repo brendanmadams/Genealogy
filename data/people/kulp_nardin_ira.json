@@ -9,7 +9,9 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Nellie"
+    "Married Nellie",
+    "Buried: Nardin Kulp is buried in the Albion cemetery.",
+    "Born 1904, Whatcom County, Washington"
   ],
   "education": [],
   "career": [],
@@ -17,14 +19,22 @@
     "mother": "mcphail_mary_emily",
     "father": "kulp_john_jacob",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "kulp_nellie",
+    "children": [
+      "kulp_elvin"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Delta Township, Whatcom County, Washington",
+    "Albion cemetery, Albion, Washington",
+    "Whatcom County, Washington"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Unconfirmed: Irma believes Nardin graduated from Albion High School. [Family research emails, email 48]"
   ]
 }

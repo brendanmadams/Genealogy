@@ -11,22 +11,26 @@
   ],
   "childhood_experience": [],
   "notable_stories": [
-    "Died on Mother's Day at 99.5 years old"
+    "Died on Mother's Day at 99.5 years old",
+    "Elaine, Les Rinehart and son Jerry lived with Elmer and Amy during hard times; Amy chose bathing Jerry over cooking dinner, and she and Elaine stayed close until Amy's death."
   ],
   "risk_events": [],
   "milestones": [
     "Birth: 2 January 1908",
     "Death: 13 May 2007 (Mother's Day)",
-    "Married Elmer Spencer Kulp: 4 June 1931, Bellingham, Whatcom County, WA"
+    "Married Elmer Spencer Kulp (m. 4 Jun 1931, Bellingham, Whatcom Co, Washington)"
   ],
   "education": [],
   "career": [
-    "Longtime school teacher"
+    "Longtime school teacher",
+    "Amy was an elementary school teacher in Whatcom County whose students included Elaine, Beryl, Orval and Howard Simons."
   ],
   "relationships": {
     "mother": "",
     "father": "",
-    "siblings": [],
+    "siblings": [
+      "ritchey_alice"
+    ],
     "spouse": "kulp_elmer_spencer",
     "children": [
       "kulp_irmagene",
@@ -35,10 +39,13 @@
   },
   "locations": [
     "Lynden, WA",
-    "Bellingham, WA"
+    "Bellingham, WA",
+    "Whatcom County, Washington (Burk farm)",
+    "Delta Township, Whatcom County, Washington"
   ],
   "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Marriage date confirmed: 4 June 1931, Bellingham. Fixes prior issue where Elmer Spencer Kulp's spouse field incorrectly pointed to himself."

@@ -1,7 +1,7 @@
 {
   "id": "simons_aaron",
   "name": "Aaron Simons",
-  "birth": "1852",
+  "birth": "May 1852",
   "death": "after 1920",
   "personality": [],
   "roles": [],
@@ -17,10 +17,14 @@
   "milestones": [
     "Married Harriet M. Hattie (born Canada)",
     "Migration path: Ohio to Michigan (by 1900) to Whatcom County, Washington (by 1910)",
-    "1900: living in Michigan; 1910: living in Washington; 1920: living in Washington (farmer)"
+    "1900: living in Michigan; 1910: living in Washington; 1920: living in Washington (farmer)",
+    "Born May 1852, Ohio"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Aaron Simons worked in logging in 1910.",
+    "Aaron Simons was a general farmer in 1920."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
@@ -36,14 +40,22 @@
   "locations": [
     "Ohio",
     "Covert Township, MI",
-    "Delta Township, WA"
+    "Delta Township, WA",
+    "Burk Road, Delta Township, Whatcom County, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Aaron Simons birth ~1852 confirmed (age 48 in 1900). Birthplace Ohio confirmed. 1910 household includes 'Zell Busey, age 4' — identity unknown.",
-    "CORRECTION 2026-09-22: Spouse reference harriet_m_hattie pointed at no record; changed to simons_harriet_hattie."
+    "CORRECTION 2026-09-22: Spouse reference harriet_m_hattie pointed at no record; changed to simons_harriet_hattie.",
+    "CORRECTION 2026-09-23: Birth refined from \"1852\" to \"May 1852\" [Family research emails, email 50].",
+    "The Simons tree ends at Aaron and Hattie; their parents are unknown. [Family research emails, email 46]",
+    "Research lead (Zell Busey): Zell Busey, 4, lived in Aaron Simons's household in 1910; Irma guesses he may be a son of one of Ray's sisters. [Family research emails, email 50]",
+    "Open question: Aaron Simons's origins conflict: censuses say he was born in Ohio with a father born in England (1920), while Ray's draft card gives his father's birthplace as Indiana [Family research emails, email 50]",
+    "Open question: Who was Zell Busey, age 4, in Aaron Simons's 1910 household? Irma guesses a son of one of Ray's sisters [Family research emails, email 50]",
+    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]"
   ]
 }

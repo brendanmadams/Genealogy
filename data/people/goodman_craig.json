@@ -2,13 +2,15 @@
   "id": "goodman_craig",
   "name": "Craig Goodman",
   "birth": "",
-  "death": "",
+  "death": "Aug 2009",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Died Aug 2009"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -17,17 +19,18 @@
     "siblings": [],
     "spouse": "zacher_kimberly_lynn",
     "children": [
-      "zacher_amy",
-      "zacher_andrew",
-      "zacher_spencer",
-      "zacher_jacob"
+      "goodman_amber"
     ]
   },
   "locations": [],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "First spouse of Kimberly Lynn Zacher (div.)."
+    "First spouse of Kimberly Lynn Zacher (div.).",
+    "Craig Goodman was the father of Amber; Kim's other children were fathered by Richard Rotter. [Family research emails, email 23]",
+    "Kim Zacher's first husband; they were married about five years and stayed friends. Father of Amber. Irma writes that Amber's father, Kim's first husband, died in Aug 2009. [Family research emails, email 23]",
+    "Open question: Irma says Richard Rotter fathered Kim's children other than Amber (Andrew, Spencer, Amy, Jacob). The tree lists Craig Goodman as their father under the surname Zacher, and has both zacher_spencer and an unlinked rotter_spencer [Family research emails, email 23]"
   ]
 }

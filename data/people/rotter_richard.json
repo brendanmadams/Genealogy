@@ -8,7 +8,9 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Kimberly Lynn Zacher (Goodman/Rotter) (m. abt 1991)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -16,13 +18,21 @@
     "father": "",
     "siblings": [],
     "spouse": "zacher_kimberly_lynn",
-    "children": []
+    "children": [
+      "zacher_andrew",
+      "zacher_spencer",
+      "zacher_amy",
+      "zacher_jacob"
+    ]
   },
   "locations": [],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "Second spouse of Kimberly Lynn Zacher (div.)."
+    "Second spouse of Kimberly Lynn Zacher (div.).",
+    "Richard Rotter is the father of Kim's children other than Amber (Andrew, Spencer, Amy and Jacob). [Family research emails, email 23]",
+    "Open question: Irma says Richard Rotter fathered Kim's children other than Amber (Andrew, Spencer, Amy, Jacob). The tree lists Craig Goodman as their father under the surname Zacher, and has both zacher_spencer and an unlinked rotter_spencer [Family research emails, email 23]"
   ]
 }

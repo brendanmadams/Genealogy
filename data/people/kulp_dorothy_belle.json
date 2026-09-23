@@ -10,7 +10,9 @@
   "risk_events": [],
   "milestones": [
     "Married James Frederick Kenoyer",
-    "Married Charles Hooper"
+    "Married Charles Hooper",
+    "Buried: Aunt Dorothy (Kulp) Kenoyer-Hooper is buried in the Albion cemetery.",
+    "Born 1912, Whatcom County, Washington"
   ],
   "education": [],
   "career": [],
@@ -18,12 +20,21 @@
     "mother": "mcphail_mary_emily",
     "father": "kulp_john_jacob",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "kenoyer_james_fredrick",
+    "children": [
+      "kenoyer_john_wesley",
+      "kenoyer_dorothy_betty",
+      "kenoyer_wayne",
+      "kenoyer_charles"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Albion cemetery, Albion, Washington",
+    "Whatcom County, Washington"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."

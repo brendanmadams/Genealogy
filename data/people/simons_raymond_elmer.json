@@ -1,14 +1,16 @@
 {
   "id": "simons_raymond_elmer",
   "name": "Raymond Elmer Simons",
-  "birth": "",
+  "birth": "17 Oct 1921",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 17 Oct 1921, Lynden, Whatcom Co, Washington"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -21,9 +23,13 @@
       "simons_debra_sue"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Lynden, Whatcom County, Washington",
+    "Delta, Whatcom County, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue."

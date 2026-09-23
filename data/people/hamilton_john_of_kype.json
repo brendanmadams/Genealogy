@@ -22,7 +22,8 @@
   "education": [],
   "career": [
     "Lawyer",
-    "Clerk to the regality of Mauchline"
+    "Clerk to the regality of Mauchline",
+    "John Hamilton of Kype was a major investor in John Semple's Virginia business, including the Keep Triste iron furnace. (abt 1764)"
   ],
   "relationships": {
     "mother": "",
@@ -31,19 +32,30 @@
     "spouse": "young_jacobina",
     "children": [
       "hamilton_francis",
-      "hamilton_alexander_uncle"
+      "hamilton_alexander_uncle",
+      "hamilton_gavin_mauchline"
     ]
   },
   "locations": [
-    "Scotland"
+    "Scotland",
+    "Kype, Scotland",
+    "Mauchline, Ayrshire, Scotland"
   ],
   "sources": [
     "family_data_v1",
     "Family letters in Bill Allen’s family document",
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Father of Francis Hamilton, who is father of Elizabeth Hamilton (wife of Jose Pierre Adams). Robert Burns connection.",
-    "Unclear reference: A letter says \"he\" bought the tower known as the Castle of Mauchline, later sold it and leased it back from the Earl of Loudon; it may mean John Hamilton of Kype or his son Gavin. [Bill Allen, line 3157]"
+    "Unclear reference: A letter says \"he\" bought the tower known as the Castle of Mauchline, later sold it and leased it back from the Earl of Loudon; it may mean John Hamilton of Kype or his son Gavin. [Bill Allen, line 3157]",
+    "John was a brother of the more famous Gavin Hamilton of Mauchline. [Family research emails, email 7]",
+    "John is the g.g.g.g.g. grandfather of George and John Adams, which corrects the earlier claim of g.g.g.g. [Family research emails, email 7]",
+    "Unconfirmed: A Hamilton of Kype lineage chart suggests the family descends indirectly from King James II of Scotland. [Family research emails, email 06]",
+    "Unconfirmed: Gavin Hamilton's father and mother were rebuked by the Kirk Session before their marriage for conceiving a child out of wedlock. [Family research emails, email 22]",
+    "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]",
+    "Open question: Keep Triste Furnace / Harper's Ferry foundry: the author of the Jefferson County history said he would send more on Francis Hamilton; follow up. [Family research emails, email 06]",
+    "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
   ]
 }

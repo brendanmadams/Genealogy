@@ -1,14 +1,16 @@
 {
   "id": "kulp_brenda_renee",
   "name": "Brenda Renee Kulp",
-  "birth": "",
+  "birth": "Mar 1967",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born Mar 1967"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -20,7 +22,8 @@
   },
   "locations": [],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Child of Spencer Ritchey Kulp."

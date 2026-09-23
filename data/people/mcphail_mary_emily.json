@@ -9,13 +9,16 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married John Jacob Kulp (m. 15 Aug 1897, Lynden, WA)"
+    "Married John Jacob Kulp (m. 15 Aug 1897, Lynden, WA)",
+    "Buried: Mary Kulp is buried in the Albion cemetery.",
+    "Born Memphis, Tennessee",
+    "Buried: Mary and John Kulp are both buried in the Albion, Washington cemetery."
   ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "ball_ellen_rogers",
+    "father": "mcphail_john_belle",
     "siblings": [],
     "spouse": "kulp_john_jacob",
     "children": [
@@ -34,18 +37,24 @@
   "locations": [
     "Nashville, TN",
     "Albion, WA",
-    "Lynden, WA"
+    "Lynden, WA",
+    "Albion Cemetery, Albion, Washington",
+    "Memphis, Tennessee"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "family_data_v1",
     "john_howard_adams_memoir_v1",
-    "Family record book, Christmas 1943 (Kulp/McPhail), page 14"
+    "Family record book, Christmas 1943 (Kulp/McPhail), page 14",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Spouse of John Jacob Kulp (m. 1897). Family moved to Eastern Washington in 1913 for her health.",
     "Death date newly established: 31 May 1931. Birth: 1878, Nashville TN.",
     "OPEN QUESTION: John's memoir states Gertrude Elaine Adams Remy was named after 'Beryl's grandmother.' Mary Emily Valentine McPhail is Beryl's maternal grandmother. If she carried 'Gertrude' as an additional name, Trudy's naming is explained. Research: Mary Emily's full name on records.",
-    "CORRECTION 2026-09-22: Birth refined from 1878 to 14 Feb 1878 (a Thursday) and marriage dated 15 Aug 1897 at Lynden, WA, from the 1943 family record book, which lists her among the five children of John Belle McPhail and Ellen R. Ball (m. 9 Jul 1872)."
+    "CORRECTION 2026-09-22: Birth refined from 1878 to 14 Feb 1878 (a Thursday) and marriage dated 15 Aug 1897 at Lynden, WA, from the 1943 family record book, which lists her among the five children of John Belle McPhail and Ellen R. Ball (m. 9 Jul 1872).",
+    "CORRECTION 2026-09-23: Parents set to John Belle McPhail and Ellen Rogers Ball, from Irma's family notes. [Family research emails, email 48, 50]",
+    "Unconfirmed: Family lore says the Kulps moved to Eastern Washington because Mary was uncomfortable in the wet Whatcom County climate. [Family research emails, email 48]",
+    "Open question: Mary Emily McPhail Kulp's death date is given as 30/31 May 1931; which day is correct? [Family research emails, email 30, 31, 48]"
   ]
 }

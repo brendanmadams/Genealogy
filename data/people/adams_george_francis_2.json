@@ -25,14 +25,16 @@
     "Census trail: Denver CO (1880, 1900) → Umpqua, Douglas County OR (1910) → Sutherlin OR (1920)",
     "Served in the military on 2 Jun 1898 in Denver, CO",
     "Born Missouri",
-    "Military: Military service entry dated 2 Jun 1898, Denver, Arapahoe County, CO."
+    "Military: Military service entry dated 2 Jun 1898, Denver, Arapahoe County, CO.",
+    "Military: George F. Adams served in the military in Denver in 1898; the branch is not stated."
   ],
   "education": [
     "Graduated from Washington State University with a degree in Pharmacy in 1908",
     "Pharmacy degree from Washington State University, Pullman, WA, 1908."
   ],
   "career": [
-    "Owner of the Adams Drug Store in Sutherlin, Oregon; described as one of the best known citizens of Douglas County (Journal of the National Association of Retail Druggists, 26 Feb 1920)"
+    "Owner of the Adams Drug Store in Sutherlin, Oregon; described as one of the best known citizens of Douglas County (Journal of the National Association of Retail Druggists, 26 Feb 1920)",
+    "He worked in a pharmacy, where an article says George Trumbo worked with him."
   ],
   "relationships": {
     "mother": "vantine_mary_frances",
@@ -56,7 +58,8 @@
     "Denver, Arapahoe County, CO",
     "Umpqua, Douglas County, OR",
     "Missouri",
-    "Roseburg, OR"
+    "Roseburg, OR",
+    "Denver, Colorado"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -64,7 +67,8 @@
     "manual_stitch_adams_direct_line",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
-    "Family letters in Bill Allen’s family document"
+    "Family letters in Bill Allen’s family document",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
@@ -72,6 +76,31 @@
     "Father set: adams_john_wesley. Evidence: Adams direct line: Gen 4 (George Francis Adams #2, b.1876) is son of Gen 3 (John Wesley Adams, b.1841). Source: adams_direct_line_json_v1, family_data_v1.",
     "CORRECTION 2026-09-22: Mother set to vantine_mary_frances: his sister Alberta's record lists him as a full sibling, and Mary Frances Vantine is John Wesley Adams's wife at his birth (m. 1866; b. 1876).",
     "Survived by his widow and three children [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4697]",
-    "Pictured in a family photograph c. 1919 with Serena, Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
+    "Pictured in a family photograph c. 1919 with Serena, Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
+    "His obituary ran in the NARD Journal, a retail druggists' journal, and was confirmed as published on 18 March 1920. [Family research emails, email 31]",
+    "Sources disagree: his granddaughter Trudy (Gertrude Adams Remy) remembered him dying in 1918, when her father was 2. The death date kept is 7 Feb 1920: he is in the 1920 census (taken 20 Jan 1920), and his NARD Journal obituary appeared 18 Mar 1920. [Family research emails, email 30, 31] Decision by Brendan Adams.",
+    "Unconfirmed: Bill Allen says George Francis Adams was the younger brother of his great-grandmother Alberta Adams Allen. [Family research emails, email 26]",
+    "Unconfirmed: A short obituary for him appeared in the 1920 National Association of Retail Druggists newsletter, suggesting he was a druggist. [Family research emails, email 41]",
+    "Unconfirmed: His obituaries appeared in pharmacy trade journals (NARD Journal, Practical Druggist), which suggests he was a druggist. [Family research emails, email 24]",
+    "Unconfirmed: He may be buried in Sutherlin, but this is not confirmed. [Family research emails, email 24]",
+    "Unconfirmed: Trudy said he died in 1918, but the 1920 census and the obituary's March 1920 publication date contradict this. [Family research emails, email 30]",
+    "Unconfirmed: The obituary says he died of the flu; the writers note this would have been after the 1917-18 epidemic, and that a death certificate would settle it. [Family research emails, email 31]",
+    "Unconfirmed: A death certificate for him probably exists in the Douglas County archives but had not been located yet. [Family research emails, email 30]",
+    "Unconfirmed: George II was born in Missouri, possibly Marion. [Family research emails, email 20]",
+    "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]",
+    "Open question: An Ancestry.com tree by Cynthia Hughes / Dustin Spivey claims a George Washington Adams, son of George Francis Adams and brother of a John Sr. Adams of California. George F. Adams says no such person exists and calls it a different tree or a mistake (emails 25, 44). Details of that outside family were not extracted. [Family research emails, email 25, 44]",
+    "Open question: The marriage record of George Francis Adams #1 and Cynthia Lane indexes the groom as 'George T.' and misspells Cynthia; the date and place of the marriage are not given in the email text [Family research emails, email 18]",
+    "Open question: Was GFA II (George Francis Adams #2, d 1920) buried in Sutherlin (email 24)? [Family research emails, email 24]",
+    "Open question: Charlie Hogan calls GFA #1 the 'GGrandfather' of GFA III, but by the tree GFA #1 is the great-great-grandfather of George Francis Adams Jr.; also, the sender's 'GFA III' numbering skips John Wesley and differs from the tree's Sr./Jr. naming [Family research emails, email 05]",
+    "Open question: When did George Francis Adams (#2) die? Trudy (Gertrude Adams Remy) says 1918, when their dad was 2. The 1920 Douglas County, OR census (dated 20 Jan 1920) lists him, and his NARD Journal obituary gives 7 Feb and was published 18 Mar 1920. The writers want the Douglas County death certificate to settle it. [Family research emails, email 30, 31, 20, 18]",
+    "Open question: The obituary gives flu as the cause of death of George Francis Adams (#2), but a February 1920 death falls after the 1917-18 epidemic. Is the cause correct? [Family research emails, email 31, 18]",
+    "Open question: George Francis Adams Sr. appears as Edward G. in the 1920 census, and Oregon birth certificates exist under both names. Did Neenie rename him after his father died? What did the 'G' stand for (guessed George)? John asks 'where did Edward come from?' [Family research emails, email 17, 31]",
+    "Open question: George F. Adams says his dad was technically 'George II' because of a generation gap between the first two George Francis Adamses. This clashes with the tree, which numbers George Francis Adams (#1, b. 1816) and (#2, b. 1876) as consecutive, although #2 is a grandson of #1. [Family research emails, email 31]",
+    "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
+    "Open question: Who are 'George & Dahlia'? Sutherlin, OR records hold material on them and their ancestors, but no Dahlia is in the tree. [Family research emails, email 31]",
+    "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]",
+    "Open question: Email 35 gives George Francis Adams (#1)'s birth year as 1817; the tree has 11 May 1816. [Family research emails, email 35, 11]",
+    "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]",
+    "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]"
   ]
 }

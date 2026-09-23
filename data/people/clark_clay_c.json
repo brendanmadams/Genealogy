@@ -17,7 +17,9 @@
     "Birth: 1860, Chariton County, MO"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Clay became a very successful cattle rancher and served several terms in the Oregon Legislature."
+  ],
   "relationships": {
     "mother": "vantine_mary_frances",
     "father": "clark_ephraim",
@@ -26,13 +28,18 @@
     "children": []
   },
   "locations": [
-    "Chariton County, MO"
+    "Chariton County, MO",
+    "northwest Chariton County, Missouri"
   ],
   "sources": [
     "family_data_v1",
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "Half-sibling of John Wesley Adams' children. Born 1860. Given up for adoption."
+    "Half-sibling of John Wesley Adams' children. Born 1860. Given up for adoption.",
+    "The Willett family, neighbours on the Chariton County map, adopted or raised Clay until he turned 18. [Family research emails, email 4]",
+    "Unconfirmed: Around 1883 Clay moved to Arlington, Oregon, on the Columbia River. [Family research emails, email 04]",
+    "Open question: Mary Frances Vantine (Adams): she married Ephraim Clark at 15 and was barely 16 when he died at the end of the Civil War (1865), which conflicts with her tree birth of Oct 1844 and with Clay C. Clark's tree birth of 1860. [Family research emails, email 15, 16, 04]"
   ]
 }

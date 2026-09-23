@@ -1,0 +1,1250 @@
+{
+ "_comment": "Labelled notes from the family research emails: research leads, unconfirmed readings and the writers’ open questions. Applied by scripts/fix-2026-09-23-family-emails.js.",
+ "notes": [
+  {
+   "id": "simons_aaron",
+   "kind": "lead",
+   "text": "Research lead (Zell Busey): Zell Busey, 4, lived in Aaron Simons's household in 1910; Irma guesses he may be a son of one of Ray's sisters. [Family research emails, email 50]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "lead",
+   "text": "Research lead (Francis Hamilton): A Francis Hamilton married Sarah Lee in 1818; the license was signed by Jose Adams. [Family research emails, email 41]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "lead",
+   "text": "Research lead (Francis Hamilton): Francis Hamilton, Eliza's brother, was a close friend of Jose Adams. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "lead",
+   "text": "Research lead (Francis Hamilton): Francis Hamilton, Eliza's brother, was a close friend of Jose Adams. [Family research emails, email 41]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "lead",
+   "text": "Research lead (Gill): In 1850 a Gill family in Licking County, Ohio, had Elizabeth Adams (76) living with them; Bill thinks one of her daughters married into it. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "lead",
+   "text": "Research lead (Samuel Peer): Samuel Peer, aged 19, was in the Gill household with Elizabeth Adams in the 1850 census. [Family research emails, email 08]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "lead",
+   "text": "Research lead (Samuel Peer): Samuel Peer, aged 19, was in the Gill household with Elizabeth Adams in the 1850 census. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "lead",
+   "text": "Research lead (Samuel Peer): Samuel Peer was born in 1831 in Hampshire County, Virginia, into the large family of Phillip Peer (Pear/Perry); Bill is not certain this is the same Samuel. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "lead",
+   "text": "Research lead (Phillip Peer): Phillip Peer's family goes back to the early 1700s in Westchester County, NY; he had four daughters whose husbands are unknown. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "lead",
+   "text": "Research lead (Phillip Peer): Bill speculates that one of Phillip Peer's daughters was the mother of Jose P. Adams #1, which would explain the name Joseph Peer/Pierre. [Family research emails, email 08]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "lead",
+   "text": "Research lead (Francis Hamilton): Francis Hamilton married a woman named Eliza (surname unknown). [Family research emails, email 20]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "lead",
+   "text": "Research lead (Francis Hamilton): Francis Hamilton and his sister Mary owned a foundry in Harpers Ferry. [Family research emails, email 20]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "lead",
+   "text": "Research lead (Francis Hamilton): The family holds a copy of Francis Hamilton's will, which left a small sum to the young George Francis Adams. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "lead",
+   "text": "Research lead (Francis Hamilton): The family holds a copy of Francis Hamilton's will, which left a small sum to the young George Francis Adams. [Family research emails, email 20]"
+  },
+  {
+   "id": "kolb_dielman_edward",
+   "kind": "unclear",
+   "text": "Unconfirmed: Dielman Edward Kolb is thought to be buried in Manheim in the Palatinate. [Family research emails, email 23]"
+  },
+  {
+   "id": "mcphail_mary_emily",
+   "kind": "unclear",
+   "text": "Unconfirmed: Family lore says the Kulps moved to Eastern Washington because Mary was uncomfortable in the wet Whatcom County climate. [Family research emails, email 48]"
+  },
+  {
+   "id": "kulp_dradie_ellen",
+   "kind": "unclear",
+   "text": "Unconfirmed: Family members disagree whether the first seven Kulp children were born at Delta Township, Blaine or Lynden; Irma believed they were born on the Kulp homestead on Burk Road. [Family research emails, email 48]"
+  },
+  {
+   "id": "kulp_nardin_ira",
+   "kind": "unclear",
+   "text": "Unconfirmed: Irma believes Nardin graduated from Albion High School. [Family research emails, email 48]"
+  },
+  {
+   "id": "kulp_alton_roger",
+   "kind": "unclear",
+   "text": "Unconfirmed: Alton was only about 12 when his mother died. [Family research emails, email 48]"
+  },
+  {
+   "id": "kulp_irmagene",
+   "kind": "unclear",
+   "text": "Unconfirmed: John describes Irma as connected to the Kulp and Weidenkamp families, among others. [Family research emails, email 44]"
+  },
+  {
+   "id": "simons_harriet_hattie",
+   "kind": "unclear",
+   "text": "Unconfirmed: Harriet M. Simons, 41, appears in the 1900 census with Aaron; the record lists an arrival year of 1862, perhaps her family's move from Canada. [Family research emails, email 50]"
+  },
+  {
+   "id": "simons_harriet_hattie",
+   "kind": "unclear",
+   "text": "Unconfirmed: Hattie Simons appears aged 59 in the 1910 census, born in Canada (English). [Family research emails, email 50]"
+  },
+  {
+   "id": "simons_raymond_zell",
+   "kind": "unclear",
+   "text": "Unconfirmed: Raymond Zell Simons was born 7 May 1898 or 14 June 1897; Irma gives Ann Harbor, Michigan. [Family research emails, email 50]"
+  },
+  {
+   "id": "simons_raymond_zell",
+   "kind": "unclear",
+   "text": "Unconfirmed: The Social Security Death Index lists a Raymond Simons born 7 May 1899, died Sept 1976 in Seattle, possibly a different man. [Family research emails, email 50]"
+  },
+  {
+   "id": "beryl_simons_adams",
+   "kind": "unclear",
+   "text": "Unconfirmed: Irma thinks Beryl and her younger siblings were born in Whatcom County after the family returned from Milton, Oregon. [Family research emails, email 48]"
+  },
+  {
+   "id": "beryl_simons_adams",
+   "kind": "unclear",
+   "text": "Unconfirmed: Beryl reportedly skipped a grade, putting her in the same class as her older sister Elaine; both were remembered as excellent students. [Family research emails, email 48]"
+  },
+  {
+   "id": "simons_glen",
+   "kind": "unclear",
+   "text": "Unconfirmed: Irma thinks Glen Simons might not have been born in the Lynden area. [Family research emails, email 48]"
+  },
+  {
+   "id": "simons_sharon",
+   "kind": "unclear",
+   "text": "Unconfirmed: Sharon Simons uses the married surname Thompson and planned to visit Nancy in the Tri-Cities in 2011. [Family research emails, email 43]"
+  },
+  {
+   "id": "simons_sharon",
+   "kind": "unclear",
+   "text": "Unconfirmed: Sharon, apparently a Simons cousin, writes under the married surname Thompson and calls Elaine Simons her aunt. [Family research emails, email 34]"
+  },
+  {
+   "id": "george_francis_adams_sr",
+   "kind": "unclear",
+   "text": "Unconfirmed: His mother Neenie seems to have changed his name from Edward G. to George F. some time after his father died. [Family research emails, email 17]"
+  },
+  {
+   "id": "george_francis_adams_sr",
+   "kind": "unclear",
+   "text": "Unconfirmed: His sister Trudy said he was 2 years old when his father died in 1918, a date the brothers later doubted. [Family research emails, email 30]"
+  },
+  {
+   "id": "george_francis_adams_sr",
+   "kind": "unclear",
+   "text": "Unconfirmed: His son George can only guess that the 'G' in Edward G. stood for George. [Family research emails, email 31]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen says George Francis Adams was the younger brother of his great-grandmother Alberta Adams Allen. [Family research emails, email 26]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: A short obituary for him appeared in the 1920 National Association of Retail Druggists newsletter, suggesting he was a druggist. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: His obituaries appeared in pharmacy trade journals (NARD Journal, Practical Druggist), which suggests he was a druggist. [Family research emails, email 24]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: He may be buried in Sutherlin, but this is not confirmed. [Family research emails, email 24]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: Trudy said he died in 1918, but the 1920 census and the obituary's March 1920 publication date contradict this. [Family research emails, email 30]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: The obituary says he died of the flu; the writers note this would have been after the 1917-18 epidemic, and that a death certificate would settle it. [Family research emails, email 31]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: A death certificate for him probably exists in the Douglas County archives but had not been located yet. [Family research emails, email 30]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "unclear",
+   "text": "Unconfirmed: George II was born in Missouri, possibly Marion. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_john_wesley",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill thinks John W. also ran a farm across the way on behalf of his wife. [Family research emails, email 04]"
+  },
+  {
+   "id": "adams_alberta",
+   "kind": "unclear",
+   "text": "Unconfirmed: According to Bill Allen, Alberta filled in the parents' section of her father John W.'s death certificate and was probably guessing, since she hardly knew George F. and Cynthia Lane. [Family research emails, email 47]"
+  },
+  {
+   "id": "allen_william_w",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen, described as a nephew of Ralph Allen, continued his uncle's research and sent George a long family genealogy report in 2010. [Family research emails, email 41]"
+  },
+  {
+   "id": "john_howard_adams",
+   "kind": "unclear",
+   "text": "Unconfirmed: George believes John was likely named after their great-grandfather John Wesley Adams; John finds it dubious. [Family research emails, email 41]"
+  },
+  {
+   "id": "gertrude_adams_remy",
+   "kind": "unclear",
+   "text": "Unconfirmed: Trudy apparently lived in or near Sacramento in 2011; the trip to Trudy's meant driving down to Sacramento. [Family research emails, email 33]"
+  },
+  {
+   "id": "george_francis_adams_jr",
+   "kind": "unclear",
+   "text": "Unconfirmed: Charlie Hogan understands that he is a member of the Sons of Confederate Veterans. [Family research emails, email 05]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: John understood these relatives to be buried within 15 miles of Englewood and wondered whether their family plot in Castle Rock still exists. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: George believes the name Francis came from Francis Hamilton, brother of Eliza and friend of Jose, as shown on a marriage certificate. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: Charlie Hogan says the grave had gone unmarked for 115 years as of November 2011, which points to a death or burial around 1896. [Family research emails, email 11]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: Sketchy records suggest he took part in the Mormon Conflict of 1838 and the Mexican/American War of 1839-1840, as did John S. Lane. [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen suggests that slavery may have divided him from his family: he went on to Missouri and fought for the Confederacy, while his family stayed in anti-slavery Ohio and two of his sons sided with the Union. [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: George F. always said he was born in Virginia, and his obituary agrees, but his son John W.'s death certificate gives Ohio. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: George F.'s obituary says the family came west in 1833; Bill wonders if they went to Ohio before Missouri. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: George F. travelled back to Virginia and returned in 1834, perhaps to tell the Hamilton family that his father Jose had died. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: A land patent issued to George F. Adams and signed by the President (Fillmore or Buchanan) was among the documents from Bill Allen. [Family research emails, email 01]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: An army enlistment record exists for a George F. Adams, apparently this George Francis Adams, but the email does not say which George F. it is. [Family research emails, email 01]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: George and Cynthia moved from West Virginia to Missouri, possibly Marion, MO. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: John used 1817 as George #1's birth year when searching (the tree has 11 May 1816). [Family research emails, email 35]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "unclear",
+   "text": "Unconfirmed: John W. Adams's death certificate gives George F.'s birthplace as Ohio, but the family knows it was West Virginia (then Virginia). [Family research emails, email 33]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Ralph Allen said Jose first appeared in New Jersey as the son of a single mother, and the surname Adams pointed to John Quincy Adams. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Ralph Allen said a Missouri land deed showed land left to Jose by JQ Adams, explaining the family's move to Missouri, but George has no document proving it. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen's report apparently describes Jose Pierre as having French/Mexican and Scottish origins; John jokingly calls him a stable boy and finds the history far-fetched. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: His obituary, obtained from the State Library of Virginia, confirms that he died of accidental poisoning in Ohio; Bill places Luray as existing in 1836, and earlier guessed a death between 1836 and 1840. [Family research emails, email 13]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen suspects he is buried in Luray Cemetery, but no record has been found. [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen believes Jose P. Adams #1 died in 1833-1834, possibly in Ohio rather than Missouri; the tree currently has abt 1836. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Jose was born about 1783-1786; if born locally, the record would be in Berkeley County, which until 1800 included Morgan, Berkeley and Jefferson Counties. [Family research emails, email 09]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: A Joseph P. Adams appears in the 1810 census of Loudoun County with two children under 10; this might mean Jose had an earlier marriage, but it is unconfirmed. [Family research emails, email 09]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen guesses that the middle name Pierre came from the Peer (Pear/Perry) family of Westchester County NY and Hampshire County VA, possibly through Jose's mother; this is unproven. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Jose's parents are unknown, and a possible John Quincy Adams connection is still unresolved; George suggests a DNA test could rule it in or out. [Family research emails, email 28]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Family tradition says Jos. Adams was the illegitimate son of John Quincy Adams. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Jos. Adams was reportedly born in Newark, New Jersey (the sentence may also refer to where John Quincy Adams's son was born). [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: A public record reportedly shows a parcel of land in Missouri bequeathed to Jos. by John Quincy Adams, the basis for the claimed connection. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Jos. Adams and Francis Hamilton were reportedly best friends, and Jos. named his first son George Francis after him. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Jos. Adams may have moved to Missouri with his son George's family. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: Where Jose (also called Joseph) came from is unknown. [Family research emails, email 29]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "unclear",
+   "text": "Unconfirmed: A record from around George #1's birth lists Elizabeth's husband as Jesse P.; George F. Adams (Jr.) is sure this is Jose P. [Family research emails, email 35]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: Ralph Allen said Eliza and Francis Hamilton were siblings, children of Gavin Hamilton; Bill Allen says Eliza was a daughter of Francis and Susan Hamilton. [Family research emails, email 41]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: George thinks Eliza and Francis were probably grandchildren of Gavin Hamilton of Scotland, based on a line of Gavin Hamiltons in the Virginia archives. [Family research emails, email 41]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: She was born about 1783 according to later censuses, and was born and raised in the Harper's Ferry and Jefferson County area of Virginia. [Family research emails, email 12]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: Bill Allen suspects she is buried in Luray Cemetery, but no record has been found. [Family research emails, email 13]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: Family tradition says she and Francis were children of Gavin Hamilton, friend of Robert Burns. [Family research emails, email 20]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: She and her brother Francis immigrated to Harpers Ferry in the 1800s. [Family research emails, email 20]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: George F. Adams thinks the Scottish Gavin Hamilton lived too early to be the father of Eliza and Francis; they may be his grandchildren, or children of a Gavin Hamilton already in America. [Family research emails, email 29]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: The Elizabeth in the Allen family records comes from a Hamilton family with many records at the Family History Library. [Family research emails, email 29]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "unclear",
+   "text": "Unconfirmed: Searching Scottish records, John found several Elizabeths with a father named Gavin, but no Francis. [Family research emails, email 35]"
+  },
+  {
+   "id": "lane_john_s",
+   "kind": "unclear",
+   "text": "Unconfirmed: Sketchy records suggest he served in the Mormon Conflict of 1838 and the Mexican/American War of 1839-1840. [Family research emails, email 12]"
+  },
+  {
+   "id": "lane_john_s",
+   "kind": "unclear",
+   "text": "Unconfirmed: A land warrant or patent for John S. Lane, signed by President Fillmore or President Buchanan, was found on a CD from Bill Allen; the writer says it confirms the family's Missouri connection. [Family research emails, email 01]"
+  },
+  {
+   "id": "adams_alexander_washington",
+   "kind": "unclear",
+   "text": "Unconfirmed: He may have registered for the Union draft, but Bill Allen is not certain the record is his. [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_james_casper",
+   "kind": "unclear",
+   "text": "Unconfirmed: Charlie Hogan believes two daughters and a son are buried beside James, but does not name them. [Family research emails, email 16]"
+  },
+  {
+   "id": "adams_joseph_pierre_jose2",
+   "kind": "unclear",
+   "text": "Unconfirmed: The obituary was sent as an attachment named for The Trail magazine, which suggests it was published there. [Family research emails, email 03]"
+  },
+  {
+   "id": "clark_ephraim",
+   "kind": "unclear",
+   "text": "Unconfirmed: Ephraim Clark died at the very end of the Civil War, when Mary was barely 16. [Family research emails, email 04]"
+  },
+  {
+   "id": "clark_clay_c",
+   "kind": "unclear",
+   "text": "Unconfirmed: Around 1883 Clay moved to Arlington, Oregon, on the Columbia River. [Family research emails, email 04]"
+  },
+  {
+   "id": "hamilton_francis",
+   "kind": "unclear",
+   "text": "Unconfirmed: Through his father, Francis seems to have ended up with some of John Semple's holdings. [Family research emails, email 06]"
+  },
+  {
+   "id": "hamilton_francis",
+   "kind": "unclear",
+   "text": "Unconfirmed: John could not confirm a Gavin Hamilton as the father of the Francis purported to be Elizabeth's father. [Family research emails, email 36]"
+  },
+  {
+   "id": "hamilton_john_of_kype",
+   "kind": "unclear",
+   "text": "Unconfirmed: A Hamilton of Kype lineage chart suggests the family descends indirectly from King James II of Scotland. [Family research emails, email 06]"
+  },
+  {
+   "id": "hamilton_john_of_kype",
+   "kind": "unclear",
+   "text": "Unconfirmed: Gavin Hamilton's father and mother were rebuked by the Kirk Session before their marriage for conceiving a child out of wedlock. [Family research emails, email 22]"
+  },
+  {
+   "id": "kulp_ephraim",
+   "kind": "question",
+   "text": "Open question: Ephraim Kulp's birth year is given as 1805, 1809 or 1811; Irma is unsure which is right [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_john_jacob",
+   "kind": "question",
+   "text": "Open question: John Jacob Kulp's birth year is 1860, 1864 or 1865; his Albion headstone says 1860, but that would make his mother Sarah Vancel about 14. No birth certificate is known [Family research emails, email 14, 23]"
+  },
+  {
+   "id": "vancel_sarah",
+   "kind": "question",
+   "text": "Open question: John Jacob Kulp's birth year is 1860, 1864 or 1865; his Albion headstone says 1860, but that would make his mother Sarah Vancel about 14. No birth certificate is known [Family research emails, email 14, 23]"
+  },
+  {
+   "id": "kolb_jacob_oberholtzer",
+   "kind": "question",
+   "text": "Open question: Peter Kolb is listed as born 1718, married 1748 and died 1748, yet his son Jacob Oberholtzer Kolb was born 7 Mar 1740. The marriage year or birth dates may be wrong [Family research emails, email 23]"
+  },
+  {
+   "id": "kolb_peter",
+   "kind": "question",
+   "text": "Open question: Peter Kolb is listed as born 1718, married 1748 and died 1748, yet his son Jacob Oberholtzer Kolb was born 7 Mar 1740. The marriage year or birth dates may be wrong [Family research emails, email 23]"
+  },
+  {
+   "id": "vancel_sarah",
+   "kind": "question",
+   "text": "Open question: Email 23 says Sarah Vancel Kulp died in '1975' after George Jasper was born 'December 1974'. These are clearly typos for 1875/1874, which matches the tree's abt 1875 death. [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_michael_nicholas",
+   "kind": "question",
+   "text": "Open question: Email 23 says Sarah went to Illinois 'while John was in the War'. This almost certainly means her husband Michael Kulp (1861-1863), since John was their child. [Family research emails, email 23]"
+  },
+  {
+   "id": "vancel_sarah",
+   "kind": "question",
+   "text": "Open question: Email 23 says Sarah went to Illinois 'while John was in the War'. This almost certainly means her husband Michael Kulp (1861-1863), since John was their child. [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_elmer_spencer",
+   "kind": "question",
+   "text": "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_john_jacob",
+   "kind": "question",
+   "text": "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_spencer_ritchey",
+   "kind": "question",
+   "text": "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_irmagene",
+   "kind": "question",
+   "text": "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_john_jacob",
+   "kind": "question",
+   "text": "Open question: John and Mary Kulp's burial place is called both 'Albion Cemetery' and 'Guy Albion Pine Cemetery'. Is this the same cemetery? [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_john_jacob",
+   "kind": "question",
+   "text": "Open question: Irma says it is unknown when Michael and John Kulp came to Washington. They first appear in the 1885 Washington Territory census [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_michael_nicholas",
+   "kind": "question",
+   "text": "Open question: Irma says it is unknown when Michael and John Kulp came to Washington. They first appear in the 1885 Washington Territory census [Family research emails, email 23]"
+  },
+  {
+   "id": "simons_raymond_zell",
+   "kind": "question",
+   "text": "Open question: Raymond Zell Simons's birth is 7 May 1898 or 14 June 1897 (draft card and 1900 census say June 1897). The SSDI gives a Raymond Simons born 7 May 1899 who died Sept 1976 in Seattle, but the WA Death Index gives 7 May 1977 in Kennewick. Irma suspects a second Raymond Simons [Family research emails, email 14, 50]"
+  },
+  {
+   "id": "simons_raymond_zell",
+   "kind": "question",
+   "text": "Open question: Ray Simons's birthplace is given as Ann Harbor (Ann Arbor), Michigan by Irma, South Haven, Michigan on his WWI draft card, and Washington in the 1930 census [Family research emails, email 50]"
+  },
+  {
+   "id": "simons_aaron",
+   "kind": "question",
+   "text": "Open question: Aaron Simons's origins conflict: censuses say he was born in Ohio with a father born in England (1920), while Ray's draft card gives his father's birthplace as Indiana [Family research emails, email 50]"
+  },
+  {
+   "id": "simons_harriet_hattie",
+   "kind": "question",
+   "text": "Open question: Hattie Simons's age is 41 in 1900, 59 in 1910 and 62 in 1920, which is inconsistent with a Dec 1858 birth; Irma wonders who gave the census information [Family research emails, email 41, 50]"
+  },
+  {
+   "id": "simons_aaron",
+   "kind": "question",
+   "text": "Open question: Who was Zell Busey, age 4, in Aaron Simons's 1910 household? Irma guesses a son of one of Ray's sisters [Family research emails, email 50]"
+  },
+  {
+   "id": "simons_harriet_hattie",
+   "kind": "question",
+   "text": "Open question: The 1900 census 'Arrival 1862' for the Simons household is unexplained. Irma wonders if it marks Hattie's family moving from Canada [Family research emails, email 50]"
+  },
+  {
+   "id": "simons_raymond_zell",
+   "kind": "question",
+   "text": "Open question: Irma writes that Ray and Dradie were 'neighbors in 1920' but means 1910; they were married by the 1920 census. The elopement to Ritzville is dated Dec 1915, when Dradie was 17 [Family research emails, email 17, 23, 50]"
+  },
+  {
+   "id": "simons_aaron",
+   "kind": "question",
+   "text": "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]"
+  },
+  {
+   "id": "simons_harriet_hattie",
+   "kind": "question",
+   "text": "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]"
+  },
+  {
+   "id": "adams_john_wesley",
+   "kind": "question",
+   "text": "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]"
+  },
+  {
+   "id": "adams_alberta",
+   "kind": "question",
+   "text": "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: An Ancestry.com tree by Cynthia Hughes / Dustin Spivey claims a George Washington Adams, son of George Francis Adams and brother of a John Sr. Adams of California. George F. Adams says no such person exists and calls it a different tree or a mistake (emails 25, 44). Details of that outside family were not extracted. [Family research emails, email 25, 44]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: An Ancestry.com tree by Cynthia Hughes / Dustin Spivey claims a George Washington Adams, son of George Francis Adams and brother of a John Sr. Adams of California. George F. Adams says no such person exists and calls it a different tree or a mistake (emails 25, 44). Details of that outside family were not extracted. [Family research emails, email 25, 44]"
+  },
+  {
+   "id": "hittle_alice",
+   "kind": "question",
+   "text": "Open question: Is Christopher Hittle (from the Hughes Ancestry tree) related to Alice (Hittle) Kenoyer, wife of Wright Kenoyer? [Family research emails, email 25]"
+  },
+  {
+   "id": "rotter_richard",
+   "kind": "question",
+   "text": "Open question: Irma says Richard Rotter fathered Kim's children other than Amber (Andrew, Spencer, Amy, Jacob). The tree lists Craig Goodman as their father under the surname Zacher, and has both zacher_spencer and an unlinked rotter_spencer [Family research emails, email 23]"
+  },
+  {
+   "id": "goodman_craig",
+   "kind": "question",
+   "text": "Open question: Irma says Richard Rotter fathered Kim's children other than Amber (Andrew, Spencer, Amy, Jacob). The tree lists Craig Goodman as their father under the surname Zacher, and has both zacher_spencer and an unlinked rotter_spencer [Family research emails, email 23]"
+  },
+  {
+   "id": "zacher_kimberly_lynn",
+   "kind": "question",
+   "text": "Open question: Irma says Richard Rotter fathered Kim's children other than Amber (Andrew, Spencer, Amy, Jacob). The tree lists Craig Goodman as their father under the surname Zacher, and has both zacher_spencer and an unlinked rotter_spencer [Family research emails, email 23]"
+  },
+  {
+   "id": "simons_elaine_deretha",
+   "kind": "question",
+   "text": "Open question: Elaine Deretha Simons's husband at her 2011 death was William (Bill) Upham, but the tree lists only Les Rhinehart. Was this a second marriage? The emails spell the name Rinehart; the tree spells it Rhinehart [Family research emails, email 27]"
+  },
+  {
+   "id": "rhinehart_les",
+   "kind": "question",
+   "text": "Open question: Elaine Deretha Simons's husband at her 2011 death was William (Bill) Upham, but the tree lists only Les Rhinehart. Was this a second marriage? The emails spell the name Rinehart; the tree spells it Rhinehart [Family research emails, email 27]"
+  },
+  {
+   "id": "beryl_simons_adams",
+   "kind": "question",
+   "text": "Open question: County names look wrong: Beryl Simons Adams's death place is 'Olympia, Pierce, WA' (Olympia is in Thurston County), and Donald Zacher's birth is 'Bismarck, Pierce Co, North Dakota' (Bismarck is in Burleigh County) [Family research emails, email 50, 23]"
+  },
+  {
+   "id": "zacher_donald_adam",
+   "kind": "question",
+   "text": "Open question: County names look wrong: Beryl Simons Adams's death place is 'Olympia, Pierce, WA' (Olympia is in Thurston County), and Donald Zacher's birth is 'Bismarck, Pierce Co, North Dakota' (Bismarck is in Burleigh County) [Family research emails, email 50, 23]"
+  },
+  {
+   "id": "confer_maria_catharina",
+   "kind": "question",
+   "text": "Open question: Maria Catharina Confer's entry reads 'm. Maria Catharina Confer, Somerset, PA'. It is unclear whether Somerset is her origin or the marriage place [Family research emails, email 23]"
+  },
+  {
+   "id": "kulp_john_jacob",
+   "kind": "question",
+   "text": "Open question: Where were the first seven Kulp children born: Delta Township, Blaine or Lynden? Delayed certificates for Elmer and Edith say Lynden, but Irma believed the Kulp homestead on Burk Road [Family research emails, email 48]"
+  },
+  {
+   "id": "mcphail_mary_emily",
+   "kind": "question",
+   "text": "Open question: Mary Emily McPhail Kulp's death date is given as 30/31 May 1931; which day is correct? [Family research emails, email 30, 31, 48]"
+  },
+  {
+   "id": "kulp_ruth_zenith",
+   "kind": "question",
+   "text": "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]"
+  },
+  {
+   "id": "kulp_dradie_ellen",
+   "kind": "question",
+   "text": "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]"
+  },
+  {
+   "id": "beryl_simons_adams",
+   "kind": "question",
+   "text": "Open question: Were Beryl and her younger siblings born in Whatcom County, and was Glen born somewhere other than the Lynden area? Irma asks to be corrected [Family research emails, email 48]"
+  },
+  {
+   "id": "simons_glen",
+   "kind": "question",
+   "text": "Open question: Were Beryl and her younger siblings born in Whatcom County, and was Glen born somewhere other than the Lynden area? Irma asks to be corrected [Family research emails, email 48]"
+  },
+  {
+   "id": "mcphail_minnie_belle",
+   "kind": "question",
+   "text": "Open question: Irma says Minnie and Ted Weidkamp had 7 sons but names only six (Theodore Milton Jr, Harold, Willard, Ervin, Vernon, Ira); the following 'Beryl (Lois)' may be the seventh son or a misplacement [Family research emails, email 48]"
+  },
+  {
+   "id": "mcphail_john_tate",
+   "kind": "question",
+   "text": "Open question: Irma writes 'Uncle Tate and Aunt Beulah McPhail: Dale and Larry', apparently making them grandparents of Dale King and Larry McPhail through Emogene and Boyd; parentage of Emogene, Boyd and Geraldine by Evelyn or Beulah is not stated [Family research emails, email 48]"
+  },
+  {
+   "id": "kulp_alton_roger",
+   "kind": "question",
+   "text": "Open question: Alton Kulp (born 1917) is said to be about 12 when his mother died in 1931, which would make him about 13-14; Audrey 'a year younger' [Family research emails, email 12, 13, 14, 48]"
+  },
+  {
+   "id": "kulp_john_jacob",
+   "kind": "question",
+   "text": "Open question: Grandpa John Kulp's death is given as 'about 1946/7' (email 49); the tree has 11 Jan 1947. [Family research emails, email 49, 11]"
+  },
+  {
+   "id": "adams_john_wesley",
+   "kind": "question",
+   "text": "Open question: Was George Francis I of Missouri the son of Joseph (an illegitimate son of JQ Adams) and Eliza Hamilton, or of Jose Pierre and Elizabeth, daughter of Francis and Susan Hamilton? George F. Adams and John Adams dispute Bill Allen's report [Family research emails, email 41]"
+  },
+  {
+   "id": "allen_william_w",
+   "kind": "question",
+   "text": "Open question: Was George Francis I of Missouri the son of Joseph (an illegitimate son of JQ Adams) and Eliza Hamilton, or of Jose Pierre and Elizabeth, daughter of Francis and Susan Hamilton? George F. Adams and John Adams dispute Bill Allen's report [Family research emails, email 41]"
+  },
+  {
+   "id": "john_howard_adams",
+   "kind": "question",
+   "text": "Open question: Was George Francis I of Missouri the son of Joseph (an illegitimate son of JQ Adams) and Eliza Hamilton, or of Jose Pierre and Elizabeth, daughter of Francis and Susan Hamilton? George F. Adams and John Adams dispute Bill Allen's report [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Was George Francis I of Missouri the son of Joseph (an illegitimate son of JQ Adams) and Eliza Hamilton, or of Jose Pierre and Elizabeth, daughter of Francis and Susan Hamilton? George F. Adams and John Adams dispute Bill Allen's report [Family research emails, email 41]"
+  },
+  {
+   "id": "allen_ralph_kenneth",
+   "kind": "question",
+   "text": "Open question: Were Eliza and Francis Hamilton children of Gavin Hamilton (Ralph Allen), grandchildren of Gavin Hamilton of Scotland via a Virginia line (George), or children of Francis and Susan Hamilton (Bill Allen)? [Family research emails, email 41]"
+  },
+  {
+   "id": "allen_william_w",
+   "kind": "question",
+   "text": "Open question: Were Eliza and Francis Hamilton children of Gavin Hamilton (Ralph Allen), grandchildren of Gavin Hamilton of Scotland via a Virginia line (George), or children of Francis and Susan Hamilton (Bill Allen)? [Family research emails, email 41]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: Were Eliza and Francis Hamilton children of Gavin Hamilton (Ralph Allen), grandchildren of Gavin Hamilton of Scotland via a Virginia line (George), or children of Francis and Susan Hamilton (Bill Allen)? [Family research emails, email 41]"
+  },
+  {
+   "id": "hamilton_francis",
+   "kind": "question",
+   "text": "Open question: Were Eliza and Francis Hamilton children of Gavin Hamilton (Ralph Allen), grandchildren of Gavin Hamilton of Scotland via a Virginia line (George), or children of Francis and Susan Hamilton (Bill Allen)? [Family research emails, email 41]"
+  },
+  {
+   "id": "allen_ralph_kenneth",
+   "kind": "question",
+   "text": "Open question: Ralph Allen's claim of a Missouri land deed from JQ Adams to Jose has no documentation [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton married Sarah Lee in 1818 (license signed by Jose Adams), and how does this conflict with Bill Allen's document? [Family research emails, email 41]"
+  },
+  {
+   "id": "allen_william_w",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton married Sarah Lee in 1818 (license signed by Jose Adams), and how does this conflict with Bill Allen's document? [Family research emails, email 41]"
+  },
+  {
+   "id": "hamilton_francis_jr",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton married Sarah Lee in 1818 (license signed by Jose Adams), and how does this conflict with Bill Allen's document? [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Does the Adams family plot near Castle Rock, Colorado, still exist? John and George want to find it [Family research emails, email 41]"
+  },
+  {
+   "id": "john_howard_adams",
+   "kind": "question",
+   "text": "Open question: John writes 'George and I live in WA' (email 49), but in email 41 he lives in Englewood, Colorado. [Family research emails, email 49, 41]"
+  },
+  {
+   "id": "allen_ralph_kenneth",
+   "kind": "question",
+   "text": "Open question: Bill Allen is described as Ralph Allen's nephew (email 41); in the tree William W. Allen is Ralph Kenneth Allen's grand-nephew. [Family research emails, email 41]"
+  },
+  {
+   "id": "allen_william_w",
+   "kind": "question",
+   "text": "Open question: Bill Allen is described as Ralph Allen's nephew (email 41); in the tree William W. Allen is Ralph Kenneth Allen's grand-nephew. [Family research emails, email 41]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: When exactly did Joseph/Jose Pierre Adams die? Bill Allen guessed 1836-1840 (email 12), and the obituary found later links him to Luray, Ohio in 1836 (email 13); the obit gives no information on his origins. [Family research emails, email 12, 13]"
+  },
+  {
+   "id": "allen_william_w",
+   "kind": "question",
+   "text": "Open question: When exactly did Joseph/Jose Pierre Adams die? Bill Allen guessed 1836-1840 (email 12), and the obituary found later links him to Luray, Ohio in 1836 (email 13); the obit gives no information on his origins. [Family research emails, email 12, 13]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Are Jose Pierre Adams and Elizabeth buried in Luray Cemetery near Hebron, Licking County, Ohio? Find-A-Grave lists no Adams burials there [Family research emails, email 12, 13]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: Are Jose Pierre Adams and Elizabeth buried in Luray Cemetery near Hebron, Licking County, Ohio? Find-A-Grave lists no Adams burials there [Family research emails, email 12, 13]"
+  },
+  {
+   "id": "lane_john_s",
+   "kind": "question",
+   "text": "Open question: Why did the Adams family move from Virginia to Ohio about 1835, and why did GFA #1 continue on to Missouri? Bill speculates about the Hamiltons going first, cheap land, a military expedition, meeting John S. Lane, or a split over slavery [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Why did the Adams family move from Virginia to Ohio about 1835, and why did GFA #1 continue on to Missouri? Bill speculates about the Hamiltons going first, cheap land, a military expedition, meeting John S. Lane, or a split over slavery [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Is GFA #1's obituary accurate about when he went west (in Missouri by 1836)? Bill says it 'may or may not be totally accurate' [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Is the Union draft registration Bill found really for GFA #1's brother Alexander (email 12)? [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_alexander_washington",
+   "kind": "question",
+   "text": "Open question: Is the Union draft registration Bill found really for GFA #1's brother Alexander (email 12)? [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Research in Licking County is hampered by the 1874 courthouse fire [Family research emails, email 12]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Who are the 'two daughters and a son' Charlie Hogan believes are buried beside James C. Adams at Cedar Hill Cemetery, Castle Rock (email 16)? [Family research emails, email 16]"
+  },
+  {
+   "id": "adams_james_casper",
+   "kind": "question",
+   "text": "Open question: Who are the 'two daughters and a son' Charlie Hogan believes are buried beside James C. Adams at Cedar Hill Cemetery, Castle Rock (email 16)? [Family research emails, email 16]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: The marriage record of George Francis Adams #1 and Cynthia Lane indexes the groom as 'George T.' and misspells Cynthia; the date and place of the marriage are not given in the email text [Family research emails, email 18]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: The marriage record of George Francis Adams #1 and Cynthia Lane indexes the groom as 'George T.' and misspells Cynthia; the date and place of the marriage are not given in the email text [Family research emails, email 18]"
+  },
+  {
+   "id": "lane_cynthia",
+   "kind": "question",
+   "text": "Open question: The marriage record of George Francis Adams #1 and Cynthia Lane indexes the groom as 'George T.' and misspells Cynthia; the date and place of the marriage are not given in the email text [Family research emails, email 18]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Was GFA II (George Francis Adams #2, d 1920) buried in Sutherlin (email 24)? [Family research emails, email 24]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Was GFA II (George Francis Adams #2, d 1920) buried in Sutherlin (email 24)? [Family research emails, email 24]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Charlie Hogan calls GFA #1 the 'GGrandfather' of GFA III, but by the tree GFA #1 is the great-great-grandfather of George Francis Adams Jr.; also, the sender's 'GFA III' numbering skips John Wesley and differs from the tree's Sr./Jr. naming [Family research emails, email 05]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Charlie Hogan calls GFA #1 the 'GGrandfather' of GFA III, but by the tree GFA #1 is the great-great-grandfather of George Francis Adams Jr.; also, the sender's 'GFA III' numbering skips John Wesley and differs from the tree's Sr./Jr. naming [Family research emails, email 05]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: The death year of about 1896 for GFA #1 is inferred only from Charlie Hogan's '115 years unmarked' remark (email 11); his obituary (sent as Ref.pdf in email 10) should be checked for the exact date. [Family research emails, email 11, 10]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Jose P. Adams #1: Bill thinks he died in 1833-1834, possibly in Ohio, but the tree has abt 1836. Also, did the family go west to Ohio before Missouri, given George F.'s obit says they came west in 1833? [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: George F. Adams (#1): where was he born? He and his obit say Virginia, but John W. Adams's death certificate (signed by Alberta A. Allen) says Ohio. [Family research emails, email 08]"
+  },
+  {
+   "id": "adams_harriet_josephine",
+   "kind": "question",
+   "text": "Open question: Is the Elizabeth Adams aged 76 in the 1850 Licking County, Ohio census (Gill household) Eliza Hamilton Adams? Age 76 implies birth abt 1774, but email 07 gives abt 1783. Is the Gill household that of Stephen Augusta Gill, husband of Harriet Josephine Adams? [Family research emails, email 07, 08]"
+  },
+  {
+   "id": "gill_stephen_augusta",
+   "kind": "question",
+   "text": "Open question: Is the Elizabeth Adams aged 76 in the 1850 Licking County, Ohio census (Gill household) Eliza Hamilton Adams? Age 76 implies birth abt 1774, but email 07 gives abt 1783. Is the Gill household that of Stephen Augusta Gill, husband of Harriet Josephine Adams? [Family research emails, email 07, 08]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: Is the Elizabeth Adams aged 76 in the 1850 Licking County, Ohio census (Gill household) Eliza Hamilton Adams? Age 76 implies birth abt 1774, but email 07 gives abt 1783. Is the Gill household that of Stephen Augusta Gill, husband of Harriet Josephine Adams? [Family research emails, email 07, 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Is the Elizabeth Adams aged 76 in the 1850 Licking County, Ohio census (Gill household) Eliza Hamilton Adams? Age 76 implies birth abt 1774, but email 07 gives abt 1783. Is the Gill household that of Stephen Augusta Gill, husband of Harriet Josephine Adams? [Family research emails, email 07, 08]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Jose P. Adams #1: who were his parents? Does the middle name come from the Peer/Pear/Perry family (Phillip Peer, Samuel Peer)? Is there a John Quincy Adams connection? George suggests a DNA test. [Family research emails, email 08, 28]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Jose P. Adams #1: was he married before 1813? A Joseph P. Adams with two children under 10 appears in the 1810 Loudoun County census. [Family research emails, email 10, 09]"
+  },
+  {
+   "id": "hamilton_francis_jr",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton's estate did George F. Adams execute, and was he in Virginia to execute the will in 1836? [Family research emails, email 08]"
+  },
+  {
+   "id": "vantine_mary_frances",
+   "kind": "question",
+   "text": "Open question: Mary Frances Vantine (Adams): she married Ephraim Clark at 15 and was barely 16 when he died at the end of the Civil War (1865), which conflicts with her tree birth of Oct 1844 and with Clay C. Clark's tree birth of 1860. [Family research emails, email 15, 16, 04]"
+  },
+  {
+   "id": "clark_clay_c",
+   "kind": "question",
+   "text": "Open question: Mary Frances Vantine (Adams): she married Ephraim Clark at 15 and was barely 16 when he died at the end of the Civil War (1865), which conflicts with her tree birth of Oct 1844 and with Clay C. Clark's tree birth of 1860. [Family research emails, email 15, 16, 04]"
+  },
+  {
+   "id": "clark_ephraim",
+   "kind": "question",
+   "text": "Open question: Mary Frances Vantine (Adams): she married Ephraim Clark at 15 and was barely 16 when he died at the end of the Civil War (1865), which conflicts with her tree birth of Oct 1844 and with Clay C. Clark's tree birth of 1860. [Family research emails, email 15, 16, 04]"
+  },
+  {
+   "id": "hamilton_john_of_kype",
+   "kind": "question",
+   "text": "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]"
+  },
+  {
+   "id": "hamilton_john_a_1836",
+   "kind": "question",
+   "text": "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]"
+  },
+  {
+   "id": "hamilton_john_alexander",
+   "kind": "question",
+   "text": "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]"
+  },
+  {
+   "id": "hamilton_francis_jr",
+   "kind": "question",
+   "text": "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: Hamilton Gavins: there are many Gavins in the line; Bill guesses the Gavin in later documents is the elder Francis's son. Gavin of Mauchline was thought to be Eliza's father (Uncle Ralph's version), but he was too old. [Family research emails, email 07, 42]"
+  },
+  {
+   "id": "hamilton_gavin_mauchline",
+   "kind": "question",
+   "text": "Open question: Hamilton Gavins: there are many Gavins in the line; Bill guesses the Gavin in later documents is the elder Francis's son. Gavin of Mauchline was thought to be Eliza's father (Uncle Ralph's version), but he was too old. [Family research emails, email 07, 42]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Jose P. Adams #2: John thought he was the same generation as GFA1, but George says he was GFA1's son and John Wesley's younger brother. [Family research emails, email 32]"
+  },
+  {
+   "id": "adams_joseph_pierre_jose2",
+   "kind": "question",
+   "text": "Open question: Jose P. Adams #2: John thought he was the same generation as GFA1, but George says he was GFA1's son and John Wesley's younger brother. [Family research emails, email 32]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Where are the Adams family plots near Denver (possible burials of Jose II and George F. #1's family)? [Family research emails, email 32]"
+  },
+  {
+   "id": "hamilton_francis_jr",
+   "kind": "question",
+   "text": "Open question: Keep Triste Furnace / Harper's Ferry foundry: the author of the Jefferson County history said he would send more on Francis Hamilton; follow up. [Family research emails, email 06]"
+  },
+  {
+   "id": "hamilton_john_of_kype",
+   "kind": "question",
+   "text": "Open question: Keep Triste Furnace / Harper's Ferry foundry: the author of the Jefferson County history said he would send more on Francis Hamilton; follow up. [Family research emails, email 06]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: When did George Francis Adams (#2) die? Trudy (Gertrude Adams Remy) says 1918, when their dad was 2. The 1920 Douglas County, OR census (dated 20 Jan 1920) lists him, and his NARD Journal obituary gives 7 Feb and was published 18 Mar 1920. The writers want the Douglas County death certificate to settle it. [Family research emails, email 30, 31, 20, 18]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: When did George Francis Adams (#2) die? Trudy (Gertrude Adams Remy) says 1918, when their dad was 2. The 1920 Douglas County, OR census (dated 20 Jan 1920) lists him, and his NARD Journal obituary gives 7 Feb and was published 18 Mar 1920. The writers want the Douglas County death certificate to settle it. [Family research emails, email 30, 31, 20, 18]"
+  },
+  {
+   "id": "gertrude_adams_remy",
+   "kind": "question",
+   "text": "Open question: When did George Francis Adams (#2) die? Trudy (Gertrude Adams Remy) says 1918, when their dad was 2. The 1920 Douglas County, OR census (dated 20 Jan 1920) lists him, and his NARD Journal obituary gives 7 Feb and was published 18 Mar 1920. The writers want the Douglas County death certificate to settle it. [Family research emails, email 30, 31, 20, 18]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: The obituary gives flu as the cause of death of George Francis Adams (#2), but a February 1920 death falls after the 1917-18 epidemic. Is the cause correct? [Family research emails, email 31, 18]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: The obituary gives flu as the cause of death of George Francis Adams (#2), but a February 1920 death falls after the 1917-18 epidemic. Is the cause correct? [Family research emails, email 31, 18]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: George Francis Adams Sr. appears as Edward G. in the 1920 census, and Oregon birth certificates exist under both names. Did Neenie rename him after his father died? What did the 'G' stand for (guessed George)? John asks 'where did Edward come from?' [Family research emails, email 17, 31]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: George Francis Adams Sr. appears as Edward G. in the 1920 census, and Oregon birth certificates exist under both names. Did Neenie rename him after his father died? What did the 'G' stand for (guessed George)? John asks 'where did Edward come from?' [Family research emails, email 17, 31]"
+  },
+  {
+   "id": "george_francis_adams_sr",
+   "kind": "question",
+   "text": "Open question: George Francis Adams Sr. appears as Edward G. in the 1920 census, and Oregon birth certificates exist under both names. Did Neenie rename him after his father died? What did the 'G' stand for (guessed George)? John asks 'where did Edward come from?' [Family research emails, email 17, 31]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: George F. Adams says his dad was technically 'George II' because of a generation gap between the first two George Francis Adamses. This clashes with the tree, which numbers George Francis Adams (#1, b. 1816) and (#2, b. 1876) as consecutive, although #2 is a grandson of #1. [Family research emails, email 31]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: George F. Adams says his dad was technically 'George II' because of a generation gap between the first two George Francis Adamses. This clashes with the tree, which numbers George Francis Adams (#1, b. 1816) and (#2, b. 1876) as consecutive, although #2 is a grandson of #1. [Family research emails, email 31]"
+  },
+  {
+   "id": "trumbo_presley_neville",
+   "kind": "question",
+   "text": "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]"
+  },
+  {
+   "id": "buckley_hannah_louise",
+   "kind": "question",
+   "text": "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]"
+  },
+  {
+   "id": "trumbo_george",
+   "kind": "question",
+   "text": "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Who are 'George & Dahlia'? Sutherlin, OR records hold material on them and their ancestors, but no Dahlia is in the tree. [Family research emails, email 31]"
+  },
+  {
+   "id": "lane_john_s",
+   "kind": "question",
+   "text": "Open question: Which George F. Adams do the army enlistment record and land patent belong to? And which land document did Fillmore sign and which did Buchanan (George F. Adams or John S. Lane)? [Family research emails, email 01]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Which George F. Adams do the army enlistment record and land patent belong to? And which land document did Fillmore sign and which did Buchanan (George F. Adams or John S. Lane)? [Family research emails, email 01]"
+  },
+  {
+   "id": "hamilton_john_of_kype",
+   "kind": "question",
+   "text": "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
+  },
+  {
+   "id": "young_jacobina",
+   "kind": "question",
+   "text": "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
+  },
+  {
+   "id": "hamilton_john_a_1836",
+   "kind": "question",
+   "text": "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
+  },
+  {
+   "id": "hamilton_john_alexander",
+   "kind": "question",
+   "text": "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
+  },
+  {
+   "id": "hamilton_gavin_mauchline",
+   "kind": "question",
+   "text": "Open question: The source text garbles the year Burns met Gavin Hamilton ('Autumn of 177783', probably 1783). [Family research emails, email 21, 22]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: Email 20 says Mary Hamilton married Jos. Adams and her brother Francis married an Eliza (?), but emails 29, 35 and 36 (and the tree) treat Eliza/Elizabeth Hamilton as Jose's wife. Which name is right? [Family research emails, email 20, 29, 35, 36]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Email 20 says Mary Hamilton married Jos. Adams and her brother Francis married an Eliza (?), but emails 29, 35 and 36 (and the tree) treat Eliza/Elizabeth Hamilton as Jose's wife. Which name is right? [Family research emails, email 20, 29, 35, 36]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: Email 20 says Gavin Hamilton, Robert Burns's friend, was the father of Mary/Eliza and Francis. Email 29 (George) thinks that timeline is too long: they may be his grandchildren or children of an American Gavin. Emails 35 and 36 (John) found no Francis born to a Gavin in Scotland between 1710 and 1800 and no Gavin old enough to be grandfather. [Family research emails, email 20, 29, 35, 36]"
+  },
+  {
+   "id": "hamilton_gavin_mauchline",
+   "kind": "question",
+   "text": "Open question: Email 20 says Gavin Hamilton, Robert Burns's friend, was the father of Mary/Eliza and Francis. Email 29 (George) thinks that timeline is too long: they may be his grandchildren or children of an American Gavin. Emails 35 and 36 (John) found no Francis born to a Gavin in Scotland between 1710 and 1800 and no Gavin old enough to be grandfather. [Family research emails, email 20, 29, 35, 36]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]"
+  },
+  {
+   "id": "hamilton_francis_jr",
+   "kind": "question",
+   "text": "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]"
+  },
+  {
+   "id": "hamilton_francis",
+   "kind": "question",
+   "text": "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]"
+  },
+  {
+   "id": "hamilton_francis_jr",
+   "kind": "question",
+   "text": "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]"
+  },
+  {
+   "id": "hamilton_gavin_mauchline",
+   "kind": "question",
+   "text": "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]"
+  },
+  {
+   "id": "hamilton_elizabeth_eliza",
+   "kind": "question",
+   "text": "Open question: a record from around 1817 lists Elizabeth's husband as Jesse P. George F. Adams (Jr.) is sure this is Jose P. Adams. Should Jesse be added as an alias? [Family research emails, email 35]"
+  },
+  {
+   "id": "adams_jose_pierre",
+   "kind": "question",
+   "text": "Open question: Emails 20 and 36: the claim that John Quincy Adams fathered Jos. and left him Missouri land is hard to square with the dates. John found at least 7 years between the move to Missouri and JQA's death (1848), and the tree has Jose dying about 1836. There is also no Joseph/Jose/Jesse in immigration records. [Family research emails, email 20, 36]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Email 35 gives George Francis Adams (#1)'s birth year as 1817; the tree has 11 May 1816. [Family research emails, email 35, 11]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Email 35 gives George Francis Adams (#1)'s birth year as 1817; the tree has 11 May 1816. [Family research emails, email 35, 11]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Emails 33 and 47: John W. Adams's death certificate gives George F. Adams (#1)'s birthplace as Ohio. The family says it was Harpers Ferry, West Virginia (then Virginia), and believes the informant, Alberta Allen, was guessing. [Family research emails, email 33, 47]"
+  },
+  {
+   "id": "lane_cynthia",
+   "kind": "question",
+   "text": "Open question: no marriage record has been found for George F. Adams (#1) and Cynthia Lane. Their Missouri home is only thought to be Marion, MO, and it is unknown whether Jos. moved to Missouri with them. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: no marriage record has been found for George F. Adams (#1) and Cynthia Lane. Their Missouri home is only thought to be Marion, MO, and it is unknown whether Jos. moved to Missouri with them. [Family research emails, email 20]"
+  },
+  {
+   "id": "adams_john_wesley",
+   "kind": "question",
+   "text": "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]"
+  },
+  {
+   "id": "adams_george_francis_1",
+   "kind": "question",
+   "text": "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]"
+  },
+  {
+   "id": "adams_george_francis_2",
+   "kind": "question",
+   "text": "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]"
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "hamilton_francis_jr",
   "name": "Francis Hamilton Jr.",
-  "birth": "",
+  "birth": "1780s",
   "death": "1821",
   "personality": [],
   "roles": [],
@@ -9,7 +9,8 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Catherine Hamilton"
+    "Married Catherine Hamilton",
+    "Born 1780s, America (Virginia)"
   ],
   "education": [],
   "career": [],
@@ -24,13 +25,21 @@
     ]
   },
   "locations": [
-    "Virginia"
+    "Virginia",
+    "America (Virginia)"
   ],
   "sources": [
-    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "Register number 158.4."
+    "Register number 158.4.",
+    "Open question: Which Francis Hamilton married Sarah Lee in 1818 (license signed by Jose Adams), and how does this conflict with Bill Allen's document? [Family research emails, email 41]",
+    "Open question: Which Francis Hamilton's estate did George F. Adams execute, and was he in Virginia to execute the will in 1836? [Family research emails, email 08]",
+    "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]",
+    "Open question: Keep Triste Furnace / Harper's Ferry foundry: the author of the Jefferson County history said he would send more on Francis Hamilton; follow up. [Family research emails, email 06]",
+    "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]",
+    "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]"
   ],
   "aliases": []
 }

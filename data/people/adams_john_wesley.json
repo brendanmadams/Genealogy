@@ -23,12 +23,16 @@
     "Census trail: MO (1850, 1860, 1870, 1900) → Denver CO (1880) → Multnomah County OR (1910) → Benton County AR (1920)",
     "Married Mary Frances VanTine: 3 January 1866, Chariton County, MO",
     "Married Saurena (Serina Smith): about 1907",
-    "Buried at Mt. Olivet Cemetery"
+    "Buried at Mt. Olivet Cemetery",
+    "Military: He registered for the Union draft in the Civil War but was apparently never called up.",
+    "Born Missouri",
+    "Died Benton, Arkansas"
   ],
   "education": [],
   "career": [
     "Farmer living near Marceline (per 1898 biography of his brother)",
-    "DPBR (1898): John W. is a farmer living near Marceline, Chariton County, Mo."
+    "DPBR (1898): John W. is a farmer living near Marceline, Chariton County, Mo.",
+    "After the rest of the family moved to Colorado, John W. stayed in Missouri to manage the family's holdings. (abt 1880)"
   ],
   "relationships": {
     "mother": "lane_cynthia",
@@ -60,7 +64,9 @@
     "Clark Twnshp, Chariton County, MO",
     "Brunswick, Chariton County, MO",
     "Yellow Creek Twnshp, Chariton County, MO",
-    "Mt. Olivet Cemetery, Marceline, Linn County, Missouri"
+    "Mt. Olivet Cemetery, Marceline, Linn County, Missouri",
+    "northwest Chariton County, Missouri, north of Rothville",
+    "Benton, Arkansas"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -69,7 +75,8 @@
     "adams_family_doc_ocr_v1",
     "email_summary_conclusions_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
-    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Siblings listed: Alexander William, Mary, Joseph Pierre Jose, Missouri, Harriet E., James Casper, Virginia M., Nancy E.",
@@ -80,6 +87,13 @@
     "Father set: adams_george_francis_1. Evidence: Adams direct line: Gen 3 (John Wesley Adams, b.1841) is son of Gen 2 (George Francis Adams #1, b.~1817). Source: adams_direct_line_json_v1, family_data_v1.",
     "Death date confirmed: 14 November 1920. Note: prior source had 12 Nov 1920 — this source gives 14 Nov. Confirm with death certificate.",
     "Benton County AR confirmed — consistent with canonical 'Dickson Township, Benton County, AR'.",
-    "CORRECTION 2026-09-22: Mother set to lane_cynthia: the only recorded wife of his father George Francis Adams (#1), married 1841, the year of his birth; his siblings' records name her as mother."
+    "CORRECTION 2026-09-22: Mother set to lane_cynthia: the only recorded wife of his father George Francis Adams (#1), married 1841, the year of his birth; his siblings' records name her as mother.",
+    "John Wesley Adams is the great-grandfather of George Jr. and John Howard Adams. [Family research emails, email 41]",
+    "His daughter Alberta A. Allen signed John W.'s death certificate, which gives his father George's birthplace as Ohio. [Family research emails, email 8]",
+    "John Wesley Adams is the great-grandfather of George F. Adams (Jr.) and John Howard Adams, and of the Allen cousins. [Family research emails, email 38]",
+    "Unconfirmed: Bill thinks John W. also ran a farm across the way on behalf of his wife. [Family research emails, email 04]",
+    "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]",
+    "Open question: Was George Francis I of Missouri the son of Joseph (an illegitimate son of JQ Adams) and Eliza Hamilton, or of Jose Pierre and Elizabeth, daughter of Francis and Susan Hamilton? George F. Adams and John Adams dispute Bill Allen's report [Family research emails, email 41]",
+    "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]"
   ]
 }

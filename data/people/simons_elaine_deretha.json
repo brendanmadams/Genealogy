@@ -1,15 +1,24 @@
 {
   "id": "simons_elaine_deretha",
   "name": "Elaine Deretha Simons (Rhinehart)",
-  "birth": "",
-  "death": "",
+  "birth": "Jan 1918",
+  "death": "11 Aug 2011",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
-  "notable_stories": [],
+  "notable_stories": [
+    "Irma remembered Elaine as kind, very talented and always the life of the party."
+  ],
   "risk_events": [],
-  "milestones": [],
-  "education": [],
+  "milestones": [
+    "Born Jan 1918, Milton, Oregon",
+    "Died 11 Aug 2011",
+    "Buried: Elaine's graveside service was at Desert Lawn Memorial Park in Kennewick on 19 August 2011.",
+    "Born Milton, Oregon"
+  ],
+  "education": [
+    "Elaine was an elementary school student of Amy Kulp and Alice Burk and was remembered as an excellent student."
+  ],
   "career": [],
   "relationships": {
     "mother": "kulp_dradie_ellen",
@@ -19,14 +28,26 @@
     "children": [
       "rhinehart_jerry",
       "rhinehart_janet"
+    ],
+    "_extra_spouses": [
+      "upham_william"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Milton, Oregon",
+    "Lynden, Whatcom County, Washington",
+    "Desert Lawn Memorial Park, Kennewick, Washington",
+    "Whatcom County, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "Sister of Beryl Simons Adams; married Les Rhinehart."
+    "Sister of Beryl Simons Adams; married Les Rhinehart.",
+    "A funeral service for Elaine was held 17 August 2011 at Holman, Hankins, Bowker & Waud Funeral Home in Oregon City. [Family research emails, email 27]",
+    "CORRECTION 2026-09-23: Added her later husband, William \"Bill\" Upham of Gladstone, Oregon, named in Irma's note about her services. [Family research emails, email 27]",
+    "Open question: Elaine Deretha Simons's husband at her 2011 death was William (Bill) Upham, but the tree lists only Les Rhinehart. Was this a second marriage? The emails spell the name Rinehart; the tree spells it Rhinehart [Family research emails, email 27]"
   ],
   "aliases": []
 }

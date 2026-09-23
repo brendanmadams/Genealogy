@@ -32,18 +32,26 @@
   "locations": [
     "Canada",
     "Michigan",
-    "Washington"
+    "Washington",
+    "Delta, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington"
   ],
   "sources": [
     "family_data_v1",
     "john_howard_adams_memoir_v1",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Birth date Dec 1858 newly established — previously excluded as nickname-only. Mother of Raymond Zell Simons.",
     "OPEN QUESTION: John's memoir states Gertrude Elaine Adams Remy was named after 'Beryl's grandmother.' Harriet M. Hattie Simons is one of Beryl's two grandmothers (paternal). If she carried 'Gertrude' as a middle or alternate name, Trudy's naming is explained. Research: Harriet's full name on marriage/birth records.",
     "Date conflict: 1900 census gives birth ~1858-59; 1910 census gives ~1851. Canonical holds Dec 1858 per prior source.",
-    "CORRECTION 2026-09-22: Removed simons_glen from children; he is her grandson (son of Raymond Zell Simons)."
+    "CORRECTION 2026-09-22: Removed simons_glen from children; he is her grandson (son of Raymond Zell Simons).",
+    "Unconfirmed: Harriet M. Simons, 41, appears in the 1900 census with Aaron; the record lists an arrival year of 1862, perhaps her family's move from Canada. [Family research emails, email 50]",
+    "Unconfirmed: Hattie Simons appears aged 59 in the 1910 census, born in Canada (English). [Family research emails, email 50]",
+    "Open question: Hattie Simons's age is 41 in 1900, 59 in 1910 and 62 in 1920, which is inconsistent with a Dec 1858 birth; Irma wonders who gave the census information [Family research emails, email 41, 50]",
+    "Open question: The 1900 census 'Arrival 1862' for the Simons household is unexplained. Irma wonders if it marks Hattie's family moving from Canada [Family research emails, email 50]",
+    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]"
   ],
   "card_name": [
     "Harriet “Hattie”",

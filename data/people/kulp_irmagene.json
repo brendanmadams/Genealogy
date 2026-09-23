@@ -16,10 +16,15 @@
     "Married Donald Adam Zacher (m. 28 Dec 1963)",
     "Retired from teaching in 2007",
     "Mother of Kimberly, Kenneth, and Kippy",
-    "Married Donald Adam Zacher (m. 1963)"
+    "Married Donald Adam Zacher (m. 1963)",
+    "Born Dec 1941, Elmer and Amy Kulp's ranch, east side of Lynden, Whatcom County, Washington"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Irma attended school in Lynden from first grade (about 1947) until mid seventh grade in December, when the family moved to Pasco; several cousins were in her first grade class."
+  ],
+  "career": [
+    "Irma was a teacher and retired a month after her mother died in May 2007, at age 65."
+  ],
   "relationships": {
     "mother": "ritchey_amy",
     "father": "kulp_elmer_spencer",
@@ -34,14 +39,21 @@
     ]
   },
   "locations": [
-    "Pasco, WA"
+    "Pasco, WA",
+    "Tri-Cities, Washington",
+    "Elmer and Amy Kulp's ranch, east side of Lynden, Whatcom County, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Siblings listed: Spencer Ritchey Kulp",
-    "Middle name Elizabeth newly confirmed in this source."
+    "Middle name Elizabeth newly confirmed in this source.",
+    "Irma is a second cousin of John Adams; her grandmother Mary McPhail Kulp is also grandmother of Beryl, Elaine and their siblings. [Family research emails, email 48]",
+    "Attended the 2009 Kulp McPhail Weidkamp Family Reunion, where Arvella Kulp Layson and other cousins toured the old homestead roads. [Family research emails, email 48]",
+    "Unconfirmed: John describes Irma as connected to the Kulp and Weidenkamp families, among others. [Family research emails, email 44]",
+    "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
   ]
 }

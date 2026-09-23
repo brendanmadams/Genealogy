@@ -1,14 +1,16 @@
 {
   "id": "simons_bertha",
   "name": "Bertha Simons",
-  "birth": "",
+  "birth": "Mar 1887",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born Mar 1887, Michigan"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,9 +20,13 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Michigan",
+    "Covert Township, Van Buren County, Michigan"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")"
+    "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."

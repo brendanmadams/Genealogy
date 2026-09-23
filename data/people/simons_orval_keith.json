@@ -1,15 +1,20 @@
 {
   "id": "simons_orval_keith",
   "name": "Orval Keith Simons",
-  "birth": "",
-  "death": "",
+  "birth": "30 Oct 1929",
+  "death": "21 Jul 1979",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
-  "education": [],
+  "milestones": [
+    "Born 30 Oct 1929, Lynden, Whatcom Co, Washington",
+    "Died 21 Jul 1979, Spokane, Spokane Co, Washington"
+  ],
+  "education": [
+    "Orval Simons was an elementary school student of Amy Kulp and Alice Burk."
+  ],
   "career": [],
   "relationships": {
     "mother": "kulp_dradie_ellen",
@@ -22,9 +27,14 @@
       "simons_janine"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Lynden, Whatcom County, Washington",
+    "Spokane, Spokane County, Washington",
+    "Delta, Whatcom County, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Brother of Beryl Simons Adams."

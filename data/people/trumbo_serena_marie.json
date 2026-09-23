@@ -32,7 +32,9 @@
   "relationships": {
     "mother": "buckley_hannah_louise",
     "father": "trumbo_presley_neville",
-    "siblings": [],
+    "siblings": [
+      "trumbo_george"
+    ],
     "spouse": "adams_george_francis_2",
     "children": [
       "george_francis_adams_sr",
@@ -54,12 +56,14 @@
     "john_howard_adams_memoir_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
-    "Family letters in Bill Allen’s family document"
+    "Family letters in Bill Allen’s family document",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Nicknamed Nini",
     "Additional spouse: wells_arthur",
     "Death timing confirmed by memoir: John's 2nd year at USNA = 1966-67. Death date 28 Sep 1967 is consistent.",
-    "Pictured in a family photograph c. 1919 with George F., Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
+    "Pictured in a family photograph c. 1919 with George F., Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
+    "George Trumbo, who worked in her husband's pharmacy, is described as Neenie's brother. [Family research emails, email 31]"
   ]
 }

@@ -11,10 +11,15 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Mother of Lacie and Lauryn"
+    "Mother of Lacie and Lauryn",
+    "Born 24 Nov 1974, Kadlec Hospital, Richland, Washington"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Kippy was due to graduate from the WSU Nursing Program in May 2011 with a BA in Nursing, after earlier earning Certified Nursing Assistant credentials."
+  ],
+  "career": [
+    "Kippy had worked at Kennewick General Hospital for seven years as of 2011. (abt 2004-2011)"
+  ],
   "relationships": {
     "mother": "kulp_irmagene",
     "father": "zacher_donald_adam",
@@ -27,10 +32,12 @@
   },
   "locations": [
     "Richland, WA",
-    "Pasco, WA"
+    "Pasco, WA",
+    "Kadlec Hospital, Richland, Washington"
   ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Siblings listed: Kimberly, Kenneth. Child of Irmagene Kulp Zacher."

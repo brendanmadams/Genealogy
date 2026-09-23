@@ -1,14 +1,16 @@
 {
   "id": "jorgensen_damian",
   "name": "Damian Jorgensen",
-  "birth": "",
+  "birth": "1 Feb 2008",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 1 Feb 2008"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -20,7 +22,8 @@
   },
   "locations": [],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Child of Amber Goodman and Dan Jorgensen."

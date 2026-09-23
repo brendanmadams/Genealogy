@@ -7,14 +7,21 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "Filed for a birth certificate later in life with confirmation from his uncle Tate McPhail"
+    "Filed for a birth certificate later in life with confirmation from his uncle Tate McPhail",
+    "Elmer and Amy waited nine years to have children because times were hard in the Depression and they were helping other family members.",
+    "Elmer was not interested in family history, so he did not receive one of Dradie's family books."
   ],
   "risk_events": [],
   "milestones": [
-    "Married Amy Ritchey"
+    "Married Amy Ritchey (m. 4 Jun 1931, Bellingham, Whatcom Co, Washington)"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Elmer Kulp went to school in Albion, Washington, where Alice Hittle was a schoolmate, and later attended Albion school reunions.",
+    "Elmer attended school in Schragg, then graduated from Albion High School."
+  ],
+  "career": [
+    "Elmer and Amy farmed in Whatcom County from 1931 to 1954."
+  ],
   "relationships": {
     "mother": "mcphail_mary_emily",
     "father": "kulp_john_jacob",
@@ -27,14 +34,19 @@
   },
   "locations": [
     "Lynden, WA",
-    "Pasco, WA"
+    "Pasco, WA",
+    "Delta Township, Whatcom County, Washington",
+    "Delta, Whatcom County, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
     "Spouse corrected to ritchey_amy (was erroneously self-referencing).",
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Elmer, Amy, and the Burk and Simons households belonged to the Delta Grange (a farmers' association, not a church). [Family research emails, email 48]",
+    "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
   ]
 }

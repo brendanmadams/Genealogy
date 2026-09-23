@@ -1,28 +1,32 @@
 {
   "id": "zacher_amy",
   "name": "Amy Zacher",
-  "birth": "",
+  "birth": "abt 1993",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born abt 1993"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "zacher_kimberly_lynn",
-    "father": "goodman_craig",
+    "father": "rotter_richard",
     "siblings": [],
     "spouse": "",
     "children": []
   },
   "locations": [],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "Child of Kimberly Lynn Zacher."
+    "Child of Kimberly Lynn Zacher.",
+    "CORRECTION 2026-09-23: Father changed from Craig Goodman to Richard Rotter. Irma (the grandmother): \"Kim remarried 20 years ago Richard Rotter father of her other kids.\" [Family research emails, email 23] Decision by Brendan Adams."
   ]
 }

@@ -7,7 +7,7 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "DNA match: 0.72% shared DNA. 23&Me label: 3C1R. Simons branch via Glen's RIC. Confirmed consistent with canonical: Amber is Kimberly Zacher's daughter \u2192 Irmagene Kulp Zacher \u2192 Elmer Spencer Kulp \u2192 John Jacob Kulp. Brendan's connection also through John Jacob Kulp (via Dradie\u2192Beryl\u2192John Howard\u2192Brendan). Makes them 3rd cousins."
+    "DNA match: 0.72% shared DNA. 23&Me label: 3C1R. Simons branch via Glen's RIC. Confirmed consistent with canonical: Amber is Kimberly Zacher's daughter → Irmagene Kulp Zacher → Elmer Spencer Kulp → John Jacob Kulp. Brendan's connection also through John Jacob Kulp (via Dradie→Beryl→John Howard→Brendan). Makes them 3rd cousins."
   ],
   "risk_events": [],
   "milestones": [
@@ -18,7 +18,7 @@
   "career": [],
   "relationships": {
     "mother": "zacher_kimberly_lynn",
-    "father": "",
+    "father": "goodman_craig",
     "siblings": [],
     "spouse": "jorgensen_dan",
     "children": [

@@ -1,14 +1,16 @@
 {
   "id": "zacher_donald_adam",
   "name": "Donald Adam Zacher",
-  "birth": "",
+  "birth": "13 Mar 1941",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 13 Mar 1941, Bismarck, North Dakota"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -22,11 +24,16 @@
       "zacher_kippy_amy"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Bismarck, North Dakota"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
   ],
   "notes": [
-    "Spouse of Irmagene Irma Kulp (m. 28 Dec 1963)."
+    "Spouse of Irmagene Irma Kulp (m. 28 Dec 1963).",
+    "Don Zacher's father died in 1997 and his mother in 2005. [Family research emails, email 49]",
+    "Open question: County names look wrong: Beryl Simons Adams's death place is 'Olympia, Pierce, WA' (Olympia is in Thurston County), and Donald Zacher's birth is 'Bismarck, Pierce Co, North Dakota' (Bismarck is in Burleigh County) [Family research emails, email 50, 23]"
   ]
 }
