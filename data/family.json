@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T15:27:55.200Z",
+  "generated": "2026-09-23T15:38:07.735Z",
   "people": 530,
   "family_members": 479,
   "dna_matches": 51,
@@ -9493,7 +9493,7 @@
     "Born August 1, 1975, Oak Harbor, WA (Whidbey Island)",
     "Bachelor's degree in Construction Management, University of Washington, Seattle (1998)",
     "Master of Business Administration, University of New Mexico, Albuquerque (2003)",
-    "Married Megan Marie Falde",
+    "Married Megan Marie Falde (m. 14 Aug 1999, St. Michael and All Angels Church, Albuquerque, NM)",
     "Father of Garret Adams (b. 10 Apr 2003) and Owen Adams (b. 3 Oct 2005)",
     "Moved to Denver, CO (2006) — has lived there for 20 years"
    ],
@@ -9503,7 +9503,8 @@
     "barbara_memoir_ch22_my_childrens_names",
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Barbara says the meaning of Brendan was 'prince or king' and notes that St. Brendan was a voyager.",
@@ -25565,7 +25566,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Denver, CO"
+    "Denver, CO",
+    "Albuquerque, NM"
    ],
    "personality": [],
    "roles": [],
@@ -25573,14 +25575,16 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Education: BS, MS"
+    "Education: BS, MS",
+    "Married Brendan McKeldin Adams (m. 14 Aug 1999, St. Michael and All Angels Church, Albuquerque, NM)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Referenced in Brendan McKeldin Adams: Spouse Megan Marie Adams born December 17, 1975",
@@ -37920,7 +37924,7 @@
     "garret_adams",
     "owen_adams"
    ],
-   "marriage": null
+   "marriage": "14 Aug 1999, St. Michael and All Angels Church, Albuquerque, NM"
   },
   {
    "id": "F_brian_john_adams+michelle_ellis_adams",
