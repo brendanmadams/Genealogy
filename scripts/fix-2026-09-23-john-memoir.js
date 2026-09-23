@@ -76,8 +76,10 @@ person('olson_sigrid', 'Sigrid Olson', BA, {});
 person('dickpeddie_rosemary', 'Rosemary Dick-Peddie (Olson)', BA, { aliases: ['Rosemary Olson'], notes: ['Wife of Tom "Umpa" Olson; Megan Adams’s maternal grandmother.'] });
 wed('olson_tom_umpa', 'dickpeddie_rosemary');
 for (const k of ['olson_kris', 'olson_tom', 'olson_sigrid']) child(k, 'olson_tom_umpa', 'dickpeddie_rosemary');
-person('falde_randy', 'Randy Falde', BA, { milestones: ['Married Kris Olson; later divorced'] });
-edit('olson_kris', p => add(p.milestones, 'Married Randy Falde; later divorced'));
+// marriage date from Brendan Adams, 2026-09-24
+person('falde_randy', 'Randy Falde', BA, {});
+edit('falde_randy', p => { p.milestones = p.milestones.filter(t => t !== 'Married Kris Olson; later divorced'); add(p.milestones, 'Married Kris Olson (m. 2 Aug 1969); later divorced'); });
+edit('olson_kris', p => { p.milestones = p.milestones.filter(t => t !== 'Married Randy Falde; later divorced'); add(p.milestones, 'Married Randy Falde (m. 2 Aug 1969); later divorced'); });
 wed('olson_kris', 'falde_randy');
 person('falde_brendan', 'Brendan Falde', BA, { notes: ['Son of Randy Falde and Kris Olson (Falde); brother of Megan Adams.'] });
 child('falde_brendan', 'falde_randy', 'olson_kris');
