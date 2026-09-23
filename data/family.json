@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T22:18:28.838Z",
-  "people": 633,
-  "family_members": 583,
+  "generated": "2026-09-23T22:30:30.455Z",
+  "people": 634,
+  "family_members": 584,
   "dna_matches": 50,
-  "connected_people": 583,
-  "families": 193,
+  "connected_people": 584,
+  "families": 194,
   "branches": [
    "adams",
    "hamilton",
@@ -5060,8 +5060,10 @@
   },
   {
    "id": "adams_sally",
-   "name": "Sally Adams",
-   "aliases": [],
+   "name": "Sally Adams (Haapala)",
+   "aliases": [
+    "Sally Haapala"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -5092,12 +5094,16 @@
     "adams_fran",
     "adams_presley"
    ],
-   "spouses": [],
+   "spouses": [
+    "haapala_john"
+   ],
    "children": [],
    "siblings": [
     "adams_casey"
    ],
-   "families": [],
+   "families": [
+    "F_adams_sally+haapala_john"
+   ],
    "parent_family": "F_adams_fran+adams_presley",
    "connected": true,
    "dna_match": false,
@@ -5108,7 +5114,9 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married John(?) Haapala"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -16532,6 +16540,63 @@
    ],
    "notes": [
     "Parent of Serepta Mary \"Reppa\" Grinnell (Wheeler): inferred, not stated. Bill Allen’s document shows photos captioned \"Willard Grinnell\" and \"Mary Hanks Grinnell\" on the same page as Reppa’s photo and the Grinnell family group (page 103)."
+   ]
+  },
+  {
+   "id": "haapala_john",
+   "name": "John Haapala",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "deceased",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_sally"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_sally+haapala_john"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Sally Adams"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Husband of Sally Adams, daughter of Presley and Fran Adams; deceased. His first name may be John (Brendan Adams is not certain)."
    ]
   },
   {
@@ -45738,6 +45803,15 @@
    "partners": [
     "adams_ralph_stanley",
     "irwin_zona"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_adams_sally+haapala_john",
+   "partners": [
+    "adams_sally",
+    "haapala_john"
    ],
    "children": [],
    "marriage": null

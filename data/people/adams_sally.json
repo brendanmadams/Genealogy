@@ -1,6 +1,6 @@
 {
   "id": "adams_sally",
-  "name": "Sally Adams",
+  "name": "Sally Adams (Haapala)",
   "sex": "F",
   "birth": "",
   "death": "",
@@ -9,14 +9,16 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married John(?) Haapala"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "adams_fran",
     "father": "adams_presley",
     "siblings": [],
-    "spouse": "",
+    "spouse": "haapala_john",
     "children": []
   },
   "locations": [],
@@ -24,5 +26,7 @@
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [],
-  "aliases": []
+  "aliases": [
+    "Sally Haapala"
+  ]
 }

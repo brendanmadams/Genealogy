@@ -1,0 +1,32 @@
+{
+  "id": "haapala_john",
+  "name": "John Haapala",
+  "sex": "M",
+  "birth": "",
+  "death": "deceased",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Sally Adams"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "adams_sally",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Husband of Sally Adams, daughter of Presley and Fran Adams; deceased. His first name may be John (Brendan Adams is not certain)."
+  ],
+  "aliases": []
+}
