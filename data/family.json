@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T20:59:49.540Z",
-  "people": 623,
-  "family_members": 573,
+  "generated": "2026-09-23T21:34:08.892Z",
+  "people": 633,
+  "family_members": 583,
   "dna_matches": 50,
-  "connected_people": 573,
-  "families": 191,
+  "connected_people": 583,
+  "families": 193,
   "branches": [
    "adams",
    "hamilton",
@@ -781,6 +781,66 @@
    ]
   },
   {
+   "id": "adams_casey",
+   "name": "Casey Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "deceased",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton",
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "adams_presley",
+   "mother": "adams_fran",
+   "parents": [
+    "adams_fran",
+    "adams_presley"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_sally"
+   ],
+   "families": [],
+   "parent_family": "F_adams_fran+adams_presley",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Never married; deceased."
+   ]
+  },
+  {
    "id": "adams_cecelia_m",
    "name": "Cecelia M. Adams",
    "aliases": [],
@@ -1056,12 +1116,14 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Sibling of George Francis Adams Sr. (Gen 4). Marriage to Thomas Childs confirmed memoir p. 57.",
     "Birth year approximate: abt 1913.",
-    "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
+    "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
+    "She had two sons, surname Childs; their names are not recorded."
    ]
   },
   {
@@ -1316,6 +1378,64 @@
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": []
+  },
+  {
+   "id": "adams_fran",
+   "name": "Fran Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_presley"
+   ],
+   "children": [
+    "adams_sally",
+    "adams_casey"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_fran+adams_presley"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Wife of Presley Adams; her birth surname is not recorded."
+   ]
   },
   {
    "id": "adams_frances_j_1922",
@@ -4678,13 +4798,20 @@
     "adams_george_francis_2",
     "trumbo_serena_marie"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "adams_fran"
+   ],
+   "children": [
+    "adams_sally",
+    "adams_casey"
+   ],
    "siblings": [
     "adams_edith_v",
     "george_francis_adams_sr"
    ],
-   "families": [],
+   "families": [
+    "F_adams_fran+adams_presley"
+   ],
    "parent_family": "F_adams_george_francis_2+trumbo_serena_marie",
    "connected": true,
    "dna_match": false,
@@ -4709,12 +4836,14 @@
     "family_data_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
-    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Sibling of George Francis Adams Sr. (child of George Francis Adams #2 and Serena Trumbo). Previously listed as 'Presley Marcason Adams' in prior sources.",
     "Precise birth and death dates newly established. Sibling of George Francis Adams Sr.",
-    "Pictured in a family photograph c. 1919 with his family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
+    "Pictured in a family photograph c. 1919 with his family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
+    "He and Fran had three children: Sally, Casey and a third whose name is not recorded."
    ]
   },
   {
@@ -4924,6 +5053,64 @@
    "career": [],
    "sources": [
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_sally",
+   "name": "Sally Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton",
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "adams_presley",
+   "mother": "adams_fran",
+   "parents": [
+    "adams_fran",
+    "adams_presley"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_casey"
+   ],
+   "families": [],
+   "parent_family": "F_adams_fran+adams_presley",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": []
   },
@@ -9380,6 +9567,70 @@
    ]
   },
   {
+   "id": "bill_daphne_wells",
+   "name": "Bill",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "trumbo",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "wells_daphne"
+   ],
+   "children": [
+    "daphne_james",
+    "daphne_john",
+    "daphne_arthur",
+    "daphne_mary",
+    "daphne_edward",
+    "daphne_stephen"
+   ],
+   "siblings": [],
+   "families": [
+    "F_bill_daphne_wells+wells_daphne"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "San Francisco Bay Area, California"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area."
+   ]
+  },
+  {
    "id": "billingslea_doris_alberta",
    "name": "Doris Alberta Billingslea",
    "aliases": [],
@@ -12101,6 +12352,378 @@
    ]
   },
   {
+   "id": "daphne_arthur",
+   "name": "Arthur",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "bill_daphne_wells",
+   "mother": "wells_daphne",
+   "parents": [
+    "bill_daphne_wells",
+    "wells_daphne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "daphne_james",
+    "daphne_john",
+    "daphne_mary",
+    "daphne_edward",
+    "daphne_stephen"
+   ],
+   "families": [],
+   "parent_family": "F_bill_daphne_wells+wells_daphne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Child of Bill and Daphne (Wells); named for the letter A in the name of their first child, James, who died at birth. Surname not recorded."
+   ]
+  },
+  {
+   "id": "daphne_edward",
+   "name": "Edward",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "bill_daphne_wells",
+   "mother": "wells_daphne",
+   "parents": [
+    "bill_daphne_wells",
+    "wells_daphne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "daphne_james",
+    "daphne_john",
+    "daphne_arthur",
+    "daphne_mary",
+    "daphne_stephen"
+   ],
+   "families": [],
+   "parent_family": "F_bill_daphne_wells+wells_daphne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Child of Bill and Daphne (Wells); named for the letter E in the name of their first child, James, who died at birth. Surname not recorded."
+   ]
+  },
+  {
+   "id": "daphne_james",
+   "name": "James",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "deceased",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "bill_daphne_wells",
+   "mother": "wells_daphne",
+   "parents": [
+    "bill_daphne_wells",
+    "wells_daphne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "daphne_john",
+    "daphne_arthur",
+    "daphne_mary",
+    "daphne_edward",
+    "daphne_stephen"
+   ],
+   "families": [],
+   "parent_family": "F_bill_daphne_wells+wells_daphne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Died at birth; the first child of Bill and Daphne"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": []
+  },
+  {
+   "id": "daphne_john",
+   "name": "John",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "bill_daphne_wells",
+   "mother": "wells_daphne",
+   "parents": [
+    "bill_daphne_wells",
+    "wells_daphne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "daphne_james",
+    "daphne_arthur",
+    "daphne_mary",
+    "daphne_edward",
+    "daphne_stephen"
+   ],
+   "families": [],
+   "parent_family": "F_bill_daphne_wells+wells_daphne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Child of Bill and Daphne (Wells); named for the letter J in the name of their first child, James, who died at birth. Surname not recorded."
+   ]
+  },
+  {
+   "id": "daphne_mary",
+   "name": "Mary",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "bill_daphne_wells",
+   "mother": "wells_daphne",
+   "parents": [
+    "bill_daphne_wells",
+    "wells_daphne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "daphne_james",
+    "daphne_john",
+    "daphne_arthur",
+    "daphne_edward",
+    "daphne_stephen"
+   ],
+   "families": [],
+   "parent_family": "F_bill_daphne_wells+wells_daphne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Child of Bill and Daphne (Wells); named for the letter M in the name of their first child, James, who died at birth. Surname not recorded."
+   ]
+  },
+  {
+   "id": "daphne_stephen",
+   "name": "Stephen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "bill_daphne_wells",
+   "mother": "wells_daphne",
+   "parents": [
+    "bill_daphne_wells",
+    "wells_daphne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "daphne_james",
+    "daphne_john",
+    "daphne_arthur",
+    "daphne_mary",
+    "daphne_edward"
+   ],
+   "families": [],
+   "parent_family": "F_bill_daphne_wells+wells_daphne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Child of Bill and Daphne (Wells); named for the letter S in the name of their first child, James, who died at birth. Surname not recorded."
+   ]
+  },
+  {
    "id": "davis_carrie_a",
    "name": "Carrie A. Davis (Adams)",
    "aliases": [
@@ -12353,7 +12976,7 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Tom “Umpa” Olson (m. 4 Apr abt 1945)"
+    "Married Tom “Umpa” Olson (m. 6 Apr 1945)"
    ],
    "education": [],
    "career": [],
@@ -22821,8 +23444,8 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "24 Feb 1948",
-    "year": 1948,
+    "text": "24 Feb 1947",
+    "year": 1947,
     "qualifier": null
    },
    "death": {
@@ -23172,7 +23795,8 @@
     "Family letters in Bill Allen’s family document",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Barbara states John got a job in New Mexico thanks to Brendan.",
@@ -31987,9 +32611,10 @@
   },
   {
    "id": "olson_bonnie",
-   "name": "Bonnie Jelcick (Olson)",
+   "name": "Evonne “Bonnie” Jelcick (Olson)",
    "aliases": [
-    "Bonnie Olson"
+    "Bonnie Olson",
+    "Evonne Olson"
    ],
    "photo": null,
    "card_name": null,
@@ -32036,7 +32661,9 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Tom Olson (m. 14 Jun 1969)"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -32454,7 +33081,9 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Evonne “Bonnie” Jelcick (m. 14 Jun 1969)"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -32516,7 +33145,7 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Rosemary Dick-Peddie (m. 4 Apr abt 1945)"
+    "Married Rosemary Dick-Peddie (m. 6 Apr 1945)"
    ],
    "education": [],
    "career": [],
@@ -42368,17 +42997,29 @@
     "trumbo_serena_marie",
     "wells_arthur"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "bill_daphne_wells"
+   ],
+   "children": [
+    "daphne_james",
+    "daphne_john",
+    "daphne_arthur",
+    "daphne_mary",
+    "daphne_edward",
+    "daphne_stephen"
+   ],
    "siblings": [],
-   "families": [],
+   "families": [
+    "F_bill_daphne_wells+wells_daphne"
+   ],
    "parent_family": "F_trumbo_serena_marie+wells_arthur",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "California",
-    "San Francisco, CA"
+    "San Francisco, CA",
+    "San Francisco Bay Area, California"
    ],
    "personality": [],
    "roles": [],
@@ -42390,11 +43031,13 @@
    "career": [],
    "sources": [
     "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Daughter of Arthur T. Wells and Serena (Trumbo) Wells, so a half-sister of George Francis Adams Sr. John Adams's memoir says Serena and Arthur had a daughter together; the 1940 census of their San Francisco household lists Daphne, aged 15, born in California. [John Howard Adams, A Memoir, text line 546] Decision by Brendan Adams.",
-    "Aged 15 and born in California in the 1940 census of Arthur T. Wells's San Francisco household, with Serena and George Adams. [1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)]"
+    "Aged 15 and born in California in the 1940 census of Arthur T. Wells's San Francisco household, with Serena and George Adams. [1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)]",
+    "She and her husband Bill lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen."
    ]
   },
   {
@@ -44750,6 +45393,18 @@
    "marriage": null
   },
   {
+   "id": "F_adams_fran+adams_presley",
+   "partners": [
+    "adams_fran",
+    "adams_presley"
+   ],
+   "children": [
+    "adams_sally",
+    "adams_casey"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_adams_frank_1879+brannan_katherine_a",
    "partners": [
     "adams_frank_1879",
@@ -45438,6 +46093,22 @@
    "marriage": "2 Jul 1942, Franklin County, WA"
   },
   {
+   "id": "F_bill_daphne_wells+wells_daphne",
+   "partners": [
+    "bill_daphne_wells",
+    "wells_daphne"
+   ],
+   "children": [
+    "daphne_james",
+    "daphne_john",
+    "daphne_arthur",
+    "daphne_mary",
+    "daphne_edward",
+    "daphne_stephen"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_billingslea_frances_fern+scott_howard_e",
    "partners": [
     "billingslea_frances_fern",
@@ -45672,7 +46343,7 @@
     "olson_kris",
     "olson_sigrid"
    ],
-   "marriage": "4 Apr abt 1945"
+   "marriage": "6 Apr 1945"
   },
   {
    "id": "F_douglas_elizabeth+hamilton_gavin_d1814",
@@ -46563,7 +47234,7 @@
     "olson_kari",
     "olson_tommy"
    ],
-   "marriage": null
+   "marriage": "14 Jun 1969"
   },
   {
    "id": "F_olson_kari+rosgen_john",

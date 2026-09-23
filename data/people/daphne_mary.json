@@ -1,0 +1,30 @@
+{
+  "id": "daphne_mary",
+  "name": "Mary",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "wells_daphne",
+    "father": "bill_daphne_wells",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Child of Bill and Daphne (Wells); named for the letter M in the name of their first child, James, who died at birth. Surname not recorded."
+  ],
+  "aliases": []
+}

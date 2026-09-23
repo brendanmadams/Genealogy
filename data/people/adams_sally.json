@@ -1,0 +1,28 @@
+{
+  "id": "adams_sally",
+  "name": "Sally Adams",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "adams_fran",
+    "father": "adams_presley",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [],
+  "aliases": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "adams_casey",
+  "name": "Casey Adams",
+  "sex": null,
+  "birth": "",
+  "death": "deceased",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "adams_fran",
+    "father": "adams_presley",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Never married; deceased."
+  ],
+  "aliases": []
+}

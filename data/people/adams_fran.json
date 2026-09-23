@@ -1,27 +1,25 @@
 {
-  "id": "olson_bonnie",
-  "name": "Evonne “Bonnie” Jelcick (Olson)",
-  "birth": "15 Apr 1947",
+  "id": "adams_fran",
+  "name": "Fran Adams",
+  "sex": "F",
+  "birth": "",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [
-    "Married Tom Olson (m. 14 Jun 1969)"
-  ],
+  "milestones": [],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "olson_tom",
+    "spouse": "adams_presley",
     "children": [
-      "olson_nels",
-      "olson_kari",
-      "olson_tommy"
+      "adams_sally",
+      "adams_casey"
     ]
   },
   "locations": [],
@@ -29,11 +27,7 @@
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Wife of Tom Olson (son of Tom \"Umpa\" Olson)."
+    "Wife of Presley Adams; her birth surname is not recorded."
   ],
-  "aliases": [
-    "Bonnie Olson",
-    "Evonne Olson"
-  ],
-  "sex": "F"
+  "aliases": []
 }

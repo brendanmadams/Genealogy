@@ -1,0 +1,39 @@
+{
+  "id": "bill_daphne_wells",
+  "name": "Bill",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "wells_daphne",
+    "children": [
+      "daphne_james",
+      "daphne_john",
+      "daphne_arthur",
+      "daphne_mary",
+      "daphne_edward",
+      "daphne_stephen"
+    ]
+  },
+  "locations": [
+    "San Francisco Bay Area, California"
+  ],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area."
+  ],
+  "aliases": []
+}

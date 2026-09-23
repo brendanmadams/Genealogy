@@ -1,0 +1,30 @@
+{
+  "id": "daphne_james",
+  "name": "James",
+  "sex": "M",
+  "birth": "",
+  "death": "deceased",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Died at birth; the first child of Bill and Daphne"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "wells_daphne",
+    "father": "bill_daphne_wells",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [],
+  "aliases": []
+}
