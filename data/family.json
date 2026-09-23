@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T18:28:48.187Z",
+  "generated": "2026-09-23T18:54:09.973Z",
   "people": 621,
   "family_members": 571,
   "dna_matches": 50,
@@ -9287,8 +9287,10 @@
     "Lived at the Presidio, San Francisco, while her husband served there as a military police officer",
     "Born 25 Dec 1919, Whatcom County, WA",
     "Died 1 Aug 1998, Sacramento, Sacramento County, CA",
-    "Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington",
-    "During WWII Beryl first followed George to his training posts, then lived with her family in Pasco while he served in Hawaii; she lived in Pasco again with the children in 1952 while he went ahead to Okinawa."
+    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
+    "During WWII Beryl first followed George to his training posts, then lived with her family in Pasco while he served in Hawaii; she lived in Pasco again with the children in 1952 while he went ahead to Okinawa.",
+    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
+    "Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington"
    ],
    "education": [
     "Beryl was an elementary school student of Amy Kulp and Alice Burk in Whatcom County."
@@ -9716,7 +9718,7 @@
   },
   {
    "id": "bob_beryl",
-   "name": "Bob",
+   "name": "Bob Shriver",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -9768,8 +9770,10 @@
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
    ],
    "notes": [
-    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. Surname not recorded. He died before Beryl (1 Aug 1998).",
-    "Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother. [Barbara McKeldin Adams, A Memoir, text line 3677]"
+    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).",
+    "Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother. [Barbara McKeldin Adams, A Memoir, text line 3677]",
+    "Surname Shriver per Brendan Adams, who is fairly but not entirely sure of it.",
+    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998)."
    ]
   },
   {
@@ -13158,8 +13162,8 @@
     "qualifier": null
    },
    "death": {
-    "text": "deceased",
-    "year": null,
+    "text": "12 Nov 2020",
+    "year": 2020,
     "qualifier": null
    },
    "living": false,
@@ -13190,14 +13194,17 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Died 12 Nov 2020, in a car accident"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Son of Randy Falde and Kris Olson (Falde); brother of Megan Adams. Deceased; dates not recorded."
+    "Son of Randy Falde and Kris Olson (Falde); brother of Megan Adams.",
+    "CORRECTION 2026-09-23: Death changed from \"deceased\" to \"12 Nov 2020\", per Brendan Adams."
    ]
   },
   {
@@ -39654,7 +39661,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Allentown, Pennsylvania"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -39664,10 +39673,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Web research by Claude for Brendan Adams, 2026-09-23 (Legacy.com; people-search listing)"
    ],
    "notes": [
-    "A cousin of Barbara McKeldin Adams; his parents are not recorded (his mother was perhaps a Quinn). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket. [Barbara McKeldin Adams, A Memoir, text line 3389]"
+    "A cousin of Barbara McKeldin Adams; his parents are not recorded (his mother was perhaps a Quinn). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket. [Barbara McKeldin Adams, A Memoir, text line 3389]",
+    "Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his \"big cousin\". John Q. Stang appears as John Quinn Stang in Allentown. So Mark is probably John’s brother, and the middle name Quinn suggests their mother was a Quinn, perhaps Barbara’s Aunt Pat. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]"
    ]
   },
   {

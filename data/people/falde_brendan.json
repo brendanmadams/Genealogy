@@ -2,13 +2,15 @@
   "id": "falde_brendan",
   "name": "Brendan Falde",
   "birth": "26 Sep 1973",
-  "death": "deceased",
+  "death": "12 Nov 2020",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Died 12 Nov 2020, in a car accident"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -23,7 +25,8 @@
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Son of Randy Falde and Kris Olson (Falde); brother of Megan Adams. Deceased; dates not recorded."
+    "Son of Randy Falde and Kris Olson (Falde); brother of Megan Adams.",
+    "CORRECTION 2026-09-23: Death changed from \"deceased\" to \"12 Nov 2020\", per Brendan Adams."
   ],
   "aliases": []
 }

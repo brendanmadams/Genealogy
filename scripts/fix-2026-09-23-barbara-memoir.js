@@ -94,7 +94,20 @@ person('perusek_dawn', 'Dawn Perusek (Stang)', BA, { birth: '23 Jun', aliases: [
 wed('stang_mark', 'perusek_dawn');
 for (const [id, name] of [['stang_kevin', 'Kevin Stang'], ['stang_emily', 'Emily Stang']]) { person(id, name, BA, {}); child(id, 'stang_mark', 'perusek_dawn'); }
 person('bob_beryl', 'Bob', BA, { death: 'bef 1 Aug 1998', notes: ['Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. Surname not recorded. He died before Beryl (1 Aug 1998).', 'Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother.' + L(3677)], locations: ['Olympia, Washington'] });
-edit('bob_beryl', p => {}, MEM);
+edit('bob_beryl', p => {
+  if (p.name === 'Bob') p.name = 'Bob Shriver';
+  p.notes = p.notes.map(t => t.replace(' Surname not recorded. He died', ' He died'));
+  note(p, 'Surname Shriver per Brendan Adams, who is fairly but not entirely sure of it.');
+}, MEM);
+edit('beryl_simons_adams', p => { p.milestones = p.milestones.map(t => t === 'Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington' ? 'Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington' : t); });
+// Brendan Falde's death (Brendan Adams)
+setDate('falde_brendan', 'death', '12 Nov 2020', BA);
+edit('falde_brendan', p => { add(p.milestones, 'Died 12 Nov 2020, in a car accident'); p.notes = p.notes.map(t => t.replace(' Deceased; dates not recorded.', '')); }, BA);
+// Mark Stang: web research, 2026-09-23 (not conclusive)
+edit('stang_mark', p => {
+  add(p.locations, 'Allentown, Pennsylvania');
+  note(p, 'Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his "big cousin". John Q. Stang appears as John Quinn Stang in Allentown. So Mark is probably John’s brother, and the middle name Quinn suggests their mother was a Quinn, perhaps Barbara’s Aunt Pat. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]');
+}, 'Web research by Claude for Brendan Adams, 2026-09-23 (Legacy.com; people-search listing)');
 wed('beryl_simons_adams', 'bob_beryl');
 edit('beryl_simons_adams', p => { add(p.milestones, 'Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington'); add(p.locations, 'Olympia, Washington'); }, BA);
 
