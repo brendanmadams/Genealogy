@@ -19,7 +19,7 @@ const F = 'Abigail Adela Adelia Agnes Alberta Alice Alina Amanda Amber Amy Ann A
 const M = 'Aaron Abraham Alexander Alfred Alton Andrew Anthony Anton Arthur Benjamin Bern Bob Boyd Brendan Brian Brooks Caleb Carl Charles Charlie Christian Christopher Chuck Clark Clay Clinton Craig Damian Dan Daniel David Delbert Dielman Dominick Donald Duane Ed Eddy Edward Eli Elmer Elvin Ephraim Ethan Francis Frank Fred Gabriel Garret Gavin Geoffrey George Gerald Glen Hallock Harold Harry Henry Homer Horatio Howard Hugh Isaac Ivo Jack Jacob James Jeff Jeffery Jerry John Jose Joseph Judson Kaleb Kenneth Kevin Lemon Leroy Les Lester Lewis Louis Marion Mark Marlan Mateo Melvin Michael Myron Nardin Nels Oden Orval Owen Peter Phillip Presley Ralph Randy Raymond Reeves Richard Robert Rodney Roger Rolla Roy Rudolph Rutherford Samuel Scott Spencer Stan Stephen Steve Ted Theodore Thomas Tom Tommy Ulysses Valentine Victor Wallace Walter Washington Wayne Willard William Wright'.split(' ');
 const BY_NAME = new Map([...F.map(n => [n, 'F']), ...M.map(n => [n, 'M'])]);
 BY_NAME.set('Willie', null);   // "Willie May" is a woman, "Uncle Willie" a man: decided per record below
-const OVERRIDE = { adams_willie_may: 'F' };
+const OVERRIDE = { adams_willie_may: 'F', frankie_adams: 'M', sam_adams: 'M', simons_lynn: 'M' };   // the last three per Brendan Adams
 
 // Heather Zacher: her father Kenneth was in both parent slots
 { const h = load('zacher_heather'); if (h.relationships.mother === 'zacher_kenneth_donald' && h.relationships.father === 'zacher_kenneth_donald') { h.relationships.mother = ''; save(h); } }

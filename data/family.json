@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T20:29:48.471Z",
+  "generated": "2026-09-23T20:33:56.930Z",
   "people": 623,
   "family_members": 573,
   "dna_matches": 50,
@@ -13741,7 +13741,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "sex": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -35496,7 +35496,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "sex": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -38191,7 +38191,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "sex": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
