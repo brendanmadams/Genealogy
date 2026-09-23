@@ -27,6 +27,8 @@ An interactive family history site for the whole family, published with GitHub P
    The site shows them obituary style, "Megan Marie (Falde) Adams", and the directory
    lists them under the birth surname. If the birth surname is not known, use the
    married name alone ("Nellie Kulp").
+   `sex` is optional: `"F"` or `"M"`. It is only used for relationship words
+   ("aunt" rather than "aunt or uncle"); leave it out when unknown.
    Tree cards show a short name (the name they went by, middle initials, surname,
    latest married name). To choose it yourself, add `"card_name": ["Peggy", "(Allen) Seavy"]`.
 2. Rebuild:
@@ -62,7 +64,7 @@ An interactive family history site for the whole family, published with GitHub P
 - A **family** is a set of one or two partners plus their children, derived from the
   records rather than stored. Every spouse pair is a family (even childless); every child's
   known parents form a family. This handles multiple marriages and unknown parents without
-  needing a sex or gender field.
+  relying on sex; the optional `sex` field only chooses relationship words.
 - **Branches** come from `data/branches.json`. A person's `lineages` lists every line they
   descend from; their primary `branch` follows the father's line when known, otherwise the
   mother's. Someone who married in gets their partner's branch with `branch_by_marriage: true`.

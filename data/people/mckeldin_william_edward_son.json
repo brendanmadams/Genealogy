@@ -33,7 +33,8 @@
     "adams_direct_line_json_v1"
   ],
   "notes": [
-    "Child of Edward Hazelton McKeldin and Sophia Selbe. Distinct from William Frederick Podge McKeldin (mckeldin_william \u2014 CONFLICT with existing ID).",
+    "Child of Edward Hazelton McKeldin and Sophia Selbe. Distinct from William Frederick Podge McKeldin (mckeldin_william — CONFLICT with existing ID).",
     "ID disambiguated: mckeldin_william was taken by William Frederick Podge McKeldin. This is William McKeldin (1857-1902), child of Edward Hazelton McKeldin."
-  ]
+  ],
+  "sex": "M"
 }

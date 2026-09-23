@@ -1,10 +1,30 @@
 // "How are we related?": the relationship between two people, and the path.
-// The tree records no sex, so the words are neutral ("aunt or uncle").
+// Words follow the described person's recorded sex ("aunt", "uncle"), and
+// stay neutral ("aunt or uncle") when it is not recorded.
 
 const ORD = ['', 'first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth'];
 const ordinal = n => ORD[n] || `${n}th`;
 const removed = n => n === 0 ? '' : n === 1 ? ' once removed' : n === 2 ? ' twice removed' : ` ${n} times removed`;
 const greats = n => n <= 0 ? '' : n === 1 ? 'great-' : `${n}× great-`;
+
+/** Neutral term → the word for a woman (F) or man (M); unchanged when sex is unknown. */
+export function genderize(term, sex) {
+  if (sex !== 'F' && sex !== 'M') return term;
+  const f = sex === 'F';
+  const inLaw = { parent: f ? 'mother' : 'father', child: f ? 'daughter' : 'son', sibling: f ? 'sister' : 'brother' };
+  return term
+    .replace(/step-parent$/, f ? 'stepmother' : 'stepfather')
+    .replace(/(parent|child|sibling)-in-law$/, (m, r) => `${inLaw[r]}-in-law`)
+    .replace(/aunt or uncle$/, f ? 'aunt' : 'uncle')
+    .replace(/grandniece or grandnephew$/, f ? 'grandniece' : 'grandnephew')
+    .replace(/niece or nephew$/, f ? 'niece' : 'nephew')
+    .replace(/parent$/, f ? 'mother' : 'father')
+    .replace(/child$/, f ? 'daughter' : 'son')
+    .replace(/sibling$/, f ? 'sister' : 'brother')
+    .replace(/spouse$/, f ? 'wife' : 'husband');
+}
+const sexOf = (D, id) => D.person(id)?.sex || null;
+const ANCESTOR = /^(?:\d+× )?(?:great-)?(?:grand)?parent$/;
 
 /** Ancestors of id with their distance and the child through whom each is reached. */
 function ancestors(D, id) {
@@ -65,7 +85,8 @@ function blood(D, aId, bId) {
       if (ca && cb && ca !== cb && op(ca) && op(cb) && op(ca) !== op(cb)) half = true;
     }
   }
-  return { words: bloodWords(best.a, best.b, half), a: best.a, b: best.b, score: best.score, path: [...up, ...down], ancestors: couple };
+  const neutral = bloodWords(best.a, best.b, half);
+  return { neutral, words: genderize(neutral, sexOf(D, bId)), a: best.a, b: best.b, score: best.score, path: [...up, ...down], ancestors: couple };
 }
 
 /**
@@ -77,27 +98,33 @@ export function relate(D, aId, bId) {
   const direct = blood(D, aId, bId);
   if (direct) return { kind: 'blood', text: direct.words, path: direct.path, ancestors: direct.ancestors };
 
-  const aP = partners(D, aId), bP = partners(D, bId);
-  if (aP.includes(bId)) return { kind: 'marriage', text: 'spouse', path: [aId, bId], ancestors: [] };
+  const aP = partners(D, aId), bP = partners(D, bId), sB = sexOf(D, bId);
+  if (aP.includes(bId)) return { kind: 'marriage', text: genderize('spouse', sB), path: [aId, bId], ancestors: [] };
   const options = [];
   // B is married to one of A's blood relatives
   for (const s of bP) {
     const r = blood(D, aId, s);
     if (!r) continue;
-    const t = r.a === 1 && r.b === 0 ? 'step-parent' : r.a === 0 && r.b === 1 ? 'child-in-law' : r.a === 1 && r.b === 1 ? 'sibling-in-law' : stepWords(`${r.words}’s spouse`);
+    const t = r.a === 0 && r.b === 1 ? genderize('child-in-law', sB)
+      : r.a === 1 && r.b === 1 ? genderize('sibling-in-law', sB)
+      : ANCESTOR.test(r.neutral) ? genderize(`step-${r.neutral}`, sB)
+      : `${r.words}’s ${genderize('spouse', sB)}`;
     options.push({ score: r.score, text: t, path: [...r.path, bId], ancestors: r.ancestors });
   }
   // B is a blood relative of A's spouse
   for (const s of aP) {
     const r = blood(D, s, bId);
     if (!r) continue;
-    const t = r.a === 0 && r.b === 1 ? 'stepchild' : r.a === 1 && r.b === 0 ? 'parent-in-law' : r.a === 1 && r.b === 1 ? 'sibling-in-law' : `spouse’s ${r.words}`;
+    const t = r.a === 0 && r.b === 1 ? genderize('stepchild', sB)
+      : r.a === 1 && r.b === 0 ? genderize('parent-in-law', sB)
+      : r.a === 1 && r.b === 1 ? genderize('sibling-in-law', sB)
+      : `${genderize('spouse', sexOf(D, s))}’s ${r.words}`;
     options.push({ score: r.score, text: t, path: [aId, ...r.path], ancestors: r.ancestors });
   }
   // B is married to a blood relative of A's spouse (e.g. a spouse's sibling's spouse)
   if (!options.length) for (const s of aP) for (const t of bP) {
     const r = blood(D, s, t);
-    if (r) options.push({ score: r.score + 1, text: `spouse’s ${r.words}’s spouse`, path: [aId, ...r.path, bId], ancestors: r.ancestors });
+    if (r) options.push({ score: r.score + 1, text: `${genderize('spouse', sexOf(D, s))}’s ${r.words}’s ${genderize('spouse', sB)}`, path: [aId, ...r.path, bId], ancestors: r.ancestors });
   }
   if (options.length) {
     const o = options.sort((x, y) => x.score - y.score)[0];
@@ -107,22 +134,19 @@ export function relate(D, aId, bId) {
   // ("step-grandparent’s niece or nephew")
   const path = linkPath(D, aId, bId);
   if (!path) return { kind: 'none', text: 'no recorded relationship', path: [], ancestors: [] };
-  const words = [];
+  const parts = [];                  // [neutral word, the person it describes]
   let start = 0;
   for (let i = 1; i <= path.length; i++) {
     const hop = i < path.length && partners(D, path[i - 1]).includes(path[i]) && !(D.person(path[i]).parents || []).includes(path[i - 1]) && !(D.person(path[i - 1]).parents || []).includes(path[i]);
     if (i === path.length || hop) {
-      if (i - 1 > start) words.push(blood(D, path[start], path[i - 1])?.words || 'relative');
-      if (hop) words.push('spouse');
+      if (i - 1 > start) parts.push([blood(D, path[start], path[i - 1])?.neutral || 'relative', path[i - 1]]);
+      if (hop) parts.push(['spouse', path[i]]);
       start = i;
     }
   }
-  return { kind: 'marriage', text: stepWords(words.join('’s ')), path, ancestors: [] };
-}
-
-/** "grandparent’s spouse" → "step-grandparent", at the start of a chain. */
-function stepWords(t) {
-  return t.replace(/^((?:\d+× )?(?:great-)?(?:grand)?parent)’s spouse/, (m, rel) => `step-${rel}`);
+  // an ancestor's spouse at the start is a step-relation: "step-grandmother"
+  if (parts.length > 1 && ANCESTOR.test(parts[0][0]) && parts[1][0] === 'spouse') parts.splice(0, 2, [`step-${parts[0][0]}`, parts[1][1]]);
+  return { kind: 'marriage', text: parts.map(([w, id]) => genderize(w, sexOf(D, id))).join('’s '), path, ancestors: [] };
 }
 
 function linkPath(D, aId, bId) {
@@ -146,6 +170,6 @@ function linkPath(D, aId, bId) {
 
 /** "a first cousin" / "an aunt or uncle" / "the spouse" — for sentences. */
 export function article(text) {
-  if (/^(spouse|same person)/.test(text)) return `the ${text}`;
+  if (/^(spouse|wife|husband|same person)/.test(text)) return `the ${text}`;
   return /^[aeiou]/i.test(text) ? `an ${text}` : `a ${text}`;
 }

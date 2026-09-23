@@ -14,7 +14,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "zacher_kenneth_donald",
+    "mother": "",
     "father": "zacher_kenneth_donald",
     "siblings": [],
     "spouse": "",
@@ -27,5 +27,6 @@
   ],
   "notes": [
     "Child of Kenneth Donald Zacher."
-  ]
+  ],
+  "sex": "F"
 }

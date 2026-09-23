@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T20:04:37.156Z",
+  "generated": "2026-09-23T20:20:18.919Z",
   "people": 623,
   "family_members": 573,
   "dna_matches": 50,
@@ -155,6 +155,7 @@
    "aliases": [],
    "photo": "images/adams_alberta.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "john-wesley-death-cert",
     "george-and-alberta-allen"
@@ -265,6 +266,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1818",
@@ -363,6 +365,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Jun 1842",
@@ -487,6 +490,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -557,6 +561,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "jose2-obit"
    ],
@@ -623,6 +628,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "7 Jul 1901",
@@ -693,6 +699,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "13 January 1875",
@@ -779,6 +786,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1911",
@@ -842,6 +850,7 @@
    "aliases": [],
    "photo": "images/adams_charles_w.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "adams-brothers-portland"
    ],
@@ -918,6 +927,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1910",
@@ -976,6 +986,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "george-f-adams-family-1919"
    ],
@@ -1059,6 +1070,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "jose2-obit"
    ],
@@ -1124,6 +1136,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Aug 1890",
@@ -1191,6 +1204,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -1250,6 +1264,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -1308,6 +1323,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1922",
@@ -1367,6 +1383,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1915",
@@ -1427,6 +1444,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1905",
@@ -1490,6 +1508,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "7 Apr 1879",
@@ -1573,6 +1592,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1905",
@@ -1641,6 +1661,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "30 Mar 1896",
@@ -1716,6 +1737,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Jul 1881",
@@ -1783,6 +1805,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -1842,6 +1865,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "18 Mar 1887",
@@ -1914,6 +1938,7 @@
    "aliases": [],
    "photo": "images/adams_george_francis_1.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "gfa1-portrait",
     "adams-brothers",
@@ -2134,6 +2159,7 @@
    "aliases": [],
    "photo": "images/adams_george_francis_2.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "gfa2-army-record",
     "gfa2-nard-obit",
@@ -2286,6 +2312,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Dec 1857",
@@ -2369,6 +2396,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "31 Jul 1881",
@@ -2445,6 +2473,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Jan 1891",
@@ -2514,6 +2543,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "harriet-gill-obit"
    ],
@@ -2606,6 +2636,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -2667,6 +2698,7 @@
    "aliases": [],
    "photo": "images/adams_harriett_e.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "harriett-adams"
    ],
@@ -2753,6 +2785,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -2811,6 +2844,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "January 1868",
@@ -2881,6 +2915,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "23 Apr 1878",
@@ -2950,6 +2985,7 @@
    "aliases": [],
    "photo": "images/adams_james_casper.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "adams-brothers"
    ],
@@ -3047,6 +3083,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "27 Mar 1916",
@@ -3112,6 +3149,7 @@
    "aliases": [],
    "photo": "images/adams_john_wesley.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "adams-brothers",
     "john-wesley-obit",
@@ -3261,6 +3299,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "jose-pierre-obit",
     "virginia-general-assembly-list"
@@ -3426,6 +3465,7 @@
     "Jose P.",
     "Adams (II)"
    ],
+   "sex": "M",
    "media": [
     "adams-brothers",
     "jose2-obit",
@@ -3567,6 +3607,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1872",
@@ -3634,6 +3675,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -3717,6 +3759,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1845",
@@ -3787,6 +3830,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1916",
@@ -3847,6 +3891,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "jose2-obit"
    ],
@@ -3914,6 +3959,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "20 Dec 1854",
@@ -3984,6 +4030,7 @@
    ],
    "photo": "images/adams_mary_susan.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "mary-susie-adams"
    ],
@@ -4066,6 +4113,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1818",
@@ -4149,6 +4197,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1920",
@@ -4209,6 +4258,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "13 Jun 1889",
@@ -4283,6 +4333,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Nov 1850",
@@ -4364,6 +4415,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "17 Dec 1869",
@@ -4449,6 +4501,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "May 1860",
@@ -4523,6 +4576,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "8 Mar 1883",
@@ -4594,6 +4648,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "george-f-adams-family-1919"
    ],
@@ -4668,6 +4723,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "27 Sep 1891",
@@ -4738,6 +4794,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -4808,6 +4865,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Mar 1893",
@@ -4875,6 +4933,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -4938,6 +4997,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -5001,6 +5061,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1858",
@@ -5085,6 +5146,7 @@
    "aliases": [],
    "photo": "images/adams_william_w_1885.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "adams-brothers-portland",
     "willie-adams-and-frances-billingslea"
@@ -5156,6 +5218,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "16 May 1873",
@@ -5225,6 +5288,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "12 Dec 2008",
@@ -5292,6 +5356,7 @@
    ],
    "photo": "images/allen_anthony.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "tony-allen-and-dorothy-angwin-2003",
     "brooks-dorothy-tony-allen",
@@ -5379,6 +5444,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "10 Dec 1934",
@@ -5438,6 +5504,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "17 Jul 1987",
@@ -5511,6 +5578,7 @@
    "aliases": [],
    "photo": "images/allen_bernice.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "bernice-allen-1940s",
     "bernice-allen-1920s"
@@ -5606,6 +5674,7 @@
    "aliases": [],
    "photo": "images/allen_brooks.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "brooks-allen",
     "brooks-dorothy-tony-allen"
@@ -5685,6 +5754,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "27 Oct 1943",
@@ -5747,6 +5817,7 @@
    "aliases": [],
    "photo": "images/allen_edward_george.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "edward-g-allen",
     "ed-and-judy-allen"
@@ -5814,6 +5885,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "11 Aug 1889",
@@ -5897,6 +5969,7 @@
    "aliases": [],
    "photo": "images/allen_george_homer.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "dorothy-ann-wedding-1944",
     "george-h-allen-2001"
@@ -6026,6 +6099,7 @@
    "aliases": [],
    "photo": "images/allen_george_julius.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "george-and-alberta-allen",
     "george-julius-allen-1868",
@@ -6131,6 +6205,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "chariton-county-plat-1880"
    ],
@@ -6201,6 +6276,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "18 Apr 1897",
@@ -6310,6 +6386,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "30 Jun 1935",
@@ -6387,6 +6464,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "19 Mar 1979",
@@ -6464,6 +6542,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "12 Mar 1902",
@@ -6535,6 +6614,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "7 Feb 1893",
@@ -6606,6 +6686,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "6 Jul 1938",
@@ -6674,6 +6755,7 @@
    "aliases": [],
    "photo": "images/allen_leroy_gaylord.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "leroy-g-allen"
    ],
@@ -6764,6 +6846,7 @@
     "Peggy",
     "(Allen) Seavy"
    ],
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "22 Nov 1925",
@@ -6844,6 +6927,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "27 May 1900",
@@ -6928,6 +7012,7 @@
    "aliases": [],
    "photo": "images/allen_ralph_kenneth.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "ralph-k-allen"
    ],
@@ -7028,6 +7113,7 @@
    "aliases": [],
    "photo": "images/allen_ralph_kenneth_jr.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "ralph-k-allen-jr"
    ],
@@ -7094,6 +7180,7 @@
    "aliases": [],
    "photo": "images/allen_susan.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "susan-elizabeth-allen",
     "billy-wendy-dorothy-susie-tony-allen"
@@ -7180,6 +7267,7 @@
    "aliases": [],
    "photo": "images/allen_wendy.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "wendy-ann-allen",
     "billy-wendy-dorothy-susie-tony-allen"
@@ -7266,6 +7354,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "24 Jun 1895",
@@ -7335,6 +7424,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "28 Nov 1929",
@@ -7397,6 +7487,7 @@
    ],
    "photo": "images/allen_william_w.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "william-w-allen",
     "billy-wendy-dorothy-susie-tony-allen"
@@ -7501,6 +7592,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -7563,6 +7655,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Sep 1898",
@@ -7637,6 +7730,7 @@
    "aliases": [],
    "photo": "images/anthony_homer_gideon.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "homer-anthony-family"
    ],
@@ -7695,6 +7789,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -7753,6 +7848,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -7806,6 +7902,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -7867,6 +7964,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -7922,6 +8020,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1851",
@@ -7987,6 +8086,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -8044,6 +8144,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "February 12, 1948",
@@ -8995,6 +9096,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "25 Dec 1841",
@@ -9058,6 +9160,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Jul 1871",
@@ -9124,6 +9227,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "25 Dec 1919",
@@ -9285,6 +9389,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "8 Jun 1916",
@@ -9348,6 +9453,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "willie-adams-and-frances-billingslea"
    ],
@@ -9424,6 +9530,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "4 Nov 1888",
@@ -9488,6 +9595,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "9 Sep 1928",
@@ -9551,6 +9659,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "14 Mar 1920",
@@ -9619,6 +9728,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9672,6 +9782,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -9734,6 +9845,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -9790,6 +9902,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1881",
@@ -9856,6 +9969,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "August 1, 1975",
@@ -9976,6 +10090,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "February 8, 1972",
@@ -10095,6 +10210,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1902",
@@ -10153,6 +10269,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "19 January 1859",
@@ -10223,6 +10340,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -10283,6 +10401,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -10336,6 +10455,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -10394,6 +10514,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "October 20, 1971",
@@ -10475,6 +10596,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -10533,6 +10655,7 @@
     "Charles “Buckey”",
     "McKeldin"
    ],
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "April 22, 1917",
@@ -10640,6 +10763,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "about 1978-1979",
@@ -10706,6 +10830,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "26 Feb 1882",
@@ -10774,6 +10899,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "14 Apr 1933",
@@ -10834,6 +10960,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -10890,6 +11017,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -10943,6 +11071,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -10999,6 +11128,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -11059,6 +11189,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1968",
@@ -11133,6 +11264,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 4 Feb 1947",
@@ -11258,6 +11390,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -11311,6 +11444,7 @@
    "aliases": [],
    "photo": "images/clark_clay_c.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "clay-c-clark",
     "chariton-county-plat-1880"
@@ -11388,6 +11522,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -11453,6 +11588,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1 Jan 1900",
@@ -11524,6 +11660,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "26 Mar 1875",
@@ -11597,6 +11734,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -11661,6 +11799,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -11721,6 +11860,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -11783,6 +11923,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -11836,6 +11977,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1818",
@@ -11896,6 +12038,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "8 December 1950",
@@ -11972,6 +12115,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1860",
@@ -12042,6 +12186,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1808",
@@ -12110,6 +12255,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -12170,6 +12316,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "5 Apr 1925",
@@ -12230,6 +12377,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -12283,6 +12431,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -12339,6 +12488,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -12397,6 +12547,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -12457,6 +12608,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -12510,6 +12662,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "19 Feb 1965",
@@ -12566,6 +12719,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "6 Mar 1906",
@@ -12633,6 +12787,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -12699,6 +12854,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1914",
@@ -12802,6 +12958,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -12880,6 +13037,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "5 Aug 2002",
@@ -12968,6 +13126,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1890",
@@ -13050,6 +13209,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "21 Feb 1893",
@@ -13113,6 +13273,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "26 Sep 1973",
@@ -13174,6 +13335,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "17 Jun 1927",
@@ -13233,6 +13395,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "15 Apr 1947",
@@ -13295,6 +13458,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "22 Aug",
@@ -13350,6 +13514,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "19 Sep 1925",
@@ -13407,6 +13572,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Jan 1870",
@@ -13467,6 +13633,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "27 Sep 1958",
@@ -13526,6 +13693,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -13579,6 +13747,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -13643,6 +13812,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -13696,6 +13866,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -13756,6 +13927,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "9 Mar 2007",
@@ -13824,6 +13996,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "8 Apr 2004",
@@ -13910,6 +14083,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "10 April 2003",
@@ -13992,6 +14166,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "19 Aug 2009",
@@ -14071,6 +14246,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1931",
@@ -14129,6 +14305,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "February 3, 1976",
@@ -14208,6 +14385,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -14276,6 +14454,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "September 20, 1973",
@@ -14364,6 +14543,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "27 Sep 1950",
@@ -14474,6 +14654,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "george-f-adams-family-1919"
    ],
@@ -14650,6 +14831,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "September 25, 1944",
@@ -14759,6 +14941,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14814,6 +14997,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "8 Jan 1851",
@@ -14881,6 +15065,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "17 October 1822",
@@ -14970,6 +15155,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "10 Jan 1849",
@@ -15039,6 +15225,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15092,6 +15279,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1986",
@@ -15165,6 +15353,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -15227,6 +15416,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "27 Aug 1874",
@@ -15295,6 +15485,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Sep 1890",
@@ -15355,6 +15546,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1862",
@@ -15415,6 +15607,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "3 Jul 1863",
@@ -15503,6 +15696,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1822",
@@ -15576,6 +15770,7 @@
    ],
    "photo": "images/grinnell_serepta_mary.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "wheeler-family-1894",
     "mr-and-mrs-d-a-wheeler",
@@ -15657,6 +15852,7 @@
    "aliases": [],
    "photo": "images/grinnell_willard.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "willard-grinnell"
    ],
@@ -15715,6 +15911,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Jun 1842",
@@ -15777,6 +15974,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "13 Dec 1884",
@@ -15835,6 +16033,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -15893,6 +16092,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "bap 3 Nov 1741",
@@ -15966,6 +16166,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1841",
@@ -16036,6 +16237,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1880",
@@ -16093,6 +16295,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1813",
@@ -16156,6 +16359,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1863",
@@ -16226,6 +16430,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1833",
@@ -16289,6 +16494,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1845",
@@ -16356,6 +16562,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -16415,6 +16622,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -16474,6 +16682,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1849",
@@ -16545,6 +16754,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1858",
@@ -16609,6 +16819,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1810",
@@ -16688,6 +16899,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1804",
@@ -16761,6 +16973,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1785",
@@ -16880,6 +17093,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -16944,6 +17158,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -17006,6 +17221,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1 Aug 1867",
@@ -17070,6 +17286,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1867",
@@ -17139,6 +17356,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1876",
@@ -17198,6 +17416,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1743",
@@ -17321,6 +17540,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1839",
@@ -17386,6 +17606,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1859",
@@ -17452,6 +17673,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1843",
@@ -17511,6 +17733,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1802",
@@ -17568,6 +17791,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1780s",
@@ -17650,6 +17874,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1795",
@@ -17732,6 +17957,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "bap 16 Dec 1732",
@@ -17799,6 +18025,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1840",
@@ -17860,6 +18087,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -17932,6 +18160,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -17998,6 +18227,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -18066,6 +18296,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1751",
@@ -18163,6 +18394,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1835",
@@ -18226,6 +18458,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1814",
@@ -18305,6 +18538,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "bap 5 Feb 1767",
@@ -18366,6 +18600,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -18422,6 +18657,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -18484,6 +18720,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -18539,6 +18776,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -18595,6 +18833,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1850",
@@ -18660,6 +18899,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1867",
@@ -18719,6 +18959,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -18778,6 +19019,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -18846,6 +19088,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "bap 14 Jan 1750",
@@ -18913,6 +19156,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -18973,6 +19217,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1844",
@@ -19036,6 +19281,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -19092,6 +19338,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -19152,6 +19399,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "bap 5 Nov 1739",
@@ -19221,6 +19469,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -19282,6 +19531,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1830",
@@ -19365,6 +19615,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1836",
@@ -19426,6 +19677,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "between 1776 and 1784",
@@ -19510,6 +19762,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -19571,6 +19824,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "bap 11 Jun 1708",
@@ -19681,6 +19935,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -19753,6 +20008,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1861",
@@ -19815,6 +20071,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -19875,6 +20132,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Jun 1869",
@@ -19940,6 +20198,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1879",
@@ -19999,6 +20258,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -20069,6 +20329,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -20133,6 +20394,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "11 May 1734",
@@ -20200,6 +20462,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Apr 1851",
@@ -20270,6 +20533,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -20331,6 +20595,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1841",
@@ -20403,6 +20668,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1856",
@@ -20465,6 +20731,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1843",
@@ -20541,6 +20808,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1846",
@@ -20614,6 +20882,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1846",
@@ -20679,6 +20948,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1849",
@@ -20738,6 +21008,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1868",
@@ -20800,6 +21071,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -20867,6 +21139,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -20937,6 +21210,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "9 Aug 1762",
@@ -20999,6 +21273,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1812",
@@ -21078,6 +21353,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "bap 21 Dec 1769",
@@ -21144,6 +21420,7 @@
    ],
    "photo": "images/hanks_mary.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "mary-hanks-grinnell"
    ],
@@ -21202,6 +21479,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -21256,6 +21534,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -21309,6 +21588,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -21362,6 +21642,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -21415,6 +21696,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -21474,6 +21756,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1918",
@@ -21531,6 +21814,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -21584,6 +21868,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -21640,6 +21925,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1859",
@@ -21697,6 +21983,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -21756,6 +22043,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1861",
@@ -21813,6 +22101,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1833",
@@ -21877,6 +22166,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -21933,6 +22223,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -22002,6 +22293,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -22096,6 +22388,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "16 Sep 1955",
@@ -22159,6 +22452,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1830",
@@ -22219,6 +22513,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -22276,6 +22571,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1833",
@@ -22333,6 +22629,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -22395,6 +22692,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -22461,6 +22759,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "23 Jun 1908",
@@ -22527,6 +22826,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "24 Feb 1948",
@@ -22926,6 +23226,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Aug 1875",
@@ -22991,6 +23292,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "25 Jan 1900",
@@ -23053,6 +23355,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1 Feb 2008",
@@ -23114,6 +23417,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -23171,6 +23475,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "6 Apr 2010",
@@ -23232,6 +23537,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "2 Mar 1867",
@@ -23314,6 +23620,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1821",
@@ -23372,6 +23679,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "11 Oct 1895",
@@ -23438,6 +23746,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -23496,6 +23805,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -23557,6 +23867,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -23623,6 +23934,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -23688,6 +24000,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -23753,6 +24066,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -23809,6 +24123,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -23872,6 +24187,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -23926,6 +24242,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -23981,6 +24298,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "2 Mar",
@@ -24035,6 +24353,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -24094,6 +24413,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "16 Feb 1894",
@@ -24174,6 +24494,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1648",
@@ -24245,6 +24566,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -24303,6 +24625,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -24361,6 +24684,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1679",
@@ -24434,6 +24758,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "7 March 1740",
@@ -24506,6 +24831,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1718",
@@ -24578,6 +24904,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -24645,6 +24972,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "19 July 1770",
@@ -24710,6 +25038,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1917",
@@ -24784,6 +25113,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1918",
@@ -24856,6 +25186,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Mar 1967",
@@ -24915,6 +25246,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Nov 1964",
@@ -24974,6 +25306,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1912",
@@ -25057,6 +25390,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "kulp-record-book"
    ],
@@ -25159,6 +25493,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1899",
@@ -25232,6 +25567,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "17 Oct 1908",
@@ -25325,6 +25661,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -25384,6 +25721,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "10 April 1811",
@@ -25456,6 +25794,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Dec 1874",
@@ -25517,6 +25856,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1867",
@@ -25576,6 +25916,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "16 Dec 1941",
@@ -25664,6 +26005,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "kulp-record-book"
    ],
@@ -25774,6 +26116,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1901",
@@ -25846,6 +26189,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1871",
@@ -25905,6 +26249,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "December 1842",
@@ -26000,6 +26345,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1904",
@@ -26083,6 +26429,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -26143,6 +26490,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1906",
@@ -26222,6 +26570,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1915",
@@ -26298,6 +26647,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "18 Mar 1940",
@@ -26369,6 +26719,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "gfa1-marriage-record",
     "john-s-lane-land-warrant"
@@ -26459,6 +26810,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -26527,6 +26879,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1944",
@@ -26583,6 +26936,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "13 Mar 2007",
@@ -26662,6 +27016,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Sep 1947",
@@ -26718,6 +27073,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -26774,6 +27130,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "10 May 1869",
@@ -26835,6 +27192,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1928",
@@ -26893,6 +27251,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1887",
@@ -26951,6 +27310,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1914",
@@ -27006,6 +27366,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Dec 1839",
@@ -27070,6 +27431,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1864",
@@ -27129,6 +27491,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Jun 1875",
@@ -27196,6 +27559,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -27262,6 +27626,7 @@
     "Peggy",
     "(Quinn) McKeldin"
    ],
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "March 12, 1927",
@@ -27362,6 +27727,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -27416,6 +27782,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -27474,6 +27841,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "22 May 1850, Brunswick, Chariton County, MO",
@@ -27553,6 +27921,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -27619,6 +27988,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "26 Feb 2002",
@@ -27677,6 +28047,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -27730,6 +28101,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -27786,6 +28158,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "30 December 1902",
@@ -27857,6 +28230,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "4 Feb 1887",
@@ -27947,6 +28321,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -28007,6 +28382,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1849",
@@ -28071,6 +28447,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "~1818",
@@ -28149,6 +28526,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -28211,6 +28589,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1853",
@@ -28275,6 +28654,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "10 September 1880",
@@ -28347,6 +28727,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -28409,6 +28790,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 29 Mar 1860",
@@ -28519,6 +28901,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1907",
@@ -28578,6 +28961,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "6 October 1898",
@@ -28649,6 +29033,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "25 March 1883",
@@ -28725,6 +29110,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1779",
@@ -28789,6 +29175,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1894",
@@ -28861,6 +29248,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -28923,6 +29311,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "6 June 1888",
@@ -28996,6 +29385,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -29064,6 +29454,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1855",
@@ -29128,6 +29519,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "17 January 1894",
@@ -29199,6 +29591,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1862",
@@ -29263,6 +29656,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1850",
@@ -29327,6 +29721,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -29389,6 +29784,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "20 Nov 1900",
@@ -29528,6 +29924,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "15 January 1892",
@@ -29602,6 +29999,7 @@
     "William “Podge”",
     "McKeldin"
    ],
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "22 August 1896",
@@ -29681,6 +30079,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -29743,6 +30142,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1857",
@@ -29808,6 +30208,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -29867,6 +30268,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -29930,6 +30332,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -29986,6 +30389,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -30044,6 +30448,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1850",
@@ -30116,6 +30521,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -30187,6 +30593,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "kulp-record-book"
    ],
@@ -30286,6 +30693,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -30355,6 +30763,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -30418,6 +30827,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1825",
@@ -30485,6 +30895,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "17 December 1975",
@@ -30566,6 +30977,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "February 27, 1944",
@@ -30649,6 +31061,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "12 Sep",
@@ -30716,6 +31129,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -30776,6 +31190,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -30829,6 +31244,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -30882,6 +31298,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -30935,6 +31352,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -30988,6 +31406,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "29 Dec 1944",
@@ -31050,6 +31469,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -31102,6 +31522,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1730",
@@ -31163,6 +31584,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1908",
@@ -31223,6 +31645,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -31276,6 +31699,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -31335,6 +31759,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -31399,6 +31824,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -31456,6 +31882,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -31517,6 +31944,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "23 Dec 1925",
@@ -31573,6 +32001,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "15 Apr 1947",
@@ -31631,6 +32060,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "24 Jan 2019",
@@ -31684,6 +32114,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "28 Oct 1981",
@@ -31748,6 +32179,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "21 Oct 1948",
@@ -31813,6 +32245,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "12 Mar 2014",
@@ -31864,6 +32297,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "28 Aug 1976",
@@ -31924,6 +32358,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "26 Jun 1950",
@@ -31978,6 +32413,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "31 Jan 1947",
@@ -32044,6 +32480,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "10 Nov 1924",
@@ -32106,6 +32543,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "8 Nov 1987",
@@ -32162,6 +32600,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "3 Oct 2005",
@@ -32242,6 +32681,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -32303,6 +32743,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1854",
@@ -32361,6 +32802,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -32419,6 +32861,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "23 Jun",
@@ -32476,6 +32919,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "2 Jun 1936",
@@ -32537,6 +32981,7 @@
    ],
    "photo": "images/pfander_dorothy_douthit.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "three-dorothys-wheeler",
     "dorothy-and-melvin-wheeler-1951",
@@ -32601,6 +33046,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -32668,6 +33114,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1841",
@@ -32726,6 +33173,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -32787,6 +33235,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -32840,6 +33289,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -32899,6 +33349,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Apr 1849",
@@ -32968,6 +33419,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -33054,6 +33506,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1900",
@@ -33150,6 +33603,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -33220,6 +33674,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1901",
@@ -33340,6 +33795,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -33412,6 +33868,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -33465,6 +33922,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -33519,6 +33977,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "12 Sep 1902",
@@ -33580,6 +34039,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -33633,6 +34093,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -33688,6 +34149,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -33752,6 +34214,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -33816,6 +34279,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -33876,6 +34340,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1846",
@@ -33940,6 +34405,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -33999,6 +34465,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -34059,6 +34526,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "2 January 1908",
@@ -34136,6 +34604,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -34194,6 +34663,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "3 Mar",
@@ -34250,6 +34720,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -34314,6 +34785,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -34380,6 +34852,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1844",
@@ -34444,6 +34917,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1842",
@@ -34508,6 +34982,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1847",
@@ -34572,6 +35047,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1838",
@@ -34636,6 +35112,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1840",
@@ -34700,6 +35177,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1840",
@@ -34764,6 +35242,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1837",
@@ -34828,6 +35307,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1835",
@@ -34892,6 +35372,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -34958,6 +35439,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1846",
@@ -35022,6 +35504,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -35088,6 +35571,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "dorothy-ann-wedding-1944"
    ],
@@ -35146,6 +35630,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -35199,6 +35684,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -35271,6 +35757,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -35329,6 +35816,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -35387,6 +35875,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -35445,6 +35934,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1652",
@@ -35505,6 +35995,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "24 May 1939",
@@ -35565,6 +36056,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "10 Dec 1910",
@@ -35631,6 +36123,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -35684,6 +36177,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "29 Mar 1925",
@@ -35748,6 +36242,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "29 Mar 1950",
@@ -35815,6 +36310,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "2 Jan 1952",
@@ -35882,6 +36378,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1 May 1953",
@@ -35949,6 +36446,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1914",
@@ -36011,6 +36509,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "13 Jan 1910",
@@ -36076,6 +36575,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "15 Sep 1911",
@@ -36141,6 +36641,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "Jan 1886",
@@ -36206,6 +36707,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "20 March 1825",
@@ -36273,6 +36775,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -36329,6 +36832,7 @@
    "aliases": [],
    "photo": "images/shoush_anna_elizabeth.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "homer-anthony-family"
    ],
@@ -36396,6 +36900,7 @@
    "aliases": [],
    "photo": "images/shoush_william.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "william-and-susanna-shoush"
    ],
@@ -36454,6 +36959,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "May 1852",
@@ -36543,6 +37049,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -36609,6 +37116,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Mar 1887",
@@ -36674,6 +37182,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -36731,6 +37240,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -36789,6 +37299,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -36847,6 +37358,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -36905,6 +37417,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Jan 1918",
@@ -36994,6 +37507,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Dec 1883",
@@ -37059,6 +37573,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -37146,6 +37661,7 @@
     "Harriet “Hattie”",
     "Simons"
    ],
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "December 1858",
@@ -37230,6 +37746,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "25 Dec 1925",
@@ -37316,6 +37833,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -37374,6 +37892,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -37437,6 +37956,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -37496,6 +38016,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -37550,6 +38071,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -37611,6 +38133,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Sep 1885",
@@ -37676,6 +38199,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -37735,6 +38259,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -37792,6 +38317,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -37852,6 +38378,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "30 Oct 1929",
@@ -37932,6 +38459,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -37988,6 +38516,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "17 Oct 1921",
@@ -38063,6 +38592,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "14 Jun 1897",
@@ -38192,6 +38722,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -38249,6 +38780,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -38308,6 +38840,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -38372,6 +38905,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -38437,6 +38971,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -38493,6 +39028,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -38549,6 +39085,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -38602,6 +39139,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -38655,6 +39193,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "10 Apr 1907",
@@ -38724,6 +39263,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1867",
@@ -38786,6 +39326,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -38842,6 +39383,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1875",
@@ -38904,6 +39446,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1870",
@@ -38966,6 +39509,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1868",
@@ -39028,6 +39572,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1876",
@@ -39090,6 +39635,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1869",
@@ -39152,6 +39698,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "abt 1879",
@@ -39214,6 +39761,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1872",
@@ -39276,6 +39824,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1840",
@@ -39344,6 +39893,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "1836",
@@ -39404,6 +39954,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -39457,6 +40008,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -39511,6 +40063,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1931",
@@ -39568,6 +40121,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -39621,6 +40175,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -39676,6 +40231,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -39729,6 +40285,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -39784,6 +40341,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -39850,6 +40408,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -39903,6 +40462,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -39957,6 +40517,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -40015,6 +40576,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -40074,6 +40636,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1807",
@@ -40151,6 +40714,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -40211,6 +40775,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -40268,6 +40833,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -40334,6 +40900,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -40387,6 +40954,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -40447,6 +41015,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1840",
@@ -40514,6 +41083,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "george-f-adams-family-1919"
    ],
@@ -40629,6 +41199,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -40685,6 +41256,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1929",
@@ -40744,6 +41316,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "10 Jul 1901",
@@ -40819,6 +41392,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1910",
@@ -40881,6 +41455,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "6 Mar 1923",
@@ -40942,6 +41517,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "14 Oct 1865",
@@ -41007,6 +41583,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1927",
@@ -41070,6 +41647,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "26 Nov 1899",
@@ -41132,6 +41710,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1815",
@@ -41192,6 +41771,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1846",
@@ -41261,6 +41841,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Oct 1844",
@@ -41346,6 +41927,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1824",
@@ -41409,6 +41991,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -41465,6 +42048,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -41518,6 +42102,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -41573,6 +42158,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -41629,6 +42215,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -41689,6 +42276,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1890",
@@ -41763,6 +42351,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1925",
@@ -41823,6 +42412,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "~1916",
@@ -41889,6 +42479,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "wheeler-family-1894"
    ],
@@ -41953,6 +42544,7 @@
    "aliases": [],
    "photo": "images/wheeler_d_a.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "wheeler-family-1894",
     "mr-and-mrs-d-a-wheeler"
@@ -42026,6 +42618,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "wheeler-family-1894"
    ],
@@ -42090,6 +42683,7 @@
    "aliases": [],
    "photo": "images/wheeler_dorothy_ann.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "three-dorothys-wheeler",
     "dorothy-ann-wheeler-huh",
@@ -42190,6 +42784,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "wheeler-family-1894"
    ],
@@ -42254,6 +42849,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [
     "wheeler-family-1894"
    ],
@@ -42318,6 +42914,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "wheeler-family-1894"
    ],
@@ -42385,6 +42982,7 @@
    ],
    "photo": "images/wheeler_marjorie.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "marjorie-wheeler",
     "three-dorothys-wheeler",
@@ -42456,6 +43054,7 @@
    "aliases": [],
    "photo": "images/wheeler_melvin.jpg",
    "card_name": null,
+   "sex": "M",
    "media": [
     "melvin-wheeler-1949",
     "grandpa-wheeler",
@@ -42535,6 +43134,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [
     "wheeler-family-1894"
    ],
@@ -42599,6 +43199,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "28 Jul 1898",
@@ -42666,6 +43267,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -42721,6 +43323,7 @@
    ],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1851",
@@ -42779,6 +43382,7 @@
    ],
    "photo": "images/willoughby_susanna.jpg",
    "card_name": null,
+   "sex": "F",
    "media": [
     "william-and-susanna-shoush"
    ],
@@ -42837,6 +43441,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -42891,6 +43496,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -42944,6 +43550,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -42997,6 +43604,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "Mar 1917",
@@ -43055,6 +43663,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -43111,6 +43720,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": null,
    "media": [],
    "birth": {
     "text": "",
@@ -43164,6 +43774,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "",
@@ -43239,6 +43850,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "",
@@ -43295,6 +43907,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1993",
@@ -43359,6 +43972,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1990",
@@ -43423,6 +44037,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "13 Mar 1941",
@@ -43488,6 +44103,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1990",
@@ -43509,7 +44125,7 @@
    ],
    "adopted": false,
    "father": "zacher_kenneth_donald",
-   "mother": "zacher_kenneth_donald",
+   "mother": null,
    "parents": [
     "zacher_kenneth_donald"
    ],
@@ -43546,6 +44162,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 2002",
@@ -43610,6 +44227,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "1 Aug 1968",
@@ -43681,6 +44299,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "7 Aug 1966",
@@ -43765,6 +44384,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "24 Nov 1974",
@@ -43843,6 +44463,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1997",
@@ -43903,6 +44524,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "F",
    "media": [],
    "birth": {
     "text": "abt 1999",
@@ -43963,6 +44585,7 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
+   "sex": "M",
    "media": [],
    "birth": {
     "text": "abt 1992",

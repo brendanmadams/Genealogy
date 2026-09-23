@@ -111,7 +111,9 @@ function parseDate(s) {
   else if (/\bbefore\b/i.test(s)) qualifier = 'before';
   else if (/\bafter\b/i.test(s)) qualifier = 'after';
   else if (/\bbetween\b|\d{4}\s*[-\/]\s*\d{2,4}/.test(s)) qualifier = 'range';
-  if (!year && !/unknown/i.test(s)) warn(`unparseable date "${s}"`);
+  // a day and month without a year ("12 Sep") is a known birthday, not an error
+  const dayMonth = /^\d{1,2} (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*$/i.test(s);
+  if (!year && !dayMonth && !/unknown|deceased/i.test(s)) warn(`unparseable date "${s}"`);
   return { text: s, year, qualifier };
 }
 const dates = new Map();
@@ -259,6 +261,13 @@ if (fs.existsSync(MEDIA_CFG_PATH)) {
 const connectedIds = new Set();
 for (const f of families.values()) for (const id of [...f.partners, ...f.children]) connectedIds.add(id);
 
+// sex is optional ("F", "M" or absent); warn if it contradicts a mother/father link
+for (const p of people.values()) {
+  if (p.sex !== undefined && p.sex !== 'F' && p.sex !== 'M' && p.sex !== '') console.warn(`sex should be "F", "M" or omitted: ${p.id} has ${JSON.stringify(p.sex)}`);
+  const r = p.relationships || {};
+  if (r.mother && people.get(r.mother)?.sex === 'M') console.warn(`${r.mother} is recorded as male but is the mother of ${p.id}`);
+  if (r.father && people.get(r.father)?.sex === 'F') console.warn(`${r.father} is recorded as female but is the father of ${p.id}`);
+}
 const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).map(p => {
   const r = rel.get(p.id), d = dates.get(p.id), pb = primary.get(p.id);
   const fams = familiesOf.get(p.id);
@@ -272,6 +281,7 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     aliases: p.aliases || [],
     photo: photos.has(p.id) ? `images/${p.id}.jpg` : null,
     card_name: Array.isArray(p.card_name) ? p.card_name : null,
+    sex: p.sex === 'F' || p.sex === 'M' ? p.sex : null,   // optional; only used for relationship words
     media: mediaOf.get(p.id),
     birth: d.birth, death: d.death,
     living: false,              // set below with living_status
