@@ -1,7 +1,7 @@
 {
   "id": "adams_jose_pierre",
   "name": "Jose Pierre Adams",
-  "birth": "abt 1791",
+  "birth": "abt 1785",
   "death": "abt 1836",
   "personality": [],
   "roles": [],
@@ -12,7 +12,10 @@
     "Immigrated in early manhood (probably the 1810s), settled in Jefferson County, VA",
     "Served as executor of brother-in-law Thomas Hamilton's will in 1836",
     "Parentage unknown",
-    "C-004: RESEARCH FLAG \u2014 Jose P. vs Jesse P. name variation. No primary records identified for Jose Pierre Adams. Name may be transcription or naming drift from 'Jesse' to 'Jose'. High-impact uncertainty. Confidence: LOW."
+    "C-004: RESEARCH FLAG — Jose P. vs Jesse P. name variation. No primary records identified for Jose Pierre Adams. Name may be transcription or naming drift from 'Jesse' to 'Jose'. High-impact uncertainty. Confidence: LOW.",
+    "1830 census household: two males 10-15 (likely George and Alexander), one male 40-50 (Jose P.), five girls under 20 and one woman 40-50 (Elizabeth). No census record for him or Elizabeth after 1830.",
+    "Per the 1898 biography, he was accidentally poisoned while testing a variety of herb and soon died, aged forty-five.",
+    "DPBR: while testing a variety of herb he was accidentally poisoned and soon died, aged forty-five. The author doubts the details but thinks the age may be fairly accurate."
   ],
   "risk_events": [],
   "milestones": [
@@ -20,10 +23,13 @@
     "Settled in Harpers Ferry; worked as a chemist",
     "Served as executor for brother-in-law Thomas Hamilton's will in 1836",
     "Married Elizabeth Eliza Hamilton (1813, Jefferson County, VA)",
-    "Census trail: Morgan County VA (1820) \u2192 Jefferson County VA (1830)"
+    "Census trail: Morgan County VA (1820) → Jefferson County VA (1830)"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Employed as a chemist in Virginia (per 1898 biography of his grandson)",
+    "DPBR: married in Virginia and was employed there as a chemist."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
@@ -48,12 +54,24 @@
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "manual_stitch_adams_direct_line",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Family letters in Bill Allen’s family document"
   ],
   "notes": [
     "Also identified as Jose1 to distinguish from Jose Pierre Adams (Jose2), his grandson",
     "Brendan's 6x-great-grandfather (paternal line Gen 1)",
     "Child added: adams_george_francis_1. Evidence: Adams direct line: Gen 2 (George Francis Adams #1, b.~1817) is son of Gen 1 (Jose Pierre Adams, b.~1791). Source: adams_direct_line_json_v1, family_data_v1.",
-    "C-004: Research flag \u2014 possible name transcription error: 'Jose' vs 'Jesse P.' Adams. No primary records confirmed. Should be investigated."
+    "C-004: Research flag — possible name transcription error: 'Jose' vs 'Jesse P.' Adams. No primary records confirmed. Should be investigated.",
+    "CORRECTION 2026-09-23: Birth changed from \"abt 1791\" to \"abt 1785\". The 1820 and 1830 censuses place the birth between 1780 and 1790 (Bill Allen, Further Research, 2012); his 1836 death notice gives his age as about 50. Decision by Brendan Adams.",
+    "Parentage unknown [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 3993]",
+    "Per a Hamilton family genealogy report, he was executor of the will of his brother-in-law Thomas Hamilton in 1836 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 3998]",
+    "Four further children listed only as unknown1-unknown4 ADAMS, dates unknown [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4060]",
+    "The 1898 biography says he had two sons, George P. [sic] and Alexander Washington, and three daughters; the Hamilton report names only George and Magdalena. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4327]",
+    "Named in the appraisal of brother-in-law Thomas HAMILTON's estate; as administrator filed the final account in May 1836 [Bill Allen, Further Research, 2012, line 9658]",
+    "Named Friend and executor in the will of Francis A. HAMILTON, whose aunt Elizabeth he had married [Bill Allen, Further Research, 2012, line 9692]",
+    "A public record shows John Quincy Adams left him a parcel of land in Missouri. This is the basis of the claimed link to John Quincy Adams. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2908]",
+    "Reportedly best friends with Francis Hamilton. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2911]"
   ]
 }

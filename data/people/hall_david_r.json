@@ -1,14 +1,18 @@
 {
   "id": "hall_david_r",
   "name": "David R. Hall",
-  "birth": "",
+  "birth": "Jun 1842",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Missouri Adams (Hall) (m. 10 Apr 1873, Chariton County, MO)",
+    "Born Jun 1842, Virginia",
+    "Born 1842"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,9 +22,13 @@
     "spouse": "adams_missouri",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Virginia"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Spouse of Missouri Adams."

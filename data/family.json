@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T14:14:56.093Z",
+  "generated": "2026-09-23T14:26:32.103Z",
   "people": 310,
   "family_members": 259,
   "dna_matches": 51,
@@ -210,7 +210,8 @@
     "Carrollton, KS",
     "Ottawa, KS",
     "Garnett, KS",
-    "Wellsville, KS"
+    "Wellsville, KS",
+    "Mt. Olivet Cemetery, Marceline, Linn County, MO"
    ],
    "personality": [
     "Characterized as the functional matriarch of the Adams family"
@@ -219,22 +220,29 @@
    "childhood_experience": [],
    "notable_stories": [
     "Took responsibility for ensuring relatives were buried in the family plot in Marceline, Missouri",
-    "While signing her father John Wesley's death certificate, she mistakenly noted his father was born in Ohio, a detail that led future researchers to investigate a previously unknown Ohio branch of the family"
+    "While signing her father John Wesley's death certificate, she mistakenly noted his father was born in Ohio, a detail that led future researchers to investigate a previously unknown Ohio branch of the family",
+    "The preparer concludes Alberta (Adams) Allen became matriarch of the Adams family and made sure family members were buried in Marceline."
    ],
    "risk_events": [],
    "milestones": [
     "Married George Julius Allen (m. 5 Sep 1888)",
     "Migrated to Colorado in a covered wagon with her husband in the late 1880s for health reasons",
-    "Returned to Marceline and eventually moved to Kansas in 1918"
+    "Returned to Marceline and eventually moved to Kansas in 1918",
+    "Buried at Mt. Olivet Cemetery, Marceline, MO"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Siblings listed: Anna M., Charles W., Mary Susan, George Francis (#2), Gertrude, William W. (Full); Clay C. Clark (Half)",
-    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen)."
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen).",
+    "Photo caption 'Alberta Adams Allen'; also pictured with her husband in a caption 'George J. & Alberta Allen' [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6028]",
+    "Informant who signed her father John W. Adams's death certificate. She stated his father George was born in Ohio, which the author believes was a mistake. [Bill Allen, Further Research, 2012, line 7358]"
    ]
   },
   {
@@ -288,28 +296,39 @@
    "priority": "normal",
    "locations": [
     "Jefferson County, VA",
-    "Franklin County, OH"
+    "Franklin County, OH",
+    "Columbus, Franklin County, Ohio",
+    "Virginia"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [
     "His existence was long a mystery to Missouri-based family researchers until he was located in Ohio records",
-    "He and his family were neighbors to his sister Harriet Josephine Gill"
+    "He and his family were neighbors to his sister Harriet Josephine Gill",
+    "Earlier attempts to trace him failed. After 1860 the family seems to vanish from records, perhaps because of illness or a break-up, though two of the children reappear in 1880."
    ],
    "risk_events": [],
    "milestones": [
-    "Married Christiana F. Konitzer",
+    "Married Christiana F. Konitzer (m. 26 May 1851, Columbus, Franklin County, Ohio)",
     "Migrated from Virginia to Ohio via the National Road",
-    "Registered for the Civil War draft in 1863"
+    "Registered for the Civil War draft in 1863",
+    "Born Virginia"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Occupation farmer in the 1860 census."
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
-    "Siblings listed: George Francis #1, Magdalena, Mary, Harriet Josephine, Susan, and Ursula"
+    "Siblings listed: George Francis #1, Magdalena, Mary, Harriet Josephine, Susan, and Ursula",
+    "No record that could be him in the 1840 census, in Virginia or elsewhere [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4033]",
+    "Mentioned in Jose2's sketch as a brother of George F. Adams. [Bill Allen, Further Research, 2012, line 7342]",
+    "Disappears from records sometime before or during the Civil War [Bill Allen, Further Research, 2012, line 8533]"
    ]
   },
   {
@@ -383,21 +402,29 @@
    "risk_events": [],
    "milestones": [
     "Married Unknown Ashby (d. 1868)",
-    "Married Mary Louisa Martin (m. 1871)",
+    "Married Mary Louisa Martin (m. 17 Jan 1871, Chariton County, MO)",
     "Worked as a farmer after the Civil War",
     "Later lived in Kansas City until his death",
     "Union Army veteran, 3rd Missouri Cavalry",
     "Kansas City merchant",
     "Served in the Union Army, 3rd Missouri Cavalry, 1862-1865, mustered out as Sergeant",
     "Married Unknown Ashby (d. shortly after 1868)",
-    "Married Mary Louisa Martin: 17 January 1871, Chariton County, MO"
+    "Married Mary Louisa Martin: 17 January 1871, Chariton County, MO",
+    "Military: Obituary: during the Civil War a Private with the 12th Regiment, Missouri State Militia Cavalry",
+    "Served in the Union Army in the Civil War, joined the 3rd Missouri Cavalry in 1862 as a private and mustered out as Sergeant in 1865 (conflicts with obituary unit)"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Became a farmer after the war",
+    "Stock commission merchant in Kansas City (per 1898 biography of his brother)",
+    "DPBR: A. W. is a stock commission merchant in Kansas City (earlier described as A.W. of Kansas City, KS). (1898)"
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "family_data_v1",
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Siblings listed: John Wesley, Mary, Joseph Pierre Jose, Missouri, Harriet E., James Casper, Virginia M., Nancy E.",
@@ -405,7 +432,11 @@
     "CONFLICT: This source says 'Union Army veteran'; prior sources say 'Confederate Army.' Both recorded. The 3rd Missouri Cavalry had both Union and Confederate regiments — requires resolution.",
     "UNRESOLVED: Col. Alexander William Adams — this source lists 'Union Army veteran, 3rd Missouri Cavalry'; prior source lists 'Confederate Army.' Both a Union 3rd Missouri Cavalry and a Confederate 3rd Missouri Cavalry existed during the Civil War. Further research needed to determine which regiment.",
     "Union Army CONFIRMED. Prior source conflict resolved — he served Union, not Confederate. Source: Adams Family Doc primary genealogy.",
-    "CORRECTION 2026-09-22: Spouse reference unknown_ashby pointed at no record; created ashby_unknown and pointed to it."
+    "CORRECTION 2026-09-22: Spouse reference unknown_ashby pointed at no record; created ashby_unknown and pointed to it.",
+    "CORRECTION 2026-09-23: Birth kept as Jun 1842; Bill Allen's 2011 register gives Jun 1843. Decision by Brendan Adams.",
+    "Obituary lists siblings John, Mary, Joseph, Matilda, Harriett, James and Virginia [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4217]",
+    "Obituary lists children by Mary Martin as Loula, Willie, Caleb, Homer, Alexander, Frank, Fred, Ollie, George and Grace (an Alexander not in the register list) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4222]",
+    "Title \"Col\" appears in the doc although his recorded rank was private/sergeant [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4094]"
    ]
   },
   {
@@ -524,7 +555,9 @@
    "personality": [],
    "roles": [],
    "childhood_experience": [],
-   "notable_stories": [],
+   "notable_stories": [
+    "He was killed in a car accident in Kansas City."
+   ],
    "risk_events": [],
    "milestones": [
     "Birth: 13 January 1875, Mendon, Chariton County, MO",
@@ -533,9 +566,12 @@
     "Married Emily Hall: 4 September 1937"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Worked as a livestock trader"
+   ],
    "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Son of Col. Alexander William Adams and Mary Louisa Martin. Source: Adams Family Doc."
@@ -590,7 +626,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Oregon"
+    "Oregon",
+    "Burlingame, San Mateo County, CA"
    ],
    "personality": [],
    "roles": [],
@@ -607,11 +644,14 @@
    "career": [],
    "sources": [
     "adams_direct_line_summary_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Sibling of George Francis Adams Sr. (Gen 4). Marriage to Thomas Childs confirmed memoir p. 57.",
-    "Birth year approximate: abt 1913."
+    "Birth year approximate: abt 1913.",
+    "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
    ]
   },
   {
@@ -699,9 +739,9 @@
     "qualifier": null
    },
    "death": {
-    "text": "abt 1898",
-    "year": 1898,
-    "qualifier": "about"
+    "text": "1896",
+    "year": 1896,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -747,7 +787,16 @@
     "Chariton County, MO",
     "Douglas County, CO",
     "Virginia",
-    "Castle Rock, CO"
+    "Castle Rock, CO",
+    "Bee Branch Twnshp, Chariton County, MO",
+    "Clark Twnshp, Chariton County, MO",
+    "Cedar Hills Cemetery, Castle Rock, Douglas County, CO",
+    "Bee Branch Township, Chariton County, Missouri",
+    "Clark Township, Chariton County, Missouri",
+    "Santa Fe",
+    "Castle Rock Cemetery, Castle Rock, Colorado",
+    "Missouri",
+    "Harpers Ferry, WV"
    ],
    "personality": [],
    "roles": [],
@@ -757,11 +806,12 @@
     "Served in the Confederate army during the Civil War under Generals Price, Van Dorn, and McGruder",
     "C-001: George F. birthplace listed as Ohio on John W. Adams' death certificate, but informant (Alberta Allen) likely guessed. Confidence: Identity HIGH, Birthplace LOW.",
     "Primary documents (land patents signed by Presidents Fillmore and Buchanan; military enlistment record) reinforce lineage validity.",
-    "Birthplace conflict originates from weak source (death certificate informant who probably guessed)."
+    "Birthplace conflict originates from weak source (death certificate informant who probably guessed).",
+    "Per the 1898 biography: farmed in Jefferson County, VA, then moved to Chariton County, MO onto War of 1812 grant prairie land; pre-empted 160 acres at 12.5 cents an acre, built up to a full section devoted to stock, served as justice of the peace, came to Colorado in 1886 and lived retired until his death at 81."
    ],
    "risk_events": [],
    "milestones": [
-    "Married Cynthia Lane (m. 1841)",
+    "Married Cynthia Lane (m. 14 Jan 1841, Chariton County, MO)",
     "Settled in Chariton County MO abt 1836",
     "Moved to Douglas County CO in 1878",
     "Served as Justice of the Peace in Missouri",
@@ -770,15 +820,30 @@
     "Married Cynthia Lane (14 January 1841, Chariton County, MO)",
     "Occupation: Farmer, later stock grower",
     "Buried: Cedar Hills Cemetery, Castle Rock, CO — unmarked grave in Adams Family Plot",
-    "Census trail: Chariton County MO (1850, 1860, 1870) → Douglas County CO (1880)"
+    "Census trail: Chariton County MO (1850, 1860, 1870) → Douglas County CO (1880)",
+    "Buried in an unmarked grave in the Adams Family Plot",
+    "Military: Obituary: afterwards enlisted against the Mexicans to capture Santa Fe.",
+    "Military: Obituary: served in the Confederate army during the Civil War under Gen. Price and also under Gen. Van Dorn and Magruder.",
+    "Buried: Obituary: remains interred in Castle Rock cemetery.",
+    "Born Harpers Ferry, WV"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Farmer and, later in life, a stock grower",
+    "Served as justice of the peace in Chariton County (civic office)",
+    "Obituary: a large land owner who accumulated a large fortune.",
+    "DPBR sketch of his son (naming him 'George P.'): born in Jefferson County, Va., farmed there until 1827, then removed to Chariton County, Mo., settling on prairie land set aside for War of 1812 land grants.",
+    "DPBR: bought and sold a land-grant tract, pre-empted another 160 acres at 12.5 cents per acre, took another similar tract, improved the land for the stock business and eventually owned a section.",
+    "DPBR: served as justice of the peace."
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "manual_stitch_adams_direct_line",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Siblings listed: Alexander Washington, Magdalena (Margaret), Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)",
@@ -786,7 +851,19 @@
     "Child added: adams_john_wesley. Evidence: Adams direct line: Gen 3 (John Wesley Adams, b.1841) is son of Gen 2 (George Francis Adams #1, b.~1817). Source: adams_direct_line_json_v1, family_data_v1.",
     "Father set: adams_jose_pierre. Evidence: Adams direct line: Gen 2 (George Francis Adams #1, b.~1817) is son of Gen 1 (Jose Pierre Adams, b.~1791). Source: adams_direct_line_json_v1, family_data_v1.",
     "C-001: Birthplace conflict — Ohio on death cert likely informant error. Primary docs (land patents, military record) anchor identity with high confidence.",
-    "CORRECTION 2026-09-22: Mother set to hamilton_elizabeth_eliza: the only recorded wife of his father Jose Pierre Adams, and named as mother by his siblings' records."
+    "CORRECTION 2026-09-22: Mother set to hamilton_elizabeth_eliza: the only recorded wife of his father Jose Pierre Adams, and named as mother by his siblings' records.",
+    "CORRECTION 2026-09-23: Death changed from \"abt 1898\" to \"1896\". From his obituary, found by Bill Allen and cited in his Further Research (2012). Decision by Brendan Adams.",
+    "Listed as minor son of Josee P. Adams in the will written in 1830 (about 13 years old) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4000]",
+    "Preparer's note: the biography's name 'George P.' is wrong (it was George Francis), and a move to Missouri in 1827 is unlikely; he most likely arrived late 1840 or early 1841 (first Chariton County record is the 1850 census). [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4370]",
+    "Obituary: he left four sons and four daughters; raised his children under his own care after his wife's death. [Bill Allen, Further Research, 2012, line 6846]",
+    "Only land patent record for George in Chariton County: 1857, an 80-acre parcel, a homestead purchase rather than a military land warrant. [Bill Allen, Further Research, 2012, line 7011]",
+    "The 1857 parcel was part of the land warrant granted in 1851 to his father-in-law, John S. Lane. [Bill Allen, Further Research, 2012, line 7089]",
+    "Described as the eldest child of Jose1's family. [Bill Allen, Further Research, 2012, line 7344]",
+    "His obituary says the family came west in 1833. [Bill Allen, Further Research, 2012, line 7362]",
+    "The Gill biography says he was a twin of his sister Mary, and both were deceased by 1909. [Bill Allen, Further Research, 2012, line 7598]",
+    "Twin brother of Mary Adams (Swan) [Bill Allen, Further Research, 2012, line 8313]",
+    "Named as a cousin, under 21, in the will of Francis A. HAMILTON [Bill Allen, Further Research, 2012, line 9703]",
+    "Francis Hamilton's will left him a small sum when he was an adolescent. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2913]"
    ]
   },
   {
@@ -847,7 +924,11 @@
     "Chariton County, MO",
     "Denver, CO",
     "Pullman, WA",
-    "Sutherlin, OR"
+    "Sutherlin, OR",
+    "Denver, Arapahoe County, CO",
+    "Umpqua, Douglas County, OR",
+    "Missouri",
+    "Roseburg, OR"
    ],
    "personality": [],
    "roles": [],
@@ -856,31 +937,45 @@
     "Known locally in Douglas County, Oregon, as the owner of the Adams Drug Store",
     "Died from influenza-pneumonia at the tail end of the 1918-1920 pandemic",
     "Victim of the 1918–1920 flu epidemic (per John Howard's memoir)",
-    "1930 census listed his son George F. Adams Sr. as George F. Wells, step-son because Arthur Wells was step-father"
+    "1930 census listed his son George F. Adams Sr. as George F. Wells, step-son because Arthur Wells was step-father",
+    "He died of influenza at the tail end of the flu pandemic, which lingered for about three years and reached isolated areas such as rural Oregon."
    ],
    "risk_events": [],
    "milestones": [
-    "Married Serena Marie Nevada Trumbo (m. 1909)",
+    "Married Serena Marie Nevada Trumbo (m. 7 Jan 1909, Lewis County, WA)",
     "Served in the military (1898)",
     "Graduated from Washington State University with a degree in Pharmacy (1908)",
     "Cause of death: flu epidemic",
     "Occupation: Pharmacist",
     "Military: Enlisted 2 June 1898, Denver, CO (Spanish–American War era)",
     "Married Serena Marie Nevada Nini Trumbo (7 January 1909, Lewis County, WA)",
-    "Census trail: Denver CO (1880, 1900) → Umpqua, Douglas County OR (1910) → Sutherlin OR (1920)"
+    "Census trail: Denver CO (1880, 1900) → Umpqua, Douglas County OR (1910) → Sutherlin OR (1920)",
+    "Served in the military on 2 Jun 1898 in Denver, CO",
+    "Born Missouri",
+    "Military: Military service entry dated 2 Jun 1898, Denver, Arapahoe County, CO."
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Graduated from Washington State University with a degree in Pharmacy in 1908",
+    "Pharmacy degree from Washington State University, Pullman, WA, 1908."
+   ],
+   "career": [
+    "Owner of the Adams Drug Store in Sutherlin, Oregon; described as one of the best known citizens of Douglas County (Journal of the National Association of Retail Druggists, 26 Feb 1920)"
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "manual_stitch_adams_direct_line"
+    "manual_stitch_adams_direct_line",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
     "Also referred to as J. Francis Adams. Siblings: Presley Adams and Edith V. Adams.",
     "Father set: adams_john_wesley. Evidence: Adams direct line: Gen 4 (George Francis Adams #2, b.1876) is son of Gen 3 (John Wesley Adams, b.1841). Source: adams_direct_line_json_v1, family_data_v1.",
-    "CORRECTION 2026-09-22: Mother set to vantine_mary_frances: his sister Alberta's record lists him as a full sibling, and Mary Frances Vantine is John Wesley Adams's wife at his birth (m. 1866; b. 1876)."
+    "CORRECTION 2026-09-22: Mother set to vantine_mary_frances: his sister Alberta's record lists him as a full sibling, and Mary Frances Vantine is John Wesley Adams's wife at his birth (m. 1866; b. 1876).",
+    "Survived by his widow and three children [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4697]",
+    "Pictured in a family photograph c. 1919 with Serena, Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
    ]
   },
   {
@@ -936,7 +1031,9 @@
    "priority": "normal",
    "locations": [
     "Jefferson County, VA",
-    "Licking County, OH"
+    "Licking County, OH",
+    "Virginia",
+    "Cedar Hill Cemetery, Newark, Licking County, Ohio"
    ],
    "personality": [],
    "roles": [],
@@ -948,15 +1045,19 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Stephen Augusta Gill"
+    "Married Stephen Augusta Gill (m. 8 Mar 1848)",
+    "Born 8 Dec 1819, Virginia",
+    "Buried with Stephen Gill at Cedar Hill Cemetery"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
-    "Siblings listed: George Francis #1, Alexander Washington, Magdalena, Mary, Susan, and Ursula"
+    "Siblings listed: George Francis #1, Alexander Washington, Magdalena, Mary, Susan, and Ursula",
+    "Apparently outlived all her siblings, living past eighty [Bill Allen, Further Research, 2012, line 8535]"
    ]
   },
   {
@@ -1007,7 +1108,9 @@
    "priority": "normal",
    "locations": [
     "Chariton County, MO",
-    "Douglas County, CO"
+    "Douglas County, CO",
+    "Franktown, Douglas County, CO",
+    "Cedar Hill Cemetery, Douglas County, CO"
    ],
    "personality": [],
    "roles": [],
@@ -1017,12 +1120,15 @@
    "milestones": [
     "Birth: 1853, Chariton County, MO",
     "Death: 1933, Douglas County, CO",
-    "Married Lemon B Palmer"
+    "Married Lemon B Palmer",
+    "Buried at Cedar Hill Cemetery (1933)",
+    "Buried 1933 at Cedar Hill Cemetery, Douglas County, CO"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Child of George Francis Adams (#1) and Cynthia Lane. Distinct from Harriett Josephine Adams Gill (adams_harriet_josephine) who is a child of Jose Pierre Adams — different generation. Source: Adams Family Doc."
@@ -1144,7 +1250,9 @@
    "priority": "normal",
    "locations": [
     "Chariton County, MO",
-    "Castle Rock, CO"
+    "Castle Rock, CO",
+    "Douglas County, CO",
+    "Castle Rock, Douglas County, CO"
    ],
    "personality": [],
    "roles": [],
@@ -1152,14 +1260,21 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Adela J. Kaempfer (m. 1888; div. 1898)",
+    "Married Adela J. Kaempfer (Adams) (m. 26 Feb 1888, Douglas County, CO)",
     "A cattleman on Plum Creek in Douglas County",
-    "Buried at Cedar Hills Cemetery in Castle Rock"
+    "Buried at Cedar Hills Cemetery in Castle Rock",
+    "Died 1922, Douglas County, CO",
+    "Divorced from Adela J Kaempfer in 1898 in Castle Rock, CO"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Cattleman in Douglas County, Colorado (per 1898 biography)",
+    "DPBR: James Casper is a cattleman in Douglas County, Colorado. (1898)"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Siblings listed: John Wesley, Col. Alexander William, Mary, Joseph Pierre Jose, Missouri, Harriet E., Virginia M., Nancy E."
@@ -1231,7 +1346,12 @@
     "Dickson Township, AR",
     "Missouri",
     "Multnomah County, OR",
-    "Benton County, AR"
+    "Benton County, AR",
+    "Bee Branch Twnshp, Chariton County, MO",
+    "Clark Twnshp, Chariton County, MO",
+    "Brunswick, Chariton County, MO",
+    "Yellow Creek Twnshp, Chariton County, MO",
+    "Mt. Olivet Cemetery, Marceline, Linn County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -1244,24 +1364,30 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Mary Frances Vantine (m. 1866)",
-    "Married Serina Smith (m. 1907)",
+    "Married Mary Frances Vantine (m. 3 Jan 1866, Chariton County, MO)",
+    "Married Serina Smith (m. 12 Aug 1907, Multnomah County, OR)",
     "Enumerated in Missouri censuses as a farmer",
     "Moved to Oregon and finally Arkansas in his later years",
     "Married Mary Frances VanTine (3 January 1866, Chariton County, MO)",
     "Married Saurena (Serina Smith) (~1907, Multnomah County, OR)",
     "Census trail: MO (1850, 1860, 1870, 1900) → Denver CO (1880) → Multnomah County OR (1910) → Benton County AR (1920)",
     "Married Mary Frances VanTine: 3 January 1866, Chariton County, MO",
-    "Married Saurena (Serina Smith): about 1907"
+    "Married Saurena (Serina Smith): about 1907",
+    "Buried at Mt. Olivet Cemetery"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Farmer living near Marceline (per 1898 biography of his brother)",
+    "DPBR (1898): John W. is a farmer living near Marceline, Chariton County, Mo."
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "manual_stitch_adams_direct_line",
     "adams_family_doc_ocr_v1",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Siblings listed: Alexander William, Mary, Joseph Pierre Jose, Missouri, Harriet E., James Casper, Virginia M., Nancy E.",
@@ -1285,8 +1411,8 @@
     "jose-pierre-obit"
    ],
    "birth": {
-    "text": "abt 1791",
-    "year": 1791,
+    "text": "abt 1785",
+    "year": 1785,
     "qualifier": "about"
    },
    "death": {
@@ -1339,7 +1465,10 @@
     "Immigrated in early manhood (probably the 1810s), settled in Jefferson County, VA",
     "Served as executor of brother-in-law Thomas Hamilton's will in 1836",
     "Parentage unknown",
-    "C-004: RESEARCH FLAG — Jose P. vs Jesse P. name variation. No primary records identified for Jose Pierre Adams. Name may be transcription or naming drift from 'Jesse' to 'Jose'. High-impact uncertainty. Confidence: LOW."
+    "C-004: RESEARCH FLAG — Jose P. vs Jesse P. name variation. No primary records identified for Jose Pierre Adams. Name may be transcription or naming drift from 'Jesse' to 'Jose'. High-impact uncertainty. Confidence: LOW.",
+    "1830 census household: two males 10-15 (likely George and Alexander), one male 40-50 (Jose P.), five girls under 20 and one woman 40-50 (Elizabeth). No census record for him or Elizabeth after 1830.",
+    "Per the 1898 biography, he was accidentally poisoned while testing a variety of herb and soon died, aged forty-five.",
+    "DPBR: while testing a variety of herb he was accidentally poisoned and soon died, aged forty-five. The author doubts the details but thinks the age may be fairly accurate."
    ],
    "risk_events": [],
    "milestones": [
@@ -1350,18 +1479,33 @@
     "Census trail: Morgan County VA (1820) → Jefferson County VA (1830)"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Employed as a chemist in Virginia (per 1898 biography of his grandson)",
+    "DPBR: married in Virginia and was employed there as a chemist."
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "manual_stitch_adams_direct_line",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Also identified as Jose1 to distinguish from Jose Pierre Adams (Jose2), his grandson",
     "Brendan's 6x-great-grandfather (paternal line Gen 1)",
     "Child added: adams_george_francis_1. Evidence: Adams direct line: Gen 2 (George Francis Adams #1, b.~1817) is son of Gen 1 (Jose Pierre Adams, b.~1791). Source: adams_direct_line_json_v1, family_data_v1.",
-    "C-004: Research flag — possible name transcription error: 'Jose' vs 'Jesse P.' Adams. No primary records confirmed. Should be investigated."
+    "C-004: Research flag — possible name transcription error: 'Jose' vs 'Jesse P.' Adams. No primary records confirmed. Should be investigated.",
+    "CORRECTION 2026-09-23: Birth changed from \"abt 1791\" to \"abt 1785\". The 1820 and 1830 censuses place the birth between 1780 and 1790 (Bill Allen, Further Research, 2012); his 1836 death notice gives his age as about 50. Decision by Brendan Adams.",
+    "Parentage unknown [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 3993]",
+    "Per a Hamilton family genealogy report, he was executor of the will of his brother-in-law Thomas Hamilton in 1836 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 3998]",
+    "Four further children listed only as unknown1-unknown4 ADAMS, dates unknown [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4060]",
+    "The 1898 biography says he had two sons, George P. [sic] and Alexander Washington, and three daughters; the Hamilton report names only George and Magdalena. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4327]",
+    "Named in the appraisal of brother-in-law Thomas HAMILTON's estate; as administrator filed the final account in May 1836 [Bill Allen, Further Research, 2012, line 9658]",
+    "Named Friend and executor in the will of Francis A. HAMILTON, whose aunt Elizabeth he had married [Bill Allen, Further Research, 2012, line 9692]",
+    "A public record shows John Quincy Adams left him a parcel of land in Missouri. This is the basis of the claimed link to John Quincy Adams. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2908]",
+    "Reportedly best friends with Francis Hamilton. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2911]"
    ]
   },
   {
@@ -1429,7 +1573,8 @@
     "Chariton County, MO",
     "Plum Creek, Douglas County, CO",
     "Denver, CO",
-    "Brunswick, MO"
+    "Brunswick, MO",
+    "Fairmount Cemetery, Denver, Denver County, CO"
    ],
    "personality": [
     "Described as a colorful character"
@@ -1438,7 +1583,10 @@
    "childhood_experience": [],
    "notable_stories": [
     "Freighted with mule trains up the Arkansas River to Denver in 1863",
-    "He was active in moving the Douglas County seat to Castle Rock"
+    "He was active in moving the Douglas County seat to Castle Rock",
+    "In 1863 he took the train to St. Joe and stage to Leavenworth, then hired on as a six-yoke ox-team driver on the Santa Fe trail; at Larned, Kansas Comanches attacked the camp, killed the wagon master and took the oxen, and troops from the Larned post rescued the party the next day.",
+    "While in office he helped secure construction of the Castle Rock courthouse (only $14,000 of $20,000 in voted bonds was needed) and was active in moving the county seat from Frenchtown to Castle Rock.",
+    "As a boy during the Civil War he left unsettled Missouri in 1863, went to St. Joe and Leavenworth, and hired on as a driver of a six-yoke ox team to Santa Fe. At Larned, Kansas, Comanches attacked the camp, fought all afternoon, killed the wagon master and took the oxen; government troops from the Larned post rescued the party the next day."
    ],
    "risk_events": [],
    "milestones": [
@@ -1448,25 +1596,50 @@
     "Established a stock business in Douglas County before moving to Denver",
     "Born 31 May 1847, Brunswick, Missouri",
     "Crossed the plains by ox cart and settled in Douglas County before Colorado became a state",
-    "Died 1923 at the home of his daughter Alice Adams Fulton, 1620 Steele Street, Denver"
+    "Died 1923 at the home of his daughter Alice Adams Fulton, 1620 Steele Street, Denver",
+    "Buried at Fairmount Cemetery"
    ],
-   "education": [],
+   "education": [
+    "Attended school a few months in Nebraska City, then spent a year on the home farm",
+    "Attended school in Nebraska City for a few months, then spent a year on the home farm."
+   ],
    "career": [
     "Pioneer cattleman on the ranges of Colorado, Wyoming, Arizona and New Mexico",
     "One of the organizers and for many years president of the Denver Livestock Exchange",
     "Helped found what became the National Western Stock Show, with former Governor Ammons and the late Fred Johnson",
     "Douglas County commissioner; a leading spirit in building the courthouse at Castle Rock",
     "Livestock commission business at the Denver stockyards for about 25 years",
-    "President of the J. P. Adams & Brigham Livestock Company"
+    "President of the J. P. Adams & Brigham Livestock Company",
+    "Drove a six-mule train up the Arkansas River to Fort Lyons, Pueblo and Denver, first seeing Denver in July 1863",
+    "Stage driver for six months from Julesburg to Fort Morgan, then eighteen months freighting",
+    "Returned to Colorado in 1869 and started a cattle ranch",
+    "Member of the firm Adams & Green at Castle Rock for fourteen years",
+    "Commission merchant in Denver; also owned a ranch at Corona on Kiowa Creek, sixty miles east of Denver, raising cattle and horses (1898)",
+    "Douglas County commissioner for two three-year terms, re-elected chairman each year",
+    "Elected county sheriff in 1875 on the Democratic ticket in a Republican county",
+    "Engaged in business in Denver as a commission merchant. (1898)",
+    "Owned a ranch at Corona raising cattle and horses. (1898)",
+    "Served as Douglas County commissioner for two three-year terms, re-elected chairman each year.",
+    "After the Larned encounter, drove a six-mule train up the Arkansas River to Fort Lyons, Pueblo and Denver, first seeing Denver in July 1863.",
+    "Worked six months as a stage driver from Julesburg to Fort Morgan, then eighteen months freighting.",
+    "For fourteen years a member of the firm of Adams & Green at Castle Rock."
    ],
    "sources": [
     "consolidated_research_digest_v1",
     "Obituary of Jose Pierre Adams, The Trail (Sons of Colorado), 1923 (media: jose2-obit)",
-    "Descendants of Jose Pierre Adams (family document, Nov 2010)"
+    "Descendants of Jose Pierre Adams (family document, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Siblings listed: John Wesley, Col. Alexander William, Mary, Missouri, Harriet E., James Casper, Virginia M., Nancy E. Identified as Jose2 to distinguish from ancestor Jose Pierre Adams (Jose1).",
-    "CORRECTION 2026-09-23: Birth refined from \"May 1847\" to 31 May 1847 at Brunswick, Missouri, and career details added, from his 1923 obituary. The obituary gives his marriage to Susan M. Pugh as 24 Dec 1868; the family document gives 1872. Not yet resolved."
+    "CORRECTION 2026-09-23: Birth refined from \"May 1847\" to 31 May 1847 at Brunswick, Missouri, and career details added, from his 1923 obituary. The obituary gives his marriage to Susan M. Pugh as 24 Dec 1868; the family document gives 1872. Not yet resolved.",
+    "CORRECTION 2026-09-23: Birth kept as 31 May 1847 (The Trail obituary); another obituary quoted in Bill Allen's Further Research (2012) gives 31 May 1848, near Brunswick. Decision by Brendan Adams.",
+    "Active in the Democratic party; member of the state central committee and delegate to state conventions [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4365]",
+    "Member (formerly an official) of the Ancient Order of United Workmen at Castle Rock [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4367, 6995]",
+    "Named Joseph P. Adams after his grandfather and also adopted the name Jose; subject of a biographical sketch in the Denver Portrait and Biographical Record (1898). [Bill Allen, Further Research, 2012, line 6872]",
+    "Brothers James Casper of Colorado, John W. of Marceline, MO, and A.W. of Kansas City, KS. [Bill Allen, Further Research, 2012, line 6879]",
+    "Active in securing removal of the Douglas County seat from Frenchtown to Castle Rock. [Bill Allen, Further Research, 2012, line 6989]"
    ]
   },
   {
@@ -1538,10 +1711,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
-    "Siblings listed: George Francis (#1), Alexander Washington, Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)"
+    "Siblings listed: George Francis (#1), Alexander Washington, Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)",
+    "No record of the death or burial of a Magdalena Swan (or Adams) found in or around Licking or Franklin County [Bill Allen, Further Research, 2012, line 8414]"
    ]
   },
   {
@@ -1662,7 +1837,9 @@
    "priority": "normal",
    "locations": [
     "Jefferson County, VA",
-    "Franklin County, OH"
+    "Franklin County, OH",
+    "Columbus, Franklin County, Ohio",
+    "Virginia"
    ],
    "personality": [],
    "roles": [],
@@ -1673,15 +1850,19 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Lewis Swan in Franklin County, Ohio (m. 24 Sep 1848)"
+    "Married Lewis Swan in Franklin County, Ohio (m. 24 Sep 1848)",
+    "Born Virginia"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
-    "Siblings listed: Twin brother George Francis (#1), Alexander Washington, Magdalena, Harriet Josephine, Susan, and Ursula"
+    "Siblings listed: Twin brother George Francis (#1), Alexander Washington, Magdalena, Harriet Josephine, Susan, and Ursula",
+    "Twin of George; deceased by 1909 per the Gill biography. [Bill Allen, Further Research, 2012, line 7598]",
+    "Twin of George (Francis Adams #1); child of Jose and Elizabeth [Bill Allen, Further Research, 2012, line 8313]"
    ]
   },
   {
@@ -1746,17 +1927,20 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married David R. Hall",
+    "Married David R. Hall (m. 10 Apr 1873, Chariton County, MO)",
     "Migrated with the Adams family to Colorado in 1878",
     "Buried at Fairmount Cemetery in Denver"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
-    "Siblings listed: John Wesley, Col. Alexander William, Mary, Joseph Pierre Jose, Harriet E., James Casper, Virginia M., Nancy E."
+    "Siblings listed: John Wesley, Col. Alexander William, Mary, Joseph Pierre Jose, Harriet E., James Casper, Virginia M., Nancy E.",
+    "Listed as Matilda in 1850; by 1860 known as Missouri, a name she kept for the rest of her life. [Bill Allen, Further Research, 2012, line 6608]"
    ]
   },
   {
@@ -1805,7 +1989,8 @@
    "priority": "normal",
    "locations": [
     "Sutherlin, OR",
-    "Gardnerville, NV"
+    "Gardnerville, NV",
+    "Burlingame, San Mateo County, CA"
    ],
    "personality": [],
    "roles": [],
@@ -1817,11 +2002,14 @@
    "career": [],
    "sources": [
     "adams_direct_line_summary_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Sibling of George Francis Adams Sr. (child of George Francis Adams #2 and Serena Trumbo). Previously listed as 'Presley Marcason Adams' in prior sources.",
-    "Precise birth and death dates newly established. Sibling of George Francis Adams Sr."
+    "Precise birth and death dates newly established. Sibling of George Francis Adams Sr.",
+    "Pictured in a family photograph c. 1919 with his family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
    ]
   },
   {
@@ -1962,12 +2150,15 @@
    ],
    "education": [
     "B.S. Forestry, University of Idaho",
-    "J.D., University of Oregon"
+    "J.D., University of Oregon",
+    "Bachelor of Science in Forestry from the University of Idaho",
+    "Juris Doctor from the University of Oregon"
    ],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
@@ -2032,12 +2223,15 @@
    "milestones": [
     "Engineering student at Boise State University as of 2010"
    ],
-   "education": [],
+   "education": [
+    "In 2010 attending Boise State University, majoring in engineering"
+   ],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_dna_linkage_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Siblings listed: Guinevere Wheeler Allen",
@@ -2094,7 +2288,9 @@
    "locations": [
     "Marceline, MO",
     "Amarillo, TX",
-    "Tacoma, WA"
+    "Tacoma, WA",
+    "Gig Harbor, Pierce County, WA",
+    "Llano Cemetery, Amarillo, TX"
    ],
    "personality": [],
    "roles": [],
@@ -2106,15 +2302,20 @@
    "milestones": [
     "Birth: 30 July 1891, Marceline, MO",
     "Death: 30 November 1989, Tacoma, Pierce County, WA (age 98)",
-    "Married Harold Emerson Billingslea: 11 June 1913"
+    "Married Harold Emerson Billingslea: 11 June 1913",
+    "Died 30 Nov 1989, Gig Harbor, Pierce County, WA",
+    "Buried in Llano Cemetery, Amarillo, Texas"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
-    "Daughter of Alberta Adams Allen and George Julius Allen. Source: Adams Family Doc."
+    "Daughter of Alberta Adams Allen and George Julius Allen. Source: Adams Family Doc.",
+    "Photo caption gives her married surname Billingslea [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6184]"
    ]
   },
   {
@@ -2253,16 +2454,20 @@
    "childhood_experience": [],
    "notable_stories": [
     "A bright Marceline girl who won signal honors in high school",
-    "Her academic work was chosen to be displayed at the Jamestown Exposition"
+    "Her academic work was chosen to be displayed at the Jamestown Exposition",
+    "A Marceline Herald item ('Bright Marceline Girl') reported that at Central High School in St. Louis she passed most grades without examination and was one of six students chosen to have their work exhibited at the Jamestown exposition."
    ],
    "risk_events": [],
    "milestones": [
-    "Married John Dixon Charters"
+    "Married John Dixon Charters (m. 12 Sep 1918, Ashton, Lee County, IL)"
    ],
-   "education": [],
+   "education": [
+    "Attended the Marceline public schools and later Central High School in St. Louis"
+   ],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
   },
@@ -2325,7 +2530,12 @@
     "Waukegan, IL",
     "Sioux Falls, SD",
     "Pueblo, CO",
-    "Santa Barbara, CA"
+    "Santa Barbara, CA",
+    "Japan",
+    "Sarah House Hospice Center, Santa Barbara, Santa Barbara County, CA",
+    "Carpinteria, CA",
+    "Akita, Japan",
+    "Sarasota, Florida"
    ],
    "personality": [
     "Brilliant lawyer"
@@ -2334,7 +2544,10 @@
    "childhood_experience": [],
    "notable_stories": [
     "A brilliant lawyer who graduated Yale with Phi Beta Kappa honors",
-    "He traveled 17,000 miles across the U.S. and Canada by car in the 1980s"
+    "He traveled 17,000 miles across the U.S. and Canada by car in the 1980s",
+    "Led a long and successful effort to defeat the proposed LNG facility at Point Conception.",
+    "He led Montecito's first attempt at incorporation in the 1960s. He received the most votes in the election and would have been the city's first mayor had incorporation passed.",
+    "His interests were reading, gardening and travel. In the 1980s he and his wife spent a year travelling 17,000 miles through the U.S. and Canada in their motor home."
    ],
    "risk_events": [],
    "milestones": [
@@ -2343,21 +2556,43 @@
     "Served as a Lieutenant in the Third Air Force during WWII",
     "Father of five children from his first marriage",
     "Harvard Law grad",
-    "Lieutenant in Third Air Force during WWII"
+    "Lieutenant in Third Air Force during WWII",
+    "Military: Was overseas just after WWII and returned from Japan",
+    "Divorced from the preparer's mother (Dorothy Ann Wheeler)",
+    "Died 18 Sep 2010, Sarah House Hospice Center, Santa Barbara, Santa Barbara County, CA",
+    "Military: After graduating enlisted in the U.S. Army Air Force; attended Air Force OCS in Florida; served in the 3rd Fighter Command; attended the School for Military Government (University of Virginia) and the Civil Affairs Training School (University of Michigan)",
+    "Military: After the Japanese surrender in 1945 he spent a year in Akita, Japan as a military government officer helping establish postwar democratization",
+    "Military: Lieutenant in the administration division of the Third Air Force, stationed at Sarasota, Florida (1944)"
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Bachelor of Arts in Government and Political Science from Yale University, 1943 (the obituary below gives 1942)",
+    "Juris Doctor from Harvard Law School, 1949",
+    "Attended Yale on a four-year regional scholarship, majored in Government, graduated with Exceptional Distinction in 1942",
+    "Graduated cum laude from Harvard Law School in 1949",
+    "Graduated from Yale University in 1942 with Phi Beta Kappa honors; majored in political science and was a member of the University Debate Association"
+   ],
+   "career": [
+    "Lawyer, described by his son as brilliant",
+    "Moved to California and started his law practice in Los Angeles",
+    "Moved to Santa Barbara in 1952 and practiced law, opening his own office in 1962",
+    "A general practitioner who became heavily involved in the planned development of The Hollister Ranch",
+    "Founded the law firm of Allen and Kimbell in 1980"
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "family_data_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Siblings listed: Margaret Jeanice Peggy Allen",
     "Multiple spouses: wheeler_dorothy_ann, modine_suzzanne",
     "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter.",
     "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document.",
-    "CORRECTION 2026-09-23: Guinevere and Benjamin Alistair Allen moved to their parents Anthony Adams Allen and Susan Bethany Fonshill; George Homer and Dorothy's five children are Wendy, Susan, William, Anthony and Brooks."
+    "CORRECTION 2026-09-23: Guinevere and Benjamin Alistair Allen moved to their parents Anthony Adams Allen and Susan Bethany Fonshill; George Homer and Dorothy's five children are Wendy, Susan, William, Anthony and Brooks.",
+    "Officer and/or director of charitable organizations, including two terms as president of the Montecito Protective Association [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5347]",
+    "Survived by five children from his first marriage, two grandchildren and one great-grandchild [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5355]"
    ]
   },
   {
@@ -2415,13 +2650,16 @@
     "Marceline, MO",
     "Beulah, CO",
     "Pueblo, CO",
-    "Grand Rapids, MI"
+    "Grand Rapids, MI",
+    "Kansas; Marceline, MO",
+    "Mt. Olivet Cemetery, Marceline, Linn County, MO"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [
-    "Graduated from Ottawa University; for health reasons, he moved his family to Colorado in a covered wagon, working as a stagecoach driver from Beulah to Pueblo"
+    "Graduated from Ottawa University; for health reasons, he moved his family to Colorado in a covered wagon, working as a stagecoach driver from Beulah to Pueblo",
+    "Because of ill health he moved his family to Colorado by covered wagon a few years after marrying; he once drove a stage coach between Beulah and Pueblo, and the family later returned to Marceline by covered wagon."
    ],
    "risk_events": [],
    "milestones": [
@@ -2429,16 +2667,29 @@
     "Co-founded the First Baptist Church in Marceline (1888)",
     "Established and operated a bank with his father in Marceline",
     "Constructed the Allen Hotel in 1906",
-    "Prominent real estate and implement businessman"
+    "Prominent real estate and implement businessman",
+    "Religion: With his father organized the First Baptist church in Marceline in April 1888; two of its seven charter members",
+    "Buried at Mt. Olivet Cemetery, Marceline"
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Graduated from Ottawa University"
+   ],
+   "career": [
+    "Stage coach driver",
+    "Built the large business building (later housing the Allen hotel, Murray's store and the Home Improvement Company) in 1906",
+    "Owned and operated a bank with his father; also in the real estate and implement business"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Parents listed: George Philemon Allen and Juliaetta A. Spring.",
-    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen)."
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen).",
+    "Funeral at the First Baptist church in Marceline conducted by Rev. Ray Barnes (Marceline Herald, 10 Sept. 1953) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4500]",
+    "Preceded in death by sons William Allen and Henry Eisley Allen and daughters Helen Lorraine Allen and Mrs. Frances Charters [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4545]",
+    "Photograph of him captioned c. 1868 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6090]"
    ]
   },
   {
@@ -2481,17 +2732,24 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Marceline, MO"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Religion: Co-organizer and charter member of the First Baptist church in Marceline (Apr 1888)"
+   ],
    "education": [],
-   "career": [],
+   "career": [
+    "Owned and operated a bank with his son"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Father of George Julius Allen. Parents of George Julius Allen listed in source."
@@ -2557,7 +2815,9 @@
     "Killingholme, England",
     "Pueblo, CO",
     "San Mateo, CA",
-    "Santa Clara, CA"
+    "Santa Clara, CA",
+    "St. Louis, MO",
+    "Illinois; New Mexico; Colorado"
    ],
    "personality": [],
    "roles": [],
@@ -2565,7 +2825,10 @@
    "notable_stories": [
     "A Navy airplane mechanic in WWI",
     "He met his second wife, Caroline, while delivering mail on his postal route in San Mateo — she was a chef at a diner he frequented for all his meals",
-    "Shortly after World War II he left the family home in Pueblo, Colorado, and moved to San Mateo, California, where he kept delivering mail for the Post Office."
+    "Shortly after World War II he left the family home in Pueblo, Colorado, and moved to San Mateo, California, where he kept delivering mail for the Post Office.",
+    "The preparer writes that Esther constantly berated him, and that after his son returned from Japan following WWII he left for work one day and never came back.",
+    "He met Caroline at a diner on his mail route where she cooked; as the romance grew he began eating breakfast, lunch and even dinner there.",
+    "The preparer remembers him as a gentle man who loved making things; he spent summer visits of about a month in Santa Barbara doing household repairs and teaching the preparer basic woodworking."
    ],
    "risk_events": [],
    "milestones": [
@@ -2573,19 +2836,26 @@
     "Married Anna Caroline Koenig Winfrey (second marriage)",
     "Worked as a welder and for the ATSF Railroad before starting a career with the US Postal Service",
     "Joined the U.S. Navy, 3 December 1917, St. Louis, Missouri",
-    "Died 24 February 1972, Santa Clara, California, aged 74"
+    "Died 24 February 1972, Santa Clara, California, aged 74",
+    "Joined the US Navy on 3 Dec 1917 in St. Louis",
+    "Served in the US Navy in World War I as an airplane mechanic, stationed at Killingholme, England, at one of the first Navy airbases"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Worked as a welder in the early years, following work around during the Great Depression",
+    "Worked for the ATSF Railroad, then for the US Postal Service"
+   ],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Siblings listed: Frances Rosetta, Bernice, Henry Eisley, William Laurence, Marion Lafayette, Helen Loraine, Ralph Kenneth, Leroy Gaylord",
     "Multiple spouses: anthony_esther_jane, koenig_anna_caroline",
     "Additional spouse: koenig_anna_caroline",
-    "CORRECTION 2026-09-22: Added daughter allen_margaret_jeanice (b. 1925), sister of George Homer Allen."
+    "CORRECTION 2026-09-22: Added daughter allen_margaret_jeanice (b. 1925), sister of George Homer Allen.",
+    "Died of cancer after fighting it for over five years [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4995]"
    ]
   },
   {
@@ -2650,12 +2920,17 @@
    "milestones": [
     "Currently pursuing a PhD in Hispanic Languages and Literatures at UC Berkeley as of 2010"
    ],
-   "education": [],
+   "education": [
+    "Bachelor of Arts in Spanish Literature, spring 2010, UC Berkeley",
+    "As of the document, working on a PhD in Hispanic Languages and Literatures at UC Berkeley",
+    "Received the Una Fellowship in Dec 2010"
+   ],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_dna_linkage_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Siblings listed: Benjamin Alistair Allen",
@@ -2724,14 +2999,20 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Gladys Eberhart",
+    "Married Gladys Eberhart (m. 3 Jun 1928)",
     "Graduated from Yale Divinity School in 1933",
     "Served as a Congregational Minister for over 37 years"
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Graduated from Yale Divinity School in 1933"
+   ],
+   "career": [
+    "A reverend (clergyman) living in Southington, Connecticut in 1953",
+    "Congregational minister for over 37 years"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
   },
@@ -2876,17 +3157,22 @@
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [
-    "An English scholar who could fluently speak Gaelic English and quote Steppenwolf at will"
+    "An English scholar who could fluently speak Gaelic English and quote Steppenwolf at will",
+    "The preparer, who knew him as 'Uncle' Ralph (actually his father's uncle), remembers being fascinated by him: he spoke old (Gaelic) English, could quote Steppenwolf at will, and had a sophisticated air."
    ],
    "risk_events": [],
    "milestones": [
-    "Married Zella Campbell Peggy Whitman",
-    "Married Irene Louisa Smith (second marriage)"
+    "Married Zella Campbell Whitman (m. 18 Aug 1928, Burton, WA)",
+    "Married Irene Louisa Smith (m. 17 Aug 1937)"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Styled 'Prof.' and living in Portland, Oregon in 1953",
+    "English scholar (his daughter Judith also taught English)"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Multiple spouses: whitman_zella_campbell, smith_irene_louisa"
@@ -2957,15 +3243,19 @@
     "Married Jeff Weinstein (m. Mar 1991, Santa Barbara, CA)"
    ],
    "education": [
-    "B.F.A. and M.F.A. in Music Performance (harp), California Institute of the Arts"
+    "B.F.A. and M.F.A. in Music Performance (harp), California Institute of the Arts",
+    "Bachelor of Fine Arts and Master of Fine Arts in Music Performance (Harp) from California Institute of the Arts"
    ],
    "career": [
     "Harpist; solo performances at Carnegie Recital Hall; specialist in contemporary harp music; many ensemble and solo recordings",
-    "On the faculty and staff of California Institute of the Arts from 1978; served as a dean"
+    "On the faculty and staff of California Institute of the Arts from 1978; served as a dean",
+    "On the CalArts faculty and staff since 1978; served as Dean of the School of Music",
+    "Harpist who has performed worldwide, including solo performances at Carnegie Recital Hall; specializes in contemporary harp music, has made many ensemble and solo recordings, and has taught harp and other stringed instruments"
    ],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
@@ -3040,12 +3330,14 @@
    ],
    "education": [
     "B.A. History of Science, University of California, Los Angeles",
-    "Studied international law in England (recorded as \"Oxford College, Cambridge\")"
+    "Studied international law in England (recorded as \"Oxford College, Cambridge\")",
+    "Bachelor of Arts in the History of Science from UCLA"
    ],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
@@ -3112,7 +3404,10 @@
     "Family historian: compiled \"Descendants of Jose Pierre Adams\" (2010) and \"Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams\" (February 2012), continuing research begun by Ralph Allen"
    ],
    "childhood_experience": [],
-   "notable_stories": [],
+   "notable_stories": [
+    "Says he shares his grandfather's love of making things and learned basic woodworking from him; was 19 when his grandfather died.",
+    "During his parents' marital troubles, his cousin Judith Allen acted as a second mother; he would drive to her place in Moorpark and stay a day or two."
+   ],
    "risk_events": [],
    "milestones": [
     "Born 5 December 1952, Santa Barbara, California",
@@ -3122,16 +3417,24 @@
     "Associate of Arts, Santa Barbara City College, 1974",
     "Studied photography, including with Ruth Bernhardt, Robert Werling and Michael Smith",
     "B.S. Electrical Engineering, Ohio State University, 1987",
-    "M.S. Electrical Engineering, Ohio State University, 1990"
+    "M.S. Electrical Engineering, Ohio State University, 1990",
+    "Associate of Arts degree from Santa Barbara City College, 1974",
+    "Studied photography for several years, including with Ruth Bernhardt, Robert Werling and Michael Smith (names as written)",
+    "Returned to school in 1981 for electrical engineering; Bachelor of Science in Electrical Engineering, 1987, Ohio State University",
+    "Master of Science in Electrical Engineering, 1990, Ohio State University"
    ],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "CORRECTION 2026-09-23: Renamed from \"William Allen\" (id allen_william_dorothy) to William W. \"Bill\" Allen, the family researcher behind the family document and many of the Adams research emails.",
-    "Son of George Homer Allen and Dorothy Ann Wheeler."
+    "Son of George Homer Allen and Dorothy Ann Wheeler.",
+    "Wrote 'Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams of Jefferson County, Virginia', February 2012. [Bill Allen, Further Research, 2012, line 6516]",
+    "Describes George Francis Adams (#1) as his great-great-great-grandfather (g3-grandfather). [Bill Allen, Further Research, 2012, line 6520]"
    ]
   },
   {
@@ -3251,7 +3554,8 @@
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [
-    "After years of moving around the West and Midwest for George Philip's work during the Depression, the family settled in Pueblo, Colorado. She wanted a steadier life and was not happy with their modest means."
+    "After years of moving around the West and Midwest for George Philip's work during the Depression, the family settled in Pueblo, Colorado. She wanted a steadier life and was not happy with their modest means.",
+    "The preparer says she wanted a more stable life and was unhappy with the family's modest means; his mother recalled Esther railing at George Philip constantly while she lived with them after WWII."
    ],
    "risk_events": [],
    "milestones": [
@@ -3263,7 +3567,8 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "CORRECTION 2026-09-23: Dates, places, parents and children added from Bill Allen's family document. Mother of George Homer Allen and Margaret Jeanice \"Peggy\" Allen."
@@ -4200,7 +4505,8 @@
     "barbara_memoir_ch52_remember_me",
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
-    "memoir_life_timelines_v1"
+    "memoir_life_timelines_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "She says she was frequently sent to the principal’s office throughout grade school.",
@@ -4334,7 +4640,8 @@
     "Stepmother figure Margaret Quinn referred to as Granny",
     "Siblings listed: Charles Chuck McKeldin Jr. (full); J. Michael Mike McKeldin (half)",
     "Paulette Reck correction confirmed. Emily Schriefer's 1950 death date confirmed: 24 Oct 1950.",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Baltimore, MD."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Baltimore, MD.",
+    "Listed in Index of Names under maiden surname MCKELDIN, page 30, no dates [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5902]"
    ]
   },
   {
@@ -4397,7 +4704,9 @@
     "Olympia, WA",
     "Fair Oaks, CA",
     "Presidio, San Francisco, CA",
-    "San Francisco, CA"
+    "San Francisco, CA",
+    "Whatcom County, WA",
+    "Sacramento, Sacramento County, CA"
    ],
    "personality": [
     "Skilled secretary whose shorthand was described as universally loved",
@@ -4430,14 +4739,16 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married George Francis Adams Sr. (m. 1942)",
+    "Married George Francis Adams Sr. (m. 2 Jul 1942, Franklin County, WA)",
     "Moved to Olympia to work for a Congressional Representative",
     "Accompanied her husband to military posts across the world",
     "Raised three children",
     "Married George Francis Adams Sr. (2 July 1942, Franklin County, WA)",
     "Secretary to U.S. Congressman Floyd Hicks in Olympia",
     "Later administrative assistant to senior Army officers; personnel management",
-    "Lived at the Presidio, San Francisco, while her husband served there as a military police officer"
+    "Lived at the Presidio, San Francisco, while her husband served there as a military police officer",
+    "Born 25 Dec 1919, Whatcom County, WA",
+    "Died 1 Aug 1998, Sacramento, Sacramento County, CA"
    ],
    "education": [],
    "career": [],
@@ -4446,7 +4757,10 @@
     "consolidated_research_digest_v1",
     "adams_direct_line_json_v1",
     "memoir_life_timelines_v1",
-    "john_howard_adams_memoir_v1"
+    "john_howard_adams_memoir_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams Sr.",
@@ -4456,7 +4770,8 @@
     "Birth confirmed: Christmas Day (Dec 25), 1919. DOD maintained at 1998-08-01 per user instruction.",
     "RESEARCH FINDING (John's memoir): Gertrude Elaine Adams Remy was named 'Gertrude' after Beryl's grandmother — therefore one of Beryl's grandmothers was named Gertrude. Current canonical grandmothers: Harriet M. Hattie Simons (paternal) and Mary Emily Valentine McPhail (maternal). Neither is documented as Gertrude — possibly an unrecorded middle name, or the reference is to a great-grandmother. Recommended research: ask Uncle Mike; request Beryl's birth certificate.",
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA.",
-    "CORRECTION 2026-09-22: Siblings completed per Brendan Adams: Elaine Deretha, Raymond Elmer, Byron Daniel \"Howard\", Orval Keith and Glen (six children in all). \"Ralph\" was Rosemary Wells's husband, not a brother."
+    "CORRECTION 2026-09-22: Siblings completed per Brendan Adams: Elaine Deretha, Raymond Elmer, Byron Daniel \"Howard\", Orval Keith and Glen (six children in all). \"Ralph\" was Rosemary Wells's husband, not a brother.",
+    "Middle name given as Eva (Beryl Eva Simons) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5965]"
    ]
   },
   {
@@ -5142,13 +5457,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "26 Feb 1882",
+    "year": 1882,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "7 Feb 1957",
+    "year": 1957,
     "qualifier": null
    },
    "living": false,
@@ -5172,17 +5487,29 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Ashton, IL",
+    "Dixon, Lee County, IL",
+    "Rochelle, Ogle County, IL"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Frances Rosetta Allen (Charters) (m. 12 Sep 1918, Ashton, Lee County, IL)",
+    "Born 26 Feb 1882, Dixon, Lee County, IL",
+    "Died 7 Feb 1957, Rochelle, Ogle County, IL",
+    "Born 1882",
+    "Died 1957"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Spouse of Frances Rosetta Allen."
@@ -5709,7 +6036,8 @@
     "Given up for adoption; raised by neighbors"
    ],
    "notable_stories": [
-    "Son of Mary Frances Vantine given up for adoption; raised by neighbors"
+    "Son of Mary Frances Vantine given up for adoption; raised by neighbors",
+    "Adopted by the family living next door to John Wesley Adams's family; lived prosperously and raised his own family. The preparer believes he has found Clay's descendants."
    ],
    "risk_events": [],
    "milestones": [
@@ -5718,7 +6046,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "family_data_v1"
+    "family_data_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Half-sibling of John Wesley Adams' children. Born 1860. Given up for adoption."
@@ -5963,13 +6292,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1818",
+    "year": 1818,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1872",
+    "year": 1872,
     "qualifier": null
    },
    "living": false,
@@ -6001,11 +6330,15 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 1818",
+    "Died 1872"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Mother of Mary Frances VanTine (spouse of John Wesley Adams). New to record."
@@ -6076,12 +6409,14 @@
    "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Daughter of Louis Russell Smith and Genevieve Mildred Smith",
     "Birth date newly established: 8 December 1950. Parents: Louis Russell Smith and Genevieve Mildred Smith.",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Pierce County, WA; Tacoma, WA."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Pierce County, WA; Tacoma, WA.",
+    "Listed in Index of Names under SMITH, page 30, no dates [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5968]"
    ]
   },
   {
@@ -6310,13 +6645,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "6 Mar 1906",
+    "year": 1906,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "3 Jun 1993",
+    "year": 1993,
     "qualifier": null
    },
    "living": false,
@@ -6340,17 +6675,27 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Glendale, CA"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Leroy Gaylord Allen (m. 3 Jun 1928)",
+    "Born 6 Mar 1906",
+    "Died 3 Jun 1993, Glendale, CA",
+    "Born 1906",
+    "Died 1993"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Spouse of Leroy Gaylord Allen."
@@ -7631,13 +7976,15 @@
    "career": [],
    "sources": [
     "family_notes_adams_mckeldin",
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Born in Milton, FL",
     "Children: George, Ted, Roy, Sam, Mary",
     "Siblings listed: Geoffry Louis Adams",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Milton, FL."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Milton, FL.",
+    "Named George before his parents learned the family history; his father counted four Georges before him. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2918]"
    ]
   },
   {
@@ -7712,7 +8059,8 @@
     "As of 2011, he and his wife Cindy had two sons and seven grandkids",
     "John describes George Jr. as very like their father: intelligent, quiet, and happy to be alone with his wife Cindy.",
     "George Jr. and Cindy had 'two sons and seven grandkids' as of the memoir's writing context.",
-    "George Jr. 'provided key genealogy files in boxes for research.'"
+    "George Jr. 'provided key genealogy files in boxes for research.'",
+    "He had put the family-history paperwork in a box and could not find it. He promised to dig the documents out during a 'home archeology project'."
    ],
    "risk_events": [],
    "milestones": [
@@ -7726,7 +8074,8 @@
    "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
-    "john_howard_adams_memoir_v1"
+    "john_howard_adams_memoir_v1",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Marriage in Pierce County, WA",
@@ -7734,7 +8083,9 @@
     "Siblings listed: John Howard Adams, Gertrude Elaine Adams",
     "Character description from John's memoir.",
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Pierce County, WA; Tacoma, WA; San Francisco, CA.",
-    "CORRECTION 2026-09-22: Presidio childhood and Naval Academy attendance per Brendan Adams, 2026-09-22."
+    "CORRECTION 2026-09-22: Presidio childhood and Naval Academy attendance per Brendan Adams, 2026-09-22.",
+    "Sent John Adams an email about the family history on 29 Jun 2010, with an attachment about Gavin Hamilton and Robert Burns; he sent follow-up emails on 15 Jul 2010. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2893]",
+    "Describes George II (George Francis Adams, husband of Serena Trumbo) as 'our grandpa'. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2915]"
    ]
   },
   {
@@ -7833,11 +8184,12 @@
     "South Korea: assigned Provost Marshall of South Korea, went unaccompanied for 13 months.",
     "Final assignment: Provost Marshall of Ft. Lewis and Eastern Washington, retired 1971.",
     "Started taking family movies in Okinawa, sporadically continued through John's high school years.",
-    "At one point he told John: 'Don't expect praise. If they aren't dumping on you, you are doing just fine.'"
+    "At one point he told John: 'Don't expect praise. If they aren't dumping on you, you are doing just fine.'",
+    "The 1930 census taker wrongly recorded him as George F. Wells, though his relationship to the head of household was correctly given as stepson. His siblings Presley and Edith were correctly listed as stepchildren surnamed Adams."
    ],
    "risk_events": [],
    "milestones": [
-    "Married Beryl Eva Simons (m. 1942)",
+    "Married Beryl Simons Adams (m. 2 Jul 1942, Franklin County, WA)",
     "Worked for Union Oil before being recalled for the Korean Conflict",
     "Served as an MP officer in Okinawa, Germany, and the U.S.",
     "Retired from the Army in 1971",
@@ -7852,7 +8204,9 @@
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
-    "john_howard_adams_memoir_v1"
+    "john_howard_adams_memoir_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams II",
@@ -7860,7 +8214,8 @@
     "Marriage to Beryl Eva Simons: 2 July 1942, Franklin County, WA — confirmed.",
     "Rosemary Wells was his step-sister (Arthur Wells' biological daughter, ~1916), raised essentially as his sister. Prior source had birth listed as 10 Mar 1916 — confirmed here.",
     "Cause of death: cancer, moderate smoker and daily drinker (John's memoir). Confirms 1980 death.",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: San Francisco, CA."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: San Francisco, CA.",
+    "Pictured as 'George Jr.' in a c. 1919 family photograph with George F., Serena, Edith and Presley [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
    ]
   },
   {
@@ -8053,7 +8408,12 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Licking County, OH"
+    "Licking County, OH",
+    "Newark, Licking County, Ohio",
+    "Union Township, Licking County, Ohio",
+    "Hebron, Licking County, Ohio",
+    "Etna Township, Licking County, Ohio",
+    "Cedar Hill Cemetery, Newark, Licking County, Ohio"
    ],
    "personality": [],
    "roles": [],
@@ -8063,17 +8423,31 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Harriet Josephine Adams (m. 1848)"
+    "Married Harriet Josephine Adams (Gill) (m. 8 Mar 1848)",
+    "Born 17 Oct 1822, Newark, Licking County, Ohio",
+    "Religion: Faithful member of the Licking Baptist church, where he had been a deacon for the previous five years.",
+    "Buried with Harriet Josephine at Cedar Hill Cemetery"
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Attended the Newark public schools until age twelve."
+   ],
+   "career": [
+    "Farmer specialising in sheep breeding and wool growing until 1906."
+   ],
    "sources": [
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Spouse of Harriet Josephine Adams.",
-    "Precise birth and death dates newly established."
+    "Precise birth and death dates newly established.",
+    "Subject of a biographical sketch in the Centennial History of the City of Newark and Licking County, Ohio (E. M. P. Brister; the scanned title page reads 1908). [Bill Allen, Further Research, 2012, line 7506]",
+    "Voted Republican in national and state politics. [Bill Allen, Further Research, 2012, line 7604]",
+    "A girl named Mary Swan was living with the Gills in the 1860 census. [Bill Allen, Further Research, 2012, line 7820]",
+    "Mary R. Adams was listed as his niece in his household in the 1880 census. [Bill Allen, Further Research, 2012, line 7901]",
+    "A Ralph S. Adams was living in the Gill household in the 1900 census. [Bill Allen, Further Research, 2012, line 8059]",
+    "Harriet Ray Adams was the informant on his death certificate [Bill Allen, Further Research, 2012, line 8580]"
    ]
   },
   {
@@ -8425,8 +8799,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "Jun 1842",
+    "year": 1842,
     "qualifier": null
    },
    "death": {
@@ -8455,17 +8829,25 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Virginia"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Missouri Adams (Hall) (m. 10 Apr 1873, Chariton County, MO)",
+    "Born Jun 1842, Virginia",
+    "Born 1842"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Spouse of Missouri Adams."
@@ -8479,8 +8861,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "abt 1791",
-    "year": 1791,
+    "text": "abt 1785",
+    "year": 1785,
     "qualifier": "about"
    },
    "death": {
@@ -8537,9 +8919,16 @@
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
-   "notes": []
+   "notes": [
+    "CORRECTION 2026-09-23: Birth changed from \"abt 1791\" to \"abt 1785\". The 1820 and 1830 censuses place her birth between 1780 and 1790 (Bill Allen, Further Research, 2012). Decision by Brendan Adams.",
+    "Per Dale Morrow's Hamilton research, several of her siblings moved to Darke County, Ohio in the very early 1800s. [Bill Allen, Further Research, 2012, line 7356]",
+    "The 1850 census shows her living with the Gills, alongside a Sam'l Peer [Bill Allen, Further Research, 2012, line 8691]",
+    "Had at least one daughter and one son [Bill Allen, Further Research, 2012, line 9674]",
+    "Received 25 1/2 acres in the distribution of her father's estate [Bill Allen, Further Research, 2012, line 9224]"
+   ]
   },
   {
    "id": "hamilton_francis",
@@ -8554,9 +8943,9 @@
     "qualifier": null
    },
    "death": {
-    "text": "c. 1802",
+    "text": "abt 1802",
     "year": 1802,
-    "qualifier": null
+    "qualifier": "about"
    },
    "living": false,
    "living_status": null,
@@ -8588,28 +8977,54 @@
    "priority": "normal",
    "locations": [
     "Mauchline, Ayrshire, Scotland",
-    "Jefferson County, VA"
+    "Jefferson County, VA",
+    "Jefferson Co., VA",
+    "Shepherdstown area, along the Potomac River",
+    "Keeptrist, Berkeley Co., VA (now Jefferson Co., WV)"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [
-    "Best friend of Scottish poet Robert Burns"
+    "Best friend of Scottish poet Robert Burns",
+    "His brother Alexander fled from Prince George's County to Keeptrist in 1777."
    ],
    "risk_events": [],
    "milestones": [
     "Birth: 1743, Mauchline, Ayrshire, Scotland",
     "Death: c. 1802",
     "Settled at Keeptriste, VA, in 1773",
-    "Property distributed to heirs in 1809"
+    "Property distributed to heirs in 1809",
+    "Died abt 1802, Jefferson Co., VA",
+    "Buried: No burial site has been found"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "family_data_v1"
+    "family_data_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
-    "Father of Elizabeth (Eliza) Hamilton (wife of Jose Pierre Adams). Parents: John Hamilton of Kype and Jacobina Young."
+    "Father of Elizabeth (Eliza) Hamilton (wife of Jose Pierre Adams). Parents: John Hamilton of Kype and Jacobina Young.",
+    "CORRECTION 2026-09-23: Death refined from \"c. 1802\" to \"abt 1802\" [Bill Allen, Further Research, 2012, line 9170].",
+    "Left a will, but it was recorded in a lost book of Berkeley Co.; heirs are named in the court suit North vs. the heirs of Francis HAMILTON, in brother Alexander's will, and in grandson Francis Alexander HAMILTON's will [Bill Allen, Further Research, 2012, line 9181]",
+    "Witnessed a lease from Joseph McCormick Mason to John Semple for 400 acres; must have been in America by 1765 [Bill Allen, Further Research, 2012, line 9186]",
+    "Appointed with Thomas Hart, Henry Lloyd and Godwin Smith to view ground for a road from Semples Furnace to the Warm Springs Road [Bill Allen, Further Research, 2012, line 9190]",
+    "Bought from John Keys for 35 pounds a bay horse, a feather bed and furniture, and a share in a 1769 tobacco crop [Bill Allen, Further Research, 2012, line 9193]",
+    "John Semple, indebted to him, conveyed cows, furniture and grain to him [Bill Allen, Further Research, 2012, line 9199]",
+    "Slave owner, taxed in 1774 for slaves Peter, Roger, Sarah, Beck, Jeremiah and Thomas [Bill Allen, Further Research, 2012, line 9201]",
+    "Listed at the sale of Abraham Buckle's estate [Bill Allen, Further Research, 2012, line 9202]",
+    "Witnessed the will of Barbara Merriotes (Merritt?) [Bill Allen, Further Research, 2012, line 9203]",
+    "Bought Lot 42 in Sharpsburg from Michael Taylor for 2 pounds [Bill Allen, Further Research, 2012, line 9204]",
+    "One of the executors of the will of Andrew Telleroy [Bill Allen, Further Research, 2012, line 9206]",
+    "In 1782-1787 paid tax on 1 poll and 5 slaves in Berkeley Co.; named in audits of John Creighton's (19 Mar 1782) and Robert T. Tabb's (20 Aug 1782) estates and attended the sale of Barbara Merritt's estate [Bill Allen, Further Research, 2012, line 9207]",
+    "David Meek's will left 10 pounds to Francis HAMILTON of Berkeley Co. [Bill Allen, Further Research, 2012, line 9196]",
+    "Taxed on 4 white males 16-21, 7 blacks above 16, 12 blacks under 16 and 13 horses in the district of Commissioner Thomas Hart; neighbors included David Evans, the Hagelys, the Houtes, Henry Jacob, John Moler, Elizabeth Rianer and John Womandorf [Bill Allen, Further Research, 2012, line 9210]",
+    "Named in the settlement of George Adam MOLER's estate, and in the 2nd settlement on 21 Jan 1793 [Bill Allen, Further Research, 2012, line 9216]",
+    "Bought 123 acres in Berkeley Co. from Henry Lee of Stafford Co., VA [Bill Allen, Further Research, 2012, line 9217]",
+    "Witnessed the will of Isaac Strider [Bill Allen, Further Research, 2012, line 9219]",
+    "Bought 120 acres from Peter Fleck, previously owned by Charles Friend [Bill Allen, Further Research, 2012, line 9220]",
+    "Three estate records exist in Jefferson Co. (pages missing); property distributed to heirs on 20 Apr 1809 [Bill Allen, Further Research, 2012, line 9223]"
    ]
   },
   {
@@ -8664,7 +9079,8 @@
    ],
    "childhood_experience": [],
    "notable_stories": [
-    "Best friend of Scottish poet Robert Burns"
+    "Best friend of Scottish poet Robert Burns",
+    "He and his wife (Gavin's parents) were rebuked by the Kirk Session before their marriage for 'unseasonable fruitfulness', that is, a pregnancy before marriage."
    ],
    "risk_events": [],
    "milestones": [
@@ -8678,7 +9094,8 @@
     "Clerk to the regality of Mauchline"
    ],
    "sources": [
-    "family_data_v1"
+    "family_data_v1",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Father of Francis Hamilton, who is father of Elizabeth Hamilton (wife of Jose Pierre Adams). Robert Burns connection."
@@ -9225,9 +9642,14 @@
     "Married William W. Allen (m. 8 Dec 1991, La Casa de Maria, Santa Barbara, CA)"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Seamstress, tailor and pattern-maker for over 40 years",
+    "Started and sold Organics for Massage, an organic cotton manufacturing business making massage linens and accessories",
+    "Certified holistic massage therapist and Reiki Master"
+   ],
    "sources": [
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
   },
@@ -9572,7 +9994,8 @@
     "Applied to all service academies; originally received West Point appointment but requested Annapolis as first choice. Father (in South Korea) was somewhat surprised.",
     "Father's advice staying at USNA: 'Well, if you do that, what do you think you'll do with yourself?' — kept John from leaving halfway through Plebe Year.",
     "Career: State of New Mexico school construction financing in Crownpoint, NM. Position came through son Brendan, who was working for Gerald Martin General Contractor and introduced a State of New Mexico representative to John — John was hired as construction manager for public schools in the north-central part of the state.",
-    "Grew up at the Presidio in San Francisco, where his father was a military police officer, and went to high school with O.J. Simpson."
+    "Grew up at the Presidio in San Francisco, where his father was a military police officer, and went to high school with O.J. Simpson.",
+    "In summer 2010 John was about to take a trip and was mainly interested in the family's Scottish connection. His brother George sent him material on Gavin Hamilton and Robert Burns."
    ],
    "risk_events": [],
    "milestones": [
@@ -9626,7 +10049,8 @@
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
     "memoir_life_timelines_v1",
-    "john_howard_adams_memoir_v1"
+    "john_howard_adams_memoir_v1",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Barbara states John got a job in New Mexico thanks to Brendan.",
@@ -9869,7 +10293,9 @@
    "locations": [
     "Milwaukee, WI",
     "Rock Ridge, CO",
-    "Denver, CO"
+    "Denver, CO",
+    "Castle Rock, CO",
+    "Cedar Hill Cemetery, Castle Rock, CO"
    ],
    "personality": [
     "Quiet, retiring, and deeply religious"
@@ -9878,19 +10304,27 @@
    "childhood_experience": [],
    "notable_stories": [
     "Moved to Colorado with her parents in 1870",
-    "Described as quiet, retiring, and deeply religious"
+    "Described as quiet, retiring, and deeply religious",
+    "Her obituary describes her as quiet and retiring but with many friends, a kind and loving mother devoted to her children."
    ],
    "risk_events": [],
    "milestones": [
-    "Married James Casper Adams (m. 1888; div. 1898)",
-    "Raised four surviving children after her divorce: Minnie, Ethel, Reda, and Frank"
+    "Married James Casper Adams (m. 26 Feb 1888, Douglas County, CO)",
+    "Raised four surviving children after her divorce: Minnie, Ethel, Reda, and Frank",
+    "Religion: Never affiliated with a church in Castle Rock but described as deeply religious",
+    "Buried at Cedar Hill(s) Cemetery in Castle Rock, CO"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
-   "notes": []
+   "notes": [
+    "Five children were born to the marriage, four surviving her in 1941: Minnie F. Seeley (Sturgis, SD), Ethel E. Mead (Castle Rock, CO), Reda F. Olsen and Frank M. Adams (Denver, CO) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4435]",
+    "Sisters Emma E. Ingersoll of Denver and Minnie C. Sturdevant of Castle Rock, and brother A. C. G. Kaempfer of Bridgeport, Nebraska survived her; also seven grandchildren and four great-grandchildren [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4437]",
+    "Funeral at the Andrew Funeral Home, Rev. William J. Wilcox officiating (obituary from the Record Journal of Douglas County, October 1941) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4449]"
+   ]
   },
   {
    "id": "kessler_tammy",
@@ -10059,7 +10493,8 @@
    "childhood_experience": [],
    "notable_stories": [
     "Met George Philip Allen at the San Mateo diner where she cooked. It was on his mail route; he came for lunch, then breakfast and lunch, and dinner too when she worked evenings.",
-    "She and George Philip had a cabin in the Santa Cruz Mountains with an open-air kitchen. Grandchildren remembered her breakfasts cooked on the big wood-burning stove: blueberry pancakes, French toast, bacon and eggs."
+    "She and George Philip had a cabin in the Santa Cruz Mountains with an open-air kitchen. Grandchildren remembered her breakfasts cooked on the big wood-burning stove: blueberry pancakes, French toast, bacon and eggs.",
+    "Remembered as an outstanding cook who made memorable breakfasts on a wood-burning stove at the couple's open-air cabin kitchen, and as a warm person who treated the grandchildren as her own."
    ],
    "risk_events": [],
    "milestones": [
@@ -10071,11 +10506,13 @@
    "education": [],
    "career": [
     "Short-order cook at a diner in San Mateo, CA",
-    "Chef at a German restaurant in Burlingame, CA"
+    "Chef at a German restaurant in Burlingame, CA",
+    "Worked as a short-order cook at a diner in San Mateo, later as a chef at a German restaurant in Burlingame"
    ],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "CORRECTION 2026-09-23: Dates, places, first marriage and story added from Bill Allen's family document, which remembers her as warm and caring, treating the grandchildren as her own. Her two sons with Victor Winfrey are not named there."
@@ -10390,17 +10827,23 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Saxony, Germany"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Alexander Washington Adams (m. 26 May 1851, Columbus, Franklin County, Ohio)",
+    "Born Saxony, Germany"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Spouse of Alexander Washington Adams."
@@ -11736,7 +12179,8 @@
    "priority": "normal",
    "locations": [
     "Kentucky",
-    "Chariton County, MO"
+    "Chariton County, MO",
+    "Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -11746,17 +12190,24 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married George Francis Adams #1 (m. 1841)",
-    "Daughter of John Lane; her 1841 marriage to George Francis Adams facilitated his settlement in Missouri on land grants originally set aside for War of 1812 veterans"
+    "Married George Francis Adams (#1) (m. 14 Jan 1841, Chariton County, MO)",
+    "Daughter of John Lane; her 1841 marriage to George Francis Adams facilitated his settlement in Missouri on land grants originally set aside for War of 1812 veterans",
+    "Died 1861, Missouri",
+    "Born Kentucky"
    ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
-    "John Lane = Cynthia Lane's father confirmed. Already in canonical as 'Daughter of John S. Lane' — consistent."
+    "John Lane = Cynthia Lane's father confirmed. Already in canonical as 'Daughter of John S. Lane' — consistent.",
+    "Per the 1898 biography, mother of four sons and four daughters, all living in 1898 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4343]",
+    "DPBR: mother of four sons and four daughters, all living in 1898. [Bill Allen, Further Research, 2012, line 6958]"
    ]
   },
   {
@@ -12149,7 +12600,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Brunswick, Chariton County, MO",
+    "Kansas City, Jackson County, MO"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -12157,13 +12611,16 @@
    "risk_events": [],
    "milestones": [
     "Parents: Kaleb Martin and Louisa Woods Devaw",
-    "Married Col. Alexander William Adams: 17 January 1871"
+    "Married Col. Alexander William Adams (m. 17 Jan 1871, Chariton County, MO)",
+    "Born 22 May 1850, Brunswick, Chariton County, MO",
+    "Died 11 Jan 1935, Kansas City, Jackson County, MO"
    ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": [
     "Second spouse of Col. Alexander William Adams (m. 1871); first wife Unknown Ashby died 1868.",
@@ -14386,14 +14843,16 @@
    "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Born in refugee camp, Posen, Poland",
     "Date conflict — birth: this source gives '27 February 1944', prior has 'February 27, 1944'. Retain both pending verification.",
     "Date conflict — death: this source gives '2 April 2003', prior has 'April 2, 2003'. Retain both pending verification.",
     "Birth and death dates newly established in this source — previously TBD. Born in refugee camp in Posen, Poland.",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Posen, Poland; San Francisco, CA; Fair Oaks, CA."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Posen, Poland; San Francisco, CA; Fair Oaks, CA.",
+    "Listed in Index of Names under REMY, page 30, no dates [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5935]"
    ]
   },
   {
@@ -14736,8 +15195,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "29 Dec 1944",
+    "year": 1944,
     "qualifier": null
    },
    "death": {
@@ -14745,8 +15204,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14766,18 +15225,25 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Grand Rapids, Kent County, MI"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 29 Dec 1944, Grand Rapids, Kent County, MI",
+    "Born 1944"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Second spouse of George Homer Allen (m. 22 Nov 1972, Las Vegas, NV)."
@@ -15410,7 +15876,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Loudoun County, VA to Missouri",
+    "Loudoun County, Virginia; Missouri"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -15420,7 +15889,9 @@
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Father of Susan M. Pugh (Adams)."
@@ -16903,8 +17374,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "29 Mar 1925",
+    "year": 1925,
     "qualifier": null
    },
    "death": {
@@ -16913,7 +17384,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -16943,12 +17414,17 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 29 Mar 1925",
+    "Born 1925"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Spouse of Margaret Jeanice Peggy Allen (m. 3 Sep 1948)."
@@ -16962,8 +17438,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "29 Mar 1950",
+    "year": 1950,
     "qualifier": null
    },
    "death": {
@@ -16971,8 +17447,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -16998,17 +17474,24 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Pueblo, CO"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 29 Mar 1950, Pueblo, CO",
+    "Born 1950"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Child of Jack Frederick Seavy and Margaret Jeanice Peggy Allen (Seavy)."
@@ -17022,8 +17505,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "2 Jan 1952",
+    "year": 1952,
     "qualifier": null
    },
    "death": {
@@ -17031,8 +17514,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -17058,17 +17541,24 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Pueblo, CO"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 2 Jan 1952, Pueblo, CO",
+    "Born 1952"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Child of Jack Frederick Seavy and Margaret Jeanice Peggy Allen (Seavy)."
@@ -17082,8 +17572,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1 May 1953",
+    "year": 1953,
     "qualifier": null
    },
    "death": {
@@ -17091,8 +17581,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -17118,17 +17608,24 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Pueblo, CO"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 1 May 1953, Pueblo, CO",
+    "Born 1953"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Child of Jack Frederick Seavy and Margaret Jeanice Peggy Allen (Seavy)."
@@ -17267,13 +17764,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1868",
+    "year": 1868,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1950",
+    "year": 1950,
     "qualifier": null
    },
    "living": false,
@@ -17305,11 +17802,15 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 1868",
+    "Died 1950"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Mother of Esther Jane Anthony."
@@ -19350,13 +19851,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "10 Apr 1907",
+    "year": 1907,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "Jan 1989",
+    "year": 1989,
     "qualifier": null
    },
    "living": false,
@@ -19380,17 +19881,28 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Milan, Spokane County, WA",
+    "Lacey, Pierce County, WA"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Ralph Kenneth Allen (m. 17 Aug 1937)",
+    "Born 10 Apr 1907, Milan, Spokane County, WA",
+    "Died Jan 1989, Lacey, Pierce County, WA",
+    "Born 1907",
+    "Died 1989"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Second spouse of Ralph Kenneth Allen."
@@ -19404,9 +19916,9 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1867",
+    "year": 1867,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -19434,17 +19946,25 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Norway"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married John Wesley Adams (m. 12 Aug 1907, Multnomah County, OR)",
+    "Born abt 1867, Norway",
+    "Born 1867"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Spouse of John Wesley Adams (m. 1907)."
@@ -19498,10 +20018,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
-    "Second husband of Wendy Ann Allen; married at a Buddhist temple in Los Angeles. Birth date unknown."
+    "Second husband of Wendy Ann Allen; married at a Buddhist temple in Los Angeles. Birth date unknown.",
+    "Listed in Index of Names under SPANGLER, page 31, no dates [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5975]"
    ]
   },
   {
@@ -19512,13 +20034,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1836",
+    "year": 1836,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1865",
+    "year": 1865,
     "qualifier": null
    },
    "living": false,
@@ -19550,11 +20072,15 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 1836",
+    "Died 1865"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Mother of George Julius Allen. Parents of George Julius Allen listed in source."
@@ -19918,7 +20444,9 @@
    "priority": "normal",
    "locations": [
     "Franklin County, OH",
-    "Licking County, OH"
+    "Licking County, OH",
+    "Union Township, Licking County, Ohio",
+    "Columbus, Franklin County, Ohio"
    ],
    "personality": [],
    "roles": [],
@@ -19933,12 +20461,14 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Married Magdalena Adams (m. 25 Sep 1838) then Mary Adams (Swan) (m. 24 Sep 1848) after Magdalena's death.",
     "Additional spouse: adams_mary_swan",
-    "Birth date newly established: abt 1807."
+    "Birth date newly established: abt 1807.",
+    "Spent the rest of his life moving between his children's households and the Gills' [Bill Allen, Further Research, 2012, line 8478]"
    ]
   },
   {
@@ -20200,10 +20730,10 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married George Francis Adams #2 (m. 1909)",
+    "Married George Francis Adams (#2) (m. 7 Jan 1909, Lewis County, WA)",
     "Following the 1920 death of George Francis Adams, she remarried Arthur Wells in 1929 and raised her children in San Francisco",
     "Married George Francis Adams (#2) (7 January 1909, Lewis County, WA)",
-    "Married Arthur Wells (San Francisco) after 1920",
+    "Married Arthur Wells (m. abt 1929, San Francisco, CA)",
     "Parents: Presley Neville Trumbo (1840–1923) and Hannah Louise Buckley"
    ],
    "education": [],
@@ -20211,12 +20741,16 @@
    "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "john_howard_adams_memoir_v1"
+    "john_howard_adams_memoir_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Nicknamed Nini",
     "Additional spouse: wells_arthur",
-    "Death timing confirmed by memoir: John's 2nd year at USNA = 1966-67. Death date 28 Sep 1967 is consistent."
+    "Death timing confirmed by memoir: John's 2nd year at USNA = 1966-67. Death date 28 Sep 1967 is consistent.",
+    "Pictured in a family photograph c. 1919 with George F., Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
    ]
   },
   {
@@ -20227,13 +20761,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1815",
+    "year": 1815,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1866",
+    "year": 1866,
     "qualifier": null
    },
    "living": false,
@@ -20265,11 +20799,15 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 1815",
+    "Died 1866"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Father of Mary Frances VanTine (spouse of John Wesley Adams). New to record."
@@ -20385,7 +20923,8 @@
    "priority": "normal",
    "locations": [
     "New York, NY",
-    "Chariton County, MO"
+    "Chariton County, MO",
+    "Mt Olivet Cemetery, Marceline, Linn County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -20396,16 +20935,21 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married John Wesley Adams (m. 1866)"
+    "Married John Wesley Adams (m. 3 Jan 1866, Chariton County, MO)",
+    "Buried at Mt Olivet Cemetery"
    ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
-    "First husband now named: Ephraim Clark (prior sources said 'a man named Clark')."
+    "First husband now named: Ephraim Clark (prior sources said 'a man named Clark').",
+    "Preparer (Bill Allen) notes she was his great-great-grandmother [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4149]",
+    "Photo caption names her 'Mary Frances VanTyne (Clark) Adams' (spelling variant VanTyne; surnames Clark and Adams) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6025]"
    ]
   },
   {
@@ -20627,10 +21171,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
-    "Husband of Susan Elizabeth Allen. Birth date unknown."
+    "Husband of Susan Elizabeth Allen. Birth date unknown.",
+    "Listed in Index of Names under WEINSTEIN, page 31, no dates [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6008]"
    ]
   },
   {
@@ -20641,8 +21187,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1890",
+    "year": 1890,
     "qualifier": null
    },
    "death": {
@@ -20686,13 +21232,15 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Serena Marie Nevada Trumbo"
+    "Married Serena Marie Nevada Trumbo (m. abt 1929, San Francisco, CA)",
+    "Born 1890"
    ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Family letters in Bill Allen’s family document"
    ],
    "notes": [
     "Remarried Serena Marie Nevada Trumbo in 1929 after the death of George Francis Adams (#2).",
@@ -20809,7 +21357,8 @@
    "priority": "normal",
    "locations": [
     "Sioux Falls, SD",
-    "Santa Barbara, CA"
+    "Santa Barbara, CA",
+    "Sarasota, Florida"
    ],
    "personality": [
     "Talented musician"
@@ -20818,21 +21367,31 @@
    "childhood_experience": [],
    "notable_stories": [
     "A talented musician who won a scholarship the same day she became a bride",
-    "Her children include Wendy, Susan, William, Anthony, and Brooks"
+    "Her children include Wendy, Susan, William, Anthony, and Brooks",
+    "She won a scholarship and became a bride on the same day. She had often played the organ at other people's weddings, but at her own someone else played, and she wore the veil her mother had worn at her wedding."
    ],
    "risk_events": [],
    "milestones": [
     "Married George Homer Allen (m. 8 May 1944, Sioux Falls, SD)"
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Was offered a music scholarship by the Eastman School of Music on the morning of her wedding; she might accept it if Lt. Allen was sent overseas, and planned to continue her musical studies after the war"
+   ],
+   "career": [
+    "Talented young musician who had played the organ at many weddings (1944)"
+   ],
    "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "Siblings listed: Marjorie Wheeler",
-    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is George Homer Allen's sister, not his daughter."
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is George Homer Allen's sister, not his daughter.",
+    "Lived with George Philip and Esther Allen while her husband was overseas just after WWII [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4951]",
+    "Date shown on the wedding clipping page [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6287]",
+    "Photo caption: Dorothy Ann Wheeler at age 2 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6433]"
    ]
   },
   {
@@ -20879,10 +21438,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
-    "Sibling of Dorothy Ann Wheeler (Allen)."
+    "Sibling of Dorothy Ann Wheeler (Allen).",
+    "Sister of Dorothy Ann Wheeler; matron of honor at her wedding [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6337]"
    ]
   },
   {
@@ -20893,13 +21454,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "28 Jul 1898",
+    "year": 1898,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "4 May 1984",
+    "year": 1984,
     "qualifier": null
    },
    "living": false,
@@ -20923,17 +21484,28 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Double Island, China",
+    "Portland, Multnomah County, OR"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Ralph Kenneth Allen (m. 18 Aug 1928, Burton, WA)",
+    "Born 28 Jul 1898, Double Island, China",
+    "Died 4 May 1984, Portland, Multnomah County, OR",
+    "Born 1898",
+    "Died 1984"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
    ],
    "notes": [
     "First spouse of Ralph Kenneth Allen."
@@ -21973,7 +22545,7 @@
     "konitzer_christiana"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "26 May 1851, Columbus, Franklin County, Ohio"
   },
   {
    "id": "F_adams_alexander_william_col+ashby_unknown",
@@ -21995,7 +22567,7 @@
    "children": [
     "adams_caleb_martin"
    ],
-   "marriage": "1871"
+   "marriage": "17 Jan 1871, Chariton County, MO"
   },
   {
    "id": "F_adams_edith_v+childs_thomas",
@@ -22020,7 +22592,7 @@
     "adams_harriett_e",
     "adams_james_casper"
    ],
-   "marriage": "1841"
+   "marriage": "14 Jan 1841, Chariton County, MO"
   },
   {
    "id": "F_adams_george_francis_2+trumbo_serena_marie",
@@ -22033,7 +22605,7 @@
     "adams_edith_v",
     "george_francis_adams_sr"
    ],
-   "marriage": "1909"
+   "marriage": "7 Jan 1909, Lewis County, WA"
   },
   {
    "id": "F_adams_harriet_josephine+gill_stephen_augusta",
@@ -22042,7 +22614,7 @@
     "gill_stephen_augusta"
    ],
    "children": [],
-   "marriage": "1848"
+   "marriage": "8 Mar 1848"
   },
   {
    "id": "F_adams_james_casper+kaempfer_adela",
@@ -22051,7 +22623,7 @@
     "kaempfer_adela"
    ],
    "children": [],
-   "marriage": "1888; div. 1898"
+   "marriage": "26 Feb 1888, Douglas County, CO"
   },
   {
    "id": "F_adams_john_wesley+smith_serina",
@@ -22060,7 +22632,7 @@
     "smith_serina"
    ],
    "children": [],
-   "marriage": "1907"
+   "marriage": "12 Aug 1907, Multnomah County, OR"
   },
   {
    "id": "F_adams_john_wesley+vantine_mary_frances",
@@ -22072,7 +22644,7 @@
     "adams_alberta",
     "adams_george_francis_2"
    ],
-   "marriage": "1866"
+   "marriage": "3 Jan 1866, Chariton County, MO"
   },
   {
    "id": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
@@ -22127,7 +22699,7 @@
     "hall_david_r"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "10 Apr 1873, Chariton County, MO"
   },
   {
    "id": "F_allen_anthony+fonshill_susan_bethany",
@@ -22166,7 +22738,7 @@
     "charters_john_dixon"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "12 Sep 1918, Ashton, Lee County, IL"
   },
   {
    "id": "F_allen_george_homer+modine_suzzanne",
@@ -22231,7 +22803,7 @@
     "eberhart_gladys"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "3 Jun 1928"
   },
   {
    "id": "F_allen_margaret_jeanice+seavy_jack_frederick",
@@ -22253,7 +22825,7 @@
     "smith_irene_louisa"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "17 Aug 1937"
   },
   {
    "id": "F_allen_ralph_kenneth+whitman_zella_campbell",
@@ -22262,7 +22834,7 @@
     "whitman_zella_campbell"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "18 Aug 1928, Burton, WA"
   },
   {
    "id": "F_allen_susan+weinstein_jeff",
@@ -22349,7 +22921,7 @@
     "john_howard_adams",
     "george_francis_adams_jr"
    ],
-   "marriage": "1942"
+   "marriage": "2 Jul 1942, Franklin County, WA"
   },
   {
    "id": "F_brendan_mckeldin_adams+megan_marie_adams",
@@ -23002,7 +23574,7 @@
     "wells_arthur"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "abt 1929, San Francisco, CA"
   },
   {
    "id": "F_wells_arthur",

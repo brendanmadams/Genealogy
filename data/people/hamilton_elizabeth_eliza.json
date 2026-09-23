@@ -1,7 +1,7 @@
 {
   "id": "hamilton_elizabeth_eliza",
   "name": "Elizabeth (Eliza) Hamilton",
-  "birth": "abt 1791",
+  "birth": "abt 1785",
   "death": "after 1860",
   "personality": [],
   "roles": [],
@@ -33,7 +33,14 @@
     "Union Township, Licking County, OH"
   ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
   ],
-  "notes": []
+  "notes": [
+    "CORRECTION 2026-09-23: Birth changed from \"abt 1791\" to \"abt 1785\". The 1820 and 1830 censuses place her birth between 1780 and 1790 (Bill Allen, Further Research, 2012). Decision by Brendan Adams.",
+    "Per Dale Morrow's Hamilton research, several of her siblings moved to Darke County, Ohio in the very early 1800s. [Bill Allen, Further Research, 2012, line 7356]",
+    "The 1850 census shows her living with the Gills, alongside a Sam'l Peer [Bill Allen, Further Research, 2012, line 8691]",
+    "Had at least one daughter and one son [Bill Allen, Further Research, 2012, line 9674]",
+    "Received 25 1/2 acres in the distribution of her father's estate [Bill Allen, Further Research, 2012, line 9224]"
+  ]
 }

@@ -34,14 +34,16 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Married George Francis Adams Sr. (m. 1942)",
+    "Married George Francis Adams Sr. (m. 2 Jul 1942, Franklin County, WA)",
     "Moved to Olympia to work for a Congressional Representative",
     "Accompanied her husband to military posts across the world",
     "Raised three children",
     "Married George Francis Adams Sr. (2 July 1942, Franklin County, WA)",
     "Secretary to U.S. Congressman Floyd Hicks in Olympia",
     "Later administrative assistant to senior Army officers; personnel management",
-    "Lived at the Presidio, San Francisco, while her husband served there as a military police officer"
+    "Lived at the Presidio, San Francisco, while her husband served there as a military police officer",
+    "Born 25 Dec 1919, Whatcom County, WA",
+    "Died 1 Aug 1998, Sacramento, Sacramento County, CA"
   ],
   "education": [],
   "career": [],
@@ -68,14 +70,19 @@
     "Olympia, WA",
     "Fair Oaks, CA",
     "Presidio, San Francisco, CA",
-    "San Francisco, CA"
+    "San Francisco, CA",
+    "Whatcom County, WA",
+    "Sacramento, Sacramento County, CA"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
     "adams_direct_line_json_v1",
     "memoir_life_timelines_v1",
-    "john_howard_adams_memoir_v1"
+    "john_howard_adams_memoir_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Family letters in Bill Allen’s family document"
   ],
   "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams Sr.",
@@ -85,7 +92,8 @@
     "Birth confirmed: Christmas Day (Dec 25), 1919. DOD maintained at 1998-08-01 per user instruction.",
     "RESEARCH FINDING (John's memoir): Gertrude Elaine Adams Remy was named 'Gertrude' after Beryl's grandmother — therefore one of Beryl's grandmothers was named Gertrude. Current canonical grandmothers: Harriet M. Hattie Simons (paternal) and Mary Emily Valentine McPhail (maternal). Neither is documented as Gertrude — possibly an unrecorded middle name, or the reference is to a great-grandmother. Recommended research: ask Uncle Mike; request Beryl's birth certificate.",
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA.",
-    "CORRECTION 2026-09-22: Siblings completed per Brendan Adams: Elaine Deretha, Raymond Elmer, Byron Daniel \"Howard\", Orval Keith and Glen (six children in all). \"Ralph\" was Rosemary Wells's husband, not a brother."
+    "CORRECTION 2026-09-22: Siblings completed per Brendan Adams: Elaine Deretha, Raymond Elmer, Byron Daniel \"Howard\", Orval Keith and Glen (six children in all). \"Ralph\" was Rosemary Wells's husband, not a brother.",
+    "Middle name given as Eva (Beryl Eva Simons) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5965]"
   ],
   "aliases": []
 }

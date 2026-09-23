@@ -7,7 +7,8 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "Graduated from Ottawa University; for health reasons, he moved his family to Colorado in a covered wagon, working as a stagecoach driver from Beulah to Pueblo"
+    "Graduated from Ottawa University; for health reasons, he moved his family to Colorado in a covered wagon, working as a stagecoach driver from Beulah to Pueblo",
+    "Because of ill health he moved his family to Colorado by covered wagon a few years after marrying; he once drove a stage coach between Beulah and Pueblo, and the family later returned to Marceline by covered wagon."
   ],
   "risk_events": [],
   "milestones": [
@@ -15,10 +16,18 @@
     "Co-founded the First Baptist Church in Marceline (1888)",
     "Established and operated a bank with his father in Marceline",
     "Constructed the Allen Hotel in 1906",
-    "Prominent real estate and implement businessman"
+    "Prominent real estate and implement businessman",
+    "Religion: With his father organized the First Baptist church in Marceline in April 1888; two of its seven charter members",
+    "Buried at Mt. Olivet Cemetery, Marceline"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Graduated from Ottawa University"
+  ],
+  "career": [
+    "Stage coach driver",
+    "Built the large business building (later housing the Allen hotel, Murray's store and the Home Improvement Company) in 1906",
+    "Owned and operated a bank with his father; also in the real estate and implement business"
+  ],
   "relationships": {
     "mother": "spring_juliaetta",
     "father": "allen_george_philemon",
@@ -38,13 +47,20 @@
     "Marceline, MO",
     "Beulah, CO",
     "Pueblo, CO",
-    "Grand Rapids, MI"
+    "Grand Rapids, MI",
+    "Kansas; Marceline, MO",
+    "Mt. Olivet Cemetery, Marceline, Linn County, MO"
   ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Parents listed: George Philemon Allen and Juliaetta A. Spring.",
-    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen)."
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: born 1925, she is a granddaughter (daughter of George Philip Allen).",
+    "Funeral at the First Baptist church in Marceline conducted by Rev. Ray Barnes (Marceline Herald, 10 Sept. 1953) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4500]",
+    "Preceded in death by sons William Allen and Henry Eisley Allen and daughters Helen Lorraine Allen and Mrs. Frances Charters [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4545]",
+    "Photograph of him captioned c. 1868 [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6090]"
   ]
 }

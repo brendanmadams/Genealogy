@@ -10,21 +10,30 @@
     "Known locally in Douglas County, Oregon, as the owner of the Adams Drug Store",
     "Died from influenza-pneumonia at the tail end of the 1918-1920 pandemic",
     "Victim of the 1918–1920 flu epidemic (per John Howard's memoir)",
-    "1930 census listed his son George F. Adams Sr. as George F. Wells, step-son because Arthur Wells was step-father"
+    "1930 census listed his son George F. Adams Sr. as George F. Wells, step-son because Arthur Wells was step-father",
+    "He died of influenza at the tail end of the flu pandemic, which lingered for about three years and reached isolated areas such as rural Oregon."
   ],
   "risk_events": [],
   "milestones": [
-    "Married Serena Marie Nevada Trumbo (m. 1909)",
+    "Married Serena Marie Nevada Trumbo (m. 7 Jan 1909, Lewis County, WA)",
     "Served in the military (1898)",
     "Graduated from Washington State University with a degree in Pharmacy (1908)",
     "Cause of death: flu epidemic",
     "Occupation: Pharmacist",
     "Military: Enlisted 2 June 1898, Denver, CO (Spanish–American War era)",
     "Married Serena Marie Nevada Nini Trumbo (7 January 1909, Lewis County, WA)",
-    "Census trail: Denver CO (1880, 1900) → Umpqua, Douglas County OR (1910) → Sutherlin OR (1920)"
+    "Census trail: Denver CO (1880, 1900) → Umpqua, Douglas County OR (1910) → Sutherlin OR (1920)",
+    "Served in the military on 2 Jun 1898 in Denver, CO",
+    "Born Missouri",
+    "Military: Military service entry dated 2 Jun 1898, Denver, Arapahoe County, CO."
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Graduated from Washington State University with a degree in Pharmacy in 1908",
+    "Pharmacy degree from Washington State University, Pullman, WA, 1908."
+  ],
+  "career": [
+    "Owner of the Adams Drug Store in Sutherlin, Oregon; described as one of the best known citizens of Douglas County (Journal of the National Association of Retail Druggists, 26 Feb 1920)"
+  ],
   "relationships": {
     "mother": "vantine_mary_frances",
     "father": "adams_john_wesley",
@@ -43,17 +52,26 @@
     "Chariton County, MO",
     "Denver, CO",
     "Pullman, WA",
-    "Sutherlin, OR"
+    "Sutherlin, OR",
+    "Denver, Arapahoe County, CO",
+    "Umpqua, Douglas County, OR",
+    "Missouri",
+    "Roseburg, OR"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "manual_stitch_adams_direct_line"
+    "manual_stitch_adams_direct_line",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Family letters in Bill Allen’s family document"
   ],
   "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
     "Also referred to as J. Francis Adams. Siblings: Presley Adams and Edith V. Adams.",
     "Father set: adams_john_wesley. Evidence: Adams direct line: Gen 4 (George Francis Adams #2, b.1876) is son of Gen 3 (John Wesley Adams, b.1841). Source: adams_direct_line_json_v1, family_data_v1.",
-    "CORRECTION 2026-09-22: Mother set to vantine_mary_frances: his sister Alberta's record lists him as a full sibling, and Mary Frances Vantine is John Wesley Adams's wife at his birth (m. 1866; b. 1876)."
+    "CORRECTION 2026-09-22: Mother set to vantine_mary_frances: his sister Alberta's record lists him as a full sibling, and Mary Frances Vantine is John Wesley Adams's wife at his birth (m. 1866; b. 1876).",
+    "Survived by his widow and three children [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4697]",
+    "Pictured in a family photograph c. 1919 with Serena, Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
   ]
 }

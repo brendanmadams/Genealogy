@@ -1,14 +1,17 @@
 {
   "id": "crook_mary",
   "name": "Mary Crook",
-  "birth": "",
-  "death": "",
+  "birth": "1818",
+  "death": "1872",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 1818",
+    "Died 1872"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -22,7 +25,8 @@
   },
   "locations": [],
   "sources": [
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Mother of Mary Frances VanTine (spouse of John Wesley Adams). New to record."

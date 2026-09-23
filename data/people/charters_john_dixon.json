@@ -1,14 +1,20 @@
 {
   "id": "charters_john_dixon",
   "name": "John Dixon Charters",
-  "birth": "",
-  "death": "",
+  "birth": "26 Feb 1882",
+  "death": "7 Feb 1957",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Frances Rosetta Allen (Charters) (m. 12 Sep 1918, Ashton, Lee County, IL)",
+    "Born 26 Feb 1882, Dixon, Lee County, IL",
+    "Died 7 Feb 1957, Rochelle, Ogle County, IL",
+    "Born 1882",
+    "Died 1957"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,9 +24,15 @@
     "spouse": "allen_frances_rosetta",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Ashton, IL",
+    "Dixon, Lee County, IL",
+    "Rochelle, Ogle County, IL"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Spouse of Frances Rosetta Allen."

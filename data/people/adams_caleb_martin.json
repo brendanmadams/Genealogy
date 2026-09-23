@@ -6,7 +6,9 @@
   "personality": [],
   "roles": [],
   "childhood_experience": [],
-  "notable_stories": [],
+  "notable_stories": [
+    "He was killed in a car accident in Kansas City."
+  ],
   "risk_events": [],
   "milestones": [
     "Birth: 13 January 1875, Mendon, Chariton County, MO",
@@ -15,7 +17,9 @@
     "Married Emily Hall: 4 September 1937"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Worked as a livestock trader"
+  ],
   "relationships": {
     "mother": "martin_mary_louisa",
     "father": "adams_alexander_william_col",
@@ -28,7 +32,8 @@
     "Kansas City, MO"
   ],
   "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
   ],
   "notes": [
     "Son of Col. Alexander William Adams and Mary Louisa Martin. Source: Adams Family Doc."

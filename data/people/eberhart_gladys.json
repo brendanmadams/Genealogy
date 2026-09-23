@@ -1,14 +1,20 @@
 {
   "id": "eberhart_gladys",
   "name": "Gladys Eberhart",
-  "birth": "",
-  "death": "",
+  "birth": "6 Mar 1906",
+  "death": "3 Jun 1993",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Leroy Gaylord Allen (m. 3 Jun 1928)",
+    "Born 6 Mar 1906",
+    "Died 3 Jun 1993, Glendale, CA",
+    "Born 1906",
+    "Died 1993"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,9 +24,13 @@
     "spouse": "allen_leroy_gaylord",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Glendale, CA"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Spouse of Leroy Gaylord Allen."

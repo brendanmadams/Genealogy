@@ -11,10 +11,17 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Married Harriet Josephine Adams (m. 1848)"
+    "Married Harriet Josephine Adams (Gill) (m. 8 Mar 1848)",
+    "Born 17 Oct 1822, Newark, Licking County, Ohio",
+    "Religion: Faithful member of the Licking Baptist church, where he had been a deacon for the previous five years.",
+    "Buried with Harriet Josephine at Cedar Hill Cemetery"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Attended the Newark public schools until age twelve."
+  ],
+  "career": [
+    "Farmer specialising in sheep breeding and wool growing until 1906."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
@@ -23,14 +30,26 @@
     "children": []
   },
   "locations": [
-    "Licking County, OH"
+    "Licking County, OH",
+    "Newark, Licking County, Ohio",
+    "Union Township, Licking County, Ohio",
+    "Hebron, Licking County, Ohio",
+    "Etna Township, Licking County, Ohio",
+    "Cedar Hill Cemetery, Newark, Licking County, Ohio"
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
   ],
   "notes": [
     "Spouse of Harriet Josephine Adams.",
-    "Precise birth and death dates newly established."
+    "Precise birth and death dates newly established.",
+    "Subject of a biographical sketch in the Centennial History of the City of Newark and Licking County, Ohio (E. M. P. Brister; the scanned title page reads 1908). [Bill Allen, Further Research, 2012, line 7506]",
+    "Voted Republican in national and state politics. [Bill Allen, Further Research, 2012, line 7604]",
+    "A girl named Mary Swan was living with the Gills in the 1860 census. [Bill Allen, Further Research, 2012, line 7820]",
+    "Mary R. Adams was listed as his niece in his household in the 1880 census. [Bill Allen, Further Research, 2012, line 7901]",
+    "A Ralph S. Adams was living in the Gill household in the 1900 census. [Bill Allen, Further Research, 2012, line 8059]",
+    "Harriet Ray Adams was the informant on his death certificate [Bill Allen, Further Research, 2012, line 8580]"
   ]
 }

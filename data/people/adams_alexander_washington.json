@@ -8,16 +8,20 @@
   "childhood_experience": [],
   "notable_stories": [
     "His existence was long a mystery to Missouri-based family researchers until he was located in Ohio records",
-    "He and his family were neighbors to his sister Harriet Josephine Gill"
+    "He and his family were neighbors to his sister Harriet Josephine Gill",
+    "Earlier attempts to trace him failed. After 1860 the family seems to vanish from records, perhaps because of illness or a break-up, though two of the children reappear in 1880."
   ],
   "risk_events": [],
   "milestones": [
-    "Married Christiana F. Konitzer",
+    "Married Christiana F. Konitzer (m. 26 May 1851, Columbus, Franklin County, Ohio)",
     "Migrated from Virginia to Ohio via the National Road",
-    "Registered for the Civil War draft in 1863"
+    "Registered for the Civil War draft in 1863",
+    "Born Virginia"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Occupation farmer in the 1860 census."
+  ],
   "relationships": {
     "mother": "hamilton_elizabeth_eliza",
     "father": "adams_jose_pierre",
@@ -27,12 +31,19 @@
   },
   "locations": [
     "Jefferson County, VA",
-    "Franklin County, OH"
+    "Franklin County, OH",
+    "Columbus, Franklin County, Ohio",
+    "Virginia"
   ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
   ],
   "notes": [
-    "Siblings listed: George Francis #1, Magdalena, Mary, Harriet Josephine, Susan, and Ursula"
+    "Siblings listed: George Francis #1, Magdalena, Mary, Harriet Josephine, Susan, and Ursula",
+    "No record that could be him in the 1840 census, in Virginia or elsewhere [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4033]",
+    "Mentioned in Jose2's sketch as a brother of George F. Adams. [Bill Allen, Further Research, 2012, line 7342]",
+    "Disappears from records sometime before or during the Civil War [Bill Allen, Further Research, 2012, line 8533]"
   ]
 }

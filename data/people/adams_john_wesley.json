@@ -14,18 +14,22 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Married Mary Frances Vantine (m. 1866)",
-    "Married Serina Smith (m. 1907)",
+    "Married Mary Frances Vantine (m. 3 Jan 1866, Chariton County, MO)",
+    "Married Serina Smith (m. 12 Aug 1907, Multnomah County, OR)",
     "Enumerated in Missouri censuses as a farmer",
     "Moved to Oregon and finally Arkansas in his later years",
     "Married Mary Frances VanTine (3 January 1866, Chariton County, MO)",
     "Married Saurena (Serina Smith) (~1907, Multnomah County, OR)",
     "Census trail: MO (1850, 1860, 1870, 1900) → Denver CO (1880) → Multnomah County OR (1910) → Benton County AR (1920)",
     "Married Mary Frances VanTine: 3 January 1866, Chariton County, MO",
-    "Married Saurena (Serina Smith): about 1907"
+    "Married Saurena (Serina Smith): about 1907",
+    "Buried at Mt. Olivet Cemetery"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Farmer living near Marceline (per 1898 biography of his brother)",
+    "DPBR (1898): John W. is a farmer living near Marceline, Chariton County, Mo."
+  ],
   "relationships": {
     "mother": "lane_cynthia",
     "father": "adams_george_francis_1",
@@ -46,14 +50,21 @@
     "Dickson Township, AR",
     "Missouri",
     "Multnomah County, OR",
-    "Benton County, AR"
+    "Benton County, AR",
+    "Bee Branch Twnshp, Chariton County, MO",
+    "Clark Twnshp, Chariton County, MO",
+    "Brunswick, Chariton County, MO",
+    "Yellow Creek Twnshp, Chariton County, MO",
+    "Mt. Olivet Cemetery, Marceline, Linn County, Missouri"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "manual_stitch_adams_direct_line",
     "adams_family_doc_ocr_v1",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
   ],
   "notes": [
     "Siblings listed: Alexander William, Mary, Joseph Pierre Jose, Missouri, Harriet E., James Casper, Virginia M., Nancy E.",

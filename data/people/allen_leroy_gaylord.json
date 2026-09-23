@@ -9,12 +9,17 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Gladys Eberhart",
+    "Married Gladys Eberhart (m. 3 Jun 1928)",
     "Graduated from Yale Divinity School in 1933",
     "Served as a Congregational Minister for over 37 years"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Graduated from Yale Divinity School in 1933"
+  ],
+  "career": [
+    "A reverend (clergyman) living in Southington, Connecticut in 1953",
+    "Congregational minister for over 37 years"
+  ],
   "relationships": {
     "mother": "adams_alberta",
     "father": "allen_george_julius",
@@ -28,7 +33,8 @@
     "Tucson, AZ"
   ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
   ],
   "notes": []
 }

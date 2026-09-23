@@ -10,7 +10,10 @@
   "childhood_experience": [],
   "notable_stories": [
     "A brilliant lawyer who graduated Yale with Phi Beta Kappa honors",
-    "He traveled 17,000 miles across the U.S. and Canada by car in the 1980s"
+    "He traveled 17,000 miles across the U.S. and Canada by car in the 1980s",
+    "Led a long and successful effort to defeat the proposed LNG facility at Point Conception.",
+    "He led Montecito's first attempt at incorporation in the 1960s. He received the most votes in the election and would have been the city's first mayor had incorporation passed.",
+    "His interests were reading, gardening and travel. In the 1980s he and his wife spent a year travelling 17,000 miles through the U.S. and Canada in their motor home."
   ],
   "risk_events": [],
   "milestones": [
@@ -19,10 +22,28 @@
     "Served as a Lieutenant in the Third Air Force during WWII",
     "Father of five children from his first marriage",
     "Harvard Law grad",
-    "Lieutenant in Third Air Force during WWII"
+    "Lieutenant in Third Air Force during WWII",
+    "Military: Was overseas just after WWII and returned from Japan",
+    "Divorced from the preparer's mother (Dorothy Ann Wheeler)",
+    "Died 18 Sep 2010, Sarah House Hospice Center, Santa Barbara, Santa Barbara County, CA",
+    "Military: After graduating enlisted in the U.S. Army Air Force; attended Air Force OCS in Florida; served in the 3rd Fighter Command; attended the School for Military Government (University of Virginia) and the Civil Affairs Training School (University of Michigan)",
+    "Military: After the Japanese surrender in 1945 he spent a year in Akita, Japan as a military government officer helping establish postwar democratization",
+    "Military: Lieutenant in the administration division of the Third Air Force, stationed at Sarasota, Florida (1944)"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Bachelor of Arts in Government and Political Science from Yale University, 1943 (the obituary below gives 1942)",
+    "Juris Doctor from Harvard Law School, 1949",
+    "Attended Yale on a four-year regional scholarship, majored in Government, graduated with Exceptional Distinction in 1942",
+    "Graduated cum laude from Harvard Law School in 1949",
+    "Graduated from Yale University in 1942 with Phi Beta Kappa honors; majored in political science and was a member of the University Debate Association"
+  ],
+  "career": [
+    "Lawyer, described by his son as brilliant",
+    "Moved to California and started his law practice in Los Angeles",
+    "Moved to Santa Barbara in 1952 and practiced law, opening his own office in 1962",
+    "A general practitioner who became heavily involved in the planned development of The Hollister Ranch",
+    "Founded the law firm of Allen and Kimbell in 1980"
+  ],
   "relationships": {
     "mother": "anthony_esther_jane",
     "father": "allen_george_philip",
@@ -45,18 +66,27 @@
     "Waukegan, IL",
     "Sioux Falls, SD",
     "Pueblo, CO",
-    "Santa Barbara, CA"
+    "Santa Barbara, CA",
+    "Japan",
+    "Sarah House Hospice Center, Santa Barbara, Santa Barbara County, CA",
+    "Carpinteria, CA",
+    "Akita, Japan",
+    "Sarasota, Florida"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "family_data_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Siblings listed: Margaret Jeanice Peggy Allen",
     "Multiple spouses: wheeler_dorothy_ann, modine_suzzanne",
     "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter.",
     "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document.",
-    "CORRECTION 2026-09-23: Guinevere and Benjamin Alistair Allen moved to their parents Anthony Adams Allen and Susan Bethany Fonshill; George Homer and Dorothy's five children are Wendy, Susan, William, Anthony and Brooks."
+    "CORRECTION 2026-09-23: Guinevere and Benjamin Alistair Allen moved to their parents Anthony Adams Allen and Susan Bethany Fonshill; George Homer and Dorothy's five children are Wendy, Susan, William, Anthony and Brooks.",
+    "Officer and/or director of charitable organizations, including two terms as president of the Montecito Protective Association [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5347]",
+    "Survived by five children from his first marriage, two grandchildren and one great-grandchild [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5355]"
   ]
 }

@@ -9,7 +9,10 @@
   "notable_stories": [
     "A Navy airplane mechanic in WWI",
     "He met his second wife, Caroline, while delivering mail on his postal route in San Mateo — she was a chef at a diner he frequented for all his meals",
-    "Shortly after World War II he left the family home in Pueblo, Colorado, and moved to San Mateo, California, where he kept delivering mail for the Post Office."
+    "Shortly after World War II he left the family home in Pueblo, Colorado, and moved to San Mateo, California, where he kept delivering mail for the Post Office.",
+    "The preparer writes that Esther constantly berated him, and that after his son returned from Japan following WWII he left for work one day and never came back.",
+    "He met Caroline at a diner on his mail route where she cooked; as the romance grew he began eating breakfast, lunch and even dinner there.",
+    "The preparer remembers him as a gentle man who loved making things; he spent summer visits of about a month in Santa Barbara doing household repairs and teaching the preparer basic woodworking."
   ],
   "risk_events": [],
   "milestones": [
@@ -17,10 +20,15 @@
     "Married Anna Caroline Koenig Winfrey (second marriage)",
     "Worked as a welder and for the ATSF Railroad before starting a career with the US Postal Service",
     "Joined the U.S. Navy, 3 December 1917, St. Louis, Missouri",
-    "Died 24 February 1972, Santa Clara, California, aged 74"
+    "Died 24 February 1972, Santa Clara, California, aged 74",
+    "Joined the US Navy on 3 Dec 1917 in St. Louis",
+    "Served in the US Navy in World War I as an airplane mechanic, stationed at Killingholme, England, at one of the first Navy airbases"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Worked as a welder in the early years, following work around during the Great Depression",
+    "Worked for the ATSF Railroad, then for the US Postal Service"
+  ],
   "relationships": {
     "mother": "adams_alberta",
     "father": "allen_george_julius",
@@ -39,16 +47,20 @@
     "Killingholme, England",
     "Pueblo, CO",
     "San Mateo, CA",
-    "Santa Clara, CA"
+    "Santa Clara, CA",
+    "St. Louis, MO",
+    "Illinois; New Mexico; Colorado"
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
   ],
   "notes": [
     "Siblings listed: Frances Rosetta, Bernice, Henry Eisley, William Laurence, Marion Lafayette, Helen Loraine, Ralph Kenneth, Leroy Gaylord",
     "Multiple spouses: anthony_esther_jane, koenig_anna_caroline",
     "Additional spouse: koenig_anna_caroline",
-    "CORRECTION 2026-09-22: Added daughter allen_margaret_jeanice (b. 1925), sister of George Homer Allen."
+    "CORRECTION 2026-09-22: Added daughter allen_margaret_jeanice (b. 1925), sister of George Homer Allen.",
+    "Died of cancer after fighting it for over five years [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4995]"
   ]
 }

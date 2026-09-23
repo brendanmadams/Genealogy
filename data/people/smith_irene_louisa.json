@@ -1,14 +1,20 @@
 {
   "id": "smith_irene_louisa",
   "name": "Irene Louisa Smith",
-  "birth": "",
-  "death": "",
+  "birth": "10 Apr 1907",
+  "death": "Jan 1989",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Ralph Kenneth Allen (m. 17 Aug 1937)",
+    "Born 10 Apr 1907, Milan, Spokane County, WA",
+    "Died Jan 1989, Lacey, Pierce County, WA",
+    "Born 1907",
+    "Died 1989"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,9 +24,14 @@
     "spouse": "allen_ralph_kenneth",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Milan, Spokane County, WA",
+    "Lacey, Pierce County, WA"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Second spouse of Ralph Kenneth Allen."

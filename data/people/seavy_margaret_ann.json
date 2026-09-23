@@ -1,14 +1,17 @@
 {
   "id": "seavy_margaret_ann",
   "name": "Margaret Ann Seavy",
-  "birth": "",
+  "birth": "2 Jan 1952",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 2 Jan 1952, Pueblo, CO",
+    "Born 1952"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,9 +21,13 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Pueblo, CO"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Child of Jack Frederick Seavy and Margaret Jeanice Peggy Allen (Seavy)."

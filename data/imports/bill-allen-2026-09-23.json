@@ -1,0 +1,5555 @@
+{
+ "source": {
+  "a": "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+  "c": "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+  "r": "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+  "l": "Family letters in Bill Allen’s family document"
+ },
+ "text_file": "claude_cowork/06_Archive/inbox_processed/AdamsFamilyDoc_ocr_text.txt",
+ "people": {
+  "adams_jose_pierre": {
+   "name": "Jose Pierre Adams",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Parentage unknown",
+     "related": null,
+     "source": "a",
+     "lines": [
+      3993
+     ],
+     "quote": "Jose Pierre's parentage is unknown."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1836",
+     "place": null,
+     "value": "Per a Hamilton family genealogy report, he was executor of the will of his brother-in-law Thomas Hamilton in 1836",
+     "related": null,
+     "source": "a",
+     "lines": [
+      3998
+     ],
+     "quote": "Josee [sic] P. Adams was the executor of the will of his"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1830",
+     "place": "Jefferson County, VA",
+     "value": "1830 census household: two males 10-15 (likely George and Alexander), one male 40-50 (Jose P.), five girls under 20 and one woman 40-50 (Elizabeth). No census record for him or Elizabeth after 1830.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4012
+     ],
+     "quote": "The Census of 1830 enumerates Jose P. Adams in Jefferson County, VA. Household membership lists two"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Virginia",
+     "value": "Employed as a chemist in Virginia (per 1898 biography of his grandson)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4324
+     ],
+     "quote": "Virginia and was there employed as a chemist."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Per the 1898 biography, he was accidentally poisoned while testing a variety of herb and soon died, aged forty-five.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4324
+     ],
+     "quote": "While testing a variety of herb he was accidentally poisoned and"
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Four further children listed only as unknown1-unknown4 ADAMS, dates unknown",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4060
+     ],
+     "quote": "unknownl ADAMS was born (date unknown)."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "The 1898 biography says he had two sons, George P. [sic] and Alexander Washington, and three daughters; the Hamilton report names only George and Magdalena.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4327
+     ],
+     "quote": "He had two sons, George P. and Alexander Washington, and three daughters."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Virginia",
+     "value": "DPBR: married in Virginia and was employed there as a chemist.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6936
+     ],
+     "quote": "married in Virginia and was there employed as a chemist."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Virginia",
+     "value": "DPBR: while testing a variety of herb he was accidentally poisoned and soon died, aged forty-five. The author doubts the details but thinks the age may be fairly accurate.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6937
+     ],
+     "quote": "While testing a variety of herb he was accidentally\npoisoned and soon died. He was then forty-five years of\nage."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "12 Apr 1834",
+     "place": "Jefferson Co., VA",
+     "value": "Named in the appraisal of brother-in-law Thomas HAMILTON's estate; as administrator filed the final account in May 1836",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9658
+     ],
+     "quote": "The final account was filed by the administrator Jose P. ADAMS, his brother- in-law in May 1836."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "3 May 1830",
+     "place": null,
+     "value": "Named Friend and executor in the will of Francis A. HAMILTON, whose aunt Elizabeth he had married",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9692
+     ],
+     "quote": "Friend: Josee P. ADAMS (m. his aunt Elizabeth HAMILTON, and was executor of the will)"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Missouri",
+     "value": "A public record shows John Quincy Adams left him a parcel of land in Missouri. This is the basis of the claimed link to John Quincy Adams.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      2908
+     ],
+     "quote": "connection with John Quincy is the result of a public record of a parcel of land bequeathed to Jos. in Missouri by John"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Reportedly best friends with Francis Hamilton.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      2911
+     ],
+     "quote": "We have an actual copy of the recorded marriage of Jos. and Mary from the Harper's Ferry archives. Jos. and Francis"
+    }
+   ]
+  },
+  "hamilton_elizabeth_eliza": {
+   "name": "Elizabeth (Eliza) Hamilton",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "early 1800s",
+     "place": "Darke County, Ohio",
+     "value": "Per Dale Morrow's Hamilton research, several of her siblings moved to Darke County, Ohio in the very early 1800s.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7356
+     ],
+     "quote": "several of Elizabeth's siblings had migrated to Darke County, Ohio in the very early 1800's."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1850",
+     "place": null,
+     "value": "The 1850 census shows her living with the Gills, alongside a Sam'l Peer",
+     "related": "gill_stephen_augusta",
+     "source": "r",
+     "lines": [
+      8691
+     ],
+     "quote": "the 1850 Census enumeration shows her living with the Gills. But it also lists a Sam’l Peer."
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Had at least one daughter and one son",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9674
+     ],
+     "quote": "and had at least one daughter and one son."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "20 Apr 1809",
+     "place": "Jefferson Co., VA",
+     "value": "Received 25 1/2 acres in the distribution of her father's estate",
+     "related": "hamilton_francis",
+     "source": "r",
+     "lines": [
+      9224
+     ],
+     "quote": "Elizabeth 25 1/2 acres"
+    }
+   ]
+  },
+  "adams_magdalena": {
+   "name": "Magdalena (Margaret) Adams",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4027
+     ],
+     "quote": "i. Magdalena (Margaret) ADAMS was born (date unknown)."
+    },
+    {
+     "kind": "death",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "No record of the death or burial of a Magdalena Swan (or Adams) found in or around Licking or Franklin County",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8414
+     ],
+     "quote": "No record of the death or burial of a Magdalena Swan (or Adams) in, or around Licking or Franklin County can be found."
+    }
+   ]
+  },
+  "adams_alexander_washington": {
+   "name": "Alexander Washington Adams",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1840",
+     "place": null,
+     "value": "No record that could be him in the 1840 census, in Virginia or elsewhere",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4033
+     ],
+     "quote": "There is no record that could be him in the Census of 1840, in Virginia or"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Mentioned in Jose2's sketch as a brother of George F. Adams.",
+     "related": "adams_george_francis_1",
+     "source": "r",
+     "lines": [
+      7342
+     ],
+     "quote": "mention of a brother to George F. - Alexander Washington Adams."
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "26 May 1851",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Marriage record and license for A. W. Adams and C. F. Konitzer.",
+     "related": "konitzer_christiana",
+     "source": "r",
+     "lines": [
+      7888
+     ],
+     "quote": "Kw W Adams & c F Konitzer Marriage Record, May 26, 1851, Franklin County, Ohio"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1860",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "An A. W. Adams appears in the 1860 census in Columbus (the author believes this is Alexander).",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7831
+     ],
+     "quote": "the 1860 Census shows an A. W. Adams in Columbus, Franklin County, Ohio"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1860",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Occupation farmer in the 1860 census.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7832
+     ],
+     "quote": "and occupation farmer."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Earlier attempts to trace him failed. After 1860 the family seems to vanish from records, perhaps because of illness or a break-up, though two of the children reappear in 1880.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7892
+     ],
+     "quote": "Apparently the family suffered some sort of catastrophic illness or break-up, as there are no other records for the family as a whole."
+    },
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": "Virginia",
+     "value": "Born in Virginia (per daughter Mary R.'s 1880 census entry and son George W.'s death certificate).",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7904
+     ],
+     "quote": "as her father was born in Virginia, and her mother in Germany"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Disappears from records sometime before or during the Civil War",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8533
+     ],
+     "quote": "Alexander disappears sometime before or during the Civil War."
+    }
+   ]
+  },
+  "adams_george_francis_1": {
+   "name": "George Francis Adams (#1)",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1830",
+     "place": null,
+     "value": "Listed as minor son of Josee P. Adams in the will written in 1830 (about 13 years old)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4000
+     ],
+     "quote": "At the time the will was written in 1830, George is listed as"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "24 Sep 1850",
+     "place": "Bee Branch Twnshp, Chariton County, MO",
+     "value": "1850 census",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4070
+     ],
+     "quote": "He appeared in the census on 24"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "17 Jul 1860",
+     "place": "Clark Twnshp, Chariton County, MO",
+     "value": "1860 census",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4071
+     ],
+     "quote": "He appeared in the census on 17 Jul 1860 in Clark"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "29 Aug 1870",
+     "place": "Clark Twnshp, Chariton County, MO",
+     "value": "1870 census",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4072
+     ],
+     "quote": "George appeared in the census on 29 Aug 1870 in Clark Twnshp, Chariton"
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Cedar Hills Cemetery, Castle Rock, Douglas County, CO",
+     "value": "Buried in an unmarked grave in the Adams Family Plot",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4077
+     ],
+     "quote": "buried at Cedar Hills Cemetery (unmarked grave in Adams Family Plot) in Castle Rock, Douglas County, CO."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Farmer and, later in life, a stock grower",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4079
+     ],
+     "quote": "George Francis was a farmer and, later in life, a stock grower."
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "14 Jan 1841",
+     "place": "Chariton County, MO",
+     "value": "Married Cynthia Lane; marriage record found at Chariton County Historical Society and Museum",
+     "related": "lane_cynthia",
+     "source": "a",
+     "lines": [
+      4081
+     ],
+     "quote": "George Francis ADAMS and Cynthia LANE were married on 14 Jan 1841 in Chariton County, MO."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Chariton County, MO",
+     "value": "Per the 1898 biography: farmed in Jefferson County, VA, then moved to Chariton County, MO onto War of 1812 grant prairie land; pre-empted 160 acres at 12.5 cents an acre, built up to a full section devoted to stock, served as justice of the peace, came to Colorado in 1886 and lived retired until his death at 81.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4328
+     ],
+     "quote": "Jefferson County, Va., where be engaged in farming until 1827, and then removed to Chariton County, Mo.,"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Preparer's note: the biography's name 'George P.' is wrong (it was George Francis), and a move to Missouri in 1827 is unlikely; he most likely arrived late 1840 or early 1841 (first Chariton County record is the 1850 census).",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4370
+     ],
+     "quote": "Preparer's note: There are several misleading and possibly incorrect statements in the above. His father's name"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Served as justice of the peace in Chariton County (civic office)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4334
+     ],
+     "quote": "While there he served as justice of the peace."
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "14 Jan 1841",
+     "place": "Chariton County, Missouri",
+     "value": "Married Miss Cinthia [Cynthia] Lane, in the presence of James Harris and John T. Smith; officiated by William B. Smith, J.P.; filed and recorded 3 Mar 1841 (a garbled header line also reads 'Recorded 26th Feb, 1841').",
+     "related": "lane_cynthia",
+     "source": "r",
+     "lines": [
+      6572
+     ],
+     "quote": "to George F. Adams and Miss Cinthia Lane in the County of\nMiss C. Lane Chariton on the 14th day of January A.D. 1841 in the"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1850",
+     "place": "Bee Branch Township, Chariton County, Missouri",
+     "value": "1850 US Census: George and Synthia with five children, John, Alexander, Mary, Joseph and Matilda.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6606
+     ],
+     "quote": "Starting then with the 1850 enumeration, we see George and\nSynthia [sic] with five of the children: John, Alexander, Mary, Joseph,"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1860",
+     "place": "Clark Township, Chariton County, Missouri",
+     "value": "Listed in the 1860 US Census in Clark Township, Chariton County (also 1870 census image caption, Clark Township).",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6640
+     ],
+     "quote": "1860 U. S. Census Enumeration, Clark Township, Chariton County,\nMO"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": "Santa Fe",
+     "value": "Obituary: afterwards enlisted against the Mexicans to capture Santa Fe.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6829
+     ],
+     "quote": "He after.’\nwerds enlisted neainet the : Mexi-\ncans fo capture Santa Fe"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Obituary: served in the Confederate army during the Civil War under Gen. Price and also under Gen. Van Dorn and Magruder.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6832
+     ],
+     "quote": "servetL indie Confederate army\nduring the late rebellion under\nGen. Price anialso unter Gen,\nPanDorn aud MeGroder."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Chariton County, Missouri",
+     "value": "Obituary: a large land owner who accumulated a large fortune.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6837
+     ],
+     "quote": "Br. Acums was a large land\nowner tod accomulnied a lerge\nfortune."
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Obituary: he left four sons and four daughters; raised his children under his own care after his wife's death.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6846
+     ],
+     "quote": "care ond enidance. He leaves\nfour sons and four daughters."
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Castle Rock Cemetery, Castle Rock, Colorado",
+     "value": "Obituary: remains interred in Castle Rock cemetery.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6858
+     ],
+     "quote": "the remains were juterred in Castle\nBock cemetery."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1836",
+     "place": "Missouri",
+     "value": "Author: George winds up in Missouri supposedly in 1836; no trace of his parents or siblings has surfaced in Missouri.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6862
+     ],
+     "quote": "George\nwinds up in Missouri supposedly in 1836... where did his parents and\nsiblings end up?"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1827",
+     "place": "Jefferson County, Virginia; Chariton County, Missouri",
+     "value": "DPBR sketch of his son (naming him 'George P.'): born in Jefferson County, Va., farmed there until 1827, then removed to Chariton County, Mo., settling on prairie land set aside for War of 1812 land grants.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6940
+     ],
+     "quote": "The first-named son\nwas born in Jefferson County, Va., where be engaged in\nfarming until 1827, and then removed to Chariton County,"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Chariton County, Missouri",
+     "value": "DPBR: bought and sold a land-grant tract, pre-empted another 160 acres at 12.5 cents per acre, took another similar tract, improved the land for the stock business and eventually owned a section.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6944
+     ],
+     "quote": "One of these he\nbought and subsequently sold, after which he was\npermitted to pre-empt another one hundred and sixty\nacres"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Chariton County, Missouri",
+     "value": "DPBR: served as justice of the peace.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6951
+     ],
+     "quote": "While there he served as justice\nof the peace."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1857",
+     "place": "Township 56, Range 18, Chariton County, Missouri",
+     "value": "Only land patent record for George in Chariton County: 1857, an 80-acre parcel, a homestead purchase rather than a military land warrant.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7011
+     ],
+     "quote": "there is only one record concerning\na patent to George, to wit in 1857, an 80-acre parcel in Township 56,\nRange 18."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1851",
+     "place": "Clark Township, Chariton County, Missouri",
+     "value": "The 1857 parcel was part of the land warrant granted in 1851 to his father-in-law, John S. Lane.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7089
+     ],
+     "quote": "It is further interesting to note that this parcel was part of the\nland warrant granted to his father-in-law, John S. Lane, in 1851"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Described as the eldest child of Jose1's family.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7344
+     ],
+     "quote": "since George F. was the eldest"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1833",
+     "place": null,
+     "value": "His obituary says the family came west in 1833.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7362
+     ],
+     "quote": "George's obituary simply states that the family came west in 1833."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "The Gill biography says he was a twin of his sister Mary, and both were deceased by 1909.",
+     "related": "adams_mary_swan",
+     "source": "r",
+     "lines": [
+      7598
+     ],
+     "quote": "Mary and George, twine, deceased"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Twin brother of Mary Adams (Swan)",
+     "related": "adams_mary_swan",
+     "source": "r",
+     "lines": [
+      8313
+     ],
+     "quote": "Mary (George’s twin)"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Missouri",
+     "value": "Went on to Missouri",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8530
+     ],
+     "quote": "George Francis went on to Missouri, where we know most of his history."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "3 May 1830",
+     "place": null,
+     "value": "Named as a cousin, under 21, in the will of Francis A. HAMILTON",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9703
+     ],
+     "quote": "Cousin: George Adams, s/o Josee P. ADAMS, under 21 years of age"
+    },
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": "Harpers Ferry, WV",
+     "value": "Born in Harpers Ferry, the first son of Jos. Adams, and named after Francis Hamilton.",
+     "related": "adams_jose_pierre",
+     "source": "l",
+     "lines": [
+      2912
+     ],
+     "quote": "were reportedly best friends and Jos. named his first son George Francis Adams who was born in Harpers Ferry. We"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Francis Hamilton's will left him a small sum when he was an adolescent.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      2913
+     ],
+     "quote": "have an actual copy of the will of Francis Hamilton that bequeaths a small amount of money to the adolescent George."
+    }
+   ]
+  },
+  "lane_cynthia": {
+   "name": "Cynthia Lane",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "14 Jan 1841",
+     "place": "Chariton County, MO",
+     "value": "Married George Francis Adams",
+     "related": "adams_george_francis_1",
+     "source": "a",
+     "lines": [
+      4081
+     ],
+     "quote": "George Francis ADAMS and Cynthia LANE were married on 14 Jan 1841 in Chariton County, MO."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Per the 1898 biography, mother of four sons and four daughters, all living in 1898",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4343
+     ],
+     "quote": "She was the mother of four"
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "1861",
+     "place": "Missouri",
+     "value": "1898 biography: born in Kentucky and died in Missouri in 1861",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4337
+     ],
+     "quote": "The mother of our subject, who was Cynthia Lane, was born in Kentucky and died in Missouri in 1861."
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "14 Jan 1841",
+     "place": "Chariton County, Missouri",
+     "value": "Married George F. Adams (record spells her Cinthia).",
+     "related": "adams_george_francis_1",
+     "source": "r",
+     "lines": [
+      6572
+     ],
+     "quote": "to George F. Adams and Miss Cinthia Lane in the County of\nMiss C. Lane Chariton on the 14th day of January A.D. 1841 in the"
+    },
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": "Kentucky",
+     "value": "DPBR: born in Kentucky.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6955
+     ],
+     "quote": "The mother of our subject, who was Cynthia Lane,\nwas born in Kentucky and died in Missouri in 1861."
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "DPBR: mother of four sons and four daughters, all living in 1898.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6958
+     ],
+     "quote": "She was the mother of four\nsons and four daughters, all still living."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Missouri",
+     "value": "Moved from WV to Missouri with her husband (possibly Marion, MO).",
+     "related": null,
+     "source": "l",
+     "lines": [
+      2914
+     ],
+     "quote": "George married Cynthia Lane and though wecould not find a record of the marriage, we know they moved to Missouri (we"
+    }
+   ]
+  },
+  "adams_john_wesley": {
+   "name": "John Wesley Adams",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "24 Sep 1850",
+     "place": "Bee Branch Twnshp, Chariton County, MO",
+     "value": "1850 census",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4119
+     ],
+     "quote": "the census on 24 Sep 1850 in Bee Branch Twnshp, Chariton County, MO."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "17 Jul 1860",
+     "place": "Clark Twnshp, Chariton County, MO",
+     "value": "1860 census",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4120
+     ],
+     "quote": "1860 in Clark Twnshp, Chariton County, MO."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "2 Aug 1870",
+     "place": "Brunswick, Chariton County, MO",
+     "value": "1870 census",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4120
+     ],
+     "quote": "John appeared in the census on 2 Aug 1870 in Brunswick,"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "8 Jun 1900",
+     "place": "Yellow Creek Twnshp, Chariton County, MO",
+     "value": "1900 census",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4122
+     ],
+     "quote": "appeared in the census on 8 Jun 1900 in Yellow Creek Twnshp, Chariton County, MO."
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, Missouri",
+     "value": "Buried at Mt. Olivet Cemetery",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4125
+     ],
+     "quote": "John was buried at Mt. Olivet Cemetery in Marceline, Linn County, Missouri."
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "3 Jan 1866",
+     "place": "Chariton County, MO",
+     "value": "Married Mary Frances Vantine",
+     "related": "vantine_mary_frances",
+     "source": "a",
+     "lines": [
+      4126
+     ],
+     "quote": "John Wesley ADAMS and Mary Frances VANTINE were married on 3 Jan 1866 in"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "12 Aug 1907",
+     "place": "Multnomah County, OR",
+     "value": "Married Serina Smith",
+     "related": "smith_serina",
+     "source": "a",
+     "lines": [
+      4209
+     ],
+     "quote": "John Wesley ADAMS and Serina SMITH were married on 12 Aug 1907 in Multnomah County, OR."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "near Marceline, Chariton County, MO",
+     "value": "Farmer living near Marceline (per 1898 biography of his brother)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4345
+     ],
+     "quote": "John W. is a farmer, living near Marceline, Chariton County, Mo."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "near Marceline, Chariton County, Missouri",
+     "value": "DPBR (1898): John W. is a farmer living near Marceline, Chariton County, Mo.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6961
+     ],
+     "quote": "and John W. is a\nfarmer, living near Marceline, Chariton County, Mo."
+    }
+   ]
+  },
+  "vantine_mary_frances": {
+   "name": "Mary Frances Vantine",
+   "facts": [
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Mt Olivet Cemetery, Marceline, Linn County, Missouri",
+     "value": "Buried at Mt Olivet Cemetery",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4129
+     ],
+     "quote": "She was buried at Mt Olivet Cemetery in"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "3 Jan 1866",
+     "place": "Chariton County, MO",
+     "value": "Married John Wesley Adams",
+     "related": "adams_john_wesley",
+     "source": "a",
+     "lines": [
+      4126
+     ],
+     "quote": "John Wesley ADAMS and Mary Frances VANTINE were married on 3 Jan 1866 in"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Preparer (Bill Allen) notes she was his great-great-grandmother",
+     "related": "allen_william_w",
+     "source": "a",
+     "lines": [
+      4149
+     ],
+     "quote": "Mary Frances Vantine was my great-great grandmother."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Photo caption names her 'Mary Frances VanTyne (Clark) Adams' (spelling variant VanTyne; surnames Clark and Adams)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6025
+     ],
+     "quote": "Mary Frances VanTyne (Clark) Adams"
+    }
+   ]
+  },
+  "clark_clay_c": {
+   "name": "Clay C. Clark",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Adopted by the family living next door to John Wesley Adams's family; lived prosperously and raised his own family. The preparer believes he has found Clay's descendants.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4155
+     ],
+     "quote": "War). He was adopted by the family living next door to my g-g-grandfather's family, and"
+    }
+   ]
+  },
+  "smith_serina": {
+   "name": "Serina Smith",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "12 Aug 1907",
+     "place": "Multnomah County, OR",
+     "value": "Married John Wesley Adams",
+     "related": "adams_john_wesley",
+     "source": "a",
+     "lines": [
+      4209
+     ],
+     "quote": "John Wesley ADAMS and Serina SMITH were married on 12 Aug 1907 in Multnomah County, OR."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "abt 1867",
+     "place": "Norway",
+     "value": "Born about 1867 in Norway",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4210
+     ],
+     "quote": "SMITH was born about 1867 in Norway."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1867",
+     "place": null,
+     "value": "Born 1867 (index lifespan; page 5)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5970
+     ],
+     "quote": "Serina (1867— )...5"
+    }
+   ]
+  },
+  "adams_alexander_william_col": {
+   "name": "Col. Alexander William Adams",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Obituary lists siblings John, Mary, Joseph, Matilda, Harriett, James and Virginia",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4217
+     ],
+     "quote": "Siblings included John, Mary,"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Obituary: during the Civil War a Private with the 12th Regiment, Missouri State Militia Cavalry",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4218
+     ],
+     "quote": "Alexander was a"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1862",
+     "place": null,
+     "value": "Served in the Union Army in the Civil War, joined the 3rd Missouri Cavalry in 1862 as a private and mustered out as Sergeant in 1865 (conflicts with obituary unit)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4229
+     ],
+     "quote": "Served in the Union Army during the Civil War, joining the 3rd Missouri"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Became a farmer after the war",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4220
+     ],
+     "quote": "Alexander moved back home, became a farmer, and married Unknown Ashby."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "Kansas City",
+     "value": "Stock commission merchant in Kansas City (per 1898 biography of his brother)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4344
+     ],
+     "quote": "A. W. is a stock"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "17 Jan 1871",
+     "place": "Chariton County, MO",
+     "value": "Married Mary Louisa Martin",
+     "related": "martin_mary_louisa",
+     "source": "a",
+     "lines": [
+      4234
+     ],
+     "quote": "Col Alexander Washington ADAMS and Mary Louisa MARTIN were married on 17 Jan 1871 in Chariton"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Obituary lists children by Mary Martin as Loula, Willie, Caleb, Homer, Alexander, Frank, Fred, Ollie, George and Grace (an Alexander not in the register list)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4222
+     ],
+     "quote": "Known children born to them"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Title \"Col\" appears in the doc although his recorded rank was private/sergeant",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4094
+     ],
+     "quote": "4 ii. Col Alexander Washington ADAMS"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "Kansas City",
+     "value": "DPBR: A. W. is a stock commission merchant in Kansas City (earlier described as A.W. of Kansas City, KS).",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6960
+     ],
+     "quote": "A. W. is a stock\ncommission merchant in Kansas City"
+    }
+   ]
+  },
+  "martin_mary_louisa": {
+   "name": "Mary Louisa Martin",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "more_exact",
+     "date": "22 May 1850",
+     "place": "Brunswick, Chariton County, MO",
+     "value": "Born 22 May 1850",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4236
+     ],
+     "quote": "22 May 1850 in Brunswick, Chariton County, MO."
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "11 Jan 1935",
+     "place": "Kansas City, Jackson County, MO",
+     "value": "Died at age 84",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4236
+     ],
+     "quote": "She died on 11 Jan 1935 at the age of 84 in Kansas City,"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "17 Jan 1871",
+     "place": "Chariton County, MO",
+     "value": "Married Col Alexander Washington Adams",
+     "related": "adams_alexander_william_col",
+     "source": "a",
+     "lines": [
+      4234
+     ],
+     "quote": "Col Alexander Washington ADAMS and Mary Louisa MARTIN were married on 17 Jan 1871 in Chariton"
+    }
+   ]
+  },
+  "adams_joseph_pierre_jose2": {
+   "name": "Joseph Pierre Jose Adams (Jose2)",
+   "facts": [
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Fairmount Cemetery, Denver, Denver County, CO",
+     "value": "Buried at Fairmount Cemetery",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4288
+     ],
+     "quote": "He was buried at Fairmount Cemetery in Denver, Denver County, CO."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1863",
+     "place": "Larned, Kansas",
+     "value": "In 1863 he took the train to St. Joe and stage to Leavenworth, then hired on as a six-yoke ox-team driver on the Santa Fe trail; at Larned, Kansas Comanches attacked the camp, killed the wagon master and took the oxen, and troops from the Larned post rescued the party the next day.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4301
+     ],
+     "quote": "so in 1863 he went to St. Joe by railroad and there took the stage to"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "Jul 1863",
+     "place": "Arkansas River to Fort Lyons, Pueblo and Denver",
+     "value": "Drove a six-mule train up the Arkansas River to Fort Lyons, Pueblo and Denver, first seeing Denver in July 1863",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4349
+     ],
+     "quote": "our subject secured employment as driver of a train of six mules"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Julesburg to Fort Morgan",
+     "value": "Stage driver for six months from Julesburg to Fort Morgan, then eighteen months freighting",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4351
+     ],
+     "quote": "he was employed as a stage driver from Julesburg to Fort Morgan"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "Nebraska City",
+     "value": "Attended school a few months in Nebraska City, then spent a year on the home farm",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4352
+     ],
+     "quote": "He then went to Nebraska City, where he attended school a few months"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1869",
+     "place": "Douglas (now Elbert) County, CO",
+     "value": "Returned to Colorado in 1869 and started a cattle ranch",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4358,
+      6980
+     ],
+     "quote": "Coming to Colorado again in 1869, Mr. Adams embarked in the cattle business in Douglas (now Elbert) County,"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Castle Rock, CO",
+     "value": "Member of the firm Adams & Green at Castle Rock for fourteen years",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4360
+     ],
+     "quote": "For fourteen years he was a member of the firm of Adams & Green at"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "Denver, CO",
+     "value": "Commission merchant in Denver; also owned a ranch at Corona on Kiowa Creek, sixty miles east of Denver, raising cattle and horses",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4313
+     ],
+     "quote": "where he is engaged in business as"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Douglas County, CO",
+     "value": "Douglas County commissioner for two three-year terms, re-elected chairman each year",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4315
+     ],
+     "quote": "While in Douglas County he served as county commissioner for two"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1875",
+     "place": "Douglas County, CO",
+     "value": "Elected county sheriff in 1875 on the Democratic ticket in a Republican county",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4316,
+      6924
+     ],
+     "quote": "In 1875 he was elected sheriff of the county"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Castle Rock, CO",
+     "value": "While in office he helped secure construction of the Castle Rock courthouse (only $14,000 of $20,000 in voted bonds was needed) and was active in moving the county seat from Frenchtown to Castle Rock.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4319
+     ],
+     "quote": "While he was in office he was instrumental in securing the erection of the courthouse at Castle Rock"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Active in the Democratic party; member of the state central committee and delegate to state conventions",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4365
+     ],
+     "quote": "He has been active in the Democratic party"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Castle Rock, CO",
+     "value": "Member (formerly an official) of the Ancient Order of United Workmen at Castle Rock",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4367,
+      6995
+     ],
+     "quote": "He is still a member of the Ancient Order of United Workmen at Castle Rock"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1898",
+     "place": "Denver, Colorado",
+     "value": "Named Joseph P. Adams after his grandfather and also adopted the name Jose; subject of a biographical sketch in the Denver Portrait and Biographical Record (1898).",
+     "related": "adams_jose_pierre",
+     "source": "r",
+     "lines": [
+      6872
+     ],
+     "quote": "grandson, who was also named Joseph P. Adams. Since his\ngrandson also adopted the name Jose"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Brothers James Casper of Colorado, John W. of Marceline, MO, and A.W. of Kansas City, KS.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6879
+     ],
+     "quote": "he has three male siblings:\nJames Casper of Colorado, John W. of Marceline, MO, and A.W. of\nKansas City, KS."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1863",
+     "place": "Larned, Kansas",
+     "value": "As a boy during the Civil War he left unsettled Missouri in 1863, went to St. Joe and Leavenworth, and hired on as a driver of a six-yoke ox team to Santa Fe. At Larned, Kansas, Comanches attacked the camp, fought all afternoon, killed the wagon master and took the oxen; government troops from the Larned post rescued the party the next day.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6898
+     ],
+     "quote": "so in 1863 he went to St. Joe by railroad and\nthere took the stage to Leavenworth, where he hired as a\ndriver of a six-yoke ox-team"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "Denver, Colorado",
+     "value": "Engaged in business in Denver as a commission merchant.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6917
+     ],
+     "quote": "where he is engaged in business as a commission\nmerchant."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "Corona, on Kiowa Creek, sixty miles east of Denver, Colorado",
+     "value": "Owned a ranch at Corona raising cattle and horses.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6919
+     ],
+     "quote": "He also owns a ranch at Corona, sixty miles\neast of Denver, on the Kiowa Creek"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Douglas County, Colorado",
+     "value": "Served as Douglas County commissioner for two three-year terms, re-elected chairman each year.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6921
+     ],
+     "quote": "While in Douglas County he\nserved as county commissioner for two terms of three\nyears each"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "Jul 1863",
+     "place": "Arkansas River, Fort Lyons, Pueblo, Denver",
+     "value": "After the Larned encounter, drove a six-mule train up the Arkansas River to Fort Lyons, Pueblo and Denver, first seeing Denver in July 1863.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6965
+     ],
+     "quote": "subject secured employment as driver of a"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Julesburg to Fort Morgan",
+     "value": "Worked six months as a stage driver from Julesburg to Fort Morgan, then eighteen months freighting.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6971
+     ],
+     "quote": "For six months he was employed as a stage driver from\nJulesburg to Fort Morgan, and afterward for eighteen\nmonths engaged in freighting."
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "Nebraska City, Nebraska",
+     "value": "Attended school in Nebraska City for a few months, then spent a year on the home farm.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6973
+     ],
+     "quote": "He then went to Nebraska\nCity, where he attended school a few months"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Castle Rock, Colorado",
+     "value": "For fourteen years a member of the firm of Adams & Green at Castle Rock.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6984
+     ],
+     "quote": "For\nfourteen years he was a member of the firm of Adams &\nGreen at Castle Rock."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Douglas County, Colorado",
+     "value": "Active in securing removal of the Douglas County seat from Frenchtown to Castle Rock.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6989
+     ],
+     "quote": "he was active in securing the removal of\nthe county seat from Frenchtown to Castle Rock."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Colorado",
+     "value": "Active in the Democratic party; member of the state central committee and delegate to state conventions.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6991
+     ],
+     "quote": "He has\nbeen active in the Democratic party and has been a\nmember of the state central committee"
+    }
+   ]
+  },
+  "pugh_alexander": {
+   "name": "Alexander Pugh",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Loudoun County, VA to Missouri",
+     "value": "Moved in early days from Loudoun County, VA to Missouri",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4355
+     ],
+     "quote": "who removed in early days from"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Loudoun County, Virginia; Missouri",
+     "value": "Moved in early days from Loudoun (source: Louden) County, Virginia, to Missouri.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6977
+     ],
+     "quote": "who removed in early days from Louden County, Va., to\nMissouri."
+    }
+   ]
+  },
+  "adams_missouri": {
+   "name": "Missouri Adams (Hall)",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "10 Apr 1873",
+     "place": "Chariton County, MO",
+     "value": "Married David R Hall",
+     "related": "hall_david_r",
+     "source": "a",
+     "lines": [
+      4397
+     ],
+     "quote": "Missouri ADAMS and David R HALL were married on 10 Apr 1873 in Chariton County, MO."
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "10 Apr 1873",
+     "place": "Chariton County, MO",
+     "value": "Married David R Hall on 10 Apr 1873 in Chariton County, MO",
+     "related": "hall_david_r",
+     "source": "a",
+     "lines": [
+      4397
+     ],
+     "quote": "Missouri ADAMS and David R HALL were married on 10 Apr 1873 in Chariton County, MO."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1860",
+     "place": null,
+     "value": "Listed as Matilda in 1850; by 1860 known as Missouri, a name she kept for the rest of her life.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6608
+     ],
+     "quote": "Matilda is now\nknown as Missouri, a name she keeps for the rest of her life."
+    }
+   ]
+  },
+  "hall_david_r": {
+   "name": "David R. Hall",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "10 Apr 1873",
+     "place": "Chariton County, MO",
+     "value": "Married Missouri Adams",
+     "related": "adams_missouri",
+     "source": "a",
+     "lines": [
+      4397,
+      4397
+     ],
+     "quote": "Missouri ADAMS and David R HALL were married on 10 Apr 1873"
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "Jun 1842",
+     "place": "Virginia",
+     "value": "Born Jun 1842 in Virginia",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4398,
+      4398
+     ],
+     "quote": "HALL was born in Jun 1842 in Virginia."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1842",
+     "place": null,
+     "value": "Born 1842 (index lifespan; page 9)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5835
+     ],
+     "quote": "David R (1842— )...9"
+    }
+   ]
+  },
+  "adams_harriett_e": {
+   "name": "Harriett E Adams",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "5 May 1910",
+     "place": "Franktown, Douglas County, CO",
+     "value": "1910 census, living with her sister Virginia",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4401
+     ],
+     "quote": "She appeared in the census on 5 May 1910 in"
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": "1933",
+     "place": "Cedar Hill Cemetery, Douglas County, CO",
+     "value": "Buried at Cedar Hill Cemetery",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4405
+     ],
+     "quote": "Hattie was buried in 1933 at Cedar Hill Cemetery in Douglas County,"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "5 May 1910",
+     "place": "Franktown, Douglas County, CO",
+     "value": "Appeared in the 1910 census in Franktown, living with her sister Virginia",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4401
+     ],
+     "quote": "She appeared in the census on 5 May 1910 in Franktown, Douglas County, CO. Listed living with her sister, Virginia."
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": "1933",
+     "place": "Cedar Hill Cemetery, Douglas County, CO",
+     "value": "Buried 1933 at Cedar Hill Cemetery, Douglas County, CO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4405
+     ],
+     "quote": "Hattie was buried in 1933 at Cedar Hill Cemetery in Douglas County,"
+    }
+   ]
+  },
+  "adams_james_casper": {
+   "name": "James Casper Adams",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "26 Feb 1888",
+     "place": "Douglas County, CO",
+     "value": "Married Adela J Kaempfer",
+     "related": "kaempfer_adela",
+     "source": "a",
+     "lines": [
+      4105
+     ],
+     "quote": "married Adela J KAEMPFER,"
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "1922",
+     "place": "Douglas County, CO",
+     "value": "Died 1922",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4106
+     ],
+     "quote": "died 1922, Douglas County, CO."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "Douglas County, CO",
+     "value": "Cattleman in Douglas County, Colorado (per 1898 biography)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4344
+     ],
+     "quote": "James Casper is a cattleman in Douglas County, Colo."
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "1922",
+     "place": "Douglas County, CO",
+     "value": "Died 1922 aged 67 in Douglas County, CO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4414
+     ],
+     "quote": "He died in 1922 at the age of 67 in Douglas"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "26 Feb 1888",
+     "place": "Douglas County, CO",
+     "value": "Married Adela J Kaempfer on 26 Feb 1888 in Douglas County, CO (obituary says at Rock Ridge, Colorado)",
+     "related": "kaempfer_adela",
+     "source": "a",
+     "lines": [
+      4419
+     ],
+     "quote": "James Casper ADAMS and Adela J KAEMPFER were married on 26 Feb 1888 in Douglas County, CO."
+    },
+    {
+     "kind": "divorce",
+     "class": "new",
+     "date": "1898",
+     "place": "Castle Rock, Douglas County, CO",
+     "value": "Divorced from Adela J Kaempfer in 1898 in Castle Rock, CO",
+     "related": "kaempfer_adela",
+     "source": "a",
+     "lines": [
+      4420
+     ],
+     "quote": "were divorced in 1898 in Castle Rock, Douglas County, CO."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1898",
+     "place": "Douglas County, Colorado",
+     "value": "DPBR: James Casper is a cattleman in Douglas County, Colorado.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6959
+     ],
+     "quote": "James Casper is a\ncattleman in Douglas County, Colo."
+    }
+   ]
+  },
+  "kaempfer_adela": {
+   "name": "Adela J. Kaempfer (Adams)",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "26 Feb 1888",
+     "place": "Douglas County, CO",
+     "value": "Married James Casper Adams",
+     "related": "adams_james_casper",
+     "source": "a",
+     "lines": [
+      4105
+     ],
+     "quote": "married Adela J KAEMPFER,"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "26 Feb 1888",
+     "place": "Rock Ridge, Colorado",
+     "value": "Married James C. Adams on February 26, 1888",
+     "related": "adams_james_casper",
+     "source": "a",
+     "lines": [
+      4434
+     ],
+     "quote": "where she was united in marriage to James C. Adams on February 26, 1888."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Five children were born to the marriage, four surviving her in 1941: Minnie F. Seeley (Sturgis, SD), Ethel E. Mead (Castle Rock, CO), Reda F. Olsen and Frank M. Adams (Denver, CO)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4435
+     ],
+     "quote": "five children were born of which four survive, Minnie F. Seeley, of Sturgis, South Dakota; Ethel E. Mead, of"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Sisters Emma E. Ingersoll of Denver and Minnie C. Sturdevant of Castle Rock, and brother A. C. G. Kaempfer of Bridgeport, Nebraska survived her; also seven grandchildren and four great-grandchildren",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4437
+     ],
+     "quote": "Emma E. Ingersoll of Denver and Minnie C. Sturdevant of Castle Rock; and a brother A. C. G. Kaempfer of"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Castle Rock, CO",
+     "value": "Lived forty-one years in Castle Rock",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4442
+     ],
+     "quote": "Mrs. Adams lived forty-one years in Castle Rock"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Her obituary describes her as quiet and retiring but with many friends, a kind and loving mother devoted to her children.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4442
+     ],
+     "quote": "although she was quiet and retiring, she made many"
+    },
+    {
+     "kind": "religion",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Never affiliated with a church in Castle Rock but described as deeply religious",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4445
+     ],
+     "quote": "Although Mrs. Adams had never affiliated with a church, while in Castle Rock, she was deeply religious"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "Oct 1941",
+     "place": "Andrew Funeral Home",
+     "value": "Funeral at the Andrew Funeral Home, Rev. William J. Wilcox officiating (obituary from the Record Journal of Douglas County, October 1941)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4449
+     ],
+     "quote": "Funeral services were held at the Andrew Funeral Home last Friday afternoon. Rev. William J. Wilcox"
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Castle Rock, CO",
+     "value": "Buried at Cedar Hill(s) Cemetery in Castle Rock, CO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4450
+     ],
+     "quote": "She was buried at Cedar Hills Cemetery in Castle"
+    }
+   ]
+  },
+  "adams_alberta": {
+   "name": "Alberta Adams (Allen)",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Marceline, MO",
+     "value": "The preparer concludes Alberta (Adams) Allen became matriarch of the Adams family and made sure family members were buried in Marceline.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4182
+     ],
+     "quote": "is becoming clear the Alberta (Adams) Allen became the matriarch of the Adams family and"
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, MO",
+     "value": "Buried at Mt. Olivet Cemetery, Marceline, MO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4486
+     ],
+     "quote": "She was buried at Mt. Olivet Cemetery in Marceline,"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Photo caption 'Alberta Adams Allen'; also pictured with her husband in a caption 'George J. & Alberta Allen'",
+     "related": "allen_george_julius",
+     "source": "c",
+     "lines": [
+      6028
+     ],
+     "quote": "Alberta Adams Allen"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1920",
+     "place": "Benton County, Arkansas",
+     "value": "Informant who signed her father John W. Adams's death certificate. She stated his father George was born in Ohio, which the author believes was a mistake.",
+     "related": "adams_john_wesley",
+     "source": "r",
+     "lines": [
+      7358
+     ],
+     "quote": "Alberta Allen mistakenly stated on John W. Adams' (her father's) death certificate that his father, George Adams, had been born in Ohio"
+    }
+   ]
+  },
+  "adams_george_francis_2": {
+   "name": "George Francis Adams (#2)",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "7 Jan 1909",
+     "place": "Lewis County, WA",
+     "value": "Married Serena Marie Nevada Trumbo",
+     "related": "trumbo_serena_marie",
+     "source": "a",
+     "lines": [
+      4198
+     ],
+     "quote": "married Serena Marie"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "2 Jun 1898",
+     "place": "Denver, Arapahoe County, CO",
+     "value": "Served in the military on 2 Jun 1898 in Denver, CO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4675
+     ],
+     "quote": "He served in the military on 2 Jun 1898 in Denver,"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1908",
+     "place": "Pullman, WA",
+     "value": "Graduated from Washington State University with a degree in Pharmacy in 1908",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4679
+     ],
+     "quote": "He graduated from Washington State University with a"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "16 Apr 1910",
+     "place": "Umpqua, Douglas County, OR",
+     "value": "In the 1910 census in Umpqua, Douglas County, OR",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4680
+     ],
+     "quote": "He appeared in the census on 16 Apr"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1920",
+     "place": "Oregon",
+     "value": "He died of influenza at the tail end of the flu pandemic, which lingered for about three years and reached isolated areas such as rural Oregon.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4690
+     ],
+     "quote": "George Francis Adams died of influenza at the very end of the 1917 pandemic."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Sutherlin, Oregon",
+     "value": "Owner of the Adams Drug Store in Sutherlin, Oregon; described as one of the best known citizens of Douglas County (Journal of the National Association of Retail Druggists, 26 Feb 1920)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4696
+     ],
+     "quote": "\"George F Adams owner of the Adams Drug Store at Southerlin Oregon died from influenza-pneumonia on"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1920",
+     "place": null,
+     "value": "Survived by his widow and three children",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4697
+     ],
+     "quote": "He"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "7 Jan 1909",
+     "place": "Lewis County, WA",
+     "value": "Married Serena Marie Nevada Trumbo on 7 Jan 1909 in Lewis County, WA",
+     "related": "trumbo_serena_marie",
+     "source": "a",
+     "lines": [
+      4700,
+      3720
+     ],
+     "quote": "George Francis ADAMS and Serena Marie Nevada TRUMBO were married on 7 Jan 1909 in Lewis County,"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "abt 1919",
+     "place": null,
+     "value": "Pictured in a family photograph c. 1919 with Serena, Edith, George Jr. and Presley Adams",
+     "related": "trumbo_serena_marie",
+     "source": "c",
+     "lines": [
+      6079
+     ],
+     "quote": "George F., Serena, Edith, George Jr., Presley Adams c. 1919"
+    },
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": "Missouri",
+     "value": "Born in Missouri ('there').",
+     "related": null,
+     "source": "l",
+     "lines": [
+      2915
+     ],
+     "quote": "think it was Marion, MO) from WV. It is possible that Jos. moved there with his family. George II, our grandpa, was born"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Roseburg, OR",
+     "value": "Apparently travelled west by wagon train and settled in Roseburg, OR.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      2916
+     ],
+     "quote": "there and apparently travelled by wagon train eventually settling in Roseburg, OR. He married Serena Trumbo and the"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "2 Jun 1898",
+     "place": "Denver, Arapahoe County, CO",
+     "value": "Military service entry dated 2 Jun 1898, Denver, Arapahoe County, CO.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      3707
+     ],
+     "quote": "Military 2 Jun 1898 Denver, Arapahoe County, CO? |"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1908",
+     "place": "Pullman, WA",
+     "value": "Pharmacy degree from Washington State University, Pullman, WA, 1908.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      3711
+     ],
+     "quote": "Education 1908 Washington State University with a degree in Pharmacy; Pullman, WA |"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "16 Apr 1910",
+     "place": "Umpqua, Douglas County, OR",
+     "value": "1910 census: Umpqua, Douglas County, OR.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      3713
+     ],
+     "quote": "‘Census 16 Apr 1910 Umpqua, Douglas County, OR _"
+    }
+   ]
+  },
+  "trumbo_serena_marie": {
+   "name": "Serena Marie Nevada Trumbo",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "7 Jan 1909",
+     "place": "Lewis County, WA",
+     "value": "Married George Francis Adams",
+     "related": "adams_george_francis_2",
+     "source": "a",
+     "lines": [
+      4199,
+      4700
+     ],
+     "quote": "Nevada TRUMBO, 7 Jan 1909, Lewis County, WA;"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "abt 1919",
+     "place": null,
+     "value": "Pictured in a family photograph c. 1919 with George F., Edith, George Jr. and Presley Adams",
+     "related": "adams_george_francis_2",
+     "source": "c",
+     "lines": [
+      6079
+     ],
+     "quote": "George F., Serena, Edith, George Jr., Presley Adams c. 1919"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "7 Jan 1909",
+     "place": "Lewis County, WA",
+     "value": "Married George Francis Adams (George II). The letter names her as Serena Trumbo; the chart gives the date 7 Jan 1909, Lewis County, WA.",
+     "related": "adams_george_francis_2",
+     "source": "l",
+     "lines": [
+      2916
+     ],
+     "quote": "there and apparently travelled by wagon train eventually settling in Roseburg, OR. He married Serena Trumbo and the"
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "abt 1929",
+     "place": "San Francisco, CA",
+     "value": "Second husband: Arthur T Wells, married about 1929 in San Francisco, CA.",
+     "related": "wells_arthur",
+     "source": "l",
+     "lines": [
+      3734
+     ],
+     "quote": "‘Marriage abt 1929 San Francisco, CA :"
+    }
+   ]
+  },
+  "allen_george_julius": {
+   "name": "George Julius Allen",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "Sep 1953",
+     "place": "First Baptist church, Marceline, MO",
+     "value": "Funeral at the First Baptist church in Marceline conducted by Rev. Ray Barnes (Marceline Herald, 10 Sept. 1953)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4500
+     ],
+     "quote": "Funeral services for George J. Allen, 88 years old, a former well-known Marceline"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Kansas; Marceline, MO",
+     "value": "Family moved to Kansas when he was a small boy, where he grew up; after college the family moved to Marceline",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4523
+     ],
+     "quote": "When he was a small boy, the family moved to Kansas where he grew to manhood."
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "Ottawa University",
+     "value": "Graduated from Ottawa University",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4524
+     ],
+     "quote": "He was graduated from Ottowa university"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Colorado",
+     "value": "Because of ill health he moved his family to Colorado by covered wagon a few years after marrying; he once drove a stage coach between Beulah and Pueblo, and the family later returned to Marceline by covered wagon.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4527
+     ],
+     "quote": "At one time, Mr. Allen was a stage coach driver from Beulah to Pueblo, Colo."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Beulah to Pueblo, CO",
+     "value": "Stage coach driver",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4528
+     ],
+     "quote": "Mr. Allen was a stage coach driver from Beulah to Pueblo, Colo."
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Survived by daughter Mrs. Harold E. Billingslea (Bernice) and sons George P., Marion L. (Fay), Prof. Ralph K. and Rev. Leroy Allen; 13 grandchildren and 6 great-grandchildren",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4542
+     ],
+     "quote": "Mr. Allen leaves a daughter, Mrs. Harold E. Billingslea, Amarillo, Texas, four sons, George P. Allen, San"
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Preceded in death by sons William Allen and Henry Eisley Allen and daughters Helen Lorraine Allen and Mrs. Frances Charters",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4545
+     ],
+     "quote": "was preceded in death by his wife; two sons, William Allen, and Henry Eisley Allen; and two daughters, Helen"
+    },
+    {
+     "kind": "religion",
+     "class": "new",
+     "date": "Apr 1888",
+     "place": "Marceline, MO",
+     "value": "With his father organized the First Baptist church in Marceline in April 1888; two of its seven charter members",
+     "related": "allen_george_philemon",
+     "source": "a",
+     "lines": [
+      4548
+     ],
+     "quote": "Mr. Allen and his father organized the First Baptist church here in April, 1888."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1906",
+     "place": "Marceline, MO",
+     "value": "Built the large business building (later housing the Allen hotel, Murray's store and the Home Improvement Company) in 1906",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4552
+     ],
+     "quote": "In 1906, Mr. Allen built the large business building which now houses the Allen hotel"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Marceline, MO",
+     "value": "Owned and operated a bank with his father; also in the real estate and implement business",
+     "related": "allen_george_philemon",
+     "source": "a",
+     "lines": [
+      4556
+     ],
+     "quote": "Mr. Allen and his father owned and operated a bank in a building on the present site of the Masonic temple."
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Mt. Olivet Cemetery, Marceline, Linn County, MO",
+     "value": "Buried at Mt. Olivet Cemetery, Marceline",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4559
+     ],
+     "quote": "He was buried at Mt. Olivet Cemetery in Marceline, Linn County, MO."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "abt 1868",
+     "place": null,
+     "value": "Photograph of him captioned c. 1868",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6090
+     ],
+     "quote": "George Julius Allen, c.1868"
+    }
+   ]
+  },
+  "adams_caleb_martin": {
+   "name": "Caleb Martin Adams",
+   "facts": [
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Worked as a livestock trader",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4791
+     ],
+     "quote": "Caleb worked as a livestock trader."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "15 Nov 1951",
+     "place": "Kansas City, Missouri",
+     "value": "He was killed in a car accident in Kansas City.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4791
+     ],
+     "quote": "He was killed in a car accident on 15 Nov 1951 in"
+    }
+   ]
+  },
+  "allen_george_philemon": {
+   "name": "George Philemon Allen",
+   "facts": [
+    {
+     "kind": "religion",
+     "class": "new",
+     "date": "Apr 1888",
+     "place": "Marceline, MO",
+     "value": "Co-organizer and charter member of the First Baptist church in Marceline",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4548
+     ],
+     "quote": "Mr. Allen and his father organized the First Baptist church here in April, 1888."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Marceline, MO",
+     "value": "Owned and operated a bank with his son",
+     "related": "allen_george_julius",
+     "source": "a",
+     "lines": [
+      4556
+     ],
+     "quote": "Mr. Allen and his father owned and operated a bank"
+    }
+   ]
+  },
+  "spring_juliaetta": {
+   "name": "Juliaetta A. Spring",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1836",
+     "place": null,
+     "value": "Born 1836 (index lifespan; page 11)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5978
+     ],
+     "quote": "Juliaetta A. (1836-1865)... 11"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1865",
+     "place": null,
+     "value": "Died 1865 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5978
+     ],
+     "quote": "Juliaetta A. (1836-1865)... 11"
+    }
+   ]
+  },
+  "allen_frances_rosetta": {
+   "name": "Frances Rosetta Allen (Charters)",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "12 Sep 1918",
+     "place": "Ashton, Lee County, IL",
+     "value": "Married John Dixon Charters on 12 Sep 1918 in Ashton, IL",
+     "related": "charters_john_dixon",
+     "source": "a",
+     "lines": [
+      4563
+     ],
+     "quote": "married John Dixon CHARTERS, 12 Sep 1918, Ashton, Lee County, IL;"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "St. Louis, MO; Marceline, MO",
+     "value": "Attended the Marceline public schools and later Central High School in St. Louis",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4893
+     ],
+     "quote": "the Central high school in St. Louis this term"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "St. Louis, MO",
+     "value": "A Marceline Herald item ('Bright Marceline Girl') reported that at Central High School in St. Louis she passed most grades without examination and was one of six students chosen to have their work exhibited at the Jamestown exposition.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4896
+     ],
+     "quote": "being chosen as one of six whose work, papers, etc., will be placed on exhibitition at the Jamestown exposition."
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "12 Sep 1918",
+     "place": "Ashton, Lee County, IL",
+     "value": "Married John Dixon Charters",
+     "related": "charters_john_dixon",
+     "source": "a",
+     "lines": [
+      4899
+     ],
+     "quote": "Frances Rosetta ALLEN and John Dixon CHARTERS were married on 12 Sep 1918 in Ashton, Lee County,"
+    }
+   ]
+  },
+  "charters_john_dixon": {
+   "name": "John Dixon Charters",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "12 Sep 1918",
+     "place": "Ashton, Lee County, IL",
+     "value": "Married Frances Rosetta Allen",
+     "related": "allen_frances_rosetta",
+     "source": "a",
+     "lines": [
+      4563
+     ],
+     "quote": "married John Dixon CHARTERS, 12 Sep 1918, Ashton, Lee County, IL;"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1953",
+     "place": "Ashton, IL",
+     "value": "Of Ashton, Illinois, when he attended George J. Allen's funeral in 1953",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4519
+     ],
+     "quote": "John D. Charters, Ashton, IlJ.,"
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "26 Feb 1882",
+     "place": "Dixon, Lee County, IL",
+     "value": "Born 26 Feb 1882 in Dixon, Illinois",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4901
+     ],
+     "quote": "Feb 1882 in Dixon, Lee County, IL."
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "7 Feb 1957",
+     "place": "Rochelle, Ogle County, IL",
+     "value": "Died 7 Feb 1957 aged 74 in Rochelle, Illinois",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4901
+     ],
+     "quote": "He died on 7 Feb 1957 at the age of 74 in Rochelle, Ogle County, IL."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1882",
+     "place": null,
+     "value": "Born 1882 (index lifespan; page 19)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5781
+     ],
+     "quote": "John Dixon (1882-1957) .. . 19"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1957",
+     "place": null,
+     "value": "Died 1957 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5781
+     ],
+     "quote": "John Dixon (1882-1957) .. . 19"
+    }
+   ]
+  },
+  "allen_bernice": {
+   "name": "Bernice Allen",
+   "facts": [
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "30 Nov 1989",
+     "place": "Gig Harbor, Pierce County, WA",
+     "value": "Died 30 Nov 1989 in Gig Harbor, WA",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4569
+     ],
+     "quote": "died 30 Nov 1989, Gig Harbor, Pierce County, WA."
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "30 Nov 1989",
+     "place": "Gig Harbor, Pierce County, WA",
+     "value": "Died 30 Nov 1989 aged 98 in Gig Harbor, Washington",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4908
+     ],
+     "quote": "She died on 30 Nov 1989 at the ) age of 98 in Gig Harbor, Pierce County, WA."
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Llano Cemetery, Amarillo, TX",
+     "value": "Buried in Llano Cemetery, Amarillo, Texas",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4909
+     ],
+     "quote": "She was buried at Amarillo, TX in Llano Cemetery."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Photo caption gives her married surname Billingslea",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6184
+     ],
+     "quote": "Bernice Allen Billingslea"
+    }
+   ]
+  },
+  "allen_george_philip": {
+   "name": "George Philip Allen",
+   "facts": [
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "3 Dec 1917",
+     "place": "St. Louis, MO",
+     "value": "Joined the US Navy on 3 Dec 1917 in St. Louis",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4935
+     ],
+     "quote": "He served in the military , joining the US Navy on 3 Dec 1917 in St. Louis,"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": "Killingholme, England",
+     "value": "Served in the US Navy in World War I as an airplane mechanic, stationed at Killingholme, England, at one of the first Navy airbases",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4938
+     ],
+     "quote": "George Philip served in the US Navy during World War I. He was an airplane mechanic and was stationed at Killingholme, England"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Worked as a welder in the early years, following work around during the Great Depression",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4943
+     ],
+     "quote": "In the early years of my father's life, Grandpa was a welder. Going wherever he could find work during the"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Illinois; New Mexico; Colorado",
+     "value": "Family moved around the West and Midwest (Illinois, New Mexico, Colorado) during the Depression",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4944
+     ],
+     "quote": "Great Depression, from Illinois to New Mexico to Colorado, my father's family moved all over the West and"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Pueblo, Colorado",
+     "value": "Worked for the ATSF Railroad, then for the US Postal Service",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4947
+     ],
+     "quote": "Grandpa found work with the ATSF Railroad. He eventually left that line of work and went to work for the US Postal Service."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "The preparer writes that Esther constantly berated him, and that after his son returned from Japan following WWII he left for work one day and never came back.",
+     "related": "anthony_esther_jane",
+     "source": "a",
+     "lines": [
+      4953
+     ],
+     "quote": "Finally, after Dad had returned from Japan, Grandpa just left the house for work and never came back."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "San Mateo, CA",
+     "value": "He met Caroline at a diner on his mail route where she cooked; as the romance grew he began eating breakfast, lunch and even dinner there.",
+     "related": "koenig_anna_caroline",
+     "source": "a",
+     "lines": [
+      4963
+     ],
+     "quote": "The diner was on his mail route, and he had always stopped there for lunch."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Santa Barbara, CA",
+     "value": "The preparer remembers him as a gentle man who loved making things; he spent summer visits of about a month in Santa Barbara doing household repairs and teaching the preparer basic woodworking.",
+     "related": "allen_william_w",
+     "source": "a",
+     "lines": [
+      4984
+     ],
+     "quote": "Most of my memories of him center around his trips to visit us in Santa Barbara."
+    },
+    {
+     "kind": "death",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Died of cancer after fighting it for over five years",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4995
+     ],
+     "quote": "even though I was 19 when he died of cancer. By that time, he had been fighting it for over five years"
+    }
+   ]
+  },
+  "allen_ralph_kenneth": {
+   "name": "Ralph Kenneth Allen",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "18 Aug 1928",
+     "place": "Burton, WA",
+     "value": "Married Zella Campbell Whitman on 18 Aug 1928 in Burton, WA",
+     "related": "whitman_zella_campbell",
+     "source": "a",
+     "lines": [
+      4590
+     ],
+     "quote": "married Zella Campbell WHITMAN, 18 Aug 1928, Burton, WA;"
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "17 Aug 1937",
+     "place": null,
+     "value": "Married Irene Louisa Smith on 17 Aug 1937",
+     "related": "smith_irene_louisa",
+     "source": "a",
+     "lines": [
+      4591
+     ],
+     "quote": "married Irene Louisa SMITH, 17 Aug 1937;"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1953",
+     "place": "Portland, Ore.",
+     "value": "Styled 'Prof.' and living in Portland, Oregon in 1953",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4543
+     ],
+     "quote": "Prof. Ralph K. Allen, Portland, Ore."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "English scholar (his daughter Judith also taught English)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5073
+     ],
+     "quote": "The fact that he was an English scholar never really dawned on me until much later in my life"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "The preparer, who knew him as 'Uncle' Ralph (actually his father's uncle), remembers being fascinated by him: he spoke old (Gaelic) English, could quote Steppenwolf at will, and had a sophisticated air.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5067
+     ],
+     "quote": "Uncle Ralph was always an utter facination to me"
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "18 Aug 1928",
+     "place": "Burton, WA",
+     "value": "Married Zella Campbell 'Peggy' Whitman",
+     "related": "whitman_zella_campbell",
+     "source": "a",
+     "lines": [
+      5079
+     ],
+     "quote": "Ralph Kenneth ALLEN and Zella Campbell \"Peggy\" WHITMAN were married on 18 Aug 1928 in Burton,"
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "17 Aug 1937",
+     "place": null,
+     "value": "Married Irene Louisa Smith",
+     "related": "smith_irene_louisa",
+     "source": "a",
+     "lines": [
+      5085
+     ],
+     "quote": "Ralph Kenneth ALLEN and Irene Louisa SMITH were married on 17 Aug 1937."
+    }
+   ]
+  },
+  "allen_leroy_gaylord": {
+   "name": "Leroy Gaylord Allen",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "3 Jun 1928",
+     "place": null,
+     "value": "Married Gladys Eberhart on 3 Jun 1928",
+     "related": "eberhart_gladys",
+     "source": "a",
+     "lines": [
+      4594
+     ],
+     "quote": "married Gladys EBERHART, 3 Jun 1928;"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1953",
+     "place": "Southington, Conn.",
+     "value": "A reverend (clergyman) living in Southington, Connecticut in 1953",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4518
+     ],
+     "quote": "the Rev. Leroy Allen, Southington, Conn.,"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1933",
+     "place": null,
+     "value": "Graduated from Yale Divinity School in 1933",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5169
+     ],
+     "quote": "Graduated Yale Divinity School, 1933"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Congregational minister for over 37 years",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5169
+     ],
+     "quote": "served as a Congregational Minister for over 37 years."
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "3 Jun 1928",
+     "place": null,
+     "value": "Married Gladys Eberhart",
+     "related": "eberhart_gladys",
+     "source": "a",
+     "lines": [
+      5174
+     ],
+     "quote": "Leroy Gaylord ALLEN and Gladys EBERHART were married on 3 Jun 1928."
+    }
+   ]
+  },
+  "adams_presley": {
+   "name": "Presley Adams",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "15 Apr 1930",
+     "place": "Burlingame, San Mateo County, CA",
+     "value": "Listed in the 1930 census household as a stepchild with surname Adams (sibling of George Francis Adams Sr.)",
+     "related": "george_francis_adams_sr",
+     "source": "a",
+     "lines": [
+      5224
+     ],
+     "quote": "His siblings, Presley and Edith are correctly identified as step-children with last name Adams."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "abt 1919",
+     "place": null,
+     "value": "Pictured in a family photograph c. 1919 with his family",
+     "related": "adams_george_francis_2",
+     "source": "c",
+     "lines": [
+      6079
+     ],
+     "quote": "George F., Serena, Edith, George Jr., Presley Adams c. 1919"
+    }
+   ]
+  },
+  "adams_edith_v": {
+   "name": "Edith V. Adams",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "15 Apr 1930",
+     "place": "Burlingame, San Mateo County, CA",
+     "value": "Listed in the 1930 census household as a stepchild with surname Adams (sibling of George Francis Adams Sr.)",
+     "related": "george_francis_adams_sr",
+     "source": "a",
+     "lines": [
+      5224
+     ],
+     "quote": "His siblings, Presley and Edith are correctly identified as step-children with last name Adams."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "abt 1919",
+     "place": null,
+     "value": "Pictured in a family photograph c. 1919 with her family",
+     "related": "adams_george_francis_2",
+     "source": "c",
+     "lines": [
+      6079
+     ],
+     "quote": "George F., Serena, Edith, George Jr., Presley Adams c. 1919"
+    }
+   ]
+  },
+  "george_francis_adams_sr": {
+   "name": "George Francis Adams Sr.",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "2 Jul 1942",
+     "place": "Franklin County, WA",
+     "value": "Married Beryl Eva Simons on 2 Jul 1942 in Franklin County, WA",
+     "related": "beryl_simons_adams",
+     "source": "a",
+     "lines": [
+      4711,
+      5228,
+      3761
+     ],
+     "quote": "married Beryl Eva SIMONS, 2 Jul 1942, Franklin County, WA;"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "15 Apr 1930",
+     "place": "Burlingame, San Mateo County, CA",
+     "value": "The 1930 census taker wrongly recorded him as George F. Wells, though his relationship to the head of household was correctly given as stepson. His siblings Presley and Edith were correctly listed as stepchildren surnamed Adams.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5223
+     ],
+     "quote": "Cesus enumerator incorrectly lists him as George F. Wells, but lists his relationship to head of household as step-son."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "abt 1919",
+     "place": null,
+     "value": "Pictured as 'George Jr.' in a c. 1919 family photograph with George F., Serena, Edith and Presley",
+     "related": "adams_george_francis_2",
+     "source": "c",
+     "lines": [
+      6079
+     ],
+     "quote": "George F., Serena, Edith, George Jr., Presley Adams c. 1919"
+    }
+   ]
+  },
+  "beryl_simons_adams": {
+   "name": "Beryl Simons Adams",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "2 Jul 1942",
+     "place": "Franklin County, WA",
+     "value": "Married George Francis Adams Sr.",
+     "related": "george_francis_adams_sr",
+     "source": "a",
+     "lines": [
+      4711
+     ],
+     "quote": "married Beryl Eva SIMONS, 2 Jul 1942, Franklin County, WA;"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "2 Jul 1942",
+     "place": "Franklin County, WA",
+     "value": "Married George Francis Adams Sr. on 2 Jul 1942 in Franklin County, WA",
+     "related": "george_francis_adams_sr",
+     "source": "a",
+     "lines": [
+      5228,
+      3761
+     ],
+     "quote": "George Francis ADAMS Sr. and Beryl Eva SIMONS were married on 2 Jul 1942 in Franklin County, WA."
+    },
+    {
+     "kind": "birth",
+     "class": "more_exact",
+     "date": "25 Dec 1919",
+     "place": "Whatcom County, WA",
+     "value": "Born 25 Dec 1919 in Whatcom County, WA",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5229,
+      3552
+     ],
+     "quote": "was born on 25 Dec 1919"
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "1 Aug 1998",
+     "place": "Sacramento, Sacramento County, CA",
+     "value": "Died 1 Aug 1998 at age 78 in Sacramento, Sacramento County, CA",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5230
+     ],
+     "quote": "She died on 1 Aug 1998 at the age of 78 in Sacramento, Sacramento County, CA."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Middle name given as Eva (Beryl Eva Simons)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5965
+     ],
+     "quote": "SIMONS Beryl Eva (1919-1998) . . . 25"
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "1 Aug 1998",
+     "place": "Sacramento, Sacramento County, CA",
+     "value": "Died 1 Aug 1998 in Sacramento, Sacramento County, CA.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      3553
+     ],
+     "quote": "Death 1 Aug 1998 | Sacramento, Sacramento Couny,CA"
+    }
+   ]
+  },
+  "anthony_esther_jane": {
+   "name": "Esther Jane Anthony (Allen)",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "The preparer says she wanted a more stable life and was unhappy with the family's modest means; his mother recalled Esther railing at George Philip constantly while she lived with them after WWII.",
+     "related": "allen_george_philip",
+     "source": "a",
+     "lines": [
+      4952
+     ],
+     "quote": "Esther (my grandmother) just railing at him from the moment he got home"
+    }
+   ]
+  },
+  "koenig_anna_caroline": {
+   "name": "Anna Caroline Koenig (Winfrey, Allen)",
+   "facts": [
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "San Mateo, CA; Burlingame, CA",
+     "value": "Worked as a short-order cook at a diner in San Mateo, later as a chef at a German restaurant in Burlingame",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4960
+     ],
+     "quote": "first working as a short order cook at a diner in San Mateo, and later a chef at a German restaurant in Burlingame."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Santa Cruz Mountains, CA",
+     "value": "Remembered as an outstanding cook who made memorable breakfasts on a wood-burning stove at the couple's open-air cabin kitchen, and as a warm person who treated the grandchildren as her own.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4967
+     ],
+     "quote": "She was an incredible cook."
+    }
+   ]
+  },
+  "allen_george_homer": {
+   "name": "George Homer Allen",
+   "facts": [
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": "Japan",
+     "value": "Was overseas just after WWII and returned from Japan",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4951
+     ],
+     "quote": "while my father was overseas just after WWII"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Lawyer, described by his son as brilliant",
+     "related": null,
+     "source": "a",
+     "lines": [
+      4981
+     ],
+     "quote": "My father, while an absolutely brilliant lawyer, had very little talent for working with his hands."
+    },
+    {
+     "kind": "divorce",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Divorced from the preparer's mother (Dorothy Ann Wheeler)",
+     "related": "wheeler_dorothy_ann",
+     "source": "a",
+     "lines": [
+      4998
+     ],
+     "quote": "after my parents divorced"
+    },
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "18 Sep 2010",
+     "place": "Sarah House Hospice Center, Santa Barbara, Santa Barbara County, CA",
+     "value": "Died 18 Sep 2010 at age 89 at Sarah House Hospice Center in Santa Barbara, CA",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5310
+     ],
+     "quote": "Waukegan, Lake County, IL. He died on 18 Sep 2010 at the age of 89 at"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1943",
+     "place": "Yale University",
+     "value": "Bachelor of Arts in Government and Political Science from Yale University, 1943 (the obituary below gives 1942)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5313
+     ],
+     "quote": "George graduated from Yale University in 1943 with a Bachelor of Arts"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1949",
+     "place": "Harvard Law School",
+     "value": "Juris Doctor from Harvard Law School, 1949",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5315
+     ],
+     "quote": "_. Harvard Law School in 1949."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Carpinteria, CA",
+     "value": "A 34-year resident of Carpinteria at his death (per Santa Barbara News-Press obituary)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5323
+     ],
+     "quote": "A 34-year resident of Carpinteria, died, with his wife by his side, on September 18, 2010, at age 89, of"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1942",
+     "place": "Yale University",
+     "value": "Attended Yale on a four-year regional scholarship, majored in Government, graduated with Exceptional Distinction in 1942",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5328
+     ],
+     "quote": "He attended Yale University on a four year regional schalorship, where he majored in Government and"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "After graduating enlisted in the U.S. Army Air Force; attended Air Force OCS in Florida; served in the 3rd Fighter Command; attended the School for Military Government (University of Virginia) and the Civil Affairs Training School (University of Michigan)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5329
+     ],
+     "quote": "After graduation, he enlisted in the U.S. Army Air Force."
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1945",
+     "place": "Akita, Japan",
+     "value": "After the Japanese surrender in 1945 he spent a year in Akita, Japan as a military government officer helping establish postwar democratization",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5332
+     ],
+     "quote": "Following the Japanese surrender in 1945, he spent a year in Akita, Japan as a military government officer,"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1949",
+     "place": "Harvard Law School",
+     "value": "Graduated cum laude from Harvard Law School in 1949",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5335
+     ],
+     "quote": "Upon his return to the U.S., he attended Harvard Law School. He graduated cum laude in 1949."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Los Angeles, CA",
+     "value": "Moved to California and started his law practice in Los Angeles",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5336
+     ],
+     "quote": "to California and started his law practice in Los Angeles."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1952",
+     "place": "Santa Barbara, CA",
+     "value": "Moved to Santa Barbara in 1952 and practiced law, opening his own office in 1962",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5336
+     ],
+     "quote": "In 1952, he moved to Santa Barbara and practiced law"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "A general practitioner who became heavily involved in the planned development of The Hollister Ranch",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5337
+     ],
+     "quote": "Although a general practitioner, he became heavily involve in the planned"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Point Conception, CA",
+     "value": "Led a long and successful effort to defeat the proposed LNG facility at Point Conception.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5344
+     ],
+     "quote": "He led a protracted and successful effort to defeat the LNG facility at Point"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1980",
+     "place": null,
+     "value": "Founded the law firm of Allen and Kimbell in 1980",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5345
+     ],
+     "quote": "In 1980, he founded the firm of Allen and Kimbell."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Montecito, CA",
+     "value": "Officer and/or director of charitable organizations, including two terms as president of the Montecito Protective Association",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5347
+     ],
+     "quote": "He served as an officer and/or director of various charitable organizations, including two terms as president of"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1960s",
+     "place": "Montecito, CA",
+     "value": "He led Montecito's first attempt at incorporation in the 1960s. He received the most votes in the election and would have been the city's first mayor had incorporation passed.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5348
+     ],
+     "quote": "He spearheaded Montecito's first effort at incorporation in the 1960's."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1980s",
+     "place": null,
+     "value": "His interests were reading, gardening and travel. In the 1980s he and his wife spent a year travelling 17,000 miles through the U.S. and Canada in their motor home.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5352
+     ],
+     "quote": "His interests included reading, gardening and travel."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "2010",
+     "place": null,
+     "value": "Survived by five children from his first marriage, two grandchildren and one great-grandchild",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5355
+     ],
+     "quote": "five children from"
+    },
+    {
+     "kind": "military",
+     "class": "new",
+     "date": "1944",
+     "place": "Sarasota, Florida",
+     "value": "Lieutenant in the administration division of the Third Air Force, stationed at Sarasota, Florida",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6279
+     ],
+     "quote": "Lt. and Mrs. Allen have gone to Sarasoto, Flo., where he is with the administration division of the Third Air Force,"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1942",
+     "place": "Yale University",
+     "value": "Graduated from Yale University in 1942 with Phi Beta Kappa honors; majored in political science and was a member of the University Debate Association",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6416
+     ],
+     "quote": "Lt. Allen graduated from Yale university in 1942 with Phi Beta Kappa honors, He majored in political sclence"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1944",
+     "place": "Sarasota, Florida",
+     "value": "He and his wife were to live in Sarasota, Florida",
+     "related": "wheeler_dorothy_ann",
+     "source": "c",
+     "lines": [
+      6421
+     ],
+     "quote": "The couple will reside in| Sarasota, Florida"
+    }
+   ]
+  },
+  "wheeler_dorothy_ann": {
+   "name": "Dorothy Ann Wheeler (Allen)",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Lived with George Philip and Esther Allen while her husband was overseas just after WWII",
+     "related": "allen_george_philip",
+     "source": "a",
+     "lines": [
+      4951
+     ],
+     "quote": "My mother remembers living with them while my father was overseas just after WWII."
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Children Wendy Ann, Susan Elizabeth, William Wheeler, Anthony Adams and Brooks Beatty Allen",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5371
+     ],
+     "quote": "George Homer ALLEN and Dorothy Ann WHEELER had the following children:"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "9 May 1944",
+     "place": null,
+     "value": "Date shown on the wedding clipping page",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6287
+     ],
+     "quote": "Tuesday, May 9, 1944."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1944",
+     "place": null,
+     "value": "Talented young musician who had played the organ at many weddings",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6306
+     ],
+     "quote": "Miss Dorothy Ann Wheeler, talented young musican, has pre- sided at the organ for many a cere- mony"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "May 1944",
+     "place": "Eastman School of Music, Rochester, N.Y.",
+     "value": "Was offered a music scholarship by the Eastman School of Music on the morning of her wedding; she might accept it if Lt. Allen was sent overseas, and planned to continue her musical studies after the war",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6277
+     ],
+     "quote": "A scholarship in music came to the bride on her wed- ding morning from the Eastman School of Music ot Rochester, N. Y."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "May 1944",
+     "place": null,
+     "value": "She won a scholarship and became a bride on the same day. She had often played the organ at other people's weddings, but at her own someone else played, and she wore the veil her mother had worn at her wedding.",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6273
+     ],
+     "quote": "WINNING A SCHOLARSHIP and becoming a bride the same day was the thrilling experience of pretty Dorothy Ann Wheeler"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1944",
+     "place": "Sarasota, Florida",
+     "value": "After the wedding the couple went to Sarasota, Florida, to live where Lt. Allen served",
+     "related": "allen_george_homer",
+     "source": "c",
+     "lines": [
+      6421
+     ],
+     "quote": "The couple will reside in| Sarasota, Florida where Lt. Allen is| in the administration division of the Third Air Force."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Photo caption: Dorothy Ann Wheeler at age 2",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6433
+     ],
+     "quote": "Dorothy Ann Wheeler, age 2"
+    }
+   ]
+  },
+  "allen_william_w": {
+   "name": "William W. Allen",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Says he shares his grandfather's love of making things and learned basic woodworking from him; was 19 when his grandfather died.",
+     "related": "allen_george_philip",
+     "source": "a",
+     "lines": [
+      4981
+     ],
+     "quote": "Grandpa and I loved making things, and I still do."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": "Moorpark, CA",
+     "value": "During his parents' marital troubles, his cousin Judith Allen acted as a second mother; he would drive to her place in Moorpark and stay a day or two.",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5100
+     ],
+     "quote": "having their difficulties, she was my second Mom."
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1974",
+     "place": "Santa Barbara City College",
+     "value": "Associate of Arts degree from Santa Barbara City College, 1974",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5526
+     ],
+     "quote": "After completing an Associate of Arts degree from Santa Barbara City College in"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Studied photography for several years, including with Ruth Bernhardt, Robert Werling and Michael Smith (names as written)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5527
+     ],
+     "quote": "1974, Bill studied photography for a number of years."
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1987",
+     "place": "Ohio State University",
+     "value": "Returned to school in 1981 for electrical engineering; Bachelor of Science in Electrical Engineering, 1987, Ohio State University",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5531
+     ],
+     "quote": "In 1981, Bill returned to school to study electrical engineering, completing a"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "1990",
+     "place": "Ohio State University",
+     "value": "Master of Science in Electrical Engineering, 1990, Ohio State University",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5532
+     ],
+     "quote": "Bachelor of Science in Electrical Engineering in 1987 and a Master of Science in"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "Feb 2012",
+     "place": null,
+     "value": "Wrote 'Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams of Jefferson County, Virginia', February 2012.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      6516
+     ],
+     "quote": "William W. Allen\nFebruary, 2012"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Describes George Francis Adams (#1) as his great-great-great-grandfather (g3-grandfather).",
+     "related": "adams_george_francis_1",
+     "source": "r",
+     "lines": [
+      6520
+     ],
+     "quote": "my g3-grandfather, has induced me to re-open my research into the"
+    }
+   ]
+  },
+  "whitman_zella_campbell": {
+   "name": "Zella Campbell Whitman",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "28 Jul 1898",
+     "place": "Double Island, China",
+     "value": "Born 28 Jul 1898 in Double Island, China",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5080
+     ],
+     "quote": "WHITMAN was born on 28 Jul 1898 in Double Island, China."
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "4 May 1984",
+     "place": "Portland, Multnomah County, OR",
+     "value": "Died 4 May 1984 aged 85 in Portland, Oregon",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5080
+     ],
+     "quote": "She died on 4 May 1984 at the age of 85 in Portland, Multnomah County, OR."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1898",
+     "place": null,
+     "value": "Born 1898 (index lifespan; page 22)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6016
+     ],
+     "quote": "Zella Campbell (1898-1984) . . . 22"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1984",
+     "place": null,
+     "value": "Died 1984 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6016
+     ],
+     "quote": "Zella Campbell (1898-1984) . . . 22"
+    }
+   ]
+  },
+  "smith_irene_louisa": {
+   "name": "Irene Louisa Smith",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "10 Apr 1907",
+     "place": "Milan, Spokane County, WA",
+     "value": "Born 10 Apr 1907 in Milan, Washington",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5086
+     ],
+     "quote": "was born on 10 Apr 1907 in Milan, Spokane County, WA."
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "Jan 1989",
+     "place": "Lacey, Pierce County, WA",
+     "value": "Died Jan 1989 aged 81 in Lacey, WA (Lacey is in Thurston County; the source says Pierce)",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5086
+     ],
+     "quote": "She died in Jan 1989 at the age of 81 in Lacey, Pierce County, WA."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1907",
+     "place": null,
+     "value": "Born 1907 (index lifespan; page 22)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5969
+     ],
+     "quote": "Irene Louisa (1907-1989) . . . 22"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1989",
+     "place": null,
+     "value": "Died 1989 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5969
+     ],
+     "quote": "Irene Louisa (1907-1989) . . . 22"
+    }
+   ]
+  },
+  "eberhart_gladys": {
+   "name": "Gladys Eberhart",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "6 Mar 1906",
+     "place": null,
+     "value": "Born 6 Mar 1906",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5175
+     ],
+     "quote": "on 6 Mar 1906."
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "3 Jun 1993",
+     "place": "Glendale, CA",
+     "value": "Died 3 Jun 1993 aged 87 in Glendale, California",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5175
+     ],
+     "quote": "She died on 3 Jun 1993 at the age of 87 in Glendale, CA."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1906",
+     "place": null,
+     "value": "Born 1906 (index lifespan; page 24)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5811
+     ],
+     "quote": "Gladys (1906-1993) .. . 24"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1993",
+     "place": null,
+     "value": "Died 1993 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5811
+     ],
+     "quote": "Gladys (1906-1993) .. . 24"
+    }
+   ]
+  },
+  "modine_suzzanne": {
+   "name": "Suzzanne Modine",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "29 Dec 1944",
+     "place": "Grand Rapids, Kent County, MI",
+     "value": "Born 29 Dec 1944 in Grand Rapids, Kent County, MI",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5395
+     ],
+     "quote": "1972 in Las Vegas, NV. Suzanne MODINE was born on 29 Dec 1944 in"
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1944",
+     "place": null,
+     "value": "Born 1944 (index lifespan; page 29)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5908
+     ],
+     "quote": "Suzanne (1944— )...29"
+    }
+   ]
+  },
+  "seavy_jack_frederick": {
+   "name": "Jack Frederick Seavy",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "29 Mar 1925",
+     "place": null,
+     "value": "Born 29 Mar 1925",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5406
+     ],
+     "quote": "was born on 29 Mar 1925."
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Children Jack Frederick Jr, Margaret Ann and Robert Allen Seavy",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5408
+     ],
+     "quote": "Jack Frederick SEAVY and Margaret Jeanice ALLEN had the following children:"
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1925",
+     "place": null,
+     "value": "Born 1925 (index lifespan; page 29)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5943
+     ],
+     "quote": "Jack Frederick (1925— )...29"
+    }
+   ]
+  },
+  "seavy_jack_jr": {
+   "name": "Jack Seavy Jr.",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "29 Mar 1950",
+     "place": "Pueblo, CO",
+     "value": "Born 29 Mar 1950 in Pueblo, CO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5410
+     ],
+     "quote": "i. Jack Frederick SEAVY Jr was born on 29 Mar 1950 in Pueblo, CO."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1950",
+     "place": null,
+     "value": "Born 1950 (index lifespan; page 29)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5945
+     ],
+     "quote": "Jack Frederick Jr (1950-— )...29"
+    }
+   ]
+  },
+  "seavy_margaret_ann": {
+   "name": "Margaret Ann Seavy",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "2 Jan 1952",
+     "place": "Pueblo, CO",
+     "value": "Born 2 Jan 1952 in Pueblo, CO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5411
+     ],
+     "quote": "ii. Margaret Ann SEAVY was born on 2 Jan 1952 in Pueblo, CO."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1952",
+     "place": null,
+     "value": "Born 1952 (index lifespan; page 29)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5947
+     ],
+     "quote": "Margaret Ann (1952— )...29"
+    }
+   ]
+  },
+  "seavy_robert_allen": {
+   "name": "Robert Allen Seavy",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1 May 1953",
+     "place": "Pueblo, CO",
+     "value": "Born 1 May 1953 in Pueblo, CO",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5412
+     ],
+     "quote": "iii. Robert Allen SEAVY was born on 1 May 1953 in Pueblo, CO."
+    },
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1953",
+     "place": null,
+     "value": "Born 1953 (index lifespan; page 29)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5949
+     ],
+     "quote": "Robert Allen (1953— )...29"
+    }
+   ]
+  },
+  "michael_remy": {
+   "name": "Michael Remy",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown in this document",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5440
+     ],
+     "quote": "Michael REMY was born (date unknown)."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under REMY, page 30, no dates",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5935
+     ],
+     "quote": "Michael( — )...30"
+    }
+   ]
+  },
+  "john_howard_adams": {
+   "name": "John Howard Adams",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "2010",
+     "place": null,
+     "value": "In summer 2010 John was about to take a trip and was mainly interested in the family's Scottish connection. His brother George sent him material on Gavin Hamilton and Robert Burns.",
+     "related": "george_francis_adams_jr",
+     "source": "l",
+     "lines": [
+      2921
+     ],
+     "quote": "Scotland connection at this point so good luck, happy hunting, and have a great trip!!"
+    }
+   ]
+  },
+  "barbara_mckeldin_adams": {
+   "name": "Barbara McKeldin Adams",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown in this document",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5445
+     ],
+     "quote": "Barbara MCKELDIN was born (date"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under maiden surname MCKELDIN, page 30, no dates",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5902
+     ],
+     "quote": "MCKELDIN Barbara( — )...30"
+    }
+   ]
+  },
+  "george_francis_adams_jr": {
+   "name": "George Francis Adams Jr.",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "29 Jun 2010",
+     "place": null,
+     "value": "Sent John Adams an email about the family history on 29 Jun 2010, with an attachment about Gavin Hamilton and Robert Burns; he sent follow-up emails on 15 Jul 2010.",
+     "related": "john_howard_adams",
+     "source": "l",
+     "lines": [
+      2893
+     ],
+     "quote": "Sent: Tuesday, June 29, 2010 6:14 PM"
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "He had put the family-history paperwork in a box and could not find it. He promised to dig the documents out during a 'home archeology project'.",
+     "related": null,
+     "source": "l",
+     "lines": [
+      2901
+     ],
+     "quote": "| have looked ad nauseum for the paperwork on the family history. | put it in a box somewhere and have not been able to"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Describes George II (George Francis Adams, husband of Serena Trumbo) as 'our grandpa'.",
+     "related": "adams_george_francis_2",
+     "source": "l",
+     "lines": [
+      2915
+     ],
+     "quote": "George II, our grandpa, was born"
+    }
+   ]
+  },
+  "cynthia_gail_smith": {
+   "name": "Cynthia Gail Smith",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown in this document",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5451
+     ],
+     "quote": "Cynthia Gail SMITH was born (date"
+    },
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Sons George Francis Adams IV and Geoffrey Louis Adams",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5454
+     ],
+     "quote": "George Francis ADAMS and Cynthia Gail SMITH had the following children:"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under SMITH, page 30, no dates",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5968
+     ],
+     "quote": "Cynthia Gail( — )...30"
+    }
+   ]
+  },
+  "george_francis_adams_iv": {
+   "name": "George Francis Adams IV",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown in this document",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5456
+     ],
+     "quote": "i. George Frances ADAMS IV was born (date unknown)."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Named George before his parents learned the family history; his father counted four Georges before him.",
+     "related": "george_francis_adams_jr",
+     "source": "l",
+     "lines": [
+      2918
+     ],
+     "quote": "there were four before he was born!"
+    }
+   ]
+  },
+  "geoffrey_louis_adams": {
+   "name": "Geoffrey Louis Adams",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown in this document",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5457
+     ],
+     "quote": "ii. Geoffry Louis ADAMS was born (date unknown)."
+    }
+   ]
+  },
+  "allen_wendy": {
+   "name": "Wendy Ann Allen",
+   "facts": [
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "University of California at Los Angeles",
+     "value": "Bachelor of Arts in the History of Science from UCLA",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5474
+     ],
+     "quote": "Wendy received a Bachelor of Arts in the History of Science from the University of"
+    }
+   ]
+  },
+  "spangler_clark": {
+   "name": "Clark Spangler",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5485
+     ],
+     "quote": "SPANGLER was born (date unknown)."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under SPANGLER, page 31, no dates",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5975
+     ],
+     "quote": "Clark( — )...31"
+    }
+   ]
+  },
+  "allen_susan": {
+   "name": "Susan Elizabeth Allen",
+   "facts": [
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "California Institute of the Arts, Valencia, CA",
+     "value": "Bachelor of Fine Arts and Master of Fine Arts in Music Performance (Harp) from California Institute of the Arts",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5496
+     ],
+     "quote": "| Susan received a Bachelor of Fine Arts and Master of Fine Arts in Music"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": "1978",
+     "place": "California Institute of the Arts, Valencia, CA",
+     "value": "On the CalArts faculty and staff since 1978; served as Dean of the School of Music",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5500
+     ],
+     "quote": "Susan has been on the faculty and staff there since 1978, and served as Dean"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Harpist who has performed worldwide, including solo performances at Carnegie Recital Hall; specializes in contemporary harp music, has made many ensemble and solo recordings, and has taught harp and other stringed instruments",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5503
+     ],
+     "quote": "Ms. Allen has performed extensively world-wide, including several solo"
+    }
+   ]
+  },
+  "weinstein_jeff": {
+   "name": "Jeff Weinstein",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Birth date unknown",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5511
+     ],
+     "quote": "WEINSTEIN was born (date unknown)."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Listed in Index of Names under WEINSTEIN, page 31, no dates",
+     "related": null,
+     "source": "c",
+     "lines": [
+      6008
+     ],
+     "quote": "Jeff( -— )...31"
+    }
+   ]
+  },
+  "janes_ruth_pamela": {
+   "name": "Ruth Pamela Janes (Allen)",
+   "facts": [
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Seamstress, tailor and pattern-maker for over 40 years",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5539
+     ],
+     "quote": "Ruth has been a seamstress, tailor and pattern-maker for over 40 years."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Started and sold Organics for Massage, an organic cotton manufacturing business making massage linens and accessories",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5540
+     ],
+     "quote": "_ sold an organic cotton manufacturing business, Organics for Massage, specializing in"
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Certified holistic massage therapist and Reiki Master",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5541
+     ],
+     "quote": "organic cotton massage linens and accessories. She is a certified holistic massage"
+    }
+   ]
+  },
+  "allen_anthony": {
+   "name": "Anthony Adams Allen",
+   "facts": [
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "University of Idaho",
+     "value": "Bachelor of Science in Forestry from the University of Idaho",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5549
+     ],
+     "quote": "Tony received a Bachelor of Science in Forestery from the University of Idaho, and a Juris Doctor from the"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "University of Oregon",
+     "value": "Juris Doctor from the University of Oregon",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5550
+     ],
+     "quote": "University of Oregon."
+    }
+   ]
+  },
+  "fonshill_susan_bethany": {
+   "name": "Susan Bethany Fonshill (Allen)",
+   "facts": [
+    {
+     "kind": "child",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Children Guinevere Wheeler and Benjamin Alistair Allen",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5555
+     ],
+     "quote": "Anthony Adams ALLEN and Susan Bethany FONSHILL had the following children:"
+    }
+   ]
+  },
+  "allen_guinevere": {
+   "name": "Guinevere Wheeler Allen",
+   "facts": [
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "2010",
+     "place": "University of California at Berkeley",
+     "value": "Bachelor of Arts in Spanish Literature, spring 2010, UC Berkeley",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5571
+     ],
+     "quote": "» Guin received her Bachelor of Arts in Spanish Literature in"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "2010",
+     "place": "UC Berkeley",
+     "value": "As of the document, working on a PhD in Hispanic Languages and Literatures at UC Berkeley",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5574
+     ],
+     "quote": "Berkeley, and is currently working on a PhD in Hispanic Languages and Literatures at UC"
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "Dec 2010",
+     "place": null,
+     "value": "Received the Una Fellowship in Dec 2010",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5575
+     ],
+     "quote": "Berkeley. In Dec. 2010 she was a recipient of the prestigious Una Fellowship."
+    }
+   ]
+  },
+  "allen_benjamin_alistair": {
+   "name": "Benjamin Alistair Allen",
+   "facts": [
+    {
+     "kind": "education",
+     "class": "new",
+     "date": "2010",
+     "place": "Boise State University",
+     "value": "In 2010 attending Boise State University, majoring in engineering",
+     "related": null,
+     "source": "a",
+     "lines": [
+      5579
+     ],
+     "quote": "Ben is currently (2010) attending Boise State University and majoring in engineering."
+    }
+   ]
+  },
+  "crook_mary": {
+   "name": "Mary Crook",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1818",
+     "place": null,
+     "value": "Born 1818 (index lifespan; page 4)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5793
+     ],
+     "quote": "Mary (1818-1872) ...4"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1872",
+     "place": null,
+     "value": "Died 1872 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5793
+     ],
+     "quote": "Mary (1818-1872) ...4"
+    }
+   ]
+  },
+  "shoush_anna_elizabeth": {
+   "name": "Anna Elizabeth Shoush (Anthony)",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1868",
+     "place": null,
+     "value": "Born 1868 (index lifespan; page 21)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5963
+     ],
+     "quote": "Anna Elizabeth (1868-1950) .. . 21"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1950",
+     "place": null,
+     "value": "Died 1950 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5963
+     ],
+     "quote": "Anna Elizabeth (1868-1950) .. . 21"
+    }
+   ]
+  },
+  "van_tine_abraham": {
+   "name": "Abraham Van Tine",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1815",
+     "place": null,
+     "value": "Born 1815 (index lifespan; page 4)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5999
+     ],
+     "quote": "Abraham (1815-1866)... 4"
+    },
+    {
+     "kind": "death",
+     "class": "gap",
+     "date": "1866",
+     "place": null,
+     "value": "Died 1866 (index lifespan)",
+     "related": null,
+     "source": "c",
+     "lines": [
+      5999
+     ],
+     "quote": "Abraham (1815-1866)... 4"
+    }
+   ]
+  },
+  "wheeler_marjorie": {
+   "name": "Marjorie Wheeler",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "May 1944",
+     "place": null,
+     "value": "Sister of Dorothy Ann Wheeler; matron of honor at her wedding",
+     "related": "wheeler_dorothy_ann",
+     "source": "c",
+     "lines": [
+      6337
+     ],
+     "quote": "Sister Is Attendant Mrs. Charles W. Schlatter (Mar- jorie Wheeler) was the matron of| honor."
+    }
+   ]
+  },
+  "adams_mary_swan": {
+   "name": "Mary Adams (Swan)",
+   "facts": [
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Twin of George; deceased by 1909 per the Gill biography.",
+     "related": "adams_george_francis_1",
+     "source": "r",
+     "lines": [
+      7598
+     ],
+     "quote": "Mary and George, twine, deceased"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Twin of George (Francis Adams #1); child of Jose and Elizabeth",
+     "related": "adams_george_francis_1",
+     "source": "r",
+     "lines": [
+      8313
+     ],
+     "quote": "Magdalena and Mary (George’s twin)"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1850",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Listed as Mary E., age 33, in the Lewis Swan household in the 1850 census",
+     "related": "swan_lewis",
+     "source": "r",
+     "lines": [
+      8336
+     ],
+     "quote": "members: Lewis, age 43; Mary E., age 33;"
+    },
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": "Virginia",
+     "value": "The 1850 census shows she was born in Virginia",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8421
+     ],
+     "quote": "the 1850 census clearly shows Mary was born in Virginia."
+    }
+   ]
+  },
+  "adams_harriet_josephine": {
+   "name": "Harriet Josephine Adams (Gill)",
+   "facts": [
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "8 Mar 1848",
+     "place": null,
+     "value": "Married Stephen A. Gill.",
+     "related": "gill_stephen_augusta",
+     "source": "r",
+     "lines": [
+      7594
+     ],
+     "quote": "On March 8, 1848, he wedded Miss Harriet J. Adams"
+    },
+    {
+     "kind": "birth",
+     "class": "more_exact",
+     "date": "8 Dec 1819",
+     "place": "Virginia",
+     "value": "Born in Virginia.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7596
+     ],
+     "quote": "Harriet J., was born December 8, 1819."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Apparently outlived all her siblings, living past eighty",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8535
+     ],
+     "quote": "Harriet apparently outlived them all, living until she was over eighty."
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Newark, Licking County, Ohio",
+     "value": "Buried with Stephen Gill at Cedar Hill Cemetery",
+     "related": "gill_stephen_augusta",
+     "source": "r",
+     "lines": [
+      8539
+     ],
+     "quote": "phen & Harriet Josephine (Adams) Gill Cedar Hill Cemetery Newark, Licking County, Ohio"
+    }
+   ]
+  },
+  "gill_stephen_augusta": {
+   "name": "Stephen Augusta Gill",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "more_exact",
+     "date": "17 Oct 1822",
+     "place": "Newark, Licking County, Ohio",
+     "value": "Born in Newark, where the family lived on the site of the later Kuster's restaurant.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7573
+     ],
+     "quote": "was born in Newark, October 17, 1822, the family then residing where Kuster's restaurant now stands."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1909",
+     "place": null,
+     "value": "Subject of a biographical sketch in the Centennial History of the City of Newark and Licking County, Ohio (E. M. P. Brister; the scanned title page reads 1908).",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7506
+     ],
+     "quote": "he was the subject of a biographical sketch in 1909, which was published in the \"1909 Centennial History of Newark and Licking County, Ohio'."
+    },
+    {
+     "kind": "education",
+     "class": "new",
+     "date": null,
+     "place": "Newark, Ohio",
+     "value": "Attended the Newark public schools until age twelve.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7586
+     ],
+     "quote": "The boyhood days of Stephen A. Gill were spent in Newark, where he attended the public schools until he reached the age of twelve years"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Union Township, Licking County, Ohio",
+     "value": "At twelve he moved with his parents to a 184-acre farm in Union township.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7587
+     ],
+     "quote": "removed with his parents to a farm of one hundred and eighty-four acres in Union township."
+    },
+    {
+     "kind": "career",
+     "class": "new",
+     "date": null,
+     "place": "Union Township, Licking County, Ohio",
+     "value": "Farmer specialising in sheep breeding and wool growing until 1906.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7589
+     ],
+     "quote": "He engaged in general agricultural pursuits making a specialty of sheep breeding and wool growing, until the year 1906"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1906",
+     "place": "Hebron, Licking County, Ohio",
+     "value": "Retired to Hebron in 1906.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7590
+     ],
+     "quote": "when he removed to Hebron, where he is now living in retirement"
+    },
+    {
+     "kind": "marriage",
+     "class": "more_exact",
+     "date": "8 Mar 1848",
+     "place": null,
+     "value": "Married Miss Harriet J. Adams.",
+     "related": "adams_harriet_josephine",
+     "source": "r",
+     "lines": [
+      7594
+     ],
+     "quote": "On March 8, 1848, he wedded Miss Harriet J. Adams"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Voted Republican in national and state politics.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7604
+     ],
+     "quote": "In his political views Mr. Gill is a republican"
+    },
+    {
+     "kind": "religion",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Faithful member of the Licking Baptist church, where he had been a deacon for the previous five years.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7609
+     ],
+     "quote": "a faithful adherent of the Licking Baptist church, of which he has for the past five years been a deacon."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1850",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "In the 1850 census his household included an Elizabeth Adams, age 67.",
+     "related": "hamilton_elizabeth_eliza",
+     "source": "r",
+     "lines": [
+      7497
+     ],
+     "quote": "living with the Stephen Gill family in Union Township, Licking County, Ohio."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1860",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "A girl named Mary Swan was living with the Gills in the 1860 census.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7820
+     ],
+     "quote": "Also, notice the girl residing with the Gills, Mary Swan."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1880",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "Mary R. Adams was listed as his niece in his household in the 1880 census.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7901
+     ],
+     "quote": "Mary R. Adams turns up in the 1880 census, where else but in the Stephen Gill family, and is listed as a niece!"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1900",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "A Ralph S. Adams was living in the Gill household in the 1900 census.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8059
+     ],
+     "quote": "there is a Ralph S. Adams living in the Gill household as well."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1870",
+     "place": "Etna Township, Licking County, Ohio",
+     "value": "Head of household in the 1870 census",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8516
+     ],
+     "quote": "US Census 1870, Etna Township, Licking County, Ohio, Stephen A. Gill household"
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Newark, Licking County, Ohio",
+     "value": "Buried with Harriet Josephine at Cedar Hill Cemetery",
+     "related": "adams_harriet_josephine",
+     "source": "r",
+     "lines": [
+      8539
+     ],
+     "quote": "phen & Harriet Josephine (Adams) Gill Cedar Hill Cemetery"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Harriet Ray Adams was the informant on his death certificate",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8580
+     ],
+     "quote": "Harriet Adams who was the informant for Stephen Gill’s death certificate."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1889",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "Described in 1889 as an old and prominent citizen of Union Township",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8616
+     ],
+     "quote": "an old and prominent citizen of Union township."
+    }
+   ]
+  },
+  "konitzer_christiana": {
+   "name": "Christiana F. Konitzer",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "new",
+     "date": null,
+     "place": "Saxony, Germany",
+     "value": "Born in Saxony (Germany) per the 1860 census.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      7833
+     ],
+     "quote": "a wife, Christiana, born in Saxony (Germany)"
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "26 May 1851",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Married A. W. Adams.",
+     "related": "adams_alexander_washington",
+     "source": "r",
+     "lines": [
+      7888
+     ],
+     "quote": "Kw W Adams & c F Konitzer Marriage Record, May 26, 1851, Franklin County, Ohio"
+    }
+   ]
+  },
+  "swan_lewis": {
+   "name": "Lewis Swan",
+   "facts": [
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1840",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "1840 census household headed by Lewis Swan(n), three members: male 10-14, male 30-39, female 20-29",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8328
+     ],
+     "quote": "enumerates a household headed by Lewis Swan(n) in Union Township, Licking County, Ohio, with three family members"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1850",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "1850 census household: Lewis 43, Mary E. 33, Horatio M. 23, Melissa 18, Mary Elizabeth 10",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8335
+     ],
+     "quote": "Lewis, age 43; Mary E., age 33; Horatio M., age 23; Melissa, age 18 and Mary Elizabeth, age 10."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "Spent the rest of his life moving between his children's households and the Gills'",
+     "related": null,
+     "source": "r",
+     "lines": [
+      8478
+     ],
+     "quote": "Lewis spends the rest of his life bouncing around between his children’s and the Gills households."
+    }
+   ]
+  },
+  "hamilton_francis": {
+   "name": "Francis Hamilton",
+   "facts": [
+    {
+     "kind": "death",
+     "class": "more_exact",
+     "date": "abt 1802",
+     "place": "Jefferson Co., VA",
+     "value": "Died about 1802 in Jefferson Co., VA",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9170
+     ],
+     "quote": "d. c1802, Jefferson Co., VA"
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": null,
+     "place": "Shepherdstown area, along the Potomac River",
+     "value": "Lived near Shepherdstown; his land lay along the Potomac River",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9174
+     ],
+     "quote": "Francis lived in the area of Shepherdstown, his land situated along the Potomac River."
+    },
+    {
+     "kind": "residence",
+     "class": "new",
+     "date": "1773",
+     "place": "Keeptrist, Berkeley Co., VA (now Jefferson Co., WV)",
+     "value": "Settled at Keeptrist in 1773 and was still there on 19 May 1784; Keeptrist was formerly John Semple's property, site of Keeptrist Furnace on Elk Run",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9175
+     ],
+     "quote": "He lived at Keeptrist, in Berkeley Co., VA (now Jefferson Co., WV) where he settled in 1773, and was there on 19 May 1784."
+    },
+    {
+     "kind": "story",
+     "class": "new",
+     "date": "1777",
+     "place": "Keeptrist",
+     "value": "His brother Alexander fled from Prince George's County to Keeptrist in 1777.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9179
+     ],
+     "quote": "It was here that his brother Alexander fled from Prince George's county in 1777."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": null,
+     "place": "Berkeley Co., VA",
+     "value": "Left a will, but it was recorded in a lost book of Berkeley Co.; heirs are named in the court suit North vs. the heirs of Francis HAMILTON, in brother Alexander's will, and in grandson Francis Alexander HAMILTON's will",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9181
+     ],
+     "quote": "He left a will, but unfortunately it was recorded in one of the lost books of Berkeley Co., VA."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "31 May 1765",
+     "place": "Frederick Co., VA",
+     "value": "Witnessed a lease from Joseph McCormick Mason to John Semple for 400 acres; must have been in America by 1765",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9186
+     ],
+     "quote": "On 31 May 1765, he witnessed a lease between Joseph McCormick Mason of PA, to John Semple"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "4 Apr 1769",
+     "place": null,
+     "value": "Appointed with Thomas Hart, Henry Lloyd and Godwin Smith to view ground for a road from Semples Furnace to the Warm Springs Road",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9190
+     ],
+     "quote": "On 4 Apr 1769 Thomas Hart, Henry Lloyd, Godwin Smith, and Francis were appointed to view ground from Semples Furnace to the Warm Springs Road"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "30 Apr 1771",
+     "place": null,
+     "value": "Bought from John Keys for 35 pounds a bay horse, a feather bed and furniture, and a share in a 1769 tobacco crop",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9193
+     ],
+     "quote": "On 30 Apr 1771 John Keys sold to Francis for 35 pounds, one bay horse, one feather Bed and furniture"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1 Jun 1773",
+     "place": null,
+     "value": "John Semple, indebted to him, conveyed cows, furniture and grain to him",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9199
+     ],
+     "quote": "1 Jun 1773, John Semple was indebted to Francis HAMLTON conveyed cows, furniture, and grain to said HAMILTON"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1774",
+     "place": null,
+     "value": "Slave owner, taxed in 1774 for slaves Peter, Roger, Sarah, Beck, Jeremiah and Thomas",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9201
+     ],
+     "quote": "As a slave owner, he was taxed in 1774 for slaves Peter, Roger, Sarah, Beck, Jeremiah, and Thomas."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "28 Jun 1777",
+     "place": null,
+     "value": "Listed at the sale of Abraham Buckle's estate",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9202
+     ],
+     "quote": "On 28 Jun 1777 he was listed at a sale of Abraham Buckle's estate."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "20 Dec 1778",
+     "place": null,
+     "value": "Witnessed the will of Barbara Merriotes (Merritt?)",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9203
+     ],
+     "quote": "He witnessed the will of Barbara Merriotes (Merritt?) on 20 Dec 1778."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "13 Sep 1779",
+     "place": "Sharpsburg, Washington Co., MD",
+     "value": "Bought Lot 42 in Sharpsburg from Michael Taylor for 2 pounds",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9204
+     ],
+     "quote": "On 13 Sep 1779, Michael Taylor of Washington Co., MD sold to Francis HAMILTON for 2 pounds, Lot 42 in Sharpsburg"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "22 Nov 1780",
+     "place": null,
+     "value": "One of the executors of the will of Andrew Telleroy",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9206
+     ],
+     "quote": "He was one of the executors to the will of Andrew Telleroy on 22 Noy 1780."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1782",
+     "place": "Berkeley Co., VA",
+     "value": "In 1782-1787 paid tax on 1 poll and 5 slaves in Berkeley Co.; named in audits of John Creighton's (19 Mar 1782) and Robert T. Tabb's (20 Aug 1782) estates and attended the sale of Barbara Merritt's estate",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9207
+     ],
+     "quote": "In the years spanning 1782-1787 he paid tax on 1 pole, 5 slaves in Berkeley Co."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "23 Mar 1783",
+     "place": "Frederick Co., MD",
+     "value": "David Meek's will left 10 pounds to Francis HAMILTON of Berkeley Co.",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9196
+     ],
+     "quote": "On_23 Mar 1783, David Meek in his will in Frederick Co., MD, left 10 pounds to Francis HAMILTON of Berkeley Co."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "20 Jun 1786",
+     "place": null,
+     "value": "Taxed on 4 white males 16-21, 7 blacks above 16, 12 blacks under 16 and 13 horses in the district of Commissioner Thomas Hart; neighbors included David Evans, the Hagelys, the Houtes, Henry Jacob, John Moler, Elizabeth Rianer and John Womandorf",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9210
+     ],
+     "quote": "On 20 Jun 1786 Francis was taxed on 4 white males 16 and under 21, 7 blacks above 16, 12 blacks under 16, and 13 horses"
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "20 Apr 1789",
+     "place": null,
+     "value": "Named in the settlement of George Adam MOLER's estate, and in the 2nd settlement on 21 Jan 1793",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9216
+     ],
+     "quote": "On 20 Apr 1789 he was named in the settlement of George Adam OLER'S (MOLER) estate."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "1790",
+     "place": "Berkeley Co., VA",
+     "value": "Bought 123 acres in Berkeley Co. from Henry Lee of Stafford Co., VA",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9217
+     ],
+     "quote": "In 1790 he bought 123a in Berkeley Co., from Henry Lee of Stafford Co., VA."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "10 Jun 1793",
+     "place": null,
+     "value": "Witnessed the will of Isaac Strider",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9219
+     ],
+     "quote": "He witnessed the will of Isaac Strider on 10 Jun_1793."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "17 Dec 1796",
+     "place": "Berkeley Co., VA",
+     "value": "Bought 120 acres from Peter Fleck, previously owned by Charles Friend",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9220
+     ],
+     "quote": "on 17 Dec 1796 he bought land from Peter Fleck in Berkeley Co., 120 acres previously owned by Charles Friend."
+    },
+    {
+     "kind": "other",
+     "class": "new",
+     "date": "20 Apr 1809",
+     "place": "Jefferson Co., VA",
+     "value": "Three estate records exist in Jefferson Co. (pages missing); property distributed to heirs on 20 Apr 1809",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9223
+     ],
+     "quote": "On 20 Apr 1809, the property was distributed to the heirs: John 47 acres, Jacobina 47 acres, Walter BAKER (m. Magdalena) 39 1/2 acres"
+    },
+    {
+     "kind": "burial",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "No burial site has been found",
+     "related": null,
+     "source": "r",
+     "lines": [
+      9225
+     ],
+     "quote": "No burial site has been found, and no marriage for Francis."
+    }
+   ]
+  },
+  "hamilton_john_of_kype": {
+   "name": "John Hamilton of Kype",
+   "facts": [
+    {
+     "kind": "story",
+     "class": "new",
+     "date": null,
+     "place": null,
+     "value": "He and his wife (Gavin's parents) were rebuked by the Kirk Session before their marriage for 'unseasonable fruitfulness', that is, a pregnancy before marriage.",
+     "related": "young_jacobina",
+     "source": "l",
+     "lines": [
+      3033
+     ],
+     "quote": "up to his reputation of having a heart of gold. He rejoiced in liberal views. His father and mother had been obliged"
+    }
+   ]
+  },
+  "wells_arthur": {
+   "name": "Arthur Wells",
+   "facts": [
+    {
+     "kind": "birth",
+     "class": "gap",
+     "date": "1890",
+     "place": null,
+     "value": "Lived 1890-1963 (born 1890).",
+     "related": null,
+     "source": "l",
+     "lines": [
+      3733
+     ],
+     "quote": "| [Other spouse Arthur T WELLS (1890-1963)"
+    },
+    {
+     "kind": "marriage",
+     "class": "gap",
+     "date": "abt 1929",
+     "place": "San Francisco, CA",
+     "value": "Married Serena Marie Nevada Trumbo about 1929 in San Francisco, CA.",
+     "related": "trumbo_serena_marie",
+     "source": "l",
+     "lines": [
+      3734
+     ],
+     "quote": "‘Marriage abt 1929 San Francisco, CA :"
+    }
+   ]
+  }
+ }
+}

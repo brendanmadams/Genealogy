@@ -1,14 +1,20 @@
 {
   "id": "whitman_zella_campbell",
   "name": "Zella Campbell Whitman",
-  "birth": "",
-  "death": "",
+  "birth": "28 Jul 1898",
+  "death": "4 May 1984",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Ralph Kenneth Allen (m. 18 Aug 1928, Burton, WA)",
+    "Born 28 Jul 1898, Double Island, China",
+    "Died 4 May 1984, Portland, Multnomah County, OR",
+    "Born 1898",
+    "Died 1984"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,9 +24,14 @@
     "spouse": "allen_ralph_kenneth",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Double Island, China",
+    "Portland, Multnomah County, OR"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "First spouse of Ralph Kenneth Allen."

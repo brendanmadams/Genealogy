@@ -2,7 +2,7 @@
   "id": "adams_george_francis_1",
   "name": "George Francis Adams (#1)",
   "birth": "11 May 1816",
-  "death": "abt 1898",
+  "death": "1896",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -11,11 +11,12 @@
     "Served in the Confederate army during the Civil War under Generals Price, Van Dorn, and McGruder",
     "C-001: George F. birthplace listed as Ohio on John W. Adams' death certificate, but informant (Alberta Allen) likely guessed. Confidence: Identity HIGH, Birthplace LOW.",
     "Primary documents (land patents signed by Presidents Fillmore and Buchanan; military enlistment record) reinforce lineage validity.",
-    "Birthplace conflict originates from weak source (death certificate informant who probably guessed)."
+    "Birthplace conflict originates from weak source (death certificate informant who probably guessed).",
+    "Per the 1898 biography: farmed in Jefferson County, VA, then moved to Chariton County, MO onto War of 1812 grant prairie land; pre-empted 160 acres at 12.5 cents an acre, built up to a full section devoted to stock, served as justice of the peace, came to Colorado in 1886 and lived retired until his death at 81."
   ],
   "risk_events": [],
   "milestones": [
-    "Married Cynthia Lane (m. 1841)",
+    "Married Cynthia Lane (m. 14 Jan 1841, Chariton County, MO)",
     "Settled in Chariton County MO abt 1836",
     "Moved to Douglas County CO in 1878",
     "Served as Justice of the Peace in Missouri",
@@ -24,10 +25,22 @@
     "Married Cynthia Lane (14 January 1841, Chariton County, MO)",
     "Occupation: Farmer, later stock grower",
     "Buried: Cedar Hills Cemetery, Castle Rock, CO — unmarked grave in Adams Family Plot",
-    "Census trail: Chariton County MO (1850, 1860, 1870) → Douglas County CO (1880)"
+    "Census trail: Chariton County MO (1850, 1860, 1870) → Douglas County CO (1880)",
+    "Buried in an unmarked grave in the Adams Family Plot",
+    "Military: Obituary: afterwards enlisted against the Mexicans to capture Santa Fe.",
+    "Military: Obituary: served in the Confederate army during the Civil War under Gen. Price and also under Gen. Van Dorn and Magruder.",
+    "Buried: Obituary: remains interred in Castle Rock cemetery.",
+    "Born Harpers Ferry, WV"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Farmer and, later in life, a stock grower",
+    "Served as justice of the peace in Chariton County (civic office)",
+    "Obituary: a large land owner who accumulated a large fortune.",
+    "DPBR sketch of his son (naming him 'George P.'): born in Jefferson County, Va., farmed there until 1827, then removed to Chariton County, Mo., settling on prairie land set aside for War of 1812 land grants.",
+    "DPBR: bought and sold a land-grant tract, pre-empted another 160 acres at 12.5 cents per acre, took another similar tract, improved the land for the stock business and eventually owned a section.",
+    "DPBR: served as justice of the peace."
+  ],
   "relationships": {
     "mother": "hamilton_elizabeth_eliza",
     "father": "adams_jose_pierre",
@@ -47,13 +60,25 @@
     "Chariton County, MO",
     "Douglas County, CO",
     "Virginia",
-    "Castle Rock, CO"
+    "Castle Rock, CO",
+    "Bee Branch Twnshp, Chariton County, MO",
+    "Clark Twnshp, Chariton County, MO",
+    "Cedar Hills Cemetery, Castle Rock, Douglas County, CO",
+    "Bee Branch Township, Chariton County, Missouri",
+    "Clark Township, Chariton County, Missouri",
+    "Santa Fe",
+    "Castle Rock Cemetery, Castle Rock, Colorado",
+    "Missouri",
+    "Harpers Ferry, WV"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "manual_stitch_adams_direct_line",
-    "email_summary_conclusions_v1"
+    "email_summary_conclusions_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Family letters in Bill Allen’s family document"
   ],
   "notes": [
     "Siblings listed: Alexander Washington, Magdalena (Margaret), Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)",
@@ -61,6 +86,18 @@
     "Child added: adams_john_wesley. Evidence: Adams direct line: Gen 3 (John Wesley Adams, b.1841) is son of Gen 2 (George Francis Adams #1, b.~1817). Source: adams_direct_line_json_v1, family_data_v1.",
     "Father set: adams_jose_pierre. Evidence: Adams direct line: Gen 2 (George Francis Adams #1, b.~1817) is son of Gen 1 (Jose Pierre Adams, b.~1791). Source: adams_direct_line_json_v1, family_data_v1.",
     "C-001: Birthplace conflict — Ohio on death cert likely informant error. Primary docs (land patents, military record) anchor identity with high confidence.",
-    "CORRECTION 2026-09-22: Mother set to hamilton_elizabeth_eliza: the only recorded wife of his father Jose Pierre Adams, and named as mother by his siblings' records."
+    "CORRECTION 2026-09-22: Mother set to hamilton_elizabeth_eliza: the only recorded wife of his father Jose Pierre Adams, and named as mother by his siblings' records.",
+    "CORRECTION 2026-09-23: Death changed from \"abt 1898\" to \"1896\". From his obituary, found by Bill Allen and cited in his Further Research (2012). Decision by Brendan Adams.",
+    "Listed as minor son of Josee P. Adams in the will written in 1830 (about 13 years old) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4000]",
+    "Preparer's note: the biography's name 'George P.' is wrong (it was George Francis), and a move to Missouri in 1827 is unlikely; he most likely arrived late 1840 or early 1841 (first Chariton County record is the 1850 census). [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4370]",
+    "Obituary: he left four sons and four daughters; raised his children under his own care after his wife's death. [Bill Allen, Further Research, 2012, line 6846]",
+    "Only land patent record for George in Chariton County: 1857, an 80-acre parcel, a homestead purchase rather than a military land warrant. [Bill Allen, Further Research, 2012, line 7011]",
+    "The 1857 parcel was part of the land warrant granted in 1851 to his father-in-law, John S. Lane. [Bill Allen, Further Research, 2012, line 7089]",
+    "Described as the eldest child of Jose1's family. [Bill Allen, Further Research, 2012, line 7344]",
+    "His obituary says the family came west in 1833. [Bill Allen, Further Research, 2012, line 7362]",
+    "The Gill biography says he was a twin of his sister Mary, and both were deceased by 1909. [Bill Allen, Further Research, 2012, line 7598]",
+    "Twin brother of Mary Adams (Swan) [Bill Allen, Further Research, 2012, line 8313]",
+    "Named as a cousin, under 21, in the will of Francis A. HAMILTON [Bill Allen, Further Research, 2012, line 9703]",
+    "Francis Hamilton's will left him a small sum when he was an adolescent. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2913]"
   ]
 }

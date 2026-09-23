@@ -1,14 +1,17 @@
 {
   "id": "modine_suzzanne",
   "name": "Suzzanne Modine",
-  "birth": "",
+  "birth": "29 Dec 1944",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 29 Dec 1944, Grand Rapids, Kent County, MI",
+    "Born 1944"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,10 +21,14 @@
     "spouse": "allen_george_homer",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Grand Rapids, Kent County, MI"
+  ],
   "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Second spouse of George Homer Allen (m. 22 Nov 1972, Las Vegas, NV)."

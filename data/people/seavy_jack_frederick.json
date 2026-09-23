@@ -1,14 +1,17 @@
 {
   "id": "seavy_jack_frederick",
   "name": "Jack Frederick Seavy",
-  "birth": "",
+  "birth": "29 Mar 1925",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 29 Mar 1925",
+    "Born 1925"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -25,7 +28,9 @@
   "locations": [],
   "sources": [
     "consolidated_research_digest_v1",
-    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
   ],
   "notes": [
     "Spouse of Margaret Jeanice Peggy Allen (m. 3 Sep 1948)."

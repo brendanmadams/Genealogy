@@ -9,15 +9,19 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "An English scholar who could fluently speak Gaelic English and quote Steppenwolf at will"
+    "An English scholar who could fluently speak Gaelic English and quote Steppenwolf at will",
+    "The preparer, who knew him as 'Uncle' Ralph (actually his father's uncle), remembers being fascinated by him: he spoke old (Gaelic) English, could quote Steppenwolf at will, and had a sophisticated air."
   ],
   "risk_events": [],
   "milestones": [
-    "Married Zella Campbell Peggy Whitman",
-    "Married Irene Louisa Smith (second marriage)"
+    "Married Zella Campbell Whitman (m. 18 Aug 1928, Burton, WA)",
+    "Married Irene Louisa Smith (m. 17 Aug 1937)"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Styled 'Prof.' and living in Portland, Oregon in 1953",
+    "English scholar (his daughter Judith also taught English)"
+  ],
   "relationships": {
     "mother": "adams_alberta",
     "father": "allen_george_julius",
@@ -34,7 +38,8 @@
     "Spokane, WA"
   ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
   ],
   "notes": [
     "Multiple spouses: whitman_zella_campbell, smith_irene_louisa"

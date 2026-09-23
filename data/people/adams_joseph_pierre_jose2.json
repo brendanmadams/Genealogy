@@ -10,7 +10,10 @@
   "childhood_experience": [],
   "notable_stories": [
     "Freighted with mule trains up the Arkansas River to Denver in 1863",
-    "He was active in moving the Douglas County seat to Castle Rock"
+    "He was active in moving the Douglas County seat to Castle Rock",
+    "In 1863 he took the train to St. Joe and stage to Leavenworth, then hired on as a six-yoke ox-team driver on the Santa Fe trail; at Larned, Kansas Comanches attacked the camp, killed the wagon master and took the oxen, and troops from the Larned post rescued the party the next day.",
+    "While in office he helped secure construction of the Castle Rock courthouse (only $14,000 of $20,000 in voted bonds was needed) and was active in moving the county seat from Frenchtown to Castle Rock.",
+    "As a boy during the Civil War he left unsettled Missouri in 1863, went to St. Joe and Leavenworth, and hired on as a driver of a six-yoke ox team to Santa Fe. At Larned, Kansas, Comanches attacked the camp, fought all afternoon, killed the wagon master and took the oxen; government troops from the Larned post rescued the party the next day."
   ],
   "risk_events": [],
   "milestones": [
@@ -20,16 +23,33 @@
     "Established a stock business in Douglas County before moving to Denver",
     "Born 31 May 1847, Brunswick, Missouri",
     "Crossed the plains by ox cart and settled in Douglas County before Colorado became a state",
-    "Died 1923 at the home of his daughter Alice Adams Fulton, 1620 Steele Street, Denver"
+    "Died 1923 at the home of his daughter Alice Adams Fulton, 1620 Steele Street, Denver",
+    "Buried at Fairmount Cemetery"
   ],
-  "education": [],
+  "education": [
+    "Attended school a few months in Nebraska City, then spent a year on the home farm",
+    "Attended school in Nebraska City for a few months, then spent a year on the home farm."
+  ],
   "career": [
     "Pioneer cattleman on the ranges of Colorado, Wyoming, Arizona and New Mexico",
     "One of the organizers and for many years president of the Denver Livestock Exchange",
     "Helped found what became the National Western Stock Show, with former Governor Ammons and the late Fred Johnson",
     "Douglas County commissioner; a leading spirit in building the courthouse at Castle Rock",
     "Livestock commission business at the Denver stockyards for about 25 years",
-    "President of the J. P. Adams & Brigham Livestock Company"
+    "President of the J. P. Adams & Brigham Livestock Company",
+    "Drove a six-mule train up the Arkansas River to Fort Lyons, Pueblo and Denver, first seeing Denver in July 1863",
+    "Stage driver for six months from Julesburg to Fort Morgan, then eighteen months freighting",
+    "Returned to Colorado in 1869 and started a cattle ranch",
+    "Member of the firm Adams & Green at Castle Rock for fourteen years",
+    "Commission merchant in Denver; also owned a ranch at Corona on Kiowa Creek, sixty miles east of Denver, raising cattle and horses (1898)",
+    "Douglas County commissioner for two three-year terms, re-elected chairman each year",
+    "Elected county sheriff in 1875 on the Democratic ticket in a Republican county",
+    "Engaged in business in Denver as a commission merchant. (1898)",
+    "Owned a ranch at Corona raising cattle and horses. (1898)",
+    "Served as Douglas County commissioner for two three-year terms, re-elected chairman each year.",
+    "After the Larned encounter, drove a six-mule train up the Arkansas River to Fort Lyons, Pueblo and Denver, first seeing Denver in July 1863.",
+    "Worked six months as a stage driver from Julesburg to Fort Morgan, then eighteen months freighting.",
+    "For fourteen years a member of the firm of Adams & Green at Castle Rock."
   ],
   "relationships": {
     "mother": "lane_cynthia",
@@ -46,16 +66,25 @@
     "Chariton County, MO",
     "Plum Creek, Douglas County, CO",
     "Denver, CO",
-    "Brunswick, MO"
+    "Brunswick, MO",
+    "Fairmount Cemetery, Denver, Denver County, CO"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "Obituary of Jose Pierre Adams, The Trail (Sons of Colorado), 1923 (media: jose2-obit)",
-    "Descendants of Jose Pierre Adams (family document, Nov 2010)"
+    "Descendants of Jose Pierre Adams (family document, Nov 2010)",
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
   ],
   "notes": [
     "Siblings listed: John Wesley, Col. Alexander William, Mary, Missouri, Harriet E., James Casper, Virginia M., Nancy E. Identified as Jose2 to distinguish from ancestor Jose Pierre Adams (Jose1).",
-    "CORRECTION 2026-09-23: Birth refined from \"May 1847\" to 31 May 1847 at Brunswick, Missouri, and career details added, from his 1923 obituary. The obituary gives his marriage to Susan M. Pugh as 24 Dec 1868; the family document gives 1872. Not yet resolved."
+    "CORRECTION 2026-09-23: Birth refined from \"May 1847\" to 31 May 1847 at Brunswick, Missouri, and career details added, from his 1923 obituary. The obituary gives his marriage to Susan M. Pugh as 24 Dec 1868; the family document gives 1872. Not yet resolved.",
+    "CORRECTION 2026-09-23: Birth kept as 31 May 1847 (The Trail obituary); another obituary quoted in Bill Allen's Further Research (2012) gives 31 May 1848, near Brunswick. Decision by Brendan Adams.",
+    "Active in the Democratic party; member of the state central committee and delegate to state conventions [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4365]",
+    "Member (formerly an official) of the Ancient Order of United Workmen at Castle Rock [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4367, 6995]",
+    "Named Joseph P. Adams after his grandfather and also adopted the name Jose; subject of a biographical sketch in the Denver Portrait and Biographical Record (1898). [Bill Allen, Further Research, 2012, line 6872]",
+    "Brothers James Casper of Colorado, John W. of Marceline, MO, and A.W. of Kansas City, KS. [Bill Allen, Further Research, 2012, line 6879]",
+    "Active in securing removal of the Douglas County seat from Frenchtown to Castle Rock. [Bill Allen, Further Research, 2012, line 6989]"
   ],
   "card_name": [
     "Jose P.",
