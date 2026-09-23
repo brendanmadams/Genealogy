@@ -156,6 +156,7 @@ export class Renderer {
     const span = lifespan(p);
     if (span) g.appendChild(el('text', { class: 'dates', x: 66, y: l2 ? 59 : 54 }, span));
     if (n.half) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'half'));
+    else if (p.adopted && n.role !== 'focus') g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'adopted'));
     if (n.ahnen || n.number) {
       // bottom-right, clear of the name; very long descendant numbers keep their tail
       const num = String(n.ahnen || n.number);

@@ -1,6 +1,6 @@
 {
-  "id": "simons_elaine_deretha",
-  "name": "Elaine Deretha Simons (Rhinehart)",
+  "id": "rhinehart_jerry",
+  "name": "Jerry Rhinehart",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,21 +12,16 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "kulp_dradie_ellen",
-    "father": "simons_raymond_zell",
+    "mother": "simons_elaine_deretha",
+    "father": "rhinehart_les",
     "siblings": [],
-    "spouse": "rhinehart_les",
-    "children": [
-      "rhinehart_jerry",
-      "rhinehart_janet"
-    ]
+    "spouse": "",
+    "children": []
   },
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22"
   ],
-  "notes": [
-    "Sister of Beryl Simons Adams; married Les Rhinehart."
-  ],
+  "notes": [],
   "aliases": []
 }

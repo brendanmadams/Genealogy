@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T01:37:38.745Z",
-  "people": 289,
-  "family_members": 238,
+  "generated": "2026-09-23T02:14:44.493Z",
+  "people": 294,
+  "family_members": 243,
   "dna_matches": 51,
-  "connected_people": 236,
-  "families": 87,
+  "connected_people": 241,
+  "families": 88,
   "branches": [
    "adams",
    "hamilton",
@@ -174,6 +174,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -257,6 +258,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -329,6 +331,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -422,6 +425,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -484,6 +488,7 @@
     "hamilton",
     "trumbo"
    ],
+   "adopted": false,
    "father": "adams_george_francis_2",
    "mother": "trumbo_serena_marie",
    "parents": [
@@ -560,6 +565,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -664,6 +670,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -753,6 +760,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -824,6 +832,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -890,6 +899,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_alexander_william_col",
    "mother": "ashby_unknown",
    "parents": [
@@ -951,6 +961,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -1025,6 +1036,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -1129,6 +1141,7 @@
    "lineages": [
     "adams"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -1218,6 +1231,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -1295,6 +1309,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -1367,6 +1382,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -1437,6 +1453,7 @@
     "adams",
     "hamilton"
    ],
+   "adopted": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -1510,6 +1527,7 @@
     "hamilton",
     "trumbo"
    ],
+   "adopted": false,
    "father": "adams_george_francis_2",
    "mother": "trumbo_serena_marie",
    "parents": [
@@ -1576,6 +1594,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "ivo_john_obad",
    "mother": "camille_remy",
    "parents": [
@@ -1636,6 +1655,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -1697,6 +1717,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -1767,6 +1788,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -1836,6 +1858,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -1897,6 +1920,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -1967,6 +1991,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_philip",
    "mother": null,
    "parents": [
@@ -2054,6 +2079,7 @@
    "lineages": [
     "allen"
    ],
+   "adopted": false,
    "father": "allen_george_philemon",
    "mother": "spring_juliaetta",
    "parents": [
@@ -2132,6 +2158,7 @@
    "lineages": [
     "allen"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -2187,6 +2214,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -2271,6 +2299,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -2343,6 +2372,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -2412,6 +2442,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_philip",
    "mother": null,
    "parents": [
@@ -2481,6 +2512,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -2557,6 +2589,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -2618,6 +2651,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -2679,6 +2713,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -2736,6 +2771,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -2796,6 +2832,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -2847,6 +2884,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -2902,6 +2940,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -2958,6 +2997,7 @@
     "mckeldin",
     "schriefer"
    ],
+   "adopted": false,
    "father": "charles_buckey_mckeldin",
    "mother": "emily_schrieffer_mckeldin",
    "parents": [
@@ -3853,6 +3893,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -3969,6 +4010,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4030,6 +4072,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "john_howard_adams",
    "mother": "barbara_mckeldin_adams",
    "parents": [
@@ -4131,6 +4174,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "john_howard_adams",
    "mother": "barbara_mckeldin_adams",
    "parents": [
@@ -4222,6 +4266,7 @@
    "lineages": [
     "trumbo"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4282,6 +4327,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4339,6 +4385,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "michael_remy",
    "mother": "gertrude_adams_remy",
    "parents": [
@@ -4414,6 +4461,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4469,6 +4517,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -4560,6 +4609,7 @@
     "mckeldin",
     "schriefer"
    ],
+   "adopted": false,
    "father": "chuck_mckeldin",
    "mother": "michelle_mckeldin",
    "parents": [
@@ -4614,6 +4664,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4665,6 +4716,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4718,6 +4770,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4768,6 +4821,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4825,6 +4879,7 @@
     "mckeldin",
     "quinn"
    ],
+   "adopted": false,
    "father": "j_michael_mckeldin",
    "mother": "shelly_mckeldin",
    "parents": [
@@ -4886,6 +4941,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "michael_remy",
    "mother": "gertrude_adams_remy",
    "parents": [
@@ -4955,6 +5011,7 @@
     "mckeldin",
     "schriefer"
    ],
+   "adopted": false,
    "father": "charles_buckey_mckeldin",
    "mother": "emily_schrieffer_mckeldin",
    "parents": [
@@ -5069,6 +5126,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5119,6 +5177,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": "clark_ephraim",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -5177,6 +5236,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5232,6 +5292,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5289,6 +5350,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5346,6 +5408,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5396,6 +5459,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5451,6 +5515,7 @@
    "lineages": [
     "smith"
    ],
+   "adopted": false,
    "father": "louis_russell_smith",
    "mother": "genevieve_mildred_smith",
    "parents": [
@@ -5519,6 +5584,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5569,6 +5635,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5622,6 +5689,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5672,6 +5740,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5730,6 +5799,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "geoffrey_louis_adams",
    "mother": "nicole_adawn_della_selva",
    "parents": [
@@ -5787,6 +5857,7 @@
    "lineages": [
     "schriefer"
    ],
+   "adopted": false,
    "father": "schriefer_george_goode",
    "mother": "ethel_quinn_schriefer",
    "parents": [
@@ -5877,6 +5948,7 @@
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -5956,6 +6028,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -6026,6 +6099,7 @@
    "lineages": [
     "schriefer"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -6099,6 +6173,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -6156,6 +6231,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "geoffrey_louis_adams",
    "mother": "nicole_adawn_della_selva",
    "parents": [
@@ -6211,6 +6287,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -6261,6 +6338,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -6326,6 +6404,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "ivo_john_obad",
    "mother": "camille_remy",
    "parents": [
@@ -6393,6 +6472,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -6473,6 +6553,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "brendan_mckeldin_adams",
    "mother": "megan_marie_adams",
    "parents": [
@@ -6551,6 +6632,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -6618,6 +6700,7 @@
    "lineages": [
     "smith"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -6679,6 +6762,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_jr",
    "mother": "cynthia_gail_smith",
    "parents": [
@@ -6756,6 +6840,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -6822,6 +6907,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_jr",
    "mother": "cynthia_gail_smith",
    "parents": [
@@ -6903,6 +6989,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_sr",
    "mother": "beryl_simons_adams",
    "parents": [
@@ -6995,6 +7082,7 @@
     "hamilton",
     "trumbo"
    ],
+   "adopted": false,
    "father": "adams_george_francis_2",
    "mother": "trumbo_serena_marie",
    "parents": [
@@ -7120,6 +7208,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_sr",
    "mother": "beryl_simons_adams",
    "parents": [
@@ -7209,6 +7298,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7259,6 +7349,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7318,6 +7409,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7371,6 +7463,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": null,
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -7437,6 +7530,7 @@
    "branch": "zacher",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7495,6 +7589,7 @@
    "lineages": [
     "grief"
    ],
+   "adopted": false,
    "father": "grief_michael",
    "mother": "vinzel_cunigunda",
    "parents": [
@@ -7578,6 +7673,7 @@
    "lineages": [
     "grief"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7642,6 +7738,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7695,6 +7792,7 @@
    "lineages": [
     "hamilton"
    ],
+   "adopted": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -7762,6 +7860,7 @@
    "lineages": [
     "hamilton"
    ],
+   "adopted": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -7830,6 +7929,7 @@
    "lineages": [
     "hamilton"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7897,6 +7997,7 @@
    "branch": "hamilton",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -7954,6 +8055,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8004,6 +8106,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8054,6 +8157,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8104,6 +8208,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8156,6 +8261,7 @@
    "lineages": [
     "obad"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8222,6 +8328,7 @@
     "mckeldin",
     "quinn"
    ],
+   "adopted": false,
    "father": "charles_buckey_mckeldin",
    "mother": "margaret_peggy_mckeldin",
    "parents": [
@@ -8312,6 +8419,7 @@
     "mckeldin",
     "quinn"
    ],
+   "adopted": false,
    "father": "j_michael_mckeldin",
    "mother": "shelly_mckeldin",
    "parents": [
@@ -8370,6 +8478,7 @@
     "mckeldin",
     "schriefer"
    ],
+   "adopted": false,
    "father": "chuck_mckeldin",
    "mother": "michelle_mckeldin",
    "parents": [
@@ -8432,6 +8541,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_sr",
    "mother": "beryl_simons_adams",
    "parents": [
@@ -8726,6 +8836,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "jorgensen_dan",
    "mother": "goodman_amber",
    "parents": [
@@ -8778,6 +8889,7 @@
    "branch": "zacher",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8835,6 +8947,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "jorgensen_dan",
    "mother": "goodman_amber",
    "parents": [
@@ -8887,6 +9000,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8948,6 +9062,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8998,6 +9113,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -9051,6 +9167,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -9104,6 +9221,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -9167,6 +9285,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kolb_dielman_edward",
    "mother": "schumacher_agnes",
    "parents": [
@@ -9234,6 +9353,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kolb_peter",
    "mother": "oberholtzer_elizabeth",
    "parents": [
@@ -9298,6 +9418,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kolb_henry",
    "mother": "fretz_barbara",
    "parents": [
@@ -9361,6 +9482,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -9414,6 +9536,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kolb_jacob_oberholtzer",
    "mother": "clemens_mary_bachman",
    "parents": [
@@ -9476,6 +9599,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -9540,6 +9664,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -9605,6 +9730,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_spencer_ritchey",
    "mother": null,
    "parents": [
@@ -9658,6 +9784,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_spencer_ritchey",
    "mother": null,
    "parents": [
@@ -9711,6 +9838,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -9778,6 +9906,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -9864,6 +9993,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -9929,6 +10059,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -10007,6 +10138,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_abraham_clemens",
    "mother": null,
    "parents": [
@@ -10074,6 +10206,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_elmer_spencer",
    "mother": "ritchey_amy",
    "parents": [
@@ -10149,6 +10282,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_michael_nicholas",
    "mother": "vancel_sarah",
    "parents": [
@@ -10237,6 +10371,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -10301,6 +10436,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_ephraim",
    "mother": "confer_maria_catharina",
    "parents": [
@@ -10381,6 +10517,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -10445,6 +10582,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -10510,6 +10648,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -10576,6 +10715,7 @@
    "lineages": [
     "kulp"
    ],
+   "adopted": false,
    "father": "kulp_elmer_spencer",
    "mother": "ritchey_amy",
    "parents": [
@@ -10641,6 +10781,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -10717,6 +10858,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -10765,57 +10907,6 @@
    ]
   },
   {
-   "id": "les_husband_of_elaine_simons",
-   "name": "Les",
-   "aliases": [],
-   "photo": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "branch": "simons",
-   "branch_by_marriage": true,
-   "lineages": [],
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "spouses": [
-    "simons_elaine_deretha"
-   ],
-   "children": [],
-   "siblings": [],
-   "families": [
-    "F_les_husband_of_elaine_simons+simons_elaine_deretha"
-   ],
-   "parent_family": null,
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams, 2026-09-22"
-   ],
-   "notes": [
-    "Husband of Elaine Deretha Simons. Surname not recorded."
-   ]
-  },
-  {
    "id": "lola",
    "name": "Lola",
    "aliases": [],
@@ -10838,6 +10929,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -10895,6 +10987,7 @@
    "lineages": [
     "smith"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -10930,60 +11023,6 @@
    ]
   },
   {
-   "id": "louise_daughter_of_rosemary_wells",
-   "name": "Louise Morgan",
-   "aliases": [],
-   "photo": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "branch": "other",
-   "branch_by_marriage": false,
-   "lineages": [],
-   "father": "ralph_husband_of_rosemary_wells",
-   "mother": "wells_rosemary",
-   "parents": [
-    "ralph_husband_of_rosemary_wells",
-    "wells_rosemary"
-   ],
-   "spouses": [],
-   "children": [
-    "scott_son_of_louise"
-   ],
-   "siblings": [],
-   "families": [
-    "F_louise_daughter_of_rosemary_wells"
-   ],
-   "parent_family": "F_ralph_husband_of_rosemary_wells+wells_rosemary",
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams, 2026-09-22"
-   ],
-   "notes": [
-    "Daughter of Rosemary Wells and Ralph. Goes by Louise Morgan, her husband's surname; her maiden name (Ralph's surname) is not recorded. Not the same person as the DNA match Louise Craig (confirmed by Brendan Adams)."
-   ]
-  },
-  {
    "id": "manzer_honolulu_claire",
    "name": "Honolulu Claire Manzer",
    "aliases": [],
@@ -11003,6 +11042,7 @@
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11061,6 +11101,7 @@
    "lineages": [
     "quinn"
    ],
+   "adopted": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -11150,6 +11191,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11216,6 +11258,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -11281,6 +11324,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "ivo_john_obad",
    "mother": "camille_remy",
    "parents": [
@@ -11337,6 +11381,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11390,6 +11435,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -11458,6 +11504,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -11541,6 +11588,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_theodore_roosevelt",
    "mother": "manzer_honolulu_claire",
    "parents": [
@@ -11597,6 +11645,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -11658,6 +11707,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_joseph",
    "mother": "sinclair_mary",
    "parents": [
@@ -11733,6 +11783,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -11795,6 +11846,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -11863,6 +11915,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -11969,6 +12022,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_john",
    "mother": null,
    "parents": [
@@ -12025,6 +12079,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12093,6 +12148,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12165,6 +12221,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12227,6 +12284,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12296,6 +12354,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12363,6 +12422,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -12425,6 +12485,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12492,6 +12553,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -12553,6 +12615,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -12615,6 +12678,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_theodore_roosevelt",
    "mother": "manzer_honolulu_claire",
    "parents": [
@@ -12674,6 +12738,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12805,6 +12870,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12873,6 +12939,7 @@
     "grief",
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -12944,6 +13011,7 @@
    "lineages": [
     "mckeldin"
    ],
+   "adopted": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -13004,6 +13072,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13059,6 +13128,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13133,6 +13203,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13200,6 +13271,7 @@
    "lineages": [
     "remy"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13273,6 +13345,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13332,6 +13405,7 @@
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13387,6 +13461,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13437,6 +13512,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13487,6 +13563,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13537,6 +13614,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13587,6 +13665,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13619,6 +13698,111 @@
    ]
   },
   {
+   "id": "morgan_louise",
+   "name": "Louise Morgan",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ralph_husband_of_rosemary_wells",
+   "mother": "wells_rosemary",
+   "parents": [
+    "ralph_husband_of_rosemary_wells",
+    "wells_rosemary"
+   ],
+   "spouses": [],
+   "children": [
+    "morgan_scott"
+   ],
+   "siblings": [],
+   "families": [
+    "F_morgan_louise"
+   ],
+   "parent_family": "F_ralph_husband_of_rosemary_wells+wells_rosemary",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Daughter of Rosemary Wells and Ralph. Goes by Louise Morgan, her husband's surname; her maiden name (Ralph's surname) is not recorded. Not the same person as the DNA match Louise Craig (confirmed by Brendan Adams)."
+   ]
+  },
+  {
+   "id": "morgan_scott",
+   "name": "Scott Morgan",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": "morgan_louise",
+   "parents": [
+    "morgan_louise"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_morgan_louise",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Son of Louise Morgan, the daughter of Rosemary Wells."
+   ]
+  },
+  {
    "id": "naqui_annette",
    "name": "Annette Naqui",
    "aliases": [],
@@ -13638,6 +13822,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13688,6 +13873,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13745,6 +13931,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13813,6 +14000,7 @@
     "simons",
     "trumbo"
    ],
+   "adopted": false,
    "father": "brendan_mckeldin_adams",
    "mother": "megan_marie_adams",
    "parents": [
@@ -13878,6 +14066,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13931,6 +14120,7 @@
    "branch": "schriefer",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13987,6 +14177,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14037,6 +14228,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14088,6 +14280,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": "pugh_alexander",
    "mother": null,
    "parents": [
@@ -14149,6 +14342,7 @@
    "lineages": [
     "quinn"
    ],
+   "adopted": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -14218,6 +14412,7 @@
    "lineages": [
     "quinn"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14308,6 +14503,7 @@
    "lineages": [
     "quinn"
    ],
+   "adopted": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -14370,6 +14566,7 @@
    "lineages": [
     "quinn"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14482,6 +14679,7 @@
    "lineages": [
     "quinn"
    ],
+   "adopted": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -14544,6 +14742,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14594,6 +14793,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14601,7 +14801,7 @@
     "wells_rosemary"
    ],
    "children": [
-    "louise_daughter_of_rosemary_wells"
+    "morgan_louise"
    ],
    "siblings": [],
    "families": [
@@ -14648,6 +14848,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14698,6 +14899,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14729,6 +14931,169 @@
    ]
   },
   {
+   "id": "rhinehart_janet",
+   "name": "Janet Rhinehart",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "rhinehart_les",
+   "mother": "simons_elaine_deretha",
+   "parents": [
+    "rhinehart_les",
+    "simons_elaine_deretha"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "rhinehart_jerry"
+   ],
+   "families": [],
+   "parent_family": "F_rhinehart_les+simons_elaine_deretha",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": []
+  },
+  {
+   "id": "rhinehart_jerry",
+   "name": "Jerry Rhinehart",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "rhinehart_les",
+   "mother": "simons_elaine_deretha",
+   "parents": [
+    "rhinehart_les",
+    "simons_elaine_deretha"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "rhinehart_janet"
+   ],
+   "families": [],
+   "parent_family": "F_rhinehart_les+simons_elaine_deretha",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": []
+  },
+  {
+   "id": "rhinehart_les",
+   "name": "Les Rhinehart",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_elaine_deretha"
+   ],
+   "children": [
+    "rhinehart_jerry",
+    "rhinehart_janet"
+   ],
+   "siblings": [],
+   "families": [
+    "F_rhinehart_les+simons_elaine_deretha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Husband of Elaine Deretha Simons."
+   ]
+  },
+  {
    "id": "ritchey_amy",
    "name": "Amy Ritchey",
    "aliases": [],
@@ -14748,6 +15113,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14817,6 +15183,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14870,6 +15237,7 @@
    "branch": "zacher",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14921,6 +15289,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14978,6 +15347,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -15042,6 +15412,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -15099,6 +15470,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15151,6 +15523,7 @@
    "lineages": [
     "schriefer"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15216,6 +15589,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15271,6 +15645,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15309,55 +15684,6 @@
    "notes": []
   },
   {
-   "id": "scott_son_of_louise",
-   "name": "Scott",
-   "aliases": [],
-   "photo": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "branch": "other",
-   "branch_by_marriage": false,
-   "lineages": [],
-   "father": null,
-   "mother": "louise_daughter_of_rosemary_wells",
-   "parents": [
-    "louise_daughter_of_rosemary_wells"
-   ],
-   "spouses": [],
-   "children": [],
-   "siblings": [],
-   "families": [],
-   "parent_family": "F_louise_daughter_of_rosemary_wells",
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams, 2026-09-22"
-   ],
-   "notes": [
-    "Son of Louise Morgan, the daughter of Rosemary Wells. Surname not recorded."
-   ]
-  },
-  {
    "id": "seaton_shirley",
    "name": "Shirley Seaton",
    "aliases": [],
@@ -15377,6 +15703,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15427,6 +15754,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15486,6 +15814,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "seavy_jack_frederick",
    "mother": "allen_margaret_jeanice",
    "parents": [
@@ -15543,6 +15872,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "seavy_jack_frederick",
    "mother": "allen_margaret_jeanice",
    "parents": [
@@ -15600,6 +15930,7 @@
     "allen",
     "hamilton"
    ],
+   "adopted": false,
    "father": "seavy_jack_frederick",
    "mother": "allen_margaret_jeanice",
    "parents": [
@@ -15653,6 +15984,7 @@
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15717,6 +16049,7 @@
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15774,6 +16107,7 @@
    "lineages": [
     "simons"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15846,6 +16180,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_glen",
    "mother": "simons_mary",
    "parents": [
@@ -15887,6 +16222,173 @@
    ]
   },
   {
+   "id": "simons_betty",
+   "name": "Betty Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_raymond_elmer"
+   ],
+   "children": [
+    "simons_carl_ray",
+    "simons_debra_sue"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_betty+simons_raymond_elmer"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Wife of Raymond Elmer (\"Elmer\") Simons. Maiden name not recorded."
+   ]
+  },
+  {
+   "id": "simons_carl_ray",
+   "name": "Carl Ray Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "adopted": true,
+   "father": "simons_raymond_elmer",
+   "mother": "simons_betty",
+   "parents": [
+    "simons_betty",
+    "simons_raymond_elmer"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_debra_sue"
+   ],
+   "families": [],
+   "parent_family": "F_simons_betty+simons_raymond_elmer",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Adopted by Elmer and Betty Simons."
+   ]
+  },
+  {
+   "id": "simons_debra_sue",
+   "name": "Debra Sue Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "adopted": true,
+   "father": "simons_raymond_elmer",
+   "mother": "simons_betty",
+   "parents": [
+    "simons_betty",
+    "simons_raymond_elmer"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_carl_ray"
+   ],
+   "families": [],
+   "parent_family": "F_simons_betty+simons_raymond_elmer",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Adopted by Elmer and Betty Simons."
+   ]
+  },
+  {
    "id": "simons_ed",
    "name": "Ed Simons",
    "aliases": [],
@@ -15909,6 +16411,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_glen",
    "mother": "simons_mary",
    "parents": [
@@ -15943,7 +16446,7 @@
   },
   {
    "id": "simons_elaine_deretha",
-   "name": "Elaine Deretha Simons",
+   "name": "Elaine Deretha Simons (Rhinehart)",
    "aliases": [],
    "photo": null,
    "media": [],
@@ -15964,6 +16467,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -15971,9 +16475,12 @@
     "simons_raymond_zell"
    ],
    "spouses": [
-    "les_husband_of_elaine_simons"
+    "rhinehart_les"
    ],
-   "children": [],
+   "children": [
+    "rhinehart_jerry",
+    "rhinehart_janet"
+   ],
    "siblings": [
     "beryl_simons_adams",
     "simons_glen",
@@ -15982,7 +16489,7 @@
     "simons_orval_keith"
    ],
    "families": [
-    "F_les_husband_of_elaine_simons+simons_elaine_deretha"
+    "F_rhinehart_les+simons_elaine_deretha"
    ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
@@ -16001,7 +16508,7 @@
     "Brendan Adams, 2026-09-22"
    ],
    "notes": [
-    "Sister of Beryl Simons Adams; married Les (surname not recorded)."
+    "Sister of Beryl Simons Adams; married Les Rhinehart."
    ]
   },
   {
@@ -16027,6 +16534,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -16100,6 +16608,7 @@
    "lineages": [
     "simons"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16171,6 +16680,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -16239,6 +16749,7 @@
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16297,6 +16808,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_orval_keith",
    "mother": "simons_irene",
    "parents": [
@@ -16357,6 +16869,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -16410,6 +16923,7 @@
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16464,6 +16978,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_orval_keith",
    "mother": "simons_irene",
    "parents": [
@@ -16522,6 +17037,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -16575,6 +17091,7 @@
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16629,6 +17146,7 @@
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16689,6 +17207,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -16753,6 +17272,7 @@
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16787,7 +17307,9 @@
   {
    "id": "simons_raymond_elmer",
    "name": "Raymond Elmer Simons",
-   "aliases": [],
+   "aliases": [
+    "Elmer"
+   ],
    "photo": null,
    "media": [],
    "birth": {
@@ -16807,14 +17329,20 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
     "kulp_dradie_ellen",
     "simons_raymond_zell"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "simons_betty"
+   ],
+   "children": [
+    "simons_carl_ray",
+    "simons_debra_sue"
+   ],
    "siblings": [
     "beryl_simons_adams",
     "simons_glen",
@@ -16822,7 +17350,9 @@
     "simons_elaine_deretha",
     "simons_orval_keith"
    ],
-   "families": [],
+   "families": [
+    "F_simons_betty+simons_raymond_elmer"
+   ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
    "dna_match": false,
@@ -16840,7 +17370,7 @@
     "Brendan Adams, 2026-09-22"
    ],
    "notes": [
-    "Brother of Beryl Simons Adams. He and his wife (name not recorded) adopted two children (not named here)."
+    "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue."
    ]
   },
   {
@@ -16865,6 +17395,7 @@
    "lineages": [
     "simons"
    ],
+   "adopted": false,
    "father": "simons_aaron",
    "mother": "simons_harriet_hattie",
    "parents": [
@@ -16966,6 +17497,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_orval_keith",
    "mother": "simons_irene",
    "parents": [
@@ -17020,6 +17552,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -17076,6 +17609,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -17134,6 +17668,7 @@
     "kulp",
     "simons"
    ],
+   "adopted": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -17193,6 +17728,7 @@
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17246,6 +17782,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17296,6 +17833,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17346,6 +17884,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17397,6 +17936,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17450,6 +17990,7 @@
    "lineages": [
     "allen"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17501,6 +18042,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17551,6 +18093,7 @@
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17602,6 +18145,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17652,6 +18196,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17702,6 +18247,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17752,6 +18298,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17799,6 +18346,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17868,6 +18416,7 @@
     "smith",
     "trumbo"
    ],
+   "adopted": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -17925,6 +18474,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17977,6 +18527,7 @@
    "lineages": [
     "trumbo"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18038,6 +18589,7 @@
    "lineages": [
     "trumbo"
    ],
+   "adopted": false,
    "father": "trumbo_presley_neville",
    "mother": "buckley_hannah_louise",
    "parents": [
@@ -18127,6 +18679,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18180,6 +18733,7 @@
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18238,6 +18792,7 @@
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": "van_tine_abraham",
    "mother": "crook_mary",
    "parents": [
@@ -18307,6 +18862,7 @@
    "branch": "grief",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18367,6 +18923,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18417,6 +18974,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18467,6 +19025,7 @@
    "branch": "trumbo",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18531,6 +19090,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": "wells_arthur",
    "mother": null,
    "parents": [
@@ -18540,7 +19100,7 @@
     "ralph_husband_of_rosemary_wells"
    ],
    "children": [
-    "louise_daughter_of_rosemary_wells"
+    "morgan_louise"
    ],
    "siblings": [],
    "families": [
@@ -18591,6 +19151,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18661,6 +19222,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18708,6 +19270,7 @@
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18759,6 +19322,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18809,6 +19373,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18859,6 +19424,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18909,6 +19475,7 @@
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18959,6 +19526,7 @@
    "branch": "hamilton",
    "branch_by_marriage": true,
    "lineages": [],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19017,6 +19585,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "goodman_craig",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -19074,6 +19643,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "goodman_craig",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -19130,6 +19700,7 @@
    "lineages": [
     "zacher"
    ],
+   "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19186,6 +19757,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "zacher_kenneth_donald",
    "mother": "zacher_kenneth_donald",
    "parents": [
@@ -19238,6 +19810,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "goodman_craig",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -19295,6 +19868,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "zacher_donald_adam",
    "mother": "kulp_irmagene",
    "parents": [
@@ -19360,6 +19934,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "zacher_donald_adam",
    "mother": "kulp_irmagene",
    "parents": [
@@ -19437,6 +20012,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "zacher_donald_adam",
    "mother": "kulp_irmagene",
    "parents": [
@@ -19505,6 +20081,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": null,
    "mother": "zacher_kippy_amy",
    "parents": [
@@ -19559,6 +20136,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": null,
    "mother": "zacher_kippy_amy",
    "parents": [
@@ -19613,6 +20191,7 @@
     "kulp",
     "zacher"
    ],
+   "adopted": false,
    "father": "goodman_craig",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -20405,25 +20984,6 @@
    "marriage": null
   },
   {
-   "id": "F_les_husband_of_elaine_simons+simons_elaine_deretha",
-   "partners": [
-    "les_husband_of_elaine_simons",
-    "simons_elaine_deretha"
-   ],
-   "children": [],
-   "marriage": null
-  },
-  {
-   "id": "F_louise_daughter_of_rosemary_wells",
-   "partners": [
-    "louise_daughter_of_rosemary_wells"
-   ],
-   "children": [
-    "scott_son_of_louise"
-   ],
-   "marriage": null
-  },
-  {
    "id": "F_manzer_honolulu_claire+mckeldin_theodore_roosevelt",
    "partners": [
     "manzer_honolulu_claire",
@@ -20474,6 +21034,16 @@
    "marriage": null
   },
   {
+   "id": "F_morgan_louise",
+   "partners": [
+    "morgan_louise"
+   ],
+   "children": [
+    "morgan_scott"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_pugh_alexander",
    "partners": [
     "pugh_alexander"
@@ -20504,7 +21074,19 @@
     "wells_rosemary"
    ],
    "children": [
-    "louise_daughter_of_rosemary_wells"
+    "morgan_louise"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_rhinehart_les+simons_elaine_deretha",
+   "partners": [
+    "rhinehart_les",
+    "simons_elaine_deretha"
+   ],
+   "children": [
+    "rhinehart_jerry",
+    "rhinehart_janet"
    ],
    "marriage": null
   },
@@ -20525,6 +21107,18 @@
    ],
    "children": [
     "simons_raymond_zell"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_betty+simons_raymond_elmer",
+   "partners": [
+    "simons_betty",
+    "simons_raymond_elmer"
+   ],
+   "children": [
+    "simons_carl_ray",
+    "simons_debra_sue"
    ],
    "marriage": null
   },

@@ -1,6 +1,6 @@
 {
-  "id": "simons_elaine_deretha",
-  "name": "Elaine Deretha Simons (Rhinehart)",
+  "id": "simons_carl_ray",
+  "name": "Carl Ray Simons",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,21 +12,19 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "kulp_dradie_ellen",
-    "father": "simons_raymond_zell",
+    "mother": "simons_betty",
+    "father": "simons_raymond_elmer",
     "siblings": [],
-    "spouse": "rhinehart_les",
-    "children": [
-      "rhinehart_jerry",
-      "rhinehart_janet"
-    ]
+    "spouse": "",
+    "children": [],
+    "adopted": true
   },
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22"
   ],
   "notes": [
-    "Sister of Beryl Simons Adams; married Les Rhinehart."
+    "Adopted by Elmer and Betty Simons."
   ],
   "aliases": []
 }

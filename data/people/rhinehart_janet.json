@@ -1,6 +1,6 @@
 {
-  "id": "les_husband_of_elaine_simons",
-  "name": "Les",
+  "id": "rhinehart_janet",
+  "name": "Janet Rhinehart",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,18 +12,16 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "simons_elaine_deretha",
+    "father": "rhinehart_les",
     "siblings": [],
-    "spouse": "simons_elaine_deretha",
+    "spouse": "",
     "children": []
   },
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22"
   ],
-  "notes": [
-    "Husband of Elaine Deretha Simons. Surname not recorded."
-  ],
+  "notes": [],
   "aliases": []
 }

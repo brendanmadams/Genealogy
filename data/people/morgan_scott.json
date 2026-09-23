@@ -1,6 +1,6 @@
 {
-  "id": "simons_elaine_deretha",
-  "name": "Elaine Deretha Simons (Rhinehart)",
+  "id": "morgan_scott",
+  "name": "Scott Morgan",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,21 +12,18 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "kulp_dradie_ellen",
-    "father": "simons_raymond_zell",
+    "mother": "morgan_louise",
+    "father": "",
     "siblings": [],
-    "spouse": "rhinehart_les",
-    "children": [
-      "rhinehart_jerry",
-      "rhinehart_janet"
-    ]
+    "spouse": "",
+    "children": []
   },
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22"
   ],
   "notes": [
-    "Sister of Beryl Simons Adams; married Les Rhinehart."
+    "Son of Louise Morgan, the daughter of Rosemary Wells."
   ],
   "aliases": []
 }

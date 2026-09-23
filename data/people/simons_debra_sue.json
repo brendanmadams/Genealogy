@@ -1,6 +1,6 @@
 {
-  "id": "scott_son_of_louise",
-  "name": "Scott",
+  "id": "simons_debra_sue",
+  "name": "Debra Sue Simons",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,18 +12,19 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "louise_daughter_of_rosemary_wells",
-    "father": "",
+    "mother": "simons_betty",
+    "father": "simons_raymond_elmer",
     "siblings": [],
     "spouse": "",
-    "children": []
+    "children": [],
+    "adopted": true
   },
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22"
   ],
   "notes": [
-    "Son of Louise Morgan, the daughter of Rosemary Wells. Surname not recorded."
+    "Adopted by Elmer and Betty Simons."
   ],
   "aliases": []
 }

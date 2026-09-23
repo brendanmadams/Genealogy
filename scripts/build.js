@@ -277,6 +277,7 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     branch: pb ? pb.key : OTHER.key,
     branch_by_marriage: pb ? pb.byMarriage : false,
     lineages: [...lineages.get(p.id)].sort(),
+    adopted: p.relationships?.adopted === true,
     father: r.father || null,
     mother: r.mother || null,
     parents: [...parentsOf.get(p.id)].sort(),

@@ -58,7 +58,7 @@ export function renderPanel(container, D, p) {
     </header>
     <div class="panel-body">
       ${section('Vitals', `<dl class="vitals"><dt>Born</dt><dd>${born}</dd><dt>Died</dt><dd>${died}</dd>${p.locations?.length ? `<dt>Places</dt><dd>${p.locations.map(esc).join(' · ')}</dd>` : ''}</dl>`)}
-      ${section('Family', group('Parents', parents.map(q => chip(q))) + partnerBlocks + group('Siblings', sibs.full.map(q => chip(q))) + group('Half siblings', sibs.half.map(q => chip(q))) || '<p class="muted">No relationships recorded yet.</p>')}
+      ${section('Family', group(p.adopted ? 'Adoptive parents' : 'Parents', parents.map(q => chip(q))) + partnerBlocks + group('Siblings', sibs.full.map(q => chip(q))) + group('Half siblings', sibs.half.map(q => chip(q))) || '<p class="muted">No relationships recorded yet.</p>')}
       ${section('Photos &amp; documents', gallery(D, p))}
       ${section('Milestones', items(p.milestones, 'timeline'))}
       ${section('Stories &amp; memories', items(p.notable_stories, 'stories'))}

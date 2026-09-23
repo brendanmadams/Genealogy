@@ -1,6 +1,6 @@
 {
-  "id": "simons_raymond_elmer",
-  "name": "Raymond Elmer Simons",
+  "id": "simons_betty",
+  "name": "Betty Simons",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,10 +12,10 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "kulp_dradie_ellen",
-    "father": "simons_raymond_zell",
+    "mother": "",
+    "father": "",
     "siblings": [],
-    "spouse": "simons_betty",
+    "spouse": "simons_raymond_elmer",
     "children": [
       "simons_carl_ray",
       "simons_debra_sue"
@@ -26,9 +26,7 @@
     "Brendan Adams, 2026-09-22"
   ],
   "notes": [
-    "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue."
+    "Wife of Raymond Elmer (\"Elmer\") Simons. Maiden name not recorded."
   ],
-  "aliases": [
-    "Elmer"
-  ]
+  "aliases": []
 }
