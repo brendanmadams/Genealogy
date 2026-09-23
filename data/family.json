@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T14:40:59.954Z",
+  "generated": "2026-09-23T14:47:30.188Z",
   "people": 516,
   "family_members": 465,
   "dna_matches": 51,
-  "connected_people": 463,
-  "families": 157,
+  "connected_people": 464,
+  "families": 158,
   "branches": [
    "adams",
    "hamilton",
@@ -5019,7 +5019,6 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mateo_vlaho_obad",
     "gabriel_michael_obad"
    ],
    "families": [],
@@ -9754,7 +9753,6 @@
     "ivo_john_obad"
    ],
    "children": [
-    "mateo_vlaho_obad",
     "gabriel_michael_obad",
     "alina_camille_obad"
    ],
@@ -12634,7 +12632,6 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "mateo_vlaho_obad",
     "alina_camille_obad"
    ],
    "families": [],
@@ -18693,16 +18690,18 @@
    "mother": null,
    "parents": [],
    "spouses": [
-    "camille_remy"
+    "camille_remy",
+    "susan_obad"
    ],
    "children": [
-    "mateo_vlaho_obad",
     "gabriel_michael_obad",
-    "alina_camille_obad"
+    "alina_camille_obad",
+    "mateo_vlaho_obad"
    ],
    "siblings": [],
    "families": [
-    "F_camille_remy+ivo_john_obad"
+    "F_camille_remy+ivo_john_obad",
+    "F_ivo_john_obad+susan_obad"
    ],
    "parent_family": null,
    "connected": true,
@@ -18726,7 +18725,8 @@
    "notes": [
     "Referenced in Camille Remy: Married Ivo John Obad on August 18, 2006",
     "Relationship: Camille Remy -spouse-> Ivo John Obad",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Calaveras County."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Calaveras County.",
+    "CORRECTION 2026-09-23: First married Susan Obad, mother of his son Mateo; married Camille Remy on 18 Aug 2006."
    ]
   },
   {
@@ -23119,29 +23119,20 @@
    "branch": "obad",
    "branch_by_marriage": false,
    "lineages": [
-    "adams",
-    "hamilton",
-    "kulp",
-    "obad",
-    "remy",
-    "simons",
-    "trumbo"
+    "obad"
    ],
    "adopted": false,
    "father": "ivo_john_obad",
-   "mother": "camille_remy",
+   "mother": "susan_obad",
    "parents": [
-    "camille_remy",
-    "ivo_john_obad"
+    "ivo_john_obad",
+    "susan_obad"
    ],
    "spouses": [],
    "children": [],
-   "siblings": [
-    "gabriel_michael_obad",
-    "alina_camille_obad"
-   ],
+   "siblings": [],
    "families": [],
-   "parent_family": "F_camille_remy+ivo_john_obad",
+   "parent_family": "F_ivo_john_obad+susan_obad",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -23159,9 +23150,10 @@
     "consolidated_research_digest_v1"
    ],
    "notes": [
-    "Siblings listed: Gabriel and Alina. Child of Camille Remy and Ivo Obad.",
+    "Half brother of Gabriel and Alina Obad.",
     "CORRECTION 2026-09-22: Parents filled in from ivo_john_obad and camille_remy, who both list this child.",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person.",
+    "CORRECTION 2026-09-23: Mother is Susan Obad, Ivo's first wife, not Camille Remy (per Brendan Adams). Gabriel and Alina, born after Ivo and Camille married in 2006, are his half siblings."
    ]
   },
   {
@@ -32965,20 +32957,26 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
+   "living_status": "assumed",
+   "branch": "obad",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "ivo_john_obad"
+   ],
+   "children": [
+    "mateo_vlaho_obad"
+   ],
    "siblings": [],
-   "families": [],
+   "families": [
+    "F_ivo_john_obad+susan_obad"
+   ],
    "parent_family": null,
-   "connected": false,
+   "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [],
@@ -32987,14 +32985,17 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Ivo John Obad (his first wife)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "family_notes_adams_mckeldin"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person.",
+    "CORRECTION 2026-09-23: First wife of Ivo John Obad and mother of Mateo Vlaho Obad (per Brendan Adams). Maiden name not recorded."
    ]
   },
   {
@@ -36884,7 +36885,6 @@
     "ivo_john_obad"
    ],
    "children": [
-    "mateo_vlaho_obad",
     "gabriel_michael_obad",
     "alina_camille_obad"
    ],
@@ -37408,6 +37408,17 @@
     "hamilton_caroline_1845",
     "hamilton_mary_a",
     "hamilton_eunice"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_ivo_john_obad+susan_obad",
+   "partners": [
+    "ivo_john_obad",
+    "susan_obad"
+   ],
+   "children": [
+    "mateo_vlaho_obad"
    ],
    "marriage": null
   },

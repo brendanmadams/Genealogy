@@ -8,22 +8,27 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Ivo John Obad (his first wife)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "ivo_john_obad",
+    "children": [
+      "mateo_vlaho_obad"
+    ]
   },
   "locations": [],
   "sources": [
     "family_notes_adams_mckeldin"
   ],
   "notes": [
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person.",
+    "CORRECTION 2026-09-23: First wife of Ivo John Obad and mother of Mateo Vlaho Obad (per Brendan Adams). Maiden name not recorded."
   ],
   "aliases": []
 }
