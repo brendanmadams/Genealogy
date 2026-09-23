@@ -1,6 +1,6 @@
 {
   "id": "quinn_joan",
-  "name": "Joan Quinn",
+  "name": "Joan Quinn (Stang)",
   "birth": "",
   "death": "before 2021",
   "personality": [],
@@ -26,8 +26,10 @@
       "quinn_pat",
       "margaret_peggy_mckeldin"
     ],
-    "spouse": "bern_joan_quinn",
-    "children": []
+    "spouse": "stang_bern",
+    "children": [
+      "stang_mark"
+    ]
   },
   "locations": [
     "Baltimore, MD",
@@ -37,7 +39,8 @@
     "adams_direct_line_json_v1",
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
     "Barbara identifies Joan as one of John Joseph Quinn’s children.",
@@ -46,7 +49,11 @@
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14.",
     "Promoted from unresolved (joan.json).",
-    "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]"
+    "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]",
+    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her \"my aunt Joan Hogan\" in one passage, which may point to an earlier marriage. [Barbara McKeldin Adams, A Memoir, text line 540]"
   ],
-  "aliases": []
+  "aliases": [
+    "Joan Stang",
+    "Joan Hogan"
+  ]
 }

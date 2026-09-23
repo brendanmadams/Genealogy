@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T18:54:09.973Z",
+  "generated": "2026-09-23T19:05:38.434Z",
   "people": 621,
   "family_members": 571,
   "dna_matches": 50,
@@ -9116,61 +9116,6 @@
    "notes": []
   },
   {
-   "id": "bern_joan_quinn",
-   "name": "Bern",
-   "aliases": [],
-   "photo": null,
-   "card_name": null,
-   "media": [],
-   "birth": {
-    "text": "abt 1931",
-    "year": 1931,
-    "qualifier": "about"
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": true,
-   "living_status": "living",
-   "branch": "quinn",
-   "branch_by_marriage": true,
-   "lineages": [],
-   "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "spouses": [
-    "quinn_joan"
-   ],
-   "children": [],
-   "siblings": [],
-   "families": [
-    "F_bern_joan_quinn+quinn_joan"
-   ],
-   "parent_family": null,
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams (personal knowledge), 2026",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
-   ],
-   "notes": [
-    "Aunt Joan Quinn’s partner (surname not recorded). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]"
-   ]
-  },
-  {
    "id": "beryl_simons_adams",
    "name": "Beryl Simons Adams",
    "aliases": [],
@@ -9289,6 +9234,8 @@
     "Died 1 Aug 1998, Sacramento, Sacramento County, CA",
     "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
     "During WWII Beryl first followed George to his training posts, then lived with her family in Pasco while he served in Hawaii; she lived in Pasco again with the children in 1952 while he went ahead to Okinawa.",
+    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
+    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
     "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
     "Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington"
    ],
@@ -9773,6 +9720,8 @@
     "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).",
     "Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother. [Barbara McKeldin Adams, A Memoir, text line 3677]",
     "Surname Shriver per Brendan Adams, who is fairly but not entirely sure of it.",
+    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).",
+    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).",
     "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998)."
    ]
   },
@@ -32344,8 +32293,8 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
+   "branch": "quinn",
+   "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "father": null,
@@ -32873,8 +32822,11 @@
   },
   {
    "id": "quinn_joan",
-   "name": "Joan Quinn",
-   "aliases": [],
+   "name": "Joan Quinn (Stang)",
+   "aliases": [
+    "Joan Stang",
+    "Joan Hogan"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
@@ -32903,16 +32855,18 @@
     "quinn_marie_ellinghaus"
    ],
    "spouses": [
-    "bern_joan_quinn"
+    "stang_bern"
    ],
-   "children": [],
+   "children": [
+    "stang_mark"
+   ],
    "siblings": [
     "margaret_peggy_mckeldin",
     "quinn_john_jr",
     "quinn_pat"
    ],
    "families": [
-    "F_bern_joan_quinn+quinn_joan"
+    "F_quinn_joan+stang_bern"
    ],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
@@ -32941,7 +32895,8 @@
     "adams_direct_line_json_v1",
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Barbara identifies Joan as one of John Joseph Quinn’s children.",
@@ -32950,7 +32905,8 @@
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14.",
     "Promoted from unresolved (joan.json).",
-    "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]"
+    "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]",
+    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her \"my aunt Joan Hogan\" in one passage, which may point to an earlier marriage. [Barbara McKeldin Adams, A Memoir, text line 540]"
    ]
   },
   {
@@ -39409,6 +39365,63 @@
    ]
   },
   {
+   "id": "stang_bern",
+   "name": "Bern Stang",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1931",
+    "year": 1931,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "quinn",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "quinn_joan"
+   ],
+   "children": [
+    "stang_mark"
+   ],
+   "siblings": [],
+   "families": [
+    "F_quinn_joan+stang_bern"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+   ],
+   "notes": [
+    "Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]"
+   ]
+  },
+  {
    "id": "stang_colin",
    "name": "Colin Stang",
    "aliases": [],
@@ -39480,9 +39493,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "quinn",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "quinn"
+   ],
    "adopted": false,
    "father": "stang_mark",
    "mother": "perusek_dawn",
@@ -39586,9 +39601,11 @@
    },
    "living": false,
    "living_status": null,
-   "branch": "other",
+   "branch": "quinn",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "quinn"
+   ],
    "adopted": false,
    "father": "stang_mark",
    "mother": "perusek_dawn",
@@ -39638,14 +39655,19 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
-   "branch": "other",
+   "living_status": "assumed",
+   "branch": "quinn",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "quinn"
+   ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "stang_bern",
+   "mother": "quinn_joan",
+   "parents": [
+    "quinn_joan",
+    "stang_bern"
+   ],
    "spouses": [
     "perusek_dawn"
    ],
@@ -39657,7 +39679,7 @@
    "families": [
     "F_perusek_dawn+stang_mark"
    ],
-   "parent_family": null,
+   "parent_family": "F_quinn_joan+stang_bern",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -39677,8 +39699,8 @@
     "Web research by Claude for Brendan Adams, 2026-09-23 (Legacy.com; people-search listing)"
    ],
    "notes": [
-    "A cousin of Barbara McKeldin Adams; his parents are not recorded (his mother was perhaps a Quinn). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket. [Barbara McKeldin Adams, A Memoir, text line 3389]",
-    "Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his \"big cousin\". John Q. Stang appears as John Quinn Stang in Allentown. So Mark is probably John’s brother, and the middle name Quinn suggests their mother was a Quinn, perhaps Barbara’s Aunt Pat. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]"
+    "Son of Bern and Joan (Quinn) Stang, a cousin of Barbara McKeldin Adams: Joan was the sister of Barbara’s stepmother, Peggy (Quinn) McKeldin (per Brendan Adams). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket. [Barbara McKeldin Adams, A Memoir, text line 3389]",
+    "Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his \"big cousin\". John Q. Stang appears as John Quinn Stang in Allentown. So John is probably Mark’s brother, another son of Bern and Joan (Quinn) Stang; Barbara lists both a John and a Quinn among her cousins. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]"
    ]
   },
   {
@@ -44639,15 +44661,6 @@
    "marriage": "1896"
   },
   {
-   "id": "F_bern_joan_quinn+quinn_joan",
-   "partners": [
-    "bern_joan_quinn",
-    "quinn_joan"
-   ],
-   "children": [],
-   "marriage": null
-  },
-  {
    "id": "F_beryl_simons_adams+bob_beryl",
    "partners": [
     "beryl_simons_adams",
@@ -45841,6 +45854,17 @@
    ],
    "children": [
     "pugh_susan"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_quinn_joan+stang_bern",
+   "partners": [
+    "quinn_joan",
+    "stang_bern"
+   ],
+   "children": [
+    "stang_mark"
    ],
    "marriage": null
   },

@@ -1,6 +1,6 @@
 {
-  "id": "bern_joan_quinn",
-  "name": "Bern",
+  "id": "stang_bern",
+  "name": "Bern Stang",
   "birth": "abt 1931",
   "death": "",
   "personality": [],
@@ -16,7 +16,9 @@
     "father": "",
     "siblings": [],
     "spouse": "quinn_joan",
-    "children": []
+    "children": [
+      "stang_mark"
+    ]
   },
   "locations": [],
   "sources": [
@@ -24,7 +26,7 @@
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
   ],
   "notes": [
-    "Aunt Joan Quinn’s partner (surname not recorded). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]"
+    "Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]"
   ],
   "aliases": []
 }

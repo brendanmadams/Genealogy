@@ -86,12 +86,14 @@ edit('john_howard_adams', p => {
 }, MEM);
 
 // ── 3. From Brendan ───────────────────────────────────────────────────────
-person('bern_joan_quinn', 'Bern', BA, { birth: 'abt 1931', notes: ['Aunt Joan Quinn’s partner (surname not recorded). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year.' + L(3324)] });
-edit('bern_joan_quinn', p => {}, MEM);
-wed('quinn_joan', 'bern_joan_quinn');
-person('stang_mark', 'Mark Stang', BA, { notes: ['A cousin of Barbara McKeldin Adams; his parents are not recorded (his mother was perhaps a Quinn). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket.' + L(3389)] });
+person('stang_bern', 'Bern Stang', BA, { birth: 'abt 1931', notes: ['Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year.' + L(3324)] });
+edit('stang_bern', p => {}, MEM);
+wed('quinn_joan', 'stang_bern');
+person('stang_mark', 'Mark Stang', BA, { notes: ['Son of Bern and Joan (Quinn) Stang, a cousin of Barbara McKeldin Adams: Joan was the sister of Barbara’s stepmother, Peggy (Quinn) McKeldin (per Brendan Adams). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket.' + L(3389)] });
 person('perusek_dawn', 'Dawn Perusek (Stang)', BA, { birth: '23 Jun', aliases: ['Dawn Stang'], notes: ['Wife of Mark Stang.'] });
 wed('stang_mark', 'perusek_dawn');
+child('stang_mark', 'stang_bern', 'quinn_joan');
+edit('quinn_joan', p => { if (p.name === 'Joan Quinn') p.name = 'Joan Quinn (Stang)'; add(p.aliases, 'Joan Stang'); add(p.aliases, 'Joan Hogan'); note(p, `Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her "my aunt Joan Hogan" in one passage, which may point to an earlier marriage.${L(540)}`); }, BA);
 for (const [id, name] of [['stang_kevin', 'Kevin Stang'], ['stang_emily', 'Emily Stang']]) { person(id, name, BA, {}); child(id, 'stang_mark', 'perusek_dawn'); }
 person('bob_beryl', 'Bob', BA, { death: 'bef 1 Aug 1998', notes: ['Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. Surname not recorded. He died before Beryl (1 Aug 1998).', 'Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother.' + L(3677)], locations: ['Olympia, Washington'] });
 edit('bob_beryl', p => {
@@ -106,7 +108,7 @@ edit('falde_brendan', p => { add(p.milestones, 'Died 12 Nov 2020, in a car accid
 // Mark Stang: web research, 2026-09-23 (not conclusive)
 edit('stang_mark', p => {
   add(p.locations, 'Allentown, Pennsylvania');
-  note(p, 'Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his "big cousin". John Q. Stang appears as John Quinn Stang in Allentown. So Mark is probably John’s brother, and the middle name Quinn suggests their mother was a Quinn, perhaps Barbara’s Aunt Pat. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]');
+  note(p, 'Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his "big cousin". John Q. Stang appears as John Quinn Stang in Allentown. So John is probably Mark’s brother, another son of Bern and Joan (Quinn) Stang; Barbara lists both a John and a Quinn among her cousins. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]');
 }, 'Web research by Claude for Brendan Adams, 2026-09-23 (Legacy.com; people-search listing)');
 wed('beryl_simons_adams', 'bob_beryl');
 edit('beryl_simons_adams', p => { add(p.milestones, 'Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington'); add(p.locations, 'Olympia, Washington'); }, BA);
