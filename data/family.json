@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T13:46:03.733Z",
-  "people": 300,
-  "family_members": 249,
+  "generated": "2026-09-23T13:52:42.466Z",
+  "people": 304,
+  "family_members": 253,
   "dna_matches": 51,
-  "connected_people": 247,
-  "families": 88,
+  "connected_people": 251,
+  "families": 90,
   "branches": [
    "adams",
    "hamilton",
@@ -1878,11 +1878,11 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_brooks"
    ],
    "families": [],
@@ -1940,10 +1940,10 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_wendy",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -2081,11 +2081,11 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_anthony"
    ],
    "families": [],
@@ -2206,20 +2206,21 @@
    ],
    "adopted": false,
    "father": "allen_george_philip",
-   "mother": null,
+   "mother": "anthony_esther_jane",
    "parents": [
-    "allen_george_philip"
+    "allen_george_philip",
+    "anthony_esther_jane"
    ],
    "spouses": [
     "wheeler_dorothy_ann",
     "modine_suzzanne"
    ],
    "children": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -2230,7 +2231,7 @@
     "F_allen_george_homer+wheeler_dorothy_ann",
     "F_allen_george_homer+modine_suzzanne"
    ],
-   "parent_family": "F_allen_george_philip",
+   "parent_family": "F_allen_george_philip+anthony_esther_jane",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -2251,8 +2252,8 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Dorothy Ann Wheeler (m. 1944)",
-    "Married Suzzanne Modine (m. 1972)",
+    "Married Dorothy Ann Wheeler (m. 8 May 1944, Sioux Falls, SD)",
+    "Married Suzzanne Modine (m. 22 Nov 1972, Las Vegas, NV)",
     "Served as a Lieutenant in the Third Air Force during WWII",
     "Father of five children from his first marriage",
     "Harvard Law grad",
@@ -2262,12 +2263,14 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Siblings listed: Margaret Jeanice Peggy Allen",
     "Multiple spouses: wheeler_dorothy_ann, modine_suzzanne",
-    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter."
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter.",
+    "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document."
    ]
   },
   {
@@ -2450,8 +2453,7 @@
    ],
    "families": [
     "F_allen_george_philip+anthony_esther_jane",
-    "F_allen_george_philip+koenig_anna_caroline",
-    "F_allen_george_philip"
+    "F_allen_george_philip+koenig_anna_caroline"
    ],
    "parent_family": "F_adams_alberta+allen_george_julius",
    "connected": true,
@@ -2461,25 +2463,30 @@
     "Marceline, MO",
     "Killingholme, England",
     "Pueblo, CO",
-    "San Mateo, CA"
+    "San Mateo, CA",
+    "Santa Clara, CA"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [
     "A Navy airplane mechanic in WWI",
-    "He met his second wife, Caroline, while delivering mail on his postal route in San Mateo — she was a chef at a diner he frequented for all his meals"
+    "He met his second wife, Caroline, while delivering mail on his postal route in San Mateo — she was a chef at a diner he frequented for all his meals",
+    "Shortly after World War II he left the family home in Pueblo, Colorado, and moved to San Mateo, California, where he kept delivering mail for the Post Office."
    ],
    "risk_events": [],
    "milestones": [
-    "Married Esther Jane Anthony (m. 1919)",
+    "Married Esther Jane Anthony (m. 15 Jun 1919, First Baptist Church, Marceline, MO)",
     "Married Anna Caroline Koenig Winfrey (second marriage)",
-    "Worked as a welder and for the ATSF Railroad before starting a career with the US Postal Service"
+    "Worked as a welder and for the ATSF Railroad before starting a career with the US Postal Service",
+    "Joined the U.S. Navy, 3 December 1917, St. Louis, Missouri",
+    "Died 24 February 1972, Santa Clara, California, aged 74"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Siblings listed: Frances Rosetta, Bernice, Henry Eisley, William Laurence, Marion Lafayette, Helen Loraine, Ralph Kenneth, Leroy Gaylord",
@@ -2522,10 +2529,10 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "allen_william_w",
     "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -2657,9 +2664,10 @@
    ],
    "adopted": false,
    "father": "allen_george_philip",
-   "mother": null,
+   "mother": "anthony_esther_jane",
    "parents": [
-    "allen_george_philip"
+    "allen_george_philip",
+    "anthony_esther_jane"
    ],
    "spouses": [
     "seavy_jack_frederick"
@@ -2675,7 +2683,7 @@
    "families": [
     "F_allen_margaret_jeanice+seavy_jack_frederick"
    ],
-   "parent_family": "F_allen_george_philip",
+   "parent_family": "F_allen_george_philip+anthony_esther_jane",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -2688,17 +2696,19 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Jack Frederick Seavy (m. 1948)",
+    "Married Jack Frederick Seavy (m. 3 Sep 1948)",
     "Mother of Jack Jr., Margaret Ann, and Robert Allen Seavy"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Siblings listed: George Homer Allen",
-    "CORRECTION 2026-09-22: Father changed from allen_george_julius (b. 1865) to allen_george_philip. She was born 1925; her brother George Homer Allen (b. 1921) names her as sibling and is George Philip's son. Mother left unknown pending a source (George Philip's first wife Esther Jane Anthony, m. 1919, is the likely candidate)."
+    "CORRECTION 2026-09-22: Father changed from allen_george_julius (b. 1865) to allen_george_philip. She was born 1925; her brother George Homer Allen (b. 1921) names her as sibling and is George Philip's son.",
+    "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document."
    ]
   },
   {
@@ -2812,10 +2822,10 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_benjamin_alistair",
     "allen_wendy",
-    "allen_william_dorothy",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -2874,10 +2884,10 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_benjamin_alistair",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -2903,14 +2913,16 @@
    ]
   },
   {
-   "id": "allen_william_dorothy",
-   "name": "William Allen",
-   "aliases": [],
+   "id": "allen_william_w",
+   "name": "William W. Allen",
+   "aliases": [
+    "Bill Allen"
+   ],
    "photo": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "5 Dec 1952",
+    "year": 1952,
     "qualifier": null
    },
    "death": {
@@ -2918,7 +2930,7 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
+   "living": true,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2933,7 +2945,9 @@
     "allen_george_homer",
     "wheeler_dorothy_ann"
    ],
-   "spouses": [],
+   "spouses": [
+    "janes_ruth_pamela"
+   ],
    "children": [],
    "siblings": [
     "allen_guinevere",
@@ -2943,25 +2957,42 @@
     "allen_anthony",
     "allen_brooks"
    ],
-   "families": [],
+   "families": [
+    "F_allen_william_w+janes_ruth_pamela"
+   ],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Santa Barbara, CA",
+    "Columbus, OH"
+   ],
    "personality": [],
-   "roles": [],
+   "roles": [
+    "Family historian: compiled \"Descendants of Jose Pierre Adams\" (2010) and \"Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams\" (February 2012), continuing research begun by Ralph Allen"
+   ],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
-   "education": [],
+   "milestones": [
+    "Born 5 December 1952, Santa Barbara, California",
+    "Married Ruth Pamela Janes (m. 8 Dec 1991, La Casa de Maria, Santa Barbara, CA)"
+   ],
+   "education": [
+    "Associate of Arts, Santa Barbara City College, 1974",
+    "Studied photography, including with Ruth Bernhardt, Robert Werling and Michael Smith",
+    "B.S. Electrical Engineering, Ohio State University, 1987",
+    "M.S. Electrical Engineering, Ohio State University, 1990"
+   ],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
-    "Child of George Homer Allen and Dorothy Ann Wheeler. Disambiguated from other William Allens."
+    "CORRECTION 2026-09-23: Renamed from \"William Allen\" (id allen_william_dorothy) to William W. \"Bill\" Allen, the family researcher behind the family document and many of the Adams research emails.",
+    "Son of George Homer Allen and Dorothy Ann Wheeler."
    ]
   },
   {
@@ -3027,7 +3058,77 @@
   },
   {
    "id": "anthony_esther_jane",
-   "name": "Esther Jane Anthony",
+   "name": "Esther Jane Anthony (Allen)",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "Sep 1898",
+    "year": 1898,
+    "qualifier": null
+   },
+   "death": {
+    "text": "18 Jun 1982",
+    "year": 1982,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": "anthony_homer_gideon",
+   "mother": "shoush_anna_elizabeth",
+   "parents": [
+    "anthony_homer_gideon",
+    "shoush_anna_elizabeth"
+   ],
+   "spouses": [
+    "allen_george_philip"
+   ],
+   "children": [
+    "allen_george_homer",
+    "allen_margaret_jeanice"
+   ],
+   "siblings": [],
+   "families": [
+    "F_allen_george_philip+anthony_esther_jane"
+   ],
+   "parent_family": "F_anthony_homer_gideon+shoush_anna_elizabeth",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Custer County, NE",
+    "Marceline, MO",
+    "Waukegan, IL",
+    "Pueblo, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [
+    "After years of moving around the West and Midwest for George Philip's work during the Depression, the family settled in Pueblo, Colorado. She wanted a steadier life and was not happy with their modest means."
+   ],
+   "risk_events": [],
+   "milestones": [
+    "Born September 1898, Custer County, Nebraska",
+    "Married George Philip Allen (m. 15 Jun 1919, First Baptist Church, Marceline, MO)",
+    "Died 18 June 1982, Pueblo, Colorado, aged 83"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": [
+    "CORRECTION 2026-09-23: Dates, places, parents and children added from Bill Allen's family document. Mother of George Homer Allen and Margaret Jeanice \"Peggy\" Allen."
+   ]
+  },
+  {
+   "id": "anthony_homer_gideon",
+   "name": "Homer Gideon Anthony",
    "aliases": [],
    "photo": null,
    "media": [],
@@ -3042,20 +3143,22 @@
     "qualifier": null
    },
    "living": false,
-   "branch": "allen",
-   "branch_by_marriage": true,
+   "branch": "other",
+   "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
    "parents": [],
    "spouses": [
-    "allen_george_philip"
+    "shoush_anna_elizabeth"
    ],
-   "children": [],
+   "children": [
+    "anthony_esther_jane"
+   ],
    "siblings": [],
    "families": [
-    "F_allen_george_philip+anthony_esther_jane"
+    "F_anthony_homer_gideon+shoush_anna_elizabeth"
    ],
    "parent_family": null,
    "connected": true,
@@ -3071,10 +3174,10 @@
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
-    "First spouse of George Philip Allen (m. 1919)."
+    "Father of Esther Jane Anthony."
    ]
   },
   {
@@ -8611,6 +8714,62 @@
    ]
   },
   {
+   "id": "janes_ruth_pamela",
+   "name": "Ruth Pamela Janes (Allen)",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "16 Sep 1955",
+    "year": 1955,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_william_w"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_william_w+janes_ruth_pamela"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Long Beach, CA",
+    "Santa Barbara, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 16 September 1955, Long Beach, California",
+    "Married William W. Allen (m. 8 Dec 1991, La Casa de Maria, Santa Barbara, CA)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": []
+  },
+  {
    "id": "jeffery_mckeldin",
    "name": "Jeffery McKeldin",
    "aliases": [],
@@ -9364,18 +9523,21 @@
   },
   {
    "id": "koenig_anna_caroline",
-   "name": "Anna Caroline Koenig (Winfrey)",
-   "aliases": [],
+   "name": "Anna Caroline Koenig (Winfrey, Allen)",
+   "aliases": [
+    "Caroline Allen",
+    "Caroline Winfrey"
+   ],
    "photo": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "16 Feb 1894",
+    "year": 1894,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "27 Jul 1962",
+    "year": 1962,
     "qualifier": null
    },
    "living": false,
@@ -9387,31 +9549,54 @@
    "mother": null,
    "parents": [],
    "spouses": [
-    "allen_george_philip"
+    "allen_george_philip",
+    "winfrey_victor"
    ],
    "children": [],
    "siblings": [],
    "families": [
-    "F_allen_george_philip+koenig_anna_caroline"
+    "F_allen_george_philip+koenig_anna_caroline",
+    "F_koenig_anna_caroline+winfrey_victor"
    ],
    "parent_family": null,
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
-   "personality": [],
+   "locations": [
+    "Germany",
+    "San Mateo, CA",
+    "Burlingame, CA",
+    "Santa Cruz Mountains, CA",
+    "Millbrae, CA"
+   ],
+   "personality": [
+    "Warm and caring",
+    "An incredible cook"
+   ],
    "roles": [],
    "childhood_experience": [],
-   "notable_stories": [],
+   "notable_stories": [
+    "Met George Philip Allen at the San Mateo diner where she cooked. It was on his mail route; he came for lunch, then breakfast and lunch, and dinner too when she worked evenings.",
+    "She and George Philip had a cabin in the Santa Cruz Mountains with an open-air kitchen. Grandchildren remembered her breakfasts cooked on the big wood-burning stove: blueberry pancakes, French toast, bacon and eggs."
+   ],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 16 February 1894, Germany",
+    "Widowed in 1946 when her first husband, Victor Winfrey, died; she had two young sons",
+    "Married George Philip Allen (second marriage for both)",
+    "Died 27 July 1962, Millbrae, San Mateo County, California, aged 68"
+   ],
    "education": [],
-   "career": [],
+   "career": [
+    "Short-order cook at a diner in San Mateo, CA",
+    "Chef at a German restaurant in Burlingame, CA"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
-    "Second spouse of George Philip Allen; was a chef at a diner he frequented on his mail route."
+    "CORRECTION 2026-09-23: Dates, places, first marriage and story added from Bill Allen's family document, which remembers her as warm and caring, treating the grandchildren as her own. Her two sons with Victor Winfrey are not named there."
    ]
   },
   {
@@ -13913,10 +14098,11 @@
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
-    "Second spouse of George Homer Allen (m. 1972)."
+    "Second spouse of George Homer Allen (m. 22 Nov 1972, Las Vegas, NV)."
    ]
   },
   {
@@ -16013,10 +16199,11 @@
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
-    "Spouse of Margaret Jeanice Peggy Allen (m. 1948)."
+    "Spouse of Margaret Jeanice Peggy Allen (m. 3 Sep 1948)."
    ]
   },
   {
@@ -16312,6 +16499,60 @@
    ],
    "notes": [
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+   ]
+  },
+  {
+   "id": "shoush_anna_elizabeth",
+   "name": "Anna Elizabeth Shoush (Anthony)",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "anthony_homer_gideon"
+   ],
+   "children": [
+    "anthony_esther_jane"
+   ],
+   "siblings": [],
+   "families": [
+    "F_anthony_homer_gideon+shoush_anna_elizabeth"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": [
+    "Mother of Esther Jane Anthony."
    ]
   },
   {
@@ -19569,11 +19810,11 @@
     "allen_george_homer"
    ],
    "children": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -19600,12 +19841,13 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married George Homer Allen"
+    "Married George Homer Allen (m. 8 May 1944, Sioux Falls, SD)"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Siblings listed: Marjorie Wheeler",
@@ -19761,6 +20003,58 @@
    "notes": [
     "DNA match #49. Unplaced.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "winfrey_victor",
+   "name": "Victor Winfrey",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1946",
+    "year": 1946,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "koenig_anna_caroline"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_koenig_anna_caroline+winfrey_victor"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": [
+    "First husband of Anna Caroline Koenig; died 1946, leaving her with two young sons."
    ]
   },
   {
@@ -20832,7 +21126,7 @@
     "modine_suzzanne"
    ],
    "children": [],
-   "marriage": "1972"
+   "marriage": "22 Nov 1972, Las Vegas, NV"
   },
   {
    "id": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -20841,15 +21135,15 @@
     "wheeler_dorothy_ann"
    ],
    "children": [
+    "allen_william_w",
     "allen_guinevere",
     "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
-    "allen_william_dorothy",
     "allen_anthony",
     "allen_brooks"
    ],
-   "marriage": "1944"
+   "marriage": "8 May 1944, Sioux Falls, SD"
   },
   {
    "id": "F_allen_george_philemon+spring_juliaetta",
@@ -20863,24 +21157,16 @@
    "marriage": null
   },
   {
-   "id": "F_allen_george_philip",
-   "partners": [
-    "allen_george_philip"
-   ],
-   "children": [
-    "allen_george_homer",
-    "allen_margaret_jeanice"
-   ],
-   "marriage": null
-  },
-  {
    "id": "F_allen_george_philip+anthony_esther_jane",
    "partners": [
     "allen_george_philip",
     "anthony_esther_jane"
    ],
-   "children": [],
-   "marriage": "1919"
+   "children": [
+    "allen_george_homer",
+    "allen_margaret_jeanice"
+   ],
+   "marriage": "15 Jun 1919, First Baptist Church, Marceline, MO"
   },
   {
    "id": "F_allen_george_philip+koenig_anna_caroline",
@@ -20911,7 +21197,7 @@
     "seavy_margaret_ann",
     "seavy_robert_allen"
    ],
-   "marriage": "1948"
+   "marriage": "3 Sep 1948"
   },
   {
    "id": "F_allen_ralph_kenneth+smith_irene_louisa",
@@ -20932,6 +21218,15 @@
    "marriage": null
   },
   {
+   "id": "F_allen_william_w+janes_ruth_pamela",
+   "partners": [
+    "allen_william_w",
+    "janes_ruth_pamela"
+   ],
+   "children": [],
+   "marriage": "8 Dec 1991, La Casa de Maria, Santa Barbara, CA"
+  },
+  {
    "id": "F_anne_marie_bainbridge+george_francis_adams_iv",
    "partners": [
     "anne_marie_bainbridge",
@@ -20945,6 +21240,17 @@
     "ted_adams"
    ],
    "marriage": "23 Nov 1996"
+  },
+  {
+   "id": "F_anthony_homer_gideon+shoush_anna_elizabeth",
+   "partners": [
+    "anthony_homer_gideon",
+    "shoush_anna_elizabeth"
+   ],
+   "children": [
+    "anthony_esther_jane"
+   ],
+   "marriage": null
   },
   {
    "id": "F_barbara_mckeldin_adams+john_howard_adams",
@@ -21280,6 +21586,15 @@
     "christian_mckeldin",
     "jeffery_mckeldin"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_koenig_anna_caroline+winfrey_victor",
+   "partners": [
+    "koenig_anna_caroline",
+    "winfrey_victor"
+   ],
+   "children": [],
    "marriage": null
   },
   {

@@ -9,13 +9,13 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Jack Frederick Seavy (m. 1948)",
+    "Married Jack Frederick Seavy (m. 3 Sep 1948)",
     "Mother of Jack Jr., Margaret Ann, and Robert Allen Seavy"
   ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "anthony_esther_jane",
     "father": "allen_george_philip",
     "siblings": [
       "allen_george_homer"
@@ -31,10 +31,12 @@
     "Pueblo, CO"
   ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
     "Siblings listed: George Homer Allen",
-    "CORRECTION 2026-09-22: Father changed from allen_george_julius (b. 1865) to allen_george_philip. She was born 1925; her brother George Homer Allen (b. 1921) names her as sibling and is George Philip's son. Mother left unknown pending a source (George Philip's first wife Esther Jane Anthony, m. 1919, is the likely candidate)."
+    "CORRECTION 2026-09-22: Father changed from allen_george_julius (b. 1865) to allen_george_philip. She was born 1925; her brother George Homer Allen (b. 1921) names her as sibling and is George Philip's son.",
+    "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document."
   ]
 }

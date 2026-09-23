@@ -1,8 +1,8 @@
 {
-  "id": "modine_suzzanne",
-  "name": "Suzzanne Modine",
+  "id": "winfrey_victor",
+  "name": "Victor Winfrey",
   "birth": "",
-  "death": "",
+  "death": "1946",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -15,15 +15,15 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "allen_george_homer",
+    "spouse": "koenig_anna_caroline",
     "children": []
   },
   "locations": [],
   "sources": [
-    "consolidated_research_digest_v1",
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
-    "Second spouse of George Homer Allen (m. 22 Nov 1972, Las Vegas, NV)."
-  ]
+    "First husband of Anna Caroline Koenig; died 1946, leaving her with two young sons."
+  ],
+  "aliases": []
 }

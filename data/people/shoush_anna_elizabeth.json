@@ -1,6 +1,6 @@
 {
-  "id": "modine_suzzanne",
-  "name": "Suzzanne Modine",
+  "id": "shoush_anna_elizabeth",
+  "name": "Anna Elizabeth Shoush (Anthony)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -15,15 +15,17 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "allen_george_homer",
-    "children": []
+    "spouse": "anthony_homer_gideon",
+    "children": [
+      "anthony_esther_jane"
+    ]
   },
   "locations": [],
   "sources": [
-    "consolidated_research_digest_v1",
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
-    "Second spouse of George Homer Allen (m. 22 Nov 1972, Las Vegas, NV)."
-  ]
+    "Mother of Esther Jane Anthony."
+  ],
+  "aliases": []
 }

@@ -1,28 +1,56 @@
 {
   "id": "koenig_anna_caroline",
-  "name": "Anna Caroline Koenig (Winfrey)",
-  "birth": "",
-  "death": "",
-  "personality": [],
+  "name": "Anna Caroline Koenig (Winfrey, Allen)",
+  "birth": "16 Feb 1894",
+  "death": "27 Jul 1962",
+  "personality": [
+    "Warm and caring",
+    "An incredible cook"
+  ],
   "roles": [],
   "childhood_experience": [],
-  "notable_stories": [],
+  "notable_stories": [
+    "Met George Philip Allen at the San Mateo diner where she cooked. It was on his mail route; he came for lunch, then breakfast and lunch, and dinner too when she worked evenings.",
+    "She and George Philip had a cabin in the Santa Cruz Mountains with an open-air kitchen. Grandchildren remembered her breakfasts cooked on the big wood-burning stove: blueberry pancakes, French toast, bacon and eggs."
+  ],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 16 February 1894, Germany",
+    "Widowed in 1946 when her first husband, Victor Winfrey, died; she had two young sons",
+    "Married George Philip Allen (second marriage for both)",
+    "Died 27 July 1962, Millbrae, San Mateo County, California, aged 68"
+  ],
   "education": [],
-  "career": [],
+  "career": [
+    "Short-order cook at a diner in San Mateo, CA",
+    "Chef at a German restaurant in Burlingame, CA"
+  ],
   "relationships": {
     "mother": "",
     "father": "",
     "siblings": [],
     "spouse": "allen_george_philip",
-    "children": []
+    "children": [],
+    "_extra_spouses": [
+      "winfrey_victor"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Germany",
+    "San Mateo, CA",
+    "Burlingame, CA",
+    "Santa Cruz Mountains, CA",
+    "Millbrae, CA"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
-    "Second spouse of George Philip Allen; was a chef at a diner he frequented on his mail route."
+    "CORRECTION 2026-09-23: Dates, places, first marriage and story added from Bill Allen's family document, which remembers her as warm and caring, treating the grandchildren as her own. Her two sons with Victor Winfrey are not named there."
+  ],
+  "aliases": [
+    "Caroline Allen",
+    "Caroline Winfrey"
   ]
 }

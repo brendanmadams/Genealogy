@@ -14,8 +14,8 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Married Dorothy Ann Wheeler (m. 1944)",
-    "Married Suzzanne Modine (m. 1972)",
+    "Married Dorothy Ann Wheeler (m. 8 May 1944, Sioux Falls, SD)",
+    "Married Suzzanne Modine (m. 22 Nov 1972, Las Vegas, NV)",
     "Served as a Lieutenant in the Third Air Force during WWII",
     "Father of five children from his first marriage",
     "Harvard Law grad",
@@ -24,7 +24,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "anthony_esther_jane",
     "father": "allen_george_philip",
     "siblings": [
       "allen_margaret_jeanice"
@@ -35,7 +35,7 @@
       "allen_benjamin_alistair",
       "allen_wendy",
       "allen_susan",
-      "allen_william_dorothy",
+      "allen_william_w",
       "allen_anthony",
       "allen_brooks"
     ],
@@ -51,11 +51,13 @@
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "family_data_v1"
+    "family_data_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
     "Siblings listed: Margaret Jeanice Peggy Allen",
     "Multiple spouses: wheeler_dorothy_ann, modine_suzzanne",
-    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter."
+    "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter.",
+    "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document."
   ]
 }
