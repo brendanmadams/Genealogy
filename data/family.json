@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T19:39:02.736Z",
+  "generated": "2026-09-23T19:43:27.542Z",
   "people": 623,
   "family_members": 573,
   "dna_matches": 50,
@@ -12163,8 +12163,8 @@
    ]
   },
   {
-   "id": "dickpettie_rosemary",
-   "name": "Rosemary Dickpettie (Olson)",
+   "id": "dickpeddie_rosemary",
+   "name": "Rosemary Dick-Peddie (Olson)",
    "aliases": [
     "Rosemary Olson"
    ],
@@ -12200,7 +12200,7 @@
    ],
    "siblings": [],
    "families": [
-    "F_dickpettie_rosemary+olson_tom_umpa"
+    "F_dickpeddie_rosemary+olson_tom_umpa"
    ],
    "parent_family": null,
    "connected": true,
@@ -12212,7 +12212,9 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Tom “Umpa” Olson (m. 4 Apr abt 1945)"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -13165,9 +13167,10 @@
   },
   {
    "id": "falde_mary",
-   "name": "Mary Falde",
+   "name": "Mary Kelley (Falde, Oden)",
    "aliases": [
-    "Mary Oden"
+    "Mary Oden",
+    "Mary Falde"
    ],
    "photo": null,
    "card_name": null,
@@ -13221,7 +13224,7 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Mother of Randy and Robin Falde. Married first Roger Falde, then “Bugs” Oden; her birth surname is not recorded."
+    "Mother of Randy and Robin Falde. Married first Roger Falde, then “Bugs” Oden."
    ]
   },
   {
@@ -31761,9 +31764,9 @@
    "lineages": [],
    "adopted": false,
    "father": "olson_tom_umpa",
-   "mother": "dickpettie_rosemary",
+   "mother": "dickpeddie_rosemary",
    "parents": [
-    "dickpettie_rosemary",
+    "dickpeddie_rosemary",
     "olson_tom_umpa"
    ],
    "spouses": [
@@ -31780,7 +31783,7 @@
    "families": [
     "F_falde_randy+olson_kris"
    ],
-   "parent_family": "F_dickpettie_rosemary+olson_tom_umpa",
+   "parent_family": "F_dickpeddie_rosemary+olson_tom_umpa",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -31937,9 +31940,9 @@
    "lineages": [],
    "adopted": false,
    "father": "olson_tom_umpa",
-   "mother": "dickpettie_rosemary",
+   "mother": "dickpeddie_rosemary",
    "parents": [
-    "dickpettie_rosemary",
+    "dickpeddie_rosemary",
     "olson_tom_umpa"
    ],
    "spouses": [],
@@ -31949,7 +31952,7 @@
     "olson_kris"
    ],
    "families": [],
-   "parent_family": "F_dickpettie_rosemary+olson_tom_umpa",
+   "parent_family": "F_dickpeddie_rosemary+olson_tom_umpa",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -31991,9 +31994,9 @@
    "lineages": [],
    "adopted": false,
    "father": "olson_tom_umpa",
-   "mother": "dickpettie_rosemary",
+   "mother": "dickpeddie_rosemary",
    "parents": [
-    "dickpettie_rosemary",
+    "dickpeddie_rosemary",
     "olson_tom_umpa"
    ],
    "spouses": [
@@ -32011,7 +32014,7 @@
    "families": [
     "F_olson_bonnie+olson_tom"
    ],
-   "parent_family": "F_dickpettie_rosemary+olson_tom_umpa",
+   "parent_family": "F_dickpeddie_rosemary+olson_tom_umpa",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -32060,7 +32063,7 @@
    "mother": null,
    "parents": [],
    "spouses": [
-    "dickpettie_rosemary"
+    "dickpeddie_rosemary"
    ],
    "children": [
     "olson_tom",
@@ -32069,7 +32072,7 @@
    ],
    "siblings": [],
    "families": [
-    "F_dickpettie_rosemary+olson_tom_umpa"
+    "F_dickpeddie_rosemary+olson_tom_umpa"
    ],
    "parent_family": null,
    "connected": true,
@@ -32081,7 +32084,9 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Rosemary Dick-Peddie (m. 4 Apr abt 1945)"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -45041,9 +45046,9 @@
    "marriage": null
   },
   {
-   "id": "F_dickpettie_rosemary+olson_tom_umpa",
+   "id": "F_dickpeddie_rosemary+olson_tom_umpa",
    "partners": [
-    "dickpettie_rosemary",
+    "dickpeddie_rosemary",
     "olson_tom_umpa"
    ],
    "children": [
@@ -45051,7 +45056,7 @@
     "olson_kris",
     "olson_sigrid"
    ],
-   "marriage": null
+   "marriage": "4 Apr abt 1945"
   },
   {
    "id": "F_douglas_elizabeth+hamilton_gavin_d1814",
