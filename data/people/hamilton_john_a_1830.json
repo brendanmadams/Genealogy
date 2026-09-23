@@ -1,0 +1,45 @@
+{
+  "id": "hamilton_john_a_1830",
+  "name": "John A. Hamilton",
+  "birth": "abt 1830",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Emeline Irwin (Hamilton) (m. 18 Oct 1855, Darke County, OH)"
+  ],
+  "education": [],
+  "career": [
+    "Farmer (1860)",
+    "City marshal of Greenville (1870)",
+    "Clerk (1880)"
+  ],
+  "relationships": {
+    "mother": "deane_elizabeth_phebe",
+    "father": "hamilton_francis_l",
+    "siblings": [],
+    "spouse": "irwin_emeline",
+    "children": [
+      "hamilton_phebe_1856",
+      "hamilton_edward_1858",
+      "hamilton_francis_1859",
+      "hamilton_kate_1861",
+      "hamilton_sophia_1868",
+      "hamilton_emma_1867",
+      "hamilton_anna_b"
+    ]
+  },
+  "locations": [
+    "Greenville, Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Register number 158.1a1. Not the John A. Hamilton born about 1836, son of Thomas W."
+  ],
+  "aliases": []
+}

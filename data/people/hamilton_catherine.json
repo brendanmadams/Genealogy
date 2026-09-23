@@ -1,0 +1,34 @@
+{
+  "id": "hamilton_catherine",
+  "name": "Catherine Hamilton",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Francis Hamilton Jr."
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_francis_jr",
+    "children": [
+      "hamilton_henry_a",
+      "hamilton_mary_b"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Wife of Francis Hamilton Jr.; maiden name not recorded."
+  ],
+  "aliases": []
+}

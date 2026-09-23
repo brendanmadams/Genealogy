@@ -1,0 +1,43 @@
+{
+  "id": "hamilton_eleanor",
+  "name": "Eleanor Hamilton (Ryan)",
+  "birth": "abt 1810",
+  "death": "May 1886",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Rudolph Ryan"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "philpott_eleanor",
+    "father": "hamilton_john_alexander",
+    "siblings": [],
+    "spouse": "ryan_rudolph",
+    "children": [
+      "ryan_mary_e",
+      "ryan_john",
+      "ryan_emily_a",
+      "ryan_george_w",
+      "ryan_francis_l",
+      "ryan_eliza_jane",
+      "ryan_daniel_h",
+      "ryan_william",
+      "ryan_elizabeth_p"
+    ]
+  },
+  "locations": [
+    "Ohio"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Register number 158.1f; born 1810 or 1811."
+  ],
+  "aliases": []
+}

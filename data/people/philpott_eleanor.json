@@ -1,0 +1,44 @@
+{
+  "id": "philpott_eleanor",
+  "name": "Eleanor Philpott (Hamilton)",
+  "birth": "",
+  "death": "aft 1850",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married John Alexander Hamilton (m. 22 Jun 1795, Frederick County, MD)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_john_alexander",
+    "children": [
+      "hamilton_francis_l",
+      "hamilton_eliza_c",
+      "hamilton_john_1c",
+      "hamilton_thomas_w",
+      "hamilton_george_w",
+      "hamilton_eleanor"
+    ]
+  },
+  "locations": [
+    "Frederick County, MD",
+    "Jefferson County, VA",
+    "Greenville, Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Daughter of Barton and Martha (Musgrove) Philpott of Frederick County, Maryland. In 1850 she was living in Greenville, Ohio, with her daughter Eliza C. Jarboe and grandchildren."
+  ],
+  "aliases": [
+    "Nelly Hamilton"
+  ]
+}

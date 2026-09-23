@@ -1,0 +1,41 @@
+{
+  "id": "ryan_rudolph",
+  "name": "Rudolph Ryan",
+  "birth": "",
+  "death": "bef Apr 1848",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Eleanor Hamilton (Ryan)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_eleanor",
+    "children": [
+      "ryan_mary_e",
+      "ryan_john",
+      "ryan_emily_a",
+      "ryan_george_w",
+      "ryan_francis_l",
+      "ryan_eliza_jane",
+      "ryan_daniel_h",
+      "ryan_william",
+      "ryan_elizabeth_p"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Died before 12 April 1848, when Francis L. Hamilton became guardian of his nine minor children."
+  ],
+  "aliases": []
+}

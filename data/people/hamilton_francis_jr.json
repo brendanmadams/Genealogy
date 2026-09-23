@@ -1,0 +1,36 @@
+{
+  "id": "hamilton_francis_jr",
+  "name": "Francis Hamilton Jr.",
+  "birth": "",
+  "death": "1821",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Catherine Hamilton"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_susan",
+    "father": "hamilton_francis",
+    "siblings": [],
+    "spouse": "hamilton_catherine",
+    "children": [
+      "hamilton_henry_a",
+      "hamilton_mary_b"
+    ]
+  },
+  "locations": [
+    "Virginia"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Register number 158.4."
+  ],
+  "aliases": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hamilton_george_w",
+  "name": "George W. Hamilton",
+  "birth": "abt 1814",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Ann Hamilton"
+  ],
+  "education": [],
+  "career": [
+    "Livery business in Greenville (1850)",
+    "Butcher (1860)",
+    "Constable in Greenville (1870)"
+  ],
+  "relationships": {
+    "mother": "philpott_eleanor",
+    "father": "hamilton_john_alexander",
+    "siblings": [],
+    "spouse": "hamilton_ann",
+    "children": [
+      "hamilton_gavin_1840",
+      "hamilton_francis_a_1843",
+      "hamilton_samuel_f",
+      "hamilton_sarah_e"
+    ]
+  },
+  "locations": [
+    "Virginia",
+    "Greenville, Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Register number 158.1e."
+  ],
+  "aliases": []
+}

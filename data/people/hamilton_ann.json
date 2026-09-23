@@ -1,0 +1,38 @@
+{
+  "id": "hamilton_ann",
+  "name": "Ann Hamilton",
+  "birth": "abt 1813",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married George W. Hamilton"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_george_w",
+    "children": [
+      "hamilton_gavin_1840",
+      "hamilton_francis_a_1843",
+      "hamilton_samuel_f",
+      "hamilton_sarah_e"
+    ]
+  },
+  "locations": [
+    "Ohio"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Wife of George W. Hamilton; maiden name not recorded."
+  ],
+  "aliases": []
+}

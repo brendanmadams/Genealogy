@@ -1,0 +1,43 @@
+{
+  "id": "hamilton_john_alexander",
+  "name": "John Alexander Hamilton",
+  "birth": "between 1776 and 1784",
+  "death": "bef 1820",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Eleanor Philpott (Hamilton) (m. 22 Jun 1795, Frederick County, MD)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_susan",
+    "father": "hamilton_francis",
+    "siblings": [],
+    "spouse": "philpott_eleanor",
+    "children": [
+      "hamilton_francis_l",
+      "hamilton_eliza_c",
+      "hamilton_john_1c",
+      "hamilton_thomas_w",
+      "hamilton_george_w",
+      "hamilton_eleanor"
+    ]
+  },
+  "locations": [
+    "Jefferson County, VA",
+    "Frederick County, MD"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Register number 158.1. In 1808 he bought 46 acres of the family estate from his sister Jacobina. Received slaves, silver and a share of land-sale proceeds from his uncle Alexander in 1790."
+  ],
+  "aliases": [
+    "Jacky Hamilton"
+  ]
+}

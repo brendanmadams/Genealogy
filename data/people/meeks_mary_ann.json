@@ -1,0 +1,38 @@
+{
+  "id": "meeks_mary_ann",
+  "name": "Mary Ann Meeks (Hamilton)",
+  "birth": "1825",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Thomas W. Hamilton"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_thomas_w",
+    "children": [
+      "hamilton_alice_g",
+      "hamilton_nancy_jane",
+      "hamilton_phebe_ann",
+      "hamilton_caroline_1845",
+      "hamilton_mary_a",
+      "hamilton_eunice"
+    ]
+  },
+  "locations": [
+    "Virginia"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [],
+  "aliases": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "hamilton_alice_g",
+  "name": "Alice G. Hamilton (House)",
+  "birth": "abt 1841",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Harry House (m. 10 Oct 1857, Darke County, OH)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "meeks_mary_ann",
+    "father": "hamilton_thomas_w",
+    "siblings": [],
+    "spouse": "house_harry",
+    "children": [
+      "house_adelia",
+      "house_ida"
+    ]
+  },
+  "locations": [
+    "Greenville, Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [],
+  "aliases": []
+}

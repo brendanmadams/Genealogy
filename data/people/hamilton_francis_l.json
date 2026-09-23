@@ -1,0 +1,46 @@
+{
+  "id": "hamilton_francis_l",
+  "name": "Francis L. Hamilton",
+  "birth": "abt 1795",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Elizabeth Phebe Deane (Clary, Hamilton) (m. 6 Sep 1829, Darke County, OH)"
+  ],
+  "education": [],
+  "career": [
+    "Kept a tavern at his home in Greenville, Ohio, licensed 1830 to 1837",
+    "Retired farmer in Greenville by 1850"
+  ],
+  "relationships": {
+    "mother": "philpott_eleanor",
+    "father": "hamilton_john_alexander",
+    "siblings": [],
+    "spouse": "deane_elizabeth_phebe",
+    "children": [
+      "hamilton_john_a_1830",
+      "hamilton_caroline_1833",
+      "hamilton_gavin_washington",
+      "hamilton_francis_1839",
+      "hamilton_james_1844",
+      "hamilton_sarah_1846",
+      "hamilton_daniel_1849",
+      "hamilton_isaac_1850"
+    ]
+  },
+  "locations": [
+    "Virginia",
+    "Greenville, Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Register number 158.1a. In 1848 he became guardian of the nine minor children of his late brother-in-law Rudolph Ryan."
+  ],
+  "aliases": []
+}

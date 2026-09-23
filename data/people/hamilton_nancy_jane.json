@@ -1,0 +1,36 @@
+{
+  "id": "hamilton_nancy_jane",
+  "name": "Nancy Jane Hamilton (Mann)",
+  "birth": "abt 1841",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married James M. Mann (m. 19 Jun 1861, Darke County, OH)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "meeks_mary_ann",
+    "father": "hamilton_thomas_w",
+    "siblings": [],
+    "spouse": "mann_james_m",
+    "children": [
+      "mann_margaret",
+      "mann_rolla_w"
+    ]
+  },
+  "locations": [
+    "Greenville, Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Two further children are listed only as unknown."
+  ],
+  "aliases": []
+}

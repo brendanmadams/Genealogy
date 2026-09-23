@@ -1,0 +1,964 @@
+{
+ "source": "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+ "text_file": "claude_cowork/06_Archive/inbox_processed/AdamsFamilyDoc_ocr_text.txt",
+ "people": {
+  "adams_susan_twin": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Joseph P. and Elizabeth (Hamilton) Adams, twin of Ursula.",
+     "lines": [
+      7598
+     ],
+     "quote": "and Susan and Ursula, twins, both of whom are deceased."
+    }
+   ]
+  },
+  "adams_ursula_twin": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Joseph P. and Elizabeth (Hamilton) Adams, twin of Susan.",
+     "lines": [
+      7598
+     ],
+     "quote": "and Susan and Ursula, twins, both of whom are deceased."
+    }
+   ]
+  },
+  "adams_george_w_1857": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": "1860",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Listed as a child in A. W. Adams's household in the 1860 census. His death certificate names his father as Alexander Adams of Virginia.",
+     "lines": [
+      7930
+     ],
+     "quote": "George's death certificate also lists his father as Alexander Adams, of Virginia"
+    },
+    {
+     "kind": "child",
+     "date": "1900",
+     "place": null,
+     "value": "Had a number of children by 1900 (names not given).",
+     "lines": [
+      7927
+     ],
+     "quote": "By 1900, he has a number of children, although his wife died in 1892."
+    },
+    {
+     "kind": "residence",
+     "date": "1900",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "In the 1900 census he and his family lived a few houses from the Gills.",
+     "lines": [
+      8056
+     ],
+     "quote": "George and his family are only a few houses away from the Gills"
+    },
+    {
+     "kind": "marriage",
+     "date": "1906",
+     "place": "Licking County, Ohio",
+     "value": "Married Mrs. Jennie (Drumm) Parr in 1906. His parents' names appear on the license.",
+     "lines": [
+      7928
+     ],
+     "quote": "In 1906, George remarries to Mrs. Jennie (Drumm) Parr"
+    },
+    {
+     "kind": "death",
+     "date": null,
+     "place": null,
+     "value": "At his death he was living at the house of a Mrs. Floyd Stedman, the informant on his death certificate. Her relationship to him is unknown.",
+     "lines": [
+      7932
+     ],
+     "quote": "the informant on his death certificate was a Mrs. Floyd Stedman"
+    },
+    {
+     "kind": "marriage",
+     "date": "Apr 1906",
+     "place": "Licking County, Ohio",
+     "value": "Marriage license for George W. Adams and Jennie S. (Drumm) Parr",
+     "lines": [
+      8143
+     ],
+     "quote": "George W. Adams & Jennie S. (Drumm) Parr"
+    },
+    {
+     "kind": "death",
+     "date": "Mar 1940",
+     "place": "Licking County, Ohio",
+     "value": "Death certificate for George W. Adams, March 1940, Licking County",
+     "lines": [
+      8309
+     ],
+     "quote": "Death Certificate, George W. Adams, March, 1940, Licking County,"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "One of Alexander's two surviving children (with Mary Rebecca)",
+     "lines": [
+      8549
+     ],
+     "quote": "Alexander’s two surviving children, George W. and"
+    },
+    {
+     "kind": "spouse",
+     "date": null,
+     "place": null,
+     "value": "First wife was Carrie A. Davis, who bore him five children",
+     "lines": [
+      8570
+     ],
+     "quote": "Carrie A. Davis, bore him five children: Harriet Ray, Ralph Stanley"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Children with Carrie A. Davis: Harriet Ray, Ralph Stanley, Ethel Jane, George Edgar and Alice Christiana",
+     "lines": [
+      8570
+     ],
+     "quote": "bore him five children: Harriet Ray, Ralph Stanley ... Ethel Jane, George Edgar and Alice Christiana."
+    },
+    {
+     "kind": "spouse",
+     "date": null,
+     "place": null,
+     "value": "Second wife Jennie died in 1923",
+     "lines": [
+      8583
+     ],
+     "quote": "George’s second wife, Jennie, died in 1923, and she, George"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Newark, Licking County, Ohio",
+     "value": "Buried in Cedar Hill Cemetery, Newark, with wives Jennie and Carrie",
+     "lines": [
+      8584
+     ],
+     "quote": "and Carrie are buried in Cedar Hill Cemetery in Newark."
+    },
+    {
+     "kind": "birth",
+     "date": "Dec 1857",
+     "place": null,
+     "value": "Born December 1857 (gravestone)",
+     "lines": [
+      8589
+     ],
+     "quote": "Dec. 1857"
+    },
+    {
+     "kind": "death",
+     "date": "5 Mar 1940",
+     "place": null,
+     "value": "Died 5 March 1940 (gravestone)",
+     "lines": [
+      8590
+     ],
+     "quote": "March 5, 1940"
+    }
+   ]
+  },
+  "davis_carrie_a": {
+   "facts": [
+    {
+     "kind": "spouse",
+     "date": null,
+     "place": null,
+     "value": "First wife of George W. Adams",
+     "lines": [
+      8569
+     ],
+     "quote": "George W. Adams went on to have a family. His first wife,"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Mother of five children: Harriet Ray, Ralph Stanley, Ethel Jane, George Edgar and Alice Christiana Adams",
+     "lines": [
+      8570
+     ],
+     "quote": "Carrie A. Davis, bore him five children: Harriet Ray, Ralph Stanley"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Newark, Ohio",
+     "value": "Buried in Cedar Hill Cemetery, Newark",
+     "lines": [
+      8584
+     ],
+     "quote": "and Carrie are buried in Cedar Hill Cemetery in Newark."
+    },
+    {
+     "kind": "birth",
+     "date": "1860",
+     "place": null,
+     "value": "Born 1860 (gravestone)",
+     "lines": [
+      8594
+     ],
+     "quote": "1860"
+    },
+    {
+     "kind": "death",
+     "date": "6 Jun 1892",
+     "place": null,
+     "value": "Died 6 June 1892 (gravestone)",
+     "lines": [
+      8595
+     ],
+     "quote": "June 6, 1892"
+    },
+    {
+     "kind": "death",
+     "date": "1892",
+     "place": null,
+     "value": "Died in 1892.",
+     "lines": [
+      7927
+     ],
+     "quote": "although his wife died in 1892."
+    }
+   ]
+  },
+  "drumm_jennie_s": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": "Apr 1906",
+     "place": "Licking County, Ohio",
+     "value": "Married George W. Adams (marriage license)",
+     "lines": [
+      8143
+     ],
+     "quote": "George W. Adams & Jennie S. (Drumm) Parr"
+    },
+    {
+     "kind": "death",
+     "date": "1923",
+     "place": null,
+     "value": "Died in 1923",
+     "lines": [
+      8583
+     ],
+     "quote": "George’s second wife, Jennie, died in 1923"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Newark, Ohio",
+     "value": "Buried in Cedar Hill Cemetery, Newark",
+     "lines": [
+      8584
+     ],
+     "quote": "and Carrie are buried in Cedar Hill Cemetery in Newark."
+    },
+    {
+     "kind": "marriage",
+     "date": "1906",
+     "place": "Licking County, Ohio",
+     "value": "Married George W. Adams in 1906; previously married (Mrs. Parr, maiden name Drumm).",
+     "lines": [
+      7928
+     ],
+     "quote": "In 1906, George remarries to Mrs. Jennie (Drumm) Parr"
+    }
+   ]
+  },
+  "adams_harriet_ray": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George W. Adams and Carrie A. Davis",
+     "lines": [
+      8570
+     ],
+     "quote": "Carrie A. Davis, bore him five children: Harriet Ray,"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "She was the Harriet Adams who was informant on Stephen Gill's death certificate",
+     "lines": [
+      8580
+     ],
+     "quote": "His daughter, Harriet Ray, is the Harriet Adams who was the informant for Stephen Gill’s death certificate."
+    }
+   ]
+  },
+  "adams_ralph_stanley": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of George W. Adams and Carrie A. Davis",
+     "lines": [
+      8570
+     ],
+     "quote": "bore him five children: Harriet Ray, Ralph Stanley"
+    },
+    {
+     "kind": "residence",
+     "date": "1900",
+     "place": null,
+     "value": "Living with the Gill family in 1900",
+     "lines": [
+      8571
+     ],
+     "quote": "(remember Ralph S. living with the Gills in 1900)"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Zona Irwin; they had no children",
+     "lines": [
+      8573
+     ],
+     "quote": "Ralph married a Zona Irwin and they had no children."
+    },
+    {
+     "kind": "residence",
+     "date": "1900",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "Living in the Gill household in the 1900 census.",
+     "lines": [
+      8059
+     ],
+     "quote": "there is a Ralph S. Adams living in the Gill household as well."
+    }
+   ]
+  },
+  "irwin_zona": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Ralph Stanley Adams; no children",
+     "lines": [
+      8573
+     ],
+     "quote": "Ralph married a Zona Irwin and they had no children."
+    }
+   ]
+  },
+  "adams_ethel_jane": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George W. Adams and Carrie A. Davis",
+     "lines": [
+      8572
+     ],
+     "quote": "Ethel Jane,"
+    }
+   ]
+  },
+  "adams_george_edgar": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of George W. Adams and Carrie A. Davis",
+     "lines": [
+      8572
+     ],
+     "quote": "George Edgar and Alice Christiana"
+    }
+   ]
+  },
+  "adams_alice_christiana": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George W. Adams and Carrie A. Davis",
+     "lines": [
+      8572
+     ],
+     "quote": "George Edgar and Alice Christiana"
+    },
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Ralph W. Wright",
+     "lines": [
+      8574
+     ],
+     "quote": "Alice married Ralph W. Wright and had a daughter, Harriet"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Daughter Harriet Jean Wright, born March 1917",
+     "lines": [
+      8574
+     ],
+     "quote": "Alice married Ralph W. Wright and had a daughter, Harriet Jean Wright, born March 1917."
+    }
+   ]
+  },
+  "wright_ralph_w": {
+   "facts": [
+    {
+     "kind": "marriage",
+     "date": null,
+     "place": null,
+     "value": "Married Alice Christiana Adams",
+     "lines": [
+      8574
+     ],
+     "quote": "Alice married Ralph W. Wright and had a daughter, Harriet"
+    },
+    {
+     "kind": "child",
+     "date": null,
+     "place": null,
+     "value": "Daughter Harriet Jean Wright, born March 1917",
+     "lines": [
+      8575
+     ],
+     "quote": "Jean Wright, born March 1917."
+    }
+   ]
+  },
+  "wright_harriet_jean": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "Mar 1917",
+     "place": null,
+     "value": "Born March 1917",
+     "lines": [
+      8575
+     ],
+     "quote": "Jean Wright, born March 1917."
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Alice Christiana Adams and Ralph W. Wright",
+     "lines": [
+      8574
+     ],
+     "quote": "Alice married Ralph W. Wright and had a daughter, Harriet"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Author could not determine whether or whom she married",
+     "lines": [
+      8575
+     ],
+     "quote": "I have not been able to determine if or who she married."
+    }
+   ]
+  },
+  "adams_mary_rebecca": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "One of Alexander's two surviving children (with George W.)",
+     "lines": [
+      8549
+     ],
+     "quote": "Alexander’s two surviving children, George W. and Mary Rebecca,"
+    },
+    {
+     "kind": "residence",
+     "date": null,
+     "place": null,
+     "value": "Lived with the Gill family for the rest of her life and never married",
+     "lines": [
+      8552
+     ],
+     "quote": "Mary Rebecca ends up living with the Gill family for the rest of her life, never marrying."
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hill Cemetery, Newark, Ohio",
+     "value": "Buried at Cedar Hill Cemetery with Stephen and Harriet Gill, on the opposite side of their monument",
+     "lines": [
+      8553
+     ],
+     "quote": "She is buried at Cedar Hill Cemetery in Newark, Ohio, with Stephen and Harriet."
+    },
+    {
+     "kind": "birth",
+     "date": "20 Dec 1854",
+     "place": null,
+     "value": "Born 20 December 1854 (gravestone)",
+     "lines": [
+      8564
+     ],
+     "quote": "Dec. 20, 1854"
+    },
+    {
+     "kind": "death",
+     "date": "30 Apr 1905",
+     "place": null,
+     "value": "Died 30 April 1905 (gravestone)",
+     "lines": [
+      8565
+     ],
+     "quote": "April 30, 1905"
+    },
+    {
+     "kind": "parent",
+     "date": "1860",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Listed as a child in A. W. Adams's household in the 1860 census.",
+     "lines": [
+      7834
+     ],
+     "quote": "and four children: Helen N., Mary R., George W., and Evarilda."
+    },
+    {
+     "kind": "residence",
+     "date": "1880",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "Listed as a niece in Stephen Gill's household in the 1880 census; her father was born in Virginia and her mother in Germany.",
+     "lines": [
+      7901
+     ],
+     "quote": "Mary R. Adams turns up in the 1880 census, where else but in the Stephen Gill family, and is listed as a niece!"
+    },
+    {
+     "kind": "residence",
+     "date": "1900",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "Still living with the Gills in 1900, a few houses from her brother George.",
+     "lines": [
+      8057
+     ],
+     "quote": "George and his family are only a few houses away from the Gills, where his sister Mary still lives."
+    }
+   ]
+  },
+  "adams_evarilda": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": "1860",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Listed as a child in A. W. Adams's household in the 1860 census.",
+     "lines": [
+      7834
+     ],
+     "quote": "and four children: Helen N., Mary R., George W., and Evarilda."
+    }
+   ]
+  },
+  "adams_helen_n": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": "1860",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Listed as a child in A. W. Adams's household in the 1860 census.",
+     "lines": [
+      7834
+     ],
+     "quote": "and four children: Helen N., Mary R., George W., and Evarilda."
+    }
+   ]
+  },
+  "gill_stephen_milton": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "10 Jan 1849",
+     "place": null,
+     "value": "Born 10 January 1849.",
+     "lines": [
+      7600
+     ],
+     "quote": "Milton S., whose birth occurred January 10, 1849"
+    },
+    {
+     "kind": "death",
+     "date": "28 May 1889",
+     "place": null,
+     "value": "Died May 28, forty years after his birth (i.e. 1889).",
+     "lines": [
+      7603
+     ],
+     "quote": "May 28, forty years later"
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Stephen A. Gill and Harriet J. (Adams) Gill.",
+     "lines": [
+      7600
+     ],
+     "quote": "To Mr. and Mrs. Gill were born two children: Milton S."
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of Stephen Gill and Harriet Josephine (Adams) Gill",
+     "lines": [
+      8597
+     ],
+     "quote": "Harriet and Stephen Gill had two children, Stephen Milton, and"
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Died early, at age forty, never having married",
+     "lines": [
+      8598
+     ],
+     "quote": "S. Milton, as he was called, died early at the age of forty, without ever marrying."
+    },
+    {
+     "kind": "death",
+     "date": "28 May 1889",
+     "place": "Union Township, Licking County, Ohio",
+     "value": "Died about 3:30 a.m. at his father's home in Union Township, aged forty, of typhoid pneumonia after a little over three weeks' illness (Newark Daily Advocate, Tuesday 28 May 1889, 'this morning')",
+     "lines": [
+      8611
+     ],
+     "quote": "dead. Tbe death took place this morning"
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hill Cemetery",
+     "value": "Funeral from his home in Union Township, interment in Cedar Hill Cemetery",
+     "lines": [
+      8629
+     ],
+     "quote": "be ia Cedar Hill cemetery."
+    },
+    {
+     "kind": "religion",
+     "date": null,
+     "place": null,
+     "value": "Obituary describes him as a true Christian",
+     "lines": [
+      8634
+     ],
+     "quote": "He was a true Christian, a loving son and"
+    },
+    {
+     "kind": "story",
+     "date": null,
+     "place": null,
+     "value": "His obituary praised him as a highly intelligent, noble, affectionate young man, a loving son and brother, whose death was a blow to his aged parents and many friends.",
+     "lines": [
+      8631
+     ],
+     "quote": "was a yonng man of a high order of intelligence and cf great nobility of character."
+    }
+   ]
+  },
+  "gill_mary_frances": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Stephen A. Gill and Harriet J. (Adams) Gill.",
+     "lines": [
+      7603
+     ],
+     "quote": "and Mary Frances, who resides with her father."
+    },
+    {
+     "kind": "residence",
+     "date": "abt 1908",
+     "place": "Hebron, Licking County, Ohio",
+     "value": "Living with her father at the time of the biography.",
+     "lines": [
+      7603
+     ],
+     "quote": "Mary Frances, who resides with her father."
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of Stephen Gill and Harriet Josephine (Adams) Gill",
+     "lines": [
+      8597
+     ],
+     "quote": "Harriet and Stephen Gill had two children, Stephen Milton, and Mary Frances."
+    },
+    {
+     "kind": "residence",
+     "date": null,
+     "place": null,
+     "value": "Never married; lived with her father Stephen until his death in 1912",
+     "lines": [
+      8599
+     ],
+     "quote": "Mary Frances did not marry either, and lived with her father, Stephen, until he died in 1912."
+    },
+    {
+     "kind": "birth",
+     "date": "8 Jan 1851",
+     "place": null,
+     "value": "Born 8 January 1851 (obituary)",
+     "lines": [
+      8654
+     ],
+     "quote": "having been born Jan. 8, 1851, the"
+    },
+    {
+     "kind": "residence",
+     "date": null,
+     "place": "Newark, Ohio",
+     "value": "Spent much of her life in Newark",
+     "lines": [
+      8660
+     ],
+     "quote": "Much of her life had been spent in Newark."
+    },
+    {
+     "kind": "religion",
+     "date": null,
+     "place": null,
+     "value": "Affiliated with the Licking Baptist church",
+     "lines": [
+      8662
+     ],
+     "quote": "was affiliated with the Licking Baptist church."
+    },
+    {
+     "kind": "burial",
+     "date": null,
+     "place": "Cedar Hill Cemetery",
+     "value": "Services at Clunis and Householder mortuary; interment in Cedar Hill Cemetery",
+     "lines": [
+      8670
+     ],
+     "quote": "n Cedar Hill cemetery."
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Survived by numerous nieces and nephews",
+     "lines": [
+      8659
+     ],
+     "quote": "is survived by numerous nieces and nephews."
+    }
+   ]
+  },
+  "swan_horatio_m": {
+   "facts": [
+    {
+     "kind": "residence",
+     "date": "1850",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Age 23 in the Lewis Swan household in the 1850 census",
+     "lines": [
+      8336
+     ],
+     "quote": "Horatio M., age 23;"
+    },
+    {
+     "kind": "residence",
+     "date": "1860",
+     "place": "Cleveland, Cuyahoga County, Ohio",
+     "value": "Head of household in the 1860 census",
+     "lines": [
+      8494
+     ],
+     "quote": "US Census 1860, Cleveland, Cuyahoga County, Ohio H (oratio) M. Swan household"
+    }
+   ]
+  },
+  "swan_melissa": {
+   "facts": [
+    {
+     "kind": "residence",
+     "date": "1850",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Age 18 in the Lewis Swan household in the 1850 census",
+     "lines": [
+      8337
+     ],
+     "quote": "Melissa, age 18"
+    }
+   ]
+  },
+  "swan_mary_elizabeth": {
+   "facts": [
+    {
+     "kind": "residence",
+     "date": "1850",
+     "place": "Columbus, Franklin County, Ohio",
+     "value": "Age 10 in the Lewis Swan household in the 1850 census",
+     "lines": [
+      8337
+     ],
+     "quote": "Mary Elizabeth, age 10."
+    },
+    {
+     "kind": "other",
+     "date": null,
+     "place": null,
+     "value": "Author lost track of her after her marriage",
+     "lines": [
+      8548
+     ],
+     "quote": "Magdalena’s daughter, Mary Elizabeth Swan, married, we lose track of her."
+    }
+   ]
+  },
+  "adams_charles_w": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of John Wesley Adams; had a family but no descendants survive today.",
+     "lines": [
+      6548
+     ],
+     "quote": "John Wesley’s other children, Charles, William\nWallace, Gertrude and Mary Susan had families as well"
+    }
+   ]
+  },
+  "adams_myrtle_anna": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of John Wesley Adams; ancestor of the Urbach line.",
+     "lines": [
+      6547
+     ],
+     "quote": "and for the Urbach line, from John’s\ndaughter, Myrtle."
+    }
+   ]
+  },
+  "adams_william_w_1885": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Son of John Wesley Adams; had a family but no descendants survive today.",
+     "lines": [
+      6548
+     ],
+     "quote": "John Wesley’s other children, Charles, William\nWallace, Gertrude and Mary Susan had families as well"
+    }
+   ]
+  },
+  "adams_mary_1845": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": "1850",
+     "place": "Chariton County, Missouri",
+     "value": "Listed as child in the 1850 census household of George and Synthia Adams.",
+     "lines": [
+      6607
+     ],
+     "quote": "Synthia [sic] with five of the children: John, Alexander, Mary, Joseph,"
+    }
+   ]
+  },
+  "adams_nancy_e": {
+   "facts": [
+    {
+     "kind": "birth",
+     "date": "1860",
+     "place": null,
+     "value": "Born in 1860, just after the 1860 census was taken (per 1870 census).",
+     "lines": [
+      6611
+     ],
+     "quote": "Census, we see that Nancy Elizabeth is born in 1860, just after the\ncensus of 1860 was taken."
+    },
+    {
+     "kind": "parent",
+     "date": null,
+     "place": null,
+     "value": "Daughter of George F. Adams (#1).",
+     "lines": [
+      6611
+     ],
+     "quote": "Census, we see that Nancy Elizabeth is born in 1860"
+    },
+    {
+     "kind": "residence",
+     "date": "1880",
+     "place": "Castle Rock, Douglas County, Colorado",
+     "value": "In 1880 living in Colorado with her father; one of his two youngest daughters.",
+     "lines": [
+      6615
+     ],
+     "quote": "Colorado, and George is living with his two youngest daughters,\nNancy and Virginia."
+    }
+   ]
+  },
+  "adams_virginia_m": {
+   "facts": [
+    {
+     "kind": "parent",
+     "date": "1860",
+     "place": null,
+     "value": "Appears as a child of George and Cynthia Adams in the 1860 census.",
+     "lines": [
+      6610
+     ],
+     "quote": "have also added Harriett, James C. and Virginia."
+    },
+    {
+     "kind": "residence",
+     "date": "1880",
+     "place": "Castle Rock, Douglas County, Colorado",
+     "value": "In 1880 living in Colorado with her father; one of his two youngest daughters.",
+     "lines": [
+      6615
+     ],
+     "quote": "Colorado, and George is living with his two youngest daughters,\nNancy and Virginia."
+    }
+   ]
+  }
+ }
+}

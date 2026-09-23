@@ -1,0 +1,42 @@
+{
+  "id": "hamilton_thomas_w",
+  "name": "Thomas W. Hamilton",
+  "birth": "abt 1812",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Mary Ann Meeks (Hamilton)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "philpott_eleanor",
+    "father": "hamilton_john_alexander",
+    "siblings": [],
+    "spouse": "meeks_mary_ann",
+    "children": [
+      "hamilton_john_a_1836",
+      "hamilton_alice_g",
+      "hamilton_nancy_jane",
+      "hamilton_phebe_ann",
+      "hamilton_caroline_1845",
+      "hamilton_mary_a",
+      "hamilton_eunice"
+    ]
+  },
+  "locations": [
+    "Virginia",
+    "Greenville Township, Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Register number 158.1d. Mary Ann Meeks was too young to be the mother of his first child, so he may have married earlier."
+  ],
+  "aliases": []
+}

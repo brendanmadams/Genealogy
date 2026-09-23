@@ -1,0 +1,39 @@
+{
+  "id": "rieker_mary_elizabeth",
+  "name": "Mary Elizabeth Rieker (Hamilton)",
+  "birth": "1846",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Buried in Otterbein Cemetery, Darke County, Ohio",
+    "Married Samuel F. Hamilton (m. 28 Dec 1865, Darke County, OH)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_samuel_f",
+    "children": [
+      "hamilton_isaac_1867",
+      "hamilton_evaline",
+      "hamilton_louisa_1879",
+      "hamilton_amanda_1880"
+    ]
+  },
+  "locations": [
+    "Ohio"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Her death year is misprinted in the register (\"1827\")."
+  ],
+  "aliases": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "baker_walter",
+  "name": "Walter Baker",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Jacobina Hamilton (Baker) (m. 2 Apr 1817, Frederick County, MD)",
+    "Married Magdalena Hamilton (Baker)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_jacobina",
+    "children": [
+      "baker_washington"
+    ],
+    "_extra_spouses": [
+      "hamilton_magdalena"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [
+    "Married Magdalena Hamilton and, after her, her sister Jacobina Hamilton (1817)."
+  ],
+  "aliases": []
+}

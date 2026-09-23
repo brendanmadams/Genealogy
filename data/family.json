@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T14:31:58.827Z",
-  "people": 401,
-  "family_members": 350,
+  "generated": "2026-09-23T14:40:59.954Z",
+  "people": 516,
+  "family_members": 465,
   "dna_matches": 51,
-  "connected_people": 348,
-  "families": 128,
+  "connected_people": 463,
+  "families": 157,
   "branches": [
    "adams",
    "hamilton",
@@ -289,12 +289,19 @@
    "spouses": [
     "konitzer_christiana"
    ],
-   "children": [],
+   "children": [
+    "adams_mary_rebecca",
+    "adams_george_w_1857",
+    "adams_evarilda",
+    "adams_helen_n"
+   ],
    "siblings": [
     "adams_george_francis_1",
     "adams_mary_swan",
     "adams_harriet_josephine",
-    "adams_magdalena"
+    "adams_magdalena",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
    "families": [
     "F_adams_alexander_washington+konitzer_christiana"
@@ -458,6 +465,73 @@
     "Obituary lists children by Mary Martin as Loula, Willie, Caleb, Homer, Alexander, Frank, Fred, Ollie, George and Grace (an Alexander not in the register list) [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4222]",
     "Title \"Col\" appears in the doc although his recorded rank was private/sergeant [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 4094]"
    ]
+  },
+  {
+   "id": "adams_alice_christiana",
+   "name": "Alice Christiana Adams (Wright)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_w_1857",
+   "mother": "davis_carrie_a",
+   "parents": [
+    "adams_george_w_1857",
+    "davis_carrie_a"
+   ],
+   "spouses": [
+    "wright_ralph_w"
+   ],
+   "children": [
+    "wright_harriet_jean"
+   ],
+   "siblings": [
+    "adams_harriet_ray",
+    "adams_ralph_stanley",
+    "adams_ethel_jane",
+    "adams_george_edgar"
+   ],
+   "families": [
+    "F_adams_alice_christiana+wright_ralph_w"
+   ],
+   "parent_family": "F_adams_george_w_1857+davis_carrie_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ralph W. Wright"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_alice_e",
@@ -814,7 +888,8 @@
     "Railroad engineer"
    ],
    "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Brother of Mary Susan Adams; ended up under psychiatric care [Bill Allen, Descendants of Jose Pierre Adams, line 4637]"
@@ -1084,6 +1159,123 @@
    "career": [],
    "sources": [
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_ethel_jane",
+   "name": "Ethel Jane Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_w_1857",
+   "mother": "davis_carrie_a",
+   "parents": [
+    "adams_george_w_1857",
+    "davis_carrie_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_harriet_ray",
+    "adams_ralph_stanley",
+    "adams_george_edgar",
+    "adams_alice_christiana"
+   ],
+   "families": [],
+   "parent_family": "F_adams_george_w_1857+davis_carrie_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "adams_evarilda",
+   "name": "Evarilda Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_washington",
+   "mother": "konitzer_christiana",
+   "parents": [
+    "adams_alexander_washington",
+    "konitzer_christiana"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_mary_rebecca",
+    "adams_george_w_1857",
+    "adams_helen_n"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_washington+konitzer_christiana",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": []
   },
@@ -1563,6 +1755,65 @@
    "notes": []
   },
   {
+   "id": "adams_george_edgar",
+   "name": "George Edgar Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_w_1857",
+   "mother": "davis_carrie_a",
+   "parents": [
+    "adams_george_w_1857",
+    "davis_carrie_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_harriet_ray",
+    "adams_ralph_stanley",
+    "adams_ethel_jane",
+    "adams_alice_christiana"
+   ],
+   "families": [],
+   "parent_family": "F_adams_george_w_1857+davis_carrie_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "adams_george_f_1887",
    "name": "George F. Adams",
    "aliases": [],
@@ -1691,7 +1942,9 @@
     "adams_alexander_washington",
     "adams_mary_swan",
     "adams_harriet_josephine",
-    "adams_magdalena"
+    "adams_magdalena",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
    "families": [
     "F_adams_george_francis_1+lane_cynthia"
@@ -1902,6 +2155,89 @@
    ]
   },
   {
+   "id": "adams_george_w_1857",
+   "name": "George W. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Dec 1857",
+    "year": 1857,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Mar 1940",
+    "year": 1940,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_washington",
+   "mother": "konitzer_christiana",
+   "parents": [
+    "adams_alexander_washington",
+    "konitzer_christiana"
+   ],
+   "spouses": [
+    "davis_carrie_a",
+    "drumm_jennie_s"
+   ],
+   "children": [
+    "adams_harriet_ray",
+    "adams_ralph_stanley",
+    "adams_ethel_jane",
+    "adams_george_edgar",
+    "adams_alice_christiana"
+   ],
+   "siblings": [
+    "adams_mary_rebecca",
+    "adams_evarilda",
+    "adams_helen_n"
+   ],
+   "families": [
+    "F_adams_george_w_1857+davis_carrie_a",
+    "F_adams_george_w_1857+drumm_jennie_s"
+   ],
+   "parent_family": "F_adams_alexander_washington+konitzer_christiana",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Union Township, Licking County, Ohio",
+    "Licking County, Ohio",
+    "Cedar Hill Cemetery, Newark, Licking County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Died Mar 1940, Licking County, Ohio",
+    "Buried in Cedar Hill Cemetery, Newark, with wives Jennie and Carrie",
+    "Born Dec 1857",
+    "Died 5 Mar 1940",
+    "Married Carrie A. Davis (Adams) (m. Nov 1880, Newark, Licking County, OH)",
+    "Married Jennie S. Drumm (Parr, Adams) (m. Apr 1906, Licking County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "In the 1900 census he and his family lived a few houses from the Gills. [Further Research, line 8056]"
+   ]
+  },
+  {
    "id": "adams_gertrude_1881",
    "name": "Gertrude Adams (Clark)",
    "aliases": [],
@@ -2083,12 +2419,17 @@
    "spouses": [
     "gill_stephen_augusta"
    ],
-   "children": [],
+   "children": [
+    "gill_stephen_milton",
+    "gill_mary_frances"
+   ],
    "siblings": [
     "adams_george_francis_1",
     "adams_alexander_washington",
     "adams_mary_swan",
-    "adams_magdalena"
+    "adams_magdalena",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
    "families": [
     "F_adams_harriet_josephine+gill_stephen_augusta"
@@ -2126,6 +2467,67 @@
    "notes": [
     "Siblings listed: George Francis #1, Alexander Washington, Magdalena, Mary, Susan, and Ursula",
     "Apparently outlived all her siblings, living past eighty [Bill Allen, Further Research, 2012, line 8535]"
+   ]
+  },
+  {
+   "id": "adams_harriet_ray",
+   "name": "Harriet Ray Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_w_1857",
+   "mother": "davis_carrie_a",
+   "parents": [
+    "adams_george_w_1857",
+    "davis_carrie_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_ralph_stanley",
+    "adams_ethel_jane",
+    "adams_george_edgar",
+    "adams_alice_christiana"
+   ],
+   "families": [],
+   "parent_family": "F_adams_george_w_1857+davis_carrie_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "She was the Harriet Adams who was informant on Stephen Gill's death certificate [Further Research, line 8580]"
    ]
   },
   {
@@ -2208,6 +2610,64 @@
    "notes": [
     "Child of George Francis Adams (#1) and Cynthia Lane. Distinct from Harriett Josephine Adams Gill (adams_harriet_josephine) who is a child of Jose Pierre Adams — different generation. Source: Adams Family Doc."
    ]
+  },
+  {
+   "id": "adams_helen_n",
+   "name": "Helen N. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_washington",
+   "mother": "konitzer_christiana",
+   "parents": [
+    "adams_alexander_washington",
+    "konitzer_christiana"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_mary_rebecca",
+    "adams_george_w_1857",
+    "adams_evarilda"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_washington+konitzer_christiana",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": []
   },
   {
    "id": "adams_henry_a",
@@ -2672,7 +3132,9 @@
     "adams_alexander_washington",
     "adams_mary_swan",
     "adams_harriet_josephine",
-    "adams_magdalena"
+    "adams_magdalena",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
    "siblings": [],
    "families": [
@@ -2980,12 +3442,16 @@
    "spouses": [
     "swan_lewis"
    ],
-   "children": [],
+   "children": [
+    "swan_mary_elizabeth"
+   ],
    "siblings": [
     "adams_george_francis_1",
     "adams_alexander_washington",
     "adams_mary_swan",
-    "adams_harriet_josephine"
+    "adams_harriet_josephine",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
    "families": [
     "F_adams_magdalena+swan_lewis"
@@ -3087,7 +3553,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": []
   },
@@ -3217,6 +3684,76 @@
    ]
   },
   {
+   "id": "adams_mary_rebecca",
+   "name": "Mary Rebecca Adams",
+   "aliases": [
+    "Mary R. Adams"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "20 Dec 1854",
+    "year": 1854,
+    "qualifier": null
+   },
+   "death": {
+    "text": "30 Apr 1905",
+    "year": 1905,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_alexander_washington",
+   "mother": "konitzer_christiana",
+   "parents": [
+    "adams_alexander_washington",
+    "konitzer_christiana"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_george_w_1857",
+    "adams_evarilda",
+    "adams_helen_n"
+   ],
+   "families": [],
+   "parent_family": "F_adams_alexander_washington+konitzer_christiana",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Cedar Hill Cemetery, Newark, Ohio",
+    "Union Township, Licking County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried at Cedar Hill Cemetery with Stephen and Harriet Gill, on the opposite side of their monument",
+    "Born 20 Dec 1854",
+    "Died 30 Apr 1905"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Listed as a niece in Stephen Gill's household in the 1880 census; her father was born in Virginia and her mother in Germany. [Further Research, line 7901]",
+    "Still living with the Gills in 1900, a few houses from her brother George. [Further Research, line 8057]"
+   ]
+  },
+  {
    "id": "adams_mary_susan",
    "name": "Mary Susan Adams (Jones)",
    "aliases": [
@@ -3338,7 +3875,9 @@
     "adams_george_francis_1",
     "adams_alexander_washington",
     "adams_harriet_josephine",
-    "adams_magdalena"
+    "adams_magdalena",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
    "families": [
     "F_adams_mary_swan+swan_lewis"
@@ -3670,7 +4209,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Living in 1929 (survived her son Charles) [Bill Allen, Descendants of Jose Pierre Adams, line 5195]"
@@ -3678,7 +4218,7 @@
   },
   {
    "id": "adams_nancy_e",
-   "name": "Nancy E. Adams",
+   "name": "Nancy Elizabeth Adams",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -3726,7 +4266,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Chariton County, MO"
+    "Chariton County, MO",
+    "Castle Rock, Douglas County, Colorado"
    ],
    "personality": [],
    "roles": [],
@@ -3734,14 +4275,18 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Born May 1860, Chariton County, MO"
+    "Born May 1860, Chariton County, MO",
+    "Born 1860"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
-   "notes": []
+   "notes": [
+    "In 1880 living in Colorado with her father; one of his two youngest daughters. [Further Research, line 6615]"
+   ]
   },
   {
    "id": "adams_olie",
@@ -3952,6 +4497,78 @@
    "notes": []
   },
   {
+   "id": "adams_ralph_stanley",
+   "name": "Ralph Stanley Adams",
+   "aliases": [
+    "Ralph S. Adams"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_george_w_1857",
+   "mother": "davis_carrie_a",
+   "parents": [
+    "adams_george_w_1857",
+    "davis_carrie_a"
+   ],
+   "spouses": [
+    "irwin_zona"
+   ],
+   "children": [],
+   "siblings": [
+    "adams_harriet_ray",
+    "adams_ethel_jane",
+    "adams_george_edgar",
+    "adams_alice_christiana"
+   ],
+   "families": [
+    "F_adams_ralph_stanley+irwin_zona"
+   ],
+   "parent_family": "F_adams_george_w_1857+davis_carrie_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Union Township, Licking County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Zona Irwin (Adams)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Living with the Gill family in 1900 [Further Research, line 8571]",
+    "Living in the Gill household in the 1900 census. [Further Research, line 8059]"
+   ]
+  },
+  {
    "id": "adams_reda_florence",
    "name": "Reda Florence Adams (Olsen)",
    "aliases": [],
@@ -4019,6 +4636,132 @@
    "notes": []
   },
   {
+   "id": "adams_susan_twin",
+   "name": "Susan Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_jose_pierre",
+   "mother": "hamilton_elizabeth_eliza",
+   "parents": [
+    "adams_jose_pierre",
+    "hamilton_elizabeth_eliza"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_george_francis_1",
+    "adams_alexander_washington",
+    "adams_mary_swan",
+    "adams_harriet_josephine",
+    "adams_magdalena",
+    "adams_ursula_twin"
+   ],
+   "families": [],
+   "parent_family": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Twin of Ursula; alive in 1830, and probably died before the 1840 census."
+   ]
+  },
+  {
+   "id": "adams_ursula_twin",
+   "name": "Ursula Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_jose_pierre",
+   "mother": "hamilton_elizabeth_eliza",
+   "parents": [
+    "adams_jose_pierre",
+    "hamilton_elizabeth_eliza"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_george_francis_1",
+    "adams_alexander_washington",
+    "adams_mary_swan",
+    "adams_harriet_josephine",
+    "adams_magdalena",
+    "adams_susan_twin"
+   ],
+   "families": [],
+   "parent_family": "F_adams_jose_pierre+hamilton_elizabeth_eliza",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Twin of Susan; alive in 1830, and probably died before the 1840 census."
+   ]
+  },
+  {
    "id": "adams_virginia_m",
    "name": "Virginia M. Adams (Lewis)",
    "aliases": [],
@@ -4075,7 +4818,8 @@
     "Chariton County, MO",
     "Douglas County, CO",
     "Franktown, Douglas County, CO",
-    "Cedar Hill Cemetery, Douglas County, CO"
+    "Cedar Hill Cemetery, Douglas County, CO",
+    "Castle Rock, Douglas County, Colorado"
    ],
    "personality": [],
    "roles": [],
@@ -4091,13 +4835,16 @@
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
-   "notes": []
+   "notes": [
+    "In 1880 living in Colorado with her father; one of his two youngest daughters. [Further Research, line 6615]"
+   ]
   },
   {
    "id": "adams_william_w_1885",
-   "name": "William W. Adams",
+   "name": "William Wallace Adams",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -4156,7 +4903,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
    ],
    "notes": [
     "Son of John Wesley Adams, born 1885. Not the family historian William W. \"Bill\" Allen."
@@ -6751,6 +7499,174 @@
    ]
   },
   {
+   "id": "baker_walter",
+   "name": "Walter Baker",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_jacobina",
+    "hamilton_magdalena"
+   ],
+   "children": [
+    "baker_washington"
+   ],
+   "siblings": [],
+   "families": [
+    "F_baker_walter+hamilton_jacobina",
+    "F_baker_walter+hamilton_magdalena"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Jacobina Hamilton (Baker) (m. 2 Apr 1817, Frederick County, MD)",
+    "Married Magdalena Hamilton (Baker)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Married Magdalena Hamilton and, after her, her sister Jacobina Hamilton (1817)."
+   ]
+  },
+  {
+   "id": "baker_washington",
+   "name": "Washington Baker",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "baker_walter",
+   "mother": "hamilton_magdalena",
+   "parents": [
+    "baker_walter",
+    "hamilton_magdalena"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_baker_walter+hamilton_magdalena",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "ballard_william_a",
+   "name": "William A. Ballard",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_anna_b"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_ballard_william_a+hamilton_anna_b"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Anna B. Hamilton (Ballard) (m. 7 Jun 1888, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "barbara_mckeldin_adams",
    "name": "Barbara McKeldin Adams",
    "aliases": [
@@ -7652,6 +8568,133 @@
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Annapolis, MD; Baltimore, MD.",
     "Listed in Index of Names under maiden surname MCKELDIN, page 30, no dates [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 5902]"
    ]
+  },
+  {
+   "id": "bascom_john_l",
+   "name": "John L. Bascom",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "25 Dec 1841",
+    "year": 1841,
+    "qualifier": null
+   },
+   "death": {
+    "text": "bef 1920",
+    "year": 1920,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_mary_a"
+   ],
+   "children": [
+    "hamilton_lona_belle",
+    "bascom_susannah"
+   ],
+   "siblings": [],
+   "families": [
+    "F_bascom_john_l+hamilton_mary_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Mary A. Hamilton (Bascom) (m. 5 Dec 1869, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Policeman, Department of Public Safety, Greenville (1900)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Son of John Sanford and Susannah (Spencer) Bascom."
+   ]
+  },
+  {
+   "id": "bascom_susannah",
+   "name": "Susannah Bascom (Foltz)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Jul 1871",
+    "year": 1871,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "bascom_john_l",
+   "mother": "hamilton_mary_a",
+   "parents": [
+    "bascom_john_l",
+    "hamilton_mary_a"
+   ],
+   "spouses": [
+    "foltz_george_t"
+   ],
+   "children": [],
+   "siblings": [
+    "hamilton_lona_belle"
+   ],
+   "families": [
+    "F_bascom_susannah+foltz_george_t"
+   ],
+   "parent_family": "F_bascom_john_l+hamilton_mary_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio",
+    "Dayton, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married George T. Foltz (m. 1896)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
   },
   {
    "id": "beryl_simons_adams",
@@ -10147,6 +11190,146 @@
    ]
   },
   {
+   "id": "davis_carrie_a",
+   "name": "Carrie A. Davis (Adams)",
+   "aliases": [
+    "Jennie S. Davis"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1860",
+    "year": 1860,
+    "qualifier": null
+   },
+   "death": {
+    "text": "6 Jun 1892",
+    "year": 1892,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_george_w_1857"
+   ],
+   "children": [
+    "adams_harriet_ray",
+    "adams_ralph_stanley",
+    "adams_ethel_jane",
+    "adams_george_edgar",
+    "adams_alice_christiana"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_george_w_1857+davis_carrie_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Cedar Hill Cemetery, Newark, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried in Cedar Hill Cemetery, Newark",
+    "Born 1860",
+    "Died 6 Jun 1892",
+    "Died 1892",
+    "Married George W. Adams (m. Nov 1880, Newark, Licking County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "First wife of George W. Adams. The marriage record reads Jennie S. Davis and the license image Carrie A. Davis, so her first name is uncertain."
+   ]
+  },
+  {
+   "id": "deane_elizabeth_phebe",
+   "name": "Elizabeth Phebe Deane (Clary, Hamilton)",
+   "aliases": [
+    "Phebe Hamilton"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1808",
+    "year": 1808,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_francis_l"
+   ],
+   "children": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "siblings": [],
+   "families": [
+    "F_deane_elizabeth_phebe+hamilton_francis_l"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio",
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Francis L. Hamilton (m. 6 Sep 1829, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "First married Isaac Clary (13 May 1824, Darke County), with two children, Patience and Eliza Ann Clary; a court case of 1830 names her first husband as Vachel Clary. A widow in Greenville in 1880."
+   ]
+  },
+  {
    "id": "devaw_louisa_woods",
    "name": "Louisa Woods Devaw (Martin)",
    "aliases": [],
@@ -10311,6 +11494,124 @@
     "DNA profile only. Simons branch — Glen Simons' niece, 1C1R.",
     "Simons branch. True relationship: 1C1R.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "douglas_elizabeth",
+   "name": "Elizabeth Douglas (Hamilton)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_gavin_d1814"
+   ],
+   "children": [
+    "hamilton_francis_alexander"
+   ],
+   "siblings": [],
+   "families": [
+    "F_douglas_elizabeth+hamilton_gavin_d1814"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Gavin Hamilton (m. 20 Jul 1800, Prince George’s County, MD)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "drumm_jennie_s",
+   "name": "Jennie S. Drumm (Parr, Adams)",
+   "aliases": [
+    "Jennie Parr"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1923",
+    "year": 1923,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_george_w_1857"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_george_w_1857+drumm_jennie_s"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Cedar Hill Cemetery, Newark, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Died 1923",
+    "Buried in Cedar Hill Cemetery, Newark",
+    "Married George W. Adams (m. Apr 1906, Licking County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Second wife of George W. Adams; previously Mrs. Parr."
    ]
   },
   {
@@ -10940,6 +12241,66 @@
    "career": [],
    "sources": [
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "foltz_george_t",
+   "name": "George T. Foltz",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Jan 1870",
+    "year": 1870,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "bascom_susannah"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_bascom_susannah+foltz_george_t"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Dayton, Montgomery County, OH",
+    "Troy, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Susannah Bascom (Foltz) (m. 1896)"
+   ],
+   "education": [],
+   "career": [
+    "Assistant superintendent at an insurance company (1900)",
+    "Traveling salesman (1910, 1920)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
    ],
    "notes": []
   },
@@ -12221,6 +13582,75 @@
    ]
   },
   {
+   "id": "gill_mary_frances",
+   "name": "Mary Frances Gill",
+   "aliases": [
+    "Mary Gill"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "8 Jan 1851",
+    "year": 1851,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "gill_stephen_augusta",
+   "mother": "adams_harriet_josephine",
+   "parents": [
+    "adams_harriet_josephine",
+    "gill_stephen_augusta"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "gill_stephen_milton"
+   ],
+   "families": [],
+   "parent_family": "F_adams_harriet_josephine+gill_stephen_augusta",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hebron, Licking County, Ohio",
+    "Newark, Ohio",
+    "Cedar Hill Cemetery"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 8 Jan 1851",
+    "Affiliated with the Licking Baptist church",
+    "Services at Clunis and Householder mortuary; interment in Cedar Hill Cemetery"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Living with her father at the time of the biography. [Further Research, line 7603]",
+    "Survived by numerous nieces and nephews [Further Research, line 8659]"
+   ]
+  },
+  {
    "id": "gill_stephen_augusta",
    "name": "Stephen Augusta Gill",
    "aliases": [],
@@ -12249,7 +13679,10 @@
    "spouses": [
     "adams_harriet_josephine"
    ],
-   "children": [],
+   "children": [
+    "gill_stephen_milton",
+    "gill_mary_frances"
+   ],
    "siblings": [],
    "families": [
     "F_adams_harriet_josephine+gill_stephen_augusta"
@@ -12299,6 +13732,78 @@
     "Mary R. Adams was listed as his niece in his household in the 1880 census. [Bill Allen, Further Research, 2012, line 7901]",
     "A Ralph S. Adams was living in the Gill household in the 1900 census. [Bill Allen, Further Research, 2012, line 8059]",
     "Harriet Ray Adams was the informant on his death certificate [Bill Allen, Further Research, 2012, line 8580]"
+   ]
+  },
+  {
+   "id": "gill_stephen_milton",
+   "name": "Stephen Milton Gill",
+   "aliases": [
+    "Milton S. Gill",
+    "S. Milton Gill"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "10 Jan 1849",
+    "year": 1849,
+    "qualifier": null
+   },
+   "death": {
+    "text": "28 May 1889",
+    "year": 1889,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "gill_stephen_augusta",
+   "mother": "adams_harriet_josephine",
+   "parents": [
+    "adams_harriet_josephine",
+    "gill_stephen_augusta"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "gill_mary_frances"
+   ],
+   "families": [],
+   "parent_family": "F_adams_harriet_josephine+gill_stephen_augusta",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Union Township, Licking County, Ohio",
+    "Cedar Hill Cemetery"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [
+    "His obituary praised him as a highly intelligent, noble, affectionate young man, a loving son and brother, whose death was a blow to his aged parents and many friends."
+   ],
+   "risk_events": [],
+   "milestones": [
+    "Born 10 Jan 1849",
+    "Died 28 May 1889",
+    "Died 28 May 1889, Union Township, Licking County, Ohio",
+    "Funeral from his home in Union Township, interment in Cedar Hill Cemetery",
+    "Obituary describes him as a true Christian"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Died early, at age forty, never having married [Further Research, line 8598]"
    ]
   },
   {
@@ -12951,6 +14456,802 @@
    "notes": []
   },
   {
+   "id": "hamilton_alexander_uncle",
+   "name": "Alexander Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "young_jacobina",
+   "parents": [
+    "hamilton_john_of_kype",
+    "young_jacobina"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_francis"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+young_jacobina",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Prince George’s County, MD",
+    "Piscataway, MD"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Brother of Francis Hamilton (#158); register number 316.1. Fled from Prince George’s County to his brother’s place at Keeptrist in 1777. His letters and will name Francis’s children; his nephew John Alexander (\"Jacky\") lived with him at Piscataway in 1784."
+   ]
+  },
+  {
+   "id": "hamilton_alice_g",
+   "name": "Alice G. Hamilton (House)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1841",
+    "year": 1841,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_thomas_w",
+   "mother": "meeks_mary_ann",
+   "parents": [
+    "hamilton_thomas_w",
+    "meeks_mary_ann"
+   ],
+   "spouses": [
+    "house_harry"
+   ],
+   "children": [
+    "house_adelia",
+    "house_ida"
+   ],
+   "siblings": [
+    "hamilton_nancy_jane",
+    "hamilton_phebe_ann",
+    "hamilton_caroline_1845",
+    "hamilton_mary_a",
+    "hamilton_eunice"
+   ],
+   "families": [
+    "F_hamilton_alice_g+house_harry"
+   ],
+   "parent_family": "F_hamilton_thomas_w+meeks_mary_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Harry House (m. 10 Oct 1857, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_amanda_1880",
+   "name": "Amanda Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1880",
+    "year": 1880,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_samuel_f",
+   "mother": "rieker_mary_elizabeth",
+   "parents": [
+    "hamilton_samuel_f",
+    "rieker_mary_elizabeth"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_isaac_1867",
+    "hamilton_evaline",
+    "hamilton_louisa_1879"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_samuel_f+rieker_mary_elizabeth",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_ann",
+   "name": "Ann Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1813",
+    "year": 1813,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_george_w"
+   ],
+   "children": [
+    "hamilton_gavin_1840",
+    "hamilton_francis_a_1843",
+    "hamilton_samuel_f",
+    "hamilton_sarah_e"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_ann+hamilton_george_w"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married George W. Hamilton"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Wife of George W. Hamilton; maiden name not recorded."
+   ]
+  },
+  {
+   "id": "hamilton_anna_b",
+   "name": "Anna B. Hamilton (Ballard)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1863",
+    "year": 1863,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_a_1830",
+   "mother": "irwin_emeline",
+   "parents": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "spouses": [
+    "ballard_william_a"
+   ],
+   "children": [],
+   "siblings": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "families": [
+    "F_ballard_william_a+hamilton_anna_b"
+   ],
+   "parent_family": "F_hamilton_john_a_1830+irwin_emeline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married William A. Ballard (m. 7 Jun 1888, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Married second a man surnamed Hunt."
+   ]
+  },
+  {
+   "id": "hamilton_caroline_1833",
+   "name": "Caroline Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1833",
+    "year": 1833,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_john_a_1830",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "families": [],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_caroline_1845",
+   "name": "Caroline Hamilton (Harter)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1845",
+    "year": 1845,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_thomas_w",
+   "mother": "meeks_mary_ann",
+   "parents": [
+    "hamilton_thomas_w",
+    "meeks_mary_ann"
+   ],
+   "spouses": [
+    "harter_eli"
+   ],
+   "children": [],
+   "siblings": [
+    "hamilton_alice_g",
+    "hamilton_nancy_jane",
+    "hamilton_phebe_ann",
+    "hamilton_mary_a",
+    "hamilton_eunice"
+   ],
+   "families": [
+    "F_hamilton_caroline_1845+harter_eli"
+   ],
+   "parent_family": "F_hamilton_thomas_w+meeks_mary_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Eli Harter (m. 5 Apr 1865, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_catherine",
+   "name": "Catherine Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_francis_jr"
+   ],
+   "children": [
+    "hamilton_henry_a",
+    "hamilton_mary_b"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_catherine+hamilton_francis_jr"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Francis Hamilton Jr."
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Wife of Francis Hamilton Jr.; maiden name not recorded."
+   ]
+  },
+  {
+   "id": "hamilton_daniel_1849",
+   "name": "Daniel Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1849",
+    "year": 1849,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [
+    "wilcox_ellen"
+   ],
+   "children": [],
+   "siblings": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_isaac_1850"
+   ],
+   "families": [
+    "F_hamilton_daniel_1849+wilcox_ellen"
+   ],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ellen Wilcox (Hamilton) (m. 3 Jul 1879, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Lightning rod salesman"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_edward_1858",
+   "name": "Edward Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1858",
+    "year": 1858,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_a_1830",
+   "mother": "irwin_emeline",
+   "parents": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_phebe_1856",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_a_1830+irwin_emeline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Printer (1880)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_eleanor",
+   "name": "Eleanor Hamilton (Ryan)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1810",
+    "year": 1810,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "May 1886",
+    "year": 1886,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_alexander",
+   "mother": "philpott_eleanor",
+   "parents": [
+    "hamilton_john_alexander",
+    "philpott_eleanor"
+   ],
+   "spouses": [
+    "ryan_rudolph"
+   ],
+   "children": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "siblings": [
+    "hamilton_francis_l",
+    "hamilton_eliza_c",
+    "hamilton_thomas_w",
+    "hamilton_george_w",
+    "hamilton_john_1c"
+   ],
+   "families": [
+    "F_hamilton_eleanor+ryan_rudolph"
+   ],
+   "parent_family": "F_hamilton_john_alexander+philpott_eleanor",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Rudolph Ryan"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1f; born 1810 or 1811."
+   ]
+  },
+  {
+   "id": "hamilton_eliza_c",
+   "name": "Eliza C. Hamilton (Jarboe)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1804",
+    "year": 1804,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_alexander",
+   "mother": "philpott_eleanor",
+   "parents": [
+    "hamilton_john_alexander",
+    "philpott_eleanor"
+   ],
+   "spouses": [
+    "jarboe_james"
+   ],
+   "children": [
+    "jarboe_charles",
+    "jarboe_margaret_a"
+   ],
+   "siblings": [
+    "hamilton_francis_l",
+    "hamilton_eleanor",
+    "hamilton_thomas_w",
+    "hamilton_george_w",
+    "hamilton_john_1c"
+   ],
+   "families": [
+    "F_hamilton_eliza_c+jarboe_james"
+   ],
+   "parent_family": "F_hamilton_john_alexander+philpott_eleanor",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia",
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married James Jarboe (m. 23 Mar 1825, Frederick County, MD)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1b."
+   ]
+  },
+  {
    "id": "hamilton_elizabeth_eliza",
    "name": "Elizabeth (Eliza) Hamilton",
    "aliases": [],
@@ -12989,9 +15290,18 @@
     "adams_alexander_washington",
     "adams_mary_swan",
     "adams_harriet_josephine",
-    "adams_magdalena"
+    "adams_magdalena",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
-   "siblings": [],
+   "siblings": [
+    "hamilton_john_alexander",
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
+   ],
    "families": [
     "F_adams_jose_pierre+hamilton_elizabeth_eliza"
    ],
@@ -13028,6 +15338,198 @@
    ]
   },
   {
+   "id": "hamilton_emma_1867",
+   "name": "Emma Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1 Aug 1867",
+    "year": 1867,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Jul 1919",
+    "year": 1919,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_a_1830",
+   "mother": "irwin_emeline",
+   "parents": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_sophia_1868"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_a_1830+irwin_emeline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried in Greenville Cemetery"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_eunice",
+   "name": "Eunice Hamilton (Stoltz)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1867",
+    "year": 1867,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_thomas_w",
+   "mother": "meeks_mary_ann",
+   "parents": [
+    "hamilton_thomas_w",
+    "meeks_mary_ann"
+   ],
+   "spouses": [
+    "stoltz_james_l"
+   ],
+   "children": [],
+   "siblings": [
+    "hamilton_alice_g",
+    "hamilton_nancy_jane",
+    "hamilton_phebe_ann",
+    "hamilton_caroline_1845",
+    "hamilton_mary_a"
+   ],
+   "families": [
+    "F_hamilton_eunice+stoltz_james_l"
+   ],
+   "parent_family": "F_hamilton_thomas_w+meeks_mary_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married James L. Stoltz (m. 7 Jul 1881, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Mender in a cutting mill, Greenville (as a widow)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_evaline",
+   "name": "Evaline Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1876",
+    "year": 1876,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "1879",
+    "year": 1879,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_samuel_f",
+   "mother": "rieker_mary_elizabeth",
+   "parents": [
+    "hamilton_samuel_f",
+    "rieker_mary_elizabeth"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_isaac_1867",
+    "hamilton_louisa_1879",
+    "hamilton_amanda_1880"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_samuel_f+rieker_mary_elizabeth",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried in Otterbein Cemetery, Darke County, Ohio"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "hamilton_francis",
    "name": "Francis Hamilton",
    "aliases": [],
@@ -13062,13 +15564,19 @@
     "hamilton_susan"
    ],
    "children": [
+    "hamilton_john_alexander",
     "hamilton_elizabeth_eliza",
-    "hamilton_thomas"
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
    ],
-   "siblings": [],
+   "siblings": [
+    "hamilton_alexander_uncle"
+   ],
    "families": [
-    "F_hamilton_francis+hamilton_susan",
-    "F_hamilton_francis"
+    "F_hamilton_francis+hamilton_susan"
    ],
    "parent_family": "F_hamilton_john_of_kype+young_jacobina",
    "connected": true,
@@ -13127,6 +15635,1273 @@
    ]
   },
   {
+   "id": "hamilton_francis_1839",
+   "name": "Francis Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1839",
+    "year": 1839,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "families": [],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1a4; living at home in 1870."
+   ]
+  },
+  {
+   "id": "hamilton_francis_1859",
+   "name": "Francis Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1859",
+    "year": 1859,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_a_1830",
+   "mother": "irwin_emeline",
+   "parents": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_a_1830+irwin_emeline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Brickmason (1880)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_francis_a_1843",
+   "name": "Francis A. Hamilton",
+   "aliases": [
+    "Frank Hamilton"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1843",
+    "year": 1843,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_george_w",
+   "mother": "hamilton_ann",
+   "parents": [
+    "hamilton_ann",
+    "hamilton_george_w"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_gavin_1840",
+    "hamilton_samuel_f",
+    "hamilton_sarah_e"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_ann+hamilton_george_w",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_francis_alexander",
+   "name": "Francis Alexander Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1802",
+    "year": 1802,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "May 1830",
+    "year": 1830,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_gavin_d1814",
+   "mother": "douglas_elizabeth",
+   "parents": [
+    "douglas_elizabeth",
+    "hamilton_gavin_d1814"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_douglas_elizabeth+hamilton_gavin_d1814",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Petersville, Frederick County, MD"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.2a. Died between 3 and 17 May 1830 at Petersville, Maryland, aged 28. His will, written 3 May 1830, names Francis Hamilton’s children and grandchildren and made Jose P. Adams (his aunt Elizabeth’s husband) executor."
+   ]
+  },
+  {
+   "id": "hamilton_francis_jr",
+   "name": "Francis Hamilton Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1821",
+    "year": 1821,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis",
+   "mother": "hamilton_susan",
+   "parents": [
+    "hamilton_francis",
+    "hamilton_susan"
+   ],
+   "spouses": [
+    "hamilton_catherine"
+   ],
+   "children": [
+    "hamilton_henry_a",
+    "hamilton_mary_b"
+   ],
+   "siblings": [
+    "hamilton_john_alexander",
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
+   ],
+   "families": [
+    "F_hamilton_catherine+hamilton_francis_jr"
+   ],
+   "parent_family": "F_hamilton_francis+hamilton_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Catherine Hamilton"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.4."
+   ]
+  },
+  {
+   "id": "hamilton_francis_l",
+   "name": "Francis L. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1795",
+    "year": 1795,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_alexander",
+   "mother": "philpott_eleanor",
+   "parents": [
+    "hamilton_john_alexander",
+    "philpott_eleanor"
+   ],
+   "spouses": [
+    "deane_elizabeth_phebe"
+   ],
+   "children": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "siblings": [
+    "hamilton_eliza_c",
+    "hamilton_eleanor",
+    "hamilton_thomas_w",
+    "hamilton_george_w",
+    "hamilton_john_1c"
+   ],
+   "families": [
+    "F_deane_elizabeth_phebe+hamilton_francis_l"
+   ],
+   "parent_family": "F_hamilton_john_alexander+philpott_eleanor",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia",
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Elizabeth Phebe Deane (Clary, Hamilton) (m. 6 Sep 1829, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Kept a tavern at his home in Greenville, Ohio, licensed 1830 to 1837",
+    "Retired farmer in Greenville by 1850"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1a. In 1848 he became guardian of the nine minor children of his late brother-in-law Rudolph Ryan."
+   ]
+  },
+  {
+   "id": "hamilton_gavin_1840",
+   "name": "Gavin Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1840",
+    "year": 1840,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_george_w",
+   "mother": "hamilton_ann",
+   "parents": [
+    "hamilton_ann",
+    "hamilton_george_w"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_francis_a_1843",
+    "hamilton_samuel_f",
+    "hamilton_sarah_e"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_ann+hamilton_george_w",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_gavin_d1814",
+   "name": "Gavin Hamilton",
+   "aliases": [
+    "Gawin Hamilton"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Jan 1814",
+    "year": 1814,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis",
+   "mother": "hamilton_susan",
+   "parents": [
+    "hamilton_francis",
+    "hamilton_susan"
+   ],
+   "spouses": [
+    "douglas_elizabeth"
+   ],
+   "children": [
+    "hamilton_francis_alexander"
+   ],
+   "siblings": [
+    "hamilton_john_alexander",
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas",
+    "hamilton_francis_jr",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
+   ],
+   "families": [
+    "F_douglas_elizabeth+hamilton_gavin_d1814"
+   ],
+   "parent_family": "F_hamilton_francis+hamilton_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Prince George’s County, MD"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Elizabeth Douglas (Hamilton) (m. 20 Jul 1800, Prince George’s County, MD)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.2. Died between 5 and 19 January 1814 in Prince George’s County, Maryland; his will left the remainder of his estate to his son Francis Alexander Hamilton."
+   ]
+  },
+  {
+   "id": "hamilton_gavin_washington",
+   "name": "Gavin Washington Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1835",
+    "year": 1835,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "families": [],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_george_w",
+   "name": "George W. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1814",
+    "year": 1814,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_alexander",
+   "mother": "philpott_eleanor",
+   "parents": [
+    "hamilton_john_alexander",
+    "philpott_eleanor"
+   ],
+   "spouses": [
+    "hamilton_ann"
+   ],
+   "children": [
+    "hamilton_gavin_1840",
+    "hamilton_francis_a_1843",
+    "hamilton_samuel_f",
+    "hamilton_sarah_e"
+   ],
+   "siblings": [
+    "hamilton_francis_l",
+    "hamilton_eliza_c",
+    "hamilton_eleanor",
+    "hamilton_thomas_w",
+    "hamilton_john_1c"
+   ],
+   "families": [
+    "F_hamilton_ann+hamilton_george_w"
+   ],
+   "parent_family": "F_hamilton_john_alexander+philpott_eleanor",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia",
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ann Hamilton"
+   ],
+   "education": [],
+   "career": [
+    "Livery business in Greenville (1850)",
+    "Butcher (1860)",
+    "Constable in Greenville (1870)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1e."
+   ]
+  },
+  {
+   "id": "hamilton_henry_a",
+   "name": "Henry A. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_jr",
+   "mother": "hamilton_catherine",
+   "parents": [
+    "hamilton_catherine",
+    "hamilton_francis_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_mary_b"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_catherine+hamilton_francis_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_isaac_1850",
+   "name": "Isaac Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1850",
+    "year": 1850,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849"
+   ],
+   "families": [],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1a8. Not the Isaac Hamilton (1867-1946), son of Samuel F."
+   ]
+  },
+  {
+   "id": "hamilton_isaac_1867",
+   "name": "Isaac Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1867",
+    "year": 1867,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1946",
+    "year": 1946,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_samuel_f",
+   "mother": "rieker_mary_elizabeth",
+   "parents": [
+    "hamilton_samuel_f",
+    "rieker_mary_elizabeth"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_evaline",
+    "hamilton_louisa_1879",
+    "hamilton_amanda_1880"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_samuel_f+rieker_mary_elizabeth",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "May be the Isaac buried in St. John’s Cemetery, Darke County."
+   ]
+  },
+  {
+   "id": "hamilton_jacobina",
+   "name": "Jacobina Hamilton (Baker)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis",
+   "mother": "hamilton_susan",
+   "parents": [
+    "hamilton_francis",
+    "hamilton_susan"
+   ],
+   "spouses": [
+    "baker_walter"
+   ],
+   "children": [],
+   "siblings": [
+    "hamilton_john_alexander",
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_magdalena"
+   ],
+   "families": [
+    "F_baker_walter+hamilton_jacobina"
+   ],
+   "parent_family": "F_hamilton_francis+hamilton_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Walter Baker (m. 2 Apr 1817, Frederick County, MD)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.5. Second wife of Walter Baker, her late sister Magdalena’s husband; no children."
+   ]
+  },
+  {
+   "id": "hamilton_james_1844",
+   "name": "James Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1844",
+    "year": 1844,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "families": [],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_john_1c",
+   "name": "John Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_alexander",
+   "mother": "philpott_eleanor",
+   "parents": [
+    "hamilton_john_alexander",
+    "philpott_eleanor"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_francis_l",
+    "hamilton_eliza_c",
+    "hamilton_eleanor",
+    "hamilton_thomas_w",
+    "hamilton_george_w"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_alexander+philpott_eleanor",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1c; the register refers to an unidentified file for him."
+   ]
+  },
+  {
+   "id": "hamilton_john_a_1830",
+   "name": "John A. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1830",
+    "year": 1830,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [
+    "irwin_emeline"
+   ],
+   "children": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "siblings": [
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "families": [
+    "F_hamilton_john_a_1830+irwin_emeline"
+   ],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Emeline Irwin (Hamilton) (m. 18 Oct 1855, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Farmer (1860)",
+    "City marshal of Greenville (1870)",
+    "Clerk (1880)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1a1. Not the John A. Hamilton born about 1836, son of Thomas W."
+   ]
+  },
+  {
+   "id": "hamilton_john_a_1836",
+   "name": "John A. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1836",
+    "year": 1836,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_thomas_w",
+   "mother": null,
+   "parents": [
+    "hamilton_thomas_w"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_hamilton_thomas_w",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1d1; probably from Thomas W.’s first marriage. Not the John A. Hamilton born about 1830."
+   ]
+  },
+  {
+   "id": "hamilton_john_alexander",
+   "name": "John Alexander Hamilton",
+   "aliases": [
+    "Jacky Hamilton"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "between 1776 and 1784",
+    "year": 1776,
+    "qualifier": "range"
+   },
+   "death": {
+    "text": "bef 1820",
+    "year": 1820,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis",
+   "mother": "hamilton_susan",
+   "parents": [
+    "hamilton_francis",
+    "hamilton_susan"
+   ],
+   "spouses": [
+    "philpott_eleanor"
+   ],
+   "children": [
+    "hamilton_francis_l",
+    "hamilton_eliza_c",
+    "hamilton_eleanor",
+    "hamilton_thomas_w",
+    "hamilton_george_w",
+    "hamilton_john_1c"
+   ],
+   "siblings": [
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
+   ],
+   "families": [
+    "F_hamilton_john_alexander+philpott_eleanor"
+   ],
+   "parent_family": "F_hamilton_francis+hamilton_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Jefferson County, VA",
+    "Frederick County, MD"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Eleanor Philpott (Hamilton) (m. 22 Jun 1795, Frederick County, MD)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1. In 1808 he bought 46 acres of the family estate from his sister Jacobina. Received slaves, silver and a share of land-sale proceeds from his uncle Alexander in 1790."
+   ]
+  },
+  {
    "id": "hamilton_john_of_kype",
    "name": "John Hamilton of Kype",
    "aliases": [],
@@ -13158,7 +16933,8 @@
     "young_jacobina"
    ],
    "children": [
-    "hamilton_francis"
+    "hamilton_francis",
+    "hamilton_alexander_uncle"
    ],
    "siblings": [],
    "families": [
@@ -13201,6 +16977,862 @@
    ]
   },
   {
+   "id": "hamilton_kate_1861",
+   "name": "Kate Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1861",
+    "year": 1861,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_a_1830",
+   "mother": "irwin_emeline",
+   "parents": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_anna_b",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_a_1830+irwin_emeline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_lona_belle",
+   "name": "Lona Belle Hamilton (McCoy)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Jun 1869",
+    "year": 1869,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "bascom_john_l",
+   "mother": "hamilton_mary_a",
+   "parents": [
+    "bascom_john_l",
+    "hamilton_mary_a"
+   ],
+   "spouses": [
+    "mccoy_ulysses_g"
+   ],
+   "children": [],
+   "siblings": [
+    "bascom_susannah"
+   ],
+   "families": [
+    "F_hamilton_lona_belle+mccoy_ulysses_g"
+   ],
+   "parent_family": "F_bascom_john_l+hamilton_mary_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ulysses G. McCoy (m. 5 Oct 1902, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Recorded under the surname Hamilton; widowed by 1910 and living with her mother."
+   ]
+  },
+  {
+   "id": "hamilton_louisa_1879",
+   "name": "Louisa Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1879",
+    "year": 1879,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_samuel_f",
+   "mother": "rieker_mary_elizabeth",
+   "parents": [
+    "hamilton_samuel_f",
+    "rieker_mary_elizabeth"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_isaac_1867",
+    "hamilton_evaline",
+    "hamilton_amanda_1880"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_samuel_f+rieker_mary_elizabeth",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_magdalena",
+   "name": "Magdalena Hamilton (Baker)",
+   "aliases": [
+    "Margaret Hamilton"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis",
+   "mother": "hamilton_susan",
+   "parents": [
+    "hamilton_francis",
+    "hamilton_susan"
+   ],
+   "spouses": [
+    "baker_walter"
+   ],
+   "children": [
+    "baker_washington"
+   ],
+   "siblings": [
+    "hamilton_john_alexander",
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_jacobina"
+   ],
+   "families": [
+    "F_baker_walter+hamilton_magdalena"
+   ],
+   "parent_family": "F_hamilton_francis+hamilton_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Walter Baker"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.7. First wife of Walter Baker."
+   ]
+  },
+  {
+   "id": "hamilton_mary_a",
+   "name": "Mary A. Hamilton (Bascom)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Apr 1851",
+    "year": 1851,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_thomas_w",
+   "mother": "meeks_mary_ann",
+   "parents": [
+    "hamilton_thomas_w",
+    "meeks_mary_ann"
+   ],
+   "spouses": [
+    "bascom_john_l"
+   ],
+   "children": [
+    "hamilton_lona_belle",
+    "bascom_susannah"
+   ],
+   "siblings": [
+    "hamilton_alice_g",
+    "hamilton_nancy_jane",
+    "hamilton_phebe_ann",
+    "hamilton_caroline_1845",
+    "hamilton_eunice"
+   ],
+   "families": [
+    "F_bascom_john_l+hamilton_mary_a"
+   ],
+   "parent_family": "F_hamilton_thomas_w+meeks_mary_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married John L. Bascom (m. 5 Dec 1869, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_mary_b",
+   "name": "Mary B. Hamilton (Martin)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_jr",
+   "mother": "hamilton_catherine",
+   "parents": [
+    "hamilton_catherine",
+    "hamilton_francis_jr"
+   ],
+   "spouses": [
+    "martin_daniel"
+   ],
+   "children": [],
+   "siblings": [
+    "hamilton_henry_a"
+   ],
+   "families": [
+    "F_hamilton_mary_b+martin_daniel"
+   ],
+   "parent_family": "F_hamilton_catherine+hamilton_francis_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Daniel Martin (m. aft 1830)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_nancy_jane",
+   "name": "Nancy Jane Hamilton (Mann)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1841",
+    "year": 1841,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_thomas_w",
+   "mother": "meeks_mary_ann",
+   "parents": [
+    "hamilton_thomas_w",
+    "meeks_mary_ann"
+   ],
+   "spouses": [
+    "mann_james_m"
+   ],
+   "children": [
+    "mann_margaret",
+    "mann_rolla_w"
+   ],
+   "siblings": [
+    "hamilton_alice_g",
+    "hamilton_phebe_ann",
+    "hamilton_caroline_1845",
+    "hamilton_mary_a",
+    "hamilton_eunice"
+   ],
+   "families": [
+    "F_hamilton_nancy_jane+mann_james_m"
+   ],
+   "parent_family": "F_hamilton_thomas_w+meeks_mary_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married James M. Mann (m. 19 Jun 1861, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Two further children are listed only as unknown."
+   ]
+  },
+  {
+   "id": "hamilton_phebe_1856",
+   "name": "Phebe Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1856",
+    "year": 1856,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_a_1830",
+   "mother": "irwin_emeline",
+   "parents": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_a_1830+irwin_emeline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_phebe_ann",
+   "name": "Phebe Ann Hamilton (Sparks)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1843",
+    "year": 1843,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1932",
+    "year": 1932,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_thomas_w",
+   "mother": "meeks_mary_ann",
+   "parents": [
+    "hamilton_thomas_w",
+    "meeks_mary_ann"
+   ],
+   "spouses": [
+    "sparks_william_h_h"
+   ],
+   "children": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "siblings": [
+    "hamilton_alice_g",
+    "hamilton_nancy_jane",
+    "hamilton_caroline_1845",
+    "hamilton_mary_a",
+    "hamilton_eunice"
+   ],
+   "families": [
+    "F_hamilton_phebe_ann+sparks_william_h_h"
+   ],
+   "parent_family": "F_hamilton_thomas_w+meeks_mary_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried at Abbottsville Cemetery, Darke County, Ohio",
+    "Married William H. H. Sparks (m. 28 Jul 1865, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_samuel_f",
+   "name": "Samuel F. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1846",
+    "year": 1846,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1927",
+    "year": 1927,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_george_w",
+   "mother": "hamilton_ann",
+   "parents": [
+    "hamilton_ann",
+    "hamilton_george_w"
+   ],
+   "spouses": [
+    "rieker_mary_elizabeth"
+   ],
+   "children": [
+    "hamilton_isaac_1867",
+    "hamilton_evaline",
+    "hamilton_louisa_1879",
+    "hamilton_amanda_1880"
+   ],
+   "siblings": [
+    "hamilton_gavin_1840",
+    "hamilton_francis_a_1843",
+    "hamilton_sarah_e"
+   ],
+   "families": [
+    "F_hamilton_samuel_f+rieker_mary_elizabeth"
+   ],
+   "parent_family": "F_hamilton_ann+hamilton_george_w",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried in Otterbein Cemetery, Darke County, Ohio",
+    "Married Mary Elizabeth Rieker (Hamilton) (m. 28 Dec 1865, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Farmer in Darke County (1870, 1880)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_sarah_1846",
+   "name": "Sarah Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1846",
+    "year": 1846,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_francis_l",
+   "mother": "deane_elizabeth_phebe",
+   "parents": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "families": [],
+   "parent_family": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Living at home in 1870."
+   ]
+  },
+  {
+   "id": "hamilton_sarah_e",
+   "name": "Sarah E. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1849",
+    "year": 1849,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_george_w",
+   "mother": "hamilton_ann",
+   "parents": [
+    "hamilton_ann",
+    "hamilton_george_w"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_gavin_1840",
+    "hamilton_francis_a_1843",
+    "hamilton_samuel_f"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_ann+hamilton_george_w",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "hamilton_sophia_1868",
+   "name": "Sophia Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1868",
+    "year": 1868,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_a_1830",
+   "mother": "irwin_emeline",
+   "parents": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_emma_1867"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_a_1830+irwin_emeline",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "hamilton_susan",
    "name": "Susan Hamilton",
    "aliases": [],
@@ -13230,7 +17862,13 @@
     "hamilton_francis"
    ],
    "children": [
-    "hamilton_elizabeth_eliza"
+    "hamilton_john_alexander",
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
    ],
    "siblings": [],
    "families": [
@@ -13257,7 +17895,8 @@
     "family_data_v1"
    ],
    "notes": [
-    "Wife of Francis Hamilton. Possibly Susan Blandford per source."
+    "Wife of Francis Hamilton. Possibly Susan Blandford per source.",
+    "The Hamilton register is unsure of Francis Hamilton’s wife’s name: \"possibly a Susan or Margaret\"; a Susan Hamilton was living alone in Jefferson County in 1820."
    ]
   },
   {
@@ -13286,15 +17925,23 @@
    ],
    "adopted": false,
    "father": "hamilton_francis",
-   "mother": null,
+   "mother": "hamilton_susan",
    "parents": [
-    "hamilton_francis"
+    "hamilton_francis",
+    "hamilton_susan"
    ],
    "spouses": [],
    "children": [],
-   "siblings": [],
+   "siblings": [
+    "hamilton_john_alexander",
+    "hamilton_elizabeth_eliza",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
+   ],
    "families": [],
-   "parent_family": "F_hamilton_francis",
+   "parent_family": "F_hamilton_francis+hamilton_susan",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -13321,6 +17968,139 @@
     "Estate appraisal named Jose P. and William ADAMS; final account filed May 1836 by the administrator Jose P. ADAMS, his brother-in-law [Bill Allen, Descendants of Jose Pierre Adams, line 9657]",
     "Named as Uncle in the will of Francis A. HAMILTON [Bill Allen, Descendants of Jose Pierre Adams, line 9695]"
    ]
+  },
+  {
+   "id": "hamilton_thomas_w",
+   "name": "Thomas W. Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1812",
+    "year": 1812,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_alexander",
+   "mother": "philpott_eleanor",
+   "parents": [
+    "hamilton_john_alexander",
+    "philpott_eleanor"
+   ],
+   "spouses": [
+    "meeks_mary_ann"
+   ],
+   "children": [
+    "hamilton_alice_g",
+    "hamilton_nancy_jane",
+    "hamilton_phebe_ann",
+    "hamilton_caroline_1845",
+    "hamilton_mary_a",
+    "hamilton_eunice",
+    "hamilton_john_a_1836"
+   ],
+   "siblings": [
+    "hamilton_francis_l",
+    "hamilton_eliza_c",
+    "hamilton_eleanor",
+    "hamilton_george_w",
+    "hamilton_john_1c"
+   ],
+   "families": [
+    "F_hamilton_thomas_w+meeks_mary_ann",
+    "F_hamilton_thomas_w"
+   ],
+   "parent_family": "F_hamilton_john_alexander+philpott_eleanor",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia",
+    "Greenville Township, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Mary Ann Meeks (Hamilton)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Register number 158.1d. Mary Ann Meeks was too young to be the mother of his first child, so he may have married earlier."
+   ]
+  },
+  {
+   "id": "harter_eli",
+   "name": "Eli Harter",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_caroline_1845"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hamilton_caroline_1845+harter_eli"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Caroline Hamilton (Harter) (m. 5 Apr 1865, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
   },
   {
    "id": "hawn_walter",
@@ -13592,6 +18372,299 @@
    ]
   },
   {
+   "id": "house_adelia",
+   "name": "Adelia House",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1859",
+    "year": 1859,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "house_harry",
+   "mother": "hamilton_alice_g",
+   "parents": [
+    "hamilton_alice_g",
+    "house_harry"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "house_ida"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_alice_g+house_harry",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "house_harry",
+   "name": "Harry House",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_alice_g"
+   ],
+   "children": [
+    "house_adelia",
+    "house_ida"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_alice_g+house_harry"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Alice G. Hamilton (House) (m. 10 Oct 1857, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Carpenter in Greenville (1870, 1880)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "house_ida",
+   "name": "Ida House",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1861",
+    "year": 1861,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "house_harry",
+   "mother": "hamilton_alice_g",
+   "parents": [
+    "hamilton_alice_g",
+    "house_harry"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "house_adelia"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_alice_g+house_harry",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "irwin_emeline",
+   "name": "Emeline Irwin (Hamilton)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1833",
+    "year": 1833,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_john_a_1830"
+   ],
+   "children": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_john_a_1830+irwin_emeline"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married John A. Hamilton (m. 18 Oct 1855, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "irwin_zona",
+   "name": "Zona Irwin (Adams)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_ralph_stanley"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_ralph_stanley+irwin_zona"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ralph Stanley Adams"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Wife of Ralph Stanley Adams; they had no children."
+   ]
+  },
+  {
    "id": "ivo_john_obad",
    "name": "Ivo John Obad",
    "aliases": [],
@@ -13811,6 +18884,180 @@
    "sources": [
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "jarboe_charles",
+   "name": "Charles Jarboe",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1830",
+    "year": 1830,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "jarboe_james",
+   "mother": "hamilton_eliza_c",
+   "parents": [
+    "hamilton_eliza_c",
+    "jarboe_james"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "jarboe_margaret_a"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eliza_c+jarboe_james",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Maryland",
+    "Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Teamster (1860)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "jarboe_james",
+   "name": "James Jarboe",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_eliza_c"
+   ],
+   "children": [
+    "jarboe_charles",
+    "jarboe_margaret_a"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_eliza_c+jarboe_james"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Eliza C. Hamilton (Jarboe) (m. 23 Mar 1825, Frederick County, MD)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "jarboe_margaret_a",
+   "name": "Margaret A. Jarboe",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1833",
+    "year": 1833,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "jarboe_james",
+   "mother": "hamilton_eliza_c",
+   "parents": [
+    "hamilton_eliza_c",
+    "jarboe_james"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "jarboe_charles"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eliza_c+jarboe_james",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
    ],
    "notes": []
   },
@@ -15301,7 +20548,12 @@
    "spouses": [
     "adams_alexander_washington"
    ],
-   "children": [],
+   "children": [
+    "adams_mary_rebecca",
+    "adams_george_w_1857",
+    "adams_evarilda",
+    "adams_helen_n"
+   ],
    "siblings": [],
    "families": [
     "F_adams_alexander_washington+konitzer_christiana"
@@ -17129,6 +22381,309 @@
    ]
   },
   {
+   "id": "mann_f_iona",
+   "name": "F. Iona Mann",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1887",
+    "year": 1887,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "mann_rolla_w"
+   ],
+   "children": [
+    "mann_james_h"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mann_f_iona+mann_rolla_w"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Rolla W. Mann"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Wife of Rolla W. Mann; maiden name not recorded."
+   ]
+  },
+  {
+   "id": "mann_james_h",
+   "name": "James H. Mann",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1914",
+    "year": 1914,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "mann_rolla_w",
+   "mother": "mann_f_iona",
+   "parents": [
+    "mann_f_iona",
+    "mann_rolla_w"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_mann_f_iona+mann_rolla_w",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "mann_james_m",
+   "name": "James M. Mann",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Dec 1839",
+    "year": 1839,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_nancy_jane"
+   ],
+   "children": [
+    "mann_margaret",
+    "mann_rolla_w"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_nancy_jane+mann_james_m"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Indiana",
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Nancy Jane Hamilton (Mann) (m. 19 Jun 1861, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Engineer"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "mann_margaret",
+   "name": "Margaret Mann",
+   "aliases": [
+    "Maggie Mann"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1864",
+    "year": 1864,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "mann_james_m",
+   "mother": "hamilton_nancy_jane",
+   "parents": [
+    "hamilton_nancy_jane",
+    "mann_james_m"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "mann_rolla_w"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_nancy_jane+mann_james_m",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "mann_rolla_w",
+   "name": "Rolla W. Mann",
+   "aliases": [
+    "Roll Mann"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Jun 1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "mann_james_m",
+   "mother": "hamilton_nancy_jane",
+   "parents": [
+    "hamilton_nancy_jane",
+    "mann_james_m"
+   ],
+   "spouses": [
+    "mann_f_iona"
+   ],
+   "children": [
+    "mann_james_h"
+   ],
+   "siblings": [
+    "mann_margaret"
+   ],
+   "families": [
+    "F_mann_f_iona+mann_rolla_w"
+   ],
+   "parent_family": "F_hamilton_nancy_jane+mann_james_m",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married F. Iona Mann"
+   ],
+   "education": [],
+   "career": [
+    "Darke County treasurer (1920)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "manzer_honolulu_claire",
    "name": "Honolulu Claire Manzer",
    "aliases": [],
@@ -17283,6 +22838,60 @@
     "Brendan's 'Granny.' Emily Schriefer (first wife of Buckey) was Peggy's 1st cousin.",
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Baltimore, MD."
    ]
+  },
+  {
+   "id": "martin_daniel",
+   "name": "Daniel Martin",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_mary_b"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hamilton_mary_b+martin_daniel"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Mary B. Hamilton (Martin) (m. aft 1830)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
   },
   {
    "id": "martin_kaleb",
@@ -17606,6 +23215,62 @@
    "notes": [
     "DNA match #26 on Simons branch.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "mccoy_ulysses_g",
+   "name": "Ulysses G. McCoy",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "bef 1910",
+    "year": 1910,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_lona_belle"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hamilton_lona_belle+mccoy_ulysses_g"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Lona Belle Hamilton (McCoy) (m. 5 Oct 1902, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Son of John P. and Sarah J. (Hulse) McCoy."
    ]
   },
   {
@@ -19501,6 +25166,69 @@
    ]
   },
   {
+   "id": "meeks_mary_ann",
+   "name": "Mary Ann Meeks (Hamilton)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1825",
+    "year": 1825,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_thomas_w"
+   ],
+   "children": [
+    "hamilton_alice_g",
+    "hamilton_nancy_jane",
+    "hamilton_phebe_ann",
+    "hamilton_caroline_1845",
+    "hamilton_mary_a",
+    "hamilton_eunice"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_thomas_w+meeks_mary_ann"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Thomas W. Hamilton"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "megan_marie_adams",
    "name": "Megan Marie Adams",
    "aliases": [],
@@ -20757,6 +26485,75 @@
    "notes": []
   },
   {
+   "id": "philpott_eleanor",
+   "name": "Eleanor Philpott (Hamilton)",
+   "aliases": [
+    "Nelly Hamilton"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "aft 1850",
+    "year": 1850,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_john_alexander"
+   ],
+   "children": [
+    "hamilton_francis_l",
+    "hamilton_eliza_c",
+    "hamilton_eleanor",
+    "hamilton_thomas_w",
+    "hamilton_george_w",
+    "hamilton_john_1c"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_john_alexander+philpott_eleanor"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Frederick County, MD",
+    "Jefferson County, VA",
+    "Greenville, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married John Alexander Hamilton (m. 22 Jun 1795, Frederick County, MD)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Daughter of Barton and Martha (Musgrove) Philpott of Frederick County, Maryland. In 1850 she was living in Greenville, Ohio, with her daughter Eliza C. Jarboe and grandchildren."
+   ]
+  },
+  {
    "id": "pieritz_wilhelmina",
    "name": "Wilhelmina Pieritz (Kaempfer)",
    "aliases": [],
@@ -21853,6 +27650,70 @@
    ]
   },
   {
+   "id": "rieker_mary_elizabeth",
+   "name": "Mary Elizabeth Rieker (Hamilton)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1846",
+    "year": 1846,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_samuel_f"
+   ],
+   "children": [
+    "hamilton_isaac_1867",
+    "hamilton_evaline",
+    "hamilton_louisa_1879",
+    "hamilton_amanda_1880"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_samuel_f+rieker_mary_elizabeth"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried in Otterbein Cemetery, Darke County, Ohio",
+    "Married Samuel F. Hamilton (m. 28 Dec 1865, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Her death year is misprinted in the register (\"1827\")."
+   ]
+  },
+  {
    "id": "ritchey_amy",
    "name": "Amy Ritchey",
    "aliases": [],
@@ -22152,6 +28013,648 @@
    "notes": [
     "Siblings listed: George, Ted, Sam, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge.",
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
+   ]
+  },
+  {
+   "id": "ryan_daniel_h",
+   "name": "Daniel H. Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1844",
+    "year": 1844,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 4 on 12 April 1848, when his uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_eliza_jane",
+   "name": "Eliza Jane Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1842",
+    "year": 1842,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 6 on 12 April 1848, when her uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_elizabeth_p",
+   "name": "Elizabeth P. Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1847",
+    "year": 1847,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 1 on 12 April 1848, when her uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_emily_a",
+   "name": "Emily A. Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1838",
+    "year": 1838,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 10 on 12 April 1848, when her uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_francis_l",
+   "name": "Francis L. Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1840",
+    "year": 1840,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 8 on 12 April 1848, when his uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_george_w",
+   "name": "George W. Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1840",
+    "year": 1840,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 8 on 12 April 1848, when his uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_john",
+   "name": "John Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1837",
+    "year": 1837,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 11 on 12 April 1848, when his uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_mary_e",
+   "name": "Mary E. Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1835",
+    "year": 1835,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 13 on 12 April 1848, when her uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
+   ]
+  },
+  {
+   "id": "ryan_rudolph",
+   "name": "Rudolph Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "bef Apr 1848",
+    "year": 1848,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_eleanor"
+   ],
+   "children": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_eleanor+ryan_rudolph"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Eleanor Hamilton (Ryan)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Died before 12 April 1848, when Francis L. Hamilton became guardian of his nine minor children."
+   ]
+  },
+  {
+   "id": "ryan_william",
+   "name": "William Ryan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1846",
+    "year": 1846,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "ryan_rudolph",
+   "mother": "hamilton_eleanor",
+   "parents": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_elizabeth_p"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_eleanor+ryan_rudolph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": [
+    "Aged 2 on 12 April 1848, when his uncle Francis L. Hamilton became guardian of Rudolph Ryan’s children."
    ]
   },
   {
@@ -25563,6 +32066,508 @@
    ]
   },
   {
+   "id": "sparks_john_d",
+   "name": "John D. Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1875",
+    "year": 1875,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "sparks_william_h_h",
+   "mother": "hamilton_phebe_ann",
+   "parents": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "sparks_margaret_caroline",
+   "name": "Margaret Caroline Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1870",
+    "year": 1870,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "sparks_william_h_h",
+   "mother": "hamilton_phebe_ann",
+   "parents": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "sparks_rosella",
+   "name": "Rosella Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1868",
+    "year": 1868,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "sparks_william_h_h",
+   "mother": "hamilton_phebe_ann",
+   "parents": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "sparks_rutherford",
+   "name": "Rutherford Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1876",
+    "year": 1876,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "sparks_william_h_h",
+   "mother": "hamilton_phebe_ann",
+   "parents": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_unes"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "sparks_thomas_h",
+   "name": "Thomas H. Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1869",
+    "year": 1869,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "sparks_william_h_h",
+   "mother": "hamilton_phebe_ann",
+   "parents": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sparks_rosella",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "sparks_unes",
+   "name": "Unes Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1879",
+    "year": 1879,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "sparks_william_h_h",
+   "mother": "hamilton_phebe_ann",
+   "parents": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_rutherford"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "sparks_walter",
+   "name": "Walter Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1872",
+    "year": 1872,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "sparks_william_h_h",
+   "mother": "hamilton_phebe_ann",
+   "parents": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_john_d",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "sparks_william_h_h",
+   "name": "William H. H. Sparks",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1840",
+    "year": 1840,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_phebe_ann"
+   ],
+   "children": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_phebe_ann+sparks_william_h_h"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio",
+    "German Township, Darke County, OH"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Buried at Abbottsville Cemetery, Darke County, Ohio",
+    "Married Phebe Ann Hamilton (Sparks) (m. 28 Jul 1865, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [
+    "Farmer in German Township (1870, 1880)"
+   ],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "spring_juliaetta",
    "name": "Juliaetta A. Spring",
    "aliases": [],
@@ -25889,6 +32894,60 @@
    ]
   },
   {
+   "id": "stoltz_james_l",
+   "name": "James L. Stoltz",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_eunice"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hamilton_eunice+stoltz_james_l"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Eunice Hamilton (Stoltz) (m. 7 Jul 1881, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "susan_obad",
    "name": "Susan Obad",
    "aliases": [],
@@ -25939,6 +32998,65 @@
    ]
   },
   {
+   "id": "swan_horatio_m",
+   "name": "Horatio M. Swan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "swan_lewis",
+   "mother": null,
+   "parents": [
+    "swan_lewis"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "swan_melissa"
+   ],
+   "families": [],
+   "parent_family": "F_swan_lewis",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Columbus, Franklin County, Ohio",
+    "Cleveland, Cuyahoga County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Bill Allen believed he was Lewis Swan’s child by an earlier marriage.",
+    "Age 23 in the Lewis Swan household in the 1850 census [Further Research, line 8336]",
+    "Head of household in the 1860 census [Further Research, line 8494]"
+   ]
+  },
+  {
    "id": "swan_lewis",
    "name": "Lewis Swan",
    "aliases": [],
@@ -25968,11 +33086,16 @@
     "adams_magdalena",
     "adams_mary_swan"
    ],
-   "children": [],
+   "children": [
+    "swan_mary_elizabeth",
+    "swan_horatio_m",
+    "swan_melissa"
+   ],
    "siblings": [],
    "families": [
     "F_adams_magdalena+swan_lewis",
-    "F_adams_mary_swan+swan_lewis"
+    "F_adams_mary_swan+swan_lewis",
+    "F_swan_lewis"
    ],
    "parent_family": null,
    "connected": true,
@@ -26005,6 +33128,123 @@
     "Additional spouse: adams_mary_swan",
     "Birth date newly established: abt 1807.",
     "Spent the rest of his life moving between his children's households and the Gills' [Bill Allen, Further Research, 2012, line 8478]"
+   ]
+  },
+  {
+   "id": "swan_mary_elizabeth",
+   "name": "Mary Elizabeth Swan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "swan_lewis",
+   "mother": "adams_magdalena",
+   "parents": [
+    "adams_magdalena",
+    "swan_lewis"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_adams_magdalena+swan_lewis",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Columbus, Franklin County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Bill Allen believed she was Magdalena’s daughter, born after the 1840 census. The 1870 census suggests she married a man named Hanel or Hazle (hard to read).",
+    "Age 10 in the Lewis Swan household in the 1850 census [Further Research, line 8337]",
+    "Author lost track of her after her marriage [Further Research, line 8548]"
+   ]
+  },
+  {
+   "id": "swan_melissa",
+   "name": "Melissa Swan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "swan_lewis",
+   "mother": null,
+   "parents": [
+    "swan_lewis"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "swan_horatio_m"
+   ],
+   "families": [],
+   "parent_family": "F_swan_lewis",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Columbus, Franklin County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Bill Allen believed she was Lewis Swan’s child by an earlier marriage.",
+    "Age 18 in the Lewis Swan household in the 1850 census [Further Research, line 8337]"
    ]
   },
   {
@@ -27673,6 +34913,64 @@
    ]
   },
   {
+   "id": "wilcox_ellen",
+   "name": "Ellen Wilcox (Hamilton)",
+   "aliases": [
+    "Ella Wilcox"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1851",
+    "year": 1851,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_daniel_1849"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hamilton_daniel_1849+wilcox_ellen"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Daniel Hamilton (m. 3 Jul 1879, Darke County, OH)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "winfrey_victor",
    "name": "Victor Winfrey",
    "aliases": [],
@@ -27833,6 +35131,120 @@
    ]
   },
   {
+   "id": "wright_harriet_jean",
+   "name": "Harriet Jean Wright",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "Mar 1917",
+    "year": 1917,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "wright_ralph_w",
+   "mother": "adams_alice_christiana",
+   "parents": [
+    "adams_alice_christiana",
+    "wright_ralph_w"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_adams_alice_christiana+wright_ralph_w",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born Mar 1917"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": [
+    "Author could not determine whether or whom she married [Further Research, line 8575]"
+   ]
+  },
+  {
+   "id": "wright_ralph_w",
+   "name": "Ralph W. Wright",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "adams_alice_christiana"
+   ],
+   "children": [
+    "wright_harriet_jean"
+   ],
+   "siblings": [],
+   "families": [
+    "F_adams_alice_christiana+wright_ralph_w"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Alice Christiana Adams (Wright)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+   ],
+   "notes": []
+  },
+  {
    "id": "yingling_john",
    "name": "John Yingling",
    "aliases": [],
@@ -27915,7 +35327,8 @@
     "hamilton_john_of_kype"
    ],
    "children": [
-    "hamilton_francis"
+    "hamilton_francis",
+    "hamilton_alexander_uncle"
    ],
    "siblings": [],
    "families": [
@@ -28656,7 +36069,12 @@
     "adams_alexander_washington",
     "konitzer_christiana"
    ],
-   "children": [],
+   "children": [
+    "adams_mary_rebecca",
+    "adams_george_w_1857",
+    "adams_evarilda",
+    "adams_helen_n"
+   ],
    "marriage": "26 May 1851, Columbus, Franklin County, Ohio"
   },
   {
@@ -28688,6 +36106,17 @@
     "adams_grace"
    ],
    "marriage": "17 Jan 1871, Chariton County, MO"
+  },
+  {
+   "id": "F_adams_alice_christiana+wright_ralph_w",
+   "partners": [
+    "adams_alice_christiana",
+    "wright_ralph_w"
+   ],
+   "children": [
+    "wright_harriet_jean"
+   ],
+   "marriage": null
   },
   {
    "id": "F_adams_caleb_francis+reece_hallie_ione",
@@ -28796,6 +36225,30 @@
    "marriage": "7 Jan 1909, Lewis County, WA"
   },
   {
+   "id": "F_adams_george_w_1857+davis_carrie_a",
+   "partners": [
+    "adams_george_w_1857",
+    "davis_carrie_a"
+   ],
+   "children": [
+    "adams_harriet_ray",
+    "adams_ralph_stanley",
+    "adams_ethel_jane",
+    "adams_george_edgar",
+    "adams_alice_christiana"
+   ],
+   "marriage": "Nov 1880, Newark, Licking County, OH"
+  },
+  {
+   "id": "F_adams_george_w_1857+drumm_jennie_s",
+   "partners": [
+    "adams_george_w_1857",
+    "drumm_jennie_s"
+   ],
+   "children": [],
+   "marriage": "Apr 1906, Licking County, OH"
+  },
+  {
    "id": "F_adams_gertrude_1881+clark_wallace_bowlingreen",
    "partners": [
     "adams_gertrude_1881",
@@ -28812,7 +36265,10 @@
     "adams_harriet_josephine",
     "gill_stephen_augusta"
    ],
-   "children": [],
+   "children": [
+    "gill_stephen_milton",
+    "gill_mary_frances"
+   ],
    "marriage": "8 Mar 1848"
   },
   {
@@ -28894,7 +36350,9 @@
     "adams_alexander_washington",
     "adams_mary_swan",
     "adams_harriet_josephine",
-    "adams_magdalena"
+    "adams_magdalena",
+    "adams_susan_twin",
+    "adams_ursula_twin"
    ],
    "marriage": "1813"
   },
@@ -28917,7 +36375,9 @@
     "adams_magdalena",
     "swan_lewis"
    ],
-   "children": [],
+   "children": [
+    "swan_mary_elizabeth"
+   ],
    "marriage": "25 Sep 1838"
   },
   {
@@ -29006,6 +36466,15 @@
     "adams_mary_e_1916"
    ],
    "marriage": "15 Apr 1913, Kansas City, Jackson County, MO"
+  },
+  {
+   "id": "F_adams_ralph_stanley+irwin_zona",
+   "partners": [
+    "adams_ralph_stanley",
+    "irwin_zona"
+   ],
+   "children": [],
+   "marriage": null
   },
   {
    "id": "F_adams_virginia_m+lewis_john",
@@ -29277,6 +36746,35 @@
    "marriage": null
   },
   {
+   "id": "F_baker_walter+hamilton_jacobina",
+   "partners": [
+    "baker_walter",
+    "hamilton_jacobina"
+   ],
+   "children": [],
+   "marriage": "2 Apr 1817, Frederick County, MD"
+  },
+  {
+   "id": "F_baker_walter+hamilton_magdalena",
+   "partners": [
+    "baker_walter",
+    "hamilton_magdalena"
+   ],
+   "children": [
+    "baker_washington"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_ballard_william_a+hamilton_anna_b",
+   "partners": [
+    "ballard_william_a",
+    "hamilton_anna_b"
+   ],
+   "children": [],
+   "marriage": "7 Jun 1888, Darke County, OH"
+  },
+  {
    "id": "F_barbara_mckeldin_adams+john_howard_adams",
    "partners": [
     "barbara_mckeldin_adams",
@@ -29287,6 +36785,27 @@
     "brendan_mckeldin_adams"
    ],
    "marriage": "1970"
+  },
+  {
+   "id": "F_bascom_john_l+hamilton_mary_a",
+   "partners": [
+    "bascom_john_l",
+    "hamilton_mary_a"
+   ],
+   "children": [
+    "hamilton_lona_belle",
+    "bascom_susannah"
+   ],
+   "marriage": "5 Dec 1869, Darke County, OH"
+  },
+  {
+   "id": "F_bascom_susannah+foltz_george_t",
+   "partners": [
+    "bascom_susannah",
+    "foltz_george_t"
+   ],
+   "children": [],
+   "marriage": "1896"
   },
   {
    "id": "F_beryl_simons_adams+george_francis_adams_sr",
@@ -29472,6 +36991,24 @@
    "marriage": "17 Jun 1972"
   },
   {
+   "id": "F_deane_elizabeth_phebe+hamilton_francis_l",
+   "partners": [
+    "deane_elizabeth_phebe",
+    "hamilton_francis_l"
+   ],
+   "children": [
+    "hamilton_john_a_1830",
+    "hamilton_caroline_1833",
+    "hamilton_gavin_washington",
+    "hamilton_francis_1839",
+    "hamilton_james_1844",
+    "hamilton_sarah_1846",
+    "hamilton_daniel_1849",
+    "hamilton_isaac_1850"
+   ],
+   "marriage": "6 Sep 1829, Darke County, OH"
+  },
+  {
    "id": "F_devaw_louisa_woods+martin_kaleb",
    "partners": [
     "devaw_louisa_woods",
@@ -29481,6 +37018,17 @@
     "martin_mary_louisa"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_douglas_elizabeth+hamilton_gavin_d1814",
+   "partners": [
+    "douglas_elizabeth",
+    "hamilton_gavin_d1814"
+   ],
+   "children": [
+    "hamilton_francis_alexander"
+   ],
+   "marriage": "20 Jul 1800, Prince George’s County, MD"
   },
   {
    "id": "F_emily_schrieffer_mckeldin+poleman_jack",
@@ -29619,14 +37167,100 @@
    "marriage": null
   },
   {
-   "id": "F_hamilton_francis",
+   "id": "F_hamilton_alice_g+house_harry",
    "partners": [
-    "hamilton_francis"
+    "hamilton_alice_g",
+    "house_harry"
    ],
    "children": [
-    "hamilton_thomas"
+    "house_adelia",
+    "house_ida"
+   ],
+   "marriage": "10 Oct 1857, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_ann+hamilton_george_w",
+   "partners": [
+    "hamilton_ann",
+    "hamilton_george_w"
+   ],
+   "children": [
+    "hamilton_gavin_1840",
+    "hamilton_francis_a_1843",
+    "hamilton_samuel_f",
+    "hamilton_sarah_e"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_hamilton_caroline_1845+harter_eli",
+   "partners": [
+    "hamilton_caroline_1845",
+    "harter_eli"
+   ],
+   "children": [],
+   "marriage": "5 Apr 1865, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_catherine+hamilton_francis_jr",
+   "partners": [
+    "hamilton_catherine",
+    "hamilton_francis_jr"
+   ],
+   "children": [
+    "hamilton_henry_a",
+    "hamilton_mary_b"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_hamilton_daniel_1849+wilcox_ellen",
+   "partners": [
+    "hamilton_daniel_1849",
+    "wilcox_ellen"
+   ],
+   "children": [],
+   "marriage": "3 Jul 1879, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_eleanor+ryan_rudolph",
+   "partners": [
+    "hamilton_eleanor",
+    "ryan_rudolph"
+   ],
+   "children": [
+    "ryan_mary_e",
+    "ryan_john",
+    "ryan_emily_a",
+    "ryan_george_w",
+    "ryan_francis_l",
+    "ryan_eliza_jane",
+    "ryan_daniel_h",
+    "ryan_william",
+    "ryan_elizabeth_p"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_hamilton_eliza_c+jarboe_james",
+   "partners": [
+    "hamilton_eliza_c",
+    "jarboe_james"
+   ],
+   "children": [
+    "jarboe_charles",
+    "jarboe_margaret_a"
+   ],
+   "marriage": "23 Mar 1825, Frederick County, MD"
+  },
+  {
+   "id": "F_hamilton_eunice+stoltz_james_l",
+   "partners": [
+    "hamilton_eunice",
+    "stoltz_james_l"
+   ],
+   "children": [],
+   "marriage": "7 Jul 1881, Darke County, OH"
   },
   {
    "id": "F_hamilton_francis+hamilton_susan",
@@ -29635,9 +37269,48 @@
     "hamilton_susan"
    ],
    "children": [
-    "hamilton_elizabeth_eliza"
+    "hamilton_john_alexander",
+    "hamilton_elizabeth_eliza",
+    "hamilton_thomas",
+    "hamilton_gavin_d1814",
+    "hamilton_francis_jr",
+    "hamilton_jacobina",
+    "hamilton_magdalena"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_hamilton_john_a_1830+irwin_emeline",
+   "partners": [
+    "hamilton_john_a_1830",
+    "irwin_emeline"
+   ],
+   "children": [
+    "hamilton_phebe_1856",
+    "hamilton_edward_1858",
+    "hamilton_francis_1859",
+    "hamilton_kate_1861",
+    "hamilton_anna_b",
+    "hamilton_emma_1867",
+    "hamilton_sophia_1868"
+   ],
+   "marriage": "18 Oct 1855, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_john_alexander+philpott_eleanor",
+   "partners": [
+    "hamilton_john_alexander",
+    "philpott_eleanor"
+   ],
+   "children": [
+    "hamilton_francis_l",
+    "hamilton_eliza_c",
+    "hamilton_eleanor",
+    "hamilton_thomas_w",
+    "hamilton_george_w",
+    "hamilton_john_1c"
+   ],
+   "marriage": "22 Jun 1795, Frederick County, MD"
   },
   {
    "id": "F_hamilton_john_of_kype+young_jacobina",
@@ -29646,7 +37319,95 @@
     "young_jacobina"
    ],
    "children": [
-    "hamilton_francis"
+    "hamilton_francis",
+    "hamilton_alexander_uncle"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_hamilton_lona_belle+mccoy_ulysses_g",
+   "partners": [
+    "hamilton_lona_belle",
+    "mccoy_ulysses_g"
+   ],
+   "children": [],
+   "marriage": "5 Oct 1902, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_mary_b+martin_daniel",
+   "partners": [
+    "hamilton_mary_b",
+    "martin_daniel"
+   ],
+   "children": [],
+   "marriage": "aft 1830"
+  },
+  {
+   "id": "F_hamilton_nancy_jane+mann_james_m",
+   "partners": [
+    "hamilton_nancy_jane",
+    "mann_james_m"
+   ],
+   "children": [
+    "mann_margaret",
+    "mann_rolla_w"
+   ],
+   "marriage": "19 Jun 1861, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_phebe_ann+sparks_william_h_h",
+   "partners": [
+    "hamilton_phebe_ann",
+    "sparks_william_h_h"
+   ],
+   "children": [
+    "sparks_rosella",
+    "sparks_thomas_h",
+    "sparks_margaret_caroline",
+    "sparks_walter",
+    "sparks_john_d",
+    "sparks_rutherford",
+    "sparks_unes"
+   ],
+   "marriage": "28 Jul 1865, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_samuel_f+rieker_mary_elizabeth",
+   "partners": [
+    "hamilton_samuel_f",
+    "rieker_mary_elizabeth"
+   ],
+   "children": [
+    "hamilton_isaac_1867",
+    "hamilton_evaline",
+    "hamilton_louisa_1879",
+    "hamilton_amanda_1880"
+   ],
+   "marriage": "28 Dec 1865, Darke County, OH"
+  },
+  {
+   "id": "F_hamilton_thomas_w",
+   "partners": [
+    "hamilton_thomas_w"
+   ],
+   "children": [
+    "hamilton_john_a_1836"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_hamilton_thomas_w+meeks_mary_ann",
+   "partners": [
+    "hamilton_thomas_w",
+    "meeks_mary_ann"
+   ],
+   "children": [
+    "hamilton_alice_g",
+    "hamilton_nancy_jane",
+    "hamilton_phebe_ann",
+    "hamilton_caroline_1845",
+    "hamilton_mary_a",
+    "hamilton_eunice"
    ],
    "marriage": null
   },
@@ -29804,6 +37565,17 @@
    ],
    "children": [
     "lane_cynthia"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_mann_f_iona+mann_rolla_w",
+   "partners": [
+    "mann_f_iona",
+    "mann_rolla_w"
+   ],
+   "children": [
+    "mann_james_h"
    ],
    "marriage": null
   },
@@ -30026,6 +37798,17 @@
     "simons_steve"
    ],
    "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_swan_lewis",
+   "partners": [
+    "swan_lewis"
+   ],
+   "children": [
+    "swan_horatio_m",
+    "swan_melissa"
+   ],
    "marriage": null
   },
   {

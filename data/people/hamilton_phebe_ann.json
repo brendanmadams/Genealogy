@@ -1,0 +1,40 @@
+{
+  "id": "hamilton_phebe_ann",
+  "name": "Phebe Ann Hamilton (Sparks)",
+  "birth": "1843",
+  "death": "1932",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Buried at Abbottsville Cemetery, Darke County, Ohio",
+    "Married William H. H. Sparks (m. 28 Jul 1865, Darke County, OH)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "meeks_mary_ann",
+    "father": "hamilton_thomas_w",
+    "siblings": [],
+    "spouse": "sparks_william_h_h",
+    "children": [
+      "sparks_rosella",
+      "sparks_thomas_h",
+      "sparks_margaret_caroline",
+      "sparks_walter",
+      "sparks_john_d",
+      "sparks_rutherford",
+      "sparks_unes"
+    ]
+  },
+  "locations": [
+    "Darke County, OH"
+  ],
+  "sources": [
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+  ],
+  "notes": [],
+  "aliases": []
+}

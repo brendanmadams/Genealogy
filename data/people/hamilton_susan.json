@@ -19,7 +19,12 @@
     "siblings": [],
     "spouse": "hamilton_francis",
     "children": [
-      "hamilton_elizabeth_eliza"
+      "hamilton_elizabeth_eliza",
+      "hamilton_john_alexander",
+      "hamilton_gavin_d1814",
+      "hamilton_francis_jr",
+      "hamilton_jacobina",
+      "hamilton_magdalena"
     ]
   },
   "locations": [
@@ -29,6 +34,7 @@
     "family_data_v1"
   ],
   "notes": [
-    "Wife of Francis Hamilton. Possibly Susan Blandford per source."
+    "Wife of Francis Hamilton. Possibly Susan Blandford per source.",
+    "The Hamilton register is unsure of Francis Hamilton’s wife’s name: \"possibly a Susan or Margaret\"; a Susan Hamilton was living alone in Jefferson County in 1820."
   ]
 }
