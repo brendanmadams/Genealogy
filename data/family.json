@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T23:19:33.503Z",
-  "people": 634,
-  "family_members": 584,
+  "generated": "2026-09-23T23:35:24.637Z",
+  "people": 645,
+  "family_members": 595,
   "dna_matches": 50,
-  "connected_people": 584,
-  "families": 194,
+  "connected_people": 595,
+  "families": 199,
   "branches": [
    "adams",
    "hamilton",
@@ -123,8 +123,9 @@
    "label": "Olson",
    "color": "#8b5cf6",
    "roots": [
-    "olson_tom_umpa",
-    "dickpeddie_rosemary"
+    "olson_thomas_mikkel_elder",
+    "olson_clara",
+    "olson_nels_elder"
    ]
   },
   {
@@ -12959,10 +12960,8 @@
    "living": false,
    "living_status": "assumed",
    "branch": "olson",
-   "branch_by_marriage": false,
-   "lineages": [
-    "olson"
-   ],
+   "branch_by_marriage": true,
+   "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -12990,7 +12989,7 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Tom “Umpa” Olson (m. 6 Apr 1945)"
+    "Married Thomas Orlando “Umpa” Olson (m. 6 Apr 1945)"
    ],
    "education": [],
    "career": [],
@@ -31618,6 +31617,65 @@
    "notes": []
   },
   {
+   "id": "megan_ex_olson",
+   "name": "Megan",
+   "aliases": [
+    "Megan Olson"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "olson",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "olson_tommy"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_megan_ex_olson+olson_tommy"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Thomas Mikkel “Tommy” Olson; later divorced"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Former wife of Thomas Mikkel \"Tommy\" Olson; no children. Her surname is not recorded."
+   ]
+  },
+  {
    "id": "megan_marie_adams",
    "name": "Megan Marie Falde (Adams)",
    "aliases": [
@@ -32781,7 +32839,7 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Tom Olson (m. 14 Jun 1969)"
+    "Married Thomas William Olson (m. 14 Jun 1969)"
    ],
    "education": [],
    "career": [],
@@ -32790,6 +32848,309 @@
    ],
    "notes": [
     "Wife of Tom Olson (son of Tom \"Umpa\" Olson)."
+   ]
+  },
+  {
+   "id": "olson_carroll",
+   "name": "Carroll Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": false,
+   "lineages": [
+    "olson"
+   ],
+   "adopted": false,
+   "father": "olson_thomas_mikkel_elder",
+   "mother": "olson_clara",
+   "parents": [
+    "olson_clara",
+    "olson_thomas_mikkel_elder"
+   ],
+   "spouses": [
+    "olson_wilma"
+   ],
+   "children": [
+    "olson_debbie",
+    "olson_diane",
+    "olson_denise"
+   ],
+   "siblings": [
+    "olson_tom_umpa"
+   ],
+   "families": [
+    "F_olson_carroll+olson_wilma"
+   ],
+   "parent_family": "F_olson_clara+olson_thomas_mikkel_elder",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Son of Thomas Mikkel and Clara Olson; brother of Thomas Orlando \"Umpa\" Olson."
+   ]
+  },
+  {
+   "id": "olson_clara",
+   "name": "Clara Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": false,
+   "lineages": [
+    "olson"
+   ],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "olson_thomas_mikkel_elder"
+   ],
+   "children": [
+    "olson_tom_umpa",
+    "olson_carroll"
+   ],
+   "siblings": [],
+   "families": [
+    "F_olson_clara+olson_thomas_mikkel_elder"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Wife of Thomas Mikkel Olson and mother of Thomas Orlando \"Umpa\" Olson and Carroll Olson; her birth surname is not recorded."
+   ]
+  },
+  {
+   "id": "olson_debbie",
+   "name": "Debbie Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": false,
+   "lineages": [
+    "olson"
+   ],
+   "adopted": false,
+   "father": "olson_carroll",
+   "mother": "olson_wilma",
+   "parents": [
+    "olson_carroll",
+    "olson_wilma"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "olson_diane",
+    "olson_denise"
+   ],
+   "families": [],
+   "parent_family": "F_olson_carroll+olson_wilma",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Daughter of Carroll and Wilma Olson."
+   ]
+  },
+  {
+   "id": "olson_denise",
+   "name": "Denise Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": false,
+   "lineages": [
+    "olson"
+   ],
+   "adopted": false,
+   "father": "olson_carroll",
+   "mother": "olson_wilma",
+   "parents": [
+    "olson_carroll",
+    "olson_wilma"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "olson_debbie",
+    "olson_diane"
+   ],
+   "families": [],
+   "parent_family": "F_olson_carroll+olson_wilma",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Daughter of Carroll and Wilma Olson."
+   ]
+  },
+  {
+   "id": "olson_diane",
+   "name": "Diane Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": false,
+   "lineages": [
+    "olson"
+   ],
+   "adopted": false,
+   "father": "olson_carroll",
+   "mother": "olson_wilma",
+   "parents": [
+    "olson_carroll",
+    "olson_wilma"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "olson_debbie",
+    "olson_denise"
+   ],
+   "families": [],
+   "parent_family": "F_olson_carroll+olson_wilma",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Daughter of Carroll and Wilma Olson."
    ]
   },
   {
@@ -33101,6 +33462,63 @@
    "notes": []
   },
   {
+   "id": "olson_nels_elder",
+   "name": "Nels Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": false,
+   "lineages": [
+    "olson"
+   ],
+   "adopted": false,
+   "father": "olson_unknown_father",
+   "mother": null,
+   "parents": [
+    "olson_unknown_father"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "olson_thomas_mikkel_elder"
+   ],
+   "families": [],
+   "parent_family": "F_olson_unknown_father",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Brother of Thomas Mikkel Olson (Umpa’s father). His great-great-nephew Nels Olson is named for him."
+   ]
+  },
+  {
    "id": "olson_sigrid",
    "name": "Sigrid Olson",
    "aliases": [],
@@ -33132,13 +33550,17 @@
     "dickpeddie_rosemary",
     "olson_tom_umpa"
    ],
-   "spouses": [],
+   "spouses": [
+    "wood_chris"
+   ],
    "children": [],
    "siblings": [
     "olson_tom",
     "olson_kris"
    ],
-   "families": [],
+   "families": [
+    "F_olson_sigrid+wood_chris"
+   ],
    "parent_family": "F_dickpeddie_rosemary+olson_tom_umpa",
    "connected": true,
    "dna_match": false,
@@ -33155,12 +33577,80 @@
    "sources": [
     "Brendan Adams (personal knowledge), 2026"
    ],
-   "notes": []
+   "notes": [
+    "Her partner is Chris Wood; they have no children."
+   ]
+  },
+  {
+   "id": "olson_thomas_mikkel_elder",
+   "name": "Thomas Mikkel Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": false,
+   "lineages": [
+    "olson"
+   ],
+   "adopted": false,
+   "father": "olson_unknown_father",
+   "mother": null,
+   "parents": [
+    "olson_unknown_father"
+   ],
+   "spouses": [
+    "olson_clara"
+   ],
+   "children": [
+    "olson_tom_umpa",
+    "olson_carroll"
+   ],
+   "siblings": [
+    "olson_nels_elder"
+   ],
+   "families": [
+    "F_olson_clara+olson_thomas_mikkel_elder"
+   ],
+   "parent_family": "F_olson_unknown_father",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Father of Thomas Orlando \"Umpa\" Olson and Carroll Olson; brother of Nels Olson. His great-grandson Thomas Mikkel \"Tommy\" Olson is named for him."
+   ]
   },
   {
    "id": "olson_tom",
-   "name": "Tom Olson",
-   "aliases": [],
+   "name": "Thomas William Olson",
+   "aliases": [
+    "Tom Olson"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -33228,9 +33718,10 @@
   },
   {
    "id": "olson_tom_umpa",
-   "name": "Tom Olson",
+   "name": "Thomas Orlando Olson",
    "aliases": [
-    "Umpa"
+    "Umpa",
+    "Tom Olson"
    ],
    "photo": null,
    "card_name": null,
@@ -33254,9 +33745,12 @@
     "olson"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "olson_thomas_mikkel_elder",
+   "mother": "olson_clara",
+   "parents": [
+    "olson_clara",
+    "olson_thomas_mikkel_elder"
+   ],
    "spouses": [
     "dickpeddie_rosemary"
    ],
@@ -33265,11 +33759,13 @@
     "olson_kris",
     "olson_sigrid"
    ],
-   "siblings": [],
+   "siblings": [
+    "olson_carroll"
+   ],
    "families": [
     "F_dickpeddie_rosemary+olson_tom_umpa"
    ],
-   "parent_family": null,
+   "parent_family": "F_olson_clara+olson_thomas_mikkel_elder",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -33295,8 +33791,11 @@
   },
   {
    "id": "olson_tommy",
-   "name": "Tommy Olson",
-   "aliases": [],
+   "name": "Thomas Mikkel “Tommy” Olson",
+   "aliases": [
+    "Tommy Olson",
+    "Thomas Mikkel Olson"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -33325,14 +33824,76 @@
     "olson_bonnie",
     "olson_tom"
    ],
-   "spouses": [],
+   "spouses": [
+    "megan_ex_olson"
+   ],
    "children": [],
    "siblings": [
     "olson_nels",
     "olson_kari"
    ],
-   "families": [],
+   "families": [
+    "F_megan_ex_olson+olson_tommy"
+   ],
    "parent_family": "F_olson_bonnie+olson_tom",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Megan; later divorced"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Married and later divorced Megan; no children."
+   ]
+  },
+  {
+   "id": "olson_unknown_father",
+   "name": "(Unknown) Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "olson_thomas_mikkel_elder",
+    "olson_nels_elder"
+   ],
+   "siblings": [],
+   "families": [
+    "F_olson_unknown_father"
+   ],
+   "parent_family": null,
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -33348,7 +33909,68 @@
    "sources": [
     "Brendan Adams (personal knowledge), 2026"
    ],
-   "notes": []
+   "notes": [
+    "Placeholder for the father of the brothers Thomas Mikkel Olson and Nels Olson, whose name is not recorded."
+   ]
+  },
+  {
+   "id": "olson_wilma",
+   "name": "Wilma Olson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "olson_carroll"
+   ],
+   "children": [
+    "olson_debbie",
+    "olson_diane",
+    "olson_denise"
+   ],
+   "siblings": [],
+   "families": [
+    "F_olson_carroll+olson_wilma"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Wife of Carroll Olson; her birth surname is not recorded."
+   ]
   },
   {
    "id": "owen_adams",
@@ -44288,6 +44910,61 @@
    ]
   },
   {
+   "id": "wood_chris",
+   "name": "Chris Wood",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "olson",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "olson_sigrid"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_olson_sigrid+wood_chris"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Partner of Sigrid Olson; they have no children."
+   ]
+  },
+  {
    "id": "wood_lindsey",
    "name": "Lindsey Wood",
    "aliases": [],
@@ -47385,6 +48062,15 @@
    "marriage": "1898, Whatcom County, Washington"
   },
   {
+   "id": "F_megan_ex_olson+olson_tommy",
+   "partners": [
+    "megan_ex_olson",
+    "olson_tommy"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
    "id": "F_odell_louise",
    "partners": [
     "odell_louise"
@@ -47419,6 +48105,31 @@
    "marriage": "14 Jun 1969"
   },
   {
+   "id": "F_olson_carroll+olson_wilma",
+   "partners": [
+    "olson_carroll",
+    "olson_wilma"
+   ],
+   "children": [
+    "olson_debbie",
+    "olson_diane",
+    "olson_denise"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_olson_clara+olson_thomas_mikkel_elder",
+   "partners": [
+    "olson_clara",
+    "olson_thomas_mikkel_elder"
+   ],
+   "children": [
+    "olson_tom_umpa",
+    "olson_carroll"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_olson_kari+rosgen_john",
    "partners": [
     "olson_kari",
@@ -47428,6 +48139,26 @@
     "olson_eddy_orlando"
    ],
    "marriage": "7 Jan 2012"
+  },
+  {
+   "id": "F_olson_sigrid+wood_chris",
+   "partners": [
+    "olson_sigrid",
+    "wood_chris"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_olson_unknown_father",
+   "partners": [
+    "olson_unknown_father"
+   ],
+   "children": [
+    "olson_thomas_mikkel_elder",
+    "olson_nels_elder"
+   ],
+   "marriage": null
   },
   {
    "id": "F_owens_ruth_eva+urbach_charles_phillip",

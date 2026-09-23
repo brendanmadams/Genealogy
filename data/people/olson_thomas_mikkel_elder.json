@@ -1,0 +1,35 @@
+{
+  "id": "olson_thomas_mikkel_elder",
+  "name": "Thomas Mikkel Olson",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "olson_unknown_father",
+    "siblings": [
+      "olson_nels_elder"
+    ],
+    "spouse": "olson_clara",
+    "children": [
+      "olson_tom_umpa",
+      "olson_carroll"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Father of Thomas Orlando \"Umpa\" Olson and Carroll Olson; brother of Nels Olson. His great-grandson Thomas Mikkel \"Tommy\" Olson is named for him."
+  ],
+  "aliases": []
+}

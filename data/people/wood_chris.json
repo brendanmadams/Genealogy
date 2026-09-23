@@ -1,7 +1,7 @@
 {
-  "id": "olson_sigrid",
-  "name": "Sigrid Olson",
-  "birth": "26 Jun 1950",
+  "id": "wood_chris",
+  "name": "Chris Wood",
+  "birth": "",
   "death": "",
   "personality": [],
   "roles": [],
@@ -12,10 +12,10 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "dickpeddie_rosemary",
-    "father": "olson_tom_umpa",
+    "mother": "",
+    "father": "",
     "siblings": [],
-    "spouse": "wood_chris",
+    "spouse": "olson_sigrid",
     "children": []
   },
   "locations": [],
@@ -23,8 +23,7 @@
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Her partner is Chris Wood; they have no children."
+    "Partner of Sigrid Olson; they have no children."
   ],
-  "aliases": [],
-  "sex": "F"
+  "aliases": []
 }

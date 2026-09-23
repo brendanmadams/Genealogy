@@ -1,0 +1,33 @@
+{
+  "id": "olson_clara",
+  "name": "Clara Olson",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "olson_thomas_mikkel_elder",
+    "children": [
+      "olson_tom_umpa",
+      "olson_carroll"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Wife of Thomas Mikkel Olson and mother of Thomas Orlando \"Umpa\" Olson and Carroll Olson; her birth surname is not recorded."
+  ],
+  "aliases": []
+}

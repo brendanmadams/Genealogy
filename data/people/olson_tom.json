@@ -1,6 +1,6 @@
 {
   "id": "olson_tom",
-  "name": "Tom Olson",
+  "name": "Thomas William Olson",
   "birth": "31 Jan 1947",
   "death": "",
   "personality": [],
@@ -31,6 +31,8 @@
   "notes": [
     "Son of Tom \"Umpa\" Olson; brother of Kris and Sigrid."
   ],
-  "aliases": [],
+  "aliases": [
+    "Tom Olson"
+  ],
   "sex": "M"
 }

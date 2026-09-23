@@ -1,6 +1,6 @@
 {
   "id": "olson_tommy",
-  "name": "Tommy Olson",
+  "name": "Thomas Mikkel “Tommy” Olson",
   "birth": "8 Nov 1987",
   "death": "",
   "personality": [],
@@ -8,21 +8,28 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Megan; later divorced"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "olson_bonnie",
     "father": "olson_tom",
     "siblings": [],
-    "spouse": "",
+    "spouse": "megan_ex_olson",
     "children": []
   },
   "locations": [],
   "sources": [
     "Brendan Adams (personal knowledge), 2026"
   ],
-  "notes": [],
-  "aliases": [],
+  "notes": [
+    "Married and later divorced Megan; no children."
+  ],
+  "aliases": [
+    "Tommy Olson",
+    "Thomas Mikkel Olson"
+  ],
   "sex": "M"
 }

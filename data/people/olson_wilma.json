@@ -1,7 +1,8 @@
 {
-  "id": "olson_sigrid",
-  "name": "Sigrid Olson",
-  "birth": "26 Jun 1950",
+  "id": "olson_wilma",
+  "name": "Wilma Olson",
+  "sex": "F",
+  "birth": "",
   "death": "",
   "personality": [],
   "roles": [],
@@ -12,19 +13,22 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "dickpeddie_rosemary",
-    "father": "olson_tom_umpa",
+    "mother": "",
+    "father": "",
     "siblings": [],
-    "spouse": "wood_chris",
-    "children": []
+    "spouse": "olson_carroll",
+    "children": [
+      "olson_debbie",
+      "olson_diane",
+      "olson_denise"
+    ]
   },
   "locations": [],
   "sources": [
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Her partner is Chris Wood; they have no children."
+    "Wife of Carroll Olson; her birth surname is not recorded."
   ],
-  "aliases": [],
-  "sex": "F"
+  "aliases": []
 }

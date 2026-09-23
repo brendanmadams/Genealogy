@@ -1,6 +1,6 @@
 {
   "id": "olson_tom_umpa",
-  "name": "Tom Olson",
+  "name": "Thomas Orlando Olson",
   "birth": "10 Nov 1924",
   "death": "",
   "personality": [],
@@ -14,8 +14,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "olson_clara",
+    "father": "olson_thomas_mikkel_elder",
     "siblings": [],
     "spouse": "dickpeddie_rosemary",
     "children": [
@@ -34,7 +34,8 @@
     "He loved to drive and was saddened when he could no longer do so. [John Howard Adams, A Memoir, text line 3708]"
   ],
   "aliases": [
-    "Umpa"
+    "Umpa",
+    "Tom Olson"
   ],
   "sex": "M"
 }

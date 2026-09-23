@@ -1,7 +1,8 @@
 {
-  "id": "dickpeddie_rosemary",
-  "name": "Rosemary Dick-Peddie (Olson)",
-  "birth": "5 Apr 1925",
+  "id": "megan_ex_olson",
+  "name": "Megan",
+  "sex": "F",
+  "birth": "",
   "death": "",
   "personality": [],
   "roles": [],
@@ -9,7 +10,7 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Thomas Orlando “Umpa” Olson (m. 6 Apr 1945)"
+    "Married Thomas Mikkel “Tommy” Olson; later divorced"
   ],
   "education": [],
   "career": [],
@@ -17,22 +18,17 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "olson_tom_umpa",
-    "children": [
-      "olson_kris",
-      "olson_tom",
-      "olson_sigrid"
-    ]
+    "spouse": "olson_tommy",
+    "children": []
   },
   "locations": [],
   "sources": [
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Wife of Tom \"Umpa\" Olson; Megan Adams’s maternal grandmother."
+    "Former wife of Thomas Mikkel \"Tommy\" Olson; no children. Her surname is not recorded."
   ],
   "aliases": [
-    "Rosemary Olson"
-  ],
-  "sex": "F"
+    "Megan Olson"
+  ]
 }

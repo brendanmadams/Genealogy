@@ -1,0 +1,32 @@
+{
+  "id": "olson_nels_elder",
+  "name": "Nels Olson",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "olson_unknown_father",
+    "siblings": [
+      "olson_thomas_mikkel_elder"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+  ],
+  "notes": [
+    "Brother of Thomas Mikkel Olson (Umpa’s father). His great-great-nephew Nels Olson is named for him."
+  ],
+  "aliases": []
+}

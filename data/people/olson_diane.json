@@ -1,7 +1,8 @@
 {
-  "id": "olson_sigrid",
-  "name": "Sigrid Olson",
-  "birth": "26 Jun 1950",
+  "id": "olson_diane",
+  "name": "Diane Olson",
+  "sex": "F",
+  "birth": "",
   "death": "",
   "personality": [],
   "roles": [],
@@ -12,10 +13,10 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "dickpeddie_rosemary",
-    "father": "olson_tom_umpa",
+    "mother": "olson_wilma",
+    "father": "olson_carroll",
     "siblings": [],
-    "spouse": "wood_chris",
+    "spouse": "",
     "children": []
   },
   "locations": [],
@@ -23,8 +24,7 @@
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Her partner is Chris Wood; they have no children."
+    "Daughter of Carroll and Wilma Olson."
   ],
-  "aliases": [],
-  "sex": "F"
+  "aliases": []
 }

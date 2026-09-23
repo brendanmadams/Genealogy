@@ -42,6 +42,6 @@ setDate('oden_bugs', 'birth', '23 Dec 1925'); setDate('oden_bugs', 'death', '26 
 edit('oden_bugs', p => note(p, 'Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992.'));
 wed('falde_mary', 'oden_bugs');
 edit('falde_mary', p => { if (p.name === 'Mary Falde') p.name = 'Mary Kelley (Falde, Oden)'; add(p.aliases, 'Mary Falde'); add(p.aliases, 'Mary Oden'); p.notes = p.notes.filter(t => t !== 'Mother of Randy and Robin Falde. Married first Roger Falde, then “Bugs” Oden.'); note(p, 'Married first Roger Falde, then “Bugs” Oden.'); });
-edit('dickpeddie_rosemary', p => { p.name = 'Rosemary Dick-Peddie (Olson)'; p.aliases = p.aliases.filter(a => !/Dickpettie/i.test(a)); add(p.milestones, 'Married Tom “Umpa” Olson (m. 6 Apr 1945)'); });
+edit('dickpeddie_rosemary', p => { p.name = 'Rosemary Dick-Peddie (Olson)'; p.aliases = p.aliases.filter(a => !/Dickpettie/i.test(a)); add(p.milestones, 'Married Thomas Orlando “Umpa” Olson (m. 6 Apr 1945)'); });
 edit('olson_tom_umpa', p => add(p.milestones, 'Married Rosemary Dick-Peddie (m. 6 Apr 1945)'));
 console.log('Olson and Falde dates applied');

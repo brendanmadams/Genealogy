@@ -30,10 +30,10 @@ edit('john_howard_adams', p => { p.birth = '24 Feb 1947'; });
 
 // Olson marriages
 marriage('olson_tom_umpa', 'Married Rosemary Dick-Peddie (m. 6 Apr 1945)');
-marriage('dickpeddie_rosemary', 'Married Tom “Umpa” Olson (m. 6 Apr 1945)');
+marriage('dickpeddie_rosemary', 'Married Thomas Orlando “Umpa” Olson (m. 6 Apr 1945)');
 edit('olson_bonnie', p => { p.name = 'Evonne “Bonnie” Jelcick (Olson)'; add(p.aliases, 'Bonnie Olson'); add(p.aliases, 'Evonne Olson'); });
 marriage('olson_tom', 'Married Evonne “Bonnie” Jelcick (m. 14 Jun 1969)');
-marriage('olson_bonnie', 'Married Tom Olson (m. 14 Jun 1969)');
+marriage('olson_bonnie', 'Married Thomas William Olson (m. 14 Jun 1969)');
 
 // Presley Adams's family
 person('adams_fran', 'Fran Adams', 'F', p => note(p, 'Wife of Presley Adams; her birth surname is not recorded.'));
