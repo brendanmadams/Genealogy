@@ -1,8 +1,8 @@
 {
-  "id": "falde_mary",
-  "name": "Mary Falde",
-  "birth": "17 Jun 1927",
-  "death": "10 Dec 2018",
+  "id": "falde_roger",
+  "name": "Roger Falde",
+  "birth": "19 Sep 1925",
+  "death": "21 Sep 1992",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -15,13 +15,10 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "falde_roger",
+    "spouse": "falde_mary",
     "children": [
       "falde_randy",
       "falde_robin"
-    ],
-    "_extra_spouses": [
-      "oden_bugs"
     ]
   },
   "locations": [],
@@ -29,9 +26,7 @@
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Mother of Randy and Robin Falde. Married first Roger Falde, then “Bugs” Oden; her birth surname is not recorded."
+    "Husband of Mary Falde and father of Randy and Robin Falde."
   ],
-  "aliases": [
-    "Mary Oden"
-  ]
+  "aliases": []
 }

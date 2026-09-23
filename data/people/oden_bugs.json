@@ -1,8 +1,8 @@
 {
-  "id": "dickpettie_rosemary",
-  "name": "Rosemary Dickpettie (Olson)",
-  "birth": "5 Apr 1925",
-  "death": "",
+  "id": "oden_bugs",
+  "name": "“Bugs” Oden",
+  "birth": "23 Dec 1925",
+  "death": "26 Feb 2016",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -15,21 +15,15 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "olson_tom_umpa",
-    "children": [
-      "olson_kris",
-      "olson_tom",
-      "olson_sigrid"
-    ]
+    "spouse": "falde_mary",
+    "children": []
   },
   "locations": [],
   "sources": [
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Wife of Tom \"Umpa\" Olson; Megan Adams’s maternal grandmother."
+    "Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992."
   ],
-  "aliases": [
-    "Rosemary Olson"
-  ]
+  "aliases": []
 }

@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T19:30:23.791Z",
-  "people": 621,
-  "family_members": 571,
+  "generated": "2026-09-23T19:39:02.736Z",
+  "people": 623,
+  "family_members": 573,
   "dna_matches": 50,
-  "connected_people": 571,
-  "families": 190,
+  "connected_people": 573,
+  "families": 191,
   "branches": [
    "adams",
    "hamilton",
@@ -12172,8 +12172,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "5 Apr 1925",
+    "year": 1925,
     "qualifier": null
    },
    "death": {
@@ -12182,7 +12182,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -12194,8 +12194,8 @@
     "olson_tom_umpa"
    ],
    "children": [
-    "olson_kris",
     "olson_tom",
+    "olson_kris",
     "olson_sigrid"
    ],
    "siblings": [],
@@ -13166,18 +13166,20 @@
   {
    "id": "falde_mary",
    "name": "Mary Falde",
-   "aliases": [],
+   "aliases": [
+    "Mary Oden"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "17 Jun",
-    "year": null,
+    "text": "17 Jun 1927",
+    "year": 1927,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "10 Dec 2018",
+    "year": 2018,
     "qualifier": null
    },
    "living": false,
@@ -13189,14 +13191,18 @@
    "father": null,
    "mother": null,
    "parents": [],
-   "spouses": [],
+   "spouses": [
+    "falde_roger",
+    "oden_bugs"
+   ],
    "children": [
     "falde_randy",
     "falde_robin"
    ],
    "siblings": [],
    "families": [
-    "F_falde_mary"
+    "F_falde_mary+falde_roger",
+    "F_falde_mary+oden_bugs"
    ],
    "parent_family": null,
    "connected": true,
@@ -13215,7 +13221,7 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Mother of Randy and Robin Falde."
+    "Mother of Randy and Robin Falde. Married first Roger Falde, then “Bugs” Oden; her birth surname is not recorded."
    ]
   },
   {
@@ -13226,8 +13232,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "15 Apr 1947",
+    "year": 1947,
     "qualifier": null
    },
    "death": {
@@ -13235,16 +13241,17 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
+   "father": "falde_roger",
    "mother": "falde_mary",
    "parents": [
-    "falde_mary"
+    "falde_mary",
+    "falde_roger"
    ],
    "spouses": [
     "olson_kris"
@@ -13259,7 +13266,7 @@
    "families": [
     "F_falde_randy+olson_kris"
    ],
-   "parent_family": "F_falde_mary",
+   "parent_family": "F_falde_mary+falde_roger",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -13297,15 +13304,16 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
+   "father": "falde_roger",
    "mother": "falde_mary",
    "parents": [
-    "falde_mary"
+    "falde_mary",
+    "falde_roger"
    ],
    "spouses": [],
    "children": [],
@@ -13313,7 +13321,7 @@
     "falde_randy"
    ],
    "families": [],
-   "parent_family": "F_falde_mary",
+   "parent_family": "F_falde_mary+falde_roger",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -13331,6 +13339,63 @@
    ],
    "notes": [
     "Sister of Randy Falde."
+   ]
+  },
+  {
+   "id": "falde_roger",
+   "name": "Roger Falde",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "19 Sep 1925",
+    "year": 1925,
+    "qualifier": null
+   },
+   "death": {
+    "text": "21 Sep 1992",
+    "year": 1992,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "falde_mary"
+   ],
+   "children": [
+    "falde_randy",
+    "falde_robin"
+   ],
+   "siblings": [],
+   "families": [
+    "F_falde_mary+falde_roger"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Husband of Mary Falde and father of Randy and Robin Falde."
    ]
   },
   {
@@ -31444,6 +31509,60 @@
    ]
   },
   {
+   "id": "oden_bugs",
+   "name": "“Bugs” Oden",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "23 Dec 1925",
+    "year": 1925,
+    "qualifier": null
+   },
+   "death": {
+    "text": "26 Feb 2016",
+    "year": 2016,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "falde_mary"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_falde_mary+oden_bugs"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992."
+   ]
+  },
+  {
    "id": "olson_bonnie",
    "name": "Bonnie Olson",
    "aliases": [],
@@ -31451,8 +31570,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "15 Apr 1947",
+    "year": 1947,
     "qualifier": null
    },
    "death": {
@@ -31460,8 +31579,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -31626,8 +31745,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "21 Oct 1948",
+    "year": 1948,
     "qualifier": null
    },
    "death": {
@@ -31635,8 +31754,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -31802,8 +31921,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "26 Jun",
-    "year": null,
+    "text": "26 Jun 1950",
+    "year": 1950,
     "qualifier": null
    },
    "death": {
@@ -31811,8 +31930,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -31826,8 +31945,8 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "olson_kris",
-    "olson_tom"
+    "olson_tom",
+    "olson_kris"
    ],
    "families": [],
    "parent_family": "F_dickpettie_rosemary+olson_tom_umpa",
@@ -31856,8 +31975,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "31 Jan",
-    "year": null,
+    "text": "31 Jan 1947",
+    "year": 1947,
     "qualifier": null
    },
    "death": {
@@ -31865,8 +31984,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -31944,8 +32063,8 @@
     "dickpettie_rosemary"
    ],
    "children": [
-    "olson_kris",
     "olson_tom",
+    "olson_kris",
     "olson_sigrid"
    ],
    "siblings": [],
@@ -31982,8 +32101,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "8 Nov 1987",
+    "year": 1987,
     "qualifier": null
    },
    "death": {
@@ -31991,8 +32110,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -44928,8 +45047,8 @@
     "olson_tom_umpa"
    ],
    "children": [
-    "olson_kris",
     "olson_tom",
+    "olson_kris",
     "olson_sigrid"
    ],
    "marriage": null
@@ -44993,14 +45112,24 @@
    "marriage": null
   },
   {
-   "id": "F_falde_mary",
+   "id": "F_falde_mary+falde_roger",
    "partners": [
-    "falde_mary"
+    "falde_mary",
+    "falde_roger"
    ],
    "children": [
     "falde_randy",
     "falde_robin"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_falde_mary+oden_bugs",
+   "partners": [
+    "falde_mary",
+    "oden_bugs"
+   ],
+   "children": [],
    "marriage": null
   },
   {

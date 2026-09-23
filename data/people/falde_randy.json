@@ -1,7 +1,7 @@
 {
   "id": "falde_randy",
   "name": "Randy Falde",
-  "birth": "",
+  "birth": "15 Apr 1947",
   "death": "",
   "personality": [],
   "roles": [],
@@ -15,7 +15,7 @@
   "career": [],
   "relationships": {
     "mother": "falde_mary",
-    "father": "",
+    "father": "falde_roger",
     "siblings": [],
     "spouse": "olson_kris",
     "children": [
