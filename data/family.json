@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T13:55:28.274Z",
+  "generated": "2026-09-23T14:03:55.866Z",
   "people": 310,
   "family_members": 259,
   "dna_matches": 51,
@@ -154,6 +154,7 @@
    "name": "Alberta Adams (Allen)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "john-wesley-death-cert"
    ],
@@ -240,6 +241,7 @@
    "name": "Alexander Washington Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1818",
@@ -313,6 +315,7 @@
    "name": "Col. Alexander William Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "Jun 1842",
@@ -410,6 +413,7 @@
     "Alice Hazleton"
    ],
    "photo": null,
+   "card_name": null,
    "media": [
     "jose2-obit"
    ],
@@ -474,6 +478,7 @@
    "name": "Caleb Martin Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "13 January 1875",
@@ -536,6 +541,7 @@
    "name": "Edith V. Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1913",
@@ -607,6 +613,7 @@
    "name": "Edna M. Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "jose2-obit"
    ],
@@ -670,6 +677,7 @@
    "name": "George Francis Adams (#1)",
    "aliases": [],
    "photo": "images/adams_george_francis_1.jpg",
+   "card_name": null,
    "media": [
     "gfa1-portrait",
     "adams-brothers",
@@ -778,6 +786,7 @@
    "name": "George Francis Adams (#2)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "gfa2-army-record",
     "gfa2-nard-obit",
@@ -870,6 +879,7 @@
    "name": "Harriet Josephine Adams (Gill)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "harriet-gill-obit"
    ],
@@ -944,6 +954,7 @@
    "name": "Harriett E Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1853",
@@ -1011,6 +1022,7 @@
    "name": "Henry A Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "January 1868",
@@ -1071,6 +1083,7 @@
    "name": "James Casper Adams",
    "aliases": [],
    "photo": "images/adams_james_casper.jpg",
+   "card_name": null,
    "media": [
     "adams-brothers"
    ],
@@ -1144,6 +1157,7 @@
    "name": "John Wesley Adams",
    "aliases": [],
    "photo": "images/adams_john_wesley.jpg",
+   "card_name": null,
    "media": [
     "adams-brothers",
     "john-wesley-obit",
@@ -1252,6 +1266,7 @@
    "name": "Jose Pierre Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "jose-pierre-obit"
    ],
@@ -1339,6 +1354,10 @@
    "name": "Joseph Pierre Jose Adams (Jose2)",
    "aliases": [],
    "photo": "images/adams_joseph_pierre_jose2.jpg",
+   "card_name": [
+    "Jose P.",
+    "Adams (II)"
+   ],
    "media": [
     "adams-brothers",
     "jose2-obit",
@@ -1439,6 +1458,7 @@
    "name": "Magdalena (Margaret) Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -1514,6 +1534,7 @@
     "Mrs. J. F. Collins"
    ],
    "photo": null,
+   "card_name": null,
    "media": [
     "jose2-obit"
    ],
@@ -1577,6 +1598,7 @@
    "name": "Mary Adams (Swan)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1818",
@@ -1648,6 +1670,7 @@
    "name": "Missouri Adams (Hall)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "Nov 1850",
@@ -1721,6 +1744,7 @@
    "name": "Presley Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "22 June 1910",
@@ -1784,6 +1808,7 @@
    "name": "Alina Camille Obad",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "12 Dec 2008",
@@ -1851,6 +1876,7 @@
     "Tony Allen"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "18 Feb 1959",
@@ -1931,6 +1957,7 @@
     "Ben Allen"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "17 Jul 1987",
@@ -1999,6 +2026,7 @@
    "name": "Bernice Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "30 July 1891",
@@ -2069,6 +2097,7 @@
    "name": "Brooks Beatty Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "5 Jan 1961",
@@ -2143,6 +2172,7 @@
    "name": "Frances Rosetta Allen (Charters)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "11 Aug 1889",
@@ -2214,6 +2244,7 @@
    "name": "George Homer Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "8 Mar 1921",
@@ -2306,6 +2337,7 @@
    "name": "George Julius Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "2 Feb 1865",
@@ -2385,6 +2417,7 @@
    "name": "George Philemon Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -2439,6 +2472,7 @@
    "name": "George Philip Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "18 Apr 1897",
@@ -2531,6 +2565,7 @@
     "Gwen Allen"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "19 Mar 1979",
@@ -2601,6 +2636,7 @@
    "name": "Leroy Gaylord Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "23 Jul 1906",
@@ -2671,6 +2707,10 @@
    "name": "Margaret Jeanice Peggy Allen (Seavy)",
    "aliases": [],
    "photo": null,
+   "card_name": [
+    "Peggy",
+    "Allen (Seavy)"
+   ],
    "media": [],
    "birth": {
     "text": "22 Nov 1925",
@@ -2744,6 +2784,7 @@
    "name": "Ralph Kenneth Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "16 Dec 1904",
@@ -2821,6 +2862,7 @@
    "name": "Susan Elizabeth Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "10 May 1951",
@@ -2898,6 +2940,7 @@
    "name": "Wendy Ann Allen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "5 Dec 1949",
@@ -2978,6 +3021,7 @@
     "Bill Allen"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "5 Dec 1952",
@@ -3057,6 +3101,7 @@
    "name": "Anne Marie Bainbridge",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -3118,6 +3163,7 @@
    "name": "Esther Jane Anthony (Allen)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "Sep 1898",
@@ -3188,6 +3234,7 @@
    "name": "Homer Gideon Anthony",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -3242,6 +3289,7 @@
    "name": "(Unknown) Ashby",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -3298,6 +3346,7 @@
    "name": "Richard Bailey Jr",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -3351,6 +3400,7 @@
     "Barbara Jeanne Adams"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "February 12, 1948",
@@ -4248,6 +4298,7 @@
    "name": "Beryl Simons Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "25 Dec 1919",
@@ -4368,6 +4419,7 @@
    "name": "Anthony Billups",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -4421,6 +4473,7 @@
     "Brendan"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "August 1, 1975",
@@ -4523,6 +4576,7 @@
     "Brian"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "February 8, 1972",
@@ -4622,6 +4676,7 @@
    "name": "Hannah Louise Buckley",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "19 January 1859",
@@ -4685,6 +4740,7 @@
    "name": "Jazlynn Cabanag",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -4736,6 +4792,7 @@
    "name": "Camille Remy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "October 20, 1971",
@@ -4819,6 +4876,7 @@
    "name": "Amanda Cataldi",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -4872,6 +4930,10 @@
     "Charles McKeldin"
    ],
    "photo": null,
+   "card_name": [
+    "Charles “Buckey”",
+    "McKeldin"
+   ],
    "media": [],
    "birth": {
     "text": "April 22, 1917",
@@ -4963,6 +5025,7 @@
    "name": "Charlie McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5022,6 +5085,7 @@
    "name": "John Dixon Charters",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5074,6 +5138,7 @@
    "name": "Jennifer Chau",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5128,6 +5193,7 @@
    "name": "Floyd Cheff",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5179,6 +5245,7 @@
    "name": "Thomas Childs",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5233,6 +5300,7 @@
    "name": "Christian McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5292,6 +5360,7 @@
    "name": "Christopher Jon Remy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1968",
@@ -5365,6 +5434,7 @@
     "Chuck"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 4 Feb 1947",
@@ -5484,6 +5554,7 @@
    "name": "Desiree Clancy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5535,6 +5606,7 @@
    "name": "Clay C. Clark",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1860",
@@ -5594,6 +5666,7 @@
    "name": "Ephraim Clark",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5650,6 +5723,7 @@
    "name": "Mary Bachman Clemens",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5708,6 +5782,7 @@
    "name": "Maria Catharina Confer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5766,6 +5841,7 @@
    "name": "Louise Craig",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5817,6 +5893,7 @@
    "name": "Mary Crook",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5871,6 +5948,7 @@
    "name": "Cynthia Gail Smith",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "8 December 1950",
@@ -5942,6 +6020,7 @@
    "name": "Meghan Donovan",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -5993,6 +6072,7 @@
    "name": "Judith Doshier",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6047,6 +6127,7 @@
    "name": "Rhonda Dundon",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6098,6 +6179,7 @@
    "name": "Jamie Leigh Dworman",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "19 Feb 1965",
@@ -6152,6 +6234,7 @@
    "name": "Gladys Eberhart",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6204,6 +6287,7 @@
    "name": "Elizabeth Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6267,6 +6351,7 @@
    "name": "Emily Schrieffer McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6360,6 +6445,7 @@
     "Emma"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6431,6 +6517,7 @@
    "name": "Ethan Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 2002",
@@ -6509,6 +6596,7 @@
    "name": "Ethel Quinn Schriefer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6585,6 +6673,7 @@
    "name": "Susan Bethany Fonshill (Allen)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "27 Sep 1958",
@@ -6642,6 +6731,7 @@
    "name": "Casey Fox",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6693,6 +6783,7 @@
    "name": "Frankie Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6756,6 +6847,7 @@
    "name": "Patrick Freeman",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6807,6 +6899,7 @@
    "name": "Barbara Fretz",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -6865,6 +6958,7 @@
    "name": "Gabriel Michael Obad",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "9 Mar 2007",
@@ -6932,6 +7026,7 @@
     "Elly"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -7013,6 +7108,7 @@
     "Garret"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "10 April 2003",
@@ -7092,6 +7188,7 @@
    "name": "Gavin Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -7167,6 +7264,7 @@
    "name": "Genevieve Mildred Smith",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1931",
@@ -7224,6 +7322,7 @@
    "name": "Geoffrey Louis Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "February 3, 1976",
@@ -7302,6 +7401,7 @@
    "name": "George Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -7369,6 +7469,7 @@
    "name": "George Francis Adams IV",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "September 20, 1973",
@@ -7452,6 +7553,7 @@
    "name": "George Francis Adams Jr.",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "27 Sep 1950",
@@ -7547,6 +7649,7 @@
    "name": "George Francis Adams Sr.",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "10 March 1916",
@@ -7671,6 +7774,7 @@
    "name": "Gertrude Adams Remy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "September 25, 1944",
@@ -7767,6 +7871,7 @@
    "name": "Robert Gilbert",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -7818,6 +7923,7 @@
    "name": "Stephen Augusta Gill",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "17 October 1822",
@@ -7878,6 +7984,7 @@
    "name": "John Gillen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -7929,6 +8036,7 @@
    "name": "Amber Goodman (Jorgensen)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1986",
@@ -7999,6 +8107,7 @@
    "name": "Craig Goodman",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8056,6 +8165,7 @@
    "name": "Dorothea Grief (McKeldin)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "3 Jul 1863",
@@ -8142,6 +8252,7 @@
    "name": "Michael Grief",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1822",
@@ -8209,6 +8320,7 @@
    "name": "David R. Hall",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8261,6 +8373,7 @@
    "name": "Elizabeth (Eliza) Hamilton",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1791",
@@ -8329,6 +8442,7 @@
    "name": "Francis Hamilton",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1743",
@@ -8398,6 +8512,7 @@
    "name": "John Hamilton of Kype",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8468,6 +8583,7 @@
    "name": "Susan Hamilton",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8526,6 +8642,7 @@
    "name": "Walter Hawn",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8577,6 +8694,7 @@
    "name": "Frederick Heller",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8628,6 +8746,7 @@
    "name": "Virginia Henry",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8679,6 +8798,7 @@
    "name": "Hallock B. Hoffman",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1918",
@@ -8734,6 +8854,7 @@
    "name": "D Hohimer-Harralson",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8785,6 +8906,7 @@
    "name": "Ivo John Obad",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8850,6 +8972,7 @@
     "Mike"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -8941,6 +9064,7 @@
    "name": "Ruth Pamela Janes (Allen)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "16 Sep 1955",
@@ -8997,6 +9121,7 @@
    "name": "Jeffery McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9056,6 +9181,7 @@
    "name": "Jennifer McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9117,6 +9243,7 @@
     "John"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "24 Feb 1948",
@@ -9415,6 +9542,7 @@
    "name": "Damian Jorgensen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9471,6 +9599,7 @@
    "name": "Dan Jorgensen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9526,6 +9655,7 @@
    "name": "Dominick Jorgensen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9582,6 +9712,7 @@
    "name": "Adela J. Kaempfer (Adams)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "2 Mar 1867",
@@ -9644,6 +9775,7 @@
    "name": "Tammy Kessler",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9695,6 +9827,7 @@
    "name": "Amanda Knight",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -9752,6 +9885,7 @@
     "Caroline Winfrey"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "16 Feb 1894",
@@ -9827,6 +9961,7 @@
    "name": "Dielman Edward Kolb",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1648",
@@ -9891,6 +10026,7 @@
    "name": "Henry Kolb",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1679",
@@ -9959,6 +10095,7 @@
    "name": "Jacob Oberholtzer Kolb",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "7 March 1740",
@@ -10024,6 +10161,7 @@
    "name": "Peter Kolb",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1718",
@@ -10090,6 +10228,7 @@
    "name": "Christiana F. Konitzer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -10142,6 +10281,7 @@
    "name": "Abraham Clemens Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "19 July 1770",
@@ -10205,6 +10345,7 @@
    "name": "Alton Roger Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1917",
@@ -10270,6 +10411,7 @@
    "name": "Audrey Rebecca Kulp (Hedrick)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1918",
@@ -10336,6 +10478,7 @@
    "name": "Brenda Renee Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -10390,6 +10533,7 @@
    "name": "Brian Walter Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -10444,6 +10588,7 @@
    "name": "Dorothy Belle Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1912",
@@ -10510,6 +10655,7 @@
    "name": "Dradie Ellen Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "kulp-record-book"
    ],
@@ -10599,6 +10745,7 @@
    "name": "Edith Sarah Kulp (Smith)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1899",
@@ -10665,6 +10812,7 @@
    "name": "Elmer Spencer Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "17 Oct 1908",
@@ -10744,6 +10892,7 @@
    "name": "Ephraim Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "10 April 1811",
@@ -10812,6 +10961,7 @@
    "name": "Irmagene Irma Kulp (Zacher)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "16 Dec 1941",
@@ -10886,6 +11036,7 @@
    "name": "John Jacob Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "kulp-record-book"
    ],
@@ -10977,6 +11128,7 @@
    "name": "Marlan John Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1901",
@@ -11042,6 +11194,7 @@
    "name": "Michael Nicholas Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "December 1842",
@@ -11123,6 +11276,7 @@
    "name": "Nardin Ira Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1904",
@@ -11188,6 +11342,7 @@
    "name": "Reta May Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1906",
@@ -11254,6 +11409,7 @@
    "name": "Ruth Zenith Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1915",
@@ -11321,6 +11477,7 @@
    "name": "Spencer Ritchey Kulp",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "18 Mar 1940",
@@ -11386,6 +11543,7 @@
    "name": "Cynthia Lane",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "gfa1-marriage-record",
     "john-s-lane-land-warrant"
@@ -11457,6 +11615,7 @@
    "name": "Lauren Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -11534,6 +11693,7 @@
    "name": "Nancy Ruth Lee",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "Sep 1947",
@@ -11588,6 +11748,7 @@
    "name": "Louis Russell Smith",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1928",
@@ -11645,6 +11806,7 @@
    "name": "Honolulu Claire Manzer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -11702,6 +11864,10 @@
     "Margaret Quinn"
    ],
    "photo": null,
+   "card_name": [
+    "Peggy",
+    "McKeldin"
+   ],
    "media": [],
    "birth": {
     "text": "March 12, 1927",
@@ -11794,6 +11960,7 @@
    "name": "Mary Louisa Martin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "22 May 1850, Brunswick, Chariton County, MO",
@@ -11854,6 +12021,7 @@
    "name": "Mary Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -11919,6 +12087,7 @@
    "name": "Mateo Vlaho Obad",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "26 Feb 2002",
@@ -11984,6 +12153,7 @@
    "name": "Karla McClain",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -12035,6 +12205,7 @@
    "name": "Alice McKeldin Holsey",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "30 December 1902",
@@ -12104,6 +12275,7 @@
    "name": "Charles E. McKeldin I",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "4 Feb 1887",
@@ -12188,6 +12360,7 @@
    "name": "Clara McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -12246,6 +12419,7 @@
    "name": "David W McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1849",
@@ -12308,6 +12482,7 @@
    "name": "Edward Hazelton McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "~1818",
@@ -12384,6 +12559,7 @@
    "name": "George McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1853",
@@ -12446,6 +12622,7 @@
    "name": "George Edward McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "10 September 1880",
@@ -12516,6 +12693,7 @@
    "name": "James Alfred McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 29 Mar 1860",
@@ -12624,6 +12802,7 @@
    "name": "James B McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1907",
@@ -12681,6 +12860,7 @@
    "name": "James Raymond McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "6 October 1898",
@@ -12750,6 +12930,7 @@
    "name": "John McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "25 March 1883",
@@ -12824,6 +13005,7 @@
    "name": "Joseph McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1779",
@@ -12886,6 +13068,7 @@
    "name": "Laura S McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1894",
@@ -12956,6 +13139,7 @@
    "name": "Lillian J McKeldin Nuffer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "6 June 1888",
@@ -13027,6 +13211,7 @@
     "Lola"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -13087,6 +13272,7 @@
    "name": "Louis McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1855",
@@ -13149,6 +13335,7 @@
    "name": "Louis Lawrence McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "17 January 1894",
@@ -13218,6 +13405,7 @@
    "name": "Mary Alice McKeldin van Fossen",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1862",
@@ -13280,6 +13468,7 @@
    "name": "Sarah Rebecca McKeldin Owens",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1850",
@@ -13342,6 +13531,7 @@
    "name": "Theodore McKeldin Jr.",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -13402,6 +13592,7 @@
    "name": "Theodore Roosevelt McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "20 Nov 1900",
@@ -13536,6 +13727,7 @@
    "name": "Theresa McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "15 January 1892",
@@ -13605,6 +13797,10 @@
    "name": "William Podge McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": [
+    "William “Podge”",
+    "McKeldin"
+   ],
    "media": [],
    "birth": {
     "text": "22 August 1896",
@@ -13678,6 +13874,7 @@
    "name": "William McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1857",
@@ -13741,6 +13938,7 @@
    "name": "John McPhail",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -13795,6 +13993,7 @@
    "name": "Mary Emily Valentine McPhail",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [
     "kulp-record-book"
    ],
@@ -13872,6 +14071,7 @@
    "name": "Megan Marie Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "17 December 1975",
@@ -13938,6 +14138,7 @@
    "name": "Michael Remy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "February 27, 1944",
@@ -14014,6 +14215,7 @@
    "name": "Michelle Ellis Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14074,6 +14276,7 @@
    "name": "Michelle McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14130,6 +14333,7 @@
    "name": "John Miller",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14181,6 +14385,7 @@
    "name": "Kenneth Miller",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14232,6 +14437,7 @@
    "name": "Terry Miller",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14283,6 +14489,7 @@
    "name": "Alexander Mills",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14334,6 +14541,7 @@
    "name": "Suzzanne Modine",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14387,6 +14595,7 @@
    "name": "Scott Morgan",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14437,6 +14646,7 @@
    "name": "Annette Naqui",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14488,6 +14698,7 @@
    "name": "Nicole Adawn Della Selva",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14546,6 +14757,7 @@
    "name": "Elizabeth Oberholtzer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14606,6 +14818,7 @@
     "Louise Morgan"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14661,6 +14874,7 @@
    "name": "Ralph O'Dell",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14719,6 +14933,7 @@
     "Owen"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "3 Oct 2005",
@@ -14794,6 +15009,7 @@
    "name": "Patricia Paul",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14848,6 +15064,7 @@
    "name": "Jack Poleman",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14905,6 +15122,7 @@
    "name": "Melanie De Pomar",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -14956,6 +15174,7 @@
    "name": "Alexander Pugh",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15008,6 +15227,7 @@
    "name": "Susan M. Pugh (Adams)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "Apr 1849",
@@ -15072,6 +15292,7 @@
    "name": "Joan Quinn",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15142,6 +15363,7 @@
    "name": "John Joseph Quinn",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1900",
@@ -15233,6 +15455,7 @@
    "name": "John Quinn Jr.",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15296,6 +15519,7 @@
    "name": "Marie Ellinghaus Quinn",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1901",
@@ -15409,6 +15633,7 @@
    "name": "Pat Quinn",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15474,6 +15699,7 @@
    "name": "Patti Quirk",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15525,6 +15751,7 @@
    "name": "Clayton Reigler",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15576,6 +15803,7 @@
    "name": "Chris Revoir",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15627,6 +15855,7 @@
    "name": "Janet Rhinehart",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15681,6 +15910,7 @@
    "name": "Jerry Rhinehart",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15735,6 +15965,7 @@
    "name": "Les Rhinehart",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15790,6 +16021,7 @@
    "name": "Amy Ritchey",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "2 January 1908",
@@ -15860,6 +16092,7 @@
    "name": "Lance Robertson",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15914,6 +16147,7 @@
    "name": "Richard Rotter",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -15966,6 +16200,7 @@
    "name": "Spencer Rotter",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16017,6 +16252,7 @@
    "name": "Roy Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16082,6 +16318,7 @@
    "name": "Sam Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16147,6 +16384,7 @@
    "name": "John Schonder",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16198,6 +16436,7 @@
    "name": "George Goode Schriefer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16266,6 +16505,7 @@
    "name": "Kaitlin Schriefer",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16322,6 +16562,7 @@
    "name": "Agnes Schumacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1652",
@@ -16380,6 +16621,7 @@
    "name": "Shirley Seaton",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16431,6 +16673,7 @@
    "name": "Jack Frederick Seavy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16488,6 +16731,7 @@
    "name": "Jack Seavy Jr.",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16546,6 +16790,7 @@
    "name": "Margaret Ann Seavy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16604,6 +16849,7 @@
    "name": "Robert Allen Seavy",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16662,6 +16908,7 @@
    "name": "Sophia E. Selbe",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "20 March 1825",
@@ -16727,6 +16974,7 @@
    "name": "Shelly McKeldin",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16783,6 +17031,7 @@
    "name": "Anna Elizabeth Shoush (Anthony)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16837,6 +17086,7 @@
    "name": "Aaron Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1852",
@@ -16912,6 +17162,7 @@
    "name": "Ann Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -16976,6 +17227,7 @@
    "name": "Bertha Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17033,6 +17285,7 @@
    "name": "Betty Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17088,6 +17341,7 @@
    "name": "Carl Ray Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17144,6 +17398,7 @@
    "name": "Debra Sue Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17200,6 +17455,7 @@
    "name": "Ed Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17256,6 +17512,7 @@
    "name": "Elaine Deretha Simons (Rhinehart)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17323,6 +17580,7 @@
    "name": "Ettie Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17380,6 +17638,7 @@
    "name": "Glen Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17455,6 +17714,10 @@
    "name": "Harriet M. Hattie Simons",
    "aliases": [],
    "photo": null,
+   "card_name": [
+    "Harriet “Hattie”",
+    "Simons"
+   ],
    "media": [],
    "birth": {
     "text": "December 1858",
@@ -17529,6 +17792,7 @@
    "name": "Howard Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17601,6 +17865,7 @@
    "name": "Irene Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17657,6 +17922,7 @@
    "name": "Janine Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17718,6 +17984,7 @@
    "name": "Judy Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17775,6 +18042,7 @@
    "name": "Lenore Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17827,6 +18095,7 @@
    "name": "Les Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17886,6 +18155,7 @@
    "name": "Lola Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -17943,6 +18213,7 @@
    "name": "Lynn Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18000,6 +18271,7 @@
    "name": "Mary Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18055,6 +18327,7 @@
    "name": "Nancy Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18113,6 +18386,7 @@
    "name": "Orval Keith Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18181,6 +18455,7 @@
    "name": "Penny Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18235,6 +18510,7 @@
     "Elmer"
    ],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18302,6 +18578,7 @@
    "name": "Raymond Zell Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "14 Jun 1897",
@@ -18407,6 +18684,7 @@
    "name": "Rodney Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18462,6 +18740,7 @@
    "name": "Sandy Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18519,6 +18798,7 @@
    "name": "Sharon Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18578,6 +18858,7 @@
    "name": "Steve Simons",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18641,6 +18922,7 @@
    "name": "Mary Sinclair",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18695,6 +18977,7 @@
    "name": "David Smardon",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18746,6 +19029,7 @@
    "name": "Brianna Smith",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18797,6 +19081,7 @@
    "name": "Irene Louisa Smith",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18849,6 +19134,7 @@
    "name": "Serina Smith",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18901,6 +19187,7 @@
    "name": "Clark Spangler",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -18953,6 +19240,7 @@
    "name": "Juliaetta A. Spring",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19007,6 +19295,7 @@
    "name": "Miranda St John",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19058,6 +19347,7 @@
    "name": "Stan",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19110,6 +19400,7 @@
    "name": "Colin Stang",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19161,6 +19452,7 @@
    "name": "Grace Stang",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19212,6 +19504,7 @@
    "name": "Mary Beth Stewart Perez",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19263,6 +19556,7 @@
    "name": "Susan Obad",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19311,6 +19605,7 @@
    "name": "Lewis Swan",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1807",
@@ -19374,6 +19669,7 @@
    "name": "Ted Adams",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19439,6 +19735,7 @@
    "name": "Jennifer Toadvine",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19490,6 +19787,7 @@
    "name": "Presley Neville Trumbo",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1840",
@@ -19552,6 +19850,7 @@
    "name": "Serena Marie Nevada Trumbo",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "24 Mar 1890",
@@ -19644,6 +19943,7 @@
    "name": "Abraham Van Tine",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19698,6 +19998,7 @@
    "name": "Sarah Vancel",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1846",
@@ -19757,6 +20058,7 @@
    "name": "Mary Frances Vantine",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "Oct 1844",
@@ -19827,6 +20129,7 @@
    "name": "Cunigunda Vinzel (Grief)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "abt 1824",
@@ -19888,6 +20191,7 @@
    "name": "Caroline Watson",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19939,6 +20243,7 @@
    "name": "Dawn Weidenaar",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -19990,6 +20295,7 @@
    "name": "Jeff Weinstein",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20044,6 +20350,7 @@
    "name": "Arthur Wells",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20109,6 +20416,7 @@
    "name": "Rosemary Wells (O'Dell)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "~1916",
@@ -20170,6 +20478,7 @@
    "name": "Dorothy Ann Wheeler (Allen)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "26 Apr 1924",
@@ -20240,6 +20549,7 @@
    "name": "Marjorie Wheeler",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20288,6 +20598,7 @@
    "name": "Zella Campbell Whitman",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20340,6 +20651,7 @@
    "name": "Diane Wigell",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20391,6 +20703,7 @@
    "name": "Victor Winfrey",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20443,6 +20756,7 @@
    "name": "Lindsey Wood",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20494,6 +20808,7 @@
    "name": "Allen Wright",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20545,6 +20860,7 @@
    "name": "John Yingling",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20596,6 +20912,7 @@
    "name": "Jacobina Young",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20652,6 +20969,7 @@
    "name": "Amy Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20710,6 +21028,7 @@
    "name": "Andrew Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20768,6 +21087,7 @@
    "name": "Donald Adam Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20824,6 +21144,7 @@
    "name": "Heather Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20877,6 +21198,7 @@
    "name": "Jacob Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -20935,6 +21257,7 @@
    "name": "Kenneth Donald Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "1 Aug 1968",
@@ -21001,6 +21324,7 @@
    "name": "Kimberly Lynn Zacher (Goodman/Rotter)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "7 Aug 1966",
@@ -21079,6 +21403,7 @@
    "name": "Kippy Amy Zacher (Becker)",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "24 Nov 1974",
@@ -21148,6 +21473,7 @@
    "name": "Lacie Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -21203,6 +21529,7 @@
    "name": "Lauryn Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",
@@ -21258,6 +21585,7 @@
    "name": "Spencer Zacher",
    "aliases": [],
    "photo": null,
+   "card_name": null,
    "media": [],
    "birth": {
     "text": "",

@@ -33,6 +33,8 @@ async function main() {
   window.addEventListener('hashchange', route);
   window.addEventListener('resize', () => renderer.fit(false));
   route();
+  // card names are measured; redraw once the web font has loaded
+  document.fonts?.ready?.then(() => { if (focusId) showPerson(focusId); });
 }
 
 // ── Routing: #/p/<id>  |  #/p/<id>/(ancestors|descendants)[/<generations|all>] ─

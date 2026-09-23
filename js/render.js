@@ -10,6 +10,22 @@ const el = (tag, attrs = {}, text) => {
   return e;
 };
 
+// Text measurement for card names (bold 13px Inter, falling back to the system font).
+const measureCtx = document.createElement('canvas').getContext('2d');
+function textWidth(s, size) {
+  measureCtx.font = `600 ${size}px Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif`;
+  return measureCtx.measureText(s).width;
+}
+/** Largest size in [13 → 11] that fits; if even 11 is too wide, trim with an ellipsis at `fixed` (or 11). */
+function fitText(s, maxW, fixed) {
+  const sizes = fixed ? [fixed] : [13, 12, 11];
+  for (const size of sizes) if (textWidth(s, size) <= maxW) return { text: s, size };
+  const size = fixed || 11;
+  let t = s;
+  while (t.length > 1 && textWidth(t + '…', size) > maxW) t = t.slice(0, -1);
+  return { text: t.trimEnd() + '…', size };
+}
+
 export class Renderer {
   constructor(svg, D, onPick) {
     this.svg = svg; this.D = D; this.onPick = onPick;
@@ -167,11 +183,15 @@ export class Renderer {
     g.appendChild(el('text', { class: 'initials', x: cx, y: cy + 5, 'text-anchor': 'middle' }, initials(p)));
     if (p.photo) this.addPhoto(g, p, cx, cy, r);
 
+    // Card name, fitted to the text area: full size, then a little smaller,
+    // then shortened with an ellipsis. The full name is in the tooltip.
     const [l1, l2] = nameLines(p);
-    const long = (l1.length > 16 || l2.length > 16);
-    const t1 = el('text', { class: 'name' + (long ? ' small' : ''), x: 66, y: l2 ? 26 : 36 }, l1);
-    g.appendChild(t1);
-    if (l2) g.appendChild(el('text', { class: 'name' + (long ? ' small' : ''), x: 66, y: 43 }, l2));
+    const MAXW = CARD.w - 66 - 8;
+    const f1 = fitText(l1, MAXW), f2 = l2 ? fitText(l2, MAXW) : null;
+    const size = Math.min(f1.size, f2 ? f2.size : 13);
+    const a = fitText(l1, MAXW, size), b = l2 ? fitText(l2, MAXW, size) : null;
+    g.appendChild(el('text', { class: 'name', x: 66, y: l2 ? 26 : 36, style: `font-size:${size}px` }, a.text));
+    if (b) g.appendChild(el('text', { class: 'name', x: 66, y: 43, style: `font-size:${size}px` }, b.text));
     const span = lifespan(p);
     if (span) g.appendChild(el('text', { class: 'dates', x: 66, y: l2 ? 59 : 54 }, span));
     if (n.half) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'half'));

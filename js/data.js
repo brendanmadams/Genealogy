@@ -122,11 +122,45 @@ export function initials(p) {
 
 /** Two display lines for a card: given names / surname(s). */
 export function nameLines(p) {
-  const name = p.name.trim();
-  const m = name.match(/^(.*?)\s*(\(.*\))$/);      // trailing "(Allen)" → second line suffix
-  const core = m ? m[1] : name, paren = m ? m[2] : '';
-  const parts = core.split(/\s+/);
-  if (parts.length === 1) return [core, paren];
-  const last = parts.pop();
-  return [parts.join(' '), (last + (paren ? ' ' + paren : ''))];
+  if (Array.isArray(p.card_name) && p.card_name.length) return [p.card_name[0] || '', p.card_name[1] || ''];
+  return cardName(p);
+}
+
+/**
+ * Short name for tree cards: [given, surname].
+ *   given   = the name they went by (a middle name that is also an alias, or
+ *             a quoted nickname), else the first name; other middle names
+ *             become initials; a leading title (Col., Dr.) is kept
+ *   surname = surname + suffix (Jr., Sr., IV, #1) + most recent married name
+ * The full name stays in the details panel and the card's tooltip.
+ */
+const SUFFIX = /^(Jr\.?|Sr\.?|I|II|III|IV|V)$/;
+const TITLE = /^(Col\.?|Dr\.?|Rev\.?|Capt\.?|Gen\.?|Lt\.?)$/i;
+const PARTICLE = /^(van|von|de|del|della|der|du|la|le|st\.?|mc|o')$/i;
+export function cardName(p) {
+  let name = p.name.trim();
+  // trailing "(…)": married name(s) or a label like #1; keep the last married name only
+  let trail = '';
+  const tm = name.match(/^(.*?)\s*\(([^()]*)\)\s*$/);
+  if (tm) { name = tm[1]; trail = tm[2].trim(); }
+  if (trail && !/^#\d+$/.test(trail)) trail = trail.split(/\s*[,/]\s*/).pop();
+  // quoted nickname, and parenthetical alternates inside the name, e.g. "Magdalena (Margaret)"
+  const nick = (name.match(/["“]([^"”]+)["”]/) || [])[1];
+  name = name.replace(/["“][^"”]*["”]/g, ' ').replace(/\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim();
+  const t = name.split(' ');
+  const title = TITLE.test(t[0]) && t.length > 2 ? t.shift() : '';
+  const suffix = t.length > 2 && SUFFIX.test(t[t.length - 1]) ? t.pop() : '';
+  if (t.length === 1) return [[title, t[0]].filter(Boolean).join(' '), trail ? `(${trail})` : ''];
+  // surname: last token, plus a lowercase particle before it ("van Fossen", "Della Selva")
+  let si = t.length - 1;
+  if (si > 1 && PARTICLE.test(t[si - 1])) si--;
+  const surname = t.slice(si).join(' ');
+  const givens = t.slice(0, si);
+  const aliases = (p.aliases || []).map(a => a.toLowerCase());
+  const wentBy = nick || givens.slice(1).find(g => aliases.some(a => a === g.toLowerCase() || a.startsWith(g.toLowerCase() + ' ')));
+  let given;
+  if (wentBy) given = wentBy;
+  else given = [givens[0], ...givens.slice(1).map(g => (g.length <= 2 && g.endsWith('.')) ? g : g[0].toUpperCase() + '.')].join(' ');
+  const line2 = [surname, suffix, trail ? `(${/^#\d+$/.test(trail) ? trail : trail})` : ''].filter(Boolean).join(' ');
+  return [[title, given].filter(Boolean).join(' '), line2];
 }

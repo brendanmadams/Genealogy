@@ -271,6 +271,7 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     name: p.name,
     aliases: p.aliases || [],
     photo: photos.has(p.id) ? `images/${p.id}.jpg` : null,
+    card_name: Array.isArray(p.card_name) ? p.card_name : null,
     media: mediaOf.get(p.id),
     birth: d.birth, death: d.death,
     living: !d.death.text && (d.birth.year ? d.birth.year > new Date().getFullYear() - 100 : false),

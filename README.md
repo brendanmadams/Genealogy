@@ -22,6 +22,8 @@ An interactive family history site for the whole family, published with GitHub P
 1. Open `data/people/<id>.json`. Relationship fields use other people's ids
    (`father`, `mother`, `spouse`, `children`, `siblings`). A second marriage goes in
    `_extra_spouses`.
+   Tree cards show a short name (the name they went by, middle initials, surname,
+   latest married name). To choose it yourself, add `"card_name": ["Peggy", "Allen (Seavy)"]`.
 2. Rebuild:
 
    ```bash
