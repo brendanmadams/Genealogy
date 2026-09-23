@@ -163,8 +163,11 @@ for (const f of families.values()) {
 }
 
 // Sort children by birth year (unknown last, then record order).
+// Undated children keep the order their parents' records list them in.
 for (const f of families.values()) {
-  f.children.sort((x, y) => (dates.get(x).birth.year ?? 9999) - (dates.get(y).birth.year ?? 9999));
+  const listed = f.partners.flatMap(p => rel.get(p).children);
+  const pos = c => { const i = listed.indexOf(c); return i < 0 ? 9999 : i; };
+  f.children.sort((x, y) => ((dates.get(x).birth.year ?? 9999) - (dates.get(y).birth.year ?? 9999)) || (pos(x) - pos(y)));
 }
 
 // ── Branches ───────────────────────────────────────────────────────────────

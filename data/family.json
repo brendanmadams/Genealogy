@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-22T23:26:35.509Z",
-  "people": 268,
-  "family_members": 217,
+  "generated": "2026-09-23T01:29:30.648Z",
+  "people": 289,
+  "family_members": 238,
   "dna_matches": 51,
-  "connected_people": 215,
-  "families": 78,
+  "connected_people": 236,
+  "families": 86,
   "branches": [
    "adams",
    "hamilton",
@@ -1647,10 +1647,10 @@
    "siblings": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_brooks",
-    "allen_susan",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_susan",
+    "allen_william_dorothy",
+    "allen_brooks"
    ],
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -1707,11 +1707,11 @@
    "children": [],
    "siblings": [
     "allen_guinevere",
-    "allen_anthony",
-    "allen_brooks",
-    "allen_susan",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_susan",
+    "allen_william_dorothy",
+    "allen_anthony",
+    "allen_brooks"
    ],
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -1847,10 +1847,10 @@
    "siblings": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_susan",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_susan",
+    "allen_william_dorothy",
+    "allen_anthony"
    ],
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -1979,11 +1979,11 @@
    "children": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_brooks",
-    "allen_susan",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_susan",
+    "allen_william_dorothy",
+    "allen_anthony",
+    "allen_brooks"
    ],
    "siblings": [
     "allen_margaret_jeanice"
@@ -2281,11 +2281,11 @@
    "children": [],
    "siblings": [
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_brooks",
-    "allen_susan",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_susan",
+    "allen_william_dorothy",
+    "allen_anthony",
+    "allen_brooks"
    ],
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -2568,10 +2568,10 @@
    "siblings": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_brooks",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_william_dorothy",
+    "allen_anthony",
+    "allen_brooks"
    ],
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -2629,10 +2629,10 @@
    "siblings": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_brooks",
     "allen_susan",
-    "allen_william_dorothy"
+    "allen_william_dorothy",
+    "allen_anthony",
+    "allen_brooks"
    ],
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -2690,10 +2690,10 @@
    "siblings": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_brooks",
+    "allen_wendy",
     "allen_susan",
-    "allen_wendy"
+    "allen_anthony",
+    "allen_brooks"
    ],
    "families": [],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
@@ -3870,7 +3870,9 @@
    "siblings": [
     "simons_glen",
     "simons_howard",
-    "simons_ralph"
+    "simons_elaine_deretha",
+    "simons_raymond_elmer",
+    "simons_orval_keith"
    ],
    "families": [
     "F_beryl_simons_adams+george_francis_adams_sr"
@@ -3943,7 +3945,8 @@
     "DOD conflict: memoir says 1999, canonical is 1998-08-01 per user instruction. Maintaining 1998.",
     "Birth confirmed: Christmas Day (Dec 25), 1919. DOD maintained at 1998-08-01 per user instruction.",
     "RESEARCH FINDING (John's memoir): Gertrude Elaine Adams Remy was named 'Gertrude' after Beryl's grandmother — therefore one of Beryl's grandmothers was named Gertrude. Current canonical grandmothers: Harriet M. Hattie Simons (paternal) and Mary Emily Valentine McPhail (maternal). Neither is documented as Gertrude — possibly an unrecorded middle name, or the reference is to a great-grandmother. Recommended research: ask Uncle Mike; request Beryl's birth certificate.",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA.",
+    "CORRECTION 2026-09-22: Siblings completed per Brendan Adams: Elaine Deretha, Raymond Elmer, Byron Daniel \"Howard\", Orval Keith and Glen (six children in all). \"Ralph\" was Rosemary Wells's husband, not a brother."
    ]
   },
   {
@@ -4140,8 +4143,8 @@
    "children": [
     "ethan_adams",
     "gabrielle_adams",
-    "gavin_adams",
-    "lauren_adams"
+    "lauren_adams",
+    "gavin_adams"
    ],
    "siblings": [
     "brendan_mckeldin_adams"
@@ -4962,8 +4965,8 @@
     "michelle_mckeldin"
    ],
    "children": [
-    "charlie_mckeldin",
-    "jennifer_mckeldin"
+    "jennifer_mckeldin",
+    "charlie_mckeldin"
    ],
    "siblings": [
     "barbara_mckeldin_adams"
@@ -5963,8 +5966,8 @@
    "children": [],
    "siblings": [
     "gabrielle_adams",
-    "gavin_adams",
-    "lauren_adams"
+    "lauren_adams",
+    "gavin_adams"
    ],
    "families": [],
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
@@ -6400,8 +6403,8 @@
    "children": [],
    "siblings": [
     "ethan_adams",
-    "gavin_adams",
-    "lauren_adams"
+    "lauren_adams",
+    "gavin_adams"
    ],
    "families": [],
    "parent_family": "F_brian_john_adams+michelle_ellis_adams",
@@ -6686,8 +6689,8 @@
     "nicole_adawn_della_selva"
    ],
    "children": [
-    "elizabeth_adams",
-    "frankie_adams"
+    "frankie_adams",
+    "elizabeth_adams"
    ],
    "siblings": [
     "george_francis_adams_iv"
@@ -7443,8 +7446,8 @@
    "children": [
     "zacher_amy",
     "zacher_andrew",
-    "zacher_jacob",
-    "zacher_spencer"
+    "zacher_spencer",
+    "zacher_jacob"
    ],
    "siblings": [],
    "families": [
@@ -7507,8 +7510,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -9788,7 +9791,9 @@
     "beryl_simons_adams",
     "simons_glen",
     "simons_howard",
-    "simons_ralph"
+    "simons_elaine_deretha",
+    "simons_raymond_elmer",
+    "simons_orval_keith"
    ],
    "siblings": [
     "kulp_edith_sarah",
@@ -10760,6 +10765,57 @@
    ]
   },
   {
+   "id": "les_husband_of_elaine_simons",
+   "name": "Les",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_elaine_deretha"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_les_husband_of_elaine_simons+simons_elaine_deretha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Husband of Elaine Deretha Simons. Surname not recorded."
+   ]
+  },
+  {
    "id": "lola",
    "name": "Lola",
    "aliases": [],
@@ -10874,6 +10930,62 @@
    ]
   },
   {
+   "id": "louise_daughter_of_rosemary_wells",
+   "name": "Louise",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "father": "ralph_husband_of_rosemary_wells",
+   "mother": "wells_rosemary",
+   "parents": [
+    "ralph_husband_of_rosemary_wells",
+    "wells_rosemary"
+   ],
+   "spouses": [],
+   "children": [
+    "scott_son_of_louise"
+   ],
+   "siblings": [],
+   "families": [
+    "F_louise_daughter_of_rosemary_wells"
+   ],
+   "parent_family": "F_ralph_husband_of_rosemary_wells+wells_rosemary",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Daughter of Rosemary Wells and Ralph. Surname not recorded. Possibly the same person as the DNA match Louise Craig; not merged until confirmed."
+   ]
+  },
+  {
    "id": "manzer_honolulu_claire",
    "name": "Honolulu Claire Manzer",
    "aliases": [],
@@ -10900,8 +11012,8 @@
     "mckeldin_theodore_roosevelt"
    ],
    "children": [
-    "mckeldin_clara",
-    "mckeldin_theodore_jr"
+    "mckeldin_theodore_jr",
+    "mckeldin_clara"
    ],
    "siblings": [],
    "families": [
@@ -11294,8 +11406,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt"
@@ -11366,8 +11478,8 @@
     "mckeldin_john",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -11698,8 +11810,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -11768,8 +11880,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -11929,8 +12041,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -11998,8 +12110,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -12199,8 +12311,8 @@
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -12574,8 +12686,8 @@
     "manzer_honolulu_claire"
    ],
    "children": [
-    "mckeldin_clara",
-    "mckeldin_theodore_jr"
+    "mckeldin_theodore_jr",
+    "mckeldin_clara"
    ],
    "siblings": [
     "mckeldin_george_edward",
@@ -12583,8 +12695,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_alice_holsey"
@@ -12708,8 +12820,8 @@
     "mckeldin_john",
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -12777,8 +12889,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
     "mckeldin_alice_holsey"
@@ -13172,8 +13284,8 @@
    "children": [
     "ethan_adams",
     "gabrielle_adams",
-    "gavin_adams",
-    "lauren_adams"
+    "lauren_adams",
+    "gavin_adams"
    ],
    "siblings": [],
    "families": [
@@ -13229,8 +13341,8 @@
     "chuck_mckeldin"
    ],
    "children": [
-    "charlie_mckeldin",
-    "jennifer_mckeldin"
+    "jennifer_mckeldin",
+    "charlie_mckeldin"
    ],
    "siblings": [],
    "families": [
@@ -13585,8 +13697,8 @@
     "geoffrey_louis_adams"
    ],
    "children": [
-    "elizabeth_adams",
-    "frankie_adams"
+    "frankie_adams",
+    "elizabeth_adams"
    ],
    "siblings": [],
    "families": [
@@ -14465,6 +14577,60 @@
    ]
   },
   {
+   "id": "ralph_husband_of_rosemary_wells",
+   "name": "Ralph",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "trumbo",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "wells_rosemary"
+   ],
+   "children": [
+    "louise_daughter_of_rosemary_wells"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ralph_husband_of_rosemary_wells+wells_rosemary"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "adams_direct_line_summary_v1",
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "CORRECTION 2026-09-22: Previously recorded as \"Ralph Simons\", a brother of Beryl Simons Adams (from the Adams direct-line summary). Brendan Adams confirms Ralph was not a Simons: he was the husband of Rosemary Wells, on the Adams side. Surname not recorded."
+   ]
+  },
+  {
    "id": "reigler_clayton",
    "name": "Clayton Reigler",
    "aliases": [],
@@ -15145,6 +15311,57 @@
    "notes": []
   },
   {
+   "id": "scott_son_of_louise",
+   "name": "Scott",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "father": null,
+   "mother": "louise_daughter_of_rosemary_wells",
+   "parents": [
+    "louise_daughter_of_rosemary_wells"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_louise_daughter_of_rosemary_wells",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Son of Louise, the daughter of Rosemary Wells. Surname not recorded."
+   ]
+  },
+  {
    "id": "seaton_shirley",
    "name": "Shirley Seaton",
    "aliases": [],
@@ -15634,15 +15851,18 @@
     "simons"
    ],
    "father": "simons_glen",
-   "mother": null,
+   "mother": "simons_mary",
    "parents": [
-    "simons_glen"
+    "simons_glen",
+    "simons_mary"
    ],
    "spouses": [],
    "children": [],
-   "siblings": [],
+   "siblings": [
+    "simons_ed"
+   ],
    "families": [],
-   "parent_family": "F_simons_glen",
+   "parent_family": "F_simons_glen+simons_mary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -15662,11 +15882,130 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "adams_dna_linkage_v1"
+    "adams_dna_linkage_v1",
+    "Brendan Adams, 2026-09-22"
    ],
    "notes": [
     "Parent: Glen Simons.",
     "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect."
+   ]
+  },
+  {
+   "id": "simons_ed",
+   "name": "Ed Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_glen",
+   "mother": "simons_mary",
+   "parents": [
+    "simons_glen",
+    "simons_mary"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_ann"
+   ],
+   "families": [],
+   "parent_family": "F_simons_glen+simons_mary",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Listed among the Simons family researchers in the Adams direct-line notes."
+   ]
+  },
+  {
+   "id": "simons_elaine_deretha",
+   "name": "Elaine Deretha Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_raymond_zell",
+   "mother": "kulp_dradie_ellen",
+   "parents": [
+    "kulp_dradie_ellen",
+    "simons_raymond_zell"
+   ],
+   "spouses": [
+    "les_husband_of_elaine_simons"
+   ],
+   "children": [],
+   "siblings": [
+    "beryl_simons_adams",
+    "simons_glen",
+    "simons_howard",
+    "simons_raymond_elmer",
+    "simons_orval_keith"
+   ],
+   "families": [
+    "F_les_husband_of_elaine_simons+simons_elaine_deretha"
+   ],
+   "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Sister of Beryl Simons Adams; married Les (surname not recorded)."
    ]
   },
   {
@@ -15698,17 +16037,22 @@
     "kulp_dradie_ellen",
     "simons_raymond_zell"
    ],
-   "spouses": [],
+   "spouses": [
+    "simons_mary"
+   ],
    "children": [
-    "simons_ann"
+    "simons_ann",
+    "simons_ed"
    ],
    "siblings": [
     "beryl_simons_adams",
     "simons_howard",
-    "simons_ralph"
+    "simons_elaine_deretha",
+    "simons_raymond_elmer",
+    "simons_orval_keith"
    ],
    "families": [
-    "F_simons_glen"
+    "F_simons_glen+simons_mary"
    ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
@@ -15735,7 +16079,7 @@
    "notes": [
     "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
     "Simons branch anchor. Father of Ann Simons (confirmed by DNA).",
-    "TENTATIVE (unconfirmed, 2026-09-22): Brendan Adams believes Glen’s descendants include Steve Simons (wife Penny) and Sharon Simons, probably Steve’s sister. John Howard Adams’s memoir calls Steve “a cousin … son of one of Beryl’s siblings,” and the Adams direct-line notes list Steve, Sharon, Alex and Ed Simons as family researchers. Not yet linked; do not rely on this until confirmed."
+    "CORRECTION 2026-09-22: Earlier tentative note removed: Steve and Sharon Simons are Howard's children, not Glen's (Brendan Adams). Glen and Mary's children are Ed and Ann."
    ]
   },
   {
@@ -15837,14 +16181,26 @@
     "kulp_dradie_ellen",
     "simons_raymond_zell"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "simons_nancy"
+   ],
+   "children": [
+    "simons_steve",
+    "simons_lynn",
+    "simons_sandy",
+    "simons_sharon",
+    "simons_judy"
+   ],
    "siblings": [
     "beryl_simons_adams",
     "simons_glen",
-    "simons_ralph"
+    "simons_elaine_deretha",
+    "simons_raymond_elmer",
+    "simons_orval_keith"
    ],
-   "families": [],
+   "families": [
+    "F_simons_howard+simons_nancy"
+   ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
    "connected": true,
    "dna_match": false,
@@ -15868,8 +16224,573 @@
    ]
   },
   {
-   "id": "simons_ralph",
-   "name": "Ralph Simons",
+   "id": "simons_irene",
+   "name": "Irene Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_orval_keith"
+   ],
+   "children": [
+    "simons_les",
+    "simons_rodney",
+    "simons_janine"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_irene+simons_orval_keith"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Wife of Orval Keith Simons. Maiden name not recorded."
+   ]
+  },
+  {
+   "id": "simons_janine",
+   "name": "Janine Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_orval_keith",
+   "mother": "simons_irene",
+   "parents": [
+    "simons_irene",
+    "simons_orval_keith"
+   ],
+   "spouses": [
+    "stan_husband_of_janine_simons"
+   ],
+   "children": [],
+   "siblings": [
+    "simons_les",
+    "simons_rodney"
+   ],
+   "families": [
+    "F_simons_janine+stan_husband_of_janine_simons"
+   ],
+   "parent_family": "F_simons_irene+simons_orval_keith",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Married Stan (surname not recorded)."
+   ]
+  },
+  {
+   "id": "simons_judy",
+   "name": "Judy Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_howard",
+   "mother": "simons_nancy",
+   "parents": [
+    "simons_howard",
+    "simons_nancy"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_steve",
+    "simons_lynn",
+    "simons_sandy",
+    "simons_sharon"
+   ],
+   "families": [],
+   "parent_family": "F_simons_howard+simons_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": []
+  },
+  {
+   "id": "simons_lenore",
+   "name": "Lenore Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_les"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_simons_lenore+simons_les"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Wife of Les Simons. Maiden name not recorded."
+   ]
+  },
+  {
+   "id": "simons_les",
+   "name": "Les Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_orval_keith",
+   "mother": "simons_irene",
+   "parents": [
+    "simons_irene",
+    "simons_orval_keith"
+   ],
+   "spouses": [
+    "simons_lenore"
+   ],
+   "children": [],
+   "siblings": [
+    "simons_rodney",
+    "simons_janine"
+   ],
+   "families": [
+    "F_simons_lenore+simons_les"
+   ],
+   "parent_family": "F_simons_irene+simons_orval_keith",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": []
+  },
+  {
+   "id": "simons_lynn",
+   "name": "Lynn Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_howard",
+   "mother": "simons_nancy",
+   "parents": [
+    "simons_howard",
+    "simons_nancy"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_steve",
+    "simons_sandy",
+    "simons_sharon",
+    "simons_judy"
+   ],
+   "families": [],
+   "parent_family": "F_simons_howard+simons_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": []
+  },
+  {
+   "id": "simons_mary",
+   "name": "Mary Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_glen"
+   ],
+   "children": [
+    "simons_ann",
+    "simons_ed"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_glen+simons_mary"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Wife of Glen Simons. Maiden name not recorded."
+   ]
+  },
+  {
+   "id": "simons_nancy",
+   "name": "Nancy Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_howard"
+   ],
+   "children": [
+    "simons_steve",
+    "simons_lynn",
+    "simons_sandy",
+    "simons_sharon",
+    "simons_judy"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_howard+simons_nancy"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Wife of Howard (Byron Daniel) Simons. Maiden name not recorded."
+   ]
+  },
+  {
+   "id": "simons_orval_keith",
+   "name": "Orval Keith Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_raymond_zell",
+   "mother": "kulp_dradie_ellen",
+   "parents": [
+    "kulp_dradie_ellen",
+    "simons_raymond_zell"
+   ],
+   "spouses": [
+    "simons_irene"
+   ],
+   "children": [
+    "simons_les",
+    "simons_rodney",
+    "simons_janine"
+   ],
+   "siblings": [
+    "beryl_simons_adams",
+    "simons_glen",
+    "simons_howard",
+    "simons_elaine_deretha",
+    "simons_raymond_elmer"
+   ],
+   "families": [
+    "F_simons_irene+simons_orval_keith"
+   ],
+   "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Brother of Beryl Simons Adams."
+   ]
+  },
+  {
+   "id": "simons_penny",
+   "name": "Penny Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_steve"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_simons_penny+simons_steve"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Wife of Steve Simons. Maiden name not recorded."
+   ]
+  },
+  {
+   "id": "simons_raymond_elmer",
+   "name": "Raymond Elmer Simons",
    "aliases": [],
    "photo": null,
    "media": [],
@@ -15901,7 +16822,9 @@
    "siblings": [
     "beryl_simons_adams",
     "simons_glen",
-    "simons_howard"
+    "simons_howard",
+    "simons_elaine_deretha",
+    "simons_orval_keith"
    ],
    "families": [],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
@@ -15918,10 +16841,10 @@
    "education": [],
    "career": [],
    "sources": [
-    "adams_direct_line_summary_v1"
+    "Brendan Adams, 2026-09-22"
    ],
    "notes": [
-    "Sibling of Beryl Eva Simons. Named as one of Beryl's known brothers in this source."
+    "Brother of Beryl Simons Adams. He and his wife (name not recorded) adopted two children (not named here)."
    ]
   },
   {
@@ -15959,7 +16882,9 @@
     "beryl_simons_adams",
     "simons_glen",
     "simons_howard",
-    "simons_ralph"
+    "simons_elaine_deretha",
+    "simons_raymond_elmer",
+    "simons_orval_keith"
    ],
    "siblings": [],
    "families": [
@@ -16020,6 +16945,236 @@
     "New story: named streets in Pasco after family members.",
     "NEW: tuberculosis is confirmed reason for Lynden→Pasco move. Source: John's memoir.",
     "Birth June 14, 1897 confirmed via WWI draft card. Death 1976 or 1977 — canonical holds 7 May 1977."
+   ]
+  },
+  {
+   "id": "simons_rodney",
+   "name": "Rodney Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_orval_keith",
+   "mother": "simons_irene",
+   "parents": [
+    "simons_irene",
+    "simons_orval_keith"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_les",
+    "simons_janine"
+   ],
+   "families": [],
+   "parent_family": "F_simons_irene+simons_orval_keith",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": []
+  },
+  {
+   "id": "simons_sandy",
+   "name": "Sandy Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_howard",
+   "mother": "simons_nancy",
+   "parents": [
+    "simons_howard",
+    "simons_nancy"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_steve",
+    "simons_lynn",
+    "simons_sharon",
+    "simons_judy"
+   ],
+   "families": [],
+   "parent_family": "F_simons_howard+simons_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": []
+  },
+  {
+   "id": "simons_sharon",
+   "name": "Sharon Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_howard",
+   "mother": "simons_nancy",
+   "parents": [
+    "simons_howard",
+    "simons_nancy"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_steve",
+    "simons_lynn",
+    "simons_sandy",
+    "simons_judy"
+   ],
+   "families": [],
+   "parent_family": "F_simons_howard+simons_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Listed among the Simons family researchers in the Adams direct-line notes. Not the same person as Barbara McKeldin Adams's cousin Sharon."
+   ]
+  },
+  {
+   "id": "simons_steve",
+   "name": "Steve Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "simons"
+   ],
+   "father": "simons_howard",
+   "mother": "simons_nancy",
+   "parents": [
+    "simons_howard",
+    "simons_nancy"
+   ],
+   "spouses": [
+    "simons_penny"
+   ],
+   "children": [],
+   "siblings": [
+    "simons_lynn",
+    "simons_sandy",
+    "simons_sharon",
+    "simons_judy"
+   ],
+   "families": [
+    "F_simons_penny+simons_steve"
+   ],
+   "parent_family": "F_simons_howard+simons_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Cousin of John Howard Adams; his memoir recalls Steve driving a pickup at age 9 or 10. Listed among the Simons family researchers in the Adams direct-line notes."
    ]
   },
   {
@@ -16378,6 +17533,57 @@
    "notes": [
     "Simons extended cluster.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "stan_husband_of_janine_simons",
+   "name": "Stan",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_janine"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_simons_janine+stan_husband_of_janine_simons"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22"
+   ],
+   "notes": [
+    "Husband of Janine Simons. Surname not recorded."
    ]
   },
   {
@@ -17337,10 +18543,16 @@
     "trumbo_serena_marie",
     "wells_arthur"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "ralph_husband_of_rosemary_wells"
+   ],
+   "children": [
+    "louise_daughter_of_rosemary_wells"
+   ],
    "siblings": [],
-   "families": [],
+   "families": [
+    "F_ralph_husband_of_rosemary_wells+wells_rosemary"
+   ],
    "parent_family": "F_trumbo_serena_marie+wells_arthur",
    "connected": true,
    "dna_match": false,
@@ -17395,11 +18607,11 @@
    "children": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_brooks",
-    "allen_susan",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_susan",
+    "allen_william_dorothy",
+    "allen_anthony",
+    "allen_brooks"
    ],
    "siblings": [],
    "families": [
@@ -17822,8 +19034,8 @@
    "children": [],
    "siblings": [
     "zacher_andrew",
-    "zacher_jacob",
-    "zacher_spencer"
+    "zacher_spencer",
+    "zacher_jacob"
    ],
    "families": [],
    "parent_family": "F_goodman_craig+zacher_kimberly_lynn",
@@ -17879,8 +19091,8 @@
    "children": [],
    "siblings": [
     "zacher_amy",
-    "zacher_jacob",
-    "zacher_spencer"
+    "zacher_spencer",
+    "zacher_jacob"
    ],
    "families": [],
    "parent_family": "F_goodman_craig+zacher_kimberly_lynn",
@@ -18168,8 +19380,8 @@
    "children": [
     "zacher_amy",
     "zacher_andrew",
-    "zacher_jacob",
     "zacher_spencer",
+    "zacher_jacob",
     "goodman_amber"
    ],
    "siblings": [
@@ -18645,11 +19857,11 @@
    "children": [
     "allen_guinevere",
     "allen_benjamin_alistair",
-    "allen_anthony",
-    "allen_brooks",
-    "allen_susan",
     "allen_wendy",
-    "allen_william_dorothy"
+    "allen_susan",
+    "allen_william_dorothy",
+    "allen_anthony",
+    "allen_brooks"
    ],
    "marriage": "1944"
   },
@@ -18794,8 +20006,8 @@
    "children": [
     "ethan_adams",
     "gabrielle_adams",
-    "gavin_adams",
-    "lauren_adams"
+    "lauren_adams",
+    "gavin_adams"
    ],
    "marriage": null
   },
@@ -18853,8 +20065,8 @@
     "michelle_mckeldin"
    ],
    "children": [
-    "charlie_mckeldin",
-    "jennifer_mckeldin"
+    "jennifer_mckeldin",
+    "charlie_mckeldin"
    ],
    "marriage": null
   },
@@ -18975,8 +20187,8 @@
     "nicole_adawn_della_selva"
    ],
    "children": [
-    "elizabeth_adams",
-    "frankie_adams"
+    "frankie_adams",
+    "elizabeth_adams"
    ],
    "marriage": "23 Mar 2001"
   },
@@ -19013,8 +20225,8 @@
    "children": [
     "zacher_amy",
     "zacher_andrew",
-    "zacher_jacob",
-    "zacher_spencer"
+    "zacher_spencer",
+    "zacher_jacob"
    ],
    "marriage": null
   },
@@ -19030,8 +20242,8 @@
     "mckeldin_charles_i",
     "mckeldin_lillian_j",
     "mckeldin_theresa",
-    "mckeldin_laura_s",
     "mckeldin_louis_lawrence",
+    "mckeldin_laura_s",
     "mckeldin_william",
     "mckeldin_james_raymond",
     "mckeldin_theodore_roosevelt",
@@ -19126,7 +20338,9 @@
     "beryl_simons_adams",
     "simons_glen",
     "simons_howard",
-    "simons_ralph"
+    "simons_elaine_deretha",
+    "simons_raymond_elmer",
+    "simons_orval_keith"
    ],
    "marriage": "Dec 1915"
   },
@@ -19198,14 +20412,33 @@
    "marriage": null
   },
   {
+   "id": "F_les_husband_of_elaine_simons+simons_elaine_deretha",
+   "partners": [
+    "les_husband_of_elaine_simons",
+    "simons_elaine_deretha"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_louise_daughter_of_rosemary_wells",
+   "partners": [
+    "louise_daughter_of_rosemary_wells"
+   ],
+   "children": [
+    "scott_son_of_louise"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_manzer_honolulu_claire+mckeldin_theodore_roosevelt",
    "partners": [
     "manzer_honolulu_claire",
     "mckeldin_theodore_roosevelt"
    ],
    "children": [
-    "mckeldin_clara",
-    "mckeldin_theodore_jr"
+    "mckeldin_theodore_jr",
+    "mckeldin_clara"
    ],
    "marriage": null
   },
@@ -19272,6 +20505,17 @@
    "marriage": null
   },
   {
+   "id": "F_ralph_husband_of_rosemary_wells+wells_rosemary",
+   "partners": [
+    "ralph_husband_of_rosemary_wells",
+    "wells_rosemary"
+   ],
+   "children": [
+    "louise_daughter_of_rosemary_wells"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_rotter_richard+zacher_kimberly_lynn",
    "partners": [
     "rotter_richard",
@@ -19292,13 +20536,70 @@
    "marriage": null
   },
   {
-   "id": "F_simons_glen",
+   "id": "F_simons_glen+simons_mary",
    "partners": [
-    "simons_glen"
+    "simons_glen",
+    "simons_mary"
    ],
    "children": [
-    "simons_ann"
+    "simons_ann",
+    "simons_ed"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_howard+simons_nancy",
+   "partners": [
+    "simons_howard",
+    "simons_nancy"
+   ],
+   "children": [
+    "simons_steve",
+    "simons_lynn",
+    "simons_sandy",
+    "simons_sharon",
+    "simons_judy"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_irene+simons_orval_keith",
+   "partners": [
+    "simons_irene",
+    "simons_orval_keith"
+   ],
+   "children": [
+    "simons_les",
+    "simons_rodney",
+    "simons_janine"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_janine+stan_husband_of_janine_simons",
+   "partners": [
+    "simons_janine",
+    "stan_husband_of_janine_simons"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_lenore+simons_les",
+   "partners": [
+    "simons_lenore",
+    "simons_les"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_penny+simons_steve",
+   "partners": [
+    "simons_penny",
+    "simons_steve"
+   ],
+   "children": [],
    "marriage": null
   },
   {

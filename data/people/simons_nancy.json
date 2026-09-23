@@ -1,0 +1,35 @@
+{
+  "id": "simons_nancy",
+  "name": "Nancy Simons",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_howard",
+    "children": [
+      "simons_steve",
+      "simons_lynn",
+      "simons_sandy",
+      "simons_sharon",
+      "simons_judy"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams, 2026-09-22"
+  ],
+  "notes": [
+    "Wife of Howard (Byron Daniel) Simons. Maiden name not recorded."
+  ],
+  "aliases": []
+}

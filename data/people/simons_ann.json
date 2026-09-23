@@ -15,7 +15,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "simons_mary",
     "father": "simons_glen",
     "siblings": [],
     "spouse": "",
@@ -26,7 +26,8 @@
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "adams_dna_linkage_v1"
+    "adams_dna_linkage_v1",
+    "Brendan Adams, 2026-09-22"
   ],
   "notes": [
     "Parent: Glen Simons.",

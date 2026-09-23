@@ -7,7 +7,7 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "Legal name Byron Daniel \u2014 Dradie filled out the birth certificate differently than Raymond had agreed. Beryl's favorite brother."
+    "Legal name Byron Daniel — Dradie filled out the birth certificate differently than Raymond had agreed. Beryl's favorite brother."
   ],
   "risk_events": [],
   "milestones": [],
@@ -18,11 +18,16 @@
     "father": "simons_raymond_zell",
     "siblings": [
       "beryl_simons_adams",
-      "simons_glen",
-      "simons_ralph"
+      "simons_glen"
     ],
-    "spouse": "",
-    "children": []
+    "spouse": "simons_nancy",
+    "children": [
+      "simons_steve",
+      "simons_lynn",
+      "simons_sandy",
+      "simons_sharon",
+      "simons_judy"
+    ]
   },
   "locations": [],
   "sources": [

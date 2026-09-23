@@ -17,8 +17,10 @@
     "mother": "trumbo_serena_marie",
     "father": "wells_arthur",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "ralph_husband_of_rosemary_wells",
+    "children": [
+      "louise_daughter_of_rosemary_wells"
+    ]
   },
   "locations": [
     "San Francisco, CA"

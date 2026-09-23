@@ -1,0 +1,27 @@
+{
+  "id": "simons_les",
+  "name": "Les Simons",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "simons_irene",
+    "father": "simons_orval_keith",
+    "siblings": [],
+    "spouse": "simons_lenore",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams, 2026-09-22"
+  ],
+  "notes": [],
+  "aliases": []
+}

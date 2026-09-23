@@ -12,15 +12,15 @@
     "Founded the Chetzamoka Park Zoo on the Columbia River waterfront (Pasco area)",
     "Ray and Dradie celebrated their 50th wedding anniversary at the Pasco Grange",
     "Eloped with Dradie Kulp to Ritzville; real estate developer who named streets in Pasco after family",
-    "Grandpa Ray Simons had a bout with tuberculosis, which is why they sold their Lynden farm and moved to the drier climate of Pasco, Washington in the 1950s (John's memoir \u2014 'My Grandparents' chapter).",
+    "Grandpa Ray Simons had a bout with tuberculosis, which is why they sold their Lynden farm and moved to the drier climate of Pasco, Washington in the 1950s (John's memoir — 'My Grandparents' chapter).",
     "Ray founded the Chetzamoka Park Zoo by rescuing unwanted animals from zoos in Seattle, Portland, and Spokane.",
     "Ray named streets in the Pasco area after family members. 'Glen Acres' is a residential development named after Beryl's brother Glen.",
     "John's last vivid memory of Ray: mid-1970s, obviously suffering from dementia when he visited John's family in Olympia.",
     "Ray passed away not long after the mid-1970s visit (confirmed consistent with death 7 May 1977).",
     "Ray's cousin Steve drove a pickup truck to Pasco at age 9-10 to collect discarded grocery food for the zoo animals.",
-    "C-005: WWI Draft Card \u2014 Birth: June 14, 1897, Michigan. Consistent with canonical.",
+    "C-005: WWI Draft Card — Birth: June 14, 1897, Michigan. Consistent with canonical.",
     "1900 Census: Raymond Simons, age 2 (born ~1897-98). Siblings listed: Ettie, Lola, Bertha.",
-    "1920 Census \u2014 Raymond's own household: Raymond Simons (22), Dradie Simons (21), Elaine Simons (1). Elaine born ~1919.",
+    "1920 Census — Raymond's own household: Raymond Simons (22), Dradie Simons (21), Elaine Simons (1). Elaine born ~1919.",
     "1930 Census: Raymond and Dradie with multiple children; Elmer Kulp (Dradie's brother) present.",
     "SSDI/WA Death Index: Birth dates conflict between 1897/1898/1899; death dates conflict 1976/1977. Canonical holds June 14, 1897 and May 7, 1977.",
     "Simons, McPhail, and Kulp families were located within a few farms of each other prior to marriage."
@@ -43,7 +43,9 @@
       "simons_glen",
       "beryl_simons_adams",
       "simons_howard",
-      "simons_ralph"
+      "simons_elaine_deretha",
+      "simons_raymond_elmer",
+      "simons_orval_keith"
     ]
   },
   "locations": [
@@ -64,7 +66,7 @@
   "notes": [
     "Siblings listed: Ettie, Lola, Bertha",
     "New story: named streets in Pasco after family members.",
-    "NEW: tuberculosis is confirmed reason for Lynden\u2192Pasco move. Source: John's memoir.",
-    "Birth June 14, 1897 confirmed via WWI draft card. Death 1976 or 1977 \u2014 canonical holds 7 May 1977."
+    "NEW: tuberculosis is confirmed reason for Lynden→Pasco move. Source: John's memoir.",
+    "Birth June 14, 1897 confirmed via WWI draft card. Death 1976 or 1977 — canonical holds 7 May 1977."
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "louise_daughter_of_rosemary_wells",
+  "name": "Louise",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "wells_rosemary",
+    "father": "ralph_husband_of_rosemary_wells",
+    "siblings": [],
+    "spouse": "",
+    "children": [
+      "scott_son_of_louise"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams, 2026-09-22"
+  ],
+  "notes": [
+    "Daughter of Rosemary Wells and Ralph. Surname not recorded. Possibly the same person as the DNA match Louise Craig; not merged until confirmed."
+  ],
+  "aliases": []
+}

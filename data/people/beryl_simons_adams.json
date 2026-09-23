@@ -49,8 +49,11 @@
     "mother": "kulp_dradie_ellen",
     "father": "simons_raymond_zell",
     "siblings": [
-      "simons_ralph",
-      "simons_howard"
+      "simons_elaine_deretha",
+      "simons_raymond_elmer",
+      "simons_howard",
+      "simons_orval_keith",
+      "simons_glen"
     ],
     "spouse": "george_francis_adams_sr",
     "children": [
@@ -81,7 +84,8 @@
     "DOD conflict: memoir says 1999, canonical is 1998-08-01 per user instruction. Maintaining 1998.",
     "Birth confirmed: Christmas Day (Dec 25), 1919. DOD maintained at 1998-08-01 per user instruction.",
     "RESEARCH FINDING (John's memoir): Gertrude Elaine Adams Remy was named 'Gertrude' after Beryl's grandmother — therefore one of Beryl's grandmothers was named Gertrude. Current canonical grandmothers: Harriet M. Hattie Simons (paternal) and Mary Emily Valentine McPhail (maternal). Neither is documented as Gertrude — possibly an unrecorded middle name, or the reference is to a great-grandmother. Recommended research: ask Uncle Mike; request Beryl's birth certificate.",
-    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA."
+    "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person: Fair Oaks, CA.",
+    "CORRECTION 2026-09-22: Siblings completed per Brendan Adams: Elaine Deretha, Raymond Elmer, Byron Daniel \"Howard\", Orval Keith and Glen (six children in all). \"Ralph\" was Rosemary Wells's husband, not a brother."
   ],
   "aliases": []
 }

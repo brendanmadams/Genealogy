@@ -1,0 +1,32 @@
+{
+  "id": "simons_mary",
+  "name": "Mary Simons",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_glen",
+    "children": [
+      "simons_ed",
+      "simons_ann"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Brendan Adams, 2026-09-22"
+  ],
+  "notes": [
+    "Wife of Glen Simons. Maiden name not recorded."
+  ],
+  "aliases": []
+}

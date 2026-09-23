@@ -18,12 +18,12 @@
     "mother": "kulp_dradie_ellen",
     "father": "simons_raymond_zell",
     "siblings": [
-      "simons_ralph",
       "simons_howard"
     ],
-    "spouse": "",
+    "spouse": "simons_mary",
     "children": [
-      "simons_ann"
+      "simons_ann",
+      "simons_ed"
     ]
   },
   "locations": [
@@ -36,6 +36,6 @@
   "notes": [
     "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
     "Simons branch anchor. Father of Ann Simons (confirmed by DNA).",
-    "TENTATIVE (unconfirmed, 2026-09-22): Brendan Adams believes Glen’s descendants include Steve Simons (wife Penny) and Sharon Simons, probably Steve’s sister. John Howard Adams’s memoir calls Steve “a cousin … son of one of Beryl’s siblings,” and the Adams direct-line notes list Steve, Sharon, Alex and Ed Simons as family researchers. Not yet linked; do not rely on this until confirmed."
+    "CORRECTION 2026-09-22: Earlier tentative note removed: Steve and Sharon Simons are Howard's children, not Glen's (Brendan Adams). Glen and Mary's children are Ed and Ann."
   ]
 }
