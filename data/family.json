@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-09-23T02:42:14.819Z",
-  "people": 294,
-  "family_members": 243,
+  "generated": "2026-09-23T02:43:17.815Z",
+  "people": 297,
+  "family_members": 246,
   "dna_matches": 51,
-  "connected_people": 241,
+  "connected_people": 244,
   "families": 88,
   "branches": [
    "adams",
@@ -16127,7 +16127,10 @@
     "simons_harriet_hattie"
    ],
    "children": [
-    "simons_raymond_zell"
+    "simons_raymond_zell",
+    "simons_ettie",
+    "simons_lola",
+    "simons_bertha"
    ],
    "siblings": [],
    "families": [
@@ -16231,6 +16234,63 @@
    "notes": [
     "Parent: Glen Simons.",
     "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect."
+   ]
+  },
+  {
+   "id": "simons_bertha",
+   "name": "Bertha Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_aaron",
+   "mother": "simons_harriet_hattie",
+   "parents": [
+    "simons_aaron",
+    "simons_harriet_hattie"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_raymond_zell",
+    "simons_ettie",
+    "simons_lola"
+   ],
+   "families": [],
+   "parent_family": "F_simons_aaron+simons_harriet_hattie",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")"
+   ],
+   "notes": [
+    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."
    ]
   },
   {
@@ -16524,6 +16584,63 @@
    ]
   },
   {
+   "id": "simons_ettie",
+   "name": "Ettie Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_aaron",
+   "mother": "simons_harriet_hattie",
+   "parents": [
+    "simons_aaron",
+    "simons_harriet_hattie"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_raymond_zell",
+    "simons_lola",
+    "simons_bertha"
+   ],
+   "families": [],
+   "parent_family": "F_simons_aaron+simons_harriet_hattie",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")"
+   ],
+   "notes": [
+    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."
+   ]
+  },
+  {
    "id": "simons_glen",
    "name": "Glen Simons",
    "aliases": [],
@@ -16628,7 +16745,10 @@
     "simons_aaron"
    ],
    "children": [
-    "simons_raymond_zell"
+    "simons_raymond_zell",
+    "simons_ettie",
+    "simons_lola",
+    "simons_bertha"
    ],
    "siblings": [],
    "families": [
@@ -17025,6 +17145,63 @@
     "Brendan Adams, 2026-09-22"
    ],
    "notes": []
+  },
+  {
+   "id": "simons_lola",
+   "name": "Lola Simons",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_aaron",
+   "mother": "simons_harriet_hattie",
+   "parents": [
+    "simons_aaron",
+    "simons_harriet_hattie"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_raymond_zell",
+    "simons_ettie",
+    "simons_bertha"
+   ],
+   "families": [],
+   "parent_family": "F_simons_aaron+simons_harriet_hattie",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")"
+   ],
+   "notes": [
+    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."
+   ]
   },
   {
    "id": "simons_lynn",
@@ -17425,7 +17602,11 @@
     "simons_raymond_elmer",
     "simons_orval_keith"
    ],
-   "siblings": [],
+   "siblings": [
+    "simons_ettie",
+    "simons_lola",
+    "simons_bertha"
+   ],
    "families": [
     "F_kulp_dradie_ellen+simons_raymond_zell"
    ],
@@ -21118,7 +21299,10 @@
     "simons_harriet_hattie"
    ],
    "children": [
-    "simons_raymond_zell"
+    "simons_raymond_zell",
+    "simons_ettie",
+    "simons_lola",
+    "simons_bertha"
    ],
    "marriage": null
   },
