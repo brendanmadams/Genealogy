@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-09-23T02:43:17.815Z",
-  "people": 297,
-  "family_members": 246,
+  "generated": "2026-09-23T13:28:05.414Z",
+  "people": 300,
+  "family_members": 249,
   "dna_matches": 51,
-  "connected_people": 244,
+  "connected_people": 247,
   "families": 88,
   "branches": [
    "adams",
@@ -403,6 +403,73 @@
    ]
   },
   {
+   "id": "adams_alice_e",
+   "name": "Alice E. Adams (Fulton)",
+   "aliases": [
+    "Alice Adams Fulton",
+    "Alice Hazleton"
+   ],
+   "photo": null,
+   "media": [
+    "jose2-obit"
+   ],
+   "birth": {
+    "text": "1873",
+    "year": 1873,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_joseph_pierre_jose2",
+   "mother": "pugh_susan",
+   "parents": [
+    "adams_joseph_pierre_jose2",
+    "pugh_susan"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_mary_j",
+    "adams_edna_m"
+   ],
+   "families": [],
+   "parent_family": "F_adams_joseph_pierre_jose2+pugh_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Douglas County, CO",
+    "Philadelphia, PA",
+    "Denver, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Jose Pierre Adams, The Trail (Sons of Colorado), 1923 (media: jose2-obit)",
+    "Descendants of Jose Pierre Adams (family document, Nov 2010)"
+   ],
+   "notes": [
+    "Eldest daughter of Jose Pierre Adams (II) and Susan M. Pugh. An earlier biography of her father calls her \"Mrs. Alice Hazleton, of Philadelphia\"; his 1923 obituary calls her Mrs. Alice Adams Fulton of Denver, so she probably married twice. Her father died at her home, 1620 Steele Street, Denver."
+   ]
+  },
+  {
    "id": "adams_caleb_martin",
    "name": "Caleb Martin Adams",
    "aliases": [],
@@ -533,6 +600,69 @@
    "notes": [
     "Sibling of George Francis Adams Sr. (Gen 4). Marriage to Thomas Childs confirmed memoir p. 57.",
     "Birth year approximate: abt 1913."
+   ]
+  },
+  {
+   "id": "adams_edna_m",
+   "name": "Edna M. Adams",
+   "aliases": [],
+   "photo": null,
+   "media": [
+    "jose2-obit"
+   ],
+   "birth": {
+    "text": "Nov 1886",
+    "year": 1886,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_joseph_pierre_jose2",
+   "mother": "pugh_susan",
+   "parents": [
+    "adams_joseph_pierre_jose2",
+    "pugh_susan"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_alice_e",
+    "adams_mary_j"
+   ],
+   "families": [],
+   "parent_family": "F_adams_joseph_pierre_jose2+pugh_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Colorado",
+    "Denver, CO"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Jose Pierre Adams, The Trail (Sons of Colorado), 1923 (media: jose2-obit)",
+    "Descendants of Jose Pierre Adams (family document, Nov 2010)"
+   ],
+   "notes": [
+    "Youngest daughter of Jose Pierre Adams (II) and Susan M. Pugh. \"Miss Edna M. Adams\" of Denver in her father's 1923 obituary, so unmarried then."
    ]
   },
   {
@@ -1215,7 +1345,7 @@
     "the-trail-cover"
    ],
    "birth": {
-    "text": "May 1847",
+    "text": "31 May 1847",
     "year": 1847,
     "qualifier": null
    },
@@ -1241,7 +1371,11 @@
    "spouses": [
     "pugh_susan"
    ],
-   "children": [],
+   "children": [
+    "adams_alice_e",
+    "adams_mary_j",
+    "adams_edna_m"
+   ],
    "siblings": [
     "adams_john_wesley",
     "adams_alexander_william_col",
@@ -1259,7 +1393,8 @@
    "locations": [
     "Chariton County, MO",
     "Plum Creek, Douglas County, CO",
-    "Denver, CO"
+    "Denver, CO",
+    "Brunswick, MO"
    ],
    "personality": [
     "Described as a colorful character"
@@ -1275,15 +1410,28 @@
     "Married Susan M. Pugh (m. 1872)",
     "Served in the Colorado House of Delegates",
     "Was a member of the Democratic state central committee",
-    "Established a stock business in Douglas County before moving to Denver"
+    "Established a stock business in Douglas County before moving to Denver",
+    "Born 31 May 1847, Brunswick, Missouri",
+    "Crossed the plains by ox cart and settled in Douglas County before Colorado became a state",
+    "Died 1923 at the home of his daughter Alice Adams Fulton, 1620 Steele Street, Denver"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Pioneer cattleman on the ranges of Colorado, Wyoming, Arizona and New Mexico",
+    "One of the organizers and for many years president of the Denver Livestock Exchange",
+    "Helped found what became the National Western Stock Show, with former Governor Ammons and the late Fred Johnson",
+    "Douglas County commissioner; a leading spirit in building the courthouse at Castle Rock",
+    "Livestock commission business at the Denver stockyards for about 25 years",
+    "President of the J. P. Adams & Brigham Livestock Company"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Obituary of Jose Pierre Adams, The Trail (Sons of Colorado), 1923 (media: jose2-obit)",
+    "Descendants of Jose Pierre Adams (family document, Nov 2010)"
    ],
    "notes": [
-    "Siblings listed: John Wesley, Col. Alexander William, Mary, Missouri, Harriet E., James Casper, Virginia M., Nancy E. Identified as Jose2 to distinguish from ancestor Jose Pierre Adams (Jose1)."
+    "Siblings listed: John Wesley, Col. Alexander William, Mary, Missouri, Harriet E., James Casper, Virginia M., Nancy E. Identified as Jose2 to distinguish from ancestor Jose Pierre Adams (Jose1).",
+    "CORRECTION 2026-09-23: Birth refined from \"May 1847\" to 31 May 1847 at Brunswick, Missouri, and career details added, from his 1923 obituary. The obituary gives his marriage to Susan M. Pugh as 24 Dec 1868; the family document gives 1872. Not yet resolved."
    ]
   },
   {
@@ -1357,6 +1505,71 @@
    ],
    "notes": [
     "Siblings listed: George Francis (#1), Alexander Washington, Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)"
+   ]
+  },
+  {
+   "id": "adams_mary_j",
+   "name": "Mary J. Adams (Collins)",
+   "aliases": [
+    "Mrs. J. F. Collins"
+   ],
+   "photo": null,
+   "media": [
+    "jose2-obit"
+   ],
+   "birth": {
+    "text": "1877",
+    "year": 1877,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "adams_joseph_pierre_jose2",
+   "mother": "pugh_susan",
+   "parents": [
+    "adams_joseph_pierre_jose2",
+    "pugh_susan"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_alice_e",
+    "adams_edna_m"
+   ],
+   "families": [],
+   "parent_family": "F_adams_joseph_pierre_jose2+pugh_susan",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Douglas County, CO",
+    "San Francisco, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Jose Pierre Adams, The Trail (Sons of Colorado), 1923 (media: jose2-obit)",
+    "Descendants of Jose Pierre Adams (family document, Nov 2010)"
+   ],
+   "notes": [
+    "Daughter of Jose Pierre Adams (II) and Susan M. Pugh. Identified as \"Mrs. J. F. Collins of San Francisco\" in her father's 1923 obituary by elimination: the obituary names Alice and Edna, and the family document gives Mary as the third daughter."
    ]
   },
   {
@@ -14356,7 +14569,11 @@
    "spouses": [
     "adams_joseph_pierre_jose2"
    ],
-   "children": [],
+   "children": [
+    "adams_alice_e",
+    "adams_mary_j",
+    "adams_edna_m"
+   ],
    "siblings": [],
    "families": [
     "F_adams_joseph_pierre_jose2+pugh_susan"
@@ -20565,7 +20782,11 @@
     "adams_joseph_pierre_jose2",
     "pugh_susan"
    ],
-   "children": [],
+   "children": [
+    "adams_alice_e",
+    "adams_mary_j",
+    "adams_edna_m"
+   ],
    "marriage": "1872"
   },
   {
@@ -21539,7 +21760,10 @@
    "caption": "From The Trail, the magazine of the Sons of Colorado.",
    "source": "Denver Public Library, via Bill Allen, May 2011.",
    "people": [
-    "adams_joseph_pierre_jose2"
+    "adams_joseph_pierre_jose2",
+    "adams_alice_e",
+    "adams_mary_j",
+    "adams_edna_m"
    ],
    "files": [
     "media/jose2-obit.jpg"
