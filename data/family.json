@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T19:13:42.431Z",
+  "generated": "2026-09-23T19:30:23.791Z",
   "people": 621,
   "family_members": 571,
   "dna_matches": 50,
@@ -30575,8 +30575,10 @@
   },
   {
    "id": "michelle_ellis_adams",
-   "name": "Michelle Ellis Adams",
-   "aliases": [],
+   "name": "Michelle Ellis (Adams)",
+   "aliases": [
+    "Michelle Ellis Adams"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],

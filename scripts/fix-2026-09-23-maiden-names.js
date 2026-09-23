@@ -19,6 +19,7 @@ const RENAME = {
   margaret_peggy_mckeldin: 'Margaret “Peggy” Quinn (McKeldin)',
   megan_marie_adams: 'Megan Marie Falde (Adams)',
   quinn_marie_ellinghaus: 'Marie Ellinghaus (Quinn)',
+  michelle_ellis_adams: 'Michelle Ellis (Adams)',
   rae_mae: 'Rae Mae Adams',          // birth surname not known
 };
 for (const [id, name] of Object.entries(RENAME)) {
