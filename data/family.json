@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T21:59:07.275Z",
+  "generated": "2026-09-23T22:18:28.838Z",
   "people": 633,
   "family_members": 583,
   "dna_matches": 50,
@@ -10418,13 +10418,13 @@
    "milestones": [
     "Born February 8, 1972, Meridian, MS",
     "Bachelor of Science in Psychology, University of Washington, Seattle",
-    "Married Michelle Ellis",
     "Salem, OR — while Michelle attended law school",
     "Master's degree and PhD in Psychology, University of Tennessee, Knoxville",
     "Father of Ethan, Gabrielle, Lauren, and Gavin",
     "Religion: Brian was baptized by the parish priest of the Navy base parish in Meridian, Mississippi. (1972)",
     "Religion: Brian made his First Communion on the day Mount St. Helens erupted (Sunday, 18 May 1980), with Granny and Pops, Nana and Papa, and Aunt Rosemary and Uncle Ralph attending; he was also baptized, made his first confession and was confirmed.",
-    "After San Diego the family settled in a house on Whidbey Island, where John was soon deployed; there little Brian picked out two goldfish, named them Ernie and Bert, and was found lifting them out of the bowl onto the kitchen counter. (about 1973-1975)"
+    "After San Diego the family settled in a house on Whidbey Island, where John was soon deployed; there little Brian picked out two goldfish, named them Ernie and Bert, and was found lifting them out of the bowl onto the kitchen counter. (about 1973-1975)",
+    "Married Michelle Ellis (m. 17 Dec 1993)"
    ],
    "education": [
     "Went to preschool in Oak Harbor as a toddler.",
@@ -10440,7 +10440,8 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
     "Barbara says the meaning of Brian was 'high, noble, dark one, warrior.'",
@@ -31692,8 +31693,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "12 Sep",
-    "year": null,
+    "text": "12 Sep 1972",
+    "year": 1972,
     "qualifier": null
    },
    "death": {
@@ -31701,8 +31702,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -31733,7 +31734,9 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Brian John Adams (m. 17 Dec 1993)"
+   ],
    "education": [
     "Michelle holds a BS and a law degree (JD)."
    ],
@@ -46167,7 +46170,7 @@
     "lauren_adams",
     "gavin_adams"
    ],
-   "marriage": null
+   "marriage": "17 Dec 1993"
   },
   {
    "id": "F_buckley_hannah_louise+trumbo_presley_neville",
