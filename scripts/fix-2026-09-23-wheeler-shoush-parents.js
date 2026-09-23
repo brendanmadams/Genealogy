@@ -69,4 +69,17 @@ save(wm); save(su);
   note(a, 'CORRECTION 2026-09-23: Parents set to William Shoush and Susanna Willoughby Shoush, inferred from their photos on page 111 of Bill Allen’s document (the relationship is not stated there). Decision by Brendan Adams.');
   save(a);
 }
-console.log('Wheeler parents and six children, and Shoush parents, linked');
+// ── 3. Grinnell (added at Brendan's request, also inferred) ───────────────
+const GINF = 'Parent of Serepta Mary "Reppa" Grinnell (Wheeler): inferred, not stated. Bill Allen’s document shows photos captioned "Willard Grinnell" and "Mary Hanks Grinnell" on the same page as Reppa’s photo and the Grinnell family group (page 103).';
+const wg = ensure('grinnell_willard', 'Willard Grinnell', { notes: [GINF] });
+const mh = ensure('hanks_mary', 'Mary Hanks (Grinnell)', { aliases: ['Mary Hanks Grinnell', 'Mary Grinnell'], notes: [GINF] });
+wg.relationships.spouse = mh.id; mh.relationships.spouse = wg.id;
+add(wg.relationships.children, 'grinnell_serepta_mary'); add(mh.relationships.children, 'grinnell_serepta_mary');
+save(wg); save(mh);
+{
+  const r = load('grinnell_serepta_mary');
+  r.relationships.father = wg.id; r.relationships.mother = mh.id;
+  note(r, 'CORRECTION 2026-09-23: Parents set to Willard Grinnell and Mary Hanks Grinnell, inferred from their photos on page 103 of Bill Allen’s document (the relationship is not stated there). Decision by Brendan Adams.');
+  save(r);
+}
+console.log('Wheeler parents and six children, and Shoush and Grinnell parents, linked');

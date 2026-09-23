@@ -875,6 +875,48 @@
           255
         ]
       ]
+    },
+    {
+      "page": 103,
+      "id": "willard-grinnell",
+      "file": "WillardGrinnell",
+      "box": [
+        228,
+        1040,
+        550,
+        1470
+      ],
+      "title": "Willard Grinnell",
+      "people": [
+        "grinnell_willard"
+      ],
+      "face": [
+        "grinnell_willard",
+        260,
+        1065,
+        250
+      ]
+    },
+    {
+      "page": 103,
+      "id": "mary-hanks-grinnell",
+      "file": "MaryHanksGrinnell",
+      "box": [
+        495,
+        1465,
+        748,
+        1820
+      ],
+      "title": "Mary Hanks Grinnell",
+      "people": [
+        "hanks_mary"
+      ],
+      "face": [
+        "hanks_mary",
+        522,
+        1470,
+        190
+      ]
     }
   ]
 }

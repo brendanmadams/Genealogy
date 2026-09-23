@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T15:21:59.725Z",
-  "people": 528,
-  "family_members": 477,
+  "generated": "2026-09-23T15:27:55.200Z",
+  "people": 530,
+  "family_members": 479,
   "dna_matches": 51,
-  "connected_people": 477,
-  "families": 161,
+  "connected_people": 479,
+  "families": 162,
   "branches": [
    "adams",
    "hamilton",
@@ -14452,9 +14452,12 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "grinnell_willard",
+   "mother": "hanks_mary",
+   "parents": [
+    "grinnell_willard",
+    "hanks_mary"
+   ],
    "spouses": [
     "wheeler_d_a"
    ],
@@ -14471,7 +14474,7 @@
    "families": [
     "F_grinnell_serepta_mary+wheeler_d_a"
    ],
-   "parent_family": null,
+   "parent_family": "F_grinnell_willard+hanks_mary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -14498,7 +14501,66 @@
    ],
    "notes": [
     "Known as Reppa. Named \"Serepta Mary (Grinnell) Wheeler\" under her photo on page 108 of Bill Allen’s document; the 1944 wedding notice calls her the bride’s grandmother, \"Mrs. Reppa Wheeler, now residing at Redwood Falls, Minn.\"",
-    "A group photo on page 103 includes \"Reppa Grinnell (probably Wheeler by this time)\" with Grinnell relatives, among them Bart, Esther, Anson and perhaps Frank (Francis) and Willis Grinnell, and Alice Grinnell, probably married to Roy Wheeler by then. Willard Grinnell and Mary Hanks Grinnell appear on the same page, perhaps her parents; not confirmed."
+    "A group photo on page 103 includes \"Reppa Grinnell (probably Wheeler by this time)\" with Grinnell relatives, among them Bart, Esther, Anson and perhaps Frank (Francis) and Willis Grinnell, and Alice Grinnell, probably married to Roy Wheeler by then. Willard Grinnell and Mary Hanks Grinnell appear on the same page, perhaps her parents; not confirmed.",
+    "CORRECTION 2026-09-23: Parents set to Willard Grinnell and Mary Hanks Grinnell, inferred from their photos on page 103 of Bill Allen’s document (the relationship is not stated there). Decision by Brendan Adams."
+   ]
+  },
+  {
+   "id": "grinnell_willard",
+   "name": "Willard Grinnell",
+   "aliases": [],
+   "photo": "images/grinnell_willard.jpg",
+   "card_name": null,
+   "media": [
+    "willard-grinnell"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hanks_mary"
+   ],
+   "children": [
+    "grinnell_serepta_mary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_grinnell_willard+hanks_mary"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Parent of Serepta Mary \"Reppa\" Grinnell (Wheeler): inferred, not stated. Bill Allen’s document shows photos captioned \"Willard Grinnell\" and \"Mary Hanks Grinnell\" on the same page as Reppa’s photo and the Grinnell family group (page 103)."
    ]
   },
   {
@@ -18220,6 +18282,67 @@
    ],
    "notes": [
     "Register number 158.1d. Mary Ann Meeks was too young to be the mother of his first child, so he may have married earlier."
+   ]
+  },
+  {
+   "id": "hanks_mary",
+   "name": "Mary Hanks (Grinnell)",
+   "aliases": [
+    "Mary Hanks Grinnell",
+    "Mary Grinnell"
+   ],
+   "photo": "images/hanks_mary.jpg",
+   "card_name": null,
+   "media": [
+    "mary-hanks-grinnell"
+   ],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "grinnell_willard"
+   ],
+   "children": [
+    "grinnell_serepta_mary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_grinnell_willard+hanks_mary"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+   ],
+   "notes": [
+    "Parent of Serepta Mary \"Reppa\" Grinnell (Wheeler): inferred, not stated. Bill Allen’s document shows photos captioned \"Willard Grinnell\" and \"Mary Hanks Grinnell\" on the same page as Reppa’s photo and the Grinnell family group (page 103)."
    ]
   },
   {
@@ -38130,6 +38253,17 @@
    "marriage": null
   },
   {
+   "id": "F_grinnell_willard+hanks_mary",
+   "partners": [
+    "grinnell_willard",
+    "hanks_mary"
+   ],
+   "children": [
+    "grinnell_serepta_mary"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_hamilton_alice_g+house_harry",
    "partners": [
     "hamilton_alice_g",
@@ -39726,6 +39860,32 @@
    ],
    "files": [
     "media/william-and-susanna-shoush.jpg"
+   ]
+  },
+  {
+   "id": "willard-grinnell",
+   "kind": "photo",
+   "title": "Willard Grinnell",
+   "caption": "From the photo pages of Bill Allen’s family document (page 103).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+   "people": [
+    "grinnell_willard"
+   ],
+   "files": [
+    "media/willard-grinnell.jpg"
+   ]
+  },
+  {
+   "id": "mary-hanks-grinnell",
+   "kind": "photo",
+   "title": "Mary Hanks Grinnell",
+   "caption": "From the photo pages of Bill Allen’s family document (page 103).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+   "people": [
+    "hanks_mary"
+   ],
+   "files": [
+    "media/mary-hanks-grinnell.jpg"
    ]
   }
  ]

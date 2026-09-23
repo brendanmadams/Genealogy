@@ -1045,6 +1045,48 @@
           ]
         }
       ]
+    },
+    {
+      "id": "willard-grinnell",
+      "kind": "photo",
+      "file": "WillardGrinnell_AdamsFamilyDoc_p103.jpg",
+      "title": "Willard Grinnell",
+      "caption": "From the photo pages of Bill Allen’s family document (page 103).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+      "people": [
+        "grinnell_willard"
+      ],
+      "portraits": [
+        {
+          "person": "grinnell_willard",
+          "crop": [
+            52,
+            41,
+            410
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mary-hanks-grinnell",
+      "kind": "photo",
+      "file": "MaryHanksGrinnell_AdamsFamilyDoc_p103.jpg",
+      "title": "Mary Hanks Grinnell",
+      "caption": "From the photo pages of Bill Allen’s family document (page 103).",
+      "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 103.",
+      "people": [
+        "hanks_mary"
+      ],
+      "portraits": [
+        {
+          "person": "hanks_mary",
+          "crop": [
+            44,
+            8,
+            312
+          ]
+        }
+      ]
     }
   ]
 }
