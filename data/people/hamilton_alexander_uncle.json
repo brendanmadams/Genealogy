@@ -1,14 +1,18 @@
 {
   "id": "hamilton_alexander_uncle",
   "name": "Alexander Hamilton",
-  "birth": "",
-  "death": "",
+  "birth": "bap 3 Nov 1741",
+  "death": "1799",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Baptized 3 Nov 1741, Mauchline, Ayrshire, Scotland",
+    "Died 1799, Maryland",
+    "Married Susan"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -20,10 +24,12 @@
   },
   "locations": [
     "Prince George’s County, MD",
-    "Piscataway, MD"
+    "Piscataway, MD",
+    "Maryland"
   ],
   "sources": [
-    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
   ],
   "notes": [
     "Brother of Francis Hamilton (#158); register number 316.1. Fled from Prince George’s County to his brother’s place at Keeptrist in 1777. His letters and will name Francis’s children; his nephew John Alexander (\"Jacky\") lived with him at Piscataway in 1784."

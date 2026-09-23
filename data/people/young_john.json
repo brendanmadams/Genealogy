@@ -1,0 +1,31 @@
+{
+  "id": "young_john",
+  "name": "John Young",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simpson_mary",
+    "children": [
+      "young_jacobina"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+  ],
+  "notes": [
+    "Father of Jacobina Young; married Mary Simpson. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+  ],
+  "aliases": []
+}

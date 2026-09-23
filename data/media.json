@@ -1087,6 +1087,41 @@
           ]
         }
       ]
+    },
+    {
+      "id": "gfa1-obituary-1896",
+      "kind": "document",
+      "file": "Ref.pdf",
+      "title": "Obituary of George Francis Adams (#1), Castle Rock Journal, 12 Aug 1896",
+      "caption": "Page 4, signed \"A Friend\". From the Colorado Historic Newspapers collection, printed 10 Nov 2011.",
+      "source": "Colorado Historic Newspapers; sent by the Colorado Division SCV, 2011.",
+      "people": [
+        "adams_george_francis_1"
+      ]
+    },
+    {
+      "id": "chariton-county-plat-1880",
+      "kind": "document",
+      "file": "CharitonCountyPartial_1880.pdf",
+      "title": "Plat map of Township 56 North, Range 19 West, Chariton County, Missouri, about 1880",
+      "caption": "Northwest corner of the county, north of Rothville. Bill Allen highlighted the parcels of G. P. Allen, J. W. Adams, C. C. Clark and the Willett family, who raised Clay Clark.",
+      "source": "Bill Allen, 2011.",
+      "people": [
+        "allen_george_philemon",
+        "adams_john_wesley",
+        "clark_clay_c"
+      ]
+    },
+    {
+      "id": "virginia-general-assembly-list",
+      "kind": "document",
+      "file": "VSL_Report_915.pdf",
+      "title": "Members of the Virginia General Assembly, 1776–1918",
+      "caption": "From the Thirteenth Annual Report of the Library Board of the Virginia State Library, 1915–1916 (Richmond, 1917). Lists \"Adams, Joseph P. House, 1824/25, Morgan.\"",
+      "source": "Virginia State Library, 1917 (digitized by Google).",
+      "people": [
+        "adams_jose_pierre"
+      ]
     }
   ]
 }

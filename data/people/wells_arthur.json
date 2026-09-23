@@ -13,7 +13,8 @@
   "risk_events": [],
   "milestones": [
     "Married Serena Marie Nevada Trumbo (m. abt 1929, San Francisco, CA)",
-    "Born 1890"
+    "Born 1890",
+    "Census 1940: San Francisco, California, aged 49, born New Zealand, with his wife Serena, stepson George Adams and daughter Daphne (15)"
   ],
   "education": [],
   "career": [],
@@ -23,20 +24,26 @@
     "siblings": [],
     "spouse": "trumbo_serena_marie",
     "children": [
-      "wells_rosemary"
+      "wells_rosemary",
+      "wells_daphne"
     ]
   },
   "locations": [
-    "San Francisco, CA"
+    "San Francisco, CA",
+    "New Zealand"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Family letters in Bill Allen’s family document"
+    "Family letters in Bill Allen’s family document",
+    "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)"
   ],
   "notes": [
     "Remarried Serena Marie Nevada Trumbo in 1929 after the death of George Francis Adams (#2).",
     "Death: ~1963-64 per this source (when John Adams was in 11th grade).",
     "Step-father of George Francis Adams Sr. Biological father of Rosemary Wells."
+  ],
+  "aliases": [
+    "Arthur T. Wells"
   ]
 }

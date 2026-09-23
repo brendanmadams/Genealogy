@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T16:47:13.414Z",
-  "people": 562,
-  "family_members": 512,
+  "generated": "2026-09-23T17:06:48.973Z",
+  "people": 576,
+  "family_members": 526,
   "dna_matches": 50,
-  "connected_people": 512,
-  "families": 174,
+  "connected_people": 526,
+  "families": 176,
   "branches": [
    "adams",
    "hamilton",
@@ -1034,7 +1034,8 @@
    "risk_events": [],
    "milestones": [
     "Married Thomas Childs (per memoir p. 57)",
-    "Married Thomas Childs"
+    "Married Thomas Childs",
+    "Census 1920: Douglas County, Oregon, aged 7, born Oregon"
    ],
    "education": [],
    "career": [],
@@ -1043,7 +1044,8 @@
     "family_data_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
    ],
    "notes": [
     "Sibling of George Francis Adams Sr. (Gen 4). Marriage to Thomas Childs confirmed memoir p. 57.",
@@ -1918,7 +1920,8 @@
     "gfa1-grave-marker",
     "gfa1-family-plot",
     "gfa1-marriage-record",
-    "gfa1-land-patent"
+    "gfa1-land-patent",
+    "gfa1-obituary-1896"
    ],
    "birth": {
     "text": "11 May 1816",
@@ -2025,7 +2028,11 @@
     "Died Denver area, Colorado",
     "Military: An obituary found by Charlie Hogan of the Sons of Confederate Veterans states that George Francis Adams was a Confederate soldier and served in other wars as well.",
     "Military: He served in the Confederate Army in the Civil War and in several other conflicts between 1836 and 1865.",
-    "Born Harpers Ferry, Virginia (now West Virginia)"
+    "Born Harpers Ferry, Virginia (now West Virginia)",
+    "Died 1896, before 12 Aug, at Castle Rock, Douglas County, Colorado, after six months confined to bed (obituary, Castle Rock Journal, 12 Aug 1896)",
+    "Funeral conducted by the Rev. Sisson of the Methodist church at Castle Rock; buried in the Castle Rock cemetery",
+    "Religion: member of the Presbyterian church for 55 years",
+    "Grave dedicated at the Colorado Division SCV Confederate Memorial Day observance, Cedar Hill Cemetery, Castle Rock, 21 Apr 2012"
    ],
    "education": [],
    "career": [
@@ -2044,7 +2051,8 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
     "Family letters in Bill Allen’s family document",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Obituary of George Francis Adams, Castle Rock Journal (Castle Rock, Douglas County, Colorado), 12 Aug 1896, p. 4"
    ],
    "notes": [
     "Siblings listed: Alexander Washington, Magdalena (Margaret), Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)",
@@ -2115,7 +2123,9 @@
     "Open question: Email 35 gives George Francis Adams (#1)'s birth year as 1817; the tree has 11 May 1816. [Family research emails, email 35, 11]",
     "Open question: Emails 33 and 47: John W. Adams's death certificate gives George F. Adams (#1)'s birthplace as Ohio. The family says it was Harpers Ferry, West Virginia (then Virginia), and believes the informant, Alberta Allen, was guessing. [Family research emails, email 33, 47]",
     "Open question: no marriage record has been found for George F. Adams (#1) and Cynthia Lane. Their Missouri home is only thought to be Marion, MO, and it is unknown whether Jos. moved to Missouri with them. [Family research emails, email 20]",
-    "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]"
+    "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]",
+    "His obituary, signed \"A Friend\", says he was born in Jefferson County, Virginia; his parents went west in 1833; he went back to Virginia in 1834 and returned to Missouri the same year; fought in the Black Hawk War (printed 1835), enlisted under General Price and Colonel Watson to drive the Mormons from Missouri (printed 1836), and later against the Mexicans to capture Santa Fe; served in the Confederate army under Generals Price, Van Dorn and Magruder; was a large landowner who lived 42 years in Chariton County, Missouri, came to Colorado in 1878 and lived there until his death; his wife died in 1863; he raised his children himself and left four sons and four daughters. [Obituary of George Francis Adams, Castle Rock Journal (Castle Rock, Douglas County, Colorado), 12 Aug 1896, p. 4]",
+    "Sources disagree on the day of birth: the clean scan of his 1896 obituary (Ref.pdf) reads \"May 17, 1816\"; the tree's 11 May 1816 comes from the OCR reading of a poorer copy of the same obituary in Bill Allen's document. Left for Brendan to decide."
    ]
   },
   {
@@ -2189,7 +2199,8 @@
     "Umpqua, Douglas County, OR",
     "Missouri",
     "Roseburg, OR",
-    "Denver, Colorado"
+    "Denver, Colorado",
+    "Douglas County, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -2214,7 +2225,8 @@
     "Served in the military on 2 Jun 1898 in Denver, CO",
     "Born Missouri",
     "Military: Military service entry dated 2 Jun 1898, Denver, Arapahoe County, CO.",
-    "Military: George F. Adams served in the military in Denver in 1898; the branch is not stated."
+    "Military: George F. Adams served in the military in Denver in 1898; the branch is not stated.",
+    "Census 1920: Douglas County, Oregon, head of household, aged 43, born Missouri, with Serena (30), Presley N. (9), Edith V. (7) and Edward G. (3 years 9 months)"
    ],
    "education": [
     "Graduated from Washington State University with a degree in Pharmacy in 1908",
@@ -2231,7 +2243,8 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "Family letters in Bill Allen’s family document",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
    ],
    "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
@@ -3102,7 +3115,8 @@
    "media": [
     "adams-brothers",
     "john-wesley-obit",
-    "john-wesley-death-cert"
+    "john-wesley-death-cert",
+    "chariton-county-plat-1880"
    ],
    "birth": {
     "text": "Sep 1841",
@@ -3174,7 +3188,8 @@
     "Yellow Creek Twnshp, Chariton County, MO",
     "Mt. Olivet Cemetery, Marceline, Linn County, Missouri",
     "northwest Chariton County, Missouri, north of Rothville",
-    "Benton, Arkansas"
+    "Benton, Arkansas",
+    "Chariton County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -3199,7 +3214,8 @@
     "Buried at Mt. Olivet Cemetery",
     "Military: He registered for the Union draft in the Civil War but was apparently never called up.",
     "Born Missouri",
-    "Died Benton, Arkansas"
+    "Died Benton, Arkansas",
+    "Owned 40 acres in Township 56 North, Range 19 West, northwest Chariton County, Missouri, near G. P. Allen (plat map, about 1880)"
    ],
    "education": [],
    "career": [
@@ -3215,7 +3231,8 @@
     "email_summary_conclusions_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Plat map of Township 56 North, Range 19 West, Chariton County, Missouri (about 1880), highlighted by Bill Allen"
    ],
    "notes": [
     "Siblings listed: Alexander William, Mary, Joseph Pierre Jose, Missouri, Harriet E., James Casper, Virginia M., Nancy E.",
@@ -3245,7 +3262,8 @@
    "photo": null,
    "card_name": null,
    "media": [
-    "jose-pierre-obit"
+    "jose-pierre-obit",
+    "virginia-general-assembly-list"
    ],
    "birth": {
     "text": "abt 1785",
@@ -3335,7 +3353,8 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
     "Family letters in Bill Allen’s family document",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Alphabetical List of Members of the General Assembly, 1776-1918, in the Thirteenth Annual Report of the Library Board of the Virginia State Library, 1915-1916 (Richmond, 1917)"
    ],
    "notes": [
     "Also identified as Jose1 to distinguish from Jose Pierre Adams (Jose2), his grandson",
@@ -3394,7 +3413,8 @@
     "Open question: Jose P. Adams #1: who were his parents? Does the middle name come from the Peer/Pear/Perry family (Phillip Peer, Samuel Peer)? Is there a John Quincy Adams connection? George suggests a DNA test. [Family research emails, email 08, 28]",
     "Open question: Jose P. Adams #1: was he married before 1813? A Joseph P. Adams with two children under 10 appears in the 1810 Loudoun County census. [Family research emails, email 10, 09]",
     "Open question: Email 20 says Mary Hamilton married Jos. Adams and her brother Francis married an Eliza (?), but emails 29, 35 and 36 (and the tree) treat Eliza/Elizabeth Hamilton as Jose's wife. Which name is right? [Family research emails, email 20, 29, 35, 36]",
-    "Open question: Emails 20 and 36: the claim that John Quincy Adams fathered Jos. and left him Missouri land is hard to square with the dates. John found at least 7 years between the move to Missouri and JQA's death (1848), and the tree has Jose dying about 1836. There is also no Joseph/Jose/Jesse in immigration records. [Family research emails, email 20, 36]"
+    "Open question: Emails 20 and 36: the claim that John Quincy Adams fathered Jos. and left him Missouri land is hard to square with the dates. John found at least 7 years between the move to Missouri and JQA's death (1848), and the tree has Jose dying about 1836. There is also no Joseph/Jose/Jesse in immigration records. [Family research emails, email 20, 36]",
+    "The Virginia State Library's list of General Assembly members has \"Adams, Joseph P. House, 1824/25, Morgan.\" The record elsewhere says 1825-1826; the list dates the session 1824/25. [Alphabetical List of Members of the General Assembly, 1776-1918, in the Thirteenth Annual Report of the Library Board of the Virginia State Library, 1915-1916 (Richmond, 1917)]"
    ]
   },
   {
@@ -4569,7 +4589,9 @@
   {
    "id": "adams_presley",
    "name": "Presley Adams",
-   "aliases": [],
+   "aliases": [
+    "Presley N. Adams"
+   ],
    "photo": null,
    "card_name": null,
    "media": [
@@ -4622,14 +4644,17 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Census 1920: Douglas County, Oregon, aged 9, born Oregon"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
-    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
    ],
    "notes": [
     "Sibling of George Francis Adams Sr. (child of George Francis Adams #2 and Serena Trumbo). Previously listed as 'Presley Marcason Adams' in prior sources.",
@@ -6107,7 +6132,9 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "media": [],
+   "media": [
+    "chariton-county-plat-1880"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -6143,7 +6170,8 @@
    "priority": "normal",
    "locations": [
     "Marceline, MO",
-    "northwest Chariton County, Missouri, north of Rothville"
+    "northwest Chariton County, Missouri, north of Rothville",
+    "Chariton County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -6151,7 +6179,8 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Religion: Co-organizer and charter member of the First Baptist church in Marceline (Apr 1888)"
+    "Religion: Co-organizer and charter member of the First Baptist church in Marceline (Apr 1888)",
+    "Owned 182.89 and 80 acres in Township 56 North, Range 19 West, northwest Chariton County, Missouri, north of Rothville (plat map, about 1880)"
    ],
    "education": [],
    "career": [
@@ -6160,7 +6189,8 @@
    "sources": [
     "consolidated_research_digest_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Plat map of Township 56 North, Range 19 West, Chariton County, Missouri (about 1880), highlighted by Bill Allen"
    ],
    "notes": [
     "Father of George Julius Allen. Parents of George Julius Allen listed in source."
@@ -11096,7 +11126,8 @@
    "photo": "images/clark_clay_c.jpg",
    "card_name": null,
    "media": [
-    "clay-c-clark"
+    "clay-c-clark",
+    "chariton-county-plat-1880"
    ],
    "birth": {
     "text": "1860",
@@ -11130,7 +11161,8 @@
    "priority": "normal",
    "locations": [
     "Chariton County, MO",
-    "northwest Chariton County, Missouri"
+    "northwest Chariton County, Missouri",
+    "Chariton County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -11143,7 +11175,8 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Birth: 1860, Chariton County, MO"
+    "Birth: 1860, Chariton County, MO",
+    "Owned 80 acres in Township 56 North, Range 19 West, northwest Chariton County, Missouri, beside G. P. Allen (plat map, about 1880)"
    ],
    "education": [],
    "career": [
@@ -11152,13 +11185,15 @@
    "sources": [
     "family_data_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Plat map of Township 56 North, Range 19 West, Chariton County, Missouri (about 1880), highlighted by Bill Allen"
    ],
    "notes": [
     "Half-sibling of John Wesley Adams' children. Born 1860. Given up for adoption.",
     "The Willett family, neighbours on the Chariton County map, adopted or raised Clay until he turned 18. [Family research emails, email 4]",
     "Unconfirmed: Around 1883 Clay moved to Arlington, Oregon, on the Columbia River. [Family research emails, email 04]",
-    "Open question: Mary Frances Vantine (Adams): she married Ephraim Clark at 15 and was barely 16 when he died at the end of the Civil War (1865), which conflicts with her tree birth of Oct 1844 and with Clay C. Clark's tree birth of 1860. [Family research emails, email 15, 16, 04]"
+    "Open question: Mary Frances Vantine (Adams): she married Ephraim Clark at 15 and was barely 16 when he died at the end of the Civil War (1865), which conflicts with her tree birth of Oct 1844 and with Clay C. Clark's tree birth of 1860. [Family research emails, email 15, 16, 04]",
+    "The Willett family, who raised Clay until he was 18, owned 160.58 acres (W. W. Willet) in the upper right of the same township on the plat map of about 1880. [Plat map of Township 56 North, Range 19 West, Chariton County, Missouri (about 1880), highlighted by Bill Allen]"
    ]
   },
   {
@@ -13866,7 +13901,8 @@
     "San Francisco, CA",
     "Presidio, San Francisco, CA",
     "Oregon",
-    "Douglas County, Oregon"
+    "Douglas County, Oregon",
+    "Burlingame, San Mateo County, California"
    ],
    "personality": [
     "Did not bring his work home",
@@ -13910,7 +13946,8 @@
     "Married Beryl Eva Simons (2 July 1942, Franklin County, WA)",
     "Retired from U.S. Army 1971 as Provost Marshall of Ft. Lewis / Eastern Washington",
     "Military police officer at the Presidio, San Francisco, where the family lived while John and George Jr. grew up",
-    "Born Oregon"
+    "Born Oregon",
+    "Census 1940: San Francisco, California, aged 24, single, stepson of Arthur T. Wells; living in Burlingame, San Mateo County, in 1935"
    ],
    "education": [],
    "career": [],
@@ -13922,7 +13959,8 @@
     "john_howard_adams_memoir_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)"
    ],
    "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams II",
@@ -13937,7 +13975,8 @@
     "Unconfirmed: His mother Neenie seems to have changed his name from Edward G. to George F. some time after his father died. [Family research emails, email 17]",
     "Unconfirmed: His sister Trudy said he was 2 years old when his father died in 1918, a date the brothers later doubted. [Family research emails, email 30]",
     "Unconfirmed: His son George can only guess that the 'G' in Edward G. stood for George. [Family research emails, email 31]",
-    "Open question: George Francis Adams Sr. appears as Edward G. in the 1920 census, and Oregon birth certificates exist under both names. Did Neenie rename him after his father died? What did the 'G' stand for (guessed George)? John asks 'where did Edward come from?' [Family research emails, email 17, 31]"
+    "Open question: George Francis Adams Sr. appears as Edward G. in the 1920 census, and Oregon birth certificates exist under both names. Did Neenie rename him after his father died? What did the 'G' stand for (guessed George)? John asks 'where did Edward come from?' [Family research emails, email 17, 31]",
+    "The 1920 census of his parents' household in Douglas County, Oregon, lists a son \"Edward G. Adams\", aged 3 years 9 months (born about 1916-17, Oregon), and no other young son; George, born 10 Mar 1916, would have been 3 years 10 months. The emails say Oregon birth certificates exist under both names. Brendan Adams doubts they are the same person; left open. [1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)]"
    ]
   },
   {
@@ -15127,13 +15166,13 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "bap 3 Nov 1741",
+    "year": 1741,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1799",
+    "year": 1799,
     "qualifier": null
    },
    "living": false,
@@ -15153,8 +15192,14 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
     "hamilton_francis",
-    "hamilton_gavin_mauchline"
+    "hamilton_jacobina_1750",
+    "hamilton_gavin_mauchline",
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
    ],
    "families": [],
    "parent_family": "F_hamilton_john_of_kype+young_jacobina",
@@ -15163,18 +15208,24 @@
    "priority": "normal",
    "locations": [
     "Prince George’s County, MD",
-    "Piscataway, MD"
+    "Piscataway, MD",
+    "Maryland"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Baptized 3 Nov 1741, Mauchline, Ayrshire, Scotland",
+    "Died 1799, Maryland",
+    "Married Susan"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
+    "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
    ],
    "notes": [
     "Brother of Francis Hamilton (#158); register number 316.1. Fled from Prince George’s County to his brother’s place at Keeptrist in 1777. His letters and will name Francis’s children; his nephew John Alexander (\"Jacky\") lived with him at Piscataway in 1784."
@@ -15630,6 +15681,65 @@
    ]
   },
   {
+   "id": "hamilton_charlotte_kype",
+   "name": "Charlotte Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "murdoch_barbara",
+   "parents": [
+    "hamilton_john_of_kype",
+    "murdoch_barbara"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_thomas_1762",
+    "hamilton_grace_1767",
+    "hamilton_william_1769"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+murdoch_barbara",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his second wife, Barbara Murdoch. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
    "id": "hamilton_daniel_1849",
    "name": "Daniel Hamilton",
    "aliases": [],
@@ -16036,6 +16146,70 @@
    ]
   },
   {
+   "id": "hamilton_elizabeth_kype",
+   "name": "Elizabeth Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "young_jacobina",
+   "parents": [
+    "hamilton_john_of_kype",
+    "young_jacobina"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
+    "hamilton_francis",
+    "hamilton_jacobina_1750",
+    "hamilton_gavin_mauchline",
+    "hamilton_magdalena_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+young_jacobina",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his first wife, Jacobina Young. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
    "id": "hamilton_emma_1867",
    "name": "Emma Hamilton",
    "aliases": [],
@@ -16271,8 +16445,14 @@
     "hamilton_magdalena"
    ],
    "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
+    "hamilton_jacobina_1750",
     "hamilton_gavin_mauchline",
-    "hamilton_alexander_uncle"
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
    ],
    "families": [
     "F_hamilton_francis+hamilton_susan"
@@ -16756,6 +16936,73 @@
    ]
   },
   {
+   "id": "hamilton_gavin_1732",
+   "name": "Gavin Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "bap 16 Dec 1732",
+    "year": 1732,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "young_jacobina",
+   "parents": [
+    "hamilton_john_of_kype",
+    "young_jacobina"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
+    "hamilton_francis",
+    "hamilton_jacobina_1750",
+    "hamilton_gavin_mauchline",
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+young_jacobina",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Baptized 16 Dec 1732",
+    "Died in infancy"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his first wife, Jacobina Young. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
    "id": "hamilton_gavin_1840",
    "name": "Gavin Hamilton",
    "aliases": [],
@@ -16927,8 +17174,14 @@
    ],
    "children": [],
    "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
     "hamilton_francis",
-    "hamilton_alexander_uncle"
+    "hamilton_jacobina_1750",
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
    ],
    "families": [
     "F_hamilton_gavin_mauchline+kennedy_helen"
@@ -16947,7 +17200,8 @@
    "notable_stories": [
     "Friend and patron of the poet Robert Burns. From Martinmas 1784 he sublet Mossgiel farm to Robert and Gilbert Burns, urged Robert to publish his poems by subscription, and was the dedicatee of the 1786 Kilmarnock edition.",
     "In March 1788 he asked Burns to stand guarantor for a large sum owed by Gilbert Burns; Burns declined, but the friendship survived.",
-    "His house and office beside the churchyard at Mauchline were nicknamed \"the Castle\"."
+    "His house and office beside the churchyard at Mauchline were nicknamed \"the Castle\".",
+    "Robert Burns’s first book, Poems, Chiefly in the Scottish Dialect (the Kilmarnock volume, printed by John Wilson, 31 July 1786, 600 copies), was dedicated to him. Burns, short of money for a passage to the West Indies, published by subscription at his suggestion."
    ],
    "risk_events": [],
    "milestones": [
@@ -16956,7 +17210,9 @@
     "Buried in Mauchline kirkyard; at his request there was no headstone, and the Partick Burns Club placed a plaque on his grave in 1919",
     "Married Helen Kennedy",
     "Religion: a \"New Licht\" liberal, pursued by the Rev. William \"Daddy\" Auld and the Kirk Session; the Presbytery of Ayr found in his favour (25 June 1785)",
-    "Freemason"
+    "Freemason",
+    "Baptized 20 Nov 1751",
+    "Died 5 Feb 1805"
    ],
    "education": [],
    "career": [
@@ -16965,7 +17221,9 @@
     "Collector of the stent, the Kirk Session’s poor-relief levy (1775)"
    ],
    "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Info on Gavin Hamilton & Robert Burns (Wikipedia extracts on Mauchline and the Kilmarnock volume), sent with the family emails",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
    ],
    "notes": [
     "Fifth son of John Hamilton of Kype and his first wife, Jacobina Young, per the Burns Encyclopedia text sent in the emails; so a brother of Francis Hamilton (b. 1743), not a direct ancestor. He had eight children, and half-brothers and half-sisters whom he had not seen for years when they were at Harvieston in 1787. [Family research emails, email 21, 22]",
@@ -16973,7 +17231,8 @@
     "Open question: Hamilton Gavins: there are many Gavins in the line; Bill guesses the Gavin in later documents is the elder Francis's son. Gavin of Mauchline was thought to be Eliza's father (Uncle Ralph's version), but he was too old. [Family research emails, email 07, 42]",
     "Open question: The source text garbles the year Burns met Gavin Hamilton ('Autumn of 177783', probably 1783). [Family research emails, email 21, 22]",
     "Open question: Email 20 says Gavin Hamilton, Robert Burns's friend, was the father of Mary/Eliza and Francis. Email 29 (George) thinks that timeline is too long: they may be his grandchildren or children of an American Gavin. Emails 35 and 36 (John) found no Francis born to a Gavin in Scotland between 1710 and 1800 and no Gavin old enough to be grandfather. [Family research emails, email 20, 29, 35, 36]",
-    "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]"
+    "Open question: John could not confirm Gavin as the father of the Francis purported to be Elizabeth's father (the tree's Francis Hamilton, husband of Susan). [Family research emails, email 36]",
+    "Russ Bralley's chart: baptized 20 Nov 1751; conveyed a lease of Mossgiel to Gilbert Burns and his brother Robert at Whitsunday 1788; married Helen Kennedy of Daljarrock, daughter of Robert Kennedy, parish of Colmonell, by Grizel Cathcart; died 5 Feb 1805 and buried in Mauchline churchyard. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
    ]
   },
   {
@@ -17116,6 +17375,67 @@
    ],
    "notes": [
     "Register number 158.1e."
+   ]
+  },
+  {
+   "id": "hamilton_grace_1767",
+   "name": "Grace Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "bap 5 Feb 1767",
+    "year": 1767,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "murdoch_barbara",
+   "parents": [
+    "hamilton_john_of_kype",
+    "murdoch_barbara"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_thomas_1762",
+    "hamilton_william_1769",
+    "hamilton_charlotte_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+murdoch_barbara",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Baptized 5 Feb 1767"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his second wife, Barbara Murdoch. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
    ]
   },
   {
@@ -17366,6 +17686,73 @@
    ]
   },
   {
+   "id": "hamilton_jacobina_1750",
+   "name": "Jacobina Hamilton (Reid)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "bap 14 Jan 1750",
+    "year": 1750,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "young_jacobina",
+   "parents": [
+    "hamilton_john_of_kype",
+    "young_jacobina"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
+    "hamilton_francis",
+    "hamilton_gavin_mauchline",
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+young_jacobina",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Baptized 14 Jan 1750",
+    "Married Patrick Reid, a West India merchant"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his first wife, Jacobina Young. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
    "id": "hamilton_james_1844",
    "name": "James Hamilton",
    "aliases": [],
@@ -17427,6 +17814,75 @@
     "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
    ],
    "notes": []
+  },
+  {
+   "id": "hamilton_john_1739",
+   "name": "John Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "bap 5 Nov 1739",
+    "year": 1739,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "young_jacobina",
+   "parents": [
+    "hamilton_john_of_kype",
+    "young_jacobina"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_alexander_uncle",
+    "hamilton_francis",
+    "hamilton_jacobina_1750",
+    "hamilton_gavin_mauchline",
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+young_jacobina",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Baptized 5 Nov 1739",
+    "Moved to Virginia"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his first wife, Jacobina Young. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
   },
   {
    "id": "hamilton_john_1c",
@@ -17722,8 +18178,8 @@
    "card_name": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "bap 11 Jun 1708",
+    "year": 1708,
     "qualifier": null
    },
    "death": {
@@ -17743,16 +18199,28 @@
    "mother": null,
    "parents": [],
    "spouses": [
-    "young_jacobina"
+    "young_jacobina",
+    "murdoch_barbara"
    ],
    "children": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
     "hamilton_francis",
+    "hamilton_jacobina_1750",
     "hamilton_gavin_mauchline",
-    "hamilton_alexander_uncle"
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype",
+    "hamilton_thomas_1762",
+    "hamilton_grace_1767",
+    "hamilton_william_1769",
+    "hamilton_charlotte_kype"
    ],
    "siblings": [],
    "families": [
-    "F_hamilton_john_of_kype+young_jacobina"
+    "F_hamilton_john_of_kype+young_jacobina",
+    "F_hamilton_john_of_kype+murdoch_barbara"
    ],
    "parent_family": null,
    "connected": true,
@@ -17777,19 +18245,24 @@
    "milestones": [
     "Death: before 1800",
     "Lawyer and clerk to the regality of Mauchline",
-    "Father of Francis Hamilton"
+    "Father of Francis Hamilton",
+    "Baptized 11 Jun 1708",
+    "Married Jacobina Young (m. 1732)",
+    "Married Barbara Murdoch (m. 21 Sep 1761)"
    ],
    "education": [],
    "career": [
     "Lawyer",
     "Clerk to the regality of Mauchline",
-    "John Hamilton of Kype was a major investor in John Semple's Virginia business, including the Keep Triste iron furnace. (abt 1764)"
+    "John Hamilton of Kype was a major investor in John Semple's Virginia business, including the Keep Triste iron furnace. (abt 1764)",
+    "Appointed Clerk to the Regality of Mauchline, about 1730"
    ],
    "sources": [
     "family_data_v1",
     "Family letters in Bill Allen’s family document",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
    ],
    "notes": [
     "Father of Francis Hamilton, who is father of Elizabeth Hamilton (wife of Jose Pierre Adams). Robert Burns connection.",
@@ -17800,7 +18273,8 @@
     "Unconfirmed: Gavin Hamilton's father and mother were rebuked by the Kirk Session before their marriage for conceiving a child out of wedlock. [Family research emails, email 22]",
     "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]",
     "Open question: Keep Triste Furnace / Harper's Ferry foundry: the author of the Jefferson County history said he would send more on Francis Hamilton; follow up. [Family research emails, email 06]",
-    "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
+    "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]",
+    "Russ Bralley's chart places him as the son of Gavin Hamilton of Kype (mentioned 1670) in a line of Hamiltons of Kype in Lanarkshire going back to about 1600; not yet added to the tree. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
    ]
   },
   {
@@ -18057,6 +18531,137 @@
    ],
    "notes": [
     "Register number 158.7. First wife of Walter Baker."
+   ]
+  },
+  {
+   "id": "hamilton_magdalena_kype",
+   "name": "Magdalena Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "young_jacobina",
+   "parents": [
+    "hamilton_john_of_kype",
+    "young_jacobina"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
+    "hamilton_francis",
+    "hamilton_jacobina_1750",
+    "hamilton_gavin_mauchline",
+    "hamilton_elizabeth_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+young_jacobina",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his first wife, Jacobina Young. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
+   "id": "hamilton_mary_1734",
+   "name": "Mary Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "11 May 1734",
+    "year": 1734,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "young_jacobina",
+   "parents": [
+    "hamilton_john_of_kype",
+    "young_jacobina"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_gavin_1732",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
+    "hamilton_francis",
+    "hamilton_jacobina_1750",
+    "hamilton_gavin_mauchline",
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+young_jacobina",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 11 May 1734",
+    "Died young"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his first wife, Jacobina Young. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
    ]
   },
   {
@@ -18797,6 +19402,68 @@
    ]
   },
   {
+   "id": "hamilton_thomas_1762",
+   "name": "Thomas Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "9 Aug 1762",
+    "year": 1762,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "murdoch_barbara",
+   "parents": [
+    "hamilton_john_of_kype",
+    "murdoch_barbara"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_grace_1767",
+    "hamilton_william_1769",
+    "hamilton_charlotte_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+murdoch_barbara",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 9 Aug 1762",
+    "Died young"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his second wife, Barbara Murdoch. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
    "id": "hamilton_thomas_w",
    "name": "Thomas W. Hamilton",
    "aliases": [],
@@ -18873,6 +19540,69 @@
    ],
    "notes": [
     "Register number 158.1d. Mary Ann Meeks was too young to be the mother of his first child, so he may have married earlier."
+   ]
+  },
+  {
+   "id": "hamilton_william_1769",
+   "name": "William Hamilton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "bap 21 Dec 1769",
+    "year": 1769,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": false,
+   "lineages": [
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "hamilton_john_of_kype",
+   "mother": "murdoch_barbara",
+   "parents": [
+    "hamilton_john_of_kype",
+    "murdoch_barbara"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hamilton_thomas_1762",
+    "hamilton_grace_1767",
+    "hamilton_charlotte_kype"
+   ],
+   "families": [],
+   "parent_family": "F_hamilton_john_of_kype+murdoch_barbara",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Baptized 21 Dec 1769"
+   ],
+   "education": [],
+   "career": [
+    "Studied with John Tait of Harvieston, husband of his late aunt Charlotte Murdoch; admitted Writer to the Signet, 1793"
+   ],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Child of John Hamilton of Kype and his second wife, Barbara Murdoch. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
    ]
   },
   {
@@ -21121,10 +21851,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
    ],
    "notes": [
-    "Wife of Gavin Hamilton of Mauchline. Her objections led him to sublet Mossgiel farm to Robert Burns rather than use it as a summer retreat. [Family research emails, email 21]"
+    "Wife of Gavin Hamilton of Mauchline. Her objections led him to sublet Mossgiel farm to Robert Burns rather than use it as a summer retreat. [Family research emails, email 21]",
+    "Of Daljarrock; daughter of Robert Kennedy, parish of Colmonell, and Grizel Cathcart. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
    ]
   },
   {
@@ -28380,6 +29112,67 @@
    ]
   },
   {
+   "id": "murdoch_barbara",
+   "name": "Barbara Murdoch (Hamilton)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "1730",
+    "year": 1730,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "hamilton",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hamilton_john_of_kype"
+   ],
+   "children": [
+    "hamilton_thomas_1762",
+    "hamilton_grace_1767",
+    "hamilton_william_1769",
+    "hamilton_charlotte_kype"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hamilton_john_of_kype+murdoch_barbara"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married John Hamilton of Kype (m. 21 Sep 1761)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Fifth daughter of Thomas Murdoch of Cumloden and Elizabeth Cochrane; second wife of John Hamilton of Kype. Her sister Charlotte married John Tait of Harvieston. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
    "id": "muriel_wife_of_fay_allen",
    "name": "Muriel",
    "aliases": [],
@@ -34671,6 +35464,62 @@
    ]
   },
   {
+   "id": "simpson_mary",
+   "name": "Mary Simpson (Young)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "young_john"
+   ],
+   "children": [
+    "young_jacobina"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simpson_mary+young_john"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Wife of John Young and mother of Jacobina Young. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+   ]
+  },
+  {
    "id": "sinclair_mary",
    "name": "Mary Sinclair",
    "aliases": [],
@@ -36543,7 +37392,9 @@
     "Following the 1920 death of George Francis Adams, she remarried Arthur Wells in 1929 and raised her children in San Francisco",
     "Married George Francis Adams (#2) (7 January 1909, Lewis County, WA)",
     "Married Arthur Wells (m. abt 1929, San Francisco, CA)",
-    "Parents: Presley Neville Trumbo (1840–1923) and Hannah Louise Buckley"
+    "Parents: Presley Neville Trumbo (1840–1923) and Hannah Louise Buckley",
+    "Census 1920: Douglas County, Oregon, aged 30, born Washington",
+    "Census 1940: San Francisco, California, as Serena M. M. Wells, aged 50, wife of Arthur T. Wells"
    ],
    "education": [],
    "career": [],
@@ -36554,7 +37405,9 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "Family letters in Bill Allen’s family document",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
+    "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)"
    ],
    "notes": [
     "Nicknamed Nini",
@@ -37627,7 +38480,9 @@
   {
    "id": "wells_arthur",
    "name": "Arthur Wells",
-   "aliases": [],
+   "aliases": [
+    "Arthur T. Wells"
+   ],
    "photo": null,
    "card_name": null,
    "media": [],
@@ -37654,7 +38509,8 @@
     "trumbo_serena_marie"
    ],
    "children": [
-    "wells_rosemary"
+    "wells_rosemary",
+    "wells_daphne"
    ],
    "siblings": [],
    "families": [
@@ -37666,7 +38522,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "San Francisco, CA"
+    "San Francisco, CA",
+    "New Zealand"
    ],
    "personality": [],
    "roles": [],
@@ -37678,19 +38535,78 @@
    "risk_events": [],
    "milestones": [
     "Married Serena Marie Nevada Trumbo (m. abt 1929, San Francisco, CA)",
-    "Born 1890"
+    "Born 1890",
+    "Census 1940: San Francisco, California, aged 49, born New Zealand, with his wife Serena, stepson George Adams and daughter Daphne (15)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Family letters in Bill Allen’s family document"
+    "Family letters in Bill Allen’s family document",
+    "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)"
    ],
    "notes": [
     "Remarried Serena Marie Nevada Trumbo in 1929 after the death of George Francis Adams (#2).",
     "Death: ~1963-64 per this source (when John Adams was in 11th grade).",
     "Step-father of George Francis Adams Sr. Biological father of Rosemary Wells."
+   ]
+  },
+  {
+   "id": "wells_daphne",
+   "name": "Daphne Wells",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "abt 1925",
+    "year": 1925,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "wells_arthur",
+   "mother": null,
+   "parents": [
+    "wells_arthur"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "wells_rosemary"
+   ],
+   "families": [],
+   "parent_family": "F_wells_arthur",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "California",
+    "San Francisco, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)"
+   ],
+   "notes": [
+    "Daughter of Arthur T. Wells, aged 15 and born in California in the 1940 census of his San Francisco household, with her stepmother Serena and stepbrother George Adams. [1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)]"
    ]
   },
   {
@@ -37727,7 +38643,9 @@
    "children": [
     "odell_louise"
    ],
-   "siblings": [],
+   "siblings": [
+    "wells_daphne"
+   ],
    "families": [
     "F_odell_ralph+wells_rosemary"
    ],
@@ -39044,8 +39962,8 @@
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "21 Jul 1753",
+    "year": 1753,
     "qualifier": null
    },
    "living": false,
@@ -39054,22 +39972,31 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "young_john",
+   "mother": "simpson_mary",
+   "parents": [
+    "simpson_mary",
+    "young_john"
+   ],
    "spouses": [
     "hamilton_john_of_kype"
    ],
    "children": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
     "hamilton_francis",
+    "hamilton_jacobina_1750",
     "hamilton_gavin_mauchline",
-    "hamilton_alexander_uncle"
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
    ],
    "siblings": [],
    "families": [
     "F_hamilton_john_of_kype+young_jacobina"
    ],
-   "parent_family": null,
+   "parent_family": "F_simpson_mary+young_john",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -39082,16 +40009,75 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married John Hamilton of Kype"
+    "Married John Hamilton of Kype",
+    "Married John Hamilton of Kype (m. 1732)",
+    "Died 21 Jul 1753"
    ],
    "education": [],
    "career": [],
    "sources": [
     "family_data_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
    ],
    "notes": [
     "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
+   ]
+  },
+  {
+   "id": "young_john",
+   "name": "John Young",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simpson_mary"
+   ],
+   "children": [
+    "young_jacobina"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simpson_mary+young_john"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+   ],
+   "notes": [
+    "Father of Jacobina Young; married Mary Simpson. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
    ]
   },
   {
@@ -41155,17 +42141,37 @@
    "marriage": "22 Jun 1795, Frederick County, MD"
   },
   {
+   "id": "F_hamilton_john_of_kype+murdoch_barbara",
+   "partners": [
+    "hamilton_john_of_kype",
+    "murdoch_barbara"
+   ],
+   "children": [
+    "hamilton_thomas_1762",
+    "hamilton_grace_1767",
+    "hamilton_william_1769",
+    "hamilton_charlotte_kype"
+   ],
+   "marriage": "21 Sep 1761"
+  },
+  {
    "id": "F_hamilton_john_of_kype+young_jacobina",
    "partners": [
     "hamilton_john_of_kype",
     "young_jacobina"
    ],
    "children": [
+    "hamilton_gavin_1732",
+    "hamilton_mary_1734",
+    "hamilton_john_1739",
+    "hamilton_alexander_uncle",
     "hamilton_francis",
+    "hamilton_jacobina_1750",
     "hamilton_gavin_mauchline",
-    "hamilton_alexander_uncle"
+    "hamilton_elizabeth_kype",
+    "hamilton_magdalena_kype"
    ],
-   "marriage": null
+   "marriage": "1732"
   },
   {
    "id": "F_hamilton_lona_belle+mccoy_ulysses_g",
@@ -41797,6 +42803,17 @@
    "marriage": null
   },
   {
+   "id": "F_simpson_mary+young_john",
+   "partners": [
+    "simpson_mary",
+    "young_john"
+   ],
+   "children": [
+    "young_jacobina"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_swan_lewis",
    "partners": [
     "swan_lewis"
@@ -41831,7 +42848,8 @@
     "wells_arthur"
    ],
    "children": [
-    "wells_rosemary"
+    "wells_rosemary",
+    "wells_daphne"
    ],
    "marriage": null
   },
@@ -42732,6 +43750,47 @@
    ],
    "files": [
     "media/mary-hanks-grinnell.jpg"
+   ]
+  },
+  {
+   "id": "gfa1-obituary-1896",
+   "kind": "document",
+   "title": "Obituary of George Francis Adams (#1), Castle Rock Journal, 12 Aug 1896",
+   "caption": "Page 4, signed \"A Friend\". From the Colorado Historic Newspapers collection, printed 10 Nov 2011.",
+   "source": "Colorado Historic Newspapers; sent by the Colorado Division SCV, 2011.",
+   "people": [
+    "adams_george_francis_1"
+   ],
+   "files": [
+    "media/gfa1-obituary-1896.pdf"
+   ]
+  },
+  {
+   "id": "chariton-county-plat-1880",
+   "kind": "document",
+   "title": "Plat map of Township 56 North, Range 19 West, Chariton County, Missouri, about 1880",
+   "caption": "Northwest corner of the county, north of Rothville. Bill Allen highlighted the parcels of G. P. Allen, J. W. Adams, C. C. Clark and the Willett family, who raised Clay Clark.",
+   "source": "Bill Allen, 2011.",
+   "people": [
+    "allen_george_philemon",
+    "adams_john_wesley",
+    "clark_clay_c"
+   ],
+   "files": [
+    "media/chariton-county-plat-1880.pdf"
+   ]
+  },
+  {
+   "id": "virginia-general-assembly-list",
+   "kind": "document",
+   "title": "Members of the Virginia General Assembly, 1776–1918",
+   "caption": "From the Thirteenth Annual Report of the Library Board of the Virginia State Library, 1915–1916 (Richmond, 1917). Lists \"Adams, Joseph P. House, 1824/25, Morgan.\"",
+   "source": "Virginia State Library, 1917 (digitized by Google).",
+   "people": [
+    "adams_jose_pierre"
+   ],
+   "files": [
+    "media/virginia-general-assembly-list.pdf"
    ]
   }
  ]

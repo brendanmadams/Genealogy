@@ -8,7 +8,9 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Census 1920: Douglas County, Oregon, aged 9, born Oregon"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -31,11 +33,15 @@
     "adams_direct_line_summary_v1",
     "family_data_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
-    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
   ],
   "notes": [
     "Sibling of George Francis Adams Sr. (child of George Francis Adams #2 and Serena Trumbo). Previously listed as 'Presley Marcason Adams' in prior sources.",
     "Precise birth and death dates newly established. Sibling of George Francis Adams Sr.",
     "Pictured in a family photograph c. 1919 with his family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]"
+  ],
+  "aliases": [
+    "Presley N. Adams"
   ]
 }

@@ -2,26 +2,34 @@
   "id": "young_jacobina",
   "name": "Jacobina Young",
   "birth": "",
-  "death": "",
+  "death": "21 Jul 1753",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married John Hamilton of Kype"
+    "Married John Hamilton of Kype",
+    "Married John Hamilton of Kype (m. 1732)",
+    "Died 21 Jul 1753"
   ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "simpson_mary",
+    "father": "young_john",
     "siblings": [],
     "spouse": "hamilton_john_of_kype",
     "children": [
       "hamilton_francis",
       "hamilton_alexander_uncle",
-      "hamilton_gavin_mauchline"
+      "hamilton_gavin_mauchline",
+      "hamilton_gavin_1732",
+      "hamilton_mary_1734",
+      "hamilton_john_1739",
+      "hamilton_elizabeth_kype",
+      "hamilton_magdalena_kype",
+      "hamilton_jacobina_1750"
     ]
   },
   "locations": [
@@ -29,9 +37,11 @@
   ],
   "sources": [
     "family_data_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
   ],
   "notes": [
     "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
-  ]
+  ],
+  "aliases": []
 }

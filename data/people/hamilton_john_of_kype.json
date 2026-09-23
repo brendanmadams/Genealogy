@@ -1,7 +1,7 @@
 {
   "id": "hamilton_john_of_kype",
   "name": "John Hamilton of Kype",
-  "birth": "",
+  "birth": "bap 11 Jun 1708",
   "death": "before 1800",
   "personality": [],
   "roles": [
@@ -17,13 +17,17 @@
   "milestones": [
     "Death: before 1800",
     "Lawyer and clerk to the regality of Mauchline",
-    "Father of Francis Hamilton"
+    "Father of Francis Hamilton",
+    "Baptized 11 Jun 1708",
+    "Married Jacobina Young (m. 1732)",
+    "Married Barbara Murdoch (m. 21 Sep 1761)"
   ],
   "education": [],
   "career": [
     "Lawyer",
     "Clerk to the regality of Mauchline",
-    "John Hamilton of Kype was a major investor in John Semple's Virginia business, including the Keep Triste iron furnace. (abt 1764)"
+    "John Hamilton of Kype was a major investor in John Semple's Virginia business, including the Keep Triste iron furnace. (abt 1764)",
+    "Appointed Clerk to the Regality of Mauchline, about 1730"
   ],
   "relationships": {
     "mother": "",
@@ -33,7 +37,20 @@
     "children": [
       "hamilton_francis",
       "hamilton_alexander_uncle",
-      "hamilton_gavin_mauchline"
+      "hamilton_gavin_mauchline",
+      "hamilton_gavin_1732",
+      "hamilton_mary_1734",
+      "hamilton_john_1739",
+      "hamilton_elizabeth_kype",
+      "hamilton_magdalena_kype",
+      "hamilton_jacobina_1750",
+      "hamilton_thomas_1762",
+      "hamilton_charlotte_kype",
+      "hamilton_grace_1767",
+      "hamilton_william_1769"
+    ],
+    "_extra_spouses": [
+      "murdoch_barbara"
     ]
   },
   "locations": [
@@ -45,7 +62,8 @@
     "family_data_v1",
     "Family letters in Bill Allen’s family document",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
   ],
   "notes": [
     "Father of Francis Hamilton, who is father of Elizabeth Hamilton (wife of Jose Pierre Adams). Robert Burns connection.",
@@ -56,6 +74,8 @@
     "Unconfirmed: Gavin Hamilton's father and mother were rebuked by the Kirk Session before their marriage for conceiving a child out of wedlock. [Family research emails, email 22]",
     "Open question: Generation count: email 06 calls John Hamilton of Kype the g.g.g.g. grandfather; email 07 corrects this to Francis Hamilton as g.g.g.g. and John as g.g.g.g.g. [Family research emails, email 06, 07]",
     "Open question: Keep Triste Furnace / Harper's Ferry foundry: the author of the Jefferson County history said he would send more on Francis Hamilton; follow up. [Family research emails, email 06]",
-    "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]"
-  ]
+    "Open question: The Burns Encyclopedia makes Gavin Hamilton (1751-1805) the 5th son of John Hamilton of Kype and Jacobina Young. The tree gives this couple only two sons, Francis (b. 1743) and Alexander, and has no Gavin born 1751. Add Gavin as Francis Hamilton's brother? Also, John Hamilton of Kype had a second wife (Gavin had half-siblings) who is not in the tree. [Family research emails, email 21, 22]",
+    "Russ Bralley's chart places him as the son of Gavin Hamilton of Kype (mentioned 1670) in a line of Hamiltons of Kype in Lanarkshire going back to about 1600; not yet added to the tree. [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]"
+  ],
+  "aliases": []
 }
