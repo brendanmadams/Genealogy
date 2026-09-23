@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T01:29:30.648Z",
+  "generated": "2026-09-23T01:29:46.082Z",
   "people": 289,
   "family_members": 238,
   "dna_matches": 51,
@@ -16041,8 +16041,8 @@
     "simons_mary"
    ],
    "children": [
-    "simons_ann",
-    "simons_ed"
+    "simons_ed",
+    "simons_ann"
    ],
    "siblings": [
     "beryl_simons_adams",
@@ -16586,8 +16586,8 @@
     "simons_glen"
    ],
    "children": [
-    "simons_ann",
-    "simons_ed"
+    "simons_ed",
+    "simons_ann"
    ],
    "siblings": [],
    "families": [
@@ -20542,8 +20542,8 @@
     "simons_mary"
    ],
    "children": [
-    "simons_ann",
-    "simons_ed"
+    "simons_ed",
+    "simons_ann"
    ],
    "marriage": null
   },
