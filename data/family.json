@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T20:20:18.919Z",
+  "generated": "2026-09-23T20:29:48.471Z",
   "people": 623,
   "family_members": 573,
   "dna_matches": 50,
@@ -9339,12 +9339,8 @@
     "Lived at the Presidio, San Francisco, while her husband served there as a military police officer",
     "Born 25 Dec 1919, Whatcom County, WA",
     "Died 1 Aug 1998, Sacramento, Sacramento County, CA",
-    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
     "During WWII Beryl first followed George to his training posts, then lived with her family in Pasco while he served in Hawaii; she lived in Pasco again with the children in 1952 while he went ahead to Okinawa.",
-    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
-    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
-    "Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington",
-    "Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington"
+    "Married Bob Shriver (m. after 1980); they lived on a golf course in Olympia, Washington"
    ],
    "education": [
     "Beryl was an elementary school student of Amy Kulp and Alice Burk in Whatcom County."
@@ -9833,10 +9829,7 @@
    "notes": [
     "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).",
     "Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother. [Barbara McKeldin Adams, A Memoir, text line 3677]",
-    "Surname Shriver per Brendan Adams, who is fairly but not entirely sure of it.",
-    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).",
-    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).",
-    "Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998)."
+    "Surname Shriver per Brendan Adams, who is fairly but not entirely sure of it."
    ]
   },
   {
@@ -13386,7 +13379,8 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Mother of Randy and Robin Falde. Married first Roger Falde, then “Bugs” Oden."
+    "Mother of Randy and Robin Falde.",
+    "Married first Roger Falde, then “Bugs” Oden."
    ]
   },
   {
@@ -14644,8 +14638,7 @@
     "Describes George II (George Francis Adams, husband of Serena Trumbo) as 'our grandpa'. [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 2915]",
     "George F. Adams (Jr.) is a grandson of George F. Adams (#2). [Family research emails, email 37]",
     "Unconfirmed: Charlie Hogan understands that he is a member of the Sons of Confederate Veterans. [Family research emails, email 05]",
-    "George left home at 17, and he and John never again lived in the same area. [John Howard Adams, A Memoir, text line 480]",
-    "George left home at 17, and he and John never again lived in the same area. [Barbara McKeldin Adams, A Memoir, text line 480]"
+    "George left home at 17, and he and John never again lived in the same area. [John Howard Adams, A Memoir, text line 480]"
    ]
   },
   {
@@ -22735,7 +22728,6 @@
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [
-    "As a small child, while her father was at postgraduate school in Monterey, she stayed a long weekend with Uncle John and Aunt Barbara in Gilroy and told her parents tearfully that \"Hims sent me to my room\", which made John \"Uncle Hims\" for good.",
     "Called Jenny. Her aunt Barbara babysat her over a long weekend while Chuck was at school in Monterey.",
     "Jennifer was called Jenny.",
     "As a small child, while her father was at postgraduate school in Monterey, Jenny stayed a long weekend with Uncle John and Aunt Barbara in Gilroy and, when her parents came, announced 'Hims sent me to my room', giving John the lasting nickname Uncle Hims."
@@ -34666,8 +34658,8 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "3 Mar",
-    "year": null,
+    "text": "3 Mar 1980",
+    "year": 1980,
     "qualifier": null
    },
    "death": {
@@ -34675,8 +34667,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -38712,8 +38704,7 @@
     "Open question: Raymond Zell Simons's birth is 7 May 1898 or 14 June 1897 (draft card and 1900 census say June 1897). The SSDI gives a Raymond Simons born 7 May 1899 who died Sept 1976 in Seattle, but the WA Death Index gives 7 May 1977 in Kennewick. Irma suspects a second Raymond Simons [Family research emails, email 14, 50]",
     "Open question: Ray Simons's birthplace is given as Ann Harbor (Ann Arbor), Michigan by Irma, South Haven, Michigan on his WWI draft card, and Washington in the 1930 census [Family research emails, email 50]",
     "Open question: Irma writes that Ray and Dradie were 'neighbors in 1920' but means 1910; they were married by the 1920 census. The elopement to Ritzville is dated Dec 1915, when Dradie was 17 [Family research emails, email 17, 23, 50]",
-    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. [John Howard Adams, A Memoir, text line 594]",
-    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. [Barbara McKeldin Adams, A Memoir, text line 594]"
+    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. [John Howard Adams, A Memoir, text line 594]"
    ]
   },
   {
@@ -45431,7 +45422,7 @@
     "bob_beryl"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "after 1980"
   },
   {
    "id": "F_beryl_simons_adams+george_francis_adams_sr",

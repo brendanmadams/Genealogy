@@ -57,11 +57,21 @@ export function renderPanel(container, D, p, rel = {}) {
   // family
   const parents = D.parents(p);
   const sibs = D.siblings(p);
-  const partnerBlocks = D.partnerFamilies(p).map(f => {
+  // several marriages: number them in order (marriage year, else the eldest
+  // child's birth, else the order in the record) so each block is clear on its own
+  const fams = D.partnerFamilies(p);
+  const yearOf = s => Number((String(s || '').match(/\b(1[5-9]\d\d|20\d\d)\b/) || [])[1]) || null;
+  const when = f => yearOf(f.marriage) ?? Math.min(...f.children.map(id => D.person(id)?.birth?.year || Infinity));
+  const withPartner = fams.filter(f => D.partnerIn(f, p)).map((f, i) => ({ f, i, y: when(f) }))
+    .sort((a, b) => (isFinite(a.y) && isFinite(b.y) ? a.y - b.y : 0) || a.i - b.i).map(x => x.f);
+  const ORDINAL = ['1st', '2nd', '3rd', '4th', '5th'];
+  const partnerBlocks = [...withPartner, ...fams.filter(f => !D.partnerIn(f, p))].map(f => {
     const partner = D.partnerIn(f, p);
     const kids = byBirth(f.children.map(id => D.person(id)).filter(Boolean));
     const head = partner ? chip(partner, f.marriage ? `m. ${f.marriage}` : '') : `<span class="muted">Other parent not recorded</span>`;
-    return `<div class="fam-group"><div class="fam-label">${partner ? 'Spouse' : 'Children'}</div><div class="chips">${head}</div>${kids.length ? `<div class="fam-label sub">Children${partner ? ' together' : ''}</div><div class="chips">${kids.map(k => chip(k)).join('')}</div>` : ''}</div>`;
+    const n = withPartner.indexOf(f);
+    const label = !partner ? 'Children' : withPartner.length > 1 ? `${ORDINAL[n] || `${n + 1}th`} spouse` : 'Spouse';
+    return `<div class="fam-group"><div class="fam-label">${label}</div><div class="chips">${head}</div>${kids.length ? `<div class="fam-label sub">Children${partner ? ' together' : ''}</div><div class="chips">${kids.map(k => chip(k)).join('')}</div>` : ''}</div>`;
   }).join('');
 
   const born = p.birth?.text ? esc(p.birth.text) : '<span class="muted">unknown</span>';

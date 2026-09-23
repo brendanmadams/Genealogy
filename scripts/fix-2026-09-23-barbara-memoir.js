@@ -38,6 +38,7 @@ const wed = (a, b) => { for (const [x, y] of [[a, b], [b, a]]) edit(x, p => { co
 function setDate(id, field, value, src) {
   edit(id, p => {
     if (p[field] === value) return;
+    if (p[field] && p[field].startsWith(value + ' ')) return;   // already more exact (a later year was added)
     if (p[field]) note(p, `CORRECTION 2026-09-23: ${field === 'birth' ? 'Birth' : 'Death'} changed from "${p[field]}" to "${value}", per ${src.startsWith('Brendan') ? 'Brendan Adams' : src}.`);
     p[field] = value;
   }, src);
@@ -69,7 +70,7 @@ edit('camille_remy', p => {
   strip(p, /Hims/);
   if (had) note(p, 'CORRECTION 2026-09-23: Removed the "Uncle Hims" story; it was Chuck McKeldin’s daughter Jenny who gave John Adams that nickname, per Barbara’s memoir and Brendan Adams.');
 });
-edit('jennifer_mckeldin', p => { add(p.aliases, 'Jenny'); add(p.notable_stories, 'As a small child, while her father was at postgraduate school in Monterey, she stayed a long weekend with Uncle John and Aunt Barbara in Gilroy and told her parents tearfully that "Hims sent me to my room", which made John "Uncle Hims" for good.'); }, MEM);
+edit('jennifer_mckeldin', p => { add(p.aliases, 'Jenny'); }, MEM);
 edit('quinn_pat', p => {
   p.notes = p.notes.map(t => t === 'Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn. Sex unknown per source.' ? 'Pat Quinn, a teenager in about 1952; daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Barbara calls her "Aunt Pat".' : t);
 }, MEM);
@@ -95,13 +96,11 @@ wed('stang_mark', 'perusek_dawn');
 child('stang_mark', 'stang_bern', 'quinn_joan');
 edit('quinn_joan', p => { if (p.name === 'Joan Quinn') p.name = 'Joan Quinn (Stang)'; add(p.aliases, 'Joan Stang'); add(p.aliases, 'Joan Hogan'); note(p, `Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her "my aunt Joan Hogan" in one passage, which may point to an earlier marriage.${L(540)}`); }, BA);
 for (const [id, name] of [['stang_kevin', 'Kevin Stang'], ['stang_emily', 'Emily Stang']]) { person(id, name, BA, {}); child(id, 'stang_mark', 'perusek_dawn'); }
-person('bob_beryl', 'Bob', BA, { death: 'bef 1 Aug 1998', notes: ['Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. Surname not recorded. He died before Beryl (1 Aug 1998).', 'Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother.' + L(3677)], locations: ['Olympia, Washington'] });
+person('bob_beryl', 'Bob', BA, { death: 'bef 1 Aug 1998', notes: ['Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).', 'Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother.' + L(3677)], locations: ['Olympia, Washington'] });
 edit('bob_beryl', p => {
   if (p.name === 'Bob') p.name = 'Bob Shriver';
-  p.notes = p.notes.map(t => t.replace(' Surname not recorded. He died', ' He died'));
   note(p, 'Surname Shriver per Brendan Adams, who is fairly but not entirely sure of it.');
 }, MEM);
-edit('beryl_simons_adams', p => { p.milestones = p.milestones.map(t => t === 'Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington' ? 'Married Bob Shriver after 1980; they lived on a golf course in Olympia, Washington' : t); });
 // Brendan Falde's death (Brendan Adams)
 setDate('falde_brendan', 'death', '12 Nov 2020', BA);
 edit('falde_brendan', p => { add(p.milestones, 'Died 12 Nov 2020, in a car accident'); p.notes = p.notes.map(t => t.replace(' Deceased; dates not recorded.', '')); }, BA);
@@ -111,7 +110,7 @@ edit('stang_mark', p => {
   note(p, 'Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his "big cousin". John Q. Stang appears as John Quinn Stang in Allentown. So John is probably Mark’s brother, another son of Bern and Joan (Quinn) Stang; Barbara lists both a John and a Quinn among her cousins. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]');
 }, 'Web research by Claude for Brendan Adams, 2026-09-23 (Legacy.com; people-search listing)');
 wed('beryl_simons_adams', 'bob_beryl');
-edit('beryl_simons_adams', p => { add(p.milestones, 'Married Bob (surname not recorded), after 1980; they lived on a golf course in Olympia, Washington'); add(p.locations, 'Olympia, Washington'); }, BA);
+edit('beryl_simons_adams', p => { p.milestones = p.milestones.filter(t => !/^Married Bob/.test(t)); add(p.milestones, 'Married Bob Shriver (m. after 1980); they lived on a golf course in Olympia, Washington'); add(p.locations, 'Olympia, Washington'); }, BA);
 
 // Adams grandchildren
 setDate('ethan_adams', 'birth', '5 Aug 2002', BA);
