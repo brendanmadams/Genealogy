@@ -1,0 +1,39 @@
+{
+  "id": "cleland_jean",
+  "name": "Jean Cleland (Hamilton)",
+  "birth": "",
+  "death": "bef 9 Apr 1669",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married John Hamilton of West Kype (m. abt 8 Nov 1648)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hamilton_john_west_kype",
+    "children": [
+      "hamilton_gavin_kype_1670",
+      "hamilton_james_1669",
+      "hamilton_john_1669",
+      "hamilton_helen_leiper",
+      "hamilton_katherine_1669",
+      "hamilton_elizabeth_porteous"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+  ],
+  "notes": [
+    "UNPROVEN: from the older Hamilton of Kype line on Russ Bralley's chart. The chart does not document how this line connects to John Hamilton of Kype (bap. 1708), and the compiler himself marked one of its links \"What's the connection?\". [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]",
+    "Called his \"future wife\" on 8 Nov 1648. Her testament was confirmed to her husband on 9 Apr 1669."
+  ],
+  "aliases": []
+}

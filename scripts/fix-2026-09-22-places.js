@@ -55,7 +55,9 @@ for (const id of stamped) {
   const keep = BLOCK.filter(pl => (OWNERS[pl] || []).includes(id));
   p.locations = p.locations.filter(l => !BLOCK.includes(l));
   for (const pl of keep) push(p.locations, pl);
-  note(p, `Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person${keep.length ? ': ' + keep.join('; ') : ''}.`);
+  // No note: the block was a data-processing error, not a finding about the
+  // person (Brendan Adams, 2026-09-23). fix-2026-09-23-family-wide-note.js
+  // removes the notes an earlier version of this script wrote.
   save(id, p); changed.add(id);
 }
 // owners outside the stamped set (none expected, but be safe)

@@ -3,8 +3,8 @@
  * 2026-09-23, from the ten small documents in 00_Raw_Input_Files/images that
  * had not been used, at Brendan Adams's request. Re-runnable.
  *  - Ref.pdf: George Francis Adams (#1)'s obituary, Castle Rock Journal,
- *    12 Aug 1896 (added as a document; his birth date is left for Brendan:
- *    the clean scan reads May 17, the tree has May 11 from an OCR reading).
+ *    12 Aug 1896 (added as a document). Its clean scan reads "May 17, 1816";
+ *    the tree's 11 May came from an OCR reading, so Brendan chose 17 May.
  *  - CharitonCountyPartial_1880.pdf: plat map of Township 56 N, Range 19 W.
  *  - VSL_Report_915.pdf: Virginia General Assembly list (Joseph P. Adams,
  *    House, 1824/25, Morgan).
@@ -12,8 +12,9 @@
  *  - 2012CMDFlyer.docx: date of George #1's grave dedication.
  *  - Info on Gavin Hamilton & Robert Burns.doc: the Kilmarnock edition.
  *  - Lineage+of+Hamilton+of+Kype.doc (Russ Bralley's chart): John Hamilton of
- *    Kype's own family only; the older Kype, Stonehouse and royal lines are
- *    left for Brendan to decide.
+ *    Kype's own family, and (at Brendan's request) the older Kype line back to
+ *    about 1600, every record marked UNPROVEN. The Stonehouse, Raploch, Cadzow
+ *    and royal lines on the chart are left out.
  *  - The Family of Francis & Susan HAMILTON.docx and George F. Adams II
  *    Obituary.docx repeat material already in the tree.
  */
@@ -45,7 +46,9 @@ edit('adams_george_francis_1', p => {
   add(p.milestones, 'Religion: member of the Presbyterian church for 55 years');
   add(p.milestones, 'Grave dedicated at the Colorado Division SCV Confederate Memorial Day observance, Cedar Hill Cemetery, Castle Rock, 21 Apr 2012');
   note(p, `His obituary, signed "A Friend", says he was born in Jefferson County, Virginia; his parents went west in 1833; he went back to Virginia in 1834 and returned to Missouri the same year; fought in the Black Hawk War (printed 1835), enlisted under General Price and Colonel Watson to drive the Mormons from Missouri (printed 1836), and later against the Mexicans to capture Santa Fe; served in the Confederate army under Generals Price, Van Dorn and Magruder; was a large landowner who lived 42 years in Chariton County, Missouri, came to Colorado in 1878 and lived there until his death; his wife died in 1863; he raised his children himself and left four sons and four daughters. [${OBIT}]`);
-  note(p, `Sources disagree on the day of birth: the clean scan of his 1896 obituary (Ref.pdf) reads "May 17, 1816"; the tree's 11 May 1816 comes from the OCR reading of a poorer copy of the same obituary in Bill Allen's document. Left for Brendan to decide.`);
+  p.notes = p.notes.filter(t => !/Left for Brendan to decide\.$/.test(t));
+  if (p.birth === '11 May 1816') p.birth = '17 May 1816';
+  note(p, `CORRECTION 2026-09-23: Birth changed from 11 May 1816 to 17 May 1816. The clean scan of his 1896 obituary (Ref.pdf) reads "May 17, 1816"; 11 May came from the OCR reading of a poorer copy of the same obituary in Bill Allen's document. Decision by Brendan Adams. [${OBIT}]`);
 }, OBIT);
 
 // ── Chariton County plat map, about 1880 ──────────────────────────────────
@@ -117,6 +120,38 @@ for (const [id, name, mother, o] of KIDS) {
   person(id, name, KYPE, { ...o, notes: [`Child of John Hamilton of Kype and ${mother === 'young_jacobina' ? 'his first wife, Jacobina Young' : 'his second wife, Barbara Murdoch'}. [${KYPE}]`] });
   child(id, 'hamilton_john_of_kype', mother);
 }
+
+// ── The older Hamilton of Kype line, marked unproven (Brendan, 2026-09-23) ─
+// Only the Kype line back to about 1600; the Stonehouse, Raploch, Cadzow and
+// royal lines on the same chart are left out.
+const UNP = `UNPROVEN: from the older Hamilton of Kype line on Russ Bralley's chart. The chart does not document how this line connects to John Hamilton of Kype (bap. 1708), and the compiler himself marked one of its links "What's the connection?". [${KYPE}]`;
+const K = (id, name, o = {}) => person(id, name, KYPE, { ...o, notes: [UNP, ...(o.notes || [])] });
+const wed = (a, b) => { edit(a, p => { p.relationships.spouse = b; }); edit(b, p => { p.relationships.spouse = a; }); };
+K('hamilton_john_kype_1611', 'John Hamilton of Kype (d. abt 1611)', { death: 'abt 1611', aliases: ['John Hamilton of Langkype', 'John Hamilton in Kypchapel'], locations: ['Kype, Lanarkshire, Scotland'],
+  notes: ['Executor and legatee of John Hamilton in Glengavill, 2 Feb 1589/90. Probably the John Hamilton in Kypechappel who witnessed the will of Matthew Hamilton in Halls of Glengavill on 30 May 1603, and the John Hamilton in Kyp who owed money to Sir Robert Hamilton of Goslingtoun in 1609. Apparently died about 1611. The chart asks whether he descends from John Hamilton in Halls of Glengavill (d. 1589/90).'] });
+K('hamilton_isobel_kypchapel', 'Isobel Hamilton', { death: 'bef 24 Jun 1611', notes: ['Wife of John Hamilton of Kype. Her testament, dated 23 Feb 1611, was confirmed on 24 Jun 1611 and calls her spouse to John Hamilton in Kypchapel; Mungo Hamilton, cordiner burgess of Glasgow, was cautioner.'] });
+wed('hamilton_john_kype_1611', 'hamilton_isobel_kypchapel');
+K('hamilton_gavin_kype_1649', 'Gavin Hamilton of Kype (d. by 1650)', { death: 'bef 1650', locations: ['Kype, Lanarkshire, Scotland'], notes: ['On 8 Nov 1648 he, his wife Abigail, their son and heir John, and John’s future wife Jean Cleland are mentioned together. Alive 6 Jul 1649; dead by the next year, when his son John succeeded him. A daughter of this family married William Auchinleck in Hessildane, a creditor for her tocher (dowry).'] });
+K('hamilton_hew_kype', 'Hugh (Hew) Hamilton'); K('hamilton_grizzel_kype', 'Grizzel Hamilton');
+for (const k of ['hamilton_gavin_kype_1649', 'hamilton_hew_kype', 'hamilton_grizzel_kype']) child(k, 'hamilton_john_kype_1611', 'hamilton_isobel_kypchapel');
+K('hamilton_abigail', 'Abigail Hamilton', { notes: ['Wife of Gavin Hamilton of Kype; daughter of John Hamilton, Tutor of Stonehouse (born about 1533), through whom the chart continues to the Hamiltons of Stonehouse, Raploch and Cadzow. Those older lines are not in the tree.'] });
+wed('hamilton_gavin_kype_1649', 'hamilton_abigail');
+K('hamilton_john_west_kype', 'John Hamilton of West Kype', { milestones: ['Married Jean Cleland (m. abt 8 Nov 1648)', 'Refused the Test, 1683'], locations: ['West Kype, Lanarkshire, Scotland'], notes: ['Named with his father in 1648 and as a son of Gavin Hamilton of Kype on 6 Jul 1649; "of West Kype" on 18 Jan 1650. Refused the Test in 1683 and was apparently alive in 1688 at his daughter Elizabeth’s wedding.'] });
+K('hamilton_james_rawes', 'James Hamilton in Rawes of Kype', { notes: ['Had a charter in Langkype on 23 Nov 1649, and appears in Rawes of Kype in 1650 and 1658. The chart places him beside John of West Kype, probably a brother.'] });
+for (const k of ['hamilton_john_west_kype', 'hamilton_james_rawes']) child(k, 'hamilton_gavin_kype_1649', 'hamilton_abigail');
+K('cleland_jean', 'Jean Cleland (Hamilton)', { death: 'bef 9 Apr 1669', milestones: ['Married John Hamilton of West Kype (m. abt 8 Nov 1648)'], notes: ['Called his "future wife" on 8 Nov 1648. Her testament was confirmed to her husband on 9 Apr 1669.'] });
+wed('hamilton_john_west_kype', 'cleland_jean');
+const BOND = 'One of the children who were parties to a bond registered 9 Apr 1669.';
+const KK = [
+  ['hamilton_gavin_kype_1670', 'Gavin Hamilton of Kype (fl. 1670)', { notes: [BOND, 'Mentioned with his father on 22 Jun 1670. The chart places John Hamilton of Kype (bap. 1708) as his son; that link is not documented.'] }],
+  ['hamilton_james_1669', 'James Hamilton', { notes: [BOND] }], ['hamilton_john_1669', 'John Hamilton', { notes: [BOND] }],
+  ['hamilton_helen_leiper', 'Helen Hamilton (Leiper)', { milestones: ['Married Thomas Leiper'], notes: [BOND] }],
+  ['hamilton_katherine_1669', 'Katherine Hamilton', { notes: [BOND] }],
+  ['hamilton_elizabeth_porteous', 'Elizabeth Hamilton (Porteous)', { milestones: ['Married James Porteous of Kirktondyke, by contract dated 26 Jul 1688'], notes: [BOND] }],
+];
+for (const [id, name, o] of KK) { K(id, name, o); child(id, 'hamilton_john_west_kype', 'cleland_jean'); }
+child('hamilton_john_of_kype', 'hamilton_gavin_kype_1670', null);
+edit('hamilton_john_of_kype', p => note(p, `UNPROVEN: father given as Gavin Hamilton of Kype (fl. 1670) only on Russ Bralley's chart; the link is not documented. Decision by Brendan Adams to show it, marked unproven. [${KYPE}]`));
 
 // ── media ──────────────────────────────────────────────────────────────────
 const MJ = path.resolve(__dirname, '..', 'data', 'media.json');

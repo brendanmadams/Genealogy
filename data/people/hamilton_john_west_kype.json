@@ -1,0 +1,42 @@
+{
+  "id": "hamilton_john_west_kype",
+  "name": "John Hamilton of West Kype",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Jean Cleland (m. abt 8 Nov 1648)",
+    "Refused the Test, 1683"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hamilton_abigail",
+    "father": "hamilton_gavin_kype_1649",
+    "siblings": [],
+    "spouse": "cleland_jean",
+    "children": [
+      "hamilton_gavin_kype_1670",
+      "hamilton_james_1669",
+      "hamilton_john_1669",
+      "hamilton_helen_leiper",
+      "hamilton_katherine_1669",
+      "hamilton_elizabeth_porteous"
+    ]
+  },
+  "locations": [
+    "West Kype, Lanarkshire, Scotland"
+  ],
+  "sources": [
+    "Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)"
+  ],
+  "notes": [
+    "UNPROVEN: from the older Hamilton of Kype line on Russ Bralley's chart. The chart does not document how this line connects to John Hamilton of Kype (bap. 1708), and the compiler himself marked one of its links \"What's the connection?\". [Lineage of Hamilton of Kype, chart compiled by Russ Bralley (Word document, shared with the family)]",
+    "Named with his father in 1648 and as a son of Gavin Hamilton of Kype on 6 Jul 1649; \"of West Kype\" on 18 Jan 1650. Refused the Test in 1683 and was apparently alive in 1688 at his daughter Elizabeth’s wedding."
+  ],
+  "aliases": []
+}
