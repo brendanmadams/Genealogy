@@ -121,9 +121,19 @@ export function initials(p) {
 }
 
 /** Two display lines for a card: given names / surname(s). */
-export function nameLines(p) {
-  if (Array.isArray(p.card_name) && p.card_name.length) return [p.card_name[0] || '', p.card_name[1] || ''];
-  return cardName(p);
+export function nameLines(p) { return cardNameOptions(p)[0]; }
+
+/**
+ * Card-name candidates, best first. The renderer uses the first that fits:
+ *   1. given / middle names + surname      ("Barbara" / "McKeldin Adams")
+ *   2. given + middle initials / surname   ("Elaine D." / "Simons (Rhinehart)")
+ * A record's card_name override is the only candidate.
+ */
+export function cardNameOptions(p) {
+  if (Array.isArray(p.card_name) && p.card_name.length) return [[p.card_name[0] || '', p.card_name[1] || '']];
+  const short = cardName(p);
+  const long = cardName(p, { middlesWithSurname: true });
+  return long[0] === short[0] && long[1] === short[1] ? [short] : [long, short];
 }
 
 /**
@@ -137,7 +147,7 @@ export function nameLines(p) {
 const SUFFIX = /^(Jr\.?|Sr\.?|I|II|III|IV|V)$/;
 const TITLE = /^(Col\.?|Dr\.?|Rev\.?|Capt\.?|Gen\.?|Lt\.?)$/i;
 const PARTICLE = /^(van|von|de|del|della|der|du|la|le|st\.?|mc|o')$/i;
-export function cardName(p) {
+export function cardName(p, { middlesWithSurname = false } = {}) {
   let name = p.name.trim();
   // trailing "(…)": married name(s) or a label like #1; keep the last married name only
   let trail = '';
@@ -158,9 +168,10 @@ export function cardName(p) {
   const givens = t.slice(0, si);
   const aliases = (p.aliases || []).map(a => a.toLowerCase());
   const wentBy = nick || givens.slice(1).find(g => aliases.some(a => a === g.toLowerCase() || a.startsWith(g.toLowerCase() + ' ')));
-  let given;
+  let given, middles = '';
   if (wentBy) given = wentBy;
+  else if (middlesWithSurname) { given = givens[0]; middles = givens.slice(1).join(' '); }
   else given = [givens[0], ...givens.slice(1).map(g => (g.length <= 2 && g.endsWith('.')) ? g : g[0].toUpperCase() + '.')].join(' ');
-  const line2 = [surname, suffix, trail ? `(${/^#\d+$/.test(trail) ? trail : trail})` : ''].filter(Boolean).join(' ');
+  const line2 = [middles, surname, suffix, trail ? `(${trail})` : ''].filter(Boolean).join(' ');
   return [[title, given].filter(Boolean).join(' '), line2];
 }

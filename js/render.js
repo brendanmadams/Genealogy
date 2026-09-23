@@ -1,6 +1,6 @@
 // Draws a layout (from layout.js) into the SVG and handles pan/zoom.
 import { CARD } from './layout.js';
-import { lifespan, initials, nameLines } from './data.js';
+import { lifespan, initials, cardNameOptions } from './data.js';
 
 const NS = 'http://www.w3.org/2000/svg';
 const el = (tag, attrs = {}, text) => {
@@ -185,8 +185,12 @@ export class Renderer {
 
     // Card name, fitted to the text area: full size, then a little smaller,
     // then shortened with an ellipsis. The full name is in the tooltip.
-    const [l1, l2] = nameLines(p);
     const MAXW = CARD.w - 66 - 8;
+    // first candidate that fits at 12px or larger; otherwise the most compact one
+    const options = cardNameOptions(p);
+    const fits = ([x, y]) => Math.min(fitText(x, MAXW).size, y ? fitText(y, MAXW).size : 13);
+    const clean = ([x, y]) => !fitText(x, MAXW).text.endsWith('…') && !(y && fitText(y, MAXW).text.endsWith('…'));
+    const [l1, l2] = options.find(o => clean(o) && fits(o) >= 12) || options[options.length - 1];
     const f1 = fitText(l1, MAXW), f2 = l2 ? fitText(l2, MAXW) : null;
     const size = Math.min(f1.size, f2 ? f2.size : 13);
     const a = fitText(l1, MAXW, size), b = l2 ? fitText(l2, MAXW, size) : null;
