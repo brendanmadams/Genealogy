@@ -213,7 +213,10 @@ export class Renderer {
       // ancestors continue beyond the generations shown
       g.appendChild(el('path', { class: 'more', d: `M${CARD.w + 6},${CARD.h / 2 - 7} l8,7 l-8,7` }));
     }
-    if (p.living) g.appendChild(el('circle', { class: 'living', cx: CARD.w - 10, cy: 10, r: 3 }));
+    if (p.living_status) {
+      g.appendChild(el('circle', { class: 'living' + (p.living_status === 'assumed' ? ' assumed' : ''), cx: CARD.w - 10, cy: 10, r: 3 }));
+      g.querySelector('title').textContent += p.living_status === 'assumed' ? ' · living (assumed)' : ' · living';
+    }
 
     const pick = () => this.onPick(n.id);
     g.addEventListener('click', pick);

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T14:05:52.468Z",
+  "generated": "2026-09-23T14:14:56.093Z",
   "people": 310,
   "family_members": 259,
   "dna_matches": 51,
@@ -169,6 +169,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -254,6 +255,7 @@
     "qualifier": "after"
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -328,6 +330,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -428,6 +431,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -491,6 +495,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -554,6 +559,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -628,6 +634,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -697,6 +704,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -803,6 +811,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -894,6 +903,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -967,6 +977,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1035,6 +1046,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1098,6 +1110,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1174,6 +1187,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1281,6 +1295,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1374,6 +1389,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1471,6 +1487,7 @@
     "qualifier": "before"
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1549,6 +1566,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1611,6 +1629,7 @@
     "qualifier": "before"
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1683,6 +1702,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1757,6 +1777,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1821,6 +1842,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "obad",
    "branch_by_marriage": false,
    "lineages": [
@@ -1889,6 +1911,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -1970,6 +1993,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2039,6 +2063,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2110,6 +2135,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2185,6 +2211,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2257,6 +2284,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2350,6 +2378,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2430,6 +2459,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2485,6 +2515,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2578,6 +2609,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2649,6 +2681,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2723,6 +2756,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2797,6 +2831,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2875,6 +2910,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2953,6 +2989,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -3034,6 +3071,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -3114,6 +3152,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -3176,6 +3215,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -3247,6 +3287,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -3302,6 +3343,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -3359,6 +3401,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -3413,6 +3456,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -4311,6 +4355,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -4432,6 +4477,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -4486,6 +4532,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -4589,6 +4636,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -4689,6 +4737,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "trumbo",
    "branch_by_marriage": false,
    "lineages": [
@@ -4753,6 +4802,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -4805,6 +4855,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "remy",
    "branch_by_marriage": false,
    "lineages": [
@@ -4889,6 +4940,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -4946,6 +4998,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -5038,6 +5091,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -5098,6 +5152,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -5151,6 +5206,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -5206,6 +5262,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -5258,6 +5315,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -5313,6 +5371,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -5373,6 +5432,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "remy",
    "branch_by_marriage": false,
    "lineages": [
@@ -5447,6 +5507,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -5567,6 +5628,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -5619,6 +5681,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -5679,6 +5742,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -5736,6 +5800,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -5795,6 +5860,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -5854,6 +5920,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -5906,6 +5973,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -5961,6 +6029,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "smith",
    "branch_by_marriage": false,
    "lineages": [
@@ -6033,6 +6102,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -6085,6 +6155,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -6140,6 +6211,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -6192,6 +6264,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -6247,6 +6320,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -6300,6 +6374,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -6364,6 +6439,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "schriefer",
    "branch_by_marriage": false,
    "lineages": [
@@ -6458,6 +6534,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
@@ -6530,6 +6607,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -6609,6 +6687,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "schriefer",
    "branch_by_marriage": false,
    "lineages": [
@@ -6686,6 +6765,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -6744,6 +6824,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -6796,6 +6877,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -6860,6 +6942,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -6912,6 +6995,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -6971,6 +7055,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "obad",
    "branch_by_marriage": false,
    "lineages": [
@@ -7039,6 +7124,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7121,6 +7207,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7201,6 +7288,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7277,6 +7365,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "smith",
    "branch_by_marriage": false,
    "lineages": [
@@ -7335,6 +7424,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7414,6 +7504,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7482,6 +7573,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7566,6 +7658,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7662,6 +7755,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7787,6 +7881,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -7884,6 +7979,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -7936,6 +8032,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -7997,6 +8094,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -8049,6 +8147,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -8120,6 +8219,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": true,
    "lineages": [],
@@ -8178,6 +8278,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "grief",
    "branch_by_marriage": false,
    "lineages": [
@@ -8265,6 +8366,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "grief",
    "branch_by_marriage": false,
    "lineages": [
@@ -8333,6 +8435,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -8386,6 +8489,7 @@
     "qualifier": "after"
    },
    "living": false,
+   "living_status": null,
    "branch": "hamilton",
    "branch_by_marriage": false,
    "lineages": [
@@ -8455,6 +8559,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "hamilton",
    "branch_by_marriage": false,
    "lineages": [
@@ -8525,6 +8630,7 @@
     "qualifier": "before"
    },
    "living": false,
+   "living_status": null,
    "branch": "hamilton",
    "branch_by_marriage": false,
    "lineages": [
@@ -8596,6 +8702,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "hamilton",
    "branch_by_marriage": true,
    "lineages": [],
@@ -8655,6 +8762,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -8707,6 +8815,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -8759,6 +8868,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -8811,6 +8921,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -8867,6 +8978,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -8919,6 +9031,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "obad",
    "branch_by_marriage": false,
    "lineages": [
@@ -8985,6 +9098,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -9077,6 +9191,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -9134,6 +9249,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -9194,6 +9310,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -9256,6 +9373,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -9555,6 +9673,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -9612,6 +9731,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": true,
    "lineages": [],
@@ -9668,6 +9788,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -9725,6 +9846,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -9788,6 +9910,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -9840,6 +9963,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -9898,6 +10022,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -9974,6 +10099,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10039,6 +10165,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10108,6 +10235,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10174,6 +10302,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10241,6 +10370,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -10294,6 +10424,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10358,6 +10489,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10424,6 +10556,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10491,6 +10624,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10546,6 +10680,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10601,6 +10736,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10670,6 +10806,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10758,6 +10895,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10825,6 +10963,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10905,6 +11044,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -10974,6 +11114,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11051,6 +11192,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11141,6 +11283,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11207,6 +11350,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11289,6 +11433,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11355,6 +11500,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11422,6 +11568,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11490,6 +11637,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "kulp",
    "branch_by_marriage": false,
    "lineages": [
@@ -11559,6 +11707,7 @@
     "qualifier": "range"
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -11628,6 +11777,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -11706,6 +11856,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -11761,6 +11912,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "smith",
    "branch_by_marriage": false,
    "lineages": [
@@ -11819,6 +11971,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
@@ -11880,6 +12033,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "quinn",
    "branch_by_marriage": false,
    "lineages": [
@@ -11973,6 +12127,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -12034,6 +12189,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -12100,6 +12256,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "obad",
    "branch_by_marriage": false,
    "lineages": [
@@ -12166,6 +12323,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -12218,6 +12376,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12288,6 +12447,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12373,6 +12533,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12432,6 +12593,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12495,6 +12657,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12572,6 +12735,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12635,6 +12799,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12706,6 +12871,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12815,6 +12981,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12873,6 +13040,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -12943,6 +13111,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13018,6 +13187,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13081,6 +13251,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13152,6 +13323,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13224,6 +13396,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13285,6 +13458,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13348,6 +13522,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13418,6 +13593,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13481,6 +13657,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13544,6 +13721,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13605,6 +13783,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13740,6 +13919,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13813,6 +13993,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13887,6 +14068,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -13951,6 +14133,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14008,6 +14191,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14084,6 +14268,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14151,6 +14336,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "remy",
    "branch_by_marriage": false,
    "lineages": [
@@ -14228,6 +14414,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14289,6 +14476,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14346,6 +14534,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14398,6 +14587,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14450,6 +14640,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14502,6 +14693,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14554,6 +14746,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14608,6 +14801,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14659,6 +14853,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14711,6 +14906,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14770,6 +14966,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -14831,6 +15028,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14887,6 +15085,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -14946,6 +15145,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -15022,6 +15222,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -15077,6 +15278,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "schriefer",
    "branch_by_marriage": true,
    "lineages": [],
@@ -15135,6 +15337,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -15187,6 +15390,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -15240,6 +15444,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -15305,6 +15510,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "quinn",
    "branch_by_marriage": false,
    "lineages": [
@@ -15376,6 +15582,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "quinn",
    "branch_by_marriage": false,
    "lineages": [
@@ -15468,6 +15675,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "quinn",
    "branch_by_marriage": false,
    "lineages": [
@@ -15532,6 +15740,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "quinn",
    "branch_by_marriage": false,
    "lineages": [
@@ -15646,6 +15855,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "quinn",
    "branch_by_marriage": false,
    "lineages": [
@@ -15712,6 +15922,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -15764,6 +15975,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -15816,6 +16028,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -15868,6 +16081,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -15923,6 +16137,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -15978,6 +16193,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -16034,6 +16250,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -16105,6 +16322,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -16160,6 +16378,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": true,
    "lineages": [],
@@ -16213,6 +16432,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -16265,6 +16485,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -16331,6 +16552,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -16397,6 +16619,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -16449,6 +16672,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "schriefer",
    "branch_by_marriage": false,
    "lineages": [
@@ -16518,6 +16742,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -16575,6 +16800,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -16634,6 +16860,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -16686,6 +16913,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -16744,6 +16972,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -16803,6 +17032,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -16862,6 +17092,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -16921,6 +17152,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
@@ -16987,6 +17219,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
@@ -17044,6 +17277,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -17099,6 +17333,7 @@
     "qualifier": "after"
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17175,6 +17410,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17240,6 +17476,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17298,6 +17535,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -17354,6 +17592,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17411,6 +17650,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17468,6 +17708,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17525,6 +17766,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17593,6 +17835,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17651,6 +17894,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17730,6 +17974,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17805,6 +18050,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17878,6 +18124,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -17935,6 +18182,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -17997,6 +18245,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18055,6 +18304,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -18108,6 +18358,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18168,6 +18419,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18226,6 +18478,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18284,6 +18537,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -18340,6 +18594,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -18399,6 +18654,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18468,6 +18724,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -18523,6 +18780,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18591,6 +18849,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18697,6 +18956,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18753,6 +19013,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18811,6 +19072,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18871,6 +19133,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -18935,6 +19198,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "mckeldin",
    "branch_by_marriage": true,
    "lineages": [],
@@ -18990,6 +19254,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19042,6 +19307,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19094,6 +19360,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -19147,6 +19414,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -19200,6 +19468,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -19253,6 +19522,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -19308,6 +19578,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19360,6 +19631,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -19413,6 +19685,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19465,6 +19738,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19517,6 +19791,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19569,6 +19844,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19618,6 +19894,7 @@
     "qualifier": "range"
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -19682,6 +19959,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -19748,6 +20026,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -19800,6 +20079,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "trumbo",
    "branch_by_marriage": false,
    "lineages": [
@@ -19863,6 +20143,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "trumbo",
    "branch_by_marriage": false,
    "lineages": [
@@ -19956,6 +20237,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20011,6 +20293,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "kulp",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20071,6 +20354,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20142,6 +20426,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "grief",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20204,6 +20489,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20256,6 +20542,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20308,6 +20595,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20363,6 +20651,7 @@
     "qualifier": "about"
    },
    "living": false,
+   "living_status": null,
    "branch": "trumbo",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20429,6 +20718,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20491,6 +20781,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20562,6 +20853,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20611,6 +20903,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "allen",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20664,6 +20957,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20716,6 +21010,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20769,6 +21064,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20821,6 +21117,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20873,6 +21170,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -20925,6 +21223,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": null,
    "branch": "hamilton",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20982,6 +21281,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21041,6 +21341,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21100,6 +21401,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21157,6 +21459,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21211,6 +21514,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21270,6 +21574,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21337,6 +21642,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21416,6 +21722,7 @@
     "qualifier": null
    },
    "living": true,
+   "living_status": "living",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21486,6 +21793,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21542,6 +21850,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [
@@ -21598,6 +21907,7 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
    "branch": "zacher",
    "branch_by_marriage": false,
    "lineages": [

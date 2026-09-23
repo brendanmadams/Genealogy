@@ -274,7 +274,8 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     card_name: Array.isArray(p.card_name) ? p.card_name : null,
     media: mediaOf.get(p.id),
     birth: d.birth, death: d.death,
-    living: !d.death.text && (d.birth.year ? d.birth.year > new Date().getFullYear() - 100 : false),
+    living: false,              // set below with living_status
+    living_status: null,
     branch: pb ? pb.key : OTHER.key,
     branch_by_marriage: pb ? pb.byMarriage : false,
     lineages: [...lineages.get(p.id)].sort(),
@@ -303,6 +304,33 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     notes: p.notes || [],
   };
 });
+
+// ── Living status ──────────────────────────────────────────────────────────
+// "living"  : birth year recorded, within the last 100 years, no death date.
+// "assumed" : no death date, and either a birth year 100–105 years ago, or no
+//             birth year but relatives' dates put their birth within 90 years
+//             (spouse or sibling = same year, parent + 25, child − 25; the most
+//             recent estimate counts).
+// Otherwise null: nothing is claimed.
+{
+  const NOW = new Date().getFullYear();
+  const byId = new Map(outPeople.map(p => [p.id, p]));
+  const by = id => byId.get(id)?.birth.year || null;
+  for (const p of outPeople) {
+    if (p.death.text || p.dna_match) continue;
+    const y = p.birth.year;
+    if (y && y > NOW - 100) p.living_status = 'living';
+    else if (y && y > NOW - 105) p.living_status = 'assumed';
+    else if (!y) {
+      const est = [
+        ...p.spouses.map(by), ...p.siblings.map(by),
+        ...p.parents.map(id => by(id) && by(id) + 25), ...p.children.map(id => by(id) && by(id) - 25),
+      ].filter(Boolean);
+      if (est.length && Math.max(...est) > NOW - 90) p.living_status = 'assumed';
+    }
+    p.living = p.living_status === 'living';
+  }
+}
 
 const outFamilies = [...families.values()].sort((a, b) => a.id.localeCompare(b.id));
 

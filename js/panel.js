@@ -38,7 +38,7 @@ export function renderPanel(container, D, p) {
   }).join('');
 
   const born = p.birth?.text ? esc(p.birth.text) : '<span class="muted">unknown</span>';
-  const died = p.death?.text ? esc(p.death.text) : (p.living ? '<span class="muted">living</span>' : '<span class="muted">—</span>');
+  const died = p.death?.text ? esc(p.death.text) : (p.living_status === 'living' ? '<span class="muted">living</span>' : p.living_status === 'assumed' ? '<span class="muted" title="No death date is recorded, and the birth year (or relatives’ dates) makes it likely">living (assumed)</span>' : '<span class="muted">—</span>');
   const lines = (p.lineages || []).filter(k => k !== p.branch).map(k => D.branches.get(k)?.label).filter(Boolean);
 
   container.innerHTML = `
