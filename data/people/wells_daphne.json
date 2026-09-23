@@ -1,6 +1,6 @@
 {
   "id": "wells_daphne",
-  "name": "Daphne Wells",
+  "name": "Daphne Wells (Childs)",
   "birth": "abt 1925",
   "death": "",
   "personality": [],
@@ -38,8 +38,10 @@
   "notes": [
     "Daughter of Arthur T. Wells and Serena (Trumbo) Wells, so a half-sister of George Francis Adams Sr. John Adams's memoir says Serena and Arthur had a daughter together; the 1940 census of their San Francisco household lists Daphne, aged 15, born in California. [John Howard Adams, A Memoir, text line 546] Decision by Brendan Adams.",
     "Aged 15 and born in California in the 1940 census of Arthur T. Wells's San Francisco household, with Serena and George Adams. [1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)]",
-    "She and her husband Bill lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen."
+    "She and her husband Bill Childs lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen."
   ],
-  "aliases": [],
+  "aliases": [
+    "Daphne Childs"
+  ],
   "sex": "F"
 }

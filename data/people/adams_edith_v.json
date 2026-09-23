@@ -1,6 +1,6 @@
 {
   "id": "adams_edith_v",
-  "name": "Edith V. Adams",
+  "name": "Edith V. Adams (Childs)",
   "birth": "abt 1913",
   "death": "",
   "personality": [],
@@ -48,6 +48,9 @@
     "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
     "She had two sons, surname Childs; their names are not recorded."
   ],
-  "aliases": [],
+  "aliases": [
+    "Edith V. Adams",
+    "Edith Childs"
+  ],
   "sex": "F"
 }

@@ -44,17 +44,19 @@ for (const k of ['adams_sally', 'adams_casey']) child(k, 'adams_presley', 'adams
 edit('adams_presley', p => note(p, 'He and Fran had three children: Sally, Casey and a third whose name is not recorded.'));
 
 // Edith Adams Childs
-edit('adams_edith_v', p => note(p, 'She had two sons, surname Childs; their names are not recorded.'));
+edit('adams_edith_v', p => { if (p.name === 'Edith V. Adams') { add(p.aliases, 'Edith V. Adams'); p.name = 'Edith V. Adams (Childs)'; } add(p.aliases, 'Edith Childs'); note(p, 'She had two sons, surname Childs; their names are not recorded.'); });
 
 // Daphne Wells's family
-person('bill_daphne_wells', 'Bill', 'M', p => { add(p.locations, 'San Francisco Bay Area, California'); note(p, 'Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area.'); });
+person('bill_daphne_wells', 'Bill Childs', 'M', p => { if (p.name === 'Bill') p.name = 'Bill Childs'; p.notes = p.notes.filter(t => t !== 'Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area.'); add(p.locations, 'San Francisco Bay Area, California'); note(p, 'Husband of Daphne Wells. They lived in the San Francisco Bay Area. (Daphne’s half-sister Edith Adams also married a Childs, Thomas.)'); });
 wed('wells_daphne', 'bill_daphne_wells');
-edit('wells_daphne', p => { add(p.locations, 'San Francisco Bay Area, California'); note(p, 'She and her husband Bill lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen.'); });
-const KIDS = [['daphne_james', 'James', 'M'], ['daphne_john', 'John', 'M'], ['daphne_arthur', 'Arthur', 'M'], ['daphne_mary', 'Mary', 'F'], ['daphne_edward', 'Edward', 'M'], ['daphne_stephen', 'Stephen', 'M']];
+edit('wells_daphne', p => { if (p.name === 'Daphne Wells') p.name = 'Daphne Wells (Childs)'; add(p.aliases, 'Daphne Childs'); add(p.locations, 'San Francisco Bay Area, California'); note(p, 'She and her husband Bill Childs lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen.'); });
+const KIDS = [['daphne_james', 'James Childs', 'M'], ['daphne_john', 'John Childs', 'M'], ['daphne_arthur', 'Arthur Childs', 'M'], ['daphne_mary', 'Mary Childs', 'F'], ['daphne_edward', 'Edward Childs', 'M'], ['daphne_stephen', 'Stephen Childs', 'M']];
 for (const [id, name, sex] of KIDS) {
   person(id, name, sex, p => {
+    if (p.name === name.split(' ')[0]) p.name = name;
+    p.notes = p.notes.filter(t => !/ Surname not recorded\.$/.test(t));
     if (id === 'daphne_james') { if (!p.death) p.death = 'deceased'; add(p.milestones, 'Died at birth; the first child of Bill and Daphne'); }
-    else note(p, `Child of Bill and Daphne (Wells); named for the letter ${name[0]} in the name of their first child, James, who died at birth. Surname not recorded.`);
+    else note(p, `Child of Bill and Daphne (Wells) Childs; named for the letter ${name[0]} in the name of their first child, James, who died at birth.`);
   });
   child(id, 'bill_daphne_wells', 'wells_daphne');
 }
