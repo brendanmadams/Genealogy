@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T15:00:27.203Z",
+  "generated": "2026-09-23T15:11:07.025Z",
   "people": 518,
   "family_members": 467,
   "dna_matches": 51,
@@ -153,10 +153,11 @@
    "id": "adams_alberta",
    "name": "Alberta Adams (Allen)",
    "aliases": [],
-   "photo": null,
+   "photo": "images/adams_alberta.jpg",
    "card_name": null,
    "media": [
-    "john-wesley-death-cert"
+    "john-wesley-death-cert",
+    "george-and-alberta-allen"
    ],
    "birth": {
     "text": "15 Nov 1866",
@@ -827,9 +828,11 @@
    "id": "adams_charles_w",
    "name": "Charles W. Adams",
    "aliases": [],
-   "photo": null,
+   "photo": "images/adams_charles_w.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "adams-brothers-portland"
+   ],
    "birth": {
     "text": "May 1871",
     "year": 1871,
@@ -961,7 +964,9 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "media": [],
+   "media": [
+    "george-f-adams-family-1919"
+   ],
    "birth": {
     "text": "abt 1913",
     "year": 1913,
@@ -2050,12 +2055,15 @@
    "id": "adams_george_francis_2",
    "name": "George Francis Adams (#2)",
    "aliases": [],
-   "photo": null,
+   "photo": "images/adams_george_francis_2.jpg",
    "card_name": null,
    "media": [
     "gfa2-army-record",
     "gfa2-nard-obit",
-    "gfa2-druggist-obit"
+    "gfa2-druggist-obit",
+    "adams-brothers-portland",
+    "george-f-doc-adams",
+    "george-f-adams-family-1919"
    ],
    "birth": {
     "text": "Aug 1876",
@@ -2545,9 +2553,11 @@
    "id": "adams_harriett_e",
    "name": "Harriett E Adams",
    "aliases": [],
-   "photo": null,
+   "photo": "images/adams_harriett_e.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "harriett-adams"
+   ],
    "birth": {
     "text": "1853",
     "year": 1853,
@@ -3233,7 +3243,8 @@
    "media": [
     "adams-brothers",
     "jose2-obit",
-    "the-trail-cover"
+    "the-trail-cover",
+    "jose-pierre-adams-2"
    ],
    "birth": {
     "text": "31 May 1847",
@@ -3779,9 +3790,11 @@
    "aliases": [
     "Susie Adams"
    ],
-   "photo": null,
+   "photo": "images/adams_mary_susan.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "mary-susie-adams"
+   ],
    "birth": {
     "text": "4 Dec 1873",
     "year": 1873,
@@ -4387,7 +4400,9 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "media": [],
+   "media": [
+    "george-f-adams-family-1919"
+   ],
    "birth": {
     "text": "22 June 1910",
     "year": 1910,
@@ -4868,9 +4883,12 @@
    "id": "adams_william_w_1885",
    "name": "William Wallace Adams",
    "aliases": [],
-   "photo": null,
+   "photo": "images/adams_william_w_1885.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "adams-brothers-portland",
+    "willie-adams-and-frances-billingslea"
+   ],
    "birth": {
     "text": "26 Aug 1885",
     "year": 1885,
@@ -5073,9 +5091,13 @@
    "aliases": [
     "Tony Allen"
    ],
-   "photo": null,
+   "photo": "images/allen_anthony.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "tony-allen-and-dorothy-angwin-2003",
+    "brooks-dorothy-tony-allen",
+    "billy-wendy-dorothy-susie-tony-allen"
+   ],
    "birth": {
     "text": "18 Feb 1959",
     "year": 1959,
@@ -5288,9 +5310,12 @@
    "id": "allen_bernice",
    "name": "Bernice Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_bernice.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "bernice-allen-1940s",
+    "bernice-allen-1920s"
+   ],
    "birth": {
     "text": "30 July 1891",
     "year": 1891,
@@ -5380,9 +5405,12 @@
    "id": "allen_brooks",
    "name": "Brooks Beatty Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_brooks.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "brooks-allen",
+    "brooks-dorothy-tony-allen"
+   ],
    "birth": {
     "text": "5 Jan 1961",
     "year": 1961,
@@ -5518,9 +5546,12 @@
    "id": "allen_edward_george",
    "name": "Edward George Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_edward_george.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "edward-g-allen",
+    "ed-and-judy-allen"
+   ],
    "birth": {
     "text": "8 Oct 1946",
     "year": 1946,
@@ -5665,9 +5696,12 @@
    "id": "allen_george_homer",
    "name": "George Homer Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_george_homer.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "dorothy-ann-wedding-1944",
+    "george-h-allen-2001"
+   ],
    "birth": {
     "text": "8 Mar 1921",
     "year": 1921,
@@ -5789,9 +5823,13 @@
    "id": "allen_george_julius",
    "name": "George Julius Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_george_julius.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "george-and-alberta-allen",
+    "george-julius-allen-1868",
+    "george-j-allen"
+   ],
    "birth": {
     "text": "2 Feb 1865",
     "year": 1865,
@@ -6424,9 +6462,11 @@
    "id": "allen_leroy_gaylord",
    "name": "Leroy Gaylord Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_leroy_gaylord.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "leroy-g-allen"
+   ],
    "birth": {
     "text": "23 Jul 1906",
     "year": 1906,
@@ -6676,9 +6716,11 @@
    "id": "allen_ralph_kenneth",
    "name": "Ralph Kenneth Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_ralph_kenneth.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "ralph-k-allen"
+   ],
    "birth": {
     "text": "16 Dec 1904",
     "year": 1904,
@@ -6769,9 +6811,11 @@
    "id": "allen_ralph_kenneth_jr",
    "name": "Ralph Kenneth Allen Jr.",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_ralph_kenneth_jr.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "ralph-k-allen-jr"
+   ],
    "birth": {
     "text": "11 Jan 1943",
     "year": 1943,
@@ -6833,9 +6877,12 @@
    "id": "allen_susan",
    "name": "Susan Elizabeth Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_susan.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "susan-elizabeth-allen",
+    "billy-wendy-dorothy-susie-tony-allen"
+   ],
    "birth": {
     "text": "10 May 1951",
     "year": 1951,
@@ -6916,9 +6963,12 @@
    "id": "allen_wendy",
    "name": "Wendy Ann Allen",
    "aliases": [],
-   "photo": null,
+   "photo": "images/allen_wendy.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "wendy-ann-allen",
+    "billy-wendy-dorothy-susie-tony-allen"
+   ],
    "birth": {
     "text": "5 Dec 1949",
     "year": 1949,
@@ -7130,9 +7180,12 @@
    "aliases": [
     "Bill Allen"
    ],
-   "photo": null,
+   "photo": "images/allen_william_w.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "william-w-allen",
+    "billy-wendy-dorothy-susie-tony-allen"
+   ],
    "birth": {
     "text": "5 Dec 1952",
     "year": 1952,
@@ -7359,9 +7412,11 @@
    "id": "anthony_homer_gideon",
    "name": "Homer Gideon Anthony",
    "aliases": [],
-   "photo": null,
+   "photo": "images/anthony_homer_gideon.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "homer-anthony-family"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -8919,7 +8974,9 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "media": [],
+   "media": [
+    "willie-adams-and-frances-billingslea"
+   ],
    "birth": {
     "text": "5 May 1915",
     "year": 1915,
@@ -10641,9 +10698,11 @@
    "id": "clark_clay_c",
    "name": "Clay C. Clark",
    "aliases": [],
-   "photo": null,
+   "photo": "images/clark_clay_c.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "clay-c-clark"
+   ],
    "birth": {
     "text": "1860",
     "year": 1860,
@@ -13330,7 +13389,9 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "media": [],
+   "media": [
+    "george-f-adams-family-1919"
+   ],
    "birth": {
     "text": "10 March 1916",
     "year": 1916,
@@ -26521,9 +26582,14 @@
     "Dorothy Wheeler",
     "Dorothy Howard"
    ],
-   "photo": null,
+   "photo": "images/pfander_dorothy_douthit.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "three-dorothys-wheeler",
+    "dorothy-and-melvin-wheeler-1951",
+    "dorothy-ann-wedding-1944",
+    "dorothy-douthit-howard"
+   ],
    "birth": {
     "text": "1899",
     "year": 1899,
@@ -28820,7 +28886,9 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "media": [],
+   "media": [
+    "dorothy-ann-wedding-1944"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -29941,9 +30009,11 @@
    "id": "shoush_anna_elizabeth",
    "name": "Anna Elizabeth Shoush (Anthony)",
    "aliases": [],
-   "photo": null,
+   "photo": "images/shoush_anna_elizabeth.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "homer-anthony-family"
+   ],
    "birth": {
     "text": "1868",
     "year": 1868,
@@ -33595,7 +33665,9 @@
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "media": [],
+   "media": [
+    "george-f-adams-family-1919"
+   ],
    "birth": {
     "text": "24 Mar 1890",
     "year": 1890,
@@ -34757,9 +34829,19 @@
    "id": "wheeler_dorothy_ann",
    "name": "Dorothy Ann Wheeler (Allen)",
    "aliases": [],
-   "photo": null,
+   "photo": "images/wheeler_dorothy_ann.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "three-dorothys-wheeler",
+    "dorothy-ann-wheeler-huh",
+    "dorothy-ann-wedding-1944",
+    "dorothy-ann-wheeler-bride",
+    "dorothy-ann-wheeler-age-2",
+    "dorothy-ann-allen-profile",
+    "tony-allen-and-dorothy-angwin-2003",
+    "brooks-dorothy-tony-allen",
+    "billy-wendy-dorothy-susie-tony-allen"
+   ],
    "birth": {
     "text": "26 Apr 1924",
     "year": 1924,
@@ -34853,7 +34935,9 @@
    "photo": "images/wheeler_marjorie.jpg",
    "card_name": null,
    "media": [
-    "marjorie-wheeler"
+    "marjorie-wheeler",
+    "three-dorothys-wheeler",
+    "dorothy-ann-wedding-1944"
    ],
    "birth": {
     "text": "",
@@ -34919,9 +35003,14 @@
    "id": "wheeler_melvin",
    "name": "Melvin Wheeler",
    "aliases": [],
-   "photo": null,
+   "photo": "images/wheeler_melvin.jpg",
    "card_name": null,
-   "media": [],
+   "media": [
+    "melvin-wheeler-1949",
+    "grandpa-wheeler",
+    "dorothy-and-melvin-wheeler-1951",
+    "dorothy-ann-wedding-1944"
+   ],
    "birth": {
     "text": "1897",
     "year": 1897,
@@ -38358,6 +38447,511 @@
    ],
    "files": [
     "media/marjorie-wheeler.jpg"
+   ]
+  },
+  {
+   "id": "clay-c-clark",
+   "kind": "photo",
+   "title": "Clay C. Clark",
+   "caption": "From the photo pages of Bill Allen’s family document (page 96).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 96.",
+   "people": [
+    "clark_clay_c"
+   ],
+   "files": [
+    "media/clay-c-clark.jpg"
+   ]
+  },
+  {
+   "id": "homer-anthony-family",
+   "kind": "photo",
+   "title": "Homer G. Anthony family",
+   "caption": "Homer G. and Anna Anthony with two young sons. From the photo pages of Bill Allen’s family document (page 96).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 96.",
+   "people": [
+    "anthony_homer_gideon",
+    "shoush_anna_elizabeth"
+   ],
+   "files": [
+    "media/homer-anthony-family.jpg"
+   ]
+  },
+  {
+   "id": "jose-pierre-adams-2",
+   "kind": "photo",
+   "title": "Jose Pierre Adams (II)",
+   "caption": "Captioned only \"Jose Pierre Adams\". The clothes and photo style date it to the late 1800s, so it is Jose Pierre (II), born 1847; no photograph of the first Jose Pierre (died about 1836) could exist. From the photo pages of Bill Allen’s family document (page 96).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 96.",
+   "people": [
+    "adams_joseph_pierre_jose2"
+   ],
+   "files": [
+    "media/jose-pierre-adams-2.jpg"
+   ]
+  },
+  {
+   "id": "harriett-adams",
+   "kind": "photo",
+   "title": "Harriett Adams",
+   "caption": "From the photo pages of Bill Allen’s family document (page 96).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 96.",
+   "people": [
+    "adams_harriett_e"
+   ],
+   "files": [
+    "media/harriett-adams.jpg"
+   ]
+  },
+  {
+   "id": "adams-brothers-portland",
+   "kind": "photo",
+   "title": "Adams brothers, Portland, Oregon, about 1907",
+   "caption": "Handwritten on the photo: Charles W. Adams (left), Geo. F. Adams (right), W. W. Adams (center). Sons of John Wesley Adams. From the photo pages of Bill Allen’s family document (page 97).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 97.",
+   "people": [
+    "adams_charles_w",
+    "adams_george_francis_2",
+    "adams_william_w_1885"
+   ],
+   "files": [
+    "media/adams-brothers-portland.jpg"
+   ]
+  },
+  {
+   "id": "george-f-doc-adams",
+   "kind": "photo",
+   "title": "George F. \"Doc\" Adams",
+   "caption": "George Francis Adams (#2), the druggist. From the photo pages of Bill Allen’s family document (page 97).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 97.",
+   "people": [
+    "adams_george_francis_2"
+   ],
+   "files": [
+    "media/george-f-doc-adams.jpg"
+   ]
+  },
+  {
+   "id": "mary-susie-adams",
+   "kind": "photo",
+   "title": "Mary Susie Adams",
+   "caption": "From the photo pages of Bill Allen’s family document (page 97).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 97.",
+   "people": [
+    "adams_mary_susan"
+   ],
+   "files": [
+    "media/mary-susie-adams.jpg"
+   ]
+  },
+  {
+   "id": "george-f-adams-family-1919",
+   "kind": "photo",
+   "title": "George F. Adams family, about 1919",
+   "caption": "George F. and Serena Adams on their porch with Edith, George Jr. (later George Francis Adams Sr.) and Presley. From the photo pages of Bill Allen’s family document (page 97).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 97.",
+   "people": [
+    "adams_george_francis_2",
+    "trumbo_serena_marie",
+    "adams_edith_v",
+    "george_francis_adams_sr",
+    "adams_presley"
+   ],
+   "files": [
+    "media/george-f-adams-family-1919.jpg"
+   ]
+  },
+  {
+   "id": "bernice-allen-1940s",
+   "kind": "photo",
+   "title": "Bernice Allen Billingslea",
+   "caption": "From the photo pages of Bill Allen’s family document (page 98).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 98.",
+   "people": [
+    "allen_bernice"
+   ],
+   "files": [
+    "media/bernice-allen-1940s.jpg"
+   ]
+  },
+  {
+   "id": "george-and-alberta-allen",
+   "kind": "photo",
+   "title": "George J. and Alberta Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 98).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 98.",
+   "people": [
+    "allen_george_julius",
+    "adams_alberta"
+   ],
+   "files": [
+    "media/george-and-alberta-allen.jpg"
+   ]
+  },
+  {
+   "id": "george-julius-allen-1868",
+   "kind": "photo",
+   "title": "George Julius Allen, about 1868",
+   "caption": "As a small child, in the dress young boys wore at the time. From the photo pages of Bill Allen’s family document (page 98).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 98.",
+   "people": [
+    "allen_george_julius"
+   ],
+   "files": [
+    "media/george-julius-allen-1868.jpg"
+   ]
+  },
+  {
+   "id": "george-j-allen",
+   "kind": "photo",
+   "title": "George J. Allen",
+   "caption": "In later life, at a microphone. From the photo pages of Bill Allen’s family document (page 98).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 98.",
+   "people": [
+    "allen_george_julius"
+   ],
+   "files": [
+    "media/george-j-allen.jpg"
+   ]
+  },
+  {
+   "id": "leroy-g-allen",
+   "kind": "photo",
+   "title": "Leroy G. Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 99).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 99.",
+   "people": [
+    "allen_leroy_gaylord"
+   ],
+   "files": [
+    "media/leroy-g-allen.jpg"
+   ]
+  },
+  {
+   "id": "edward-g-allen",
+   "kind": "photo",
+   "title": "Edward G. Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 99).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 99.",
+   "people": [
+    "allen_edward_george"
+   ],
+   "files": [
+    "media/edward-g-allen.jpg"
+   ]
+  },
+  {
+   "id": "ralph-k-allen",
+   "kind": "photo",
+   "title": "Ralph K. Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 99).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 99.",
+   "people": [
+    "allen_ralph_kenneth"
+   ],
+   "files": [
+    "media/ralph-k-allen.jpg"
+   ]
+  },
+  {
+   "id": "ralph-k-allen-jr",
+   "kind": "photo",
+   "title": "Ralph K. Allen Jr.",
+   "caption": "From the photo pages of Bill Allen’s family document (page 101).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 101.",
+   "people": [
+    "allen_ralph_kenneth_jr"
+   ],
+   "files": [
+    "media/ralph-k-allen-jr.jpg"
+   ]
+  },
+  {
+   "id": "ed-and-judy-allen",
+   "kind": "photo",
+   "title": "Ed and Judy Allen",
+   "caption": "Edward G. Allen and Judy Allen. From the photo pages of Bill Allen’s family document (page 101).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 101.",
+   "people": [
+    "allen_edward_george"
+   ],
+   "files": [
+    "media/ed-and-judy-allen.jpg"
+   ]
+  },
+  {
+   "id": "bernice-allen-1920s",
+   "kind": "photo",
+   "title": "Bernice Allen Billingslea",
+   "caption": "A studio portrait, probably 1920s. From the photo pages of Bill Allen’s family document (page 101).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 101.",
+   "people": [
+    "allen_bernice"
+   ],
+   "files": [
+    "media/bernice-allen-1920s.jpg"
+   ]
+  },
+  {
+   "id": "willie-adams-and-frances-billingslea",
+   "kind": "photo",
+   "title": "Uncle Willie Adams and Frances Fern Billingslea",
+   "caption": "William Wallace Adams, Bernice Allen's uncle, holding the hand of her daughter Frances Fern, about 1917. From the photo pages of Bill Allen’s family document (page 101).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 101.",
+   "people": [
+    "adams_william_w_1885",
+    "billingslea_frances_fern"
+   ],
+   "files": [
+    "media/willie-adams-and-frances-billingslea.jpg"
+   ]
+  },
+  {
+   "id": "melvin-wheeler-1949",
+   "kind": "photo",
+   "title": "Melvin Wheeler, 1949",
+   "caption": "From the photo pages of Bill Allen’s family document (page 104).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 104.",
+   "people": [
+    "wheeler_melvin"
+   ],
+   "files": [
+    "media/melvin-wheeler-1949.jpg"
+   ]
+  },
+  {
+   "id": "grandpa-wheeler",
+   "kind": "photo",
+   "title": "Melvin Wheeler at his desk",
+   "caption": "Captioned \"My Grandpa Wheeler\" by Bill Allen, Melvin's grandson. From the photo pages of Bill Allen’s family document (page 104).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 104.",
+   "people": [
+    "wheeler_melvin"
+   ],
+   "files": [
+    "media/grandpa-wheeler.jpg"
+   ]
+  },
+  {
+   "id": "three-dorothys-wheeler",
+   "kind": "photo",
+   "title": "Dorothy A., Dorothy D. and Marge Wheeler",
+   "caption": "Dorothy Ann, her mother Dorothy Douthit Wheeler and her sister Marjorie, outside 1715 South Ninth Avenue, Sioux Falls. From the photo pages of Bill Allen’s family document (page 104).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 104.",
+   "people": [
+    "wheeler_dorothy_ann",
+    "pfander_dorothy_douthit",
+    "wheeler_marjorie"
+   ],
+   "files": [
+    "media/three-dorothys-wheeler.jpg"
+   ]
+  },
+  {
+   "id": "dorothy-ann-wheeler-huh",
+   "kind": "photo",
+   "title": "Dorothy Ann Wheeler",
+   "caption": "Captioned \"Huh?\" in the document. From the photo pages of Bill Allen’s family document (page 104).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 104.",
+   "people": [
+    "wheeler_dorothy_ann"
+   ],
+   "files": [
+    "media/dorothy-ann-wheeler-huh.jpg"
+   ]
+  },
+  {
+   "id": "dorothy-and-melvin-wheeler-1951",
+   "kind": "photo",
+   "title": "Dorothy and Melvin Wheeler, about 1951",
+   "caption": "From the photo pages of Bill Allen’s family document (page 105).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 105.",
+   "people": [
+    "pfander_dorothy_douthit",
+    "wheeler_melvin"
+   ],
+   "files": [
+    "media/dorothy-and-melvin-wheeler-1951.jpg"
+   ]
+  },
+  {
+   "id": "dorothy-ann-wedding-1944",
+   "kind": "document",
+   "title": "Wedding of Dorothy Ann Wheeler and Lt. George Homer Allen, 1944",
+   "caption": "Sioux Falls newspaper, Tuesday 9 May 1944, with portraits of Dorothy Ann. Names her parents Mr. and Mrs. Melvin Wheeler, her sister Mrs. Charles W. Schlatter (Marjorie Wheeler) as matron of honor, and her grandmother Mrs. Reppa Wheeler of Redwood Falls, Minn. From the photo pages of Bill Allen’s family document (page 106).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 106.",
+   "people": [
+    "wheeler_dorothy_ann",
+    "allen_george_homer",
+    "wheeler_marjorie",
+    "schlatter_charles_w",
+    "wheeler_melvin",
+    "pfander_dorothy_douthit"
+   ],
+   "files": [
+    "media/dorothy-ann-wedding-1944.jpg"
+   ]
+  },
+  {
+   "id": "dorothy-ann-wheeler-bride",
+   "kind": "photo",
+   "title": "Dorothy Ann Wheeler as a bride, 1944",
+   "caption": "Uncaptioned; on the page after her wedding clipping, and the same veil and bonnet. From the photo pages of Bill Allen’s family document (page 107).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 107.",
+   "people": [
+    "wheeler_dorothy_ann"
+   ],
+   "files": [
+    "media/dorothy-ann-wheeler-bride.jpg"
+   ]
+  },
+  {
+   "id": "dorothy-ann-wheeler-age-2",
+   "kind": "photo",
+   "title": "Dorothy Ann Wheeler, age 2",
+   "caption": "From the photo pages of Bill Allen’s family document (page 107).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 107.",
+   "people": [
+    "wheeler_dorothy_ann"
+   ],
+   "files": [
+    "media/dorothy-ann-wheeler-age-2.jpg"
+   ]
+  },
+  {
+   "id": "wendy-ann-allen",
+   "kind": "photo",
+   "title": "Wendy Ann Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 108).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 108.",
+   "people": [
+    "allen_wendy"
+   ],
+   "files": [
+    "media/wendy-ann-allen.jpg"
+   ]
+  },
+  {
+   "id": "dorothy-ann-allen-profile",
+   "kind": "photo",
+   "title": "Dorothy Ann (Wheeler) Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 108).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 108.",
+   "people": [
+    "wheeler_dorothy_ann"
+   ],
+   "files": [
+    "media/dorothy-ann-allen-profile.jpg"
+   ]
+  },
+  {
+   "id": "dorothy-douthit-howard",
+   "kind": "photo",
+   "title": "Dorothy Douthit (Pfander) (Wheeler) Howard",
+   "caption": "From the photo pages of Bill Allen’s family document (page 108).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 108.",
+   "people": [
+    "pfander_dorothy_douthit"
+   ],
+   "files": [
+    "media/dorothy-douthit-howard.jpg"
+   ]
+  },
+  {
+   "id": "susan-elizabeth-allen",
+   "kind": "photo",
+   "title": "Susan Elizabeth Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 108).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 108.",
+   "people": [
+    "allen_susan"
+   ],
+   "files": [
+    "media/susan-elizabeth-allen.jpg"
+   ]
+  },
+  {
+   "id": "george-h-allen-2001",
+   "kind": "photo",
+   "title": "George H. Allen, 2001",
+   "caption": "From the photo pages of Bill Allen’s family document (page 109).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 109.",
+   "people": [
+    "allen_george_homer"
+   ],
+   "files": [
+    "media/george-h-allen-2001.jpg"
+   ]
+  },
+  {
+   "id": "brooks-allen",
+   "kind": "photo",
+   "title": "Brooks Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 109).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 109.",
+   "people": [
+    "allen_brooks"
+   ],
+   "files": [
+    "media/brooks-allen.jpg"
+   ]
+  },
+  {
+   "id": "william-w-allen",
+   "kind": "photo",
+   "title": "William W. (Bill) Allen",
+   "caption": "Bill Allen, who compiled \"Descendants of Jose Pierre Adams\". From the photo pages of Bill Allen’s family document (page 109).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 109.",
+   "people": [
+    "allen_william_w"
+   ],
+   "files": [
+    "media/william-w-allen.jpg"
+   ]
+  },
+  {
+   "id": "tony-allen-and-dorothy-angwin-2003",
+   "kind": "photo",
+   "title": "Anthony Adams Allen and Dorothy Wheeler Angwin, 2003",
+   "caption": "From the photo pages of Bill Allen’s family document (page 109).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 109.",
+   "people": [
+    "allen_anthony",
+    "wheeler_dorothy_ann"
+   ],
+   "files": [
+    "media/tony-allen-and-dorothy-angwin-2003.jpg"
+   ]
+  },
+  {
+   "id": "brooks-dorothy-tony-allen",
+   "kind": "photo",
+   "title": "Brooks, Dorothy and Tony Allen",
+   "caption": "Dorothy Ann reading to her sons, early 1960s. From the photo pages of Bill Allen’s family document (page 109).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 109.",
+   "people": [
+    "allen_brooks",
+    "wheeler_dorothy_ann",
+    "allen_anthony"
+   ],
+   "files": [
+    "media/brooks-dorothy-tony-allen.jpg"
+   ]
+  },
+  {
+   "id": "billy-wendy-dorothy-susie-tony-allen",
+   "kind": "photo",
+   "title": "Billy, Wendy, Dorothy, Susie and Tony Allen",
+   "caption": "From the photo pages of Bill Allen’s family document (page 109).",
+   "source": "Descendants of Jose Pierre Adams, compiled by Bill Allen (2011), page 109.",
+   "people": [
+    "allen_william_w",
+    "allen_wendy",
+    "wheeler_dorothy_ann",
+    "allen_susan",
+    "allen_anthony"
+   ],
+   "files": [
+    "media/billy-wendy-dorothy-susie-tony-allen.jpg"
    ]
   }
  ]
