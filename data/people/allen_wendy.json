@@ -1,28 +1,44 @@
 {
   "id": "allen_wendy",
-  "name": "Wendy Allen",
-  "birth": "",
+  "name": "Wendy Ann Allen",
+  "birth": "5 Dec 1949",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
-  "education": [],
+  "milestones": [
+    "Born 5 December 1949, Monrovia, California",
+    "Married Hallock B. Hoffman (m. 31 Dec 1973, Santa Barbara, CA); divorced about 1980",
+    "Married Clark Spangler at a Buddhist temple in Los Angeles"
+  ],
+  "education": [
+    "B.A. History of Science, University of California, Los Angeles",
+    "Studied international law in England (recorded as \"Oxford College, Cambridge\")"
+  ],
   "career": [],
   "relationships": {
     "mother": "wheeler_dorothy_ann",
     "father": "allen_george_homer",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "hoffman_hallock_b",
+    "children": [],
+    "_extra_spouses": [
+      "spangler_clark"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Monrovia, CA",
+    "Santa Barbara, CA",
+    "Los Angeles, CA"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
-  ]
+  ],
+  "aliases": []
 }

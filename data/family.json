@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T13:52:42.466Z",
-  "people": 304,
-  "family_members": 253,
+  "generated": "2026-09-23T13:55:28.274Z",
+  "people": 310,
+  "family_members": 259,
   "dna_matches": 51,
-  "connected_people": 251,
-  "families": 90,
+  "connected_people": 257,
+  "families": 96,
   "branches": [
    "adams",
    "hamilton",
@@ -1846,75 +1846,15 @@
   },
   {
    "id": "allen_anthony",
-   "name": "Anthony Allen",
-   "aliases": [],
+   "name": "Anthony Adams Allen",
+   "aliases": [
+    "Tony Allen"
+   ],
    "photo": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "branch": "allen",
-   "branch_by_marriage": false,
-   "lineages": [
-    "adams",
-    "allen",
-    "hamilton"
-   ],
-   "adopted": false,
-   "father": "allen_george_homer",
-   "mother": "wheeler_dorothy_ann",
-   "parents": [
-    "allen_george_homer",
-    "wheeler_dorothy_ann"
-   ],
-   "spouses": [],
-   "children": [],
-   "siblings": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_benjamin_alistair",
-    "allen_wendy",
-    "allen_susan",
-    "allen_brooks"
-   ],
-   "families": [],
-   "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "consolidated_research_digest_v1"
-   ],
-   "notes": [
-    "Child of George Homer Allen and Dorothy Ann Wheeler."
-   ]
-  },
-  {
-   "id": "allen_benjamin_alistair",
-   "name": "Benjamin Alistair Allen",
-   "aliases": [],
-   "photo": null,
-   "media": [],
-   "birth": {
-    "text": "17 Jul 1987",
-    "year": 1987,
+    "text": "18 Feb 1959",
+    "year": 1959,
     "qualifier": null
    },
    "death": {
@@ -1937,18 +1877,93 @@
     "allen_george_homer",
     "wheeler_dorothy_ann"
    ],
+   "spouses": [
+    "fonshill_susan_bethany"
+   ],
+   "children": [
+    "allen_guinevere",
+    "allen_benjamin_alistair"
+   ],
+   "siblings": [
+    "allen_wendy",
+    "allen_susan",
+    "allen_william_w",
+    "allen_brooks"
+   ],
+   "families": [
+    "F_allen_anthony+fonshill_susan_bethany"
+   ],
+   "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Santa Barbara, CA",
+    "Prescott, AZ",
+    "Moscow, ID"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Born 18 February 1959, Santa Barbara, California",
+    "Married Susan Bethany Fonshill (m. 1 Mar 1979, Prescott, AZ)"
+   ],
+   "education": [
+    "B.S. Forestry, University of Idaho",
+    "J.D., University of Oregon"
+   ],
+   "career": [],
+   "sources": [
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": [
+    "Child of George Homer Allen and Dorothy Ann Wheeler."
+   ]
+  },
+  {
+   "id": "allen_benjamin_alistair",
+   "name": "Benjamin Alistair Allen",
+   "aliases": [
+    "Ben Allen"
+   ],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "17 Jul 1987",
+    "year": 1987,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "branch": "allen",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "allen",
+    "hamilton"
+   ],
+   "adopted": false,
+   "father": "allen_anthony",
+   "mother": "fonshill_susan_bethany",
+   "parents": [
+    "allen_anthony",
+    "fonshill_susan_bethany"
+   ],
    "spouses": [],
    "children": [],
    "siblings": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_wendy",
-    "allen_susan",
-    "allen_anthony",
-    "allen_brooks"
+    "allen_guinevere"
    ],
    "families": [],
-   "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
+   "parent_family": "F_allen_anthony+fonshill_susan_bethany",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -1970,11 +1985,13 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "adams_dna_linkage_v1"
+    "adams_dna_linkage_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Siblings listed: Guinevere Wheeler Allen",
-    "DNA match confirmed. 4th cousin via John Wesley Adams / Alberta Adams Allen line."
+    "DNA match confirmed. 4th cousin via John Wesley Adams / Alberta Adams Allen line.",
+    "CORRECTION 2026-09-23: Parents are Anthony Adams Allen and Susan Bethany Fonshill (George Homer Allen's son and daughter-in-law), per Bill Allen's family document. Previously attached to George Homer Allen and Dorothy Ann Wheeler by mistake."
    ]
   },
   {
@@ -2049,13 +2066,13 @@
   },
   {
    "id": "allen_brooks",
-   "name": "Brooks Allen",
+   "name": "Brooks Beatty Allen",
    "aliases": [],
    "photo": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "5 Jan 1961",
+    "year": 1961,
     "qualifier": null
    },
    "death": {
@@ -2063,7 +2080,7 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
+   "living": true,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2078,32 +2095,44 @@
     "allen_george_homer",
     "wheeler_dorothy_ann"
    ],
-   "spouses": [],
+   "spouses": [
+    "lee_nancy_ruth",
+    "dworman_jamie_leigh"
+   ],
    "children": [],
    "siblings": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
+    "allen_william_w",
     "allen_anthony"
    ],
-   "families": [],
+   "families": [
+    "F_allen_brooks+lee_nancy_ruth",
+    "F_allen_brooks+dworman_jamie_leigh"
+   ],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Santa Barbara, CA",
+    "Santa Ynez, CA"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born 5 January 1961, Santa Barbara, California",
+    "Married Nancy Ruth Lee (m. 1 Apr 1986, Santa Barbara, CA)",
+    "Married Jamie Leigh Dworman (m. 1 Apr 1990, Santa Ynez, CA)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
@@ -2216,11 +2245,9 @@
     "modine_suzzanne"
    ],
    "children": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
+    "allen_william_w",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -2270,7 +2297,8 @@
     "Siblings listed: Margaret Jeanice Peggy Allen",
     "Multiple spouses: wheeler_dorothy_ann, modine_suzzanne",
     "CORRECTION 2026-09-22: Removed allen_margaret_jeanice from children: she is his sister, not his daughter.",
-    "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document."
+    "CORRECTION 2026-09-23: Mother set to Esther Jane Anthony, per Bill Allen's family document.",
+    "CORRECTION 2026-09-23: Guinevere and Benjamin Alistair Allen moved to their parents Anthony Adams Allen and Susan Bethany Fonshill; George Homer and Dorothy's five children are Wendy, Susan, William, Anthony and Brooks."
    ]
   },
   {
@@ -2497,8 +2525,11 @@
   },
   {
    "id": "allen_guinevere",
-   "name": "Guinevere Guin Wheeler Allen",
-   "aliases": [],
+   "name": "Guinevere Wheeler Allen",
+   "aliases": [
+    "Guin Allen",
+    "Gwen Allen"
+   ],
    "photo": null,
    "media": [],
    "birth": {
@@ -2520,24 +2551,19 @@
     "hamilton"
    ],
    "adopted": false,
-   "father": "allen_george_homer",
-   "mother": "wheeler_dorothy_ann",
+   "father": "allen_anthony",
+   "mother": "fonshill_susan_bethany",
    "parents": [
-    "allen_george_homer",
-    "wheeler_dorothy_ann"
+    "allen_anthony",
+    "fonshill_susan_bethany"
    ],
    "spouses": [],
    "children": [],
    "siblings": [
-    "allen_william_w",
-    "allen_benjamin_alistair",
-    "allen_wendy",
-    "allen_susan",
-    "allen_anthony",
-    "allen_brooks"
+    "allen_benjamin_alistair"
    ],
    "families": [],
-   "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
+   "parent_family": "F_allen_anthony+fonshill_susan_bethany",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -2561,11 +2587,13 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "adams_dna_linkage_v1"
+    "adams_dna_linkage_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Siblings listed: Benjamin Alistair Allen",
-    "DNA match confirmed. 4th cousin via John Wesley Adams / Alberta Adams Allen line."
+    "DNA match confirmed. 4th cousin via John Wesley Adams / Alberta Adams Allen line.",
+    "CORRECTION 2026-09-23: Parents are Anthony Adams Allen and Susan Bethany Fonshill (George Homer Allen's son and daughter-in-law), per Bill Allen's family document. Previously attached to George Homer Allen and Dorothy Ann Wheeler by mistake."
    ]
   },
   {
@@ -2790,13 +2818,13 @@
   },
   {
    "id": "allen_susan",
-   "name": "Susan Allen",
+   "name": "Susan Elizabeth Allen",
    "aliases": [],
    "photo": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "10 May 1951",
+    "year": 1951,
     "qualifier": null
    },
    "death": {
@@ -2804,7 +2832,7 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
+   "living": true,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2819,32 +2847,47 @@
     "allen_george_homer",
     "wheeler_dorothy_ann"
    ],
-   "spouses": [],
+   "spouses": [
+    "weinstein_jeff"
+   ],
    "children": [],
    "siblings": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_benjamin_alistair",
     "allen_wendy",
+    "allen_william_w",
     "allen_anthony",
     "allen_brooks"
    ],
-   "families": [],
+   "families": [
+    "F_allen_susan+weinstein_jeff"
+   ],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Alhambra, CA",
+    "Valencia, CA",
+    "Santa Barbara, CA"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
+   "milestones": [
+    "Born 10 May 1951, Alhambra, California",
+    "Married Jeff Weinstein (m. Mar 1991, Santa Barbara, CA)"
+   ],
+   "education": [
+    "B.F.A. and M.F.A. in Music Performance (harp), California Institute of the Arts"
+   ],
+   "career": [
+    "Harpist; solo performances at Carnegie Recital Hall; specialist in contemporary harp music; many ensemble and solo recordings",
+    "On the faculty and staff of California Institute of the Arts from 1978; served as a dean"
+   ],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
@@ -2852,13 +2895,13 @@
   },
   {
    "id": "allen_wendy",
-   "name": "Wendy Allen",
+   "name": "Wendy Ann Allen",
    "aliases": [],
    "photo": null,
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "5 Dec 1949",
+    "year": 1949,
     "qualifier": null
    },
    "death": {
@@ -2866,7 +2909,7 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
+   "living": true,
    "branch": "allen",
    "branch_by_marriage": false,
    "lineages": [
@@ -2881,32 +2924,48 @@
     "allen_george_homer",
     "wheeler_dorothy_ann"
    ],
-   "spouses": [],
+   "spouses": [
+    "hoffman_hallock_b",
+    "spangler_clark"
+   ],
    "children": [],
    "siblings": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_benjamin_alistair",
     "allen_susan",
+    "allen_william_w",
     "allen_anthony",
     "allen_brooks"
    ],
-   "families": [],
+   "families": [
+    "F_allen_wendy+hoffman_hallock_b",
+    "F_allen_wendy+spangler_clark"
+   ],
    "parent_family": "F_allen_george_homer+wheeler_dorothy_ann",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Monrovia, CA",
+    "Santa Barbara, CA",
+    "Los Angeles, CA"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
-   "education": [],
+   "milestones": [
+    "Born 5 December 1949, Monrovia, California",
+    "Married Hallock B. Hoffman (m. 31 Dec 1973, Santa Barbara, CA); divorced about 1980",
+    "Married Clark Spangler at a Buddhist temple in Los Angeles"
+   ],
+   "education": [
+    "B.A. History of Science, University of California, Los Angeles",
+    "Studied international law in England (recorded as \"Oxford College, Cambridge\")"
+   ],
    "career": [],
    "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
@@ -2950,8 +3009,6 @@
    ],
    "children": [],
    "siblings": [
-    "allen_guinevere",
-    "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
     "allen_anthony",
@@ -6037,6 +6094,60 @@
    ]
   },
   {
+   "id": "dworman_jamie_leigh",
+   "name": "Jamie Leigh Dworman",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "19 Feb 1965",
+    "year": 1965,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_brooks"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_brooks+dworman_jamie_leigh"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "New York, NY"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Brooks Beatty Allen (m. 1 Apr 1990, Santa Ynez, CA)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": []
+  },
+  {
    "id": "eberhart_gladys",
    "name": "Gladys Eberhart",
    "aliases": [],
@@ -6467,6 +6578,63 @@
     "Barbara identifies her as her maternal grandmother.",
     "Siblings listed: John Joseph Quinn",
     "Emily's mother."
+   ]
+  },
+  {
+   "id": "fonshill_susan_bethany",
+   "name": "Susan Bethany Fonshill (Allen)",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "27 Sep 1958",
+    "year": 1958,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_anthony"
+   ],
+   "children": [
+    "allen_guinevere",
+    "allen_benjamin_alistair"
+   ],
+   "siblings": [],
+   "families": [
+    "F_allen_anthony+fonshill_susan_bethany"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Anthony Adams Allen (m. 1 Mar 1979, Prescott, AZ)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": [
+    "Daughter of Ira W. Fonshill and Pamela Leavitt."
    ]
   },
   {
@@ -8505,6 +8673,61 @@
     "DNA match #11 on Simons branch.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
    ]
+  },
+  {
+   "id": "hoffman_hallock_b",
+   "name": "Hallock B. Hoffman",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "1918",
+    "year": 1918,
+    "qualifier": null
+   },
+   "death": {
+    "text": "13 Dec 2006",
+    "year": 2006,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_wendy"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_wendy+hoffman_hallock_b"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Detroit, MI",
+    "Desert Hot Springs, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Wendy Ann Allen (m. 31 Dec 1973, Santa Barbara, CA); divorced about 1980"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": []
   },
   {
    "id": "hohimer_harralson_d",
@@ -11305,6 +11528,60 @@
     "Siblings listed: Ethan, Gabrielle, and Gavin",
     "CORRECTION 2026-09-22: Removed a block of family-wide places (Posen, Battle Creek, Honolulu, Tacoma …) that had been copied onto 48 records; kept only those that belong to this person."
    ]
+  },
+  {
+   "id": "lee_nancy_ruth",
+   "name": "Nancy Ruth Lee",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "Sep 1947",
+    "year": 1947,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_brooks"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_brooks+lee_nancy_ruth"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Van Nuys, CA"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Brooks Beatty Allen (m. 1 Apr 1986, Santa Barbara, CA)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": []
   },
   {
    "id": "louis_russell_smith",
@@ -18620,6 +18897,58 @@
    ]
   },
   {
+   "id": "spangler_clark",
+   "name": "Clark Spangler",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_wendy"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_wendy+spangler_clark"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": [
+    "Second husband of Wendy Ann Allen; married at a Buddhist temple in Los Angeles. Birth date unknown."
+   ]
+  },
+  {
    "id": "spring_juliaetta",
    "name": "Juliaetta A. Spring",
    "aliases": [],
@@ -19657,6 +19986,60 @@
    ]
   },
   {
+   "id": "weinstein_jeff",
+   "name": "Jeff Weinstein",
+   "aliases": [],
+   "photo": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "branch": "allen",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "allen_susan"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_allen_susan+weinstein_jeff"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Susan Elizabeth Allen (m. Mar 1991, Santa Barbara, CA)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
+   ],
+   "notes": [
+    "Husband of Susan Elizabeth Allen. Birth date unknown."
+   ]
+  },
+  {
    "id": "wells_arthur",
    "name": "Arthur Wells",
    "aliases": [],
@@ -19810,11 +20193,9 @@
     "allen_george_homer"
    ],
    "children": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
+    "allen_william_w",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -21111,6 +21492,36 @@
    "marriage": null
   },
   {
+   "id": "F_allen_anthony+fonshill_susan_bethany",
+   "partners": [
+    "allen_anthony",
+    "fonshill_susan_bethany"
+   ],
+   "children": [
+    "allen_guinevere",
+    "allen_benjamin_alistair"
+   ],
+   "marriage": "1 Mar 1979, Prescott, AZ"
+  },
+  {
+   "id": "F_allen_brooks+dworman_jamie_leigh",
+   "partners": [
+    "allen_brooks",
+    "dworman_jamie_leigh"
+   ],
+   "children": [],
+   "marriage": "1 Apr 1990, Santa Ynez, CA"
+  },
+  {
+   "id": "F_allen_brooks+lee_nancy_ruth",
+   "partners": [
+    "allen_brooks",
+    "lee_nancy_ruth"
+   ],
+   "children": [],
+   "marriage": "1 Apr 1986, Santa Barbara, CA"
+  },
+  {
    "id": "F_allen_frances_rosetta+charters_john_dixon",
    "partners": [
     "allen_frances_rosetta",
@@ -21135,11 +21546,9 @@
     "wheeler_dorothy_ann"
    ],
    "children": [
-    "allen_william_w",
-    "allen_guinevere",
-    "allen_benjamin_alistair",
     "allen_wendy",
     "allen_susan",
+    "allen_william_w",
     "allen_anthony",
     "allen_brooks"
    ],
@@ -21213,6 +21622,33 @@
    "partners": [
     "allen_ralph_kenneth",
     "whitman_zella_campbell"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_allen_susan+weinstein_jeff",
+   "partners": [
+    "allen_susan",
+    "weinstein_jeff"
+   ],
+   "children": [],
+   "marriage": "Mar 1991, Santa Barbara, CA"
+  },
+  {
+   "id": "F_allen_wendy+hoffman_hallock_b",
+   "partners": [
+    "allen_wendy",
+    "hoffman_hallock_b"
+   ],
+   "children": [],
+   "marriage": "31 Dec 1973, Santa Barbara, CA"
+  },
+  {
+   "id": "F_allen_wendy+spangler_clark",
+   "partners": [
+    "allen_wendy",
+    "spangler_clark"
    ],
    "children": [],
    "marriage": null

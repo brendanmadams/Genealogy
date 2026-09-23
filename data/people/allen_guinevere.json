@@ -1,6 +1,6 @@
 {
   "id": "allen_guinevere",
-  "name": "Guinevere Guin Wheeler Allen",
+  "name": "Guinevere Wheeler Allen",
   "birth": "19 Mar 1979",
   "death": "",
   "personality": [
@@ -9,7 +9,7 @@
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
-    "DNA match: 0.98% shared DNA. 23&Me label: 3C (unplaced branch). NOTE: already canonical family member. Connection via John Wesley Adams \u2192 Alberta Adams (Allen) \u2192 George Julius Allen \u2192 George Philip Allen \u2192 George Homer Allen \u2192 Guinevere. Both she and Brendan are great-great-grandchildren of John Wesley Adams, making them 4th cousins. DNA of ~0.98% is consistent with 4th cousins (expected ~0.78%, range 0.27-2.2%)."
+    "DNA match: 0.98% shared DNA. 23&Me label: 3C (unplaced branch). NOTE: already canonical family member. Connection via John Wesley Adams → Alberta Adams (Allen) → George Julius Allen → George Philip Allen → George Homer Allen → Guinevere. Both she and Brendan are great-great-grandchildren of John Wesley Adams, making them 4th cousins. DNA of ~0.98% is consistent with 4th cousins (expected ~0.78%, range 0.27-2.2%)."
   ],
   "risk_events": [],
   "milestones": [
@@ -18,8 +18,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "wheeler_dorothy_ann",
-    "father": "allen_george_homer",
+    "mother": "fonshill_susan_bethany",
+    "father": "allen_anthony",
     "siblings": [
       "allen_benjamin_alistair"
     ],
@@ -32,10 +32,16 @@
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "adams_dna_linkage_v1"
+    "adams_dna_linkage_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
     "Siblings listed: Benjamin Alistair Allen",
-    "DNA match confirmed. 4th cousin via John Wesley Adams / Alberta Adams Allen line."
+    "DNA match confirmed. 4th cousin via John Wesley Adams / Alberta Adams Allen line.",
+    "CORRECTION 2026-09-23: Parents are Anthony Adams Allen and Susan Bethany Fonshill (George Homer Allen's son and daughter-in-law), per Bill Allen's family document. Previously attached to George Homer Allen and Dorothy Ann Wheeler by mistake."
+  ],
+  "aliases": [
+    "Guin Allen",
+    "Gwen Allen"
   ]
 }

@@ -1,28 +1,42 @@
 {
   "id": "allen_susan",
-  "name": "Susan Allen",
-  "birth": "",
+  "name": "Susan Elizabeth Allen",
+  "birth": "10 May 1951",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
-  "education": [],
-  "career": [],
+  "milestones": [
+    "Born 10 May 1951, Alhambra, California",
+    "Married Jeff Weinstein (m. Mar 1991, Santa Barbara, CA)"
+  ],
+  "education": [
+    "B.F.A. and M.F.A. in Music Performance (harp), California Institute of the Arts"
+  ],
+  "career": [
+    "Harpist; solo performances at Carnegie Recital Hall; specialist in contemporary harp music; many ensemble and solo recordings",
+    "On the faculty and staff of California Institute of the Arts from 1978; served as a dean"
+  ],
   "relationships": {
     "mother": "wheeler_dorothy_ann",
     "father": "allen_george_homer",
     "siblings": [],
-    "spouse": "",
+    "spouse": "weinstein_jeff",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Alhambra, CA",
+    "Valencia, CA",
+    "Santa Barbara, CA"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
-  ]
+  ],
+  "aliases": []
 }

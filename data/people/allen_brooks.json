@@ -1,28 +1,40 @@
 {
   "id": "allen_brooks",
-  "name": "Brooks Allen",
-  "birth": "",
+  "name": "Brooks Beatty Allen",
+  "birth": "5 Jan 1961",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Born 5 January 1961, Santa Barbara, California",
+    "Married Nancy Ruth Lee (m. 1 Apr 1986, Santa Barbara, CA)",
+    "Married Jamie Leigh Dworman (m. 1 Apr 1990, Santa Ynez, CA)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "wheeler_dorothy_ann",
     "father": "allen_george_homer",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "lee_nancy_ruth",
+    "children": [],
+    "_extra_spouses": [
+      "dworman_jamie_leigh"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Santa Barbara, CA",
+    "Santa Ynez, CA"
+  ],
   "sources": [
-    "consolidated_research_digest_v1"
+    "consolidated_research_digest_v1",
+    "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
   ],
   "notes": [
     "Child of George Homer Allen and Dorothy Ann Wheeler."
-  ]
+  ],
+  "aliases": []
 }
