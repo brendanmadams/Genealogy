@@ -11,6 +11,9 @@
 
 export const CARD = { w: 176, h: 68 };
 export const GAP = { sib: 22, couple: 14, block: 44, row: 118 };
+
+/** Marriage label for a couple line: the date on the chart, the full text (with place) as its tooltip. */
+export const marriageLabel = fam => fam?.marriage ? { label: `m. ${String(fam.marriage).split(',')[0].trim()}`, title: `m. ${fam.marriage}` } : { label: '' };
 const ROW = CARD.h + GAP.row;
 
 /**
@@ -42,7 +45,8 @@ export function layoutFocus(D, focus) {
     sx += CARD.w + GAP.couple;
     const n = place(sp, sx, 0, 'spouse', { familyId: fam.id });
     spouseNodes.push(n);
-    links.push({ type: 'couple', a: fNode, b: n, label: fam.marriage ? `m. ${fam.marriage}` : '' });
+    // several spouses sit in a row; label each marriage under the gap beside that spouse
+    links.push({ type: 'couple', a: fNode, b: n, ...marriageLabel(fam), labelX: n.x - CARD.w / 2 - GAP.couple / 2 });
   }
 
   const sibs = D.siblings(focus);
@@ -122,7 +126,7 @@ export function layoutFocus(D, focus) {
       px += CARD.w + GAP.couple;
     }
     if (parentNodes.length === 2) {
-      links.push({ type: 'couple', a: parentNodes[0], b: parentNodes[1], label: parentFam?.marriage ? `m. ${parentFam.marriage}` : '' });
+      links.push({ type: 'couple', a: parentNodes[0], b: parentNodes[1], ...marriageLabel(parentFam) });
     }
     // descent from parents to focus and full siblings (half siblings link separately below)
     const from = parentNodes.length === 2
@@ -161,7 +165,7 @@ export function layoutFocus(D, focus) {
     let gx = g.x + CARD.w / 2;
     const gn = [];
     for (const gp of g.gps) { gn.push(place(gp, gx, -2 * ROW, 'grandparent')); gx += CARD.w + GAP.couple; }
-    if (gn.length === 2) links.push({ type: 'couple', a: gn[0], b: gn[1], label: g.fam?.marriage ? `m. ${g.fam.marriage}` : '' });
+    if (gn.length === 2) links.push({ type: 'couple', a: gn[0], b: gn[1], ...marriageLabel(g.fam) });
     const from = gn.length === 2 ? { x: (gn[0].x + gn[1].x) / 2, y: -2 * ROW, couple: true } : { x: gn[0].x, y: -2 * ROW };
     links.push(descent(from, [g.pn]));
   }

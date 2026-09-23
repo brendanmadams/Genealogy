@@ -116,7 +116,11 @@ export class Renderer {
       const y = l.a.y;
       const x1 = l.a.x + CARD.w / 2, x2 = l.b.x - CARD.w / 2;
       this.linkLayer.appendChild(el('line', { class: 'couple', x1, y1: y, x2, y2: y }));
-      if (l.label) this.linkLayer.appendChild(el('text', { class: 'marriage', x: (x1 + x2) / 2, y: y + CARD.h / 2 + 14, 'text-anchor': 'middle' }, l.label));
+      if (l.label) {
+        const t = el('text', { class: 'marriage', x: l.labelX ?? (x1 + x2) / 2, y: y + CARD.h / 2 + 14, 'text-anchor': 'middle' }, l.label);
+        if (l.title && l.title !== l.label) t.appendChild(el('title', {}, l.title));
+        this.linkLayer.appendChild(t);
+      }
       return;
     }
     // descent
