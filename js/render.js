@@ -29,6 +29,13 @@ export class Renderer {
     });
     d3.select(svg).call(this.zoom).on('dblclick.zoom', null);
     this.bounds = null;
+    // One shared card-shaped clip; clip coordinates follow each card's own transform.
+    const defs = svg.querySelector('defs') || svg.insertBefore(el('defs'), svg.firstChild);
+    if (!svg.querySelector('#card-shape')) {
+      const clip = el('clipPath', { id: 'card-shape' });
+      clip.appendChild(el('rect', { width: CARD.w, height: CARD.h, rx: 12 }));
+      defs.appendChild(clip);
+    }
   }
 
   draw(layout) {
@@ -147,8 +154,12 @@ export class Renderer {
     g.appendChild(el('title', {}, `${p.name}${lifespan(p) ? ' · ' + lifespan(p) : ''}`));
 
     if (n.role === 'focus') g.appendChild(el('rect', { class: 'focus-ring', x: -5, y: -5, width: CARD.w + 10, height: CARD.h + 10, rx: 16 }));
+    // Like the chips in the details panel: the colour stripe is trimmed to the
+    // card's rounded shape and the outline is drawn over it, so the corner
+    // stays one clean curve whether or not the card is selected.
     g.appendChild(el('rect', { class: 'body', width: CARD.w, height: CARD.h, rx: 12 }));
-    g.appendChild(el('rect', { class: 'stripe', width: 5, height: CARD.h, rx: 2.5 }));
+    g.appendChild(el('rect', { class: 'stripe', width: 5, height: CARD.h, 'clip-path': 'url(#card-shape)' }));
+    g.appendChild(el('rect', { class: 'body outline', width: CARD.w, height: CARD.h, rx: 12 }));
 
     // portrait: initials, replaced by images/<id>.jpg when one exists
     const cx = 34, cy = CARD.h / 2, r = 22;

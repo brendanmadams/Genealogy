@@ -90,6 +90,8 @@ body.has-panel #main { grid-template-columns: var(--sidebar-w) 1fr var(--panel-w
 /* SVG cards */
 .card { cursor: pointer; outline: none; }
 .card .body { fill: var(--card); stroke: var(--line); stroke-width: 1; transition: fill .15s; }
+.card .body.outline, .card:hover .body.outline, .card:focus-visible .body.outline { fill: none; pointer-events: none; }
+.card .body:not(.outline) { stroke: none; }
 .card:hover .body, .card:focus-visible .body { fill: var(--card-hover); stroke: var(--line-strong); }
 .card .stripe { fill: var(--branch); }
 .card .avatar { fill: color-mix(in srgb, var(--branch) 18%, transparent); stroke: var(--branch); stroke-opacity: .55; }
