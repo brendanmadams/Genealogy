@@ -146,6 +146,11 @@ export function relate(D, aId, bId) {
   }
   // an ancestor's spouse at the start is a step-relation: "step-grandmother"
   if (parts.length > 1 && ANCESTOR.test(parts[0][0]) && parts[1][0] === 'spouse') parts.splice(0, 2, [`step-${parts[0][0]}`, parts[1][1]]);
+  // and a step-relation's child is a stepsibling or step-aunt: "step-great-aunt"
+  if (parts.length > 1 && /^step-/.test(parts[0][0]) && parts[1][0] === 'child') {
+    const t = parts[0][0] === 'step-parent' ? 'stepsibling' : parts[0][0].replace(/grandparent$/, 'aunt or uncle');
+    parts.splice(0, 2, [t, parts[1][1]]);
+  }
   return { kind: 'marriage', text: parts.map(([w, id]) => genderize(w, sexOf(D, id))).join('’s '), path, ancestors: [] };
 }
 
