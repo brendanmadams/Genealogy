@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-09-23T17:54:48.691Z",
-  "people": 601,
-  "family_members": 551,
+  "generated": "2026-09-23T17:58:28.181Z",
+  "people": 602,
+  "family_members": 552,
   "dna_matches": 50,
-  "connected_people": 551,
+  "connected_people": 552,
   "families": 183,
   "branches": [
    "adams",
@@ -11986,6 +11986,66 @@
    ],
    "notes": [
     "Listed in Index of Names under DEVAW, page 5, no dates [Bill Allen, Descendants of Jose Pierre Adams, line 5796]"
+   ]
+  },
+  {
+   "id": "dickpettie_rosemary",
+   "name": "Rosemary Dickpettie (Olson)",
+   "aliases": [
+    "Rosemary Olson"
+   ],
+   "photo": null,
+   "card_name": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "olson_tom_umpa"
+   ],
+   "children": [
+    "olson_kris",
+    "olson_tom",
+    "olson_sigrid"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dickpettie_rosemary+olson_tom_umpa"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026"
+   ],
+   "notes": [
+    "Wife of Tom \"Umpa\" Olson; Megan Adams’s maternal grandmother."
    ]
   },
   {
@@ -30805,8 +30865,9 @@
    "lineages": [],
    "adopted": false,
    "father": "olson_tom_umpa",
-   "mother": null,
+   "mother": "dickpettie_rosemary",
    "parents": [
+    "dickpettie_rosemary",
     "olson_tom_umpa"
    ],
    "spouses": [
@@ -30823,7 +30884,7 @@
    "families": [
     "F_falde_randy+olson_kris"
    ],
-   "parent_family": "F_olson_tom_umpa",
+   "parent_family": "F_dickpettie_rosemary+olson_tom_umpa",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -30923,8 +30984,9 @@
    "lineages": [],
    "adopted": false,
    "father": "olson_tom_umpa",
-   "mother": null,
+   "mother": "dickpettie_rosemary",
    "parents": [
+    "dickpettie_rosemary",
     "olson_tom_umpa"
    ],
    "spouses": [],
@@ -30934,7 +30996,7 @@
     "olson_tom"
    ],
    "families": [],
-   "parent_family": "F_olson_tom_umpa",
+   "parent_family": "F_dickpettie_rosemary+olson_tom_umpa",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -30976,8 +31038,9 @@
    "lineages": [],
    "adopted": false,
    "father": "olson_tom_umpa",
-   "mother": null,
+   "mother": "dickpettie_rosemary",
    "parents": [
+    "dickpettie_rosemary",
     "olson_tom_umpa"
    ],
    "spouses": [
@@ -30995,7 +31058,7 @@
    "families": [
     "F_olson_bonnie+olson_tom"
    ],
-   "parent_family": "F_olson_tom_umpa",
+   "parent_family": "F_dickpettie_rosemary+olson_tom_umpa",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -31043,7 +31106,9 @@
    "father": null,
    "mother": null,
    "parents": [],
-   "spouses": [],
+   "spouses": [
+    "dickpettie_rosemary"
+   ],
    "children": [
     "olson_kris",
     "olson_tom",
@@ -31051,7 +31116,7 @@
    ],
    "siblings": [],
    "families": [
-    "F_olson_tom_umpa"
+    "F_dickpettie_rosemary+olson_tom_umpa"
    ],
    "parent_family": null,
    "connected": true,
@@ -43447,6 +43512,19 @@
    "marriage": null
   },
   {
+   "id": "F_dickpettie_rosemary+olson_tom_umpa",
+   "partners": [
+    "dickpettie_rosemary",
+    "olson_tom_umpa"
+   ],
+   "children": [
+    "olson_kris",
+    "olson_tom",
+    "olson_sigrid"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_douglas_elizabeth+hamilton_gavin_d1814",
    "partners": [
     "douglas_elizabeth",
@@ -44287,18 +44365,6 @@
     "olson_nels",
     "olson_kari",
     "olson_tommy"
-   ],
-   "marriage": null
-  },
-  {
-   "id": "F_olson_tom_umpa",
-   "partners": [
-    "olson_tom_umpa"
-   ],
-   "children": [
-    "olson_kris",
-    "olson_tom",
-    "olson_sigrid"
    ],
    "marriage": null
   },

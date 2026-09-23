@@ -1,6 +1,6 @@
 {
-  "id": "olson_kris",
-  "name": "Kris Olson (Falde)",
+  "id": "dickpettie_rosemary",
+  "name": "Rosemary Dickpettie (Olson)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -8,19 +8,18 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [
-    "Married Randy Falde; later divorced"
-  ],
+  "milestones": [],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "dickpettie_rosemary",
-    "father": "olson_tom_umpa",
+    "mother": "",
+    "father": "",
     "siblings": [],
-    "spouse": "falde_randy",
+    "spouse": "olson_tom_umpa",
     "children": [
-      "falde_brendan",
-      "megan_marie_adams"
+      "olson_kris",
+      "olson_tom",
+      "olson_sigrid"
     ]
   },
   "locations": [],
@@ -28,9 +27,9 @@
     "Brendan Adams (personal knowledge), 2026"
   ],
   "notes": [
-    "Megan Adams’s mother. Married and later divorced Randy Falde."
+    "Wife of Tom \"Umpa\" Olson; Megan Adams’s maternal grandmother."
   ],
   "aliases": [
-    "Kris Falde"
+    "Rosemary Olson"
   ]
 }
