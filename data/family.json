@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-23T21:39:40.216Z",
+  "generated": "2026-09-23T21:48:56.686Z",
   "people": 633,
   "family_members": 583,
   "dna_matches": 50,
@@ -1107,7 +1107,6 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Thomas Childs (per memoir p. 57)",
     "Married Thomas Childs",
     "Census 1920: Douglas County, Oregon, aged 7, born Oregon"
    ],
@@ -1123,10 +1122,10 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Sibling of George Francis Adams Sr. (Gen 4). Marriage to Thomas Childs confirmed memoir p. 57.",
     "Birth year approximate: abt 1913.",
     "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
-    "She had two sons, surname Childs; their names are not recorded."
+    "She had two sons, surname Childs; their names are not recorded.",
+    "UNPROVEN: her marriage to Thomas Childs and their two sons come from family recollection (Brendan Adams, 2026); no document in the collection records them. An earlier note cited \"memoir p. 57\", but neither John’s nor Barbara’s memoir mentions it."
    ]
   },
   {
@@ -9571,7 +9570,7 @@
   },
   {
    "id": "bill_daphne_wells",
-   "name": "Bill Childs",
+   "name": "Bill",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -9630,7 +9629,8 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Husband of Daphne Wells. They lived in the San Francisco Bay Area. (Daphne’s half-sister Edith Adams also married a Childs, Thomas.)"
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
+    "Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area."
    ]
   },
   {
@@ -11358,15 +11358,17 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Edith V. Adams (per memoir p. 57)"
+    "Married Edith V. Adams"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Husband of Edith V. Adams (George Francis Adams Sr.'s sister). New to record."
+    "Husband of Edith V. Adams, George Francis Adams Sr.’s sister; they had two sons, whose names are not recorded.",
+    "UNPROVEN: known only from family recollection (Brendan Adams, 2026); no document in the collection records the marriage."
    ]
   },
   {
@@ -12356,7 +12358,7 @@
   },
   {
    "id": "daphne_arthur",
-   "name": "Arthur Childs",
+   "name": "Arthur",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12413,12 +12415,13 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Child of Bill and Daphne (Wells) Childs; named for the letter A in the name of their first child, James, who died at birth."
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
+    "Child of Bill and Daphne (Wells); named for the letter A in the name of their first child, James, who died at birth. Surname not recorded."
    ]
   },
   {
    "id": "daphne_edward",
-   "name": "Edward Childs",
+   "name": "Edward",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12475,12 +12478,13 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Child of Bill and Daphne (Wells) Childs; named for the letter E in the name of their first child, James, who died at birth."
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
+    "Child of Bill and Daphne (Wells); named for the letter E in the name of their first child, James, who died at birth. Surname not recorded."
    ]
   },
   {
    "id": "daphne_james",
-   "name": "James Childs",
+   "name": "James",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12538,11 +12542,13 @@
    "sources": [
     "Brendan Adams (personal knowledge), 2026"
    ],
-   "notes": []
+   "notes": [
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document."
+   ]
   },
   {
    "id": "daphne_john",
-   "name": "John Childs",
+   "name": "John",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12599,12 +12605,13 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Child of Bill and Daphne (Wells) Childs; named for the letter J in the name of their first child, James, who died at birth."
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
+    "Child of Bill and Daphne (Wells); named for the letter J in the name of their first child, James, who died at birth. Surname not recorded."
    ]
   },
   {
    "id": "daphne_mary",
-   "name": "Mary Childs",
+   "name": "Mary",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12661,12 +12668,13 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Child of Bill and Daphne (Wells) Childs; named for the letter M in the name of their first child, James, who died at birth."
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
+    "Child of Bill and Daphne (Wells); named for the letter M in the name of their first child, James, who died at birth. Surname not recorded."
    ]
   },
   {
    "id": "daphne_stephen",
-   "name": "Stephen Childs",
+   "name": "Stephen",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12723,7 +12731,8 @@
     "Brendan Adams (personal knowledge), 2026"
    ],
    "notes": [
-    "Child of Bill and Daphne (Wells) Childs; named for the letter S in the name of their first child, James, who died at birth."
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
+    "Child of Bill and Daphne (Wells); named for the letter S in the name of their first child, James, who died at birth. Surname not recorded."
    ]
   },
   {
@@ -42970,10 +42979,8 @@
   },
   {
    "id": "wells_daphne",
-   "name": "Daphne Wells (Childs)",
-   "aliases": [
-    "Daphne Childs"
-   ],
+   "name": "Daphne Wells",
+   "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -43042,7 +43049,7 @@
    "notes": [
     "Daughter of Arthur T. Wells and Serena (Trumbo) Wells, so a half-sister of George Francis Adams Sr. John Adams's memoir says Serena and Arthur had a daughter together; the 1940 census of their San Francisco household lists Daphne, aged 15, born in California. [John Howard Adams, A Memoir, text line 546] Decision by Brendan Adams.",
     "Aged 15 and born in California in the 1940 census of Arthur T. Wells's San Francisco household, with Serena and George Adams. [1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)]",
-    "She and her husband Bill Childs lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen."
+    "She and her husband Bill lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen. (Unproven: family recollection.)"
    ]
   },
   {

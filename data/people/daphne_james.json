@@ -1,6 +1,6 @@
 {
   "id": "daphne_james",
-  "name": "James Childs",
+  "name": "James",
   "sex": "M",
   "birth": "",
   "death": "deceased",
@@ -25,6 +25,8 @@
   "sources": [
     "Brendan Adams (personal knowledge), 2026"
   ],
-  "notes": [],
+  "notes": [
+    "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document."
+  ],
   "aliases": []
 }

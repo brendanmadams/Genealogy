@@ -8,7 +8,7 @@
  *    Tom married Evonne "Bonnie" Jelcick on 14 Jun 1969.
  *  - Presley Adams's wife Fran and children Sally and Casey (a third child
  *    not yet named); Edith Adams Childs's two sons (names not recorded).
- *  - Daphne Wells's husband Bill and their children, named for the letters
+ *  - Daphne Wells's husband Bill (surname unknown) and their children, named for the letters
  *    of their first child James, who died at birth.
  */
 'use strict';
@@ -43,20 +43,51 @@ person('adams_casey', 'Casey Adams', 'F', p => { if (!p.death) p.death = 'deceas
 for (const k of ['adams_sally', 'adams_casey']) child(k, 'adams_presley', 'adams_fran');
 edit('adams_presley', p => note(p, 'He and Fran had three children: Sally, Casey and a third whose name is not recorded.'));
 
-// Edith Adams Childs
-edit('adams_edith_v', p => { if (p.name === 'Edith V. Adams') { add(p.aliases, 'Edith V. Adams'); p.name = 'Edith V. Adams (Childs)'; } add(p.aliases, 'Edith Childs'); note(p, 'She had two sons, surname Childs; their names are not recorded.'); });
+// Edith Adams and Thomas Childs (unproven: family recollection only; an
+// earlier note cited "memoir p. 57", but neither memoir mentions it)
+const UNP_EDITH = 'UNPROVEN: her marriage to Thomas Childs and their two sons come from family recollection (Brendan Adams, 2026); no document in the collection records them. An earlier note cited "memoir p. 57", but neither John’s nor Barbara’s memoir mentions it.';
+edit('adams_edith_v', p => {
+  if (p.name === 'Edith V. Adams') { add(p.aliases, 'Edith V. Adams'); p.name = 'Edith V. Adams (Childs)'; }
+  add(p.aliases, 'Edith Childs');
+  p.milestones = p.milestones.filter(t => t !== 'Married Thomas Childs (per memoir p. 57)');
+  p.notes = p.notes.filter(t => t !== 'Sibling of George Francis Adams Sr. (Gen 4). Marriage to Thomas Childs confirmed memoir p. 57.');
+  note(p, UNP_EDITH);
+  note(p, 'She had two sons, surname Childs; their names are not recorded.');
+});
+edit('childs_thomas', p => {
+  p.notes = p.notes.filter(t => t !== "Husband of Edith V. Adams (George Francis Adams Sr.'s sister). New to record.");
+  p.milestones = p.milestones.map(t => t === 'Married Edith V. Adams (per memoir p. 57)' ? 'Married Edith V. Adams' : t).filter((t, i, a) => a.indexOf(t) === i);
+  note(p, 'Husband of Edith V. Adams, George Francis Adams Sr.’s sister; they had two sons, whose names are not recorded.');
+  note(p, 'UNPROVEN: known only from family recollection (Brendan Adams, 2026); no document in the collection records the marriage.');
+});
 
-// Daphne Wells's family
-person('bill_daphne_wells', 'Bill Childs', 'M', p => { if (p.name === 'Bill') p.name = 'Bill Childs'; p.notes = p.notes.filter(t => t !== 'Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area.'); add(p.locations, 'San Francisco Bay Area, California'); note(p, 'Husband of Daphne Wells. They lived in the San Francisco Bay Area. (Daphne’s half-sister Edith Adams also married a Childs, Thomas.)'); });
+// Daphne Wells's family (unproven: family recollection; Bill's surname is
+// not known. For a while this script gave him the surname Childs, which came
+// from a mix-up with Edith's husband.)
+const UNP_DAPHNE = 'UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.';
+person('bill_daphne_wells', 'Bill', 'M', p => {
+  if (p.name === 'Bill Childs') p.name = 'Bill';
+  p.notes = p.notes.filter(t => !/^Husband of Daphne Wells/.test(t));
+  add(p.locations, 'San Francisco Bay Area, California');
+  note(p, 'Husband of Daphne Wells; his surname is not recorded. They lived in the San Francisco Bay Area.');
+  note(p, UNP_DAPHNE);
+});
 wed('wells_daphne', 'bill_daphne_wells');
-edit('wells_daphne', p => { if (p.name === 'Daphne Wells') p.name = 'Daphne Wells (Childs)'; add(p.aliases, 'Daphne Childs'); add(p.locations, 'San Francisco Bay Area, California'); note(p, 'She and her husband Bill Childs lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen.'); });
-const KIDS = [['daphne_james', 'James Childs', 'M'], ['daphne_john', 'John Childs', 'M'], ['daphne_arthur', 'Arthur Childs', 'M'], ['daphne_mary', 'Mary Childs', 'F'], ['daphne_edward', 'Edward Childs', 'M'], ['daphne_stephen', 'Stephen Childs', 'M']];
+edit('wells_daphne', p => {
+  if (p.name === 'Daphne Wells (Childs)') p.name = 'Daphne Wells';
+  p.aliases = p.aliases.filter(a => a !== 'Daphne Childs');
+  add(p.locations, 'San Francisco Bay Area, California');
+  p.notes = p.notes.filter(t => !/^She and her husband Bill( Childs)? lost their first child/.test(t));
+  note(p, 'She and her husband Bill lost their first child, James, at birth, and named their five later children for the letters of his name: John, Arthur, Mary, Edward and Stephen. (Unproven: family recollection.)');
+});
+const KIDS = [['daphne_james', 'James', 'M'], ['daphne_john', 'John', 'M'], ['daphne_arthur', 'Arthur', 'M'], ['daphne_mary', 'Mary', 'F'], ['daphne_edward', 'Edward', 'M'], ['daphne_stephen', 'Stephen', 'M']];
 for (const [id, name, sex] of KIDS) {
   person(id, name, sex, p => {
-    if (p.name === name.split(' ')[0]) p.name = name;
-    p.notes = p.notes.filter(t => !/ Surname not recorded\.$/.test(t));
+    if (p.name === `${name} Childs`) p.name = name;
+    p.notes = p.notes.filter(t => !/^Child of Bill and Daphne/.test(t));
     if (id === 'daphne_james') { if (!p.death) p.death = 'deceased'; add(p.milestones, 'Died at birth; the first child of Bill and Daphne'); }
-    else note(p, `Child of Bill and Daphne (Wells) Childs; named for the letter ${name[0]} in the name of their first child, James, who died at birth.`);
+    else note(p, `Child of Bill and Daphne (Wells); named for the letter ${name[0]} in the name of their first child, James, who died at birth. Surname not recorded.`);
+    note(p, UNP_DAPHNE);
   });
   child(id, 'bill_daphne_wells', 'wells_daphne');
 }
