@@ -1,0 +1,33 @@
+{
+  "id": "smith_thomas",
+  "name": "Thomas Smith",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "hampton_nellie_frances",
+    "children": [
+      "smith_may",
+      "smith_bertha_iona"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 45057978 (May Smith Dolan, Mount Calvary Cemetery, Portland)"
+  ],
+  "notes": [
+    "UNPROVEN, from the Find a Grave biography of his daughter May: married Nellie Frances Hampton on 24 Dec 1877 in Linn County, Oregon; father of Bertha Iona (1878), Alice Leona (1882), May (1886) and Mary Delpha (1888)."
+  ],
+  "aliases": []
+}

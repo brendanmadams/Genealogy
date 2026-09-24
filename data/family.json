@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T22:40:47.810Z",
-  "people": 919,
-  "family_members": 870,
+  "generated": "2026-09-24T23:08:33.736Z",
+  "people": 930,
+  "family_members": 881,
   "dna_matches": 49,
-  "connected_people": 870,
-  "families": 311,
+  "connected_people": 881,
+  "families": 317,
   "branches": [
    "adams",
    "hamilton",
@@ -17108,6 +17108,202 @@
    ]
   },
   {
+   "id": "dolan_joseph_martin",
+   "name": "Joseph Martin Dolan",
+   "aliases": [
+    "Martine Joseph Dolan"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "2 May 1882",
+    "year": 1882,
+    "qualifier": null
+   },
+   "death": {
+    "text": "6 Jul 1967",
+    "year": 1967,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "dolan_thomas",
+   "mother": "dowling_ellen",
+   "parents": [
+    "dolan_thomas",
+    "dowling_ellen"
+   ],
+   "spouses": [
+    "smith_may"
+   ],
+   "children": [
+    "dolan_sheldon_joseph"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dolan_joseph_martin+smith_may"
+   ],
+   "parent_family": "F_dolan_thomas+dowling_ellen",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Portland, Oregon",
+    "Mount Calvary Cemetery, Portland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+   ],
+   "notes": [
+    "Father of Sheldon Joseph Dolan, named as Martine Joseph Dolan on Sheldon's 1937 marriage record. Born 2 May 1882 in Portland, Oregon; died 6 Jul 1967 in Multnomah County and was buried at Mount Calvary Cemetery (Find a Grave). He married May Smith in 1906; after her death he married Annabel Fields in 1918, the mother of Martin Kenneth (1919–1997) and Arline (1921–2014) (Find a Grave).",
+    "UNPROVEN, from Find a Grave family links: son of Thomas Dolan (1829–1899) and Ellen Dowling (1845–1930)."
+   ]
+  },
+  {
+   "id": "dolan_sheldon_joseph",
+   "name": "Sheldon Joseph Dolan",
+   "aliases": [
+    "Robert Joseph Dolan",
+    "Sheldon J. Dolan"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1 Mar 1909",
+    "year": 1909,
+    "qualifier": null
+   },
+   "death": {
+    "text": "20 Jul 1942",
+    "year": 1942,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "dolan_joseph_martin",
+   "mother": "smith_may",
+   "parents": [
+    "dolan_joseph_martin",
+    "smith_may"
+   ],
+   "spouses": [
+    "hinds_marrion_roma"
+   ],
+   "children": [
+    "simons_mary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dolan_sheldon_joseph+hinds_marrion_roma"
+   ],
+   "parent_family": "F_dolan_joseph_martin+smith_may",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Portland, Oregon",
+    "Brentwood, Multnomah County, Oregon",
+    "Mount Calvary Cemetery, Portland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Stevedore / longshoreman, Portland (1940)."
+   ],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
+    "Ancestry.com, 1940 United States Federal Census (Brentwood, Multnomah County, Oregon; ED 26-58, sheets 7B–8A)",
+    "Find a Grave, memorial 45057982 (Sheldon Joseph Dolan, Mount Calvary Cemetery, Portland)"
+   ],
+   "notes": [
+    "Born 1 Mar 1909 in Portland, Oregon; died 20 Jul 1942, aged 33, and was buried at Mount Calvary Cemetery, Portland, next to his mother (Find a Grave).",
+    "As Robert Joseph Dolan, 28, of Portland, he married Marrion P. Hinds, 18, at Vancouver, Washington, on 9 Jun 1937; the record names his parents as Martine Joseph Dolan and May Dolan (Washington marriage records). In 1940, as Sheldon J. Dolan, 31, a stevedore, he lived at the rear of 6557 S.E. 67th Avenue, Brentwood, Multnomah County, with Marrion and their daughter Mary."
+   ]
+  },
+  {
+   "id": "dolan_thomas",
+   "name": "Thomas Dolan",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1829",
+    "year": 1829,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1899",
+    "year": 1899,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "dowling_ellen"
+   ],
+   "children": [
+    "dolan_joseph_martin"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dolan_thomas+dowling_ellen"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+   ],
+   "notes": [
+    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Father of Joseph Martin Dolan (born 1882 in Portland) and of Thomas J. (1880–1965), Sadie L. (Davis, 1886–1972) and Annie C. (Beberness, 1887–1945)."
+   ]
+  },
+  {
    "id": "donovan_meghan",
    "name": "Meghan Donovan",
    "aliases": [],
@@ -17329,6 +17525,65 @@
     "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
    ],
    "notes": []
+  },
+  {
+   "id": "dowling_ellen",
+   "name": "Ellen Dowling (Dolan)",
+   "aliases": [
+    "Ellen Dolan"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1845",
+    "year": 1845,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1930",
+    "year": 1930,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "dolan_thomas"
+   ],
+   "children": [
+    "dolan_joseph_martin"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dolan_thomas+dowling_ellen"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+   ],
+   "notes": [
+    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Mother of Joseph Martin Dolan, born 1882 in Portland."
+   ]
   },
   {
    "id": "drumm_jennie_s",
@@ -21653,6 +21908,67 @@
    "notes": [
     "DNA match #32. Unplaced.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "goodenough_florence_c",
+   "name": "Florence C. Goodenough (Hinds)",
+   "aliases": [
+    "Florence Hinds",
+    "Florance C. Goodenough"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hinds_hershel"
+   ],
+   "children": [
+    "hinds_marrion_roma"
+   ],
+   "siblings": [],
+   "families": [
+    "F_goodenough_florence_c+hinds_hershel"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Marrion Roma Dolan / Walker)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)"
+   ],
+   "notes": [
+    "Mother of Marrion Roma Hinds, born 26 Nov 1920 in St. Louis, Missouri: Florance C. Goodenough on Marrion's Social Security record and Florence Hinds on her 1937 marriage record."
    ]
   },
   {
@@ -28009,6 +28325,72 @@
    ]
   },
   {
+   "id": "hampton_nellie_frances",
+   "name": "Nellie Frances Hampton (Smith, Hermann)",
+   "aliases": [
+    "Nellie Frances Hermann",
+    "Nellie Smith"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "4 Jul 1860",
+    "year": 1860,
+    "qualifier": null
+   },
+   "death": {
+    "text": "18 Jan 1947",
+    "year": 1947,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "smith_thomas"
+   ],
+   "children": [
+    "smith_bertha_iona",
+    "smith_may"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hampton_nellie_frances+smith_thomas"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Albany, Linn County, Oregon",
+    "Portland, Oregon",
+    "Rose City Cemetery, Portland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 45057978 (May Smith Dolan, Mount Calvary Cemetery, Portland)",
+    "Find a Grave, memorial 284508474 (Nellie Frances Hampton Hermann, Rose City Cemetery, Portland)"
+   ],
+   "notes": [
+    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Born 4 Jul 1860 at Albany, Linn County, Oregon; married Thomas Smith on 24 Dec 1877 in Linn County, and Charles Alexander Hermann (1853–1924) in 1896; died 18 Jan 1947 in Portland, aged 86, and was buried at Rose City Cemetery."
+   ]
+  },
+  {
    "id": "hanks_mary",
    "name": "Mary Hanks (Grinnell)",
    "aliases": [
@@ -28819,6 +29201,142 @@
    "notes": [
     "DNA match #11 on Simons branch.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "hinds_hershel",
+   "name": "Hershel Hinds",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "goodenough_florence_c"
+   ],
+   "children": [
+    "hinds_marrion_roma"
+   ],
+   "siblings": [],
+   "families": [
+    "F_goodenough_florence_c+hinds_hershel"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Marrion Roma Dolan / Walker)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)"
+   ],
+   "notes": [
+    "Father of Marrion Roma Hinds, born 26 Nov 1920 in St. Louis, Missouri (her Social Security record and her 1937 marriage record). Not yet found in a census; a Merritt Hershel Hinds, born Aug 1894 in Missouri, lived in Greene County in 1900, a lead only."
+   ]
+  },
+  {
+   "id": "hinds_marrion_roma",
+   "name": "Marrion Roma Hinds (Walker)",
+   "aliases": [
+    "Marrion R. Walker",
+    "Marrion Dolan",
+    "Marrion P. Hinds",
+    "Marrion Roma Dolan"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "26 Nov 1920",
+    "year": 1920,
+    "qualifier": null
+   },
+   "death": {
+    "text": "20 Mar 2001",
+    "year": 2001,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "hinds_hershel",
+   "mother": "goodenough_florence_c",
+   "parents": [
+    "goodenough_florence_c",
+    "hinds_hershel"
+   ],
+   "spouses": [
+    "dolan_sheldon_joseph"
+   ],
+   "children": [
+    "simons_mary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dolan_sheldon_joseph+hinds_marrion_roma"
+   ],
+   "parent_family": "F_goodenough_florence_c+hinds_hershel",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Louis, Missouri",
+    "Portland, Oregon",
+    "Richland, Washington",
+    "Kennewick, Washington",
+    "Sunset Memorial Gardens, Richland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
+    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Marrion Roma Dolan / Walker)",
+    "Ancestry.com, 1940 United States Federal Census (Brentwood, Multnomah County, Oregon; ED 26-58, sheets 7B–8A)",
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Marrion R. Walker, 2001)",
+    "Ancestry.com, Web: Obituary Daily Times Index, 1995-2016 (Marrion R. (Hinds) Walker, published 21 Mar 2001)",
+    "Find a Grave, memorial 143034118 (Marrion R. Walker, Sunset Memorial Gardens, Richland)"
+   ],
+   "notes": [
+    "Born 26 Nov 1920 in St. Louis, Missouri, daughter of Hershel Hinds and Florence C. Goodenough (Social Security record, which lists her as Marrion Roma Dolan in 1942 and Marrion Roma Walker from 1951). She died on 20 Mar 2001 in Kennewick, aged 80, and was buried at Sunset Memorial Gardens, Richland (Washington death index; Find a Grave; an obituary indexed for 21 Mar 2001).",
+    "Married Robert (Sheldon) Joseph Dolan at Vancouver, Washington, on 9 Jun 1937, when she was 18; the record names her parents as Hershel and Florence Hinds. Their daughter was Mary. After Sheldon died in 1942 she married John W. Walker, born about 1916 in Colorado; in 1950 they lived at 316 Goethals, Richland, with Mary P., Roma F. and Betty A. Walker. She lived in Kennewick in 1993."
    ]
   },
   {
@@ -53313,7 +53831,8 @@
    "id": "simons_glen",
    "name": "Glen Simons",
    "aliases": [
-    "Glen E. Simons"
+    "Glen E. Simons",
+    "Glen Erwin Simons"
    ],
    "photo": null,
    "card_name": null,
@@ -53369,7 +53888,8 @@
    "priority": "normal",
    "locations": [
     "Washington",
-    "Bonney Lake, Washington"
+    "Bonney Lake, Washington",
+    "Kennewick, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -53393,7 +53913,8 @@
     "Ancestry.com, U.S. Federal Censuses 1900–1950",
     "Sumner Voiles Funeral Chapel, memorial page for Glen Simons (12 Jan 1936 – 1 Dec 2020)",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)"
    ],
    "notes": [
     "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
@@ -53403,7 +53924,8 @@
     "Open question: Were Beryl and her younger siblings born in Whatcom County, and was Glen born somewhere other than the Lynden area? Irma asks to be corrected [Family research emails, email 48]",
     "'Glen Acres', a residential development in Pasco, is named after him. [John Howard Adams, A Memoir, text line 592]",
     "Aged 4 in the 1940 census (near Richland) and 14 in 1950 as Glen E. Simons (Franklin County).",
-    "Born 12 Jan 1936; died 1 Dec 2020 (Sumner Voiles Funeral Chapel, near Bonney Lake). He and Mary were living when his sister-in-law Irene died in 2017."
+    "Born 12 Jan 1936; died 1 Dec 2020 (Sumner Voiles Funeral Chapel, near Bonney Lake). He and Mary were living when his sister-in-law Irene died in 2017.",
+    "Married on 27 Jul 1958 at Kennewick, Benton County, Washington, by Rev. H. H. Underwood, a Methodist minister, under a license issued by the Franklin County auditor on 7 Jul 1958; witnesses Orvel K. Simons (Glen's brother Orval) and Jane Hudson. Glen, of Franklin County, signed \"Glen Erwin Simons\"; Mary Patricia Walker was of Benton County (Franklin County marriage certificate no. 9306)."
    ]
   },
   {
@@ -54818,7 +55340,9 @@
    "id": "simons_mary",
    "name": "Mary Patricia Walker (Simons)",
    "aliases": [
-    "Mary Simons"
+    "Mary Simons",
+    "Mary Dolan",
+    "Mary P. Walker"
    ],
    "photo": null,
    "card_name": null,
@@ -54835,14 +55359,17 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "dolan_sheldon_joseph",
+   "mother": "hinds_marrion_roma",
+   "parents": [
+    "dolan_sheldon_joseph",
+    "hinds_marrion_roma"
+   ],
    "spouses": [
     "simons_glen"
    ],
@@ -54854,7 +55381,7 @@
    "families": [
     "F_simons_glen+simons_mary"
    ],
-   "parent_family": null,
+   "parent_family": "F_dolan_sheldon_joseph+hinds_marrion_roma",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -54871,11 +55398,15 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
+    "Ancestry.com, 1940 United States Federal Census (Brentwood, Multnomah County, Oregon; ED 26-58, sheets 7B–8A)",
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)"
    ],
    "notes": [
     "Wife of Glen Simons.",
-    "Born Mary Patricia Walker; she married Glen E. Simons on 27 Jul 1958 in Franklin County, Washington (recorded 29 Jul 1958)."
+    "Married on 27 Jul 1958 at Kennewick, Benton County, Washington, by Rev. H. H. Underwood, a Methodist minister, under a license issued by the Franklin County auditor on 7 Jul 1958; witnesses Orvel K. Simons (Glen's brother Orval) and Jane Hudson. Glen, of Franklin County, signed \"Glen Erwin Simons\"; Mary Patricia Walker was of Benton County (Franklin County marriage certificate no. 9306).",
+    "Inferred: the daughter of Sheldon Joseph Dolan and Marrion Roma Hinds. In 1940 the Dolans had a daughter Mary in Portland, Oregon; Sheldon died in 1942, Marrion married John W. Walker, and in 1950 Mary P. Walker lived in Richland, Washington, with Marrion, her stepfather John W. Walker and her half-sisters Roma F. and Betty A. Walker. She married as Mary Patricia Walker, her stepfather's surname."
    ]
   },
   {
@@ -55321,11 +55852,13 @@
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
-    "Washington State Archives, Digital Archives, Department of Health, Marriage Index, 1969-2022"
+    "Washington State Archives, Digital Archives, Department of Health, Marriage Index, 1969-2022",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)"
    ],
    "notes": [
     "Brother of Beryl Simons Adams.",
-    "Open question: an Orvel K. Simons married Ruth E. Bates (born Connor) on 12 Mar 1977 in Franklin County (Department of Health marriage index). If this is Orval, he and Irene had divorced before his death in 1979."
+    "Open question: an Orvel K. Simons married Ruth E. Bates (born Connor) on 12 Mar 1977 in Franklin County (Department of Health marriage index). If this is Orval, he and Irene had divorced before his death in 1979.",
+    "A witness, as Orvel K. Simons, at the wedding of his brother Glen and Mary Patricia Walker at Kennewick on 27 Jul 1958 (Franklin County marriage certificate no. 9306)."
    ]
   },
   {
@@ -56532,6 +57065,74 @@
    ]
   },
   {
+   "id": "smith_bertha_iona",
+   "name": "Bertha Iona Smith (Trumbo)",
+   "aliases": [
+    "Bertha Iona Trumbo"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "13 Mar 1878",
+    "year": 1878,
+    "qualifier": null
+   },
+   "death": {
+    "text": "16 Feb 1968",
+    "year": 1968,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "trumbo",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": "smith_thomas",
+   "mother": "hampton_nellie_frances",
+   "parents": [
+    "hampton_nellie_frances",
+    "smith_thomas"
+   ],
+   "spouses": [
+    "trumbo_john_holmes"
+   ],
+   "children": [],
+   "siblings": [
+    "smith_may"
+   ],
+   "families": [
+    "F_smith_bertha_iona+trumbo_john_holmes"
+   ],
+   "parent_family": "F_hampton_nellie_frances+smith_thomas",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Oregon",
+    "Seattle, Washington",
+    "Anderson Cemetery, East Stanwood, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 143890754 (Bertha Iona Smith Trumbo, Anderson Cemetery, East Stanwood)",
+    "Find a Grave, memorial 45057978 (May Smith Dolan, Mount Calvary Cemetery, Portland)"
+   ],
+   "notes": [
+    "Born 13 Mar 1878 in Oregon, the eldest daughter of Nellie Frances Hampton; died 16 Feb 1968 in Seattle, aged 89, and was buried at Anderson Cemetery, East Stanwood (Find a Grave). She married Charles Owen Wells in 1897, Albert Harmon in 1905 and, in 1953, John Holmes Trumbo, the brother of Serena Trumbo Adams (Find a Grave).",
+    "Her sister May Smith was the grandmother of Mary Patricia Walker (Simons), so the Simons and Trumbo branches meet here, by marriage only."
+   ]
+  },
+  {
    "id": "smith_brianna",
    "name": "Brianna Smith",
    "aliases": [],
@@ -56656,6 +57257,76 @@
    ]
   },
   {
+   "id": "smith_may",
+   "name": "May Smith (Dolan)",
+   "aliases": [
+    "May Dolan"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "3 Jan 1886",
+    "year": 1886,
+    "qualifier": null
+   },
+   "death": {
+    "text": "15 Jan 1915",
+    "year": 1915,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "smith_thomas",
+   "mother": "hampton_nellie_frances",
+   "parents": [
+    "hampton_nellie_frances",
+    "smith_thomas"
+   ],
+   "spouses": [
+    "dolan_joseph_martin"
+   ],
+   "children": [
+    "dolan_sheldon_joseph"
+   ],
+   "siblings": [
+    "smith_bertha_iona"
+   ],
+   "families": [
+    "F_dolan_joseph_martin+smith_may"
+   ],
+   "parent_family": "F_hampton_nellie_frances+smith_thomas",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hardman, Morrow County, Oregon",
+    "Portland, Oregon",
+    "Mount Calvary Cemetery, Portland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
+    "Find a Grave, memorial 45057978 (May Smith Dolan, Mount Calvary Cemetery, Portland)"
+   ],
+   "notes": [
+    "Mother of Sheldon Joseph Dolan, named as May Dolan on his 1937 marriage record. Born 3 Jan 1886 at Hardman, Morrow County, Oregon; married Joseph Martin Dolan in 1906; died 15 Jan 1915 in Portland, aged 29, and was buried at Mount Calvary Cemetery; her children were Sheldon (1909) and Marjorie (1911–1996) (Find a Grave).",
+    "UNPROVEN, from the Find a Grave biography: daughter of Thomas Smith and Nellie Frances Hampton, who married on 24 Dec 1877 in Linn County, Oregon. Her sisters were Bertha Iona (1878–1968), Alice Leona (Tennent, 1882–1972) and Mary Delpha (Parker, 1888–1970)."
+   ]
+  },
+  {
    "id": "smith_serina",
    "name": "Serina Smith",
    "aliases": [],
@@ -56716,6 +57387,64 @@
    ],
    "notes": [
     "Spouse of John Wesley Adams (m. 1907)."
+   ]
+  },
+  {
+   "id": "smith_thomas",
+   "name": "Thomas Smith",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hampton_nellie_frances"
+   ],
+   "children": [
+    "smith_bertha_iona",
+    "smith_may"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hampton_nellie_frances+smith_thomas"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 45057978 (May Smith Dolan, Mount Calvary Cemetery, Portland)"
+   ],
+   "notes": [
+    "UNPROVEN, from the Find a Grave biography of his daughter May: married Nellie Frances Hampton on 24 Dec 1877 in Linn County, Oregon; father of Bertha Iona (1878), Alice Leona (1882), May (1886) and Mary Delpha (1888)."
    ]
   },
   {
@@ -60197,8 +60926,8 @@
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1964",
+    "year": 1964,
     "qualifier": null
    },
    "living": false,
@@ -60215,7 +60944,9 @@
     "buckley_hannah_louise",
     "trumbo_presley_neville"
    ],
-   "spouses": [],
+   "spouses": [
+    "smith_bertha_iona"
+   ],
    "children": [],
    "siblings": [
     "trumbo_lizzie_buckley",
@@ -60224,13 +60955,17 @@
     "trumbo_serena_marie",
     "trumbo_george"
    ],
-   "families": [],
+   "families": [
+    "F_smith_bertha_iona+trumbo_john_holmes"
+   ],
    "parent_family": "F_buckley_hannah_louise+trumbo_presley_neville",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Yankee Fork mining camp, Custer County, Idaho"
+    "Yankee Fork mining camp, Custer County, Idaho",
+    "Seattle, Washington",
+    "Acacia Memorial Park, Lake Forest Park, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -60243,11 +60978,13 @@
    "sources": [
     "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
     "Ancestry.com, Idaho, U.S., Birth Records, 1861-1924 (John Holmes Trumbo, certificate 318981)",
-    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)"
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)",
+    "Find a Grave, memorial 85562184 (John Holmes Trumbo, Acacia Memorial Park, Lake Forest Park)"
    ],
    "notes": [
     "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older brother of Serena Trumbo Adams. Named, with his birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house.",
-    "Born 22 Oct 1881 at the Yankee Fork mining camp, Custer County, Idaho, the first child of Presley Nevil Trumbo and Hannah Louise Buckley (delayed Idaho birth certificate, filed 20 Aug 1941 on the sworn statement of J. C. Mills of Boise, a cousin). In 1900, aged 18, he was a shingle weaver at Dryad, Lewis County, Washington."
+    "Born 22 Oct 1881 at the Yankee Fork mining camp, Custer County, Idaho, the first child of Presley Nevil Trumbo and Hannah Louise Buckley (delayed Idaho birth certificate, filed 20 Aug 1941 on the sworn statement of J. C. Mills of Boise, a cousin). In 1900, aged 18, he was a shingle weaver at Dryad, Lewis County, Washington.",
+    "Registered for the draft in Seattle in 1942, giving his birth as 22 Oct 1881 at \"Jarkee Fork\" (Yankee Fork), Idaho. He died in 1964, aged 82, and his ashes are at Acacia Memorial Park, Lake Forest Park. His first wife, Jane (1870–1949), was the mother of Virginia Janet (Kidd, 1908–1999); in 1953 he married Bertha Iona Smith, whose sister May was the grandmother of Mary Patricia Walker (Simons) (Find a Grave)."
    ]
   },
   {
@@ -66531,6 +67268,39 @@
    "marriage": "6 Apr 1945"
   },
   {
+   "id": "F_dolan_joseph_martin+smith_may",
+   "partners": [
+    "dolan_joseph_martin",
+    "smith_may"
+   ],
+   "children": [
+    "dolan_sheldon_joseph"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_dolan_sheldon_joseph+hinds_marrion_roma",
+   "partners": [
+    "dolan_sheldon_joseph",
+    "hinds_marrion_roma"
+   ],
+   "children": [
+    "simons_mary"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_dolan_thomas+dowling_ellen",
+   "partners": [
+    "dolan_thomas",
+    "dowling_ellen"
+   ],
+   "children": [
+    "dolan_joseph_martin"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_doshier_doug+simons_judy",
    "partners": [
     "doshier_doug",
@@ -66832,6 +67602,17 @@
     "gilden_christopher",
     "gilden_patrick",
     "gilden_kelly"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_goodenough_florence_c+hinds_hershel",
+   "partners": [
+    "goodenough_florence_c",
+    "hinds_hershel"
+   ],
+   "children": [
+    "hinds_marrion_roma"
    ],
    "marriage": null
   },
@@ -67247,6 +68028,18 @@
     "hamilton_caroline_1845",
     "hamilton_mary_a",
     "hamilton_eunice"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_hampton_nellie_frances+smith_thomas",
+   "partners": [
+    "hampton_nellie_frances",
+    "smith_thomas"
+   ],
+   "children": [
+    "smith_bertha_iona",
+    "smith_may"
    ],
    "marriage": null
   },
@@ -68556,6 +69349,15 @@
    "children": [
     "young_jacobina"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_smith_bertha_iona+trumbo_john_holmes",
+   "partners": [
+    "smith_bertha_iona",
+    "trumbo_john_holmes"
+   ],
+   "children": [],
    "marriage": null
   },
   {

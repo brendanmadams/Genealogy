@@ -1,0 +1,34 @@
+{
+  "id": "dowling_ellen",
+  "name": "Ellen Dowling (Dolan)",
+  "sex": "F",
+  "birth": "1845",
+  "death": "1930",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "dolan_thomas",
+    "children": [
+      "dolan_joseph_martin"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+  ],
+  "notes": [
+    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Mother of Joseph Martin Dolan, born 1882 in Portland."
+  ],
+  "aliases": [
+    "Ellen Dolan"
+  ]
+}

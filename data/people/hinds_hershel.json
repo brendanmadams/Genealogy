@@ -1,0 +1,33 @@
+{
+  "id": "hinds_hershel",
+  "name": "Hershel Hinds",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "goodenough_florence_c",
+    "children": [
+      "hinds_marrion_roma"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Marrion Roma Dolan / Walker)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)"
+  ],
+  "notes": [
+    "Father of Marrion Roma Hinds, born 26 Nov 1920 in St. Louis, Missouri (her Social Security record and her 1937 marriage record). Not yet found in a census; a Merritt Hershel Hinds, born Aug 1894 in Missouri, lived in Greene County in 1900, a lead only."
+  ],
+  "aliases": []
+}

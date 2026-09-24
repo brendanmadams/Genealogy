@@ -1,0 +1,32 @@
+{
+  "id": "dolan_thomas",
+  "name": "Thomas Dolan",
+  "sex": "M",
+  "birth": "1829",
+  "death": "1899",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "dowling_ellen",
+    "children": [
+      "dolan_joseph_martin"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+  ],
+  "notes": [
+    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Father of Joseph Martin Dolan (born 1882 in Portland) and of Thomas J. (1880–1965), Sadie L. (Davis, 1886–1972) and Annie C. (Beberness, 1887–1945)."
+  ],
+  "aliases": []
+}

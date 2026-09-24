@@ -14,8 +14,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "hinds_marrion_roma",
+    "father": "dolan_sheldon_joseph",
     "siblings": [],
     "spouse": "simons_glen",
     "children": [
@@ -26,14 +26,20 @@
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
+    "Ancestry.com, 1940 United States Federal Census (Brentwood, Multnomah County, Oregon; ED 26-58, sheets 7B–8A)",
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)"
   ],
   "notes": [
     "Wife of Glen Simons.",
-    "Born Mary Patricia Walker; she married Glen E. Simons on 27 Jul 1958 in Franklin County, Washington (recorded 29 Jul 1958)."
+    "Married on 27 Jul 1958 at Kennewick, Benton County, Washington, by Rev. H. H. Underwood, a Methodist minister, under a license issued by the Franklin County auditor on 7 Jul 1958; witnesses Orvel K. Simons (Glen's brother Orval) and Jane Hudson. Glen, of Franklin County, signed \"Glen Erwin Simons\"; Mary Patricia Walker was of Benton County (Franklin County marriage certificate no. 9306).",
+    "Inferred: the daughter of Sheldon Joseph Dolan and Marrion Roma Hinds. In 1940 the Dolans had a daughter Mary in Portland, Oregon; Sheldon died in 1942, Marrion married John W. Walker, and in 1950 Mary P. Walker lived in Richland, Washington, with Marrion, her stepfather John W. Walker and her half-sisters Roma F. and Betty A. Walker. She married as Mary Patricia Walker, her stepfather's surname."
   ],
   "aliases": [
-    "Mary Simons"
+    "Mary Simons",
+    "Mary Dolan",
+    "Mary P. Walker"
   ],
   "sex": "F"
 }
