@@ -117,12 +117,12 @@ edit('ball_george_w', [C1900, WILL], p => {
   note(p, "In 1900 his household held his son John F. (born Oct 1872) and daughters Hattie E. (Aug 1879) and Martha (Dec 1882). His will names three children, Mollie Carroll (wife of Will Carroll), Johnnie Ball and Dasie Ball, and a granddaughter, Eva Brickell.");
 });
 
-// ── Ed Simons's daughter's family (living: names and relationships only) ────
+// ── Ed Simons's daughter's family (living: names, relationships and the girls' birth years) ──
 const SHARON = "Sharon Simons, via Brendan Adams, 2026-09-24";
 person('henley_kayla', 'Kayla Simons (Henley)', 'F', SHARON, p => { add(p.aliases, 'Kayla Henley'); add(p.aliases, 'Kayla Simons'); });
 person('henley_austin', 'Austin Henley', 'M', SHARON);
-person('henley_kayliah', 'Kayliah Henley', 'F', SHARON);
-person('henley_elizabeth', 'Elizabeth “Ellie” Henley', 'F', SHARON, p => add(p.aliases, 'Ellie Henley'));
+person('henley_kayliah', 'Kayliah Henley', 'F', SHARON, p => { if (!p.birth) p.birth = '2015'; });
+person('henley_elizabeth', 'Elizabeth “Ellie” Henley', 'F', SHARON, p => { add(p.aliases, 'Ellie Henley'); if (!p.birth) p.birth = '2020'; });
 edit('simons_ed', SHARON, () => {});
 child('henley_kayla', 'simons_ed', '');
 wed('henley_kayla', 'henley_austin');

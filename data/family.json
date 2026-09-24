@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T19:25:09.930Z",
+  "generated": "2026-09-24T19:27:33.333Z",
   "people": 911,
   "family_members": 862,
   "dna_matches": 49,
@@ -28316,7 +28316,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -28364,8 +28364,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "2020",
+    "year": 2020,
     "qualifier": null
    },
    "death": {
@@ -28373,8 +28373,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -28435,7 +28435,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -28487,8 +28487,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "2015",
+    "year": 2015,
     "qualifier": null
    },
    "death": {
@@ -28496,8 +28496,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
