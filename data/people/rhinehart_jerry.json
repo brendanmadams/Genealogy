@@ -1,33 +1,49 @@
 {
   "id": "rhinehart_jerry",
-  "name": "Jerry Rinehart",
-  "birth": "",
-  "death": "",
+  "name": "Jerry Allen Rinehart",
+  "birth": "15 Oct 1936",
+  "death": "21 Jun 2016",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
+  ],
   "education": [],
-  "career": [],
+  "career": [
+    "Diesel mechanic, truck driver and landscape contractor; U.S. military veteran."
+  ],
   "relationships": {
     "mother": "simons_elaine_deretha",
     "father": "rhinehart_les",
     "siblings": [
-      "rhinehart_janet",
-      "rhinehart_debbie"
+      "rhinehart_janet"
     ],
     "spouse": "rinehart_linda",
-    "children": []
+    "children": [
+      "rinehart_martin"
+    ]
   },
-  "locations": [],
-  "sources": [
-    "Brendan Adams, 2026-09-22"
+  "locations": [
+    "Mount Vernon, Washington",
+    "Pasco, Washington"
   ],
-  "notes": [],
+  "sources": [
+    "Brendan Adams, 2026-09-22",
+    "Find a Grave, memorial 281162175 (Jerry Allen Rinehart, Desert Lawn Memorial Park, Kennewick)",
+    "Obituary of Jerry Allen Rinehart, Tri-City Herald, 23 Jun 2016",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+  ],
+  "notes": [
+    "Born 15 Oct 1936 at Mount Vernon, Washington (the Kulp-Ritchey-Dorsett tree gives 1937); in the Tri-Cities from 1938. Died 21 Jun 2016 at Pasco. His Korean War-era draft registration names his mother, Mrs. Elaine Rinehart. His 2016 obituary does not name his children; his mother's 2011 obituary names a grandson, Martin Rinehart."
+  ],
   "aliases": [
-    "Jerry Rhinehart"
+    "Jerry Rhinehart",
+    "Jerry Rinehart",
+    "Jerry Allyn Rinehart"
   ],
   "sex": "M"
 }

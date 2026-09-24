@@ -1,0 +1,32 @@
+{
+  "id": "holter_jana",
+  "name": "Jana Holter",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "rhinehart_janet",
+    "father": "holter_duane",
+    "siblings": [
+      "holter_jeff"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+  ],
+  "notes": [
+    "Grandchild of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a child of Janet (Rinehart) and Duane Holter."
+  ],
+  "aliases": []
+}

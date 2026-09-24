@@ -1,0 +1,35 @@
+{
+  "id": "borton_ruth_trilby",
+  "name": "Ruth Trilby Borton (Forester)",
+  "sex": "F",
+  "birth": "1896",
+  "death": "1983",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Glenn C. Forester (m. 3 Nov 1917)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "forester_glenn_c",
+    "children": [
+      "forester_betty_joyce",
+      "forester_dorothy_jean"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+  ],
+  "notes": [
+    "First wife of Glenn C. Forester (m. 3 Nov 1917, Jackson, Michigan)."
+  ],
+  "aliases": []
+}

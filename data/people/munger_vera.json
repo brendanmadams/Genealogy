@@ -1,0 +1,34 @@
+{
+  "id": "munger_vera",
+  "name": "Vera Munger (Forester)",
+  "sex": "F",
+  "birth": "1898",
+  "death": "1992",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Ivan Duane Forester"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "forester_ivan_duane",
+    "children": [
+      "forester_max"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+  ],
+  "notes": [
+    "Wife of Ivan Duane Forester."
+  ],
+  "aliases": []
+}

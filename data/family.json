@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T16:00:03.961Z",
-  "people": 863,
-  "family_members": 813,
+  "generated": "2026-09-24T16:14:34.276Z",
+  "people": 885,
+  "family_members": 835,
   "dna_matches": 50,
-  "connected_people": 813,
-  "families": 294,
+  "connected_people": 835,
+  "families": 302,
   "branches": [
    "adams",
    "hamilton",
@@ -10665,6 +10665,66 @@
    ]
   },
   {
+   "id": "borton_ruth_trilby",
+   "name": "Ruth Trilby Borton (Forester)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1896",
+    "year": 1896,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1983",
+    "year": 1983,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "forester_glenn_c"
+   ],
+   "children": [
+    "forester_betty_joyce",
+    "forester_dorothy_jean"
+   ],
+   "siblings": [],
+   "families": [
+    "F_borton_ruth_trilby+forester_glenn_c"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Glenn C. Forester (m. 3 Nov 1917)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "First wife of Glenn C. Forester (m. 3 Nov 1917, Jackson, Michigan)."
+   ]
+  },
+  {
    "id": "braden_helen",
    "name": "Helen Elizabeth Braden (Fryman)",
    "aliases": [
@@ -11223,7 +11283,8 @@
    "id": "burch_etta",
    "name": "Etta May Burch (Forester)",
    "aliases": [
-    "Etta May Burch Forester"
+    "Etta May Burch Forester",
+    "Addie May Burch"
    ],
    "photo": null,
    "card_name": null,
@@ -11251,7 +11312,10 @@
    "spouses": [
     "forester_charles_elmer"
    ],
-   "children": [],
+   "children": [
+    "forester_glenn_c",
+    "forester_ivan_duane"
+   ],
    "siblings": [],
    "families": [
     "F_burch_etta+forester_charles_elmer"
@@ -11272,10 +11336,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Find a Grave, memorial 57296267"
+    "Find a Grave, memorial 57296267",
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
    ],
    "notes": [
-    "Wife of Charles Elmer “Charlie” Forester, married 1896 (Find a Grave, memorial 57296267)."
+    "Wife of Charles Elmer “Charlie” Forester, married 1896 (Find a Grave, memorial 57296267).",
+    "The Cox Family Tree calls her Addie May \"Etta\" Burch."
    ]
   },
   {
@@ -13774,6 +13840,63 @@
    ]
   },
   {
+   "id": "cox_loren_wayne",
+   "name": "Loren Wayne Cox",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1933",
+    "year": 1933,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2009",
+    "year": 2009,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "forester_dorothy_jean"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_cox_loren_wayne+forester_dorothy_jean"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Dorothy Jean Forester (Cox) (m. 4 Jul 1951)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Husband of Dorothy Jean (Forester) Cox."
+   ]
+  },
+  {
    "id": "craig_louise",
    "name": "Louise Craig",
    "aliases": [],
@@ -14816,6 +14939,144 @@
    ]
   },
   {
+   "id": "decker_cleda_marie",
+   "name": "Cleda Marie Decker (Merithew)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "15 Jul 1914",
+    "year": 1914,
+    "qualifier": null
+   },
+   "death": {
+    "text": "25 Sep 1941",
+    "year": 1941,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "decker_clyde",
+   "mother": "decker_merle",
+   "parents": [
+    "decker_clyde",
+    "decker_merle"
+   ],
+   "spouses": [
+    "merithew_harold_romeyn"
+   ],
+   "children": [
+    "merithew_philip_romeyn",
+    "merithew_susan_rebecca",
+    "merithew_sharon_annette",
+    "merithew_gay_marie"
+   ],
+   "siblings": [
+    "decker_clesson_dale"
+   ],
+   "families": [
+    "F_decker_cleda_marie+merithew_harold_romeyn"
+   ],
+   "parent_family": "F_decker_clyde+decker_merle",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Bronson, Branch County, Michigan",
+    "Howell, Livingston County, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Harold Romeyn Merithew Sr. (m. 31 Jul 1931)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Daughter of Clyde and Merle (Waddell) Decker. Born 15 Jul 1914 at Bronson, Michigan; married Harold Romeyn Merithew Sr. on 31 Jul 1931 in Elkhart County, Indiana; died 25 Sep 1941 at Howell, Michigan, the day her daughter Gay Marie was born, and was buried there on 28 Sep. The tree lists seven children: Philip, Susan, Sharon, Gay Marie and three living."
+   ]
+  },
+  {
+   "id": "decker_clesson_dale",
+   "name": "Clesson Dale Decker",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1910",
+    "year": 1910,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "decker_clyde",
+   "mother": "decker_merle",
+   "parents": [
+    "decker_clyde",
+    "decker_merle"
+   ],
+   "spouses": [
+    "heistand_alice"
+   ],
+   "children": [],
+   "siblings": [
+    "decker_cleda_marie"
+   ],
+   "families": [
+    "F_decker_clesson_dale+heistand_alice"
+   ],
+   "parent_family": "F_decker_clyde+decker_merle",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Branch County, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Alice Heistand (Decker) (m. 8 Aug 1928)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Son of Clyde and Merle (Waddell) Decker; born about 1910 in Branch County, Michigan. He married Alice Heistand on 8 Aug 1928 at Kalamazoo, Michigan."
+   ]
+  },
+  {
    "id": "decker_clyde",
    "name": "Clyde Decker",
    "aliases": [],
@@ -14851,7 +15112,10 @@
     "decker_merle",
     "shirtliff_esther"
    ],
-   "children": [],
+   "children": [
+    "decker_clesson_dale",
+    "decker_cleda_marie"
+   ],
    "siblings": [
     "decker_simeon"
    ],
@@ -14865,7 +15129,10 @@
    "priority": "normal",
    "locations": [
     "Northwest, Williams Co., Ohio",
-    "Howell, Livingston Co., Michigan"
+    "Howell, Livingston Co., Michigan",
+    "Northwest Township, Williams County, Ohio",
+    "Bronson, Branch County, Michigan",
+    "Howell, Livingston County, Michigan"
    ],
    "personality": [],
    "roles": [],
@@ -14873,23 +15140,28 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Merle Grace Decker (m. 1907)",
-    "Married Esther Shirtliff (Decker) (m. 1951)"
+    "Married Merle Grace Waddell (Decker) (m. 21 Nov 1907)",
+    "Married Esther Shirtliff (Decker) (m. 21 Dec 1951)",
+    "Buried at Bethel Township, Branch County, Michigan"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Find a Grave, memorial 15329399",
-    "Find a Grave, memorial 109621327"
+    "Find a Grave, memorial 109621327",
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
    ],
    "notes": [
-    "Son of Peter and Olive Catherine (Simons) Decker."
+    "Son of Peter and Olive Catherine (Simons) Decker.",
+    "Born 16 Sep 1888 in Northwest Township, Williams County, Ohio. He married Merle Grace Waddell on 21 Nov 1907, and Esther Shirtliff on 21 Dec 1951 at Brighton, Michigan. He died 19 Dec 1981 at Howell, Michigan, and was buried at Bethel Township, Branch County."
    ]
   },
   {
    "id": "decker_merle",
-   "name": "Merle Grace Decker",
-   "aliases": [],
+   "name": "Merle Grace Waddell (Decker)",
+   "aliases": [
+    "Merle Grace Decker"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -14916,7 +15188,10 @@
    "spouses": [
     "decker_clyde"
    ],
-   "children": [],
+   "children": [
+    "decker_clesson_dale",
+    "decker_cleda_marie"
+   ],
    "siblings": [],
    "families": [
     "F_decker_clyde+decker_merle"
@@ -14932,15 +15207,17 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Clyde Decker (m. 1907)"
+    "Married Clyde Decker (m. 21 Nov 1907)"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "Find a Grave, memorial 109621367"
+    "Find a Grave, memorial 109621367",
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
    ],
    "notes": [
-    "Wife of Clyde Decker, married 1907 (Find a Grave, memorial 109621367)."
+    "Wife of Clyde Decker, married 1907 (Find a Grave, memorial 109621367).",
+    "Born Merle Grace Waddell (Bicha-Dale Family Tree). She married Clyde Decker on 21 Nov 1907 in Michigan; their children were Clesson Dale (abt 1910) and Cleda Marie (1914)."
    ]
   },
   {
@@ -15052,7 +15329,9 @@
    "priority": "normal",
    "locations": [
     "Williams Co., Ohio",
-    "Pennfield, Calhoun Co., Michigan"
+    "Pennfield, Calhoun Co., Michigan",
+    "Northwest Township, Williams County, Ohio",
+    "Pennfield Township, Calhoun County, Michigan"
    ],
    "personality": [],
    "roles": [],
@@ -15060,16 +15339,19 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Ardella M. “Della” Sisson (Decker) (m. 1919)"
+    "Married Ardella M. “Della” Sisson (Decker) (m. 1919)",
+    "Buried at Battle Creek, Calhoun County, Michigan"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Find a Grave, memorial 15329399",
-    "Find a Grave, memorial 15431288"
+    "Find a Grave, memorial 15431288",
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
    ],
    "notes": [
-    "Son of Peter and Olive Catherine (Simons) Decker."
+    "Son of Peter and Olive Catherine (Simons) Decker.",
+    "Born 17 Jan 1881 in Northwest Township, Williams County, Ohio. He married Ardella M. Sisson on 1 Apr 1919 at Marshall, Michigan; the Bicha-Dale tree records no children. The tree gives his death as 17 Aug 1949 at Pennfield Township, Calhoun County, and his burial as 19 Aug 1949 at Battle Creek."
    ]
   },
   {
@@ -16887,6 +17169,76 @@
    ]
   },
   {
+   "id": "forester_betty_joyce",
+   "name": "Betty Joyce Forester (Oxenger)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "26 Apr 1926",
+    "year": 1926,
+    "qualifier": null
+   },
+   "death": {
+    "text": "4 Aug 1989",
+    "year": 1989,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "forester_glenn_c",
+   "mother": "borton_ruth_trilby",
+   "parents": [
+    "borton_ruth_trilby",
+    "forester_glenn_c"
+   ],
+   "spouses": [
+    "oxenger_richard"
+   ],
+   "children": [
+    "oxenger_lee_ann",
+    "oxenger_marty"
+   ],
+   "siblings": [
+    "forester_dorothy_jean"
+   ],
+   "families": [
+    "F_forester_betty_joyce+oxenger_richard"
+   ],
+   "parent_family": "F_borton_ruth_trilby+forester_glenn_c",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hillsdale County, Michigan",
+    "Fremont, Steuben County, Indiana"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Richard Oxenger (m. 19 Dec 1943)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Daughter of Glenn C. and Ruth (Borton) Forester. Born 26 Apr 1926 in Hillsdale County, Michigan; married Richard Oxenger on 19 Dec 1943 in Steuben County, Indiana; died 4 Aug 1989 at Fremont, Indiana; buried at Ransom, Hillsdale County, Michigan."
+   ]
+  },
+  {
    "id": "forester_charles_elmer",
    "name": "Charles Elmer “Charlie” Forester",
    "aliases": [],
@@ -16921,7 +17273,10 @@
    "spouses": [
     "burch_etta"
    ],
-   "children": [],
+   "children": [
+    "forester_glenn_c",
+    "forester_ivan_duane"
+   ],
    "siblings": [],
    "families": [
     "F_burch_etta+forester_charles_elmer"
@@ -16932,7 +17287,10 @@
    "priority": "normal",
    "locations": [
     "Northwest, Williams Co., Ohio",
-    "Coldwater, Branch Co., Michigan"
+    "Coldwater, Branch Co., Michigan",
+    "Northwest Township, Williams County, Ohio",
+    "Clear Lake, Steuben County, Indiana",
+    "Coldwater, Branch County, Michigan"
    ],
    "personality": [],
    "roles": [],
@@ -16940,16 +17298,286 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Etta May Burch (Forester) (m. 1896)"
+    "Married Etta May Burch (Forester) (m. 1896)",
+    "Buried at Montgomery, Hillsdale County, Michigan"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Find a Grave, memorial 68165791",
-    "Find a Grave, memorial 57296268"
+    "Find a Grave, memorial 57296268",
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
    ],
    "notes": [
-    "Son of Stephen S. and Rebecca Ann (Simons) Forester."
+    "Son of Stephen S. and Rebecca Ann (Simons) Forester.",
+    "Born in Northwest Township, Williams County, Ohio; the Cox Family Tree gives 21 Jan 1875, a day earlier than Find a Grave. He married Etta May Burch on 24 Oct 1896 at Clear Lake, Indiana, and died 28 Nov 1954 at Coldwater, Michigan. Sons Glenn C. (1897) and Ivan Duane (1899)."
+   ]
+  },
+  {
+   "id": "forester_dorothy_jean",
+   "name": "Dorothy Jean Forester (Cox)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "22 Oct 1931",
+    "year": 1931,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1 Jan 1987",
+    "year": 1987,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "forester_glenn_c",
+   "mother": "borton_ruth_trilby",
+   "parents": [
+    "borton_ruth_trilby",
+    "forester_glenn_c"
+   ],
+   "spouses": [
+    "cox_loren_wayne"
+   ],
+   "children": [],
+   "siblings": [
+    "forester_betty_joyce"
+   ],
+   "families": [
+    "F_cox_loren_wayne+forester_dorothy_jean"
+   ],
+   "parent_family": "F_borton_ruth_trilby+forester_glenn_c",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Clear Lake, Steuben County, Indiana",
+    "Jackson, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Loren Wayne Cox (m. 4 Jul 1951)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Daughter of Glenn C. and Ruth (Borton) Forester. Born 22 Oct 1931 at Clear Lake, Indiana; married Loren Wayne Cox on 4 Jul 1951 at Clear Lake; died 1 Jan 1987 at Jackson, Michigan; buried at Ransom, Hillsdale County, Michigan."
+   ]
+  },
+  {
+   "id": "forester_glenn_c",
+   "name": "Glenn C. Forester",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "15 Mar 1897",
+    "year": 1897,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1 Dec 1965",
+    "year": 1965,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "forester_charles_elmer",
+   "mother": "burch_etta",
+   "parents": [
+    "burch_etta",
+    "forester_charles_elmer"
+   ],
+   "spouses": [
+    "borton_ruth_trilby",
+    "rowley_helen_morrison"
+   ],
+   "children": [
+    "forester_betty_joyce",
+    "forester_dorothy_jean"
+   ],
+   "siblings": [
+    "forester_ivan_duane"
+   ],
+   "families": [
+    "F_borton_ruth_trilby+forester_glenn_c",
+    "F_forester_glenn_c+rowley_helen_morrison"
+   ],
+   "parent_family": "F_burch_etta+forester_charles_elmer",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Maplecrest, Williams County, Ohio",
+    "Hillsdale, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ruth Trilby Borton (Forester) (m. 3 Nov 1917)",
+    "Married Helen Morrison Rowley (Forester) (m. after 1959)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Son of Charles Elmer and Etta (Burch) Forester. Born 15 Mar 1897 at Maplecrest, Williams County, Ohio; died 1 Dec 1965 at Hillsdale, Michigan; buried at Montgomery, Hillsdale County. He married Ruth Trilby Borton on 3 Nov 1917 at Jackson, Michigan (daughters Betty Joyce and Dorothy Jean), and after 1959 Helen Morrison Rowley."
+   ]
+  },
+  {
+   "id": "forester_ivan_duane",
+   "name": "Ivan Duane Forester",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "22 Jul 1899",
+    "year": 1899,
+    "qualifier": null
+   },
+   "death": {
+    "text": "14 Feb 1989",
+    "year": 1989,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "forester_charles_elmer",
+   "mother": "burch_etta",
+   "parents": [
+    "burch_etta",
+    "forester_charles_elmer"
+   ],
+   "spouses": [
+    "munger_vera"
+   ],
+   "children": [
+    "forester_max"
+   ],
+   "siblings": [
+    "forester_glenn_c"
+   ],
+   "families": [
+    "F_forester_ivan_duane+munger_vera"
+   ],
+   "parent_family": "F_burch_etta+forester_charles_elmer",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Michigan",
+    "Zephyrhills, Pasco County, Florida"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Vera Munger (Forester)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Son of Charles Elmer and Etta (Burch) Forester. Born 22 Jul 1899 in Michigan; died 14 Feb 1989 at Zephyrhills, Florida; buried at Montgomery, Hillsdale County, Michigan. He and his wife Vera Munger had a son Max and three other children, living in the tree."
+   ]
+  },
+  {
+   "id": "forester_max",
+   "name": "Max Forester",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1939",
+    "year": 1939,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2014",
+    "year": 2014,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "forester_ivan_duane",
+   "mother": "munger_vera",
+   "parents": [
+    "forester_ivan_duane",
+    "munger_vera"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_forester_ivan_duane+munger_vera",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Coldwater, Branch County, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Son of Ivan Duane and Vera (Munger) Forester; born 1939 at Coldwater, Michigan, died 2014 in Michigan."
    ]
   },
   {
@@ -26193,6 +26821,63 @@
    ]
   },
   {
+   "id": "heistand_alice",
+   "name": "Alice Heistand (Decker)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1910",
+    "year": 1910,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "decker_clesson_dale"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_decker_clesson_dale+heistand_alice"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Clesson Dale Decker (m. 8 Aug 1928)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Wife of Clesson Dale Decker (m. 8 Aug 1928, Kalamazoo, Michigan)."
+   ]
+  },
+  {
    "id": "heller_frederick",
    "name": "Frederick Heller",
    "aliases": [],
@@ -26628,7 +27313,10 @@
    "spouses": [
     "rhinehart_janet"
    ],
-   "children": [],
+   "children": [
+    "holter_jana",
+    "holter_jeff"
+   ],
    "siblings": [],
    "families": [
     "F_holter_duane+rhinehart_janet"
@@ -26653,6 +27341,126 @@
    ],
    "notes": [
     "Husband of Janet (Rinehart) Holter. [Family research emails, email 27]"
+   ]
+  },
+  {
+   "id": "holter_jana",
+   "name": "Jana Holter",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "holter_duane",
+   "mother": "rhinehart_janet",
+   "parents": [
+    "holter_duane",
+    "rhinehart_janet"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "holter_jeff"
+   ],
+   "families": [],
+   "parent_family": "F_holter_duane+rhinehart_janet",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+   ],
+   "notes": [
+    "Grandchild of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a child of Janet (Rinehart) and Duane Holter."
+   ]
+  },
+  {
+   "id": "holter_jeff",
+   "name": "Jeff Holter",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "holter_duane",
+   "mother": "rhinehart_janet",
+   "parents": [
+    "holter_duane",
+    "rhinehart_janet"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "holter_jana"
+   ],
+   "families": [],
+   "parent_family": "F_holter_duane+rhinehart_janet",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+   ],
+   "notes": [
+    "Grandchild of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a child of Janet (Rinehart) and Duane Holter."
    ]
   },
   {
@@ -37424,6 +38232,327 @@
    ]
   },
   {
+   "id": "merithew_gay_marie",
+   "name": "Gay Marie Merithew (Collier, Garrick, Sipple, Forsythe)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "25 Sep 1941",
+    "year": 1941,
+    "qualifier": null
+   },
+   "death": {
+    "text": "24 Aug 1999",
+    "year": 1999,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "merithew_harold_romeyn",
+   "mother": "decker_cleda_marie",
+   "parents": [
+    "decker_cleda_marie",
+    "merithew_harold_romeyn"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "merithew_philip_romeyn",
+    "merithew_susan_rebecca",
+    "merithew_sharon_annette"
+   ],
+   "families": [],
+   "parent_family": "F_decker_cleda_marie+merithew_harold_romeyn",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Howell, Livingston County, Michigan",
+    "Gladstone, Clackamas County, Oregon"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Jesse Lee Collier (m. 19 Mar 1960)",
+    "Married Wallace Eugene Garrick (m. 13 Jun 1964)",
+    "Married Donald Jacob Sipple (m. 26 Aug 1970)",
+    "Married Joseph Creighton “Joe” Forsythe (m. 17 Aug 1973)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Child of Harold Romeyn and Cleda Marie (Decker) Merithew; grandchild of Clyde Decker. Born 25 Sep 1941 at Howell, Michigan, the day her mother died. She married Jesse Lee Collier (1937–1993) on 19 Mar 1960 at Great Falls, Montana; Wallace Eugene Garrick (1939–1995) on 13 Jun 1964 at Stevenson, Washington; again about 1966; Donald Jacob Sipple (1914–1988) on 26 Aug 1970 at Sherwood, Oregon; and Joseph Creighton \"Joe\" Forsythe (1941–2016) on 17 Aug 1973 at Portland. She died 24 Aug 1999 at Gladstone, Oregon."
+   ]
+  },
+  {
+   "id": "merithew_harold_romeyn",
+   "name": "Harold Romeyn Merithew Sr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1910",
+    "year": 1910,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1988",
+    "year": 1988,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "decker_cleda_marie"
+   ],
+   "children": [
+    "merithew_philip_romeyn",
+    "merithew_susan_rebecca",
+    "merithew_sharon_annette",
+    "merithew_gay_marie"
+   ],
+   "siblings": [],
+   "families": [
+    "F_decker_cleda_marie+merithew_harold_romeyn"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Cleda Marie Decker (Merithew) (m. 31 Jul 1931)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Husband of Cleda Marie (Decker) Merithew."
+   ]
+  },
+  {
+   "id": "merithew_philip_romeyn",
+   "name": "Philip Romeyn Merithew",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "3 Feb 1935",
+    "year": 1935,
+    "qualifier": null
+   },
+   "death": {
+    "text": "14 Jun 1940",
+    "year": 1940,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "merithew_harold_romeyn",
+   "mother": "decker_cleda_marie",
+   "parents": [
+    "decker_cleda_marie",
+    "merithew_harold_romeyn"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "merithew_susan_rebecca",
+    "merithew_sharon_annette",
+    "merithew_gay_marie"
+   ],
+   "families": [],
+   "parent_family": "F_decker_cleda_marie+merithew_harold_romeyn",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Howell, Livingston County, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Child of Harold Romeyn and Cleda Marie (Decker) Merithew; grandchild of Clyde Decker. Born 3 Feb 1935 at Howell, Michigan; died there 14 Jun 1940, aged 5."
+   ]
+  },
+  {
+   "id": "merithew_sharon_annette",
+   "name": "Sharon Annette Merithew",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "27 Mar 1939",
+    "year": 1939,
+    "qualifier": null
+   },
+   "death": {
+    "text": "11 Feb 1958",
+    "year": 1958,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "merithew_harold_romeyn",
+   "mother": "decker_cleda_marie",
+   "parents": [
+    "decker_cleda_marie",
+    "merithew_harold_romeyn"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "merithew_philip_romeyn",
+    "merithew_susan_rebecca",
+    "merithew_gay_marie"
+   ],
+   "families": [],
+   "parent_family": "F_decker_cleda_marie+merithew_harold_romeyn",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Howell, Livingston County, Michigan",
+    "Houston, Texas"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Child of Harold Romeyn and Cleda Marie (Decker) Merithew; grandchild of Clyde Decker. Born 27 Mar 1939 at Howell, Michigan; married in Apr 1955 at Howell; died 11 Feb 1958 at Houston, Texas, aged 18, and was buried at Howell. The tree also lists a John Middlebrook as a husband."
+   ]
+  },
+  {
+   "id": "merithew_susan_rebecca",
+   "name": "Susan Rebecca Merithew (Rosher, Tullar)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1 Jun 1936",
+    "year": 1936,
+    "qualifier": null
+   },
+   "death": {
+    "text": "12 May 1991",
+    "year": 1991,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "merithew_harold_romeyn",
+   "mother": "decker_cleda_marie",
+   "parents": [
+    "decker_cleda_marie",
+    "merithew_harold_romeyn"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "merithew_philip_romeyn",
+    "merithew_sharon_annette",
+    "merithew_gay_marie"
+   ],
+   "families": [],
+   "parent_family": "F_decker_cleda_marie+merithew_harold_romeyn",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Howell, Livingston County, Michigan",
+    "Flint, Genesee County, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Marvin Kenneth Rosher (m. abt 1960)",
+    "Married Theodore Richard Tullar Sr. (m. 10 Nov 1967)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
+   ],
+   "notes": [
+    "Child of Harold Romeyn and Cleda Marie (Decker) Merithew; grandchild of Clyde Decker. Born 1 Jun 1936 at Howell, Michigan; died 12 May 1991 at Flint and was buried at Gaines, Genesee County. She married Marvin Kenneth Rosher (1931–1961) about 1960, twice more in the 1960s, and Theodore Richard Tullar Sr. (1935–2010) on 10 Nov 1967; the tree lists eleven children, all living."
+   ]
+  },
+  {
    "id": "michael_remy",
    "name": "Michael Remy",
    "aliases": [],
@@ -38024,6 +39153,65 @@
    ],
    "notes": [
     "Son of Louise Morgan, the daughter of Rosemary Wells."
+   ]
+  },
+  {
+   "id": "munger_vera",
+   "name": "Vera Munger (Forester)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1898",
+    "year": 1898,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1992",
+    "year": 1992,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "forester_ivan_duane"
+   ],
+   "children": [
+    "forester_max"
+   ],
+   "siblings": [],
+   "families": [
+    "F_forester_ivan_duane+munger_vera"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ivan Duane Forester"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Wife of Ivan Duane Forester."
    ]
   },
   {
@@ -39894,6 +41082,182 @@
    ],
    "notes": [
     "Listed in Index of Names under OWENS, page 24, no dates [Bill Allen, Descendants of Jose Pierre Adams, line 5914]"
+   ]
+  },
+  {
+   "id": "oxenger_lee_ann",
+   "name": "Lee Ann Oxenger",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1948",
+    "year": 1948,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "oxenger_richard",
+   "mother": "forester_betty_joyce",
+   "parents": [
+    "forester_betty_joyce",
+    "oxenger_richard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "oxenger_marty"
+   ],
+   "families": [],
+   "parent_family": "F_forester_betty_joyce+oxenger_richard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Daughter of Richard and Betty Joyce (Forester) Oxenger."
+   ]
+  },
+  {
+   "id": "oxenger_marty",
+   "name": "Marty Oxenger",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1951",
+    "year": 1951,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "oxenger_richard",
+   "mother": "forester_betty_joyce",
+   "parents": [
+    "forester_betty_joyce",
+    "oxenger_richard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "oxenger_lee_ann"
+   ],
+   "families": [],
+   "parent_family": "F_forester_betty_joyce+oxenger_richard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Daughter of Richard and Betty Joyce (Forester) Oxenger."
+   ]
+  },
+  {
+   "id": "oxenger_richard",
+   "name": "Richard Oxenger",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1922",
+    "year": 1922,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2015",
+    "year": 2015,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "forester_betty_joyce"
+   ],
+   "children": [
+    "oxenger_lee_ann",
+    "oxenger_marty"
+   ],
+   "siblings": [],
+   "families": [
+    "F_forester_betty_joyce+oxenger_richard"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Betty Joyce Forester (Oxenger) (m. 19 Dec 1943)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Husband of Betty Joyce (Forester) Oxenger."
    ]
   },
   {
@@ -42853,79 +44217,15 @@
    ]
   },
   {
-   "id": "rhinehart_debbie",
-   "name": "Debbie Rinehart (Groom)",
-   "aliases": [
-    "Debbie Groom",
-    "Debbie Rhinehart (Groom)"
-   ],
-   "photo": null,
-   "card_name": null,
-   "sex": "F",
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "living_status": "assumed",
-   "branch": "simons",
-   "branch_by_marriage": false,
-   "lineages": [
-    "kulp",
-    "mcphail",
-    "simons"
-   ],
-   "adopted": false,
-   "father": "rhinehart_les",
-   "mother": "simons_elaine_deretha",
-   "parents": [
-    "rhinehart_les",
-    "simons_elaine_deretha"
-   ],
-   "spouses": [],
-   "children": [],
-   "siblings": [
-    "rhinehart_jerry",
-    "rhinehart_janet"
-   ],
-   "families": [],
-   "parent_family": "F_rhinehart_les+simons_elaine_deretha",
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [
-    "Oregon City, Oregon"
-   ],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
-   ],
-   "notes": [
-    "Daughter of Elaine (Simons); a stepdaughter of William Upham, whose 2016 obituary lists her as Debbie Groom of Oregon City, with John Mein. Born after 1940 (not in that census), so presumably a daughter of Les Rinehart; her birth surname is assumed."
-   ]
-  },
-  {
    "id": "rhinehart_janet",
-   "name": "Janet Rinehart (Holter)",
+   "name": "Janet Lee “Jan” Rinehart (Holter)",
    "aliases": [
     "Janet Rinehart",
     "Janet Rhinehart",
     "Jan Holter",
-    "Janet Rhinehart (Holter)"
+    "Janet Rhinehart (Holter)",
+    "Janet Rinehart (Holter)",
+    "Janet Lee Rinehart"
    ],
    "photo": null,
    "card_name": null,
@@ -42960,10 +44260,12 @@
    "spouses": [
     "holter_duane"
    ],
-   "children": [],
+   "children": [
+    "holter_jana",
+    "holter_jeff"
+   ],
    "siblings": [
-    "rhinehart_jerry",
-    "rhinehart_debbie"
+    "rhinehart_jerry"
    ],
    "families": [
     "F_holter_duane+rhinehart_janet"
@@ -42985,32 +44287,38 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)",
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)"
    ],
-   "notes": []
+   "notes": [
+    "Daughter of Les and Elaine (Simons) Rinehart; \"Janet Lee\" in the 1940 census."
+   ]
   },
   {
    "id": "rhinehart_jerry",
-   "name": "Jerry Rinehart",
+   "name": "Jerry Allen Rinehart",
    "aliases": [
-    "Jerry Rhinehart"
+    "Jerry Rhinehart",
+    "Jerry Rinehart",
+    "Jerry Allyn Rinehart"
    ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "15 Oct 1936",
+    "year": 1936,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "21 Jun 2016",
+    "year": 2016,
     "qualifier": null
    },
    "living": false,
-   "living_status": "assumed",
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -43028,31 +44336,46 @@
    "spouses": [
     "rinehart_linda"
    ],
-   "children": [],
+   "children": [
+    "rinehart_martin"
+   ],
    "siblings": [
-    "rhinehart_janet",
-    "rhinehart_debbie"
+    "rhinehart_janet"
    ],
    "families": [
-    "F_rhinehart_jerry+rinehart_linda"
+    "F_rhinehart_jerry+rinehart_linda",
+    "F_rhinehart_jerry"
    ],
    "parent_family": "F_rhinehart_les+simons_elaine_deretha",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Mount Vernon, Washington",
+    "Pasco, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams, 2026-09-22"
+   "milestones": [
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
    ],
-   "notes": []
+   "education": [],
+   "career": [
+    "Diesel mechanic, truck driver and landscape contractor; U.S. military veteran."
+   ],
+   "sources": [
+    "Brendan Adams, 2026-09-22",
+    "Find a Grave, memorial 281162175 (Jerry Allen Rinehart, Desert Lawn Memorial Park, Kennewick)",
+    "Obituary of Jerry Allen Rinehart, Tri-City Herald, 23 Jun 2016",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "Born 15 Oct 1936 at Mount Vernon, Washington (the Kulp-Ritchey-Dorsett tree gives 1937); in the Tri-Cities from 1938. Died 21 Jun 2016 at Pasco. His Korean War-era draft registration names his mother, Mrs. Elaine Rinehart. His 2016 obituary does not name his children; his mother's 2011 obituary names a grandson, Martin Rinehart."
+   ]
   },
   {
    "id": "rhinehart_les",
@@ -43067,12 +44390,12 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1913",
+    "text": "27 May 1913",
     "year": 1913,
     "qualifier": null
    },
    "death": {
-    "text": "1988",
+    "text": "9 Jul 1988",
     "year": 1988,
     "qualifier": null
    },
@@ -43090,8 +44413,7 @@
    ],
    "children": [
     "rhinehart_jerry",
-    "rhinehart_janet",
-    "rhinehart_debbie"
+    "rhinehart_janet"
    ],
    "siblings": [],
    "families": [
@@ -43101,23 +44423,33 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Washington",
+    "Pasco, Washington",
+    "Gladstone, Oregon"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Elaine Deretha Simons (m. 10 Sep 1935)",
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\""
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\"",
+    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
     "Husband of Elaine Deretha Simons.",
-    "Leslie Bernard Rinehart (1913–1988), per the Kulp-Ritchey-Dorsett Family Tree on Ancestry. \"Le Ley Rinehart\", 27, in the 1940 census, living with Elaine and their children Jerry and Janet Lee in his father-in-law Ray Simons's household near Richland."
+    "Leslie Bernard Rinehart (1913–1988), per the Kulp-Ritchey-Dorsett Family Tree on Ancestry. \"Le Ley Rinehart\", 27, in the 1940 census, living with Elaine and their children Jerry and Janet Lee in his father-in-law Ray Simons's household near Richland.",
+    "Born 27 May 1913 in Washington; died 9 Jul 1988 at Gladstone, Oregon. His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988."
    ]
   },
   {
@@ -43297,6 +44629,63 @@
    ],
    "notes": [
     "Wife of Jerry Rinehart. [Family research emails, email 27]"
+   ]
+  },
+  {
+   "id": "rinehart_martin",
+   "name": "Martin Rinehart",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "rhinehart_jerry",
+   "mother": null,
+   "parents": [
+    "rhinehart_jerry"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_rhinehart_jerry",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+   ],
+   "notes": [
+    "Grandson of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a son of Jerry Rinehart, her only son."
    ]
   },
   {
@@ -45144,6 +46533,63 @@
     "Second spouse of Kimberly Lynn Zacher (div.).",
     "Richard Rotter is the father of Kim's children other than Amber (Andrew, Spencer, Amy and Jacob). [Family research emails, email 23]",
     "Open question: Irma says Richard Rotter fathered Kim's children other than Amber (Andrew, Spencer, Amy, Jacob). The tree lists Craig Goodman as their father under the surname Zacher, and has both zacher_spencer and an unlinked rotter_spencer [Family research emails, email 23]"
+   ]
+  },
+  {
+   "id": "rowley_helen_morrison",
+   "name": "Helen Morrison Rowley (Forester)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1900",
+    "year": 1900,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1987",
+    "year": 1987,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "forester_glenn_c"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_forester_glenn_c+rowley_helen_morrison"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Glenn C. Forester (m. after 1959)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+   ],
+   "notes": [
+    "Second wife of Glenn C. Forester, married after 1959."
    ]
   },
   {
@@ -47721,12 +49167,13 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Clyde Decker (m. 1951)"
+    "Married Clyde Decker (m. 21 Dec 1951)"
    ],
    "education": [],
    "career": [],
    "sources": [
-    "Find a Grave, memorial 109621240"
+    "Find a Grave, memorial 109621240",
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
    ],
    "notes": [
     "Wife of Clyde Decker, married 1951 (Find a Grave, memorial 109621240)."
@@ -49274,8 +50721,7 @@
    ],
    "children": [
     "rhinehart_jerry",
-    "rhinehart_janet",
-    "rhinehart_debbie"
+    "rhinehart_janet"
    ],
    "siblings": [
     "beryl_simons_adams",
@@ -49296,7 +50742,11 @@
     "Milton, Oregon",
     "Lynden, Whatcom County, Washington",
     "Desert Lawn Memorial Park, Kennewick, Washington",
-    "Whatcom County, Washington"
+    "Whatcom County, Washington",
+    "Lynden, Washington",
+    "Burlington, Skagit County, Washington",
+    "Pasco, Washington",
+    "Gladstone, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -49310,10 +50760,12 @@
     "Died 11 Aug 2011",
     "Buried: Elaine's graveside service was at Desert Lawn Memorial Park in Kennewick on 19 August 2011.",
     "Born Milton, Oregon",
-    "Married William Clifford Upham (m. 1991)"
+    "Married William Clifford Upham (m. 21 Jun 1991)",
+    "Married Leslie Bernard “Les” Rinehart (m. 10 Sep 1935)"
    ],
    "education": [
-    "Elaine was an elementary school student of Amy Kulp and Alice Burk and was remembered as an excellent student."
+    "Elaine was an elementary school student of Amy Kulp and Alice Burk and was remembered as an excellent student.",
+    "Lynden High School, Lynden, Washington"
    ],
    "career": [],
    "sources": [
@@ -49322,15 +50774,20 @@
     "Ancestry.com, Oregon, U.S., State Births, 1842–1924",
     "Ancestry.com, U.S. Federal Censuses 1900–1950",
     "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\""
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\"",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)",
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
     "Sister of Beryl Simons Adams; married Les Rinehart.",
     "A funeral service for Elaine was held 17 August 2011 at Holman, Hankins, Bowker & Waud Funeral Home in Oregon City. [Family research emails, email 27]",
     "CORRECTION 2026-09-23: Added her later husband, William \"Bill\" Upham of Gladstone, Oregon, named in Irma's note about her services. [Family research emails, email 27]",
     "Her birth is recorded in the Oregon state birth records, with parents Raymond Zell Simons (aged 20) and Dradie Ellen Kulp. The 1940 census and her Find a Grave memorial spell her married name Rinehart.",
-    "Her children were Jerry, Janet (Holter) and Debbie (Groom); William Upham's 2016 obituary names Debbie and Jan as his stepdaughters.",
-    "Born 20 Jan 1918 at Milton, Oregon, and married William Upham on 21 Jun 1991 in Clackamas County; died 11 Aug 2011 at Gladstone, Oregon (Kulp-Ritchey-Dorsett Family Tree on Ancestry)."
+    "Born 20 Jan 1918 at Milton, Oregon, and married William Upham on 21 Jun 1991 in Clackamas County; died 11 Aug 2011 at Gladstone, Oregon (Kulp-Ritchey-Dorsett Family Tree on Ancestry).",
+    "She married Leslie Bernard Rinehart on 10 Sep 1935 at Burlington, Skagit County, Washington (Kulp-Ritchey-Dorsett Family Tree), and was married to him until his death in 1988. They lived in Pasco for many years before moving to Gladstone, Oregon, in 1958.",
+    "Her 2011 obituary: born at Milton, Oregon, to Ray and Dradie Simons; graduated from Lynden High School. Active for many years with the Gladstone Historical Society, the Oregon City Elks Ladies Auxiliary, the Gladstone Senior Center and the Gladstone Chautauqua Festival, and \"Fairest of the Fair\" at the 1988 Clackamas County Fair. She loved family, playing the piano, music and needlework.",
+    "Survived by her son Jerry Rinehart, daughter Janet \"Jan\" Holter, stepdaughters Diane Angelo and Janet Upham, brother Glen Simons, three grandchildren (Jana Holter, Jeff Holter and Martin Rinehart), 11 great-grandchildren and 7 great-great-grandchildren. Preceded in death by her first husband, a grandson, her parents, three brothers and two sisters."
    ]
   },
   {
@@ -51821,8 +53278,8 @@
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1994",
+    "year": 1994,
     "qualifier": null
    },
    "living": false,
@@ -51878,7 +53335,8 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)"
    ],
    "notes": [
     "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue."
@@ -52016,7 +53474,8 @@
     "Ancestry.com, U.S. Social Security Death Index, 1935–2014",
     "Ancestry.com, Oregon, U.S., State Births, 1842–1924",
     "Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, Pasco, 9 May 1977)",
-    "Find a Grave, memorial 72996672 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 72996672 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
    ],
    "notes": [
     "Siblings listed: Ettie, Lola, Bertha",
@@ -52029,7 +53488,8 @@
     "His Washington death record names his parents as Aaron Simons and Hattie Micheals.",
     "Censuses give his father's birthplace as Ohio (1900, 1910), Iowa (1920) and Illinois (1930), and his own as Washington in 1930.",
     "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland.",
-    "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918."
+    "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918.",
+    "Elaine's 2011 obituary says she was preceded in death by two sisters. Only Beryl is known, so Ray and Dradie may have had another daughter who is not yet in the tree."
    ]
   },
   {
@@ -56601,7 +58061,8 @@
    ],
    "notes": [
     "Husband of Elaine Simons at her death in 2011; living in Gladstone, Oregon. [Family research emails, email 27]",
-    "Born 8 Jul 1919 in Portland; died 5 Oct 2016, aged 97. He married Marie Maxine Smith in 1947 (two daughters), Virginia Rounds in 1977, and Elaine Rinehart in 1991."
+    "Born 8 Jul 1919 in Portland; died 5 Oct 2016, aged 97. He married Marie Maxine Smith in 1947 (two daughters), Virginia Rounds in 1977, and Elaine Rinehart in 1991.",
+    "His 2016 obituary also names two stepdaughters, Debbie Groom and Jan Holter. Jan is Elaine's daughter; Debbie is not named in Elaine's 2011 obituary, so she was probably a daughter of his second wife, Virginia Rounds. Elaine's obituary names his daughters as Diane Angelo and Janet Upham."
    ]
   },
   {
@@ -61749,6 +63210,18 @@
    "marriage": null
   },
   {
+   "id": "F_borton_ruth_trilby+forester_glenn_c",
+   "partners": [
+    "borton_ruth_trilby",
+    "forester_glenn_c"
+   ],
+   "children": [
+    "forester_betty_joyce",
+    "forester_dorothy_jean"
+   ],
+   "marriage": "3 Nov 1917"
+  },
+  {
    "id": "F_braden_helen+fryman_harold",
    "partners": [
     "braden_helen",
@@ -61801,7 +63274,10 @@
     "burch_etta",
     "forester_charles_elmer"
    ],
-   "children": [],
+   "children": [
+    "forester_glenn_c",
+    "forester_ivan_duane"
+   ],
    "marriage": "1896"
   },
   {
@@ -61988,6 +63464,15 @@
    "marriage": null
   },
   {
+   "id": "F_cox_loren_wayne+forester_dorothy_jean",
+   "partners": [
+    "cox_loren_wayne",
+    "forester_dorothy_jean"
+   ],
+   "children": [],
+   "marriage": "4 Jul 1951"
+  },
+  {
    "id": "F_crook_mary+van_tine_abraham",
    "partners": [
     "crook_mary",
@@ -62075,13 +63560,39 @@
    "marriage": "6 Sep 1829, Darke County, OH"
   },
   {
+   "id": "F_decker_cleda_marie+merithew_harold_romeyn",
+   "partners": [
+    "decker_cleda_marie",
+    "merithew_harold_romeyn"
+   ],
+   "children": [
+    "merithew_philip_romeyn",
+    "merithew_susan_rebecca",
+    "merithew_sharon_annette",
+    "merithew_gay_marie"
+   ],
+   "marriage": "31 Jul 1931"
+  },
+  {
+   "id": "F_decker_clesson_dale+heistand_alice",
+   "partners": [
+    "decker_clesson_dale",
+    "heistand_alice"
+   ],
+   "children": [],
+   "marriage": "8 Aug 1928"
+  },
+  {
    "id": "F_decker_clyde+decker_merle",
    "partners": [
     "decker_clyde",
     "decker_merle"
    ],
-   "children": [],
-   "marriage": "1907"
+   "children": [
+    "decker_clesson_dale",
+    "decker_cleda_marie"
+   ],
+   "marriage": "21 Nov 1907"
   },
   {
    "id": "F_decker_clyde+shirtliff_esther",
@@ -62090,7 +63601,7 @@
     "shirtliff_esther"
    ],
    "children": [],
-   "marriage": "1951"
+   "marriage": "21 Dec 1951"
   },
   {
    "id": "F_decker_peter+simons_olive_catherine",
@@ -62276,6 +63787,38 @@
     "rogers_roger"
    ],
    "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_forester_betty_joyce+oxenger_richard",
+   "partners": [
+    "forester_betty_joyce",
+    "oxenger_richard"
+   ],
+   "children": [
+    "oxenger_lee_ann",
+    "oxenger_marty"
+   ],
+   "marriage": "19 Dec 1943"
+  },
+  {
+   "id": "F_forester_glenn_c+rowley_helen_morrison",
+   "partners": [
+    "forester_glenn_c",
+    "rowley_helen_morrison"
+   ],
+   "children": [],
+   "marriage": "after 1959"
+  },
+  {
+   "id": "F_forester_ivan_duane+munger_vera",
+   "partners": [
+    "forester_ivan_duane",
+    "munger_vera"
+   ],
+   "children": [
+    "forester_max"
+   ],
    "marriage": null
   },
   {
@@ -62913,7 +64456,10 @@
     "holter_duane",
     "rhinehart_janet"
    ],
-   "children": [],
+   "children": [
+    "holter_jana",
+    "holter_jeff"
+   ],
    "marriage": null
   },
   {
@@ -63667,6 +65213,16 @@
    "marriage": null
   },
   {
+   "id": "F_rhinehart_jerry",
+   "partners": [
+    "rhinehart_jerry"
+   ],
+   "children": [
+    "rinehart_martin"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_rhinehart_jerry+rinehart_linda",
    "partners": [
     "rhinehart_jerry",
@@ -63683,10 +65239,9 @@
    ],
    "children": [
     "rhinehart_jerry",
-    "rhinehart_janet",
-    "rhinehart_debbie"
+    "rhinehart_janet"
    ],
-   "marriage": null
+   "marriage": "10 Sep 1935"
   },
   {
    "id": "F_rogers_arlene",
@@ -63904,7 +65459,7 @@
     "upham_william"
    ],
    "children": [],
-   "marriage": "1991"
+   "marriage": "21 Jun 1991"
   },
   {
    "id": "F_simons_glen+simons_mary",

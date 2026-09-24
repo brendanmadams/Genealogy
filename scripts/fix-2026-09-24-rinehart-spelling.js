@@ -7,11 +7,12 @@
  * Family Tree" on Ancestry.com. Record ids keep the old spelling. Re-runnable.
  */
 'use strict';
-const { load, save, note } = require('./lib/records');
+const { exists, load, save, note } = require('./lib/records');
 const add = (a, v) => { if (v && !a.includes(v)) a.push(v); };
 const TREE = 'Ancestry.com, public member tree "Kulp-Ritchey-Dorsett Family Tree"';
 
 for (const id of ['rhinehart_les', 'rhinehart_jerry', 'rhinehart_janet', 'rhinehart_debbie', 'simons_elaine_deretha']) {
+  if (!exists(id)) continue;
   const p = load(id);
   p.aliases = p.aliases || [];
   if (/Rhinehart/.test(p.name)) { add(p.aliases, p.name); p.name = p.name.replace(/Rhinehart/g, 'Rinehart'); }

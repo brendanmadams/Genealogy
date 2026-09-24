@@ -8,7 +8,7 @@
  *  - Orval: Irene Simons's and Rod Simons's 2017 obituaries (a fourth
  *    child, Billy, and the grandchildren).
  *  - Elmer: Carl Ray Simons's 2025 obituary. Glen: dates from his funeral
- *    home. Elaine: a daughter Debbie, from William Upham's 2016 obituary.
+ *    home. Elaine: William Upham's 2016 obituary.
  *  - Zell Busey: his three marriages and four children, from the censuses
  *    and his son Bud's 2005 obituary. Ray's sister Bertha was living with
  *    her husband Harry H. Harrington and nephew Zell in 1920.
@@ -128,7 +128,7 @@ edit('simons_glen', [OB_GLEN, OB_IRENE], p => {
 });
 
 // ── Elaine ───────────────────────────────────────────────────────────────────
-edit('simons_elaine_deretha', OB_UPHAM, p => { add(p.milestones, 'Married William Clifford Upham (m. 1991)'); note(p, 'Her children were Jerry, Janet (Holter) and Debbie (Groom); William Upham\'s 2016 obituary names Debbie and Jan as his stepdaughters.'); });
+edit('simons_elaine_deretha', OB_UPHAM, p => { add(p.milestones, 'Married William Clifford Upham (m. 1991)'); });
 edit('upham_william', OB_UPHAM, p => {
   rename(p, ['William “Bill” Upham'], 'William Clifford “Bill” Upham');
   p.birth = p.birth || '8 Jul 1919'; p.death = p.death || '5 Oct 2016';
@@ -138,9 +138,7 @@ edit('upham_william', OB_UPHAM, p => {
   note(p, 'Born 8 Jul 1919 in Portland; died 5 Oct 2016, aged 97. He married Marie Maxine Smith in 1947 (two daughters), Virginia Rounds in 1977, and Elaine Rinehart in 1991.');
 });
 edit('rhinehart_janet', OB_UPHAM, p => { rename(p, ['Janet Rhinehart', 'Janet Rinehart'], 'Janet Rinehart (Holter)'); add(p.aliases, 'Jan Holter'); add(p.locations, 'Coeur d\'Alene, Idaho'); });
-person('rhinehart_debbie', 'Debbie Rinehart (Groom)', 'F', OB_UPHAM, p => { add(p.aliases, 'Debbie Groom'); add(p.locations, 'Oregon City, Oregon'); note(p, 'Daughter of Elaine (Simons); a stepdaughter of William Upham, whose 2016 obituary lists her as Debbie Groom of Oregon City, with John Mein. Born after 1940 (not in that census), so presumably a daughter of Les Rinehart; her birth surname is assumed.'); });
-child('rhinehart_debbie', 'rhinehart_les', 'simons_elaine_deretha');
-for (const id of ['rhinehart_jerry', 'rhinehart_janet', 'rhinehart_debbie']) for (const o of ['rhinehart_jerry', 'rhinehart_janet', 'rhinehart_debbie']) if (o !== id) edit(id, [], p => add(p.relationships.siblings, o));
+for (const id of ['rhinehart_jerry', 'rhinehart_janet']) for (const o of ['rhinehart_jerry', 'rhinehart_janet']) if (o !== id) edit(id, [], p => add(p.relationships.siblings, o));
 
 // ── Zell Busey ───────────────────────────────────────────────────────────────
 edit('busey_zell', [...ZELL_SRC, OB_BUD], p => {

@@ -1,16 +1,16 @@
 {
-  "id": "shirtliff_esther",
-  "name": "Esther Shirtliff (Decker)",
+  "id": "heistand_alice",
+  "name": "Alice Heistand (Decker)",
   "sex": "F",
-  "birth": "1912",
-  "death": "1973",
+  "birth": "abt 1910",
+  "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Clyde Decker (m. 21 Dec 1951)"
+    "Married Clesson Dale Decker (m. 8 Aug 1928)"
   ],
   "education": [],
   "career": [],
@@ -18,18 +18,15 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "decker_clyde",
+    "spouse": "decker_clesson_dale",
     "children": []
   },
   "locations": [],
   "sources": [
-    "Find a Grave, memorial 109621240",
     "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
   ],
   "notes": [
-    "Wife of Clyde Decker, married 1951 (Find a Grave, memorial 109621240)."
+    "Wife of Clesson Dale Decker (m. 8 Aug 1928, Kalamazoo, Michigan)."
   ],
-  "aliases": [
-    "Esther Shirtliff Decker"
-  ]
+  "aliases": []
 }

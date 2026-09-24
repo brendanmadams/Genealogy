@@ -1,0 +1,32 @@
+{
+  "id": "forester_max",
+  "name": "Max Forester",
+  "sex": "M",
+  "birth": "1939",
+  "death": "2014",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "munger_vera",
+    "father": "forester_ivan_duane",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Coldwater, Branch County, Michigan"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+  ],
+  "notes": [
+    "Son of Ivan Duane and Vera (Munger) Forester; born 1939 at Coldwater, Michigan, died 2014 in Michigan."
+  ],
+  "aliases": []
+}

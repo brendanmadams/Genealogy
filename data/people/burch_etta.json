@@ -19,16 +19,22 @@
     "father": "",
     "siblings": [],
     "spouse": "forester_charles_elmer",
-    "children": []
+    "children": [
+      "forester_glenn_c",
+      "forester_ivan_duane"
+    ]
   },
   "locations": [],
   "sources": [
-    "Find a Grave, memorial 57296267"
+    "Find a Grave, memorial 57296267",
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
   ],
   "notes": [
-    "Wife of Charles Elmer “Charlie” Forester, married 1896 (Find a Grave, memorial 57296267)."
+    "Wife of Charles Elmer “Charlie” Forester, married 1896 (Find a Grave, memorial 57296267).",
+    "The Cox Family Tree calls her Addie May \"Etta\" Burch."
   ],
   "aliases": [
-    "Etta May Burch Forester"
+    "Etta May Burch Forester",
+    "Addie May Burch"
   ]
 }

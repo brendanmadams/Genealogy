@@ -1,14 +1,17 @@
 {
   "id": "rhinehart_les",
   "name": "Leslie Bernard “Les” Rinehart",
-  "birth": "1913",
-  "death": "1988",
+  "birth": "27 May 1913",
+  "death": "9 Jul 1988",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Elaine Deretha Simons (m. 10 Sep 1935)",
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,19 +21,25 @@
     "spouse": "simons_elaine_deretha",
     "children": [
       "rhinehart_jerry",
-      "rhinehart_janet",
-      "rhinehart_debbie"
+      "rhinehart_janet"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Washington",
+    "Pasco, Washington",
+    "Gladstone, Oregon"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\""
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\"",
+    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
   ],
   "notes": [
     "Husband of Elaine Deretha Simons.",
-    "Leslie Bernard Rinehart (1913–1988), per the Kulp-Ritchey-Dorsett Family Tree on Ancestry. \"Le Ley Rinehart\", 27, in the 1940 census, living with Elaine and their children Jerry and Janet Lee in his father-in-law Ray Simons's household near Richland."
+    "Leslie Bernard Rinehart (1913–1988), per the Kulp-Ritchey-Dorsett Family Tree on Ancestry. \"Le Ley Rinehart\", 27, in the 1940 census, living with Elaine and their children Jerry and Janet Lee in his father-in-law Ray Simons's household near Richland.",
+    "Born 27 May 1913 in Washington; died 9 Jul 1988 at Gladstone, Oregon. His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988."
   ],
   "aliases": [
     "Les Rhinehart",

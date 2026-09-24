@@ -1,0 +1,44 @@
+{
+  "id": "forester_glenn_c",
+  "name": "Glenn C. Forester",
+  "sex": "M",
+  "birth": "15 Mar 1897",
+  "death": "1 Dec 1965",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Ruth Trilby Borton (Forester) (m. 3 Nov 1917)",
+    "Married Helen Morrison Rowley (Forester) (m. after 1959)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "burch_etta",
+    "father": "forester_charles_elmer",
+    "siblings": [
+      "forester_ivan_duane"
+    ],
+    "spouse": "borton_ruth_trilby",
+    "children": [
+      "forester_betty_joyce",
+      "forester_dorothy_jean"
+    ],
+    "_extra_spouses": [
+      "rowley_helen_morrison"
+    ]
+  },
+  "locations": [
+    "Maplecrest, Williams County, Ohio",
+    "Hillsdale, Michigan"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+  ],
+  "notes": [
+    "Son of Charles Elmer and Etta (Burch) Forester. Born 15 Mar 1897 at Maplecrest, Williams County, Ohio; died 1 Dec 1965 at Hillsdale, Michigan; buried at Montgomery, Hillsdale County. He married Ruth Trilby Borton on 3 Nov 1917 at Jackson, Michigan (daughters Betty Joyce and Dorothy Jean), and after 1959 Helen Morrison Rowley."
+  ],
+  "aliases": []
+}

@@ -1,6 +1,6 @@
 {
   "id": "decker_merle",
-  "name": "Merle Grace Decker",
+  "name": "Merle Grace Waddell (Decker)",
   "sex": "F",
   "birth": "1885",
   "death": "1963",
@@ -10,7 +10,7 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Clyde Decker (m. 1907)"
+    "Married Clyde Decker (m. 21 Nov 1907)"
   ],
   "education": [],
   "career": [],
@@ -19,14 +19,21 @@
     "father": "",
     "siblings": [],
     "spouse": "decker_clyde",
-    "children": []
+    "children": [
+      "decker_clesson_dale",
+      "decker_cleda_marie"
+    ]
   },
   "locations": [],
   "sources": [
-    "Find a Grave, memorial 109621367"
+    "Find a Grave, memorial 109621367",
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
   ],
   "notes": [
-    "Wife of Clyde Decker, married 1907 (Find a Grave, memorial 109621367)."
+    "Wife of Clyde Decker, married 1907 (Find a Grave, memorial 109621367).",
+    "Born Merle Grace Waddell (Bicha-Dale Family Tree). She married Clyde Decker on 21 Nov 1907 in Michigan; their children were Clesson Dale (abt 1910) and Cleda Marie (1914)."
   ],
-  "aliases": []
+  "aliases": [
+    "Merle Grace Decker"
+  ]
 }

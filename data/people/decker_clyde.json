@@ -10,8 +10,9 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Merle Grace Decker (m. 1907)",
-    "Married Esther Shirtliff (Decker) (m. 1951)"
+    "Married Merle Grace Waddell (Decker) (m. 21 Nov 1907)",
+    "Married Esther Shirtliff (Decker) (m. 21 Dec 1951)",
+    "Buried at Bethel Township, Branch County, Michigan"
   ],
   "education": [],
   "career": [],
@@ -20,21 +21,29 @@
     "father": "decker_peter",
     "siblings": [],
     "spouse": "decker_merle",
-    "children": [],
+    "children": [
+      "decker_clesson_dale",
+      "decker_cleda_marie"
+    ],
     "_extra_spouses": [
       "shirtliff_esther"
     ]
   },
   "locations": [
     "Northwest, Williams Co., Ohio",
-    "Howell, Livingston Co., Michigan"
+    "Howell, Livingston Co., Michigan",
+    "Northwest Township, Williams County, Ohio",
+    "Bronson, Branch County, Michigan",
+    "Howell, Livingston County, Michigan"
   ],
   "sources": [
     "Find a Grave, memorial 15329399",
-    "Find a Grave, memorial 109621327"
+    "Find a Grave, memorial 109621327",
+    "Ancestry.com, public member tree \"Bicha-Dale Family Tree\" (tree 8839537)"
   ],
   "notes": [
-    "Son of Peter and Olive Catherine (Simons) Decker."
+    "Son of Peter and Olive Catherine (Simons) Decker.",
+    "Born 16 Sep 1888 in Northwest Township, Williams County, Ohio. He married Merle Grace Waddell on 21 Nov 1907, and Esther Shirtliff on 21 Dec 1951 at Brighton, Michigan. He died 19 Dec 1981 at Howell, Michigan, and was buried at Bethel Township, Branch County."
   ],
   "aliases": []
 }

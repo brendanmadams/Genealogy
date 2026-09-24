@@ -1,6 +1,6 @@
 {
   "id": "rhinehart_janet",
-  "name": "Janet Rinehart (Holter)",
+  "name": "Janet Lee “Jan” Rinehart (Holter)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -15,25 +15,33 @@
     "mother": "simons_elaine_deretha",
     "father": "rhinehart_les",
     "siblings": [
-      "rhinehart_jerry",
-      "rhinehart_debbie"
+      "rhinehart_jerry"
     ],
     "spouse": "holter_duane",
-    "children": []
+    "children": [
+      "holter_jana",
+      "holter_jeff"
+    ]
   },
   "locations": [
     "Coeur d'Alene, Idaho"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)",
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)"
   ],
-  "notes": [],
+  "notes": [
+    "Daughter of Les and Elaine (Simons) Rinehart; \"Janet Lee\" in the 1940 census."
+  ],
   "aliases": [
     "Janet Rinehart",
     "Janet Rhinehart",
     "Jan Holter",
-    "Janet Rhinehart (Holter)"
+    "Janet Rhinehart (Holter)",
+    "Janet Rinehart (Holter)",
+    "Janet Lee Rinehart"
   ],
   "sex": "F"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "oxenger_marty",
+  "name": "Marty Oxenger",
+  "sex": "F",
+  "birth": "abt 1951",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "forester_betty_joyce",
+    "father": "oxenger_richard",
+    "siblings": [
+      "oxenger_lee_ann"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+  ],
+  "notes": [
+    "Daughter of Richard and Betty Joyce (Forester) Oxenger."
+  ],
+  "aliases": []
+}
