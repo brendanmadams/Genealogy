@@ -1301,6 +1301,137 @@
         "schriefer_kenneth",
         "schriefer_george_jr"
       ]
+    },
+    {
+      "id": "forester-ivan-glenn-boys",
+      "kind": "photo",
+      "file": "ancestry_forester_ivan_glenn.jpg",
+      "title": "Ivan and Glenn Forester as boys",
+      "caption": "Studio portrait of the two sons of Charlie and Etta (Burch) Forester, about 1905: Ivan (born 1899) on the left and Glenn (born 1897) on the right. They were grandsons of Rebecca Ann (Simons) Forester.",
+      "source": "Shared on Ancestry.com by wtmbbanjo, 20 Mar 2013; from the public member tree \"Cox Family Tree\".",
+      "people": [
+        "forester_ivan_duane",
+        "forester_glenn_c"
+      ],
+      "portraits": [
+        {
+          "person": "forester_ivan_duane",
+          "crop": [
+            153,
+            196,
+            140
+          ]
+        },
+        {
+          "person": "forester_glenn_c",
+          "crop": [
+            335,
+            159,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forester-glenn-baby",
+      "kind": "photo",
+      "file": "ancestry_forester_glenn_4.jpg",
+      "title": "Glenn Forester as a baby",
+      "caption": "Cabinet-card portrait of Glenn C. Forester, born 15 Mar 1897, probably taken about 1898.",
+      "source": "Shared on Ancestry.com by wtmbbanjo, 20 Mar 2013; from the public member tree \"Cox Family Tree\".",
+      "people": [
+        "forester_glenn_c"
+      ]
+    },
+    {
+      "id": "mcphail-ellen-john-b",
+      "kind": "photo",
+      "file": "ancestry_mcphail_ellen_john_b.jpg",
+      "title": "Ellen and John B. McPhail with a boy named John",
+      "caption": "Labelled in the tree as Ellen Rogers McPhail, her husband John B. and \"son John McPhail\". The boy looks about ten, so he is more likely a grandson. Taken before John B.'s death in March 1925.",
+      "source": "Shared on Ancestry.com by tth50, 23 Jan 2012; from the public member tree \"Kulp-Ritchey-Dorsett Family Tree\".",
+      "people": [
+        "ball_ellen_rogers",
+        "mcphail_john_belle"
+      ]
+    },
+    {
+      "id": "mcphail-ellen-1925-lynden",
+      "kind": "photo",
+      "file": "ancestry_mcphail_ellen_1925.jpg",
+      "title": "Ellen Rogers Ball McPhail and family, Lynden, 1925",
+      "caption": "A copied page labelled \"1925, Lynden, WA\" and \"Ellen Roger Ball McPhail\": six people outdoors, two older women seated in front. Ellen, then about 73 and widowed that March, is probably one of them; the others are not named.",
+      "source": "Shared on Ancestry.com by John McPhail, 1 Jan 2018; from the public member tree \"Kulp-Ritchey-Dorsett Family Tree\".",
+      "people": [
+        "ball_ellen_rogers"
+      ]
+    },
+    {
+      "id": "marriage-1896-forester-burch",
+      "kind": "document",
+      "file": "ancestry_forester_burch_marriage_1896.jpg",
+      "title": "Marriage notice of Charles E. Forester and Addie May Burch, 1896",
+      "caption": "\"At the residence of Jonas Eglekraut, in Clear Lake township, by Rev. J. W. Martin, Chas. E. Forester and Miss Addie May Burch, both of Steuben Co., Ind.\" Published 4 Nov 1896; the paper is not named in the tree.",
+      "source": "Newspaper clipping, 4 Nov 1896. Shared on Ancestry.com by dmacfarlane, 9 Feb 2022; from the public member tree \"Cox Family Tree\".",
+      "people": [
+        "forester_charles_elmer",
+        "burch_etta"
+      ]
+    },
+    {
+      "id": "marriage-1917-forester-borton",
+      "kind": "document",
+      "file": "ancestry_forester_borton_marriage_1917.jpg",
+      "title": "Marriage register: Glenn Forester and Ruth Borton, Jackson, Michigan, 1917",
+      "caption": "Entry 817: Glen Forester, 20, of Jackson, born in Ohio, a mechanic, son of Charles Forester and Etta M. Burch; Ruth Borton, 21, of Jackson, born at Ray, Indiana, daughter of Charles Borton and Elberta Baker. Married 3 Nov 1917 at Jackson by William H. Shannon, clergyman.",
+      "source": "Jackson County, Michigan, marriage register, 1917. Shared on Ancestry.com by Marci Hess, 21 Dec 2012; from the public member tree \"Cox Family Tree\".",
+      "people": [
+        "forester_glenn_c",
+        "borton_ruth_trilby"
+      ]
+    },
+    {
+      "id": "marriage-1920-schriefer-quinn",
+      "kind": "document",
+      "file": "ancestry_schriefer_quinn_1920.jpg",
+      "title": "Marriage certificate of George Schriefer and Ethel Quinn, 12 July 1920",
+      "caption": "George Schriefer, 21, of Baltimore, a B&O Railroad worker, and Ethel Quinn, 20, of Baltimore, both single, married at St. Paul's Church, Ellicott City, under a Howard County licence, by the Rev. Michael A. Ryan. Filed 26 Jul 1920.",
+      "source": "Howard County, Maryland, Circuit Court marriage return, 1920. Shared on Ancestry.com by cmfrank63, 10 Nov 2019; from the public member tree \"Quinn Family Tree\".",
+      "people": [
+        "schriefer_george_goode",
+        "ethel_quinn_schriefer"
+      ]
+    },
+    {
+      "id": "marriage-1941-poehlman-schriefer",
+      "kind": "document",
+      "file": "ancestry_poehlman_schriefer_1941.jpg",
+      "title": "Church marriage register: Jack Poehlman and Emily Schriefer, September 1941",
+      "caption": "Entry 46: Jack Hetrick Poehlman of Mount Rainier, Maryland, son of John Poehlman and Beulah, a Lutheran; and Emily Margaret Schriefer of Baltimore, daughter of George Schriefer and Ethel Quinn, baptized at St. John's in 1921. Married in September 1941; witnesses Robert Poehlman and Bernadette O'Grady.",
+      "source": "Baltimore Catholic parish marriage register, 1941. Shared on Ancestry.com by cmfrank63, 28 Jun 2017; from the public member tree \"Quinn Family Tree\".",
+      "people": [
+        "poleman_jack",
+        "emily_schrieffer_mckeldin"
+      ]
+    },
+    {
+      "id": "marriage-1945-mckeldin-poehlman",
+      "kind": "album",
+      "title": "Marriage of Charles E. McKeldin and Emily M. Poehlman, 2 November 1945",
+      "caption": "Page 1, the Baltimore City marriage licence (no. 5549): Charles E. McKeldin, 28, a machinist, single, and Emily M. Poehlman, 24, a widow, of 334 E. 21st Street; not related. Page 2, the church register, entry 40: Charles E. McKeldin Jr. of 1143 Carroll Street, son of Charles E. McKeldin Sr. and Emma A. Bell, and Emily M. Poehlman (Schriefer), baptized 20 Feb 1921 at St. John's, daughter of George Schriefer and Ethel Quinn; witnesses William A. McKeldin and Helen F. Bosies; the Rev. Paul F. Hittel.",
+      "source": "Baltimore City marriage licence 5549 and Baltimore Catholic parish marriage register, 1945. Shared on Ancestry.com by cmfrank63, 28 Jun 2017; from the public member tree \"Quinn Family Tree\".",
+      "people": [
+        "charles_buckey_mckeldin",
+        "emily_schrieffer_mckeldin",
+        "mckeldin_charles_i",
+        "emma_bell_mckeldin",
+        "schriefer_george_goode",
+        "ethel_quinn_schriefer"
+      ],
+      "pages": [
+        "ancestry_mckeldin_poehlman_1945_license.jpg",
+        "ancestry_mckeldin_poehlman_1945_church.jpg"
+      ]
     }
   ]
 }

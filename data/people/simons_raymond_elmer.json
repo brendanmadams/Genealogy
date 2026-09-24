@@ -2,14 +2,16 @@
   "id": "simons_raymond_elmer",
   "name": "Raymond Elmer Simons",
   "birth": "17 Oct 1921",
-  "death": "1994",
+  "death": "26 Apr 1994",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Born 17 Oct 1921, Lynden, Whatcom Co, Washington"
+    "Born 17 Oct 1921, Lynden, Whatcom Co, Washington",
+    "Married Wilma K. Hardy (m. 30 Aug 1947)",
+    "Married Beatrice Lee “Bette” Jones (m. 10 Nov 1969)"
   ],
   "education": [],
   "career": [],
@@ -17,23 +19,29 @@
     "mother": "kulp_dradie_ellen",
     "father": "simons_raymond_zell",
     "siblings": [],
-    "spouse": "simons_betty",
+    "spouse": "hardy_wilma",
     "children": [
       "simons_carl_ray",
       "simons_debra_sue"
+    ],
+    "_extra_spouses": [
+      "simons_betty"
     ]
   },
   "locations": [
     "Lynden, Whatcom County, Washington",
-    "Delta, Whatcom County, Washington"
+    "Delta, Whatcom County, Washington",
+    "Pasco, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)"
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
   ],
   "notes": [
-    "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue."
+    "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue.",
+    "Married Wilma K. Hardy on 30 Aug 1947 in Franklin County and Beatrice \"Bette\" Jones on 10 Nov 1969 at Pasco. Died 26 Apr 1994 at Pasco; buried at Kennewick (Kulp-Ritchey-Dorsett Family Tree)."
   ],
   "aliases": [
     "Elmer"

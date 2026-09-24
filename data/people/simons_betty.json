@@ -1,14 +1,16 @@
 {
   "id": "simons_betty",
-  "name": "Betty Simons",
-  "birth": "",
-  "death": "",
+  "name": "Beatrice Lee “Bette” Jones (Barton, Simons)",
+  "birth": "1921",
+  "death": "1995",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Raymond Elmer Simons (m. 10 Nov 1969)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -16,20 +18,22 @@
     "father": "",
     "siblings": [],
     "spouse": "simons_raymond_elmer",
-    "children": [
-      "simons_carl_ray",
-      "simons_debra_sue"
-    ]
+    "children": []
   },
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
   ],
   "notes": [
-    "Wife of Raymond Elmer (\"Elmer\") Simons. Maiden name not recorded.",
-    "Carl Ray Simons's 2025 obituary names his mother as Wilma, not Betty; Elmer may have married twice, or Betty may be a nickname. Not resolved."
+    "Beatrice Lee \"Bette\" Jones (1921–1995), earlier Mrs. Barton, was Elmer Simons's second wife: they married on 10 Nov 1969 at Pasco, and the tree records a second marriage about 1980 (Kulp-Ritchey-Dorsett Family Tree). His first wife was Wilma K. Hardy.",
+    "CORRECTION 2026-09-24: Carl Ray and Debra Sue were adopted by Elmer and his first wife, Wilma (Hardy); Bette was their stepmother. Carl Ray's 2025 obituary names his parents as Wilma and Elmer, and the tree dates Elmer's marriage to Bette to 1969."
   ],
-  "aliases": [],
+  "aliases": [
+    "Betty Simons",
+    "Bette Simons",
+    "Beatrice Lee Jones Barton"
+  ],
   "sex": "F"
 }

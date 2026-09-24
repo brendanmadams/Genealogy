@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T16:14:34.276Z",
-  "people": 885,
-  "family_members": 835,
+  "generated": "2026-09-24T16:50:00.379Z",
+  "people": 887,
+  "family_members": 837,
   "dna_matches": 50,
-  "connected_people": 835,
-  "families": 302,
+  "connected_people": 837,
+  "families": 303,
   "branches": [
    "adams",
    "hamilton",
@@ -8455,7 +8455,9 @@
    "media": [
     "census-1910-delta-simons-mcphail",
     "census-1860-mcminn-ball",
-    "census-1870-roane-ball"
+    "census-1870-roane-ball",
+    "mcphail-ellen-john-b",
+    "mcphail-ellen-1925-lynden"
    ],
    "birth": {
     "text": "2 Nov 1851",
@@ -10030,6 +10032,7 @@
     "george_francis_adams_jr"
    ],
    "siblings": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "simons_raymond_elmer",
     "simons_howard",
@@ -10671,7 +10674,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "marriage-1917-forester-borton"
+   ],
    "birth": {
     "text": "1896",
     "year": 1896,
@@ -10718,10 +10723,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)",
+    "Record image on Ancestry.com, Jackson County, Michigan, marriage register, 1917 (Cox Family Tree)"
    ],
    "notes": [
-    "First wife of Glenn C. Forester (m. 3 Nov 1917, Jackson, Michigan)."
+    "First wife of Glenn C. Forester (m. 3 Nov 1917, Jackson, Michigan).",
+    "Born at Ray, Indiana, daughter of Charles Borton and Elberta (Nora Alberta) Baker; aged 21, living in Jackson, when she married Glenn Forester on 3 Nov 1917."
    ]
   },
   {
@@ -11289,7 +11296,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "marriage-1896-forester-burch"
+   ],
    "birth": {
     "text": "1875",
     "year": 1875,
@@ -12512,7 +12521,8 @@
    "media": [
     "census-1920-baltimore-mckeldin-bell",
     "census-1930-baltimore-mckeldin",
-    "census-1940-baltimore-mckeldin"
+    "census-1940-baltimore-mckeldin",
+    "marriage-1945-mckeldin-poehlman"
    ],
    "birth": {
     "text": "April 22, 1917",
@@ -12606,7 +12616,8 @@
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
     "Ancestry.com, 1920 United States Federal Census",
     "Ancestry.com, 1930 United States Federal Census",
-    "Find a Grave, memorial 222564397"
+    "Find a Grave, memorial 222564397",
+    "Record image on Ancestry.com, Baltimore City marriage licence 5549 and parish marriage register, 1945 (Quinn Family Tree)"
    ],
    "notes": [
     "Father of Barbara Jeanne Adams, Chuck McKeldin, and J. Michael McKeldin",
@@ -12614,7 +12625,8 @@
     "Additional spouse: margaret_peggy_mckeldin",
     "CORRECTION 2026-09-23: Lola, Lillian, Helen, Emma and William \"Billy\" are his sisters and brother, as his daughter Barbara states twice in her memoir, not Charles E. McKeldin I's siblings as an earlier note suggested. (Charles E. I also had a sister Lillian and a brother William, which likely caused the mix-up.) [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
     "Barbara lists \"Edward, after my father\" among possible names for her son Brian, which suggests the E. in his name stood for Edward (not confirmed). [Barbara McKeldin Adams, A Memoir, text line 1591]",
-    "His Find a Grave memorial names him Charles Edward McKeldin (1917–2006), confirming that the E. stood for Edward."
+    "His Find a Grave memorial names him Charles Edward McKeldin (1917–2006), confirming that the E. stood for Edward.",
+    "He married Emily M. Poehlman on 2 Nov 1945 in Baltimore, aged 28, a machinist, of 1143 Carroll Street; his brother William A. McKeldin was a witness. The church register gives his own baptism as 10 Oct 1945."
    ]
   },
   {
@@ -16151,7 +16163,9 @@
    "sex": "F",
    "media": [
     "census-1930-baltimore-schriefer",
-    "census-1940-baltimore-schriefer"
+    "census-1940-baltimore-schriefer",
+    "marriage-1941-poehlman-schriefer",
+    "marriage-1945-mckeldin-poehlman"
    ],
    "birth": {
     "text": "20 Feb 1921",
@@ -16240,7 +16254,8 @@
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
     "Find a Grave, memorial 222564260",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Record image on Ancestry.com, Baltimore City marriage licence 5549 and parish marriage register, 1945 (Quinn Family Tree)"
    ],
    "notes": [
     "Referenced in Barbara Jeanne Adams: Daughter of Charles McKeldin and Emily Schrieffer McKeldin",
@@ -16249,7 +16264,8 @@
     "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother.",
     "CORRECTION: born 20 Feb 1921 in Baltimore and died 21 Oct 1950, in her 30th year, per her death notice (Baltimore Sun, 23 Oct 1950) and Find a Grave; she was 9 in the 1930 census and 19 in 1940. The earlier birth \"abt 1914\" came from Barbara remembering her as 36, and 24 Oct was not her death date.",
     "The censuses, her parents' death notices and Find a Grave spell the family name Schriefer.",
-    "The Quinn Family Tree on Ancestry gives her birth as 4 Feb 1921 and her death as Oct 1951; her death notice (Oct 1950) and Find a Grave (20 Feb 1921) are followed here."
+    "The Quinn Family Tree on Ancestry gives her birth as 4 Feb 1921 and her death as Oct 1951; her death notice (Oct 1950) and Find a Grave (20 Feb 1921) are followed here.",
+    "She married Charles E. McKeldin on 2 Nov 1945 in Baltimore, aged 24, a widow, living at 334 E. 21st Street (marriage licence 5549). The church register gives her baptism as 20 Feb 1921 at St. John's."
    ]
   },
   {
@@ -16268,7 +16284,8 @@
     "census-1920-baltimore-mckeldin-bell",
     "census-1900-baltimore-bell",
     "census-1930-baltimore-mckeldin",
-    "census-1940-baltimore-mckeldin"
+    "census-1940-baltimore-mckeldin",
+    "marriage-1945-mckeldin-poehlman"
    ],
    "birth": {
     "text": "13 Aug 1891",
@@ -16515,7 +16532,9 @@
    "media": [
     "census-1910-harford-quinn",
     "census-1930-baltimore-schriefer",
-    "census-1940-baltimore-schriefer"
+    "census-1940-baltimore-schriefer",
+    "marriage-1920-schriefer-quinn",
+    "marriage-1945-mckeldin-poehlman"
    ],
    "birth": {
     "text": "13 Nov 1900",
@@ -16602,14 +16621,16 @@
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
     "Find a Grave, memorial 222563596",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Record image on Ancestry.com, Howard County, Maryland, marriage return, 1920 (Quinn Family Tree)"
    ],
    "notes": [
     "Barbara identifies her as her maternal grandmother.",
     "Siblings listed: John Joseph Quinn",
     "Emily's mother.",
     "Daughter of Bernard Quinn and Emily M. (Lynn), both born in Ireland; in 1910 the family lived in District 3, Harford County, Maryland.",
-    "CORRECTION: born 13 Nov 1900 at Fallston, Harford County, and baptized 2 Dec 1900 at St John's Church (Quinn Family Tree on Ancestry; aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave gives 1901), and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered."
+    "CORRECTION: born 13 Nov 1900 at Fallston, Harford County, and baptized 2 Dec 1900 at St John's Church (Quinn Family Tree on Ancestry; aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave gives 1901), and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered.",
+    "George Schriefer (21, B&O Railroad) and Ethel Quinn (20), both of Baltimore, were married on 12 Jul 1920 at St. Paul's Church, Ellicott City, Howard County, by the Rev. Michael A. Ryan."
    ]
   },
   {
@@ -17245,7 +17266,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "marriage-1896-forester-burch"
+   ],
    "birth": {
     "text": "22 Jan 1875",
     "year": 1875,
@@ -17306,11 +17329,13 @@
    "sources": [
     "Find a Grave, memorial 68165791",
     "Find a Grave, memorial 57296268",
-    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)",
+    "Record image on Ancestry.com, marriage notice, 4 Nov 1896 (Cox Family Tree)"
    ],
    "notes": [
     "Son of Stephen S. and Rebecca Ann (Simons) Forester.",
-    "Born in Northwest Township, Williams County, Ohio; the Cox Family Tree gives 21 Jan 1875, a day earlier than Find a Grave. He married Etta May Burch on 24 Oct 1896 at Clear Lake, Indiana, and died 28 Nov 1954 at Coldwater, Michigan. Sons Glenn C. (1897) and Ivan Duane (1899)."
+    "Born in Northwest Township, Williams County, Ohio; the Cox Family Tree gives 21 Jan 1875, a day earlier than Find a Grave. He married Etta May Burch on 24 Oct 1896 at Clear Lake, Indiana, and died 28 Nov 1954 at Coldwater, Michigan. Sons Glenn C. (1897) and Ivan Duane (1899).",
+    "His marriage to Addie May Burch took place at the home of Jonas Eglekraut in Clear Lake Township, Steuben County, Indiana, performed by the Rev. J. W. Martin (newspaper notice, 4 Nov 1896)."
    ]
   },
   {
@@ -17384,10 +17409,14 @@
    "id": "forester_glenn_c",
    "name": "Glenn C. Forester",
    "aliases": [],
-   "photo": null,
+   "photo": "images/forester_glenn_c.jpg",
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "forester-ivan-glenn-boys",
+    "forester-glenn-baby",
+    "marriage-1917-forester-borton"
+   ],
    "birth": {
     "text": "15 Mar 1897",
     "year": 1897,
@@ -17447,20 +17476,24 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)"
+    "Ancestry.com, public member tree \"Cox Family Tree\" (tree 17224056)",
+    "Record image on Ancestry.com, Jackson County, Michigan, marriage register, 1917 (Cox Family Tree)"
    ],
    "notes": [
-    "Son of Charles Elmer and Etta (Burch) Forester. Born 15 Mar 1897 at Maplecrest, Williams County, Ohio; died 1 Dec 1965 at Hillsdale, Michigan; buried at Montgomery, Hillsdale County. He married Ruth Trilby Borton on 3 Nov 1917 at Jackson, Michigan (daughters Betty Joyce and Dorothy Jean), and after 1959 Helen Morrison Rowley."
+    "Son of Charles Elmer and Etta (Burch) Forester. Born 15 Mar 1897 at Maplecrest, Williams County, Ohio; died 1 Dec 1965 at Hillsdale, Michigan; buried at Montgomery, Hillsdale County. He married Ruth Trilby Borton on 3 Nov 1917 at Jackson, Michigan (daughters Betty Joyce and Dorothy Jean), and after 1959 Helen Morrison Rowley.",
+    "At his marriage on 3 Nov 1917 at Jackson, Michigan, he was 20, a mechanic, living in Jackson; the Rev. William H. Shannon officiated."
    ]
   },
   {
    "id": "forester_ivan_duane",
    "name": "Ivan Duane Forester",
    "aliases": [],
-   "photo": null,
+   "photo": "images/forester_ivan_duane.jpg",
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "forester-ivan-glenn-boys"
+   ],
    "birth": {
     "text": "22 Jul 1899",
     "year": 1899,
@@ -26598,6 +26631,71 @@
    ]
   },
   {
+   "id": "hardy_wilma",
+   "name": "Wilma K. Hardy (Simons)",
+   "aliases": [
+    "Wilma Simons"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "30 Mar 1924",
+    "year": 1924,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Aug 1989",
+    "year": 1989,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_raymond_elmer"
+   ],
+   "children": [
+    "simons_carl_ray",
+    "simons_debra_sue"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hardy_wilma+simons_raymond_elmer"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chadron, Dawes County, Nebraska",
+    "Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Raymond Elmer Simons (m. 30 Aug 1947)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "Born 30 Mar 1924 at Chadron, Nebraska; married Elmer Simons on 30 Aug 1947 in Franklin County, Washington; died 10 Aug 1989 in Franklin County (Kulp-Ritchey-Dorsett Family Tree). She and Elmer adopted Carl Ray (1954) and Debra Sue; Carl Ray's 2025 obituary names his parents as Wilma and Elmer."
+   ]
+  },
+  {
    "id": "harrington_harry_h",
    "name": "Harry H. Harrington",
    "aliases": [],
@@ -31850,6 +31948,7 @@
     "simons_raymond_zell"
    ],
    "children": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "beryl_simons_adams",
     "simons_raymond_elmer",
@@ -35304,7 +35403,8 @@
    "sex": "M",
    "media": [
     "census-1920-baltimore-mckeldin-bell",
-    "census-1930-baltimore-mckeldin"
+    "census-1930-baltimore-mckeldin",
+    "marriage-1945-mckeldin-poehlman"
    ],
    "birth": {
     "text": "4 Feb 1887",
@@ -37559,7 +37659,8 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "census-1910-delta-simons-mcphail"
+    "census-1910-delta-simons-mcphail",
+    "mcphail-ellen-john-b"
    ],
    "birth": {
     "text": "31 Aug 1849",
@@ -42057,7 +42158,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "marriage-1941-poehlman-schriefer"
+   ],
    "birth": {
     "text": "1919",
     "year": 1919,
@@ -42108,11 +42211,13 @@
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
-    "Find a Grave, memorial 222564260"
+    "Find a Grave, memorial 222564260",
+    "Record image on Ancestry.com, Baltimore Catholic parish marriage register, 1941 (Quinn Family Tree)"
    ],
    "notes": [
     "Emily Schriefer's first husband. Not a blood relative.",
-    "First husband of Emily Margaret Schriefer (m. 1941). Find a Grave lists him as 1Lt. Jack Hetrick Poehlman (1919–1944). Family memory says he was a naval aviator shot down on D-Day; a first lieutenant's rank suggests the Army Air Forces instead (not confirmed)."
+    "First husband of Emily Margaret Schriefer (m. 1941). Find a Grave lists him as 1Lt. Jack Hetrick Poehlman (1919–1944). Family memory says he was a naval aviator shot down on D-Day; a first lieutenant's rank suggests the Army Air Forces instead (not confirmed).",
+    "The 1941 church marriage register gives him as Jack Hetrick Poehlman of Mount Rainier, Maryland, son of John Poehlman and Beulah, a Lutheran. He and Emily married in September 1941."
    ]
   },
   {
@@ -47934,7 +48039,9 @@
    "media": [
     "census-1900-baltimore-schriefer",
     "census-1930-baltimore-schriefer",
-    "census-1940-baltimore-schriefer"
+    "census-1940-baltimore-schriefer",
+    "marriage-1920-schriefer-quinn",
+    "marriage-1945-mckeldin-poehlman"
    ],
    "birth": {
     "text": "1 Jun 1899",
@@ -48010,7 +48117,8 @@
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
     "Find a Grave, memorial 222563508",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Record image on Ancestry.com, Howard County, Maryland, marriage return, 1920 (Quinn Family Tree)"
    ],
    "notes": [
     "Barbara identifies him as her maternal grandfather.",
@@ -48019,7 +48127,8 @@
     "Emily's father. Nickname: Goode.",
     "CORRECTION: died 9 May 1951 in Baltimore, in his 52nd year, per his death notice (Evening Sun, 10 May 1951) and Find a Grave; 12 May 1951 was his burial at New Cathedral Cemetery. Born 1 Jun 1899 in Baltimore.",
     "In 1930 his mother-in-law Emily Cook and her husband Earnest Cook lived with the family on Barclay Street.",
-    "Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel Elizabeth Quinn on 12 Jul 1920 in Baltimore (Quinn Family Tree on Ancestry; he was 20 at his first marriage, per the 1930 census)."
+    "Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel Elizabeth Quinn on 12 Jul 1920 in Baltimore (Quinn Family Tree on Ancestry; he was 20 at his first marriage, per the 1930 census).",
+    "George Schriefer (21, B&O Railroad) and Ethel Quinn (20), both of Baltimore, were married on 12 Jul 1920 at St. Paul's Church, Ellicott City, Howard County, by the Rev. Michael A. Ryan."
    ]
   },
   {
@@ -49956,20 +50065,24 @@
   },
   {
    "id": "simons_betty",
-   "name": "Betty Simons",
-   "aliases": [],
+   "name": "Beatrice Lee “Bette” Jones (Barton, Simons)",
+   "aliases": [
+    "Betty Simons",
+    "Bette Simons",
+    "Beatrice Lee Jones Barton"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1921",
+    "year": 1921,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1995",
+    "year": 1995,
     "qualifier": null
    },
    "living": false,
@@ -49984,10 +50097,7 @@
    "spouses": [
     "simons_raymond_elmer"
    ],
-   "children": [
-    "simons_carl_ray",
-    "simons_debra_sue"
-   ],
+   "children": [],
    "siblings": [],
    "families": [
     "F_simons_betty+simons_raymond_elmer"
@@ -50002,16 +50112,19 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Raymond Elmer Simons (m. 10 Nov 1969)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
-    "Wife of Raymond Elmer (\"Elmer\") Simons. Maiden name not recorded.",
-    "Carl Ray Simons's 2025 obituary names his mother as Wilma, not Betty; Elmer may have married twice, or Betty may be a nickname. Not resolved."
+    "Beatrice Lee \"Bette\" Jones (1921–1995), earlier Mrs. Barton, was Elmer Simons's second wife: they married on 10 Nov 1969 at Pasco, and the tree records a second marriage about 1980 (Kulp-Ritchey-Dorsett Family Tree). His first wife was Wilma K. Hardy.",
+    "CORRECTION 2026-09-24: Carl Ray and Debra Sue were adopted by Elmer and his first wife, Wilma (Hardy); Bette was their stepmother. Carl Ray's 2025 obituary names his parents as Wilma and Elmer, and the tree dates Elmer's marriage to Bette to 1969."
    ]
   },
   {
@@ -50110,9 +50223,9 @@
    ],
    "adopted": true,
    "father": "simons_raymond_elmer",
-   "mother": "simons_betty",
+   "mother": "hardy_wilma",
    "parents": [
-    "simons_betty",
+    "hardy_wilma",
     "simons_raymond_elmer"
    ],
    "spouses": [],
@@ -50126,7 +50239,7 @@
    "families": [
     "F_simons_carl_ray"
    ],
-   "parent_family": "F_simons_betty+simons_raymond_elmer",
+   "parent_family": "F_hardy_wilma+simons_raymond_elmer",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -50141,10 +50254,11 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
-    "Adopted by Elmer and Betty Simons.",
+    "Adopted by Elmer and Wilma (Hardy) Simons; Elmer's second wife, Bette, was a stepmother.",
     "Born 18 May 1954; grew up in Washington and died 7 Aug 2025. He loved motorcycles, music and the boat races on the Columbia River. His partner was Judy Simons; his children are Ashley and Shawn Simons. His obituary names his parents as Wilma and Elmer Simons, and says his sister Deborah died before him."
    ]
   },
@@ -50377,9 +50491,9 @@
    ],
    "adopted": true,
    "father": "simons_raymond_elmer",
-   "mother": "simons_betty",
+   "mother": "hardy_wilma",
    "parents": [
-    "simons_betty",
+    "hardy_wilma",
     "simons_raymond_elmer"
    ],
    "spouses": [],
@@ -50388,7 +50502,7 @@
     "simons_carl_ray"
    ],
    "families": [],
-   "parent_family": "F_simons_betty+simons_raymond_elmer",
+   "parent_family": "F_hardy_wilma+simons_raymond_elmer",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -50403,10 +50517,11 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
-    "Adopted by Elmer and Betty Simons.",
+    "Adopted by Elmer and Wilma (Hardy) Simons; Elmer's second wife, Bette, was a stepmother.",
     "Her brother Carl Ray's 2025 obituary says she died before him."
    ]
   },
@@ -50724,6 +50839,7 @@
     "rhinehart_janet"
    ],
    "siblings": [
+    "simons_rhea_dradie",
     "beryl_simons_adams",
     "simons_raymond_elmer",
     "simons_howard",
@@ -51205,6 +51321,7 @@
     "simons_ann"
    ],
    "siblings": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "beryl_simons_adams",
     "simons_raymond_elmer",
@@ -51700,6 +51817,7 @@
     "simons_judy"
    ],
    "siblings": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "beryl_simons_adams",
     "simons_raymond_elmer",
@@ -53109,6 +53227,7 @@
     "simons_billy"
    ],
    "siblings": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "beryl_simons_adams",
     "simons_raymond_elmer",
@@ -53278,7 +53397,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "1994",
+    "text": "26 Apr 1994",
     "year": 1994,
     "qualifier": null
    },
@@ -53299,6 +53418,7 @@
     "simons_raymond_zell"
    ],
    "spouses": [
+    "hardy_wilma",
     "simons_betty"
    ],
    "children": [
@@ -53306,6 +53426,7 @@
     "simons_debra_sue"
    ],
    "siblings": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "beryl_simons_adams",
     "simons_howard",
@@ -53313,6 +53434,7 @@
     "simons_glen"
    ],
    "families": [
+    "F_hardy_wilma+simons_raymond_elmer",
     "F_simons_betty+simons_raymond_elmer"
    ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
@@ -53321,7 +53443,8 @@
    "priority": "normal",
    "locations": [
     "Lynden, Whatcom County, Washington",
-    "Delta, Whatcom County, Washington"
+    "Delta, Whatcom County, Washington",
+    "Pasco, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -53329,17 +53452,21 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Born 17 Oct 1921, Lynden, Whatcom Co, Washington"
+    "Born 17 Oct 1921, Lynden, Whatcom Co, Washington",
+    "Married Wilma K. Hardy (m. 30 Aug 1947)",
+    "Married Beatrice Lee “Bette” Jones (m. 10 Nov 1969)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)"
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
-    "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue."
+    "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue.",
+    "Married Wilma K. Hardy on 30 Aug 1947 in Franklin County and Beatrice \"Bette\" Jones on 10 Nov 1969 at Pasco. Died 26 Apr 1994 at Pasco; buried at Kennewick (Kulp-Ritchey-Dorsett Family Tree)."
    ]
   },
   {
@@ -53381,6 +53508,7 @@
     "kulp_dradie_ellen"
    ],
    "children": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "beryl_simons_adams",
     "simons_raymond_elmer",
@@ -53488,8 +53616,75 @@
     "His Washington death record names his parents as Aaron Simons and Hattie Micheals.",
     "Censuses give his father's birthplace as Ohio (1900, 1910), Iowa (1920) and Illinois (1930), and his own as Washington in 1930.",
     "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland.",
-    "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918.",
-    "Elaine's 2011 obituary says she was preceded in death by two sisters. Only Beryl is known, so Ray and Dradie may have had another daughter who is not yet in the tree."
+    "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918."
+   ]
+  },
+  {
+   "id": "simons_rhea_dradie",
+   "name": "Rhea Dradie Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "19 Sep 1916",
+    "year": 1916,
+    "qualifier": null
+   },
+   "death": {
+    "text": "19 Sep 1916",
+    "year": 1916,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_raymond_zell",
+   "mother": "kulp_dradie_ellen",
+   "parents": [
+    "kulp_dradie_ellen",
+    "simons_raymond_zell"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_elaine_deretha",
+    "beryl_simons_adams",
+    "simons_raymond_elmer",
+    "simons_howard",
+    "simons_orval_keith",
+    "simons_glen"
+   ],
+   "families": [],
+   "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Milton, Oregon"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+   ],
+   "notes": [
+    "First child of Ray and Dradie (Kulp) Simons; born and died on 19 Sep 1916 at Milton (Kulp-Ritchey-Dorsett Family Tree). She is the second sister who, with Beryl, predeceased Elaine, according to Elaine's 2011 obituary."
    ]
   },
   {
@@ -64401,6 +64596,18 @@
    "marriage": "1935"
   },
   {
+   "id": "F_hardy_wilma+simons_raymond_elmer",
+   "partners": [
+    "hardy_wilma",
+    "simons_raymond_elmer"
+   ],
+   "children": [
+    "simons_carl_ray",
+    "simons_debra_sue"
+   ],
+   "marriage": "30 Aug 1947"
+  },
+  {
    "id": "F_harrington_harry_h+simons_bertha",
    "partners": [
     "harrington_harry_h",
@@ -64692,6 +64899,7 @@
     "simons_raymond_zell"
    ],
    "children": [
+    "simons_rhea_dradie",
     "simons_elaine_deretha",
     "beryl_simons_adams",
     "simons_raymond_elmer",
@@ -65386,11 +65594,8 @@
     "simons_betty",
     "simons_raymond_elmer"
    ],
-   "children": [
-    "simons_carl_ray",
-    "simons_debra_sue"
-   ],
-   "marriage": null
+   "children": [],
+   "marriage": "10 Nov 1969"
   },
   {
    "id": "F_simons_billy",
@@ -66886,6 +67091,135 @@
    ],
    "files": [
     "media/census-1940-baltimore-schriefer.jpg"
+   ]
+  },
+  {
+   "id": "forester-ivan-glenn-boys",
+   "kind": "photo",
+   "title": "Ivan and Glenn Forester as boys",
+   "caption": "Studio portrait of the two sons of Charlie and Etta (Burch) Forester, about 1905: Ivan (born 1899) on the left and Glenn (born 1897) on the right. They were grandsons of Rebecca Ann (Simons) Forester.",
+   "source": "Shared on Ancestry.com by wtmbbanjo, 20 Mar 2013; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_ivan_duane",
+    "forester_glenn_c"
+   ],
+   "files": [
+    "media/forester-ivan-glenn-boys.jpg"
+   ]
+  },
+  {
+   "id": "forester-glenn-baby",
+   "kind": "photo",
+   "title": "Glenn Forester as a baby",
+   "caption": "Cabinet-card portrait of Glenn C. Forester, born 15 Mar 1897, probably taken about 1898.",
+   "source": "Shared on Ancestry.com by wtmbbanjo, 20 Mar 2013; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_glenn_c"
+   ],
+   "files": [
+    "media/forester-glenn-baby.jpg"
+   ]
+  },
+  {
+   "id": "mcphail-ellen-john-b",
+   "kind": "photo",
+   "title": "Ellen and John B. McPhail with a boy named John",
+   "caption": "Labelled in the tree as Ellen Rogers McPhail, her husband John B. and \"son John McPhail\". The boy looks about ten, so he is more likely a grandson. Taken before John B.'s death in March 1925.",
+   "source": "Shared on Ancestry.com by tth50, 23 Jan 2012; from the public member tree \"Kulp-Ritchey-Dorsett Family Tree\".",
+   "people": [
+    "ball_ellen_rogers",
+    "mcphail_john_belle"
+   ],
+   "files": [
+    "media/mcphail-ellen-john-b.jpg"
+   ]
+  },
+  {
+   "id": "mcphail-ellen-1925-lynden",
+   "kind": "photo",
+   "title": "Ellen Rogers Ball McPhail and family, Lynden, 1925",
+   "caption": "A copied page labelled \"1925, Lynden, WA\" and \"Ellen Roger Ball McPhail\": six people outdoors, two older women seated in front. Ellen, then about 73 and widowed that March, is probably one of them; the others are not named.",
+   "source": "Shared on Ancestry.com by John McPhail, 1 Jan 2018; from the public member tree \"Kulp-Ritchey-Dorsett Family Tree\".",
+   "people": [
+    "ball_ellen_rogers"
+   ],
+   "files": [
+    "media/mcphail-ellen-1925-lynden.jpg"
+   ]
+  },
+  {
+   "id": "marriage-1896-forester-burch",
+   "kind": "document",
+   "title": "Marriage notice of Charles E. Forester and Addie May Burch, 1896",
+   "caption": "\"At the residence of Jonas Eglekraut, in Clear Lake township, by Rev. J. W. Martin, Chas. E. Forester and Miss Addie May Burch, both of Steuben Co., Ind.\" Published 4 Nov 1896; the paper is not named in the tree.",
+   "source": "Newspaper clipping, 4 Nov 1896. Shared on Ancestry.com by dmacfarlane, 9 Feb 2022; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_charles_elmer",
+    "burch_etta"
+   ],
+   "files": [
+    "media/marriage-1896-forester-burch.jpg"
+   ]
+  },
+  {
+   "id": "marriage-1917-forester-borton",
+   "kind": "document",
+   "title": "Marriage register: Glenn Forester and Ruth Borton, Jackson, Michigan, 1917",
+   "caption": "Entry 817: Glen Forester, 20, of Jackson, born in Ohio, a mechanic, son of Charles Forester and Etta M. Burch; Ruth Borton, 21, of Jackson, born at Ray, Indiana, daughter of Charles Borton and Elberta Baker. Married 3 Nov 1917 at Jackson by William H. Shannon, clergyman.",
+   "source": "Jackson County, Michigan, marriage register, 1917. Shared on Ancestry.com by Marci Hess, 21 Dec 2012; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_glenn_c",
+    "borton_ruth_trilby"
+   ],
+   "files": [
+    "media/marriage-1917-forester-borton.jpg"
+   ]
+  },
+  {
+   "id": "marriage-1920-schriefer-quinn",
+   "kind": "document",
+   "title": "Marriage certificate of George Schriefer and Ethel Quinn, 12 July 1920",
+   "caption": "George Schriefer, 21, of Baltimore, a B&O Railroad worker, and Ethel Quinn, 20, of Baltimore, both single, married at St. Paul's Church, Ellicott City, under a Howard County licence, by the Rev. Michael A. Ryan. Filed 26 Jul 1920.",
+   "source": "Howard County, Maryland, Circuit Court marriage return, 1920. Shared on Ancestry.com by cmfrank63, 10 Nov 2019; from the public member tree \"Quinn Family Tree\".",
+   "people": [
+    "schriefer_george_goode",
+    "ethel_quinn_schriefer"
+   ],
+   "files": [
+    "media/marriage-1920-schriefer-quinn.jpg"
+   ]
+  },
+  {
+   "id": "marriage-1941-poehlman-schriefer",
+   "kind": "document",
+   "title": "Church marriage register: Jack Poehlman and Emily Schriefer, September 1941",
+   "caption": "Entry 46: Jack Hetrick Poehlman of Mount Rainier, Maryland, son of John Poehlman and Beulah, a Lutheran; and Emily Margaret Schriefer of Baltimore, daughter of George Schriefer and Ethel Quinn, baptized at St. John's in 1921. Married in September 1941; witnesses Robert Poehlman and Bernadette O'Grady.",
+   "source": "Baltimore Catholic parish marriage register, 1941. Shared on Ancestry.com by cmfrank63, 28 Jun 2017; from the public member tree \"Quinn Family Tree\".",
+   "people": [
+    "poleman_jack",
+    "emily_schrieffer_mckeldin"
+   ],
+   "files": [
+    "media/marriage-1941-poehlman-schriefer.jpg"
+   ]
+  },
+  {
+   "id": "marriage-1945-mckeldin-poehlman",
+   "kind": "album",
+   "title": "Marriage of Charles E. McKeldin and Emily M. Poehlman, 2 November 1945",
+   "caption": "Page 1, the Baltimore City marriage licence (no. 5549): Charles E. McKeldin, 28, a machinist, single, and Emily M. Poehlman, 24, a widow, of 334 E. 21st Street; not related. Page 2, the church register, entry 40: Charles E. McKeldin Jr. of 1143 Carroll Street, son of Charles E. McKeldin Sr. and Emma A. Bell, and Emily M. Poehlman (Schriefer), baptized 20 Feb 1921 at St. John's, daughter of George Schriefer and Ethel Quinn; witnesses William A. McKeldin and Helen F. Bosies; the Rev. Paul F. Hittel.",
+   "source": "Baltimore City marriage licence 5549 and Baltimore Catholic parish marriage register, 1945. Shared on Ancestry.com by cmfrank63, 28 Jun 2017; from the public member tree \"Quinn Family Tree\".",
+   "people": [
+    "charles_buckey_mckeldin",
+    "emily_schrieffer_mckeldin",
+    "mckeldin_charles_i",
+    "emma_bell_mckeldin",
+    "schriefer_george_goode",
+    "ethel_quinn_schriefer"
+   ],
+   "files": [
+    "media/marriage-1945-mckeldin-poehlman-01.jpg",
+    "media/marriage-1945-mckeldin-poehlman-02.jpg"
    ]
   }
  ]
