@@ -148,7 +148,7 @@ export class Suggest {
     form.kind.focus();
     this.widget = null;
     loadTurnstile()
-      .then(ts => { if (!this.el.hidden) this.widget = ts.render(this.el.querySelector('.sg-turnstile'), { sitekey: SUGGEST.turnstileSiteKey, theme: 'dark', 'error-callback': () => { this.status('The spam check ran into a problem. Please reload the page and try again.', true); return true; } }); })
+      .then(ts => { if (!this.el.hidden) this.widget = ts.render(this.el.querySelector('.sg-turnstile'), { sitekey: SUGGEST.turnstileSiteKey, theme: document.documentElement.dataset.theme === 'light' ? 'light' : 'dark', 'error-callback': () => { this.status('The spam check ran into a problem. Please reload the page and try again.', true); return true; } }); })
       .catch(() => this.status('The spam check could not load. Please check your connection and try again.', true));
   }
 

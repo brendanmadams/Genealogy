@@ -155,6 +155,7 @@ function wireHeader() {
   $('#ask-form').addEventListener('submit', e => { e.preventDefault(); const q = $('#ask').value.trim(); if (q) { ask.ask(q); $('#ask').value = ''; $('#ask').blur(); } });
   $('#btn-ask').addEventListener('click', () => ask.openEmpty());
   $('#btn-home').addEventListener('click', () => { location.hash = ''; });
+  wireTheme();
   $('#btn-fit').addEventListener('click', () => renderer.fit(true));
   $('#zoom-in').addEventListener('click', () => renderer.zoomBy(1.3));
   $('#zoom-out').addEventListener('click', () => renderer.zoomBy(1 / 1.3));
@@ -207,6 +208,24 @@ function wireSearch(input, drop, onPick = focus) {
 }
 
 // ── Panel ───────────────────────────────────────────────────────────────────
+// ── Light / dark (dark unless this browser chose light) ─────────────────────
+const THEME_KEY = 'familytree.theme';
+function wireTheme() {
+  const btn = $('#btn-theme');
+  const show = () => {
+    const light = document.documentElement.dataset.theme === 'light';
+    btn.textContent = light ? '☾' : '☀';
+    btn.title = btn.ariaLabel = light ? 'Switch to dark mode' : 'Switch to light mode';
+  };
+  btn.addEventListener('click', () => {
+    const light = document.documentElement.dataset.theme !== 'light';
+    if (light) document.documentElement.dataset.theme = 'light'; else delete document.documentElement.dataset.theme;
+    try { localStorage.setItem(THEME_KEY, light ? 'light' : 'dark'); } catch { /* private mode etc. */ }
+    show();
+  });
+  show();
+}
+
 function renderPanelFor(p) {
   if (compareId && !D.person(compareId)) compareId = null;
   renderPanel($('#panel'), D, p, { me: me.get(), other: compareId !== p.id ? compareId : null });

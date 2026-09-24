@@ -5,9 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Adams · McKeldin Family Tree</title>
 <meta name="description" content="An interactive family history for the Adams, McKeldin and related families." />
+<script>try { if (localStorage.getItem('familytree.theme') === 'light') document.documentElement.dataset.theme = 'light'; } catch (e) {}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="css/app.css?v=eb3ecf7c" data-versioned />
+<link rel="stylesheet" href="css/app.css?v=e7cbd95e" data-versioned />
 </head>
 <body>
 <div id="app">
@@ -23,6 +24,7 @@
     </form>
     <button class="hbtn" id="btn-ask" title="Ask a question">✦ <span class="label">Ask</span></button>
     <div class="spacer"></div>
+    <button class="hbtn" id="btn-theme" title="Switch to light mode" aria-label="Switch to light mode">☀</button>
     <button class="hbtn" id="btn-home" title="Start page">⌂ <span class="label">Start</span></button>
     <button class="hbtn" id="btn-fit" title="Fit the tree in view">⤢ <span class="label">Fit</span></button>
     <button class="hbtn" id="btn-panel" title="Show or hide details">☰ <span class="label">Details</span></button>
@@ -72,7 +74,7 @@
 <!-- versions:start (written by scripts/build.js; each file gets ?v=<content hash> so browsers fetch changes immediately) -->
 <script type="importmap">{
  "imports": {
-  "./js/app.js": "./js/app.js?v=1931ff1a",
+  "./js/app.js": "./js/app.js?v=ab7a2e50",
   "./js/ask.js": "./js/ask.js?v=f71cab7f",
   "./js/config.js": "./js/config.js?v=ccfc531b",
   "./js/data.js": "./js/data.js?v=eaab13e0",
@@ -83,11 +85,11 @@
   "./js/relate.js": "./js/relate.js?v=44f04645",
   "./js/render.js": "./js/render.js?v=11428dd8",
   "./js/sidebar.js": "./js/sidebar.js?v=1f9233ba",
-  "./js/suggest.js": "./js/suggest.js?v=98999ba9",
+  "./js/suggest.js": "./js/suggest.js?v=97e96dc0",
   "./js/viewer.js": "./js/viewer.js?v=2853f923"
  }
 }</script>
 <!-- versions:end -->
-<script type="module" src="js/app.js?v=1931ff1a" data-versioned></script>
+<script type="module" src="js/app.js?v=ab7a2e50" data-versioned></script>
 </body>
 </html>
