@@ -25,12 +25,16 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Nevada"
+  ],
   "sources": [
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)"
   ],
   "notes": [
-    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house.",
+    "Born in Nevada (1900 census, Dryad, Lewis County, Washington)."
   ],
   "aliases": []
 }

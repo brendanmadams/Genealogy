@@ -2,7 +2,7 @@
   "id": "trumbo_john_holmes",
   "name": "John Holmes Trumbo",
   "sex": "M",
-  "birth": "1881",
+  "birth": "22 Oct 1881",
   "death": "",
   "personality": [],
   "roles": [],
@@ -25,12 +25,17 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Yankee Fork mining camp, Custer County, Idaho"
+  ],
   "sources": [
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, Idaho, U.S., Birth Records, 1861-1924 (John Holmes Trumbo, certificate 318981)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)"
   ],
   "notes": [
-    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older brother of Serena Trumbo Adams. Named, with his birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older brother of Serena Trumbo Adams. Named, with his birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house.",
+    "Born 22 Oct 1881 at the Yankee Fork mining camp, Custer County, Idaho, the first child of Presley Nevil Trumbo and Hannah Louise Buckley (delayed Idaho birth certificate, filed 20 Aug 1941 on the sworn statement of J. C. Mills of Boise, a cousin). In 1900, aged 18, he was a shingle weaver at Dryad, Lewis County, Washington."
   ],
   "aliases": []
 }

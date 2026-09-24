@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T22:02:35.641Z",
+  "generated": "2026-09-24T22:16:13.356Z",
   "people": 915,
   "family_members": 866,
   "dna_matches": 49,
@@ -12247,7 +12247,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1860-placer-buckley"
+   ],
    "birth": {
     "text": "abt 1825",
     "year": 1825,
@@ -12301,7 +12303,8 @@
    ],
    "notes": [
     "Born about 1825 in Ireland. In 1860 a miner in Township 9, Placer County, California (post office Secret Ravine), aged 35, with his wife Margaret and daughters Mary A. (8), Julia C. (5) and Hannah (3), all born in Louisiana. Margaret was a widow by 1870, so he died between 1860 and 1870.",
-    "Inferred: the father of Hannah Louise Buckley (Trumbo), from the 1860 household and her mother's and sister's later households in Idaho."
+    "Inferred: the father of Hannah Louise Buckley (Trumbo), from the 1860 household and her mother's and sister's later households in Idaho.",
+    "Lead: next door to him in 1860 lived Michael Buckley, 45, a miner born in Ireland, perhaps a relative."
    ]
   },
   {
@@ -12318,7 +12321,12 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "trumbo-house-chehalis"
+    "trumbo-house-chehalis",
+    "census-1860-placer-buckley",
+    "census-1870-placerville-buckley",
+    "census-1880-garden-valley-charters",
+    "census-1900-dryad-trumbo",
+    "birth-1881-john-holmes-trumbo"
    ],
    "birth": {
     "text": "19 January 1859",
@@ -12370,7 +12378,8 @@
     "Placerville, Boise County, Idaho",
     "Garden Valley, Boise County, Idaho",
     "Dryad, Lewis County, Washington",
-    "Oakland, Alameda County, California"
+    "Oakland, Alameda County, California",
+    "New Orleans, Louisiana"
    ],
    "personality": [],
    "roles": [],
@@ -12404,7 +12413,8 @@
     "Her son John Holmes Trumbo's 1957 key calls her Hannah Lois Trumbo.",
     "CORRECTION 2026-09-24: She died on 14 Mar 1939 in Alameda County, California (California death index; newspaper obituary index, Oakland), not on 26 Dec 1941 in Sacramento. She is in Oakland city directories from 1925 to 1934 and registered to vote there in 1936 as Mrs. Hannah Louise Trumbo.",
     "As a girl she was \"Louisa\": aged 3 (\"Hannah S.\") in 1860 in Placer County, California, with her parents David and Margaret Buckley and sisters Mary A. and Julia C., all three girls born in Louisiana; aged 12 in 1870 at Placerville, Boise County, Idaho, with her widowed mother and sister Mary Ann, both girls working as waiters; and aged 22 in 1880 at Garden Valley, Boise County, in her sister Mary Ann's household. The censuses put her birth in 1857–1858, and in 1880 give both her parents' birthplaces as Ireland.",
-    "Married Presley N. Trumbo at Garden Valley on 25 Dec 1880 as \"Lizzie\" (also indexed as Louise) Buckley; her son John Holmes Trumbo's Idaho birth record names her Hannah Louise Buckley. In 1920 she was \"Louise Trumbo\", born in Louisiana, in Oakland."
+    "Married Presley N. Trumbo at Garden Valley on 25 Dec 1880 as \"Lizzie\" (also indexed as Louise) Buckley; her son John Holmes Trumbo's Idaho birth record names her Hannah Louise Buckley. In 1920 she was \"Louise Trumbo\", born in Louisiana, in Oakland.",
+    "Her son John Holmes Trumbo's delayed birth certificate (filed 1941) gives her birthplace as New Orleans, Louisiana, and her age as 23 at his birth in October 1881."
    ]
   },
   {
@@ -12414,7 +12424,11 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1860-placer-buckley",
+    "census-1870-placerville-buckley",
+    "census-1880-garden-valley-charters"
+   ],
    "birth": {
     "text": "abt 1818",
     "year": 1818,
@@ -29034,7 +29048,11 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1850-van-buren-trumbo",
+    "census-1856-iowa-trumbo",
+    "census-1860-van-buren-trumbo"
+   ],
    "birth": {
     "text": "10 Jun 1804",
     "year": 1804,
@@ -59810,7 +59828,8 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "trumbo-house-chehalis"
+    "trumbo-house-chehalis",
+    "census-1900-dryad-trumbo"
    ],
    "birth": {
     "text": "1885",
@@ -59850,7 +59869,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Nevada"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -59860,10 +59881,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)"
    ],
    "notes": [
-    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house.",
+    "Born in Nevada (1900 census, Dryad, Lewis County, Washington)."
    ]
   },
   {
@@ -59874,10 +59897,12 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "trumbo-house-chehalis"
+    "trumbo-house-chehalis",
+    "census-1900-dryad-trumbo",
+    "birth-1881-john-holmes-trumbo"
    ],
    "birth": {
-    "text": "1881",
+    "text": "22 Oct 1881",
     "year": 1881,
     "qualifier": null
    },
@@ -59914,7 +59939,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Yankee Fork mining camp, Custer County, Idaho"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -59924,10 +59951,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, Idaho, U.S., Birth Records, 1861-1924 (John Holmes Trumbo, certificate 318981)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)"
    ],
    "notes": [
-    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older brother of Serena Trumbo Adams. Named, with his birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older brother of Serena Trumbo Adams. Named, with his birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house.",
+    "Born 22 Oct 1881 at the Yankee Fork mining camp, Custer County, Idaho, the first child of Presley Nevil Trumbo and Hannah Louise Buckley (delayed Idaho birth certificate, filed 20 Aug 1941 on the sworn statement of J. C. Mills of Boise, a cousin). In 1900, aged 18, he was a shingle weaver at Dryad, Lewis County, Washington."
    ]
   },
   {
@@ -59938,7 +59968,8 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "trumbo-house-chehalis"
+    "trumbo-house-chehalis",
+    "census-1900-dryad-trumbo"
    ],
    "birth": {
     "text": "1883",
@@ -59978,7 +60009,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Nevada"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -59988,10 +60021,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)"
    ],
    "notes": [
-    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house.",
+    "Born in Nevada (1900 census, Dryad, Lewis County, Washington)."
    ]
   },
   {
@@ -60068,7 +60103,12 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "trumbo-house-chehalis"
+    "trumbo-house-chehalis",
+    "census-1850-van-buren-trumbo",
+    "census-1856-iowa-trumbo",
+    "census-1860-van-buren-trumbo",
+    "census-1900-dryad-trumbo",
+    "birth-1881-john-holmes-trumbo"
    ],
    "birth": {
     "text": "1840",
@@ -60120,7 +60160,9 @@
     "Union Township, Van Buren County, Iowa",
     "Garden Valley, Boise County, Idaho",
     "Dryad, Lewis County, Washington",
-    "Oakland, Alameda County, California"
+    "Oakland, Alameda County, California",
+    "Pittsburgh, Pennsylvania",
+    "Nevada"
    ],
    "personality": [],
    "roles": [],
@@ -60155,7 +60197,8 @@
     "He built the family house at Chehalis in 1890; his son John Holmes Trumbo wrote in 1957 that it was still occupied with very few alterations.",
     "CORRECTION 2026-09-24: He was born in Pennsylvania, not Kentucky: the 1850, 1856 and 1900 censuses and his son John Holmes Trumbo's Idaho birth record all give Pennsylvania. The 1900 census gives his father's birthplace as Pennsylvania and his mother's as Ohio.",
     "Grew up in Union Township, Van Buren County, Iowa: aged 10 in 1850, 15 in 1856 and about 20 in 1860, in the household of Presley and Susannah Trumbo with Matilda, Amos (\"Ames\"), Serene, John, Travilla, Sarah, Emalinda, Clarinda and Theodore. Served in Company K, 46th Iowa Infantry, in the Civil War; his pension application was filed on 28 Jul 1890.",
-    "Married \"Lizzie\" (also indexed as Louise) Buckley, Hannah Louise Buckley, on 25 Dec 1880 at Garden Valley, Boise County, Idaho. In 1900 he was a carpenter at Dryad, Lewis County, Washington, married 19 years. He died on 23 Oct 1923 in Alameda County, California, aged 83; his widow was living in Oakland by 1920."
+    "Married \"Lizzie\" (also indexed as Louise) Buckley, Hannah Louise Buckley, on 25 Dec 1880 at Garden Valley, Boise County, Idaho. In 1900 he was a carpenter at Dryad, Lewis County, Washington, married 19 years. He died on 23 Oct 1923 in Alameda County, California, aged 83; his widow was living in Oakland by 1920.",
+    "His son John Holmes Trumbo's delayed birth certificate (filed 1941) gives his birthplace as Pittsburgh, Pennsylvania. In 1900 his daughters Lizzie and Gertrude are recorded as born in Nevada, so the family lived there in the mid-1880s, between Idaho and Washington."
    ]
   },
   {
@@ -60167,7 +60210,11 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1850-van-buren-trumbo",
+    "census-1856-iowa-trumbo",
+    "census-1860-van-buren-trumbo"
+   ],
    "birth": {
     "text": "21 May 1788",
     "year": 1788,
@@ -60225,7 +60272,8 @@
    "notes": [
     "Born 21 May 1788 in Allegheny County, Pennsylvania; died 1869 and buried at Fordyce Cemetery, Stockport, Van Buren County, Iowa, where his grave was moved from its first site (Find a Grave). A farmer in Union Township, Van Buren County, in 1850 (aged 62), 1856 (68) and 1860 (72; real estate $1,920).",
     "Inferred: the father of Presley Neville Trumbo (1840–1923), who is in his household in 1850, 1856 and 1860. The son's eldest boy was named John Holmes Trumbo, after this couple's son John Holmes Trumbo (1833–1899) and Susannah's family name.",
-    "UNPROVEN lead: Find a Grave names his father as John James Trumbo Sr. (1745–1819, born in Rockingham County, Virginia, buried in the Trumbo Cemetery, Jefferson Hills, Allegheny County, Pennsylvania), and his mother as Mary Custer."
+    "UNPROVEN lead: Find a Grave names his father as John James Trumbo Sr. (1745–1819, born in Rockingham County, Virginia, buried in the Trumbo Cemetery, Jefferson Hills, Allegheny County, Pennsylvania), and his mother as Mary Custer.",
+    "In 1856 and 1860 his daughter Serene (Sarena J.), born about 1830 in Pennsylvania, lived next door as the wife of George W. Emerick (Emrich), a farmer born in Illinois; his son Amos and Amos's wife Elizabeth M. shared his house in 1860."
    ]
   },
   {
@@ -60245,7 +60293,8 @@
     "census-1920-sutherlin-adams",
     "census-1930-burlingame-wells",
     "trumbo-house-chehalis",
-    "clipping-1933-childs-adams-wedding"
+    "clipping-1933-childs-adams-wedding",
+    "census-1900-dryad-trumbo"
    ],
    "birth": {
     "text": "24 Mar 1890",
@@ -69925,6 +69974,127 @@
    ],
    "files": [
     "media/will-1908-george-w-ball.jpg"
+   ]
+  },
+  {
+   "id": "census-1850-van-buren-trumbo",
+   "kind": "document",
+   "title": "1850 census: the Trumbo household, Union Township, Van Buren County, Iowa",
+   "caption": "Dwelling 6, lines 30–41, enumerated 19 Nov 1850: \"Besley Trumby\" (Presley Trumbo), 62, farmer, born in Pennsylvania, real estate $1,500; Susannah, 45, born in Ohio; and Matilda (23), Ames (22), Serene (20), John (17), Trovilla (15), Sarah (13), \"Besley\" (Presley, 10), Emalinda (6), Clarinda (2) and James (1 month), the youngest two born in Iowa and the rest in Pennsylvania.",
+   "source": "1850 United States Federal Census, Union Township, Van Buren County, Iowa, page 384; image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "trumbo_presley_neville_1788",
+    "holmes_susannah",
+    "trumbo_presley_neville"
+   ],
+   "files": [
+    "media/census-1850-van-buren-trumbo.jpg"
+   ]
+  },
+  {
+   "id": "census-1856-iowa-trumbo",
+   "kind": "document",
+   "title": "1856 Iowa state census: the Trumbo household, Union Township, Van Buren County",
+   "caption": "Household 295: Presley Trumbo, 68, farmer, born in Pennsylvania; Susan, 51, born in Ohio; John (23), Travilla (20), Sarah (17), Presley (15), Emalinda (11), Clarinda (8) and Theodore (6). Next door: George Emerick, 31, and his wife Serene, 25, born in Pennsylvania (Presley's sister), with Edward and Susan. The page is tightly bound and faint.",
+   "source": "Iowa, U.S., State Census Collection, 1836-1925 (1856 state census, Van Buren County); image from Ancestry.com. Original: State Historical Society of Iowa.",
+   "people": [
+    "trumbo_presley_neville_1788",
+    "holmes_susannah",
+    "trumbo_presley_neville"
+   ],
+   "files": [
+    "media/census-1856-iowa-trumbo.jpg"
+   ]
+  },
+  {
+   "id": "census-1860-van-buren-trumbo",
+   "kind": "document",
+   "title": "1860 census: the Trumbo household, Union Township, Van Buren County, Iowa",
+   "caption": "Page 112, enumerated 20 Jun 1860, post office Utica. Dwelling 675 (lines 21–32): Presley Trumbo, 72, farmer, real estate $1,920; Susannah, 56, born in Ohio; John (27), \"Faville\" (25), Sarah (22), \"Resley\" (Presley, 20), Emalinda (15), Clarinda (12) and Theadore (10); and, as a second family in the same house, Amos Trumbo (31), Elizabeth M. (25) and Travillo (6 months). Dwelling 677: Geo. W. Emrich (30) and Sarena J. (29), Presley's sister.",
+   "source": "1860 United States Federal Census, Union Township, Van Buren County, Iowa, page 112; image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "trumbo_presley_neville_1788",
+    "holmes_susannah",
+    "trumbo_presley_neville"
+   ],
+   "files": [
+    "media/census-1860-van-buren-trumbo.jpg"
+   ]
+  },
+  {
+   "id": "census-1860-placer-buckley",
+   "kind": "document",
+   "title": "1860 census: the Buckley household, Township 9, Placer County, California",
+   "caption": "Page 61, enumerated 27 Jun 1860, post office Secret Ravine. Dwelling 675 (lines 13–18): David Buckley, 35, miner, born in Ireland; Margaret, 36, born in Ireland; Mary A. (8), Julia C. (5) and Hannah (3), all born in Louisiana; and a boarder, George Penny. Next door, Michael Buckley, 45, a miner born in Ireland.",
+   "source": "1860 United States Federal Census, Township 9, Placer County, California, page 61; image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "buckley_david",
+    "buckley_margaret",
+    "buckley_hannah_louise"
+   ],
+   "files": [
+    "media/census-1860-placer-buckley.jpg"
+   ]
+  },
+  {
+   "id": "census-1870-placerville-buckley",
+   "kind": "document",
+   "title": "1870 census: Margaret Buckley and her daughters, Placerville, Boise County, Idaho Territory",
+   "caption": "Page 8, enumerated 13 Jul 1870. Dwelling 102 (lines 15–18): Margaret Buckley, 55, keeping a boarding house, real estate $1,100, born in Ireland; Mary Ann (18) and Louisa (12), waiters, born in Louisiana; and Ah Hong, 25, cook, born in China.",
+   "source": "1870 United States Federal Census, Placerville, Boise County, Idaho Territory, page 8; image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "buckley_margaret",
+    "buckley_hannah_louise"
+   ],
+   "files": [
+    "media/census-1870-placerville-buckley.jpg"
+   ]
+  },
+  {
+   "id": "census-1880-garden-valley-charters",
+   "kind": "document",
+   "title": "1880 census: the Charters household with Margaret and Louisa Buckley, Garden Valley, Boise County, Idaho",
+   "caption": "Page 20, ED 11, enumerated 16 Jun 1880. Dwelling 392 (lines 35–40): Wm. Charters, 35, farmer, born in Scotland; his wife Mary An, 28, born in Louisiana to Irish parents; William D. (3) and Margret (2); Margret Buckley, 62, widowed, mother-in-law, born in Ireland; and Louisa, 22, sister-in-law, born in Louisiana. Louisa married Presley N. Trumbo at Garden Valley that Christmas.",
+   "source": "1880 United States Federal Census, Garden Valley, Boise County, Idaho, ED 11, page 20; image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "buckley_margaret",
+    "buckley_hannah_louise"
+   ],
+   "files": [
+    "media/census-1880-garden-valley-charters.jpg"
+   ]
+  },
+  {
+   "id": "census-1900-dryad-trumbo",
+   "kind": "document",
+   "title": "1900 census: the Trumbo household, Dryad Precinct, Lewis County, Washington",
+   "caption": "Sheet 12B, ED 134, enumerated 28 Jun 1900. Lines 67–75: Presley Trumbo, 60, carpenter, born in Pennsylvania, father born in Pennsylvania, mother in Ohio, married 19 years; Lizzie, 41, born in Louisiana to Irish parents; John H. (18, born in Idaho, shingle weaver), Lizzie (16) and Gertrude (born in Nevada), Serena (born 24 Mar 1890 in Washington) and three younger children born in Washington.",
+   "source": "1900 United States Federal Census, Dryad Precinct, Lewis County, Washington, ED 134, sheet 12B; image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "trumbo_presley_neville",
+    "buckley_hannah_louise",
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_serena_marie"
+   ],
+   "files": [
+    "media/census-1900-dryad-trumbo.jpg"
+   ]
+  },
+  {
+   "id": "birth-1881-john-holmes-trumbo",
+   "kind": "document",
+   "title": "Delayed birth certificate of John Holmes Trumbo, born 22 October 1881",
+   "caption": "Idaho state file no. 318981, filed 20 Aug 1941: John Holmes Trumbo, born 22 Oct 1881 at the Yankee Fork mining camp, Custer County, Idaho; father Presley Nevil Trumbo, 41, born at Pittsburgh, Pennsylvania; mother Hannah Louise Buckley, 23, born at New Orleans, Louisiana; her first child. Sworn by J. C. Mills of Boise, a cousin, because the attendant at the birth could not be found.",
+   "source": "Idaho, U.S., Birth Records, 1861-1924, certificate 318981; image from Ancestry.com. Original: Idaho Bureau of Vital Records and Health Statistics.",
+   "people": [
+    "trumbo_john_holmes",
+    "trumbo_presley_neville",
+    "buckley_hannah_louise"
+   ],
+   "files": [
+    "media/birth-1881-john-holmes-trumbo.jpg"
    ]
   }
  ]
