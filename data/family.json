@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T18:09:58.832Z",
+  "generated": "2026-09-24T18:10:21.725Z",
   "people": 893,
   "family_members": 844,
   "dna_matches": 49,
@@ -1062,7 +1062,9 @@
     "census-1920-sutherlin-adams",
     "census-1930-burlingame-wells",
     "census-1940-portland-childs",
-    "grave-childs-willamette"
+    "grave-childs-willamette",
+    "clipping-1933-childs-adams-wedding",
+    "clipping-1936-childs-arrive"
    ],
    "birth": {
     "text": "29 Apr 1912",
@@ -13240,7 +13242,9 @@
    "sex": "M",
    "media": [
     "census-1940-portland-childs",
-    "grave-childs-willamette"
+    "grave-childs-willamette",
+    "clipping-1933-childs-adams-wedding",
+    "clipping-1936-childs-arrive"
    ],
    "birth": {
     "text": "20 May 1908",
@@ -58645,7 +58649,8 @@
     "birth-1916-george-francis-adams",
     "census-1920-sutherlin-adams",
     "census-1930-burlingame-wells",
-    "trumbo-house-chehalis"
+    "trumbo-house-chehalis",
+    "clipping-1933-childs-adams-wedding"
    ],
    "birth": {
     "text": "24 Mar 1890",
@@ -60304,7 +60309,8 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "census-1930-burlingame-wells"
+    "census-1930-burlingame-wells",
+    "clipping-1933-childs-adams-wedding"
    ],
    "birth": {
     "text": "1890",
@@ -68117,6 +68123,36 @@
    ],
    "files": [
     "media/grave-childs-willamette.jpg"
+   ]
+  },
+  {
+   "id": "clipping-1933-childs-adams-wedding",
+   "kind": "document",
+   "title": "\"Childs Marriage To Take Place Monday\", Statesman Journal, Salem, 9 September 1933",
+   "caption": "Thomas W. Childs, son of Mr. and Mrs. C. D. Childs of Salem, is to marry Miss Edith Adams, daughter of Mr. and Mrs. A. T. Wells of Burlingame and niece of Mr. and Mrs. E. Hanzlick of Portland, at St. Paul's Episcopal Church, Burlingame; the couple will leave for Philadelphia, where he will study botany at the University of Pennsylvania.",
+   "source": "Statesman Journal, Salem, Oregon, 9 Sep 1933, p. 5 (Newspapers.com clipping shared on Ancestry.com by PatSmithPetty, 6 Oct 2018).",
+   "people": [
+    "childs_thomas",
+    "adams_edith_v",
+    "wells_arthur",
+    "trumbo_serena_marie"
+   ],
+   "files": [
+    "media/clipping-1933-childs-adams-wedding.jpg"
+   ]
+  },
+  {
+   "id": "clipping-1936-childs-arrive",
+   "kind": "document",
+   "title": "\"Arrive From Eastern Seaboard\", Daily Capital Journal, Salem, 23 June 1936",
+   "caption": "Dr. and Mrs. Thomas W. Childs have arrived from Philadelphia, after his three years of graduate work at the University of Pennsylvania, and will live in Portland, where he will be assistant in the Forest Pathology office.",
+   "source": "Daily Capital Journal, Salem, Oregon, 23 Jun 1936, p. 5 (Newspapers.com clipping shared on Ancestry.com by PatSmithPetty, 6 Oct 2018).",
+   "people": [
+    "childs_thomas",
+    "adams_edith_v"
+   ],
+   "files": [
+    "media/clipping-1936-childs-arrive.jpg"
    ]
   }
  ]

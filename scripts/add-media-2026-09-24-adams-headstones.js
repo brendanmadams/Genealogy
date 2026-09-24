@@ -37,7 +37,7 @@ const items = [
     id: 'clipping-1933-childs-adams-wedding', kind: 'document',
     file: 'ancestry_childs_clip_wed.jpg',
     title: '"Childs Marriage To Take Place Monday", Statesman Journal, Salem, 9 September 1933',
-    caption: 'Thomas W. Childs, son of Mr. and Mrs. C. D. Childs of Salem, is to marry Miss Edith Adams, daughter of Mr. and Mrs. A. T. Wells of Burlingame and niece of Mr. and Mrs. E. Hanzlick of Portland, at St. Paul's Episcopal Church, Burlingame; the couple will leave for Philadelphia, where he will study botany at the University of Pennsylvania.',
+    caption: 'Thomas W. Childs, son of Mr. and Mrs. C. D. Childs of Salem, is to marry Miss Edith Adams, daughter of Mr. and Mrs. A. T. Wells of Burlingame and niece of Mr. and Mrs. E. Hanzlick of Portland, at St. Paul\'s Episcopal Church, Burlingame; the couple will leave for Philadelphia, where he will study botany at the University of Pennsylvania.',
     source: 'Statesman Journal, Salem, Oregon, 9 Sep 1933, p. 5 (Newspapers.com clipping shared on Ancestry.com by PatSmithPetty, 6 Oct 2018).',
     people: ['childs_thomas', 'adams_edith_v', 'wells_arthur', 'trumbo_serena_marie'],
   },
