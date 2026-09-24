@@ -1,8 +1,8 @@
 {
   "id": "simons_harriet_hattie",
-  "name": "Harriet M. Hattie Simons",
-  "birth": "December 1858",
-  "death": "",
+  "name": "Harriet “Hattie” Michel (Simons, Davison)",
+  "birth": "23 Dec 1858",
+  "death": "14 Jan 1933",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -13,7 +13,8 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Birth: December 1858"
+    "Birth: December 1858",
+    "Buried in Lynden Cemetery, Lynden, Washington"
   ],
   "education": [],
   "career": [],
@@ -26,7 +27,8 @@
       "simons_raymond_zell",
       "simons_ettie",
       "simons_lola",
-      "simons_bertha"
+      "simons_bertha",
+      "simons_gertrude_nellie"
     ]
   },
   "locations": [
@@ -34,13 +36,18 @@
     "Michigan",
     "Washington",
     "Delta, Whatcom County, Washington",
-    "Blaine, Whatcom County, Washington"
+    "Blaine, Whatcom County, Washington",
+    "London, Middlesex County, Ontario, Canada",
+    "Lynden, Whatcom County, Washington"
   ],
   "sources": [
     "family_data_v1",
     "john_howard_adams_memoir_v1",
     "email_summary_conclusions_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Find a Grave, memorial 6661061 (via Ancestry.com, U.S., Find a Grave Index)"
   ],
   "notes": [
     "Birth date Dec 1858 newly established — previously excluded as nickname-only. Mother of Raymond Zell Simons.",
@@ -51,11 +58,20 @@
     "Unconfirmed: Hattie Simons appears aged 59 in the 1910 census, born in Canada (English). [Family research emails, email 50]",
     "Open question: Hattie Simons's age is 41 in 1900, 59 in 1910 and 62 in 1920, which is inconsistent with a Dec 1858 birth; Irma wonders who gave the census information [Family research emails, email 41, 50]",
     "Open question: The 1900 census 'Arrival 1862' for the Simons household is unexplained. Irma wonders if it marks Hattie's family moving from Canada [Family research emails, email 50]",
-    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]"
+    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]",
+    "Born 23 Dec 1858 at London, Ontario; died 14 Jan 1933 at Delta, Whatcom County. Her Find a Grave memorial gives her name as Hattie Michel Davison; her son Ray's death record gives her birth surname as Micheals. The \"M.\" in \"Harriet M.\" (1900 census) may be her birth surname.",
+    "After Aaron's death in 1923 she married a Davison, whose first name is not recorded."
   ],
   "card_name": [
     "Harriet “Hattie”",
     "Simons"
   ],
-  "sex": "F"
+  "sex": "F",
+  "aliases": [
+    "Harriet M. Hattie Simons",
+    "Harriet M. Simons",
+    "Hattie Simons",
+    "Hattie Micheals",
+    "Hattie Davison"
+  ]
 }

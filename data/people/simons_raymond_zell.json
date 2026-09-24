@@ -22,7 +22,6 @@
     "1900 Census: Raymond Simons, age 2 (born ~1897-98). Siblings listed: Ettie, Lola, Bertha.",
     "1920 Census — Raymond's own household: Raymond Simons (22), Dradie Simons (21), Elaine Simons (1). Elaine born ~1919.",
     "1930 Census: Raymond and Dradie with multiple children; Elmer Kulp (Dradie's brother) present.",
-    "SSDI/WA Death Index: Birth dates conflict between 1897/1898/1899; death dates conflict 1976/1977. Canonical holds June 14, 1897 and May 7, 1977.",
     "Simons, McPhail, and Kulp families were located within a few farms of each other prior to marriage.",
     "John's first memory of Ray is of him chasing John's father around the farmyard with a pair of pants smeared with cow manure that George Sr. had tricked him into sitting on."
   ],
@@ -34,12 +33,18 @@
     "Moved family from Lynden to Pasco due to tuberculosis diagnosis",
     "Military: Raymond Zell Simons registered for the WWI draft on 11 Sep 1918 at Blaine, giving birth 14 June 1897 at South Haven, Michigan and father's birthplace Indiana.",
     "Ray's Pasco farm had about half a mile of Columbia River waterfront, bought before the Hanford Nuclear Reservation was built; the land became valuable as the area grew. (1950s)",
-    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. (late 1970s)"
+    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. (late 1970s)",
+    "Registered for the WWII draft on 16 Feb 1942 at Kennewick, Washington; self-employed, with his brother-in-law Dan Groves as next of kin",
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
   ],
-  "education": [],
+  "education": [
+    "Completed the second year of high school (1940 census)."
+  ],
   "career": [
     "In 1918 Ray Simons was employed by Will Steen in Milton, Oregon.",
-    "Ray sold real estate in Pasco and persuaded several Kulp families to move there. (abt 1954)"
+    "Ray sold real estate in Pasco and persuaded several Kulp families to move there. (abt 1954)",
+    "Farmer: a rented farm at Lynden in 1920, his own farm near Richland in 1940, and a farm in Franklin County in 1950.",
+    "School bus driver in Delta, Whatcom County, in 1930."
   ],
   "relationships": {
     "mother": "simons_harriet_hattie",
@@ -66,7 +71,10 @@
     "Delta Township, Whatcom County, Washington",
     "Blaine, Whatcom County, Washington",
     "Delta, Whatcom County, Washington",
-    "Pasco, Washington"
+    "Pasco, Washington",
+    "Kennewick, Benton County, Washington",
+    "Richland, Benton County, Washington",
+    "Franklin County, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -75,20 +83,27 @@
     "john_howard_adams_memoir_v1",
     "email_summary_conclusions_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Ancestry.com, U.S. World War I Draft Registration Cards, 1917–1918, and World War II Draft Cards Young Men, 1940–1947",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Ancestry.com, U.S. Social Security Death Index, 1935–2014",
+    "Ancestry.com, Oregon, U.S., State Births, 1842–1924",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, Pasco, 9 May 1977)",
+    "Find a Grave, memorial 72996672 (via Ancestry.com, U.S., Find a Grave Index)"
   ],
   "notes": [
     "Siblings listed: Ettie, Lola, Bertha",
     "New story: named streets in Pasco after family members.",
     "NEW: tuberculosis is confirmed reason for Lynden→Pasco move. Source: John's memoir.",
-    "Birth June 14, 1897 confirmed via WWI draft card. Death 1976 or 1977 — canonical holds 7 May 1977.",
     "Ray Simons's draft card describes him with blue eyes and dark brown hair. [Family research emails, email 50]",
-    "Unconfirmed: Raymond Zell Simons was born 7 May 1898 or 14 June 1897; Irma gives Ann Harbor, Michigan. [Family research emails, email 50]",
-    "Unconfirmed: The Social Security Death Index lists a Raymond Simons born 7 May 1899, died Sept 1976 in Seattle, possibly a different man. [Family research emails, email 50]",
-    "Open question: Raymond Zell Simons's birth is 7 May 1898 or 14 June 1897 (draft card and 1900 census say June 1897). The SSDI gives a Raymond Simons born 7 May 1899 who died Sept 1976 in Seattle, but the WA Death Index gives 7 May 1977 in Kennewick. Irma suspects a second Raymond Simons [Family research emails, email 14, 50]",
-    "Open question: Ray Simons's birthplace is given as Ann Harbor (Ann Arbor), Michigan by Irma, South Haven, Michigan on his WWI draft card, and Washington in the 1930 census [Family research emails, email 50]",
     "Open question: Irma writes that Ray and Dradie were 'neighbors in 1920' but means 1910; they were married by the 1920 census. The elopement to Ritzville is dated Dec 1915, when Dradie was 17 [Family research emails, email 17, 23, 50]",
-    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. [John Howard Adams, A Memoir, text line 594]"
+    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. [John Howard Adams, A Memoir, text line 594]",
+    "Born 14 Jun 1897 at South Haven, Michigan, as his WWI and WWII draft cards, Washington death record and Social Security record all agree; the Ann Arbor birthplace comes from his Tri-City Herald obituary. He died 7 May 1977 at Kennewick while living in Pasco (Washington death certificate 9562). The Raymond Simons who died in Seattle in 1976 was a different man.",
+    "His Washington death record names his parents as Aaron Simons and Hattie Micheals.",
+    "Censuses give his father's birthplace as Ohio (1900, 1910), Iowa (1920) and Illinois (1930), and his own as Washington in 1930.",
+    "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": []
 }

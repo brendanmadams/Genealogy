@@ -1,15 +1,17 @@
 {
   "id": "simons_lola",
-  "name": "Lola Simons",
-  "birth": "Sep 1885",
-  "death": "",
+  "name": "Lola P. Simons (Busey, Murphy, Adams)",
+  "birth": "21 Sep 1885",
+  "death": "3 Dec 1918",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Born Sep 1885, Michigan"
+    "Married Matt Busey (m. 16 Feb 1903)",
+    "Married Lial T. Adams (m. 2 May 1918)",
+    "Buried in Lynden Cemetery, Lynden, Washington"
   ],
   "education": [],
   "career": [],
@@ -17,20 +19,38 @@
     "mother": "simons_harriet_hattie",
     "father": "simons_aaron",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "busey_matt",
+    "children": [
+      "busey_zell"
+    ],
+    "_extra_spouses": [
+      "adams_lial_t"
+    ]
   },
   "locations": [
     "Michigan",
-    "Covert Township, Van Buren County, Michigan"
+    "Covert Township, Van Buren County, Michigan",
+    "Hart, Oceana County, Michigan",
+    "Mount Vernon, Skagit County, Washington",
+    "Spokane, Washington",
+    "Butte, Silver Bow County, Montana",
+    "Lynden, Whatcom County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013",
+    "Find a Grave, memorial 6660495 (via Ancestry.com, U.S., Find a Grave Index)"
   ],
   "notes": [
-    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."
+    "Sister of Raymond Zell Simons. Born 21 Sep 1885 at Hart, Oceana County, Michigan; died 3 Dec 1918 at Butte, Montana, aged 33.",
+    "Married Matt Busey at Mount Vernon, Skagit County, on 16 Feb 1903 at 18 (the index also shows the couple under 26 Feb 1903 and 1 Feb 1902). She was Lola Murphy when she married Lial T. Adams at Spokane on 2 May 1918; her Murphy husband is not recorded."
   ],
-  "aliases": [],
+  "aliases": [
+    "Lola Simons",
+    "Lola Busey",
+    "Lola Murphy",
+    "Lola Adams"
+  ],
   "sex": "F"
 }

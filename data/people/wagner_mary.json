@@ -1,0 +1,34 @@
+{
+  "id": "wagner_mary",
+  "name": "Mary Wagner (Simons)",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_henry",
+    "children": [
+      "simons_aaron"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)"
+  ],
+  "notes": [
+    "UNPROVEN: named as a parent of Aaron Simons on his Find a Grave memorial (159793415), a volunteer entry without a cited record."
+  ],
+  "aliases": [
+    "Mary Simons"
+  ]
+}

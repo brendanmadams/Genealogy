@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-23T23:57:47.035Z",
-  "people": 645,
-  "family_members": 595,
+  "generated": "2026-09-24T14:08:24.169Z",
+  "people": 654,
+  "family_members": 604,
   "dna_matches": 50,
-  "connected_people": 595,
-  "families": 199,
+  "connected_people": 604,
+  "families": 204,
   "branches": [
    "adams",
    "hamilton",
@@ -3716,6 +3716,63 @@
     "Published documents also name Jose P. #2 as \"Jose Perry Adams\". [Family research emails, email 8]",
     "Unconfirmed: The obituary was sent as an attachment named for The Trail magazine, which suggests it was published there. [Family research emails, email 03]",
     "Open question: Jose P. Adams #2: John thought he was the same generation as GFA1, but George says he was GFA1's son and John Wesley's younger brother. [Family research emails, email 32]"
+   ]
+  },
+  {
+   "id": "adams_lial_t",
+   "name": "Lial T. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_lola"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_adams_lial_t+simons_lola"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Lola (Simons) Murphy (m. 2 May 1918)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013"
+   ],
+   "notes": [
+    "Married Lola (Simons) Murphy at Spokane on 2 May 1918. He is not known to be related to the Adams family of this tree."
    ]
   },
   {
@@ -10649,6 +10706,121 @@
    ]
   },
   {
+   "id": "busey_matt",
+   "name": "Matt Busey",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_lola"
+   ],
+   "children": [
+    "busey_zell"
+   ],
+   "siblings": [],
+   "families": [
+    "F_busey_matt+simons_lola"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Lola Simons (m. 16 Feb 1903)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013"
+   ],
+   "notes": [
+    "First husband of Lola Simons, married at Mount Vernon, Skagit County, Washington."
+   ]
+  },
+  {
+   "id": "busey_zell",
+   "name": "Zell Busey",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1906",
+    "year": 1906,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_matt",
+   "mother": "simons_lola",
+   "parents": [
+    "busey_matt",
+    "simons_lola"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_busey_matt+simons_lola",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S. Federal Censuses 1900–1950"
+   ],
+   "notes": [
+    "Grandson of Aaron and Hattie Simons, living with them at Delta, Whatcom County, aged 4 in 1910. Inferred to be the son of Lola Simons and Matt Busey: Lola is the only Simons daughter known to have married a Busey. His name likely honours his uncle Raymond Zell Simons."
+   ]
+  },
+  {
    "id": "cabanag_jazlynn",
    "name": "Jazlynn Cabanag",
    "aliases": [],
@@ -15564,7 +15736,8 @@
     "john_howard_adams_memoir_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
    ],
    "notes": [
     "Born in Battle Creek, MI",
@@ -15573,7 +15746,8 @@
     "Siblings listed: John Howard Adams, George Francis Adams Jr.",
     "Named after Beryl's grandmother (name still unknown) and Beryl's sister Elaine Deretha Simons.",
     "Unconfirmed: Trudy apparently lived in or near Sacramento in 2011; the trip to Trudy's meant driving down to Sacramento. [Family research emails, email 33]",
-    "Open question: When did George Francis Adams (#2) die? Trudy (Gertrude Adams Remy) says 1918, when their dad was 2. The 1920 Douglas County, OR census (dated 20 Jan 1920) lists him, and his NARD Journal obituary gives 7 Feb and was published 18 Mar 1920. The writers want the Douglas County death certificate to settle it. [Family research emails, email 30, 31, 20, 18]"
+    "Open question: When did George Francis Adams (#2) die? Trudy (Gertrude Adams Remy) says 1918, when their dad was 2. The 1920 Douglas County, OR census (dated 20 Jan 1920) lists him, and his NARD Journal obituary gives 7 Feb and was published 18 Mar 1920. The writers want the Douglas County death certificate to settle it. [Family research emails, email 30, 31, 20, 18]",
+    "Lead: Beryl's aunt, her father's eldest sister, was Gertrude Nellie Simons (Groves); neither of Beryl's grandmothers is recorded as Gertrude."
    ]
   },
   {
@@ -16541,6 +16715,124 @@
    ],
    "notes": [
     "Parent of Serepta Mary \"Reppa\" Grinnell (Wheeler): inferred, not stated. Bill Allen’s document shows photos captioned \"Willard Grinnell\" and \"Mary Hanks Grinnell\" on the same page as Reppa’s photo and the Grinnell family group (page 103)."
+   ]
+  },
+  {
+   "id": "groves_dan_harvey",
+   "name": "Daniel Harvey “Dan” Groves",
+   "aliases": [
+    "Dan Groves"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1882",
+    "year": 1882,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1962",
+    "year": 1962,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_gertrude_nellie"
+   ],
+   "children": [
+    "groves_dorothy_helen"
+   ],
+   "siblings": [],
+   "families": [
+    "F_groves_dan_harvey+simons_gertrude_nellie"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Gertrude Nellie Simons (m. 8 Sep 1906)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Ancestry.com, U.S. World War I Draft Registration Cards, 1917–1918, and World War II Draft Cards Young Men, 1940–1947"
+   ],
+   "notes": [
+    "Second husband of Gertrude Nellie Simons. Her brother Ray Simons named him as next of kin on his 1942 draft card."
+   ]
+  },
+  {
+   "id": "groves_dorothy_helen",
+   "name": "Dorothy Helen Groves (Sawyer)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1909",
+    "year": 1909,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1999",
+    "year": 1999,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "groves_dan_harvey",
+   "mother": "simons_gertrude_nellie",
+   "parents": [
+    "groves_dan_harvey",
+    "simons_gertrude_nellie"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_groves_dan_harvey+simons_gertrude_nellie",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
+   ],
+   "notes": [
+    "Daughter of Dan and Gertrude (Simons) Groves."
    ]
   },
   {
@@ -28719,6 +29011,65 @@
    ]
   },
   {
+   "id": "masters_charles_f",
+   "name": "Charles F. Masters",
+   "aliases": [
+    "Frank C. Masters"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1928",
+    "year": 1928,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_gertrude_nellie"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_masters_charles_f+simons_gertrude_nellie"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Gertrude Nellie Simons (m. 12 Sep 1898)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
+   ],
+   "notes": [
+    "First husband of Gertrude Nellie Simons; they divorced on 17 Dec 1901. The 1900 census lists him as Frank C. Masters, living with his parents at South Haven, Michigan."
+   ]
+  },
+  {
    "id": "mateo_vlaho_obad",
    "name": "Mateo Vlaho Obad",
    "aliases": [],
@@ -38346,14 +38697,14 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "May 1852",
-    "year": 1852,
+    "text": "9 May 1851",
+    "year": 1851,
     "qualifier": null
    },
    "death": {
-    "text": "after 1920",
-    "year": 1920,
-    "qualifier": "after"
+    "text": "16 Nov 1923",
+    "year": 1923,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -38363,13 +38714,17 @@
     "simons"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "simons_henry",
+   "mother": "wagner_mary",
+   "parents": [
+    "simons_henry",
+    "wagner_mary"
+   ],
    "spouses": [
     "simons_harriet_hattie"
    ],
    "children": [
+    "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
     "simons_bertha",
@@ -38379,7 +38734,7 @@
    "families": [
     "F_simons_aaron+simons_harriet_hattie"
    ],
-   "parent_family": null,
+   "parent_family": "F_simons_henry+wagner_mary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -38387,7 +38742,8 @@
     "Ohio",
     "Covert Township, MI",
     "Delta Township, WA",
-    "Burk Road, Delta Township, Whatcom County, Washington"
+    "Burk Road, Delta Township, Whatcom County, Washington",
+    "Custer, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -38414,17 +38770,20 @@
    "sources": [
     "consolidated_research_digest_v1",
     "email_summary_conclusions_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)"
    ],
    "notes": [
-    "Aaron Simons birth ~1852 confirmed (age 48 in 1900). Birthplace Ohio confirmed. 1910 household includes 'Zell Busey, age 4' — identity unknown.",
+    "Birthplace Ohio (1900 and 1910 censuses).",
     "CORRECTION 2026-09-22: Spouse reference harriet_m_hattie pointed at no record; changed to simons_harriet_hattie.",
     "CORRECTION 2026-09-23: Birth refined from \"1852\" to \"May 1852\" [Family research emails, email 50].",
     "The Simons tree ends at Aaron and Hattie; their parents are unknown. [Family research emails, email 46]",
-    "Research lead (Zell Busey): Zell Busey, 4, lived in Aaron Simons's household in 1910; Irma guesses he may be a son of one of Ray's sisters. [Family research emails, email 50]",
     "Open question: Aaron Simons's origins conflict: censuses say he was born in Ohio with a father born in England (1920), while Ray's draft card gives his father's birthplace as Indiana [Family research emails, email 50]",
-    "Open question: Who was Zell Busey, age 4, in Aaron Simons's 1910 household? Irma guesses a son of one of Ray's sisters [Family research emails, email 50]",
-    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]"
+    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]",
+    "CORRECTION: birth 9 May 1851 per his Find a Grave memorial, which fits his age of 58 in the 1910 census; the 1900 census gives May 1852.",
+    "Died 16 Nov 1923 at Custer, Whatcom County, Washington.",
+    "Zell Busey, 4, in his 1910 household was his grandson, the son of his daughter Lola and Matt Busey."
    ]
   },
   {
@@ -38446,7 +38805,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -38530,6 +38889,7 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
     "simons_raymond_zell"
@@ -38758,7 +39118,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -38881,13 +39241,16 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Oregon, U.S., State Births, 1842–1924",
+    "Ancestry.com, U.S. Federal Censuses 1900–1950"
    ],
    "notes": [
     "Sister of Beryl Simons Adams; married Les Rhinehart.",
     "A funeral service for Elaine was held 17 August 2011 at Holman, Hankins, Bowker & Waud Funeral Home in Oregon City. [Family research emails, email 27]",
     "CORRECTION 2026-09-23: Added her later husband, William \"Bill\" Upham of Gladstone, Oregon, named in Irma's note about her services. [Family research emails, email 27]",
-    "Open question: Elaine Deretha Simons's husband at her 2011 death was William (Bill) Upham, but the tree lists only Les Rhinehart. Was this a second marriage? The emails spell the name Rinehart; the tree spells it Rhinehart [Family research emails, email 27]"
+    "Open question: Elaine Deretha Simons's husband at her 2011 death was William (Bill) Upham, but the tree lists only Les Rhinehart. Was this a second marriage? The emails spell the name Rinehart; the tree spells it Rhinehart [Family research emails, email 27]",
+    "Her birth is recorded in the Oregon state birth records, with parents Raymond Zell Simons (aged 20) and Dradie Ellen Kulp. The 1940 census and her Find a Grave memorial spell her married name Rinehart."
    ]
   },
   {
@@ -38925,6 +39288,7 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "simons_gertrude_nellie",
     "simons_lola",
     "simons_bertha",
     "simons_raymond_zell"
@@ -38957,25 +39321,110 @@
    ]
   },
   {
+   "id": "simons_gertrude_nellie",
+   "name": "Gertrude Nellie Simons (Masters, Groves)",
+   "aliases": [
+    "Nellie G. Simons",
+    "Gertrude Groves",
+    "Nellie Masters"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "16 May 1879",
+    "year": 1879,
+    "qualifier": null
+   },
+   "death": {
+    "text": "18 Jun 1947",
+    "year": 1947,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_aaron",
+   "mother": "simons_harriet_hattie",
+   "parents": [
+    "simons_aaron",
+    "simons_harriet_hattie"
+   ],
+   "spouses": [
+    "masters_charles_f",
+    "groves_dan_harvey"
+   ],
+   "children": [
+    "groves_dorothy_helen"
+   ],
+   "siblings": [
+    "simons_ettie",
+    "simons_lola",
+    "simons_bertha",
+    "simons_raymond_zell"
+   ],
+   "families": [
+    "F_groves_dan_harvey+simons_gertrude_nellie",
+    "F_masters_charles_f+simons_gertrude_nellie"
+   ],
+   "parent_family": "F_simons_aaron+simons_harriet_hattie",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Minnesota",
+    "Benton Harbor, Berrien County, Michigan",
+    "North Yakima, Yakima County, Washington",
+    "Winlock, Lewis County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Charles F. Masters (m. 12 Sep 1898)",
+    "Married Dan H. Groves (m. 8 Sep 1906)",
+    "Buried in Winlock Cemetery, Winlock, Washington"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
+   ],
+   "notes": [
+    "Born 16 May 1879 in Minnesota, the eldest child of Aaron and Hattie Simons; died 18 Jun 1947 at Winlock, Lewis County, Washington.",
+    "Married Charles F. Masters on 12 Sep 1898 at Benton Harbor, Michigan (divorced 17 Dec 1901), then Daniel Harvey \"Dan\" Groves on 8 Sep 1906 at North Yakima, Washington; the 1906 return calls it her first marriage."
+   ]
+  },
+  {
    "id": "simons_glen",
    "name": "Glen Simons",
-   "aliases": [],
+   "aliases": [
+    "Glen E. Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1936",
+    "year": 1936,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -39031,7 +39480,8 @@
     "consolidated_research_digest_v1",
     "adams_dna_linkage_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, U.S. Federal Censuses 1900–1950"
    ],
    "notes": [
     "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
@@ -39039,13 +39489,20 @@
     "CORRECTION 2026-09-22: Earlier tentative note removed: Steve and Sharon Simons are Howard's children, not Glen's (Brendan Adams). Glen and Mary's children are Ed and Ann.",
     "Unconfirmed: Irma thinks Glen Simons might not have been born in the Lynden area. [Family research emails, email 48]",
     "Open question: Were Beryl and her younger siblings born in Whatcom County, and was Glen born somewhere other than the Lynden area? Irma asks to be corrected [Family research emails, email 48]",
-    "'Glen Acres', a residential development in Pasco, is named after him. [John Howard Adams, A Memoir, text line 592]"
+    "'Glen Acres', a residential development in Pasco, is named after him. [John Howard Adams, A Memoir, text line 592]",
+    "Aged 4 in the 1940 census (near Richland) and 14 in 1950 as Glen E. Simons (Franklin County)."
    ]
   },
   {
    "id": "simons_harriet_hattie",
-   "name": "Harriet M. Hattie Simons",
-   "aliases": [],
+   "name": "Harriet “Hattie” Michel (Simons, Davison)",
+   "aliases": [
+    "Harriet M. Hattie Simons",
+    "Harriet M. Simons",
+    "Hattie Simons",
+    "Hattie Micheals",
+    "Hattie Davison"
+   ],
    "photo": null,
    "card_name": [
     "Harriet “Hattie”",
@@ -39054,13 +39511,13 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "December 1858",
+    "text": "23 Dec 1858",
     "year": 1858,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "14 Jan 1933",
+    "year": 1933,
     "qualifier": null
    },
    "living": false,
@@ -39078,6 +39535,7 @@
     "simons_aaron"
    ],
    "children": [
+    "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
     "simons_bertha",
@@ -39096,7 +39554,9 @@
     "Michigan",
     "Washington",
     "Delta, Whatcom County, Washington",
-    "Blaine, Whatcom County, Washington"
+    "Blaine, Whatcom County, Washington",
+    "London, Middlesex County, Ontario, Canada",
+    "Lynden, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -39108,7 +39568,8 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Birth: December 1858"
+    "Birth: December 1858",
+    "Buried in Lynden Cemetery, Lynden, Washington"
    ],
    "education": [],
    "career": [],
@@ -39116,7 +39577,10 @@
     "family_data_v1",
     "john_howard_adams_memoir_v1",
     "email_summary_conclusions_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Find a Grave, memorial 6661061 (via Ancestry.com, U.S., Find a Grave Index)"
    ],
    "notes": [
     "Birth date Dec 1858 newly established — previously excluded as nickname-only. Mother of Raymond Zell Simons.",
@@ -39127,7 +39591,66 @@
     "Unconfirmed: Hattie Simons appears aged 59 in the 1910 census, born in Canada (English). [Family research emails, email 50]",
     "Open question: Hattie Simons's age is 41 in 1900, 59 in 1910 and 62 in 1920, which is inconsistent with a Dec 1858 birth; Irma wonders who gave the census information [Family research emails, email 41, 50]",
     "Open question: The 1900 census 'Arrival 1862' for the Simons household is unexplained. Irma wonders if it marks Hattie's family moving from Canada [Family research emails, email 50]",
-    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]"
+    "Open question: The Simons tree ends at Aaron and Hattie; their parents are unknown. John also says there are 'a couple of errors' in Irma's Ancestry trees, not yet specified [Family research emails, email 46]",
+    "Born 23 Dec 1858 at London, Ontario; died 14 Jan 1933 at Delta, Whatcom County. Her Find a Grave memorial gives her name as Hattie Michel Davison; her son Ray's death record gives her birth surname as Micheals. The \"M.\" in \"Harriet M.\" (1900 census) may be her birth surname.",
+    "After Aaron's death in 1923 she married a Davison, whose first name is not recorded."
+   ]
+  },
+  {
+   "id": "simons_henry",
+   "name": "Henry Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "wagner_mary"
+   ],
+   "children": [
+    "simons_aaron"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_henry+wagner_mary"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)"
+   ],
+   "notes": [
+    "UNPROVEN: named as a parent of Aaron Simons on his Find a Grave memorial (159793415), a volunteer entry without a cited record."
    ]
   },
   {
@@ -39523,20 +40046,25 @@
   },
   {
    "id": "simons_lola",
-   "name": "Lola Simons",
-   "aliases": [],
+   "name": "Lola P. Simons (Busey, Murphy, Adams)",
+   "aliases": [
+    "Lola Simons",
+    "Lola Busey",
+    "Lola Murphy",
+    "Lola Adams"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "Sep 1885",
+    "text": "21 Sep 1885",
     "year": 1885,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "3 Dec 1918",
+    "year": 1918,
     "qualifier": null
    },
    "living": false,
@@ -39553,21 +40081,35 @@
     "simons_aaron",
     "simons_harriet_hattie"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "busey_matt",
+    "adams_lial_t"
+   ],
+   "children": [
+    "busey_zell"
+   ],
    "siblings": [
+    "simons_gertrude_nellie",
     "simons_ettie",
     "simons_bertha",
     "simons_raymond_zell"
    ],
-   "families": [],
+   "families": [
+    "F_adams_lial_t+simons_lola",
+    "F_busey_matt+simons_lola"
+   ],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Michigan",
-    "Covert Township, Van Buren County, Michigan"
+    "Covert Township, Van Buren County, Michigan",
+    "Hart, Oceana County, Michigan",
+    "Mount Vernon, Skagit County, Washington",
+    "Spokane, Washington",
+    "Butte, Silver Bow County, Montana",
+    "Lynden, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -39575,16 +40117,21 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Born Sep 1885, Michigan"
+    "Married Matt Busey (m. 16 Feb 1903)",
+    "Married Lial T. Adams (m. 2 May 1918)",
+    "Buried in Lynden Cemetery, Lynden, Washington"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013",
+    "Find a Grave, memorial 6660495 (via Ancestry.com, U.S., Find a Grave Index)"
    ],
    "notes": [
-    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."
+    "Sister of Raymond Zell Simons. Born 21 Sep 1885 at Hart, Oceana County, Michigan; died 3 Dec 1918 at Butte, Montana, aged 33.",
+    "Married Matt Busey at Mount Vernon, Skagit County, on 16 Feb 1903 at 18 (the index also shows the couple under 26 Feb 1903 and 1 Feb 1902). She was Lola Murphy when she married Lial T. Adams at Spokane on 2 May 1918; her Murphy husband is not recorded."
    ]
   },
   {
@@ -40027,6 +40574,7 @@
     "simons_glen"
    ],
    "siblings": [
+    "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
     "simons_bertha"
@@ -40049,7 +40597,10 @@
     "Delta Township, Whatcom County, Washington",
     "Blaine, Whatcom County, Washington",
     "Delta, Whatcom County, Washington",
-    "Pasco, Washington"
+    "Pasco, Washington",
+    "Kennewick, Benton County, Washington",
+    "Richland, Benton County, Washington",
+    "Franklin County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -40070,7 +40621,6 @@
     "1900 Census: Raymond Simons, age 2 (born ~1897-98). Siblings listed: Ettie, Lola, Bertha.",
     "1920 Census — Raymond's own household: Raymond Simons (22), Dradie Simons (21), Elaine Simons (1). Elaine born ~1919.",
     "1930 Census: Raymond and Dradie with multiple children; Elmer Kulp (Dradie's brother) present.",
-    "SSDI/WA Death Index: Birth dates conflict between 1897/1898/1899; death dates conflict 1976/1977. Canonical holds June 14, 1897 and May 7, 1977.",
     "Simons, McPhail, and Kulp families were located within a few farms of each other prior to marriage.",
     "John's first memory of Ray is of him chasing John's father around the farmyard with a pair of pants smeared with cow manure that George Sr. had tricked him into sitting on."
    ],
@@ -40082,12 +40632,18 @@
     "Moved family from Lynden to Pasco due to tuberculosis diagnosis",
     "Military: Raymond Zell Simons registered for the WWI draft on 11 Sep 1918 at Blaine, giving birth 14 June 1897 at South Haven, Michigan and father's birthplace Indiana.",
     "Ray's Pasco farm had about half a mile of Columbia River waterfront, bought before the Hanford Nuclear Reservation was built; the land became valuable as the area grew. (1950s)",
-    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. (late 1970s)"
+    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. (late 1970s)",
+    "Registered for the WWII draft on 16 Feb 1942 at Kennewick, Washington; self-employed, with his brother-in-law Dan Groves as next of kin",
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
    ],
-   "education": [],
+   "education": [
+    "Completed the second year of high school (1940 census)."
+   ],
    "career": [
     "In 1918 Ray Simons was employed by Will Steen in Milton, Oregon.",
-    "Ray sold real estate in Pasco and persuaded several Kulp families to move there. (abt 1954)"
+    "Ray sold real estate in Pasco and persuaded several Kulp families to move there. (abt 1954)",
+    "Farmer: a rented farm at Lynden in 1920, his own farm near Richland in 1940, and a farm in Franklin County in 1950.",
+    "School bus driver in Delta, Whatcom County, in 1930."
    ],
    "sources": [
     "consolidated_research_digest_v1",
@@ -40096,20 +40652,26 @@
     "john_howard_adams_memoir_v1",
     "email_summary_conclusions_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Ancestry.com, U.S. World War I Draft Registration Cards, 1917–1918, and World War II Draft Cards Young Men, 1940–1947",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Ancestry.com, U.S. Social Security Death Index, 1935–2014",
+    "Ancestry.com, Oregon, U.S., State Births, 1842–1924",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, Pasco, 9 May 1977)",
+    "Find a Grave, memorial 72996672 (via Ancestry.com, U.S., Find a Grave Index)"
    ],
    "notes": [
     "Siblings listed: Ettie, Lola, Bertha",
     "New story: named streets in Pasco after family members.",
     "NEW: tuberculosis is confirmed reason for Lynden→Pasco move. Source: John's memoir.",
-    "Birth June 14, 1897 confirmed via WWI draft card. Death 1976 or 1977 — canonical holds 7 May 1977.",
     "Ray Simons's draft card describes him with blue eyes and dark brown hair. [Family research emails, email 50]",
-    "Unconfirmed: Raymond Zell Simons was born 7 May 1898 or 14 June 1897; Irma gives Ann Harbor, Michigan. [Family research emails, email 50]",
-    "Unconfirmed: The Social Security Death Index lists a Raymond Simons born 7 May 1899, died Sept 1976 in Seattle, possibly a different man. [Family research emails, email 50]",
-    "Open question: Raymond Zell Simons's birth is 7 May 1898 or 14 June 1897 (draft card and 1900 census say June 1897). The SSDI gives a Raymond Simons born 7 May 1899 who died Sept 1976 in Seattle, but the WA Death Index gives 7 May 1977 in Kennewick. Irma suspects a second Raymond Simons [Family research emails, email 14, 50]",
-    "Open question: Ray Simons's birthplace is given as Ann Harbor (Ann Arbor), Michigan by Irma, South Haven, Michigan on his WWI draft card, and Washington in the 1930 census [Family research emails, email 50]",
     "Open question: Irma writes that Ray and Dradie were 'neighbors in 1920' but means 1910; they were married by the 1920 census. The elopement to Ritzville is dated Dec 1915, when Dradie was 17 [Family research emails, email 17, 23, 50]",
-    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. [John Howard Adams, A Memoir, text line 594]"
+    "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. [John Howard Adams, A Memoir, text line 594]",
+    "Born 14 Jun 1897 at South Haven, Michigan, as his WWI and WWII draft cards, Washington death record and Social Security record all agree; the Ann Arbor birthplace comes from his Tri-City Herald obituary. He died 7 May 1977 at Kennewick while living in Pasco (Washington death certificate 9562). The Raymond Simons who died in Seattle in 1976 was a different man.",
+    "His Washington death record names his parents as Aaron Simons and Hattie Micheals.",
+    "Censuses give his father's birthplace as Ohio (1900, 1910), Iowa (1920) and Illinois (1930), and his own as Washington in 1930.",
+    "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland."
    ]
   },
   {
@@ -43446,6 +44008,65 @@
    ]
   },
   {
+   "id": "wagner_mary",
+   "name": "Mary Wagner (Simons)",
+   "aliases": [
+    "Mary Simons"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_henry"
+   ],
+   "children": [
+    "simons_aaron"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_henry+wagner_mary"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)"
+   ],
+   "notes": [
+    "UNPROVEN: named as a parent of Aaron Simons on his Find a Grave memorial (159793415), a volunteer entry without a cited record."
+   ]
+  },
+  {
    "id": "watson_caroline",
    "name": "Caroline Watson",
    "aliases": [],
@@ -46468,6 +47089,15 @@
    "marriage": "1872"
   },
   {
+   "id": "F_adams_lial_t+simons_lola",
+   "partners": [
+    "adams_lial_t",
+    "simons_lola"
+   ],
+   "children": [],
+   "marriage": "2 May 1918"
+  },
+  {
    "id": "F_adams_magdalena+swan_lewis",
    "partners": [
     "adams_magdalena",
@@ -47035,6 +47665,17 @@
    "marriage": "abt 1927"
   },
   {
+   "id": "F_busey_matt+simons_lola",
+   "partners": [
+    "busey_matt",
+    "simons_lola"
+   ],
+   "children": [
+    "busey_zell"
+   ],
+   "marriage": "16 Feb 1903"
+  },
+  {
    "id": "F_camille_remy+ivo_john_obad",
    "partners": [
     "camille_remy",
@@ -47423,6 +48064,17 @@
     "grinnell_serepta_mary"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_groves_dan_harvey+simons_gertrude_nellie",
+   "partners": [
+    "groves_dan_harvey",
+    "simons_gertrude_nellie"
+   ],
+   "children": [
+    "groves_dorothy_helen"
+   ],
+   "marriage": "8 Sep 1906"
   },
   {
    "id": "F_hamilton_abigail+hamilton_gavin_kype_1649",
@@ -48004,6 +48656,15 @@
    "marriage": null
   },
   {
+   "id": "F_masters_charles_f+simons_gertrude_nellie",
+   "partners": [
+    "masters_charles_f",
+    "simons_gertrude_nellie"
+   ],
+   "children": [],
+   "marriage": "12 Sep 1898"
+  },
+  {
    "id": "F_mckeldin_edward_hazelton+selbe_sophia",
    "partners": [
     "mckeldin_edward_hazelton",
@@ -48294,6 +48955,7 @@
     "simons_harriet_hattie"
    ],
    "children": [
+    "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
     "simons_bertha",
@@ -48331,6 +48993,17 @@
    "children": [
     "simons_ed",
     "simons_ann"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_henry+wagner_mary",
+   "partners": [
+    "simons_henry",
+    "wagner_mary"
+   ],
+   "children": [
+    "simons_aaron"
    ],
    "marriage": null
   },
