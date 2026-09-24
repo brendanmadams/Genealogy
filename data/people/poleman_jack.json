@@ -1,8 +1,8 @@
 {
   "id": "poleman_jack",
-  "name": "Jack Poleman",
-  "birth": "",
-  "death": "",
+  "name": "Jack Hetrick Poehlman",
+  "birth": "1919",
+  "death": "1944",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -12,7 +12,9 @@
     "The wedding ring set Jack Poleman gave Emily was among her jewelry that Buckey gave Barbara on her 21st birthday; a sapphire was later set into it."
   ],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Emily Margaret Schriefer (m. 1941)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -26,11 +28,15 @@
   "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Find a Grave, memorial 222564260"
   ],
   "notes": [
-    "Naval aviator; first husband of Emily Schriefer. Shot down on D-Day. Name per rule_updates.json alias: Jack Poehlman -> Jack Poleman.",
-    "Emily Schriefer's first husband. Not a blood relative."
+    "Emily Schriefer's first husband. Not a blood relative.",
+    "First husband of Emily Margaret Schriefer (m. 1941). Find a Grave lists him as 1Lt. Jack Hetrick Poehlman (1919–1944). Family memory says he was a naval aviator shot down on D-Day; a first lieutenant's rank suggests the Army Air Forces instead (not confirmed)."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": [
+    "Jack Poleman"
+  ]
 }

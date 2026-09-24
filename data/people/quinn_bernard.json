@@ -1,0 +1,40 @@
+{
+  "id": "quinn_bernard",
+  "name": "Bernard Quinn",
+  "sex": "M",
+  "birth": "1852",
+  "death": "1913",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "lynn_emily_mariam",
+    "children": [
+      "ethel_quinn_schriefer",
+      "quinn_john_joseph"
+    ]
+  },
+  "locations": [
+    "Ireland",
+    "Harford County, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, 1910 United States Federal Census",
+    "Find a Grave, memorial 222563596"
+  ],
+  "notes": [
+    "Born in Ireland; \"Barnie Quin\", aged 58, in the 1910 census of District 3, Harford County, Maryland, with his wife Emily M. and children Agnes E. (14), John J. (12), Ethel E. (9) and Margaret A. (4).",
+    "Children named on Find a Grave: Sarah Catherine \"Sally\" (Brady, 1889–1959), Charlotte Ann (Landreth, 1892–1971), John Joseph (1898–1956), Ethel E. (Schriefer, 1901–1952) and Margaret M. (Osborne, 1905–1946)."
+  ],
+  "aliases": [
+    "Barnie Quinn"
+  ]
+}

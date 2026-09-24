@@ -1,0 +1,37 @@
+{
+  "id": "schriefer_bartholomew",
+  "name": "Bartholomew Schriefer",
+  "sex": "M",
+  "birth": "1839",
+  "death": "1914",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "denzlein_margaret",
+    "children": [
+      "schriefer_george_goode"
+    ]
+  },
+  "locations": [
+    "Germany",
+    "Baltimore, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Find a Grave, memorial 65818037"
+  ],
+  "notes": [
+    "Born in Germany; aged 60 in the 1900 census at 2531 E. Oliver Street, Baltimore.",
+    "Children on Find a Grave: Mary (1883–1937), Jennie Katherine (Frank, 1889–1955), Anna M. (Herbert, 1892–1967), Margaret M. (Conroy, 1896–1961), George (1899–1951) and Henry (1904–1980)."
+  ],
+  "aliases": []
+}

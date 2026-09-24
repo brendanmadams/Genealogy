@@ -1,29 +1,28 @@
 {
   "id": "emma_bell_mckeldin",
-  "name": "Emma Bell McKeldin",
-  "birth": "",
-  "death": "abt Feb 1948",
+  "name": "Emma Virginia Bell (McKeldin)",
+  "birth": "13 Aug 1891",
+  "death": "4 Jan 1949",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [
     "She passed away very shortly after her granddaughter Barbara was born",
     "Her death marked the beginning of a rapid series of losses in the McKeldin household",
-    "My paternal grandmother was Emma Bell McKeldin. She passed away right after I was born. (Barbara's memoir p. 57)",
-    "Bell may be middle name OR maiden name used as middle name (common Baltimore-era convention)",
-    "Full maiden name should appear on Buckey's 1917 Baltimore birth certificate"
+    "My paternal grandmother was Emma Bell McKeldin. She passed away right after I was born. (Barbara's memoir p. 57)"
   ],
   "risk_events": [],
   "milestones": [
     "Married Charles E. McKeldin I",
     "Married Charles E McKeldin I",
-    "Religion: A regular churchgoer. Her son Buckey went with her every Sunday without fail. She does not appear to have been Catholic."
+    "Religion: A regular churchgoer. Her son Buckey went with her every Sunday without fail. She does not appear to have been Catholic.",
+    "Buried at Mount Olivet Cemetery, Baltimore, 7 Jan 1949"
   ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "bell_elmira",
+    "father": "bell_william_h",
     "siblings": [],
     "spouse": "mckeldin_charles_i",
     "children": [
@@ -36,21 +35,33 @@
     ]
   },
   "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "1118 Cleveland Street, Baltimore (1900)",
+    "1143 Carroll Street, Baltimore (1920–1930)",
+    "Mount Olivet Cemetery, Baltimore"
   ],
   "sources": [
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 34433509"
   ],
   "notes": [
     "Referenced in Barbara Jeanne Adams: Granddaughter of Emma Bell McKeldin",
     "Grandmother to Barbara and Chuck McKeldin.",
-    "CONFIRMED identity via Barbara's memoir p. 57. Maiden name unknown. Research path: Buckey's 4/22/1917 Baltimore birth certificate, 1920/1930 Baltimore census, or Emma Bell's own death certificate (~Feb 1948)."
+    "Born Emma Virginia Bell on 13 Aug 1891 in Baltimore, the daughter of William H. Bell and Elmira \"Ella\" Bell; the 1920 census lists her parents living with her and Charles at 1143 Carroll Street as his father-in-law and mother-in-law. Bell was her maiden name.",
+    "CORRECTION: died 4 Jan 1949 in Baltimore and buried 7 Jan 1949 at Mount Olivet Cemetery (Find a Grave, with burial permit number), about eleven months after her granddaughter Barbara was born; the earlier \"abt Feb 1948\" was an estimate from Barbara's memoir.",
+    "Married Charles Edward McKeldin about 1908 (he was 21 at his first marriage, per the 1930 census). Children in the 1920 and 1930 censuses: Lola E. (b. abt 1909), Lillian M. (abt 1911), Helen M. (abt 1912), Charles E. (1917), Emma (abt 1920) and William (abt 1923)."
   ],
   "aliases": [
-    "Emma"
+    "Emma",
+    "Emma Bell McKeldin",
+    "Emma V. McKeldin",
+    "Emma Bell"
   ],
   "sex": "F"
 }

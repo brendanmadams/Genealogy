@@ -1,8 +1,8 @@
 {
   "id": "quinn_john_joseph",
   "name": "John Joseph Quinn",
-  "birth": "abt 1900",
-  "death": "abt 1959",
+  "birth": "1898",
+  "death": "1956",
   "personality": [],
   "roles": [
     "WWI communication specialist"
@@ -34,8 +34,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "lynn_emily_mariam",
+    "father": "quinn_bernard",
     "siblings": [
       "ethel_quinn_schriefer"
     ],
@@ -56,7 +56,9 @@
     "barbara_memoir_ch02_a_typical_birth_day",
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1910 United States Federal Census",
+    "Find a Grave, memorial 222563596"
   ],
   "notes": [
     "Barbara identifies him as her great uncle and the youngest sibling of her grandmother, Ethel.",
@@ -65,7 +67,9 @@
     "john_quinn (unresolved, from barbara_memoir_ch16) is likely the same person — recommend archiving john_quinn.",
     "Ethel's youngest brother per this source — adds new detail (youngest).",
     "Confirmed as Ethel Quinn Schriefer's youngest brother per this source. Children: Peggy, Joan, John, Pat.",
-    "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus."
+    "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus.",
+    "CORRECTION: 1898–1956 per Find a Grave (aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel's sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": []
 }

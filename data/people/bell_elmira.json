@@ -1,0 +1,38 @@
+{
+  "id": "bell_elmira",
+  "name": "Elmira “Ella” Bell",
+  "sex": "F",
+  "birth": "abt 1858",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "bell_william_h",
+    "children": [
+      "emma_bell_mckeldin"
+    ]
+  },
+  "locations": [
+    "Baltimore, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1920 United States Federal Census"
+  ],
+  "notes": [
+    "Mother of Emma Virginia Bell (McKeldin). Elmira in the 1900 census (aged 42) and Ella in 1920 (aged 62), born in Maryland. Her birth surname is not recorded; Margaret Clayhardy, 73, lived with the family in 1900 as William Bell's mother-in-law, which suggests Elmira was born a Clayhardy (not confirmed)."
+  ],
+  "aliases": [
+    "Ella Bell",
+    "Elmira Bell"
+  ]
+}

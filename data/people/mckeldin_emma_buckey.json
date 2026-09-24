@@ -1,7 +1,7 @@
 {
   "id": "mckeldin_emma_buckey",
   "name": "Emma McKeldin",
-  "birth": "",
+  "birth": "abt 1920",
   "death": "",
   "personality": [],
   "roles": [],
@@ -20,10 +20,13 @@
   },
   "locations": [],
   "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census"
   ],
   "notes": [
-    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the sisters who called their brother \"Buckey\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]"
+    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the sisters who called their brother \"Buckey\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
+    "Aged 10 in the 1930 census at 1143 Carroll Street."
   ],
   "aliases": [],
   "sex": "F"

@@ -1,8 +1,8 @@
 {
   "id": "schriefer_george_jr",
-  "name": "George Schriefer Jr.",
-  "birth": "",
-  "death": "",
+  "name": "George Bernard Schriefer",
+  "birth": "1925",
+  "death": "1992",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -20,11 +20,17 @@
   },
   "locations": [],
   "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Find a Grave, memorial 68447197"
   ],
   "notes": [
-    "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]"
+    "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]",
+    "George Bernard Schriefer (1925–1992) on Find a Grave; aged 5 in the 1930 census and 15 in 1940."
   ],
-  "aliases": [],
+  "aliases": [
+    "George Schriefer Jr."
+  ],
   "sex": "M"
 }

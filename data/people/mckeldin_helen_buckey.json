@@ -1,8 +1,8 @@
 {
   "id": "mckeldin_helen_buckey",
-  "name": "Helen McKeldin",
-  "birth": "",
-  "death": "",
+  "name": "Helen M. McKeldin (Souder)",
+  "birth": "1912",
+  "death": "1994",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -20,11 +20,18 @@
   },
   "locations": [],
   "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 279694397"
   ],
   "notes": [
-    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the aunts who called Barbara \"Babs\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]"
+    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the aunts who called Barbara \"Babs\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
+    "Helen M. McKeldin Souder (1912–1994) on Find a Grave; aged 7 in the 1920 census and 17 in 1930."
   ],
-  "aliases": [],
+  "aliases": [
+    "Helen McKeldin",
+    "Helen Souder"
+  ],
   "sex": "F"
 }

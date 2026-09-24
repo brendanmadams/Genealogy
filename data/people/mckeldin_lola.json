@@ -1,7 +1,7 @@
 {
   "id": "mckeldin_lola",
   "name": "Lola McKeldin",
-  "birth": "",
+  "birth": "abt 1909",
   "death": "",
   "personality": [],
   "roles": [],
@@ -24,15 +24,19 @@
   "sources": [
     "barbara_memoir_ch04_nicknames",
     "consolidated_research_digest_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census"
   ],
   "notes": [
     "Barbara identifies Lola as one of her father’s sisters.",
     "Recorded under her birth surname McKeldin (daughter of Charles E. McKeldin I and Emma Bell McKeldin). She likely took a husband's surname, which is not recorded.",
-    "Lola died of cancer after radiation and chemotherapy. [Barbara McKeldin Adams, A Memoir, text line 4155]"
+    "Lola died of cancer after radiation and chemotherapy. [Barbara McKeldin Adams, A Memoir, text line 4155]",
+    "Lola E., aged 11, in the 1920 census at 1143 Carroll Street; not in the household in 1930."
   ],
   "aliases": [
-    "Lola"
+    "Lola",
+    "Lola E. McKeldin"
   ],
   "sex": "F"
 }

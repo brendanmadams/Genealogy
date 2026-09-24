@@ -1,0 +1,36 @@
+{
+  "id": "bell_william_h",
+  "name": "William H. Bell",
+  "sex": "M",
+  "birth": "abt 1854",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "bell_elmira",
+    "children": [
+      "emma_bell_mckeldin"
+    ]
+  },
+  "locations": [
+    "Baltimore, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1920 United States Federal Census"
+  ],
+  "notes": [
+    "Father of Emma Virginia Bell (McKeldin). Born about 1854 in Maryland; living with Emma and Charles McKeldin at 1143 Carroll Street in 1920, aged 66.",
+    "Children in the 1900 census at 1118 Cleveland Street, Baltimore: Sadie (Stahler, b. abt 1877), Charles A. (abt 1881), Margaret (abt 1888), William (abt 1889), Emma (Aug 1891), Carrie V. (abt 1894) and Annie (abt 1899)."
+  ],
+  "aliases": []
+}

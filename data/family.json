@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T14:16:58.793Z",
-  "people": 658,
-  "family_members": 608,
+  "generated": "2026-09-24T14:23:55.826Z",
+  "people": 664,
+  "family_members": 614,
   "dna_matches": 50,
-  "connected_people": 608,
-  "families": 206,
+  "connected_people": 614,
+  "families": 209,
   "branches": [
    "adams",
    "hamilton",
@@ -53,8 +53,8 @@
    "label": "Quinn",
    "color": "#6366f1",
    "roots": [
-    "quinn_john_joseph",
-    "quinn_marie_ellinghaus"
+    "quinn_bernard",
+    "lynn_emily_mariam"
    ]
   },
   {
@@ -62,8 +62,8 @@
    "label": "Schriefer",
    "color": "#22c55e",
    "roots": [
-    "schriefer_george_goode",
-    "ethel_quinn_schriefer"
+    "schriefer_bartholomew",
+    "denzlein_margaret"
    ]
   },
   {
@@ -8550,6 +8550,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "mckeldin",
+    "quinn",
     "schriefer"
    ],
    "adopted": false,
@@ -9607,6 +9608,130 @@
    "notes": []
   },
   {
+   "id": "bell_elmira",
+   "name": "Elmira “Ella” Bell",
+   "aliases": [
+    "Ella Bell",
+    "Elmira Bell"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1858",
+    "year": 1858,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "bell_william_h"
+   ],
+   "children": [
+    "emma_bell_mckeldin"
+   ],
+   "siblings": [],
+   "families": [
+    "F_bell_elmira+bell_william_h"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Baltimore, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1920 United States Federal Census"
+   ],
+   "notes": [
+    "Mother of Emma Virginia Bell (McKeldin). Elmira in the 1900 census (aged 42) and Ella in 1920 (aged 62), born in Maryland. Her birth surname is not recorded; Margaret Clayhardy, 73, lived with the family in 1900 as William Bell's mother-in-law, which suggests Elmira was born a Clayhardy (not confirmed)."
+   ]
+  },
+  {
+   "id": "bell_william_h",
+   "name": "William H. Bell",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1854",
+    "year": 1854,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "bell_elmira"
+   ],
+   "children": [
+    "emma_bell_mckeldin"
+   ],
+   "siblings": [],
+   "families": [
+    "F_bell_elmira+bell_william_h"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Baltimore, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1920 United States Federal Census"
+   ],
+   "notes": [
+    "Father of Emma Virginia Bell (McKeldin). Born about 1854 in Maryland; living with Emma and Charles McKeldin at 1143 Carroll Street in 1920, aged 66.",
+    "Children in the 1900 census at 1118 Cleveland Street, Baltimore: Sadie (Stahler, b. abt 1877), Charles A. (abt 1881), Margaret (abt 1888), William (abt 1889), Emma (Aug 1891), Carrie V. (abt 1894) and Annie (abt 1899)."
+   ]
+  },
+  {
    "id": "beryl_simons_adams",
    "name": "Beryl Eva Simons (Adams)",
    "aliases": [
@@ -10438,6 +10563,7 @@
     "kulp",
     "mckeldin",
     "mcphail",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -10559,6 +10685,7 @@
     "kulp",
     "mckeldin",
     "mcphail",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -11212,7 +11339,8 @@
    "id": "charles_buckey_mckeldin",
    "name": "Charles Buckey McKeldin",
    "aliases": [
-    "Charles McKeldin"
+    "Charles McKeldin",
+    "Charles Edward McKeldin"
    ],
    "photo": null,
    "card_name": [
@@ -11310,14 +11438,18 @@
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "mckeldin_research_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 222564397"
    ],
    "notes": [
     "Father of Barbara Jeanne Adams, Chuck McKeldin, and J. Michael McKeldin",
     "Siblings listed: Sisters Lola, Lillian, Helen, and Emma",
     "Additional spouse: margaret_peggy_mckeldin",
     "CORRECTION 2026-09-23: Lola, Lillian, Helen, Emma and William \"Billy\" are his sisters and brother, as his daughter Barbara states twice in her memoir, not Charles E. McKeldin I's siblings as an earlier note suggested. (Charles E. I also had a sister Lillian and a brother William, which likely caused the mix-up.) [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
-    "Barbara lists \"Edward, after my father\" among possible names for her son Brian, which suggests the E. in his name stood for Edward (not confirmed). [Barbara McKeldin Adams, A Memoir, text line 1591]"
+    "Barbara lists \"Edward, after my father\" among possible names for her son Brian, which suggests the E. in his name stood for Edward (not confirmed). [Barbara McKeldin Adams, A Memoir, text line 1591]",
+    "His Find a Grave memorial names him Charles Edward McKeldin (1917–2006), confirming that the E. stood for Edward."
    ]
   },
   {
@@ -11344,6 +11476,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "mckeldin",
+    "quinn",
     "schriefer"
    ],
    "adopted": false,
@@ -11845,6 +11978,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "mckeldin",
+    "quinn",
     "schriefer"
    ],
    "adopted": false,
@@ -13189,6 +13323,71 @@
    ]
   },
   {
+   "id": "denzlein_margaret",
+   "name": "Margaret Denzlein (Schriefer)",
+   "aliases": [
+    "Margaret Schriefer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1865",
+    "year": 1865,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1924",
+    "year": 1924,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "schriefer",
+   "branch_by_marriage": false,
+   "lineages": [
+    "schriefer"
+   ],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "schriefer_bartholomew"
+   ],
+   "children": [
+    "schriefer_george_goode"
+   ],
+   "siblings": [],
+   "families": [
+    "F_denzlein_margaret+schriefer_bartholomew"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Germany",
+    "Baltimore, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Find a Grave, memorial 65818125"
+   ],
+   "notes": [
+    "Born in Germany; aged 35 in the 1900 census, wife of Bartholomew Schriefer."
+   ]
+  },
+  {
    "id": "devaw_louisa_woods",
    "name": "Louisa Woods Devaw (Martin)",
    "aliases": [],
@@ -13787,21 +13986,25 @@
   },
   {
    "id": "emily_schrieffer_mckeldin",
-   "name": "Emily Schrieffer (McKeldin)",
+   "name": "Emily Margaret Schriefer (Poehlman, McKeldin)",
    "aliases": [
-    "Emily Schrieffer McKeldin"
+    "Emily Schrieffer McKeldin",
+    "Emily Schrieffer (McKeldin)",
+    "Emily Schriefer",
+    "Emily Poehlman",
+    "Emily Margaret McKeldin"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "abt 1914",
-    "year": 1914,
-    "qualifier": "about"
+    "text": "20 Feb 1921",
+    "year": 1921,
+    "qualifier": null
    },
    "death": {
-    "text": "24 Oct 1950",
+    "text": "21 Oct 1950",
     "year": 1950,
     "qualifier": null
    },
@@ -13810,6 +14013,7 @@
    "branch": "schriefer",
    "branch_by_marriage": false,
    "lineages": [
+    "quinn",
     "schriefer"
    ],
    "adopted": false,
@@ -13841,7 +14045,8 @@
    "priority": "normal",
    "locations": [
     "Charlottesville, VA",
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "1143 Carroll Street, Baltimore"
    ],
    "personality": [],
    "roles": [],
@@ -13860,11 +14065,11 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Jack Poleman (naval aviator)",
     "Married Charles E. Buckey McKeldin II",
     "Biological mother of Barbara Adams and Chuck McKeldin",
-    "Married Jack Poleman (first husband)",
-    "Married Charles E Buckey McKeldin II (second husband)"
+    "Married Charles E Buckey McKeldin II (second husband)",
+    "Married Jack Hetrick Poehlman (m. 1941)",
+    "Buried at New Cathedral Cemetery, Baltimore"
    ],
    "education": [
     "Went to Seton High School. This is why Barbara chose Mercy High instead."
@@ -13875,39 +14080,43 @@
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
+    "Find a Grave, memorial 222564260"
    ],
    "notes": [
     "Referenced in Barbara Jeanne Adams: Daughter of Charles McKeldin and Emily Schrieffer McKeldin",
     "Relationship: Emily Schrieffer McKeldin -mother-> Barbara Jeanne Adams",
     "Siblings listed: Kenneth, George Jr.",
-    "DOB and full middle name still unknown (flagged as remaining hole).",
-    "Surname spelling: Barbara uses both Schriefer (single-f) and Schrieffer (double-f); AdamsFamilyDoc (p. 54) uses Schrieffer. No canonical spelling — death certificate would be tiebreaker.",
-    "Additional spouse: poleman_jack",
-    "Maiden name Schriefer/Schrieffer — spelling unresolved; death certificate would be tiebreaker.",
     "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother.",
-    "Birth estimated: Barbara says her mother died at 36 (she died 24 Oct 1950). [Barbara McKeldin Adams, A Memoir, text line 4157]"
+    "CORRECTION: born 20 Feb 1921 in Baltimore and died 21 Oct 1950, in her 30th year, per her death notice (Baltimore Sun, 23 Oct 1950) and Find a Grave; she was 9 in the 1930 census and 19 in 1940. The earlier birth \"abt 1914\" came from Barbara remembering her as 36, and 24 Oct was not her death date.",
+    "The censuses, her parents' death notices and Find a Grave spell the family name Schriefer."
    ]
   },
   {
    "id": "emma_bell_mckeldin",
-   "name": "Emma Bell McKeldin",
+   "name": "Emma Virginia Bell (McKeldin)",
    "aliases": [
-    "Emma"
+    "Emma",
+    "Emma Bell McKeldin",
+    "Emma V. McKeldin",
+    "Emma Bell"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "13 Aug 1891",
+    "year": 1891,
     "qualifier": null
    },
    "death": {
-    "text": "abt Feb 1948",
-    "year": 1948,
-    "qualifier": "about"
+    "text": "4 Jan 1949",
+    "year": 1949,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -13915,17 +14124,20 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "bell_william_h",
+   "mother": "bell_elmira",
+   "parents": [
+    "bell_elmira",
+    "bell_william_h"
+   ],
    "spouses": [
     "mckeldin_charles_i"
    ],
    "children": [
-    "charles_buckey_mckeldin",
     "mckeldin_lola",
     "mckeldin_lillian_buckey",
     "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_emma_buckey",
     "mckeldin_william_billy"
    ],
@@ -13933,12 +14145,15 @@
    "families": [
     "F_emma_bell_mckeldin+mckeldin_charles_i"
    ],
-   "parent_family": null,
+   "parent_family": "F_bell_elmira+bell_william_h",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "1118 Cleveland Street, Baltimore (1900)",
+    "1143 Carroll Street, Baltimore (1920–1930)",
+    "Mount Olivet Cemetery, Baltimore"
    ],
    "personality": [],
    "roles": [],
@@ -13946,15 +14161,14 @@
    "notable_stories": [
     "She passed away very shortly after her granddaughter Barbara was born",
     "Her death marked the beginning of a rapid series of losses in the McKeldin household",
-    "My paternal grandmother was Emma Bell McKeldin. She passed away right after I was born. (Barbara's memoir p. 57)",
-    "Bell may be middle name OR maiden name used as middle name (common Baltimore-era convention)",
-    "Full maiden name should appear on Buckey's 1917 Baltimore birth certificate"
+    "My paternal grandmother was Emma Bell McKeldin. She passed away right after I was born. (Barbara's memoir p. 57)"
    ],
    "risk_events": [],
    "milestones": [
     "Married Charles E. McKeldin I",
     "Married Charles E McKeldin I",
-    "Religion: A regular churchgoer. Her son Buckey went with her every Sunday without fail. She does not appear to have been Catholic."
+    "Religion: A regular churchgoer. Her son Buckey went with her every Sunday without fail. She does not appear to have been Catholic.",
+    "Buried at Mount Olivet Cemetery, Baltimore, 7 Jan 1949"
    ],
    "education": [],
    "career": [],
@@ -13962,12 +14176,18 @@
     "family_notes_adams_mckeldin",
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 34433509"
    ],
    "notes": [
     "Referenced in Barbara Jeanne Adams: Granddaughter of Emma Bell McKeldin",
     "Grandmother to Barbara and Chuck McKeldin.",
-    "CONFIRMED identity via Barbara's memoir p. 57. Maiden name unknown. Research path: Buckey's 4/22/1917 Baltimore birth certificate, 1920/1930 Baltimore census, or Emma Bell's own death certificate (~Feb 1948)."
+    "Born Emma Virginia Bell on 13 Aug 1891 in Baltimore, the daughter of William H. Bell and Elmira \"Ella\" Bell; the 1920 census lists her parents living with her and Charles at 1143 Carroll Street as his father-in-law and mother-in-law. Bell was her maiden name.",
+    "CORRECTION: died 4 Jan 1949 in Baltimore and buried 7 Jan 1949 at Mount Olivet Cemetery (Find a Grave, with burial permit number), about eleven months after her granddaughter Barbara was born; the earlier \"abt Feb 1948\" was an estimate from Barbara's memoir.",
+    "Married Charles Edward McKeldin about 1908 (he was 21 at his first marriage, per the 1930 census). Children in the 1920 and 1930 censuses: Lola E. (b. abt 1909), Lillian M. (abt 1911), Helen M. (abt 1912), Charles E. (1917), Emma (abt 1920) and William (abt 1923)."
    ]
   },
   {
@@ -13998,6 +14218,7 @@
     "kulp",
     "mckeldin",
     "mcphail",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -14059,35 +14280,39 @@
   },
   {
    "id": "ethel_quinn_schriefer",
-   "name": "Ethel Quinn (Schriefer)",
+   "name": "Ethel E. Quinn (Schriefer)",
    "aliases": [
-    "Ethel Quinn Schriefer"
+    "Ethel Quinn Schriefer",
+    "Ethel Quinn (Schriefer)"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "abt 1890",
-    "year": 1890,
-    "qualifier": "about"
+    "text": "1901",
+    "year": 1901,
+    "qualifier": null
    },
    "death": {
-    "text": "12 Apr 1952",
+    "text": "9 Apr 1952",
     "year": 1952,
     "qualifier": null
    },
    "living": false,
    "living_status": null,
-   "branch": "schriefer",
+   "branch": "quinn",
    "branch_by_marriage": false,
    "lineages": [
-    "schriefer"
+    "quinn"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
    "spouses": [
     "schriefer_george_goode"
    ],
@@ -14096,11 +14321,13 @@
     "schriefer_kenneth",
     "schriefer_george_jr"
    ],
-   "siblings": [],
+   "siblings": [
+    "quinn_john_joseph"
+   ],
    "families": [
     "F_ethel_quinn_schriefer+schriefer_george_goode"
    ],
-   "parent_family": null,
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -14110,7 +14337,9 @@
     "Gettysburg PA",
     "Ocean City MD",
     "University of Virginia Charlottesville",
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "Harford County, Maryland",
+    "1143 Carroll Street, Baltimore (1952)"
    ],
    "personality": [],
    "roles": [],
@@ -14124,8 +14353,8 @@
     "Died on 4/12/52."
    ],
    "milestones": [
-    "Death.",
-    "Married George Goode Schriefer"
+    "Married George Goode Schriefer",
+    "Buried at New Cathedral Cemetery, Baltimore"
    ],
    "education": [],
    "career": [],
@@ -14133,13 +14362,19 @@
     "barbara_memoir_ch02_a_typical_birth_day",
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1910 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
+    "Find a Grave, memorial 222563596"
    ],
    "notes": [
     "Barbara identifies her as her maternal grandmother.",
     "Siblings listed: John Joseph Quinn",
     "Emily's mother.",
-    "Birth estimated: Barbara says her grandmother died in her early sixties (she died 12 Apr 1952). [Barbara McKeldin Adams, A Memoir, text line 4158]"
+    "CORRECTION: born 1901 in Maryland (aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave 1901) and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered.",
+    "Daughter of Bernard Quinn and Emily M. (Lynn), both born in Ireland; in 1910 the family lived in District 3, Harford County, Maryland."
    ]
   },
   {
@@ -14968,6 +15203,7 @@
     "kulp",
     "mckeldin",
     "mcphail",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -15057,6 +15293,7 @@
     "mckeldin",
     "mcphail",
     "olson",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -15140,6 +15377,7 @@
     "kulp",
     "mckeldin",
     "mcphail",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -23857,6 +24095,7 @@
    "branch_by_marriage": false,
    "lineages": [
     "mckeldin",
+    "quinn",
     "schriefer"
    ],
    "adopted": false,
@@ -28126,6 +28365,7 @@
     "kulp",
     "mckeldin",
     "mcphail",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -28409,6 +28649,75 @@
    "notes": [
     "Referenced in Cynthia Gail Smith: Daughter of Louis Russell Smith and Genevieve Mildred Smith",
     "Father of Cynthia Gail Smith. Already canonical (louis_russell_smith.json)."
+   ]
+  },
+  {
+   "id": "lynn_emily_mariam",
+   "name": "Emily Mariam Lynn (Quinn, Cook)",
+   "aliases": [
+    "Emily M. Quinn",
+    "Emily Cook"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1869",
+    "year": 1869,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1937",
+    "year": 1937,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "quinn_bernard"
+   ],
+   "children": [
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer"
+   ],
+   "siblings": [],
+   "families": [
+    "F_lynn_emily_mariam+quinn_bernard"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireland",
+    "Harford County, Maryland",
+    "Baltimore, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1910 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 222563596"
+   ],
+   "notes": [
+    "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her."
    ]
   },
   {
@@ -29448,8 +29757,11 @@
   },
   {
    "id": "mckeldin_charles_i",
-   "name": "Charles E. McKeldin I",
-   "aliases": [],
+   "name": "Charles Edward McKeldin I",
+   "aliases": [
+    "Charles E. McKeldin I",
+    "Charles Edward McKeldin"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -29482,10 +29794,10 @@
     "emma_bell_mckeldin"
    ],
    "children": [
-    "charles_buckey_mckeldin",
     "mckeldin_lola",
     "mckeldin_lillian_buckey",
     "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_emma_buckey",
     "mckeldin_william_billy"
    ],
@@ -29509,7 +29821,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "1143 Carroll Street, Baltimore"
    ],
    "personality": [],
    "roles": [],
@@ -29526,14 +29839,20 @@
     "Theodore R. McKeldin's brother"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Sheet metal worker: in window work in 1920 and in a garage in 1930 (censuses)."
+   ],
    "sources": [
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 34433503"
    ],
    "notes": [
     "Siblings listed: Theodore Roosevelt McKeldin (Governor of Maryland), George Edward, John, Lillian J., Theresa, Laura S., Louis Lawrence, William Frederick, James Raymond, Alice",
-    "Brendan's great-grandfather."
+    "Brendan's great-grandfather.",
+    "His Find a Grave memorial names him Charles Edward McKeldin (1887–1949). He rented 1143 Carroll Street in 1920 and owned it by 1930; the house stayed in the family, and his daughter-in-law Emily's funeral (1950) and her parents' death notices (1951, 1952) all give it as home."
    ]
   },
   {
@@ -29749,9 +30068,9 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1920",
+    "year": 1920,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -29775,10 +30094,10 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "charles_buckey_mckeldin",
     "mckeldin_lola",
     "mckeldin_lillian_buckey",
     "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_william_billy"
    ],
    "families": [],
@@ -29796,10 +30115,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census"
    ],
    "notes": [
-    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the sisters who called their brother \"Buckey\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]"
+    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the sisters who called their brother \"Buckey\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
+    "Aged 10 in the 1930 census at 1143 Carroll Street."
    ]
   },
   {
@@ -29941,20 +30263,23 @@
   },
   {
    "id": "mckeldin_helen_buckey",
-   "name": "Helen McKeldin",
-   "aliases": [],
+   "name": "Helen M. McKeldin (Souder)",
+   "aliases": [
+    "Helen McKeldin",
+    "Helen Souder"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1912",
+    "year": 1912,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1994",
+    "year": 1994,
     "qualifier": null
    },
    "living": false,
@@ -29974,9 +30299,9 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "charles_buckey_mckeldin",
     "mckeldin_lola",
     "mckeldin_lillian_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_emma_buckey",
     "mckeldin_william_billy"
    ],
@@ -29995,10 +30320,14 @@
    "education": [],
    "career": [],
    "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 279694397"
    ],
    "notes": [
-    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the aunts who called Barbara \"Babs\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]"
+    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. One of the aunts who called Barbara \"Babs\". [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
+    "Helen M. McKeldin Souder (1912–1994) on Find a Grave; aged 7 in the 1920 census and 17 in 1930."
    ]
   },
   {
@@ -30458,15 +30787,17 @@
   {
    "id": "mckeldin_lillian_buckey",
    "name": "Lillian McKeldin",
-   "aliases": [],
+   "aliases": [
+    "Lillian M. McKeldin"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1911",
+    "year": 1911,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -30490,9 +30821,9 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "charles_buckey_mckeldin",
     "mckeldin_lola",
     "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_emma_buckey",
     "mckeldin_william_billy"
    ],
@@ -30511,10 +30842,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census"
    ],
    "notes": [
-    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. The family diva, per her niece Barbara. [Barbara McKeldin Adams, A Memoir, text line 392, 4153]"
+    "Sister of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. The family diva, per her niece Barbara. [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
+    "Lillian M., aged 9 in the 1920 census and 19 in 1930, at 1143 Carroll Street."
    ]
   },
   {
@@ -30592,16 +30926,17 @@
    "id": "mckeldin_lola",
    "name": "Lola McKeldin",
    "aliases": [
-    "Lola"
+    "Lola",
+    "Lola E. McKeldin"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1909",
+    "year": 1909,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -30625,9 +30960,9 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "charles_buckey_mckeldin",
     "mckeldin_lillian_buckey",
     "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_emma_buckey",
     "mckeldin_william_billy"
    ],
@@ -30650,12 +30985,15 @@
    "sources": [
     "barbara_memoir_ch04_nicknames",
     "consolidated_research_digest_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census"
    ],
    "notes": [
     "Barbara identifies Lola as one of her father’s sisters.",
     "Recorded under her birth surname McKeldin (daughter of Charles E. McKeldin I and Emma Bell McKeldin). She likely took a husband's surname, which is not recorded.",
-    "Lola died of cancer after radiation and chemotherapy. [Barbara McKeldin Adams, A Memoir, text line 4155]"
+    "Lola died of cancer after radiation and chemotherapy. [Barbara McKeldin Adams, A Memoir, text line 4155]",
+    "Lola E., aged 11, in the 1920 census at 1143 Carroll Street; not in the household in 1930."
    ]
   },
   {
@@ -31287,9 +31625,9 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1923",
+    "year": 1923,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -31297,7 +31635,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "mckeldin",
    "branch_by_marriage": false,
    "lineages": [
@@ -31313,10 +31651,10 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "charles_buckey_mckeldin",
     "mckeldin_lola",
     "mckeldin_lillian_buckey",
     "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_emma_buckey"
    ],
    "families": [],
@@ -31334,10 +31672,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census"
    ],
    "notes": [
-    "Brother of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. His sisters called him Billy or Bill. [Barbara McKeldin Adams, A Memoir, text line 392, 4153]"
+    "Brother of Charles \"Buckey\" McKeldin, named in his daughter Barbara's memoir; died before she wrote. His sisters called him Billy or Bill. [Barbara McKeldin Adams, A Memoir, text line 392, 4153]",
+    "Aged 7 in the 1930 census at 1143 Carroll Street."
    ]
   },
   {
@@ -34634,6 +34975,7 @@
     "mckeldin",
     "mcphail",
     "olson",
+    "quinn",
     "schriefer",
     "simons",
     "trumbo"
@@ -35181,20 +35523,22 @@
   },
   {
    "id": "poleman_jack",
-   "name": "Jack Poleman",
-   "aliases": [],
+   "name": "Jack Hetrick Poehlman",
+   "aliases": [
+    "Jack Poleman"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1919",
+    "year": 1919,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1944",
+    "year": 1944,
     "qualifier": null
    },
    "living": false,
@@ -35228,17 +35572,20 @@
     "The wedding ring set Jack Poleman gave Emily was among her jewelry that Buckey gave Barbara on her 21st birthday; a sapphire was later set into it."
    ],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Emily Margaret Schriefer (m. 1941)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Find a Grave, memorial 222564260"
    ],
    "notes": [
-    "Naval aviator; first husband of Emily Schriefer. Shot down on D-Day. Name per rule_updates.json alias: Jack Poehlman -> Jack Poleman.",
-    "Emily Schriefer's first husband. Not a blood relative."
+    "Emily Schriefer's first husband. Not a blood relative.",
+    "First husband of Emily Margaret Schriefer (m. 1941). Find a Grave lists him as 1Lt. Jack Hetrick Poehlman (1919–1944). Family memory says he was a naval aviator shot down on D-Day; a first lieutenant's rank suggests the Army Air Forces instead (not confirmed)."
    ]
   },
   {
@@ -35423,6 +35770,73 @@
    "notes": []
   },
   {
+   "id": "quinn_bernard",
+   "name": "Bernard Quinn",
+   "aliases": [
+    "Barnie Quinn"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1852",
+    "year": 1852,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1913",
+    "year": 1913,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "lynn_emily_mariam"
+   ],
+   "children": [
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer"
+   ],
+   "siblings": [],
+   "families": [
+    "F_lynn_emily_mariam+quinn_bernard"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireland",
+    "Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1910 United States Federal Census",
+    "Find a Grave, memorial 222563596"
+   ],
+   "notes": [
+    "Born in Ireland; \"Barnie Quin\", aged 58, in the 1910 census of District 3, Harford County, Maryland, with his wife Emily M. and children Agnes E. (14), John J. (12), Ethel E. (9) and Margaret A. (4).",
+    "Children named on Find a Grave: Sarah Catherine \"Sally\" (Brady, 1889–1959), Charlotte Ann (Landreth, 1892–1971), John Joseph (1898–1956), Ethel E. (Schriefer, 1901–1952) and Margaret M. (Osborne, 1905–1946)."
+   ]
+  },
+  {
    "id": "quinn_joan",
    "name": "Joan Quinn (Stang)",
    "aliases": [
@@ -35521,14 +35935,14 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "abt 1900",
-    "year": 1900,
-    "qualifier": "about"
+    "text": "1898",
+    "year": 1898,
+    "qualifier": null
    },
    "death": {
-    "text": "abt 1959",
-    "year": 1959,
-    "qualifier": "about"
+    "text": "1956",
+    "year": 1956,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -35538,9 +35952,12 @@
     "quinn"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
    "spouses": [
     "quinn_marie_ellinghaus"
    ],
@@ -35550,11 +35967,13 @@
     "quinn_john_jr",
     "quinn_pat"
    ],
-   "siblings": [],
+   "siblings": [
+    "ethel_quinn_schriefer"
+   ],
    "families": [
     "F_quinn_john_joseph+quinn_marie_ellinghaus"
    ],
-   "parent_family": null,
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -35597,7 +36016,9 @@
     "barbara_memoir_ch02_a_typical_birth_day",
     "adams_direct_line_summary_v1",
     "adams_direct_line_json_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1910 United States Federal Census",
+    "Find a Grave, memorial 222563596"
    ],
    "notes": [
     "Barbara identifies him as her great uncle and the youngest sibling of her grandmother, Ethel.",
@@ -35606,7 +36027,8 @@
     "john_quinn (unresolved, from barbara_memoir_ch16) is likely the same person — recommend archiving john_quinn.",
     "Ethel's youngest brother per this source — adds new detail (youngest).",
     "Confirmed as Ethel Quinn Schriefer's youngest brother per this source. Children: Peggy, Joan, John, Pat.",
-    "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus."
+    "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus.",
+    "CORRECTION: 1898–1956 per Find a Grave (aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel's sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling."
    ]
   },
   {
@@ -35701,10 +36123,8 @@
    "living": false,
    "living_status": null,
    "branch": "quinn",
-   "branch_by_marriage": false,
-   "lineages": [
-    "quinn"
-   ],
+   "branch_by_marriage": true,
+   "lineages": [],
    "adopted": false,
    "father": null,
    "mother": null,
@@ -37693,21 +38113,21 @@
    ]
   },
   {
-   "id": "schriefer_george_goode",
-   "name": "George Goode Schriefer",
+   "id": "schriefer_bartholomew",
+   "name": "Bartholomew Schriefer",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1839",
+    "year": 1839,
     "qualifier": null
    },
    "death": {
-    "text": "12 May 1951",
-    "year": 1951,
+    "text": "1914",
+    "year": 1914,
     "qualifier": null
    },
    "living": false,
@@ -37722,6 +38142,73 @@
    "mother": null,
    "parents": [],
    "spouses": [
+    "denzlein_margaret"
+   ],
+   "children": [
+    "schriefer_george_goode"
+   ],
+   "siblings": [],
+   "families": [
+    "F_denzlein_margaret+schriefer_bartholomew"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Germany",
+    "Baltimore, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Find a Grave, memorial 65818037"
+   ],
+   "notes": [
+    "Born in Germany; aged 60 in the 1900 census at 2531 E. Oliver Street, Baltimore.",
+    "Children on Find a Grave: Mary (1883–1937), Jennie Katherine (Frank, 1889–1955), Anna M. (Herbert, 1892–1967), Margaret M. (Conroy, 1896–1961), George (1899–1951) and Henry (1904–1980)."
+   ]
+  },
+  {
+   "id": "schriefer_george_goode",
+   "name": "George Goode Schriefer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1 Jun 1899",
+    "year": 1899,
+    "qualifier": null
+   },
+   "death": {
+    "text": "9 May 1951",
+    "year": 1951,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "schriefer",
+   "branch_by_marriage": false,
+   "lineages": [
+    "schriefer"
+   ],
+   "adopted": false,
+   "father": "schriefer_bartholomew",
+   "mother": "denzlein_margaret",
+   "parents": [
+    "denzlein_margaret",
+    "schriefer_bartholomew"
+   ],
+   "spouses": [
     "ethel_quinn_schriefer"
    ],
    "children": [
@@ -37733,12 +38220,16 @@
    "families": [
     "F_ethel_quinn_schriefer+schriefer_george_goode"
    ],
-   "parent_family": null,
+   "parent_family": "F_denzlein_margaret+schriefer_bartholomew",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "2531 E. Oliver Street, Baltimore (1900)",
+    "2003 Barclay Street, Baltimore (1930)",
+    "339 21st Street, Baltimore (1940)",
+    "1143 Carroll Street, Baltimore (1951)"
    ],
    "personality": [],
    "roles": [],
@@ -37749,38 +38240,53 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Death: 12 May 1951"
+    "Married Ethel E. Quinn (m. abt 1920)",
+    "Buried at New Cathedral Cemetery, Baltimore, 12 May 1951"
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Completed sixth grade (1940 census)."
+   ],
+   "career": [
+    "Shipping clerk, for an ice cream company in 1930 and still in 1940 (censuses)."
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
+    "Find a Grave, memorial 222563508"
    ],
    "notes": [
     "Barbara identifies him as her maternal grandfather.",
     "Promoted from unresolved (george_schriefer.json). Explicit spouse relationship to ethel_quinn_schriefer.",
     "Nickname: Goode. Also described as biological maternal grandfather of Barbara McKeldin Adams and Chuck McKeldin Jr.",
-    "Emily's father. Nickname: Goode."
+    "Emily's father. Nickname: Goode.",
+    "CORRECTION: died 9 May 1951 in Baltimore, in his 52nd year, per his death notice (Evening Sun, 10 May 1951) and Find a Grave; 12 May 1951 was his burial at New Cathedral Cemetery. Born 1 Jun 1899 in Baltimore.",
+    "Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel E. Quinn about 1920 (he was 20 at his first marriage, per the 1930 census).",
+    "In 1930 his mother-in-law Emily Cook and her husband Earnest Cook lived with the family on Barclay Street."
    ]
   },
   {
    "id": "schriefer_george_jr",
-   "name": "George Schriefer Jr.",
-   "aliases": [],
+   "name": "George Bernard Schriefer",
+   "aliases": [
+    "George Schriefer Jr."
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1925",
+    "year": 1925,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1992",
+    "year": 1992,
     "qualifier": null
    },
    "living": false,
@@ -37788,6 +38294,7 @@
    "branch": "schriefer",
    "branch_by_marriage": false,
    "lineages": [
+    "quinn",
     "schriefer"
    ],
    "adopted": false,
@@ -37818,10 +38325,14 @@
    "education": [],
    "career": [],
    "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Find a Grave, memorial 68447197"
    ],
    "notes": [
-    "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]"
+    "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]",
+    "George Bernard Schriefer (1925–1992) on Find a Grave; aged 5 in the 1930 census and 15 in 1940."
    ]
   },
   {
@@ -37885,16 +38396,18 @@
   },
   {
    "id": "schriefer_kenneth",
-   "name": "Kenneth Schriefer",
-   "aliases": [],
+   "name": "Kenneth Joseph Schriefer",
+   "aliases": [
+    "Kenneth Schriefer"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1923",
+    "year": 1923,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -37902,10 +38415,11 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "schriefer",
    "branch_by_marriage": false,
    "lineages": [
+    "quinn",
     "schriefer"
    ],
    "adopted": false,
@@ -37936,10 +38450,14 @@
    "education": [],
    "career": [],
    "sources": [
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)"
    ],
    "notes": [
-    "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]"
+    "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]",
+    "Kenneth J., aged 7 in the 1930 census and 16 in 1940; named Kenneth Joseph in his parents' death notices."
    ]
   },
   {
@@ -47852,6 +48370,17 @@
    "marriage": "1896"
   },
   {
+   "id": "F_bell_elmira+bell_william_h",
+   "partners": [
+    "bell_elmira",
+    "bell_william_h"
+   ],
+   "children": [
+    "emma_bell_mckeldin"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_beryl_simons_adams+bob_beryl",
    "partners": [
     "beryl_simons_adams",
@@ -48114,6 +48643,17 @@
    "marriage": "6 Sep 1829, Darke County, OH"
   },
   {
+   "id": "F_denzlein_margaret+schriefer_bartholomew",
+   "partners": [
+    "denzlein_margaret",
+    "schriefer_bartholomew"
+   ],
+   "children": [
+    "schriefer_george_goode"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_devaw_louisa_woods+martin_kaleb",
    "partners": [
     "devaw_louisa_woods",
@@ -48155,7 +48695,7 @@
     "poleman_jack"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "1941"
   },
   {
    "id": "F_emma_bell_mckeldin+mckeldin_charles_i",
@@ -48164,10 +48704,10 @@
     "mckeldin_charles_i"
    ],
    "children": [
-    "charles_buckey_mckeldin",
     "mckeldin_lola",
     "mckeldin_lillian_buckey",
     "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
     "mckeldin_emma_buckey",
     "mckeldin_william_billy"
    ],
@@ -48193,7 +48733,7 @@
     "schriefer_kenneth",
     "schriefer_george_jr"
    ],
-   "marriage": null
+   "marriage": "abt 1920"
   },
   {
    "id": "F_falde_mary+falde_roger",
@@ -48921,6 +49461,18 @@
    ],
    "children": [
     "lane_cynthia"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_lynn_emily_mariam+quinn_bernard",
+   "partners": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
+   "children": [
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer"
    ],
    "marriage": null
   },

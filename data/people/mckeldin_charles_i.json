@@ -1,6 +1,6 @@
 {
   "id": "mckeldin_charles_i",
-  "name": "Charles E. McKeldin I",
+  "name": "Charles Edward McKeldin I",
   "birth": "4 Feb 1887",
   "death": "14 Feb 1949",
   "personality": [],
@@ -18,7 +18,9 @@
     "Theodore R. McKeldin's brother"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Sheet metal worker: in window work in 1920 and in a garage in 1930 (censuses)."
+  ],
   "relationships": {
     "mother": "grief_dorothea",
     "father": "mckeldin_james_alfred",
@@ -43,16 +45,24 @@
     ]
   },
   "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "1143 Carroll Street, Baltimore"
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Find a Grave, memorial 34433503"
   ],
   "notes": [
     "Siblings listed: Theodore Roosevelt McKeldin (Governor of Maryland), George Edward, John, Lillian J., Theresa, Laura S., Louis Lawrence, William Frederick, James Raymond, Alice",
-    "Brendan's great-grandfather."
+    "Brendan's great-grandfather.",
+    "His Find a Grave memorial names him Charles Edward McKeldin (1887–1949). He rented 1143 Carroll Street in 1920 and owned it by 1930; the house stayed in the family, and his daughter-in-law Emily's funeral (1950) and her parents' death notices (1951, 1952) all give it as home."
   ],
-  "aliases": [],
+  "aliases": [
+    "Charles E. McKeldin I",
+    "Charles Edward McKeldin"
+  ],
   "sex": "M"
 }

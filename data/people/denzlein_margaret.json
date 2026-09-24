@@ -1,0 +1,38 @@
+{
+  "id": "denzlein_margaret",
+  "name": "Margaret Denzlein (Schriefer)",
+  "sex": "F",
+  "birth": "1865",
+  "death": "1924",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "schriefer_bartholomew",
+    "children": [
+      "schriefer_george_goode"
+    ]
+  },
+  "locations": [
+    "Germany",
+    "Baltimore, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, 1900 United States Federal Census",
+    "Find a Grave, memorial 65818125"
+  ],
+  "notes": [
+    "Born in Germany; aged 35 in the 1900 census, wife of Bartholomew Schriefer."
+  ],
+  "aliases": [
+    "Margaret Schriefer"
+  ]
+}

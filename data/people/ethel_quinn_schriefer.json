@@ -1,8 +1,8 @@
 {
   "id": "ethel_quinn_schriefer",
-  "name": "Ethel Quinn (Schriefer)",
-  "birth": "abt 1890",
-  "death": "12 Apr 1952",
+  "name": "Ethel E. Quinn (Schriefer)",
+  "birth": "1901",
+  "death": "9 Apr 1952",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -15,14 +15,14 @@
     "Died on 4/12/52."
   ],
   "milestones": [
-    "Death.",
-    "Married George Goode Schriefer"
+    "Married George Goode Schriefer",
+    "Buried at New Cathedral Cemetery, Baltimore"
   ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "lynn_emily_mariam",
+    "father": "quinn_bernard",
     "siblings": [
       "quinn_john_joseph"
     ],
@@ -39,22 +39,31 @@
     "Gettysburg PA",
     "Ocean City MD",
     "University of Virginia Charlottesville",
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "Harford County, Maryland",
+    "1143 Carroll Street, Baltimore (1952)"
   ],
   "sources": [
     "barbara_memoir_ch02_a_typical_birth_day",
     "consolidated_research_digest_v1",
     "adams_direct_line_summary_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, 1910 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
+    "Find a Grave, memorial 222563596"
   ],
   "notes": [
     "Barbara identifies her as her maternal grandmother.",
     "Siblings listed: John Joseph Quinn",
     "Emily's mother.",
-    "Birth estimated: Barbara says her grandmother died in her early sixties (she died 12 Apr 1952). [Barbara McKeldin Adams, A Memoir, text line 4158]"
+    "CORRECTION: born 1901 in Maryland (aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave 1901) and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered.",
+    "Daughter of Bernard Quinn and Emily M. (Lynn), both born in Ireland; in 1910 the family lived in District 3, Harford County, Maryland."
   ],
   "aliases": [
-    "Ethel Quinn Schriefer"
+    "Ethel Quinn Schriefer",
+    "Ethel Quinn (Schriefer)"
   ],
   "sex": "F"
 }

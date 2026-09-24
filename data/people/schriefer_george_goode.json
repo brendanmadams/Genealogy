@@ -1,8 +1,8 @@
 {
   "id": "schriefer_george_goode",
   "name": "George Goode Schriefer",
-  "birth": "",
-  "death": "12 May 1951",
+  "birth": "1 Jun 1899",
+  "death": "9 May 1951",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -12,13 +12,18 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Death: 12 May 1951"
+    "Married Ethel E. Quinn (m. abt 1920)",
+    "Buried at New Cathedral Cemetery, Baltimore, 12 May 1951"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Completed sixth grade (1940 census)."
+  ],
+  "career": [
+    "Shipping clerk, for an ice cream company in 1930 and still in 1940 (censuses)."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "denzlein_margaret",
+    "father": "schriefer_bartholomew",
     "siblings": [],
     "spouse": "ethel_quinn_schriefer",
     "children": [
@@ -28,18 +33,30 @@
     ]
   },
   "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "2531 E. Oliver Street, Baltimore (1900)",
+    "2003 Barclay Street, Baltimore (1930)",
+    "339 21st Street, Baltimore (1940)",
+    "1143 Carroll Street, Baltimore (1951)"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
-    "adams_direct_line_summary_v1"
+    "adams_direct_line_summary_v1",
+    "Ancestry.com, 1900 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
+    "Find a Grave, memorial 222563508"
   ],
   "notes": [
     "Barbara identifies him as her maternal grandfather.",
     "Promoted from unresolved (george_schriefer.json). Explicit spouse relationship to ethel_quinn_schriefer.",
     "Nickname: Goode. Also described as biological maternal grandfather of Barbara McKeldin Adams and Chuck McKeldin Jr.",
-    "Emily's father. Nickname: Goode."
+    "Emily's father. Nickname: Goode.",
+    "CORRECTION: died 9 May 1951 in Baltimore, in his 52nd year, per his death notice (Evening Sun, 10 May 1951) and Find a Grave; 12 May 1951 was his burial at New Cathedral Cemetery. Born 1 Jun 1899 in Baltimore.",
+    "Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel E. Quinn about 1920 (he was 20 at his first marriage, per the 1930 census).",
+    "In 1930 his mother-in-law Emily Cook and her husband Earnest Cook lived with the family on Barclay Street."
   ],
   "aliases": [],
   "sex": "M"
