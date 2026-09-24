@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Adams · McKeldin Family Tree</title>
 <meta name="description" content="An interactive family history for the Adams, McKeldin and related families." />
-<script>try { if (localStorage.getItem('familytree.theme') === 'light') document.documentElement.dataset.theme = 'light'; } catch (e) {}</script>
+<script>try { var t = localStorage.getItem('familytree.theme'); if (t === 'light' || (t !== 'dark' && matchMedia('(prefers-color-scheme: light)').matches)) document.documentElement.dataset.theme = 'light'; } catch (e) {}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="css/app.css?v=e7cbd95e" data-versioned />
+<link rel="stylesheet" href="css/app.css?v=d2ae8e1d" data-versioned />
 </head>
 <body>
 <div id="app">
@@ -74,7 +74,7 @@
 <!-- versions:start (written by scripts/build.js; each file gets ?v=<content hash> so browsers fetch changes immediately) -->
 <script type="importmap">{
  "imports": {
-  "./js/app.js": "./js/app.js?v=ab7a2e50",
+  "./js/app.js": "./js/app.js?v=70b1ef17",
   "./js/ask.js": "./js/ask.js?v=f71cab7f",
   "./js/config.js": "./js/config.js?v=ccfc531b",
   "./js/data.js": "./js/data.js?v=eaab13e0",
@@ -90,6 +90,6 @@
  }
 }</script>
 <!-- versions:end -->
-<script type="module" src="js/app.js?v=ab7a2e50" data-versioned></script>
+<script type="module" src="js/app.js?v=70b1ef17" data-versioned></script>
 </body>
 </html>

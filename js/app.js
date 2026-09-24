@@ -210,20 +210,27 @@ function wireSearch(input, drop, onPick = focus) {
 // ── Panel ───────────────────────────────────────────────────────────────────
 // ── Light / dark (dark unless this browser chose light) ─────────────────────
 const THEME_KEY = 'familytree.theme';
+// Three settings, cycled by the button: auto (follow the device) → light → dark.
 function wireTheme() {
   const btn = $('#btn-theme');
-  const show = () => {
-    const light = document.documentElement.dataset.theme === 'light';
-    btn.textContent = light ? '☾' : '☀';
-    btn.title = btn.ariaLabel = light ? 'Switch to dark mode' : 'Switch to light mode';
+  const deviceLight = matchMedia('(prefers-color-scheme: light)');
+  const LABEL = { auto: ['◐', 'Theme: follows your device. Click for light'], light: ['☀', 'Theme: light. Click for dark'], dark: ['☾', 'Theme: dark. Click to follow your device'] };
+  const mode = () => { try { const t = localStorage.getItem(THEME_KEY); return t === 'light' || t === 'dark' ? t : 'auto'; } catch { return 'auto'; } };
+  const apply = () => {
+    const m = mode();
+    const light = m === 'light' || (m === 'auto' && deviceLight.matches);
+    if (light) document.documentElement.dataset.theme = 'light'; else delete document.documentElement.dataset.theme;
+    [btn.textContent, btn.title] = LABEL[m];
+    btn.ariaLabel = btn.title;
   };
   btn.addEventListener('click', () => {
-    const light = document.documentElement.dataset.theme !== 'light';
-    if (light) document.documentElement.dataset.theme = 'light'; else delete document.documentElement.dataset.theme;
-    try { localStorage.setItem(THEME_KEY, light ? 'light' : 'dark'); } catch { /* private mode etc. */ }
-    show();
+    const next = { auto: 'light', light: 'dark', dark: 'auto' }[mode()];
+    try { next === 'auto' ? localStorage.removeItem(THEME_KEY) : localStorage.setItem(THEME_KEY, next); } catch { /* private mode etc. */ }
+    apply();
   });
-  show();
+  deviceLight.addEventListener('change', apply);   // follows the device live while on Auto
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) apply(); });   // and on returning to the tab
+  apply();
 }
 
 function renderPanelFor(p) {

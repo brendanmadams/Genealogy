@@ -30,7 +30,7 @@
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
   color-scheme: dark;
 }
-/* Light mode (the header's ☀/☾ button; remembered in this browser) */
+/* Light mode: the header button cycles Auto (follow the device) → Light → Dark; remembered per browser */
 :root[data-theme="light"] {
   --bg: #f4f6fa;
   --bg-2: #ffffff;
