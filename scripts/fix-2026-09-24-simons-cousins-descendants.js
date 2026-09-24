@@ -137,8 +137,8 @@ edit('upham_william', OB_UPHAM, p => {
   add(p.milestones, 'Married Elaine (Simons) Rinehart (m. 1991)');
   note(p, 'Born 8 Jul 1919 in Portland; died 5 Oct 2016, aged 97. He married Marie Maxine Smith in 1947 (two daughters), Virginia Rounds in 1977, and Elaine Rinehart in 1991.');
 });
-edit('rhinehart_janet', OB_UPHAM, p => { rename(p, ['Janet Rhinehart'], 'Janet Rhinehart (Holter)'); add(p.aliases, 'Jan Holter'); add(p.locations, 'Coeur d\'Alene, Idaho'); });
-person('rhinehart_debbie', 'Debbie Rhinehart (Groom)', 'F', OB_UPHAM, p => { add(p.aliases, 'Debbie Groom'); add(p.locations, 'Oregon City, Oregon'); note(p, 'Daughter of Elaine (Simons); a stepdaughter of William Upham, whose 2016 obituary lists her as Debbie Groom of Oregon City, with John Mein. Born after 1940 (not in that census), so presumably a daughter of Les Rinehart; her birth surname is assumed.'); });
+edit('rhinehart_janet', OB_UPHAM, p => { rename(p, ['Janet Rhinehart', 'Janet Rinehart'], 'Janet Rinehart (Holter)'); add(p.aliases, 'Jan Holter'); add(p.locations, 'Coeur d\'Alene, Idaho'); });
+person('rhinehart_debbie', 'Debbie Rinehart (Groom)', 'F', OB_UPHAM, p => { add(p.aliases, 'Debbie Groom'); add(p.locations, 'Oregon City, Oregon'); note(p, 'Daughter of Elaine (Simons); a stepdaughter of William Upham, whose 2016 obituary lists her as Debbie Groom of Oregon City, with John Mein. Born after 1940 (not in that census), so presumably a daughter of Les Rinehart; her birth surname is assumed.'); });
 child('rhinehart_debbie', 'rhinehart_les', 'simons_elaine_deretha');
 for (const id of ['rhinehart_jerry', 'rhinehart_janet', 'rhinehart_debbie']) for (const o of ['rhinehart_jerry', 'rhinehart_janet', 'rhinehart_debbie']) if (o !== id) edit(id, [], p => add(p.relationships.siblings, o));
 

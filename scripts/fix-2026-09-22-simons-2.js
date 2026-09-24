@@ -85,12 +85,12 @@ kids(['simons_raymond_elmer', 'simons_betty'], ['simons_carl_ray', 'simons_debra
 rename('les_husband_of_elaine_simons', 'rhinehart_les');
 {
   const l = load('rhinehart_les');
-  l.name = 'Les Rhinehart';
+  if (!/Rinehart/.test(l.name)) l.name = 'Les Rhinehart';
   l.notes = l.notes.filter(n => !n.startsWith('Husband of Elaine Deretha Simons. Surname not recorded.'));
   note(l, 'Husband of Elaine Deretha Simons.');
   save(l);
   const e = load('simons_elaine_deretha');
-  e.name = 'Elaine Deretha Simons (Rhinehart)';
+  if (!/Rinehart/.test(e.name)) e.name = 'Elaine Deretha Simons (Rhinehart)';
   e.notes = e.notes.filter(n => !n.startsWith('Sister of Beryl Simons Adams; married Les (surname not recorded).'));
   note(e, 'Sister of Beryl Simons Adams; married Les Rhinehart.');
   save(e);
