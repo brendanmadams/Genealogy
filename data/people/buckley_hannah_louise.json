@@ -2,7 +2,7 @@
   "id": "buckley_hannah_louise",
   "name": "Hannah Louise Buckley",
   "birth": "19 January 1859",
-  "death": "26 December 1941",
+  "death": "14 Mar 1939",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -14,8 +14,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "buckley_margaret",
+    "father": "buckley_david",
     "siblings": [],
     "spouse": "trumbo_presley_neville",
     "children": [
@@ -29,22 +29,43 @@
   },
   "locations": [
     "Louisiana",
-    "Sacramento, CA"
+    "Sacramento, CA",
+    "Placer County, California",
+    "Placerville, Boise County, Idaho",
+    "Garden Valley, Boise County, Idaho",
+    "Dryad, Lewis County, Washington",
+    "Oakland, Alameda County, California"
   ],
   "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, 1860 United States Federal Census (Township 9, Placer County, California; post office Secret Ravine)",
+    "Ancestry.com, 1870 United States Federal Census (Placerville, Boise County, Idaho Territory)",
+    "Ancestry.com, 1880 United States Federal Census (Garden Valley, Boise County, Idaho)",
+    "Ancestry.com, Idaho, U.S., Marriage Records, 1863-1974, and Idaho, U.S., Select Marriages (Presley N. Trumbo and Lizzie, or Louise, Buckley, Garden Valley, 25 Dec 1880)",
+    "Ancestry.com, Idaho, U.S., Birth Records, 1861-1924 (John Holmes Trumbo, certificate 318981)",
+    "Ancestry.com, 1920 United States Federal Census (Oakland, Alameda County, California)",
+    "Ancestry.com, California, U.S., Voter Registrations, 1900-1968 (Mrs. Hannah Louise Trumbo, Alameda County, 1936)",
+    "Ancestry.com, California, U.S., Death Index, 1905-1939 (Hannah L. Trumbo, Alameda County, 14 Mar 1939)",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Hannah L. Trumbo, Oakland, 1939)"
   ],
   "notes": [
     "Mother of Serena Marie Nevada Trumbo (Nini). New to record.",
     "Precise birth and death dates newly established. Birth: Louisiana.",
     "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
-    "Her son John Holmes Trumbo's 1957 key calls her Hannah Lois Trumbo."
+    "Her son John Holmes Trumbo's 1957 key calls her Hannah Lois Trumbo.",
+    "CORRECTION 2026-09-24: She died on 14 Mar 1939 in Alameda County, California (California death index; newspaper obituary index, Oakland), not on 26 Dec 1941 in Sacramento. She is in Oakland city directories from 1925 to 1934 and registered to vote there in 1936 as Mrs. Hannah Louise Trumbo.",
+    "As a girl she was \"Louisa\": aged 3 (\"Hannah S.\") in 1860 in Placer County, California, with her parents David and Margaret Buckley and sisters Mary A. and Julia C., all three girls born in Louisiana; aged 12 in 1870 at Placerville, Boise County, Idaho, with her widowed mother and sister Mary Ann, both girls working as waiters; and aged 22 in 1880 at Garden Valley, Boise County, in her sister Mary Ann's household. The censuses put her birth in 1857–1858, and in 1880 give both her parents' birthplaces as Ireland.",
+    "Married Presley N. Trumbo at Garden Valley on 25 Dec 1880 as \"Lizzie\" (also indexed as Louise) Buckley; her son John Holmes Trumbo's Idaho birth record names her Hannah Louise Buckley. In 1920 she was \"Louise Trumbo\", born in Louisiana, in Oakland."
   ],
   "sex": "F",
   "aliases": [
-    "Hannah Lois Trumbo"
+    "Hannah Lois Trumbo",
+    "Louisa Buckley",
+    "Lizzie Buckley",
+    "Louise Trumbo",
+    "Hannah L. Trumbo"
   ]
 }

@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T21:49:10.734Z",
-  "people": 911,
-  "family_members": 862,
+  "generated": "2026-09-24T22:02:35.641Z",
+  "people": 915,
+  "family_members": 866,
   "dna_matches": 49,
-  "connected_people": 862,
-  "families": 307,
+  "connected_people": 866,
+  "families": 309,
   "branches": [
    "adams",
    "hamilton",
@@ -12241,10 +12241,78 @@
    "notes": []
   },
   {
+   "id": "buckley_david",
+   "name": "David Buckley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1825",
+    "year": 1825,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "buckley_margaret"
+   ],
+   "children": [
+    "buckley_hannah_louise"
+   ],
+   "siblings": [],
+   "families": [
+    "F_buckley_david+buckley_margaret"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireland",
+    "Louisiana",
+    "Township 9, Placer County, California"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Miner (1860 census)."
+   ],
+   "sources": [
+    "Ancestry.com, 1860 United States Federal Census (Township 9, Placer County, California; post office Secret Ravine)"
+   ],
+   "notes": [
+    "Born about 1825 in Ireland. In 1860 a miner in Township 9, Placer County, California (post office Secret Ravine), aged 35, with his wife Margaret and daughters Mary A. (8), Julia C. (5) and Hannah (3), all born in Louisiana. Margaret was a widow by 1870, so he died between 1860 and 1870.",
+    "Inferred: the father of Hannah Louise Buckley (Trumbo), from the 1860 household and her mother's and sister's later households in Idaho."
+   ]
+  },
+  {
    "id": "buckley_hannah_louise",
    "name": "Hannah Louise Buckley",
    "aliases": [
-    "Hannah Lois Trumbo"
+    "Hannah Lois Trumbo",
+    "Louisa Buckley",
+    "Lizzie Buckley",
+    "Louise Trumbo",
+    "Hannah L. Trumbo"
    ],
    "photo": null,
    "card_name": null,
@@ -12258,8 +12326,8 @@
     "qualifier": null
    },
    "death": {
-    "text": "26 December 1941",
-    "year": 1941,
+    "text": "14 Mar 1939",
+    "year": 1939,
     "qualifier": null
    },
    "living": false,
@@ -12270,9 +12338,12 @@
     "trumbo"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "buckley_david",
+   "mother": "buckley_margaret",
+   "parents": [
+    "buckley_david",
+    "buckley_margaret"
+   ],
    "spouses": [
     "trumbo_presley_neville"
    ],
@@ -12288,13 +12359,18 @@
    "families": [
     "F_buckley_hannah_louise+trumbo_presley_neville"
    ],
-   "parent_family": null,
+   "parent_family": "F_buckley_david+buckley_margaret",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Louisiana",
-    "Sacramento, CA"
+    "Sacramento, CA",
+    "Placer County, California",
+    "Placerville, Boise County, Idaho",
+    "Garden Valley, Boise County, Idaho",
+    "Dryad, Lewis County, Washington",
+    "Oakland, Alameda County, California"
    ],
    "personality": [],
    "roles": [],
@@ -12310,13 +12386,94 @@
     "adams_direct_line_summary_v1",
     "family_data_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, 1860 United States Federal Census (Township 9, Placer County, California; post office Secret Ravine)",
+    "Ancestry.com, 1870 United States Federal Census (Placerville, Boise County, Idaho Territory)",
+    "Ancestry.com, 1880 United States Federal Census (Garden Valley, Boise County, Idaho)",
+    "Ancestry.com, Idaho, U.S., Marriage Records, 1863-1974, and Idaho, U.S., Select Marriages (Presley N. Trumbo and Lizzie, or Louise, Buckley, Garden Valley, 25 Dec 1880)",
+    "Ancestry.com, Idaho, U.S., Birth Records, 1861-1924 (John Holmes Trumbo, certificate 318981)",
+    "Ancestry.com, 1920 United States Federal Census (Oakland, Alameda County, California)",
+    "Ancestry.com, California, U.S., Voter Registrations, 1900-1968 (Mrs. Hannah Louise Trumbo, Alameda County, 1936)",
+    "Ancestry.com, California, U.S., Death Index, 1905-1939 (Hannah L. Trumbo, Alameda County, 14 Mar 1939)",
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Hannah L. Trumbo, Oakland, 1939)"
    ],
    "notes": [
     "Mother of Serena Marie Nevada Trumbo (Nini). New to record.",
     "Precise birth and death dates newly established. Birth: Louisiana.",
     "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
-    "Her son John Holmes Trumbo's 1957 key calls her Hannah Lois Trumbo."
+    "Her son John Holmes Trumbo's 1957 key calls her Hannah Lois Trumbo.",
+    "CORRECTION 2026-09-24: She died on 14 Mar 1939 in Alameda County, California (California death index; newspaper obituary index, Oakland), not on 26 Dec 1941 in Sacramento. She is in Oakland city directories from 1925 to 1934 and registered to vote there in 1936 as Mrs. Hannah Louise Trumbo.",
+    "As a girl she was \"Louisa\": aged 3 (\"Hannah S.\") in 1860 in Placer County, California, with her parents David and Margaret Buckley and sisters Mary A. and Julia C., all three girls born in Louisiana; aged 12 in 1870 at Placerville, Boise County, Idaho, with her widowed mother and sister Mary Ann, both girls working as waiters; and aged 22 in 1880 at Garden Valley, Boise County, in her sister Mary Ann's household. The censuses put her birth in 1857–1858, and in 1880 give both her parents' birthplaces as Ireland.",
+    "Married Presley N. Trumbo at Garden Valley on 25 Dec 1880 as \"Lizzie\" (also indexed as Louise) Buckley; her son John Holmes Trumbo's Idaho birth record names her Hannah Louise Buckley. In 1920 she was \"Louise Trumbo\", born in Louisiana, in Oakland."
+   ]
+  },
+  {
+   "id": "buckley_margaret",
+   "name": "Margaret Buckley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1818",
+    "year": 1818,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "buckley_david"
+   ],
+   "children": [
+    "buckley_hannah_louise"
+   ],
+   "siblings": [],
+   "families": [
+    "F_buckley_david+buckley_margaret"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ireland",
+    "Louisiana",
+    "Township 9, Placer County, California",
+    "Placerville, Boise County, Idaho",
+    "Garden Valley, Boise County, Idaho"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Kept a boarding house at Placerville, Idaho (1870 census)."
+   ],
+   "sources": [
+    "Find a Grave, memorial 15925585 (Mary Ann Charters, Placerville Cemetery, Boise County, Idaho)",
+    "Ancestry.com, 1860 United States Federal Census (Township 9, Placer County, California; post office Secret Ravine)",
+    "Ancestry.com, 1870 United States Federal Census (Placerville, Boise County, Idaho Territory)",
+    "Ancestry.com, 1880 United States Federal Census (Garden Valley, Boise County, Idaho)"
+   ],
+   "notes": [
+    "Born in Ireland about 1815–1822 (aged 38 in 1860, 55 in 1870, 62 in 1880). Wife of David Buckley in Placer County, California, in 1860. By 1870 a widow keeping a boarding house at Placerville, Boise County, Idaho Territory (real estate $1,100), with her daughters Mary Ann (18) and Louisa (12). In 1880, widowed, she lived at Garden Valley, Boise County, with her son-in-law William Charters, Mary Ann and their children, and Louisa. Her maiden name is not recorded.",
+    "Inferred: the mother of Hannah Louise Buckley (Trumbo). Her daughter Mary Ann (Buckley) Charters was born on 10 Jul 1850 in Louisiana and died on 9 Nov 1898 at Placerville, Idaho (Find a Grave, memorial 15925585); a third daughter, Julia C., born about 1855, is not found after 1860."
    ]
   },
   {
@@ -28865,6 +29022,76 @@
    "notes": [
     "DNA match #21. Unplaced.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "holmes_susannah",
+   "name": "Susannah Holmes (Trumbo)",
+   "aliases": [
+    "Susannah Trumbo",
+    "Susan Trumbo"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "10 Jun 1804",
+    "year": 1804,
+    "qualifier": null
+   },
+   "death": {
+    "text": "4 Mar 1884",
+    "year": 1884,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "trumbo_presley_neville_1788"
+   ],
+   "children": [
+    "trumbo_presley_neville"
+   ],
+   "siblings": [],
+   "families": [
+    "F_holmes_susannah+trumbo_presley_neville_1788"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Harrison County, Ohio",
+    "Union Township, Van Buren County, Iowa",
+    "Greer Cemetery, Wayne County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Union, Van Buren County, Iowa)",
+    "Ancestry.com, Iowa, U.S., State Census Collection, 1836-1925 (1856, Union, Van Buren County)",
+    "Ancestry.com, 1860 United States Federal Census (Union, Van Buren County, Iowa; post office Utica)",
+    "Find a Grave, memorial 63426582 (Susannah Holmes Trumbo, Greer Cemetery, Wayne County, Iowa)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)"
+   ],
+   "notes": [
+    "Born 10 Jun 1804 in Harrison County, Ohio; died 4 Mar 1884, aged 79 years, 8 months and 23 days, and buried at Greer Cemetery, Wayne County, Iowa (Find a Grave). Aged 45 in 1850 and 51 in 1856 (\"Susan\"), wife of Presley Trumbo, in Union Township, Van Buren County. Her son Presley's 1900 census entry gives his mother's birthplace as Ohio.",
+    "Inferred: the mother of Presley Neville Trumbo (1840–1923), who is in her household in 1850, 1856 and 1860.",
+    "UNPROVEN lead: Find a Grave names her parents as Isaac Holmes (1774–1824) and Priscilla (Weirman) Holmes (1778–1855), and her brothers as William Wireman Holmes (1802–1873) and Isaac M. Holmes (1818–1892)."
    ]
   },
   {
@@ -59849,7 +60076,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "1923",
+    "text": "23 Oct 1923",
     "year": 1923,
     "qualifier": null
    },
@@ -59861,9 +60088,12 @@
     "trumbo"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "trumbo_presley_neville_1788",
+   "mother": "holmes_susannah",
+   "parents": [
+    "holmes_susannah",
+    "trumbo_presley_neville_1788"
+   ],
    "spouses": [
     "buckley_hannah_louise"
    ],
@@ -59879,14 +60109,18 @@
    "families": [
     "F_buckley_hannah_louise+trumbo_presley_neville"
    ],
-   "parent_family": null,
+   "parent_family": "F_holmes_susannah+trumbo_presley_neville_1788",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Kentucky",
     "Lewis County, WA",
-    "Chehalis, Washington"
+    "Chehalis, Washington",
+    "Pennsylvania",
+    "Union Township, Van Buren County, Iowa",
+    "Garden Valley, Boise County, Idaho",
+    "Dryad, Lewis County, Washington",
+    "Oakland, Alameda County, California"
    ],
    "personality": [],
    "roles": [],
@@ -59895,19 +60129,103 @@
    "risk_events": [],
    "milestones": [],
    "education": [],
-   "career": [],
+   "career": [
+    "Carpenter (1900 census)."
+   ],
    "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, 1850 United States Federal Census (Union, Van Buren County, Iowa)",
+    "Ancestry.com, Iowa, U.S., State Census Collection, 1836-1925 (1856, Union, Van Buren County)",
+    "Ancestry.com, 1860 United States Federal Census (Union, Van Buren County, Iowa; post office Utica)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)",
+    "Ancestry.com, Idaho, U.S., Marriage Records, 1863-1974, and Idaho, U.S., Select Marriages (Presley N. Trumbo and Lizzie, or Louise, Buckley, Garden Valley, 25 Dec 1880)",
+    "Ancestry.com, Idaho, U.S., Birth Records, 1861-1924 (John Holmes Trumbo, certificate 318981)",
+    "Ancestry.com, U.S., Civil War Pension Index: General Index to Pension Files, 1861-1934 (Presley Trumbo, 46th Iowa Infantry, Company K)",
+    "Ancestry.com, California, U.S., Death Index, 1905-1939 (Presley Trumbo, Alameda County, 23 Oct 1923)",
+    "Ancestry.com, 1920 United States Federal Census (Oakland, Alameda County, California)"
    ],
    "notes": [
     "Father of Serena Marie Nevada Trumbo (Nini). New to record.",
     "Date conflict — birth: this source gives '30 May 1840', prior has '1840'. Retain both pending verification.",
     "Precise birth day/month established: 30 May 1840. Prior had year only.",
     "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
-    "He built the family house at Chehalis in 1890; his son John Holmes Trumbo wrote in 1957 that it was still occupied with very few alterations."
+    "He built the family house at Chehalis in 1890; his son John Holmes Trumbo wrote in 1957 that it was still occupied with very few alterations.",
+    "CORRECTION 2026-09-24: He was born in Pennsylvania, not Kentucky: the 1850, 1856 and 1900 censuses and his son John Holmes Trumbo's Idaho birth record all give Pennsylvania. The 1900 census gives his father's birthplace as Pennsylvania and his mother's as Ohio.",
+    "Grew up in Union Township, Van Buren County, Iowa: aged 10 in 1850, 15 in 1856 and about 20 in 1860, in the household of Presley and Susannah Trumbo with Matilda, Amos (\"Ames\"), Serene, John, Travilla, Sarah, Emalinda, Clarinda and Theodore. Served in Company K, 46th Iowa Infantry, in the Civil War; his pension application was filed on 28 Jul 1890.",
+    "Married \"Lizzie\" (also indexed as Louise) Buckley, Hannah Louise Buckley, on 25 Dec 1880 at Garden Valley, Boise County, Idaho. In 1900 he was a carpenter at Dryad, Lewis County, Washington, married 19 years. He died on 23 Oct 1923 in Alameda County, California, aged 83; his widow was living in Oakland by 1920."
+   ]
+  },
+  {
+   "id": "trumbo_presley_neville_1788",
+   "name": "Presley Neville Trumbo",
+   "aliases": [
+    "Presley Trumbo"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "21 May 1788",
+    "year": 1788,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1869",
+    "year": 1869,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "holmes_susannah"
+   ],
+   "children": [
+    "trumbo_presley_neville"
+   ],
+   "siblings": [],
+   "families": [
+    "F_holmes_susannah+trumbo_presley_neville_1788"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Allegheny County, Pennsylvania",
+    "Union Township, Van Buren County, Iowa",
+    "Fordyce Cemetery, Stockport, Van Buren County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Farmer (1860 census)."
+   ],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Union, Van Buren County, Iowa)",
+    "Ancestry.com, Iowa, U.S., State Census Collection, 1836-1925 (1856, Union, Van Buren County)",
+    "Ancestry.com, 1860 United States Federal Census (Union, Van Buren County, Iowa; post office Utica)",
+    "Find a Grave, memorial 63427388 (Presley Neville Trumbo, Fordyce Cemetery, Stockport, Van Buren County, Iowa)"
+   ],
+   "notes": [
+    "Born 21 May 1788 in Allegheny County, Pennsylvania; died 1869 and buried at Fordyce Cemetery, Stockport, Van Buren County, Iowa, where his grave was moved from its first site (Find a Grave). A farmer in Union Township, Van Buren County, in 1850 (aged 62), 1856 (68) and 1860 (72; real estate $1,920).",
+    "Inferred: the father of Presley Neville Trumbo (1840–1923), who is in his household in 1850, 1856 and 1860. The son's eldest boy was named John Holmes Trumbo, after this couple's son John Holmes Trumbo (1833–1899) and Susannah's family name.",
+    "UNPROVEN lead: Find a Grave names his father as John James Trumbo Sr. (1745–1819, born in Rockingham County, Virginia, buried in the Trumbo Cemetery, Jefferson Hills, Allegheny County, Pennsylvania), and his mother as Mary Custer."
    ]
   },
   {
@@ -65407,6 +65725,17 @@
    "marriage": "17 Dec 1993"
   },
   {
+   "id": "F_buckley_david+buckley_margaret",
+   "partners": [
+    "buckley_david",
+    "buckley_margaret"
+   ],
+   "children": [
+    "buckley_hannah_louise"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_buckley_hannah_louise+trumbo_presley_neville",
    "partners": [
     "buckley_hannah_louise",
@@ -66638,6 +66967,17 @@
    ],
    "children": [],
    "marriage": "1902"
+  },
+  {
+   "id": "F_holmes_susannah+trumbo_presley_neville_1788",
+   "partners": [
+    "holmes_susannah",
+    "trumbo_presley_neville_1788"
+   ],
+   "children": [
+    "trumbo_presley_neville"
+   ],
+   "marriage": null
   },
   {
    "id": "F_holter_duane+rhinehart_janet",

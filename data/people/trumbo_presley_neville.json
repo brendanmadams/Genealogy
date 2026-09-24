@@ -2,7 +2,7 @@
   "id": "trumbo_presley_neville",
   "name": "Presley Neville Trumbo",
   "birth": "1840",
-  "death": "1923",
+  "death": "23 Oct 1923",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -10,10 +10,12 @@
   "risk_events": [],
   "milestones": [],
   "education": [],
-  "career": [],
+  "career": [
+    "Carpenter (1900 census)."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "holmes_susannah",
+    "father": "trumbo_presley_neville_1788",
     "siblings": [],
     "spouse": "buckley_hannah_louise",
     "children": [
@@ -26,22 +28,38 @@
     ]
   },
   "locations": [
-    "Kentucky",
     "Lewis County, WA",
-    "Chehalis, Washington"
+    "Chehalis, Washington",
+    "Pennsylvania",
+    "Union Township, Van Buren County, Iowa",
+    "Garden Valley, Boise County, Idaho",
+    "Dryad, Lewis County, Washington",
+    "Oakland, Alameda County, California"
   ],
   "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)",
+    "Ancestry.com, 1850 United States Federal Census (Union, Van Buren County, Iowa)",
+    "Ancestry.com, Iowa, U.S., State Census Collection, 1836-1925 (1856, Union, Van Buren County)",
+    "Ancestry.com, 1860 United States Federal Census (Union, Van Buren County, Iowa; post office Utica)",
+    "Ancestry.com, 1900 United States Federal Census (Dryad, Lewis County, Washington)",
+    "Ancestry.com, Idaho, U.S., Marriage Records, 1863-1974, and Idaho, U.S., Select Marriages (Presley N. Trumbo and Lizzie, or Louise, Buckley, Garden Valley, 25 Dec 1880)",
+    "Ancestry.com, Idaho, U.S., Birth Records, 1861-1924 (John Holmes Trumbo, certificate 318981)",
+    "Ancestry.com, U.S., Civil War Pension Index: General Index to Pension Files, 1861-1934 (Presley Trumbo, 46th Iowa Infantry, Company K)",
+    "Ancestry.com, California, U.S., Death Index, 1905-1939 (Presley Trumbo, Alameda County, 23 Oct 1923)",
+    "Ancestry.com, 1920 United States Federal Census (Oakland, Alameda County, California)"
   ],
   "notes": [
     "Father of Serena Marie Nevada Trumbo (Nini). New to record.",
     "Date conflict — birth: this source gives '30 May 1840', prior has '1840'. Retain both pending verification.",
     "Precise birth day/month established: 30 May 1840. Prior had year only.",
     "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
-    "He built the family house at Chehalis in 1890; his son John Holmes Trumbo wrote in 1957 that it was still occupied with very few alterations."
+    "He built the family house at Chehalis in 1890; his son John Holmes Trumbo wrote in 1957 that it was still occupied with very few alterations.",
+    "CORRECTION 2026-09-24: He was born in Pennsylvania, not Kentucky: the 1850, 1856 and 1900 censuses and his son John Holmes Trumbo's Idaho birth record all give Pennsylvania. The 1900 census gives his father's birthplace as Pennsylvania and his mother's as Ohio.",
+    "Grew up in Union Township, Van Buren County, Iowa: aged 10 in 1850, 15 in 1856 and about 20 in 1860, in the household of Presley and Susannah Trumbo with Matilda, Amos (\"Ames\"), Serene, John, Travilla, Sarah, Emalinda, Clarinda and Theodore. Served in Company K, 46th Iowa Infantry, in the Civil War; his pension application was filed on 28 Jul 1890.",
+    "Married \"Lizzie\" (also indexed as Louise) Buckley, Hannah Louise Buckley, on 25 Dec 1880 at Garden Valley, Boise County, Idaho. In 1900 he was a carpenter at Dryad, Lewis County, Washington, married 19 years. He died on 23 Oct 1923 in Alameda County, California, aged 83; his widow was living in Oakland by 1920."
   ],
   "sex": "M",
   "aliases": [
