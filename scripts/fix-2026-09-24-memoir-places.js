@@ -20,7 +20,8 @@ const { load, save } = require('./lib/records');
 const REMOVE = {
   ethel_quinn_schriefer: ['Nicklas Avenue', 'Washington D.C.', 'Gettysburg PA', 'Ocean City MD', 'University of Virginia Charlottesville'],
   john_howard_adams: ['Nicklas Avenue', 'Washington D.C.', 'Gettysburg PA', 'Ocean City MD', 'University of Virginia Charlottesville',
-    'Henry’s', 'Edmonton', 'Calgary', 'Canada', 'Guam', 'Czechoslovakia', 'Seattle Pacific University', 'UW', 'University of Washington', 'Portland State', 'Tucson AZ'],
+    'Henry’s', 'Edmonton', 'Calgary', 'Canada', 'Guam', 'Czechoslovakia', 'Seattle Pacific University', 'UW', 'University of Washington', 'Portland State', 'Tucson AZ',
+    'Meridian MI'],   // a duplicate of Meridian Mississippi
   chuck_mckeldin: ['Ocean City MD', 'Ocean City', 'Chesapeake Bay', 'Memorial Stadium', 'Baltimore Zoo', 'Herring Run Park', 'Annapolis', 'Fort McHenry'],
   j_michael_mckeldin: ['Ocean City', 'Chesapeake Bay', 'Memorial Stadium', 'Baltimore Zoo'],
   barbara_mckeldin_adams: ['heaven', 'hell', 'purgatory', 'Bethlehem', 'Cana', 'Gethsemane', 'London'],
