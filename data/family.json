@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T16:50:00.379Z",
+  "generated": "2026-09-24T16:59:09.514Z",
   "people": 887,
   "family_members": 837,
   "dna_matches": 50,
@@ -11293,11 +11293,12 @@
     "Etta May Burch Forester",
     "Addie May Burch"
    ],
-   "photo": null,
+   "photo": "images/burch_etta.jpg",
    "card_name": null,
    "sex": "F",
    "media": [
-    "marriage-1896-forester-burch"
+    "marriage-1896-forester-burch",
+    "forester-etta-jennie"
    ],
    "birth": {
     "text": "1875",
@@ -17263,11 +17264,13 @@
    "id": "forester_charles_elmer",
    "name": "Charles Elmer “Charlie” Forester",
    "aliases": [],
-   "photo": null,
+   "photo": "images/forester_charles_elmer.jpg",
    "card_name": null,
    "sex": "M",
    "media": [
-    "marriage-1896-forester-burch"
+    "marriage-1896-forester-burch",
+    "forester-charles-1945",
+    "forester-charles-headstone"
    ],
    "birth": {
     "text": "22 Jan 1875",
@@ -17342,10 +17345,12 @@
    "id": "forester_dorothy_jean",
    "name": "Dorothy Jean Forester (Cox)",
    "aliases": [],
-   "photo": null,
+   "photo": "images/forester_dorothy_jean.jpg",
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "forester-glenn-dorothy"
+   ],
    "birth": {
     "text": "22 Oct 1931",
     "year": 1931,
@@ -17415,7 +17420,8 @@
    "media": [
     "forester-ivan-glenn-boys",
     "forester-glenn-baby",
-    "marriage-1917-forester-borton"
+    "marriage-1917-forester-borton",
+    "forester-glenn-dorothy"
    ],
    "birth": {
     "text": "15 Mar 1897",
@@ -17622,7 +17628,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "forester-stephen-rebecca-headstone"
+   ],
    "birth": {
     "text": "1854",
     "year": 1854,
@@ -49731,7 +49739,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "forester-stephen-rebecca-headstone"
+   ],
    "birth": {
     "text": "25 Jun 1855",
     "year": 1855,
@@ -67220,6 +67230,73 @@
    "files": [
     "media/marriage-1945-mckeldin-poehlman-01.jpg",
     "media/marriage-1945-mckeldin-poehlman-02.jpg"
+   ]
+  },
+  {
+   "id": "forester-charles-1945",
+   "kind": "photo",
+   "title": "Charles Elmer Forester, 4 June 1945",
+   "caption": "Charlie Forester at 70, standing by a car; dated 4 Jun 1945 in the tree.",
+   "source": "Shared on Ancestry.com by wtmbbanjo, 20 Mar 2013; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_charles_elmer"
+   ],
+   "files": [
+    "media/forester-charles-1945.jpg"
+   ]
+  },
+  {
+   "id": "forester-etta-jennie",
+   "kind": "photo",
+   "title": "Etta (Burch) Forester and Aunt Jennie",
+   "caption": "Etta Burch Forester (left) and Jennie Forker Forester (right), standing by a car in the 1940s.",
+   "source": "Shared on Ancestry.com by wtmbbanjo, 4 Jun 2013; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "burch_etta"
+   ],
+   "files": [
+    "media/forester-etta-jennie.jpg"
+   ]
+  },
+  {
+   "id": "forester-glenn-dorothy",
+   "kind": "photo",
+   "title": "Glenn Forester and his daughter Dorothy",
+   "caption": "Glenn C. Forester and his daughter Dorothy Jean, seated on the grass, 1940s. The tree notes that her mother, Ruth (Borton) Forester, is not pictured.",
+   "source": "Shared on Ancestry.com by wtmbbanjo, 21 Feb 2013; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_glenn_c",
+    "forester_dorothy_jean"
+   ],
+   "files": [
+    "media/forester-glenn-dorothy.jpg"
+   ]
+  },
+  {
+   "id": "forester-stephen-rebecca-headstone",
+   "kind": "photo",
+   "title": "Headstone of Stephen S. and Rebecca A. Forester",
+   "caption": "The shared Forester stone: Stephen, born 11 Oct 1854, and \"Rebecca A. his wife\", 1855–1904. Rebecca Ann was a daughter of Henry and Mary Simons and a sister of Aaron Simons.",
+   "source": "Shared on Ancestry.com by wtmbbanjo, 20 Mar 2013; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_stephen_s",
+    "simons_ann_1854"
+   ],
+   "files": [
+    "media/forester-stephen-rebecca-headstone.jpg"
+   ]
+  },
+  {
+   "id": "forester-charles-headstone",
+   "kind": "photo",
+   "title": "Headstone of Charles E. Forester",
+   "caption": "Charles E. Forester, 1875–1954; Section 1, Lot 352, in Hillsdale County, Michigan.",
+   "source": "Shared on Ancestry.com by wtmbbanjo, 21 Feb 2013; from the public member tree \"Cox Family Tree\".",
+   "people": [
+    "forester_charles_elmer"
+   ],
+   "files": [
+    "media/forester-charles-headstone.jpg"
    ]
   }
  ]

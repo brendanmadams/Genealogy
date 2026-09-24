@@ -3,7 +3,7 @@
  * 2026-09-24, photos and record images saved from Ancestry.com public member
  * trees with Brendan Adams's approval. Published here: photos taken before
  * 1930 and record images. Later snapshots and headstone photos were saved to
- * the private image folder but are held until their owners agree. Adds items
+ * the private image folder; those shared by wtmbbanjo were added once he agreed. Adds items
  * to data/media.json; re-runnable. Then run scripts/prepare-media.ps1 and
  * scripts/build.js.
  * Also records what the images and the Kulp-Ritchey-Dorsett tree show:
@@ -98,6 +98,50 @@ const items = [
     source: `Baltimore City marriage licence 5549 and Baltimore Catholic parish marriage register, 1945. ${shared('cmfrank63', '28 Jun 2017', QUINN)}`,
     people: ['charles_buckey_mckeldin', 'emily_schrieffer_mckeldin', 'mckeldin_charles_i', 'emma_bell_mckeldin', 'schriefer_george_goode', 'ethel_quinn_schriefer'],
     pages: ['ancestry_mckeldin_poehlman_1945_license.jpg', 'ancestry_mckeldin_poehlman_1945_church.jpg'],
+  },
+  // published once the sharer, wtmbbanjo, agreed (Brendan Adams, 24 Sep 2026)
+  {
+    id: 'forester-charles-1945', kind: 'photo',
+    file: 'ancestry_forester_charles_3.jpg',
+    title: 'Charles Elmer Forester, 4 June 1945',
+    caption: 'Charlie Forester at 70, standing by a car; dated 4 Jun 1945 in the tree.',
+    source: shared('wtmbbanjo', '20 Mar 2013', COX),
+    people: ['forester_charles_elmer'],
+    portraits: [{ person: 'forester_charles_elmer', crop: [298, 45, 150] }],
+  },
+  {
+    id: 'forester-etta-jennie', kind: 'photo',
+    file: 'ancestry_burch_etta_aunt_jennie.jpg',
+    title: 'Etta (Burch) Forester and Aunt Jennie',
+    caption: 'Etta Burch Forester (left) and Jennie Forker Forester (right), standing by a car in the 1940s.',
+    source: shared('wtmbbanjo', '4 Jun 2013', COX),
+    people: ['burch_etta'],
+    portraits: [{ person: 'burch_etta', crop: [322, 232, 125] }],
+  },
+  {
+    id: 'forester-glenn-dorothy', kind: 'photo',
+    file: 'ancestry_forester_glenn_dorothy.jpg',
+    title: 'Glenn Forester and his daughter Dorothy',
+    caption: 'Glenn C. Forester and his daughter Dorothy Jean, seated on the grass, 1940s. The tree notes that her mother, Ruth (Borton) Forester, is not pictured.',
+    source: shared('wtmbbanjo', '21 Feb 2013', COX),
+    people: ['forester_glenn_c', 'forester_dorothy_jean'],
+    portraits: [{ person: 'forester_dorothy_jean', crop: [298, 372, 105] }],
+  },
+  {
+    id: 'forester-stephen-rebecca-headstone', kind: 'photo',
+    file: 'ancestry_forester_rebecca_headstone.jpg',
+    title: 'Headstone of Stephen S. and Rebecca A. Forester',
+    caption: 'The shared Forester stone: Stephen, born 11 Oct 1854, and "Rebecca A. his wife", 1855–1904. Rebecca Ann was a daughter of Henry and Mary Simons and a sister of Aaron Simons.',
+    source: shared('wtmbbanjo', '20 Mar 2013', COX),
+    people: ['forester_stephen_s', 'simons_ann_1854'],
+  },
+  {
+    id: 'forester-charles-headstone', kind: 'photo',
+    file: 'ancestry_forester_charles_headstone.jpg',
+    title: 'Headstone of Charles E. Forester',
+    caption: 'Charles E. Forester, 1875–1954; Section 1, Lot 352, in Hillsdale County, Michigan.',
+    source: shared('wtmbbanjo', '21 Feb 2013', COX),
+    people: ['forester_charles_elmer'],
   },
 ];
 const cfg = JSON.parse(fs.readFileSync(MEDIA, 'utf8'));
