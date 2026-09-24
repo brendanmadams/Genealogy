@@ -1651,6 +1651,33 @@
         "ancestry_trumbo_house_chehalis.jpg",
         "ancestry_trumbo_house_chehalis_key.jpg"
       ]
+    },
+    {
+      "id": "grave-gfa2-valley-view",
+      "kind": "album",
+      "title": "Grave of George Francis Adams (#2), Valley View Cemetery, Sutherlin, Oregon",
+      "caption": "Photographed 10 Mar 2011. Page 1: his marker, \"George F. Adams, 1876–1920\". Page 2: the upright ADAMS stone, with an iron veteran's marker in front. Page 3: the marker, \"U.S.W.V. 1898\", the emblem of the United Spanish War Veterans, for his 1898 enlistment.",
+      "source": "Photographs shared on Ancestry.com by ry4832020, 21 May 2013 (Find a Grave memorial 83796381); published with the photographer's permission.",
+      "people": [
+        "adams_george_francis_2"
+      ],
+      "pages": [
+        "ancestry_gfa2_stone_3.jpg",
+        "ancestry_gfa2_stone_2.jpg",
+        "ancestry_gfa2_stone_1.jpg"
+      ]
+    },
+    {
+      "id": "grave-childs-willamette",
+      "kind": "photo",
+      "file": "ancestry_childs_stone.jpg",
+      "title": "Niche marker of Thomas W. and Edith (Adams) Childs, Willamette National Cemetery",
+      "caption": "\"Childs, Thomas W, Capt USA, WWII, 1908–1998\" and \"Edith Adams, 1912–2000\", in the columbarium at Willamette National Cemetery, Portland, Oregon (Col-2, row 198, site C).",
+      "source": "Photograph shared on Ancestry.com by PatSmithPetty, 6 Oct 2018; published with the photographer's permission.",
+      "people": [
+        "childs_thomas",
+        "adams_edith_v"
+      ]
     }
   ]
 }

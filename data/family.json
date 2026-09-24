@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T18:08:19.178Z",
+  "generated": "2026-09-24T18:09:37.505Z",
   "people": 893,
   "family_members": 844,
   "dna_matches": 49,
@@ -1061,7 +1061,8 @@
     "birth-1912-edith-van-tyne-adams",
     "census-1920-sutherlin-adams",
     "census-1930-burlingame-wells",
-    "census-1940-portland-childs"
+    "census-1940-portland-childs",
+    "grave-childs-willamette"
    ],
    "birth": {
     "text": "29 Apr 1912",
@@ -2461,7 +2462,8 @@
     "birth-1910-pressley-alfred-adams",
     "birth-1912-edith-van-tyne-adams",
     "birth-1916-george-francis-adams",
-    "census-1920-sutherlin-adams"
+    "census-1920-sutherlin-adams",
+    "grave-gfa2-valley-view"
    ],
    "birth": {
     "text": "24 Aug 1876",
@@ -2602,7 +2604,8 @@
     "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]",
     "The Oregon death index records his death on 7 Feb 1920 in Douglas County, which settles the date; Trudy's 1918 was mistaken.",
     "On his children's birth certificates he is a druggist or pharmacist, born in Missouri: at Roseburg in 1910 (aged 33) and 1916, and at Sutherlin in 1912 (aged 35).",
-    "Born 24 Aug 1876 in Chariton County, Missouri; registered for the WWI draft in 1917 at Sutherlin as a druggist in his own business; died 7 Feb 1920 at Oakland, Douglas County, and buried at Valley View Cemetery, Sutherlin (Turner / Harvey Family Tree, citing Find a Grave memorial 83796381, with photographs of his headstone, \"George F. Adams 1876–1920\")."
+    "Born 24 Aug 1876 in Chariton County, Missouri; registered for the WWI draft in 1917 at Sutherlin as a druggist in his own business; died 7 Feb 1920 at Oakland, Douglas County, and buried at Valley View Cemetery, Sutherlin (Turner / Harvey Family Tree, citing Find a Grave memorial 83796381, with photographs of his headstone, \"George F. Adams 1876–1920\").",
+    "His grave at Valley View Cemetery, Sutherlin, has a flat marker, \"George F. Adams, 1876–1920\", beside an upright ADAMS stone, and an iron United Spanish War Veterans marker, \"U.S.W.V. 1898\"."
    ]
   },
   {
@@ -13236,7 +13239,8 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "census-1940-portland-childs"
+    "census-1940-portland-childs",
+    "grave-childs-willamette"
    ],
    "birth": {
     "text": "20 May 1908",
@@ -68084,6 +68088,35 @@
    "files": [
     "media/trumbo-house-chehalis-01.jpg",
     "media/trumbo-house-chehalis-02.jpg"
+   ]
+  },
+  {
+   "id": "grave-gfa2-valley-view",
+   "kind": "album",
+   "title": "Grave of George Francis Adams (#2), Valley View Cemetery, Sutherlin, Oregon",
+   "caption": "Photographed 10 Mar 2011. Page 1: his marker, \"George F. Adams, 1876–1920\". Page 2: the upright ADAMS stone, with an iron veteran's marker in front. Page 3: the marker, \"U.S.W.V. 1898\", the emblem of the United Spanish War Veterans, for his 1898 enlistment.",
+   "source": "Photographs shared on Ancestry.com by ry4832020, 21 May 2013 (Find a Grave memorial 83796381); published with the photographer's permission.",
+   "people": [
+    "adams_george_francis_2"
+   ],
+   "files": [
+    "media/grave-gfa2-valley-view-01.jpg",
+    "media/grave-gfa2-valley-view-02.jpg",
+    "media/grave-gfa2-valley-view-03.jpg"
+   ]
+  },
+  {
+   "id": "grave-childs-willamette",
+   "kind": "photo",
+   "title": "Niche marker of Thomas W. and Edith (Adams) Childs, Willamette National Cemetery",
+   "caption": "\"Childs, Thomas W, Capt USA, WWII, 1908–1998\" and \"Edith Adams, 1912–2000\", in the columbarium at Willamette National Cemetery, Portland, Oregon (Col-2, row 198, site C).",
+   "source": "Photograph shared on Ancestry.com by PatSmithPetty, 6 Oct 2018; published with the photographer's permission.",
+   "people": [
+    "childs_thomas",
+    "adams_edith_v"
+   ],
+   "files": [
+    "media/grave-childs-willamette.jpg"
    ]
   }
  ]
