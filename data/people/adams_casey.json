@@ -1,8 +1,8 @@
 {
   "id": "adams_casey",
   "name": "Casey Adams",
-  "birth": "",
-  "death": "deceased",
+  "birth": "15 Jan 1944",
+  "death": "16 Dec 1997",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -24,14 +24,17 @@
   "locations": [],
   "sources": [
     "Brendan Adams (personal knowledge), 2026",
-    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
   ],
   "notes": [
     "Never married; deceased.",
-    "Probably the \"Kathleen Adams\" named as Presley's daughter in his 1987 obituary, unmarried then; Casey would be a nickname."
+    "Probably the \"Kathleen Adams\" named as Presley's daughter in his 1987 obituary, unmarried then; Casey would be a nickname.",
+    "The Turner / Harvey Family Tree gives Presley's daughter as Kathleen Nancy Adams, 15 Jan 1944 – 16 Dec 1997."
   ],
   "aliases": [
-    "Kathleen Adams"
+    "Kathleen Adams",
+    "Kathleen Nancy Adams"
   ],
   "sex": "F"
 }

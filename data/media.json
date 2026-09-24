@@ -1519,6 +1519,138 @@
       "people": [
         "forester_charles_elmer"
       ]
+    },
+    {
+      "id": "birth-1910-pressley-alfred-adams",
+      "kind": "document",
+      "file": "ancestry_birth_1910_pressley_alfred_adams.jpg",
+      "title": "Birth certificate of Pressley Alfred Adams, 22 June 1910",
+      "caption": "Roseburg, Douglas County, Oregon, registered no. 2498: Pressley Alfred Adams, male, born 22 Jun 1910 at 7 p.m., the first child of Geo. F. Adams, 33, druggist, born in Missouri, and Serena Trumbo, 20, born in Washington, of Roseburg. Attended by E. V. Hoover, M.D.; filed July 1910. As an adult he used Presley Mark Adams.",
+      "source": "Oregon, U.S., State Births, 1842-1924, Douglas County, 1910; image from Ancestry.com. Original: Oregon State Archives, Salem.",
+      "people": [
+        "adams_presley",
+        "adams_george_francis_2",
+        "trumbo_serena_marie"
+      ]
+    },
+    {
+      "id": "birth-1912-edith-van-tyne-adams",
+      "kind": "document",
+      "file": "ancestry_birth_1912_edith_van_tyne_adams.jpg",
+      "title": "Birth certificate of Edith Van Tyne Adams, 29 April 1912",
+      "caption": "Sutherlin, Douglas County, Oregon, registered no. 1847, stamped \"ALTERED\": a girl born 29 Apr 1912, the second child of Geo. F. Adams, 35, pharmacist, born in Missouri, and Serena Trumbo, born in Washington, housewife. The given names \"Edith Van Tyne\" were added in red later, by affidavit.",
+      "source": "Oregon, U.S., State Births, 1842-1924, Douglas County, 1912; image from Ancestry.com. Original: Oregon State Archives, Salem.",
+      "people": [
+        "adams_edith_v",
+        "adams_george_francis_2",
+        "trumbo_serena_marie"
+      ]
+    },
+    {
+      "id": "birth-1916-george-francis-adams",
+      "kind": "document",
+      "file": "ancestry_birth_1916_george_francis_adams.jpg",
+      "title": "Birth certificate of George Francis Adams, 10 March 1916",
+      "caption": "Oregon State Board of Health certificate no. 25: George Francis Adams, male, born 10 Mar 1916 at Mercy Hospital, Roseburg, the third child of George Francis Adams, 38, druggist, born in Missouri, and Serena Trumbo, 26, born at Chehalis, Washington, housewife, of Sutherlin. The given name was added from a supplemental report dated 25 Mar 1916.",
+      "source": "Oregon, U.S., State Births, 1842-1924, Douglas County, March 1916; image from Ancestry.com. Original: Oregon State Archives, Salem.",
+      "people": [
+        "george_francis_adams_sr",
+        "adams_george_francis_2",
+        "trumbo_serena_marie"
+      ]
+    },
+    {
+      "id": "census-1920-sutherlin-adams",
+      "kind": "document",
+      "file": "ancestry_1920_census_sutherlin_adams.jpg",
+      "title": "1920 census: the Adams household, Sutherlin, Douglas County, Oregon",
+      "caption": "George F. Adams (43), a druggist, born in Missouri, with his wife Serena M. N. (30) and their children Presley (9), Edith V. (7) and \"Edward G.\" (3). Taken in January 1920, a few weeks before George's death on 7 February.",
+      "source": "1920 United States Federal Census, Sutherlin, Douglas County, Oregon, ED 146, page 9B (NARA T625, roll 1494); image from Ancestry.com. Original: National Archives and Records Administration.",
+      "people": [
+        "adams_george_francis_2",
+        "trumbo_serena_marie",
+        "george_francis_adams_sr",
+        "adams_presley",
+        "adams_edith_v"
+      ]
+    },
+    {
+      "id": "census-1930-burlingame-wells",
+      "kind": "document",
+      "file": "ancestry_1930_census_burlingame_wells.jpg",
+      "title": "1930 census: the Wells household, 1315 Drake Avenue, Burlingame, California",
+      "caption": "Arthur T. Wells (39), his wife Serena M. (40), his stepchildren Presley M. Adams (20), Edith V. Adams (17) and \"George F. Wells\" (14), and his daughters Rosemary (12) and Daphne L. (5).",
+      "source": "1930 United States Federal Census, Burlingame, San Mateo County, California, ED 2, page 10B (FHL microfilm 2339951); image from Ancestry.com. Original: National Archives and Records Administration.",
+      "people": [
+        "wells_arthur",
+        "trumbo_serena_marie",
+        "george_francis_adams_sr",
+        "adams_presley",
+        "adams_edith_v",
+        "wells_rosemary",
+        "wells_daphne"
+      ]
+    },
+    {
+      "id": "census-1940-richmond-presley-adams",
+      "kind": "document",
+      "file": "ancestry_1940_census_richmond_presley_adams.jpg",
+      "title": "1940 census: Presley and Frances Adams, 140 Santa Fe Avenue, Richmond, California",
+      "caption": "Presley Adams (29), a laboratory technician, born in Oregon, with four years of college; his wife Frances (24); and their son, 8 months old.",
+      "source": "1940 United States Federal Census, Richmond, Contra Costa County, California, ED 7-62, sheet 13B (NARA T627, roll 198); image from Ancestry.com. Original: National Archives and Records Administration.",
+      "people": [
+        "adams_presley",
+        "adams_fran",
+        "adams_frederick_s"
+      ]
+    },
+    {
+      "id": "census-1940-portland-childs",
+      "kind": "document",
+      "file": "ancestry_1940_census_portland_childs.jpg",
+      "title": "1940 census: Thomas and Edith Childs, NE 46th Avenue, Portland, Oregon",
+      "caption": "Thomas W. Childs (31), his wife Edith (27), born in Oregon, and their son George C. (2). In 1935 they were living in Philadelphia.",
+      "source": "1940 United States Federal Census, Portland, Multnomah County, Oregon, ED 37-263, sheet 1B (NARA T627, roll 3389); image from Ancestry.com. Original: National Archives and Records Administration.",
+      "people": [
+        "childs_thomas",
+        "adams_edith_v",
+        "childs_george_c"
+      ]
+    },
+    {
+      "id": "draft-ww2-presley-mark-adams",
+      "kind": "album",
+      "title": "WWII draft registration card of Presley Mark Adams, 16 October 1940",
+      "caption": "Serial no. 875: Presley Mark Adams, 140 Santa Fe Avenue, Richmond, California, aged 30, born 21 Jun 1910 at Roseburg, Oregon; his wife Mrs. Frances Adams; employed by the Standard Oil Company of California. Page 2: 6 ft, 200 lb, blue eyes, brown hair, light complexion, a scar on the left wrist.",
+      "source": "U.S., World War II Draft Registration Cards, California, 1940-1947 (Records of the Selective Service System, RG 147); images from Ancestry.com. Original: National Archives and Records Administration, St. Louis.",
+      "people": [
+        "adams_presley",
+        "adams_fran"
+      ],
+      "pages": [
+        "ancestry_ww2_draft_presley_mark_adams_p1.jpg",
+        "ancestry_ww2_draft_presley_mark_adams_p2.jpg"
+      ]
+    },
+    {
+      "id": "trumbo-house-chehalis",
+      "kind": "album",
+      "title": "The Trumbo family at their house in Chehalis, Washington, about 1891",
+      "caption": "Page 1: the house Presley N. Trumbo built at Chehalis in 1890, with the family numbered: his father Presley at the door (1), his mother holding the baby Serena (2 and 7), and the other children on the porch and by the fence. Page 2: the key written by John Holmes Trumbo in 1957: \"The old home in Chehalis built by my father in 1890. The house is still occupied and has had very few alterations.\" He lists his father Presley Nevil Trumbo, born 1840; his mother Hannah Lois Trumbo; himself, John Holmes Trumbo, 1881; his sisters Lizzie Buckley Trumbo, 1883, and Gertrude Trumbo, 1885; his brother Presley Nevil Trumbo, 1887; and his sister Serena Maria Nevada Trumbo.",
+      "source": "Shared on Ancestry.com by Therese Roberson, 21 Jan 2018; from the public member tree \"Turner / Harvey Family Tree\".",
+      "people": [
+        "trumbo_presley_neville",
+        "buckley_hannah_louise",
+        "trumbo_serena_marie",
+        "trumbo_john_holmes",
+        "trumbo_lizzie_buckley",
+        "trumbo_gertrude",
+        "trumbo_presley_nevil_jr"
+      ],
+      "pages": [
+        "ancestry_trumbo_house_chehalis.jpg",
+        "ancestry_trumbo_house_chehalis_key.jpg"
+      ]
     }
   ]
 }

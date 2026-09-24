@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-09-24T17:45:53.440Z",
-  "people": 889,
-  "family_members": 840,
+  "generated": "2026-09-24T18:04:19.475Z",
+  "people": 893,
+  "family_members": 844,
   "dna_matches": 49,
-  "connected_people": 840,
+  "connected_people": 844,
   "families": 303,
   "branches": [
    "adams",
@@ -779,20 +779,21 @@
    "id": "adams_casey",
    "name": "Casey Adams",
    "aliases": [
-    "Kathleen Adams"
+    "Kathleen Adams",
+    "Kathleen Nancy Adams"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "15 Jan 1944",
+    "year": 1944,
     "qualifier": null
    },
    "death": {
-    "text": "deceased",
-    "year": null,
+    "text": "16 Dec 1997",
+    "year": 1997,
     "qualifier": null
    },
    "living": false,
@@ -833,11 +834,13 @@
    "career": [],
    "sources": [
     "Brendan Adams (personal knowledge), 2026",
-    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
    ],
    "notes": [
     "Never married; deceased.",
-    "Probably the \"Kathleen Adams\" named as Presley's daughter in his 1987 obituary, unmarried then; Casey would be a nickname."
+    "Probably the \"Kathleen Adams\" named as Presley's daughter in his 1987 obituary, unmarried then; Casey would be a nickname.",
+    "The Turner / Harvey Family Tree gives Presley's daughter as Kathleen Nancy Adams, 15 Jan 1944 – 16 Dec 1997."
    ]
   },
   {
@@ -1054,7 +1057,11 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "george-f-adams-family-1919"
+    "george-f-adams-family-1919",
+    "birth-1912-edith-van-tyne-adams",
+    "census-1920-sutherlin-adams",
+    "census-1930-burlingame-wells",
+    "census-1940-portland-childs"
    ],
    "birth": {
     "text": "29 Apr 1912",
@@ -1105,7 +1112,8 @@
     "Burlingame, San Mateo County, CA",
     "Sutherlin, Douglas County, Oregon",
     "Philadelphia, Pennsylvania",
-    "Portland, Oregon"
+    "Portland, Oregon",
+    "Burlingame, San Mateo County, California"
    ],
    "personality": [],
    "roles": [],
@@ -1117,7 +1125,7 @@
    "risk_events": [],
    "milestones": [
     "Census 1920: Douglas County, Oregon, aged 7, born Oregon",
-    "Married Thomas White Childs (m. abt 1934)",
+    "Married Thomas White Childs (m. 11 Sep 1933, Burlingame, California)",
     "Buried at Willamette National Cemetery, Portland, Oregon (7 Jun 2000)"
    ],
    "education": [],
@@ -1138,12 +1146,14 @@
     "Ancestry.com, Oregon, U.S., Death Index, 1898-2008",
     "Ancestry.com, U.S., Veterans' Gravesites, ca. 1775-2019 (Willamette National Cemetery)",
     "Find a Grave, memorial 36261118 (Edith Childs, Willamette National Cemetery)",
-    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
    ],
    "notes": [
     "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
     "Born 29 Apr 1912 at Sutherlin, Oregon, the second child of George F. Adams, pharmacist, and Serena Trumbo. Her birth certificate is marked \"ALTERED\": her given names, Edith Van Tyne, were added later by affidavit. Van Tyne is her grandmother Mary Frances Vantine's surname.",
-    "In 1930 she was 17, a stepdaughter in Arthur T. Wells's household at Burlingame. She married Thomas White Childs about 1934 (married 16 years in 1950); they lived in Philadelphia in 1935 and in Portland, Oregon, from 1940, with their sons George C. and Gregg E. Childs. She died on 10 May 2000 and was buried beside Thomas at Willamette National Cemetery."
+    "In 1930 she was 17, a stepdaughter in Arthur T. Wells's household at Burlingame. She married Thomas White Childs about 1934 (married 16 years in 1950); they lived in Philadelphia in 1935 and in Portland, Oregon, from 1940, with their sons George C. and Gregg E. Childs. She died on 10 May 2000 and was buried beside Thomas at Willamette National Cemetery.",
+    "She married Thomas White Childs on Monday, 11 Sep 1933, at St. Paul's Episcopal Church, Burlingame (Turner / Harvey Family Tree, citing the newspaper notice \"Childs Marriage To Take Place Monday\"). Another clipping in the tree, headed \"Arrive From Eastern Seaboard\", reports the couple moving from Philadelphia to Portland."
    ]
   },
   {
@@ -1401,22 +1411,26 @@
   },
   {
    "id": "adams_fran",
-   "name": "Frances “Fran” Adams",
+   "name": "Frances “Fran” Korecki (Adams)",
    "aliases": [
-    "Fran Adams"
+    "Fran Adams",
+    "Frances “Fran” Adams"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1940-richmond-presley-adams",
+    "draft-ww2-presley-mark-adams"
+   ],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "9 Mar 1916",
+    "year": 1916,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "7 Dec 2002",
+    "year": 2002,
     "qualifier": null
    },
    "living": false,
@@ -1432,8 +1446,8 @@
     "adams_presley"
    ],
    "children": [
-    "adams_sally",
     "adams_casey",
+    "adams_sally",
     "adams_frederick_s"
    ],
    "siblings": [],
@@ -1444,7 +1458,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Toledo, Ohio",
+    "Richmond, California"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -1457,11 +1474,13 @@
     "Brendan Adams (personal knowledge), 2026",
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947",
-    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
    ],
    "notes": [
     "Wife of Presley Adams; her birth surname is not recorded.",
-    "Frances Adams, aged 24 in the 1940 census (born about 1916), at Richmond, California; named as Presley's wife on his 1940 draft card and in his 1987 obituary."
+    "Frances Adams, aged 24 in the 1940 census (born about 1916), at Richmond, California; named as Presley's wife on his 1940 draft card and in his 1987 obituary.",
+    "Born Frances Korecki on 9 Mar 1916 at Toledo, Ohio; Woodward High School, Toledo, 1932; died 7 Dec 2002 at Richmond, California (Turner / Harvey Family Tree)."
    ]
   },
   {
@@ -1953,7 +1972,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1940-richmond-presley-adams"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -1965,7 +1986,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -1983,8 +2004,8 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "adams_sally",
-    "adams_casey"
+    "adams_casey",
+    "adams_sally"
    ],
    "families": [],
    "parent_family": "F_adams_fran+adams_presley",
@@ -2432,10 +2453,14 @@
     "gfa2-druggist-obit",
     "adams-brothers-portland",
     "george-f-doc-adams",
-    "george-f-adams-family-1919"
+    "george-f-adams-family-1919",
+    "birth-1910-pressley-alfred-adams",
+    "birth-1912-edith-van-tyne-adams",
+    "birth-1916-george-francis-adams",
+    "census-1920-sutherlin-adams"
    ],
    "birth": {
-    "text": "Aug 1876",
+    "text": "24 Aug 1876",
     "year": 1876,
     "qualifier": null
    },
@@ -2492,7 +2517,8 @@
     "Missouri",
     "Roseburg, OR",
     "Denver, Colorado",
-    "Douglas County, Oregon"
+    "Douglas County, Oregon",
+    "Chariton County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -2518,7 +2544,8 @@
     "Born Missouri",
     "Military: Military service entry dated 2 Jun 1898, Denver, Arapahoe County, CO.",
     "Military: George F. Adams served in the military in Denver in 1898; the branch is not stated.",
-    "Census 1920: Douglas County, Oregon, head of household, aged 43, born Missouri, with Serena (30), Presley N. (9), Edith V. (7) and Edward G. (3 years 9 months)"
+    "Census 1920: Douglas County, Oregon, head of household, aged 43, born Missouri, with Serena (30), Presley N. (9), Edith V. (7) and Edward G. (3 years 9 months)",
+    "Buried at Valley View Cemetery, Sutherlin, Oregon"
    ],
    "education": [
     "Graduated from Washington State University with a degree in Pharmacy in 1908",
@@ -2537,7 +2564,8 @@
     "Family letters in Bill Allen’s family document",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
-    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008"
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
    ],
    "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
@@ -2551,7 +2579,6 @@
     "Unconfirmed: Bill Allen says George Francis Adams was the younger brother of his great-grandmother Alberta Adams Allen. [Family research emails, email 26]",
     "Unconfirmed: A short obituary for him appeared in the 1920 National Association of Retail Druggists newsletter, suggesting he was a druggist. [Family research emails, email 41]",
     "Unconfirmed: His obituaries appeared in pharmacy trade journals (NARD Journal, Practical Druggist), which suggests he was a druggist. [Family research emails, email 24]",
-    "Unconfirmed: He may be buried in Sutherlin, but this is not confirmed. [Family research emails, email 24]",
     "Unconfirmed: The obituary says he died of the flu; the writers note this would have been after the 1917-18 epidemic, and that a death certificate would settle it. [Family research emails, email 31]",
     "Unconfirmed: George II was born in Missouri, possibly Marion. [Family research emails, email 20]",
     "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]",
@@ -2570,7 +2597,8 @@
     "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]",
     "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]",
     "The Oregon death index records his death on 7 Feb 1920 in Douglas County, which settles the date; Trudy's 1918 was mistaken.",
-    "On his children's birth certificates he is a druggist or pharmacist, born in Missouri: at Roseburg in 1910 (aged 33) and 1916, and at Sutherlin in 1912 (aged 35)."
+    "On his children's birth certificates he is a druggist or pharmacist, born in Missouri: at Roseburg in 1910 (aged 33) and 1916, and at Sutherlin in 1912 (aged 35).",
+    "Born 24 Aug 1876 in Chariton County, Missouri; registered for the WWI draft in 1917 at Sutherlin as a druggist in his own business; died 7 Feb 1920 at Oakland, Douglas County, and buried at Valley View Cemetery, Sutherlin (Turner / Harvey Family Tree, citing Find a Grave memorial 83796381, with photographs of his headstone, \"George F. Adams 1876–1920\")."
    ]
   },
   {
@@ -5036,7 +5064,12 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "george-f-adams-family-1919"
+    "george-f-adams-family-1919",
+    "birth-1910-pressley-alfred-adams",
+    "census-1920-sutherlin-adams",
+    "census-1930-burlingame-wells",
+    "census-1940-richmond-presley-adams",
+    "draft-ww2-presley-mark-adams"
    ],
    "birth": {
     "text": "22 June 1910",
@@ -5068,8 +5101,8 @@
     "adams_fran"
    ],
    "children": [
-    "adams_sally",
     "adams_casey",
+    "adams_sally",
     "adams_frederick_s"
    ],
    "siblings": [
@@ -5358,7 +5391,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "adams",
    "branch_by_marriage": false,
    "lineages": [
@@ -11336,11 +11369,15 @@
   {
    "id": "buckley_hannah_louise",
    "name": "Hannah Louise Buckley",
-   "aliases": [],
+   "aliases": [
+    "Hannah Lois Trumbo"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "trumbo-house-chehalis"
+   ],
    "birth": {
     "text": "19 January 1859",
     "year": 1859,
@@ -11366,6 +11403,10 @@
     "trumbo_presley_neville"
    ],
    "children": [
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr",
     "trumbo_serena_marie",
     "trumbo_george"
    ],
@@ -11394,12 +11435,14 @@
    "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
    ],
    "notes": [
     "Mother of Serena Marie Nevada Trumbo (Nini). New to record.",
     "Precise birth and death dates newly established. Birth: Louisiana.",
-    "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]"
+    "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
+    "Her son John Holmes Trumbo's 1957 key calls her Hannah Lois Trumbo."
    ]
   },
   {
@@ -13061,7 +13104,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1940-portland-childs"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -13186,7 +13231,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1940-portland-childs"
+   ],
    "birth": {
     "text": "20 May 1908",
     "year": 1908,
@@ -13230,7 +13277,7 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Edith Van Tyne Adams (m. abt 1934)",
+    "Married Edith Van Tyne Adams (m. 11 Sep 1933, Burlingame, California)",
     "Buried at Willamette National Cemetery, Portland, Oregon"
    ],
    "education": [],
@@ -13243,7 +13290,8 @@
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, 1950 United States Federal Census",
     "Ancestry.com, U.S., Veterans' Gravesites, ca. 1775-2019 (Willamette National Cemetery)",
-    "Find a Grave, memorial 36261118 (Edith Childs, Willamette National Cemetery)"
+    "Find a Grave, memorial 36261118 (Edith Childs, Willamette National Cemetery)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
    ],
    "notes": [
     "Husband of Edith (Adams) Childs, George Francis Adams Sr.'s sister. Born 20 May 1908; died 7 May 1998; a captain in the U.S. Army, buried at Willamette National Cemetery. With Edith and their sons George C. and Gregg E. in Portland in 1940 and 1950."
@@ -19495,7 +19543,10 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "george-f-adams-family-1919"
+    "george-f-adams-family-1919",
+    "birth-1916-george-francis-adams",
+    "census-1920-sutherlin-adams",
+    "census-1930-burlingame-wells"
    ],
    "birth": {
     "text": "10 March 1916",
@@ -19649,7 +19700,8 @@
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
     "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
     "Ancestry.com, 1930 United States Federal Census (Burlingame, San Mateo County, California)",
-    "Find a Grave, memorial 239144218 (George Francis Adams, 1916–1980)"
+    "Find a Grave, memorial 239144218 (George Francis Adams, 1916–1980)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
    ],
    "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams II",
@@ -19663,7 +19715,8 @@
     "The 1920 census of his parents' household in Douglas County, Oregon, lists a son \"Edward G. Adams\", aged 3 years 9 months (born about 1916-17, Oregon), and no other young son; George, born 10 Mar 1916, would have been 3 years 10 months. [1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)]",
     "CORRECTION 2026-09-24: His Oregon birth certificate (no. 25) records George Francis Adams, born 10 Mar 1916 at Mercy Hospital, Roseburg, the third child of George Francis Adams, druggist, and Serena Trumbo, of Sutherlin. The given name was added by a supplemental report on 25 Mar 1916, so he was named George Francis two weeks after birth, not renamed after his father's death. No certificate exists for an Edward G. Adams. The \"Edward G. Adams\", aged 3, in the 1920 census is the only young son in the household, and in 1930 he appears as George F., 14, stepson of Arthur T. Wells, with Presley and Edith, so \"Edward G.\" looks like the enumerator's error or a family name.",
     "His father died on 7 Feb 1920 (Oregon death index), when George was nearly 4, not in 1918 when he was 2.",
-    "He died on 11 Oct 1980 at Tacoma, Washington (Find a Grave, memorial 239144218)."
+    "He died on 11 Oct 1980 at Tacoma, Washington (Find a Grave, memorial 239144218).",
+    "The Turner / Harvey Family Tree lists him as \"Edward George Adams\", born 12 Mar 1916, following the 1920 census; his birth certificate gives George Francis Adams, born 10 Mar 1916."
    ]
   },
   {
@@ -58196,6 +58249,10 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr",
     "trumbo_serena_marie"
    ],
    "families": [],
@@ -58223,13 +58280,273 @@
    ]
   },
   {
-   "id": "trumbo_presley_neville",
-   "name": "Presley Neville Trumbo",
+   "id": "trumbo_gertrude",
+   "name": "Gertrude Trumbo",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [
+    "trumbo-house-chehalis"
+   ],
+   "birth": {
+    "text": "1885",
+    "year": 1885,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "trumbo_presley_neville",
+   "mother": "buckley_hannah_louise",
+   "parents": [
+    "buckley_hannah_louise",
+    "trumbo_presley_neville"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_presley_nevil_jr",
+    "trumbo_serena_marie",
+    "trumbo_george"
+   ],
+   "families": [],
+   "parent_family": "F_buckley_hannah_louise+trumbo_presley_neville",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+   ],
+   "notes": [
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+   ]
+  },
+  {
+   "id": "trumbo_john_holmes",
+   "name": "John Holmes Trumbo",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "trumbo-house-chehalis"
+   ],
+   "birth": {
+    "text": "1881",
+    "year": 1881,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "trumbo_presley_neville",
+   "mother": "buckley_hannah_louise",
+   "parents": [
+    "buckley_hannah_louise",
+    "trumbo_presley_neville"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr",
+    "trumbo_serena_marie",
+    "trumbo_george"
+   ],
+   "families": [],
+   "parent_family": "F_buckley_hannah_louise+trumbo_presley_neville",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+   ],
+   "notes": [
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older brother of Serena Trumbo Adams. Named, with his birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+   ]
+  },
+  {
+   "id": "trumbo_lizzie_buckley",
+   "name": "Lizzie Buckley Trumbo",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [
+    "trumbo-house-chehalis"
+   ],
+   "birth": {
+    "text": "1883",
+    "year": 1883,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "trumbo_presley_neville",
+   "mother": "buckley_hannah_louise",
+   "parents": [
+    "buckley_hannah_louise",
+    "trumbo_presley_neville"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "trumbo_john_holmes",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr",
+    "trumbo_serena_marie",
+    "trumbo_george"
+   ],
+   "families": [],
+   "parent_family": "F_buckley_hannah_louise+trumbo_presley_neville",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+   ],
+   "notes": [
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older sister of Serena Trumbo Adams. Named, with her birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+   ]
+  },
+  {
+   "id": "trumbo_presley_nevil_jr",
+   "name": "Presley Nevil Trumbo Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [
+    "trumbo-house-chehalis"
+   ],
+   "birth": {
+    "text": "1887",
+    "year": 1887,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "trumbo",
+   "branch_by_marriage": false,
+   "lineages": [
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "trumbo_presley_neville",
+   "mother": "buckley_hannah_louise",
+   "parents": [
+    "buckley_hannah_louise",
+    "trumbo_presley_neville"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_serena_marie",
+    "trumbo_george"
+   ],
+   "families": [],
+   "parent_family": "F_buckley_hannah_louise+trumbo_presley_neville",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
+   ],
+   "notes": [
+    "Child of Presley Nevil and Hannah (Buckley) Trumbo; an older brother of Serena Trumbo Adams. Named, with his birth year, in John Holmes Trumbo's 1957 key to the family photograph at their Chehalis house."
+   ]
+  },
+  {
+   "id": "trumbo_presley_neville",
+   "name": "Presley Neville Trumbo",
+   "aliases": [
+    "Presley Nevil Trumbo"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [
+    "trumbo-house-chehalis"
+   ],
    "birth": {
     "text": "1840",
     "year": 1840,
@@ -58255,6 +58572,10 @@
     "buckley_hannah_louise"
    ],
    "children": [
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr",
     "trumbo_serena_marie",
     "trumbo_george"
    ],
@@ -58268,7 +58589,8 @@
    "priority": "normal",
    "locations": [
     "Kentucky",
-    "Lewis County, WA"
+    "Lewis County, WA",
+    "Chehalis, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -58281,24 +58603,34 @@
    "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
    ],
    "notes": [
     "Father of Serena Marie Nevada Trumbo (Nini). New to record.",
     "Date conflict — birth: this source gives '30 May 1840', prior has '1840'. Retain both pending verification.",
     "Precise birth day/month established: 30 May 1840. Prior had year only.",
-    "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]"
+    "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
+    "He built the family house at Chehalis in 1890; his son John Holmes Trumbo wrote in 1957 that it was still occupied with very few alterations."
    ]
   },
   {
    "id": "trumbo_serena_marie",
    "name": "Serena Marie Nevada Trumbo",
-   "aliases": [],
+   "aliases": [
+    "Serena Maria Nevada Trumbo"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [
-    "george-f-adams-family-1919"
+    "george-f-adams-family-1919",
+    "birth-1910-pressley-alfred-adams",
+    "birth-1912-edith-van-tyne-adams",
+    "birth-1916-george-francis-adams",
+    "census-1920-sutherlin-adams",
+    "census-1930-burlingame-wells",
+    "trumbo-house-chehalis"
    ],
    "birth": {
     "text": "24 Mar 1890",
@@ -58335,6 +58667,10 @@
     "wells_daphne"
    ],
    "siblings": [
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr",
     "trumbo_george"
    ],
    "families": [
@@ -58352,7 +58688,11 @@
     "Burlingame, CA",
     "Pierce County, WA",
     "Dryad, Lewis County, WA",
-    "Chehalis, Washington"
+    "Chehalis, Washington",
+    "Dryad, Lewis County, Washington",
+    "Burlingame, California",
+    "San Francisco, California",
+    "Fort Lewis, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -58395,7 +58735,9 @@
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
     "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)"
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)",
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
    ],
    "notes": [
     "Nicknamed Nini",
@@ -58404,7 +58746,8 @@
     "Pictured in a family photograph c. 1919 with George F., Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
     "George Trumbo, who worked in her husband's pharmacy, is described as Neenie's brother. [Family research emails, email 31]",
     "CORRECTION 2026-09-23: Marriage dated before 1925 rather than about 1929: their daughter Daphne was born about 1925 (1940 census). Decision by Brendan Adams.",
-    "Her son George's 1916 birth certificate gives her birthplace as Chehalis, Washington."
+    "Her son George's 1916 birth certificate gives her birthplace as Chehalis, Washington.",
+    "Born 24 Mar 1890 at Chehalis, Washington, the youngest of the children in her brother John Holmes Trumbo's 1957 key to the family photograph. She lived at Dryad, Lewis County, in 1900, married George F. Adams at Chehalis on 7 Jan 1909, lived at 1315 Drake Avenue, Burlingame, from about 1922, and at 1156 Filbert Street, San Francisco, in 1940; she died at Fort Lewis, Washington, on 28 Sep 1967 (Turner / Harvey Family Tree)."
    ]
   },
   {
@@ -59943,7 +60286,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1930-burlingame-wells"
+   ],
    "birth": {
     "text": "1890",
     "year": 1890,
@@ -60020,7 +60365,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1930-burlingame-wells"
+   ],
    "birth": {
     "text": "abt 1925",
     "year": 1925,
@@ -60096,7 +60443,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1930-burlingame-wells"
+   ],
    "birth": {
     "text": "~1916",
     "year": 1916,
@@ -62892,7 +63241,7 @@
     "childs_george_c",
     "childs_gregg_e"
    ],
-   "marriage": "abt 1934"
+   "marriage": "11 Sep 1933, Burlingame, California"
   },
   {
    "id": "F_adams_fran+adams_presley",
@@ -62901,8 +63250,8 @@
     "adams_presley"
    ],
    "children": [
-    "adams_sally",
     "adams_casey",
+    "adams_sally",
     "adams_frederick_s"
    ],
    "marriage": null
@@ -63743,6 +64092,10 @@
     "trumbo_presley_neville"
    ],
    "children": [
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr",
     "trumbo_serena_marie",
     "trumbo_george"
    ],
@@ -67572,6 +67925,152 @@
    ],
    "files": [
     "media/forester-charles-headstone.jpg"
+   ]
+  },
+  {
+   "id": "birth-1910-pressley-alfred-adams",
+   "kind": "document",
+   "title": "Birth certificate of Pressley Alfred Adams, 22 June 1910",
+   "caption": "Roseburg, Douglas County, Oregon, registered no. 2498: Pressley Alfred Adams, male, born 22 Jun 1910 at 7 p.m., the first child of Geo. F. Adams, 33, druggist, born in Missouri, and Serena Trumbo, 20, born in Washington, of Roseburg. Attended by E. V. Hoover, M.D.; filed July 1910. As an adult he used Presley Mark Adams.",
+   "source": "Oregon, U.S., State Births, 1842-1924, Douglas County, 1910; image from Ancestry.com. Original: Oregon State Archives, Salem.",
+   "people": [
+    "adams_presley",
+    "adams_george_francis_2",
+    "trumbo_serena_marie"
+   ],
+   "files": [
+    "media/birth-1910-pressley-alfred-adams.jpg"
+   ]
+  },
+  {
+   "id": "birth-1912-edith-van-tyne-adams",
+   "kind": "document",
+   "title": "Birth certificate of Edith Van Tyne Adams, 29 April 1912",
+   "caption": "Sutherlin, Douglas County, Oregon, registered no. 1847, stamped \"ALTERED\": a girl born 29 Apr 1912, the second child of Geo. F. Adams, 35, pharmacist, born in Missouri, and Serena Trumbo, born in Washington, housewife. The given names \"Edith Van Tyne\" were added in red later, by affidavit.",
+   "source": "Oregon, U.S., State Births, 1842-1924, Douglas County, 1912; image from Ancestry.com. Original: Oregon State Archives, Salem.",
+   "people": [
+    "adams_edith_v",
+    "adams_george_francis_2",
+    "trumbo_serena_marie"
+   ],
+   "files": [
+    "media/birth-1912-edith-van-tyne-adams.jpg"
+   ]
+  },
+  {
+   "id": "birth-1916-george-francis-adams",
+   "kind": "document",
+   "title": "Birth certificate of George Francis Adams, 10 March 1916",
+   "caption": "Oregon State Board of Health certificate no. 25: George Francis Adams, male, born 10 Mar 1916 at Mercy Hospital, Roseburg, the third child of George Francis Adams, 38, druggist, born in Missouri, and Serena Trumbo, 26, born at Chehalis, Washington, housewife, of Sutherlin. The given name was added from a supplemental report dated 25 Mar 1916.",
+   "source": "Oregon, U.S., State Births, 1842-1924, Douglas County, March 1916; image from Ancestry.com. Original: Oregon State Archives, Salem.",
+   "people": [
+    "george_francis_adams_sr",
+    "adams_george_francis_2",
+    "trumbo_serena_marie"
+   ],
+   "files": [
+    "media/birth-1916-george-francis-adams.jpg"
+   ]
+  },
+  {
+   "id": "census-1920-sutherlin-adams",
+   "kind": "document",
+   "title": "1920 census: the Adams household, Sutherlin, Douglas County, Oregon",
+   "caption": "George F. Adams (43), a druggist, born in Missouri, with his wife Serena M. N. (30) and their children Presley (9), Edith V. (7) and \"Edward G.\" (3). Taken in January 1920, a few weeks before George's death on 7 February.",
+   "source": "1920 United States Federal Census, Sutherlin, Douglas County, Oregon, ED 146, page 9B (NARA T625, roll 1494); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "adams_george_francis_2",
+    "trumbo_serena_marie",
+    "george_francis_adams_sr",
+    "adams_presley",
+    "adams_edith_v"
+   ],
+   "files": [
+    "media/census-1920-sutherlin-adams.jpg"
+   ]
+  },
+  {
+   "id": "census-1930-burlingame-wells",
+   "kind": "document",
+   "title": "1930 census: the Wells household, 1315 Drake Avenue, Burlingame, California",
+   "caption": "Arthur T. Wells (39), his wife Serena M. (40), his stepchildren Presley M. Adams (20), Edith V. Adams (17) and \"George F. Wells\" (14), and his daughters Rosemary (12) and Daphne L. (5).",
+   "source": "1930 United States Federal Census, Burlingame, San Mateo County, California, ED 2, page 10B (FHL microfilm 2339951); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "wells_arthur",
+    "trumbo_serena_marie",
+    "george_francis_adams_sr",
+    "adams_presley",
+    "adams_edith_v",
+    "wells_rosemary",
+    "wells_daphne"
+   ],
+   "files": [
+    "media/census-1930-burlingame-wells.jpg"
+   ]
+  },
+  {
+   "id": "census-1940-richmond-presley-adams",
+   "kind": "document",
+   "title": "1940 census: Presley and Frances Adams, 140 Santa Fe Avenue, Richmond, California",
+   "caption": "Presley Adams (29), a laboratory technician, born in Oregon, with four years of college; his wife Frances (24); and their son, 8 months old.",
+   "source": "1940 United States Federal Census, Richmond, Contra Costa County, California, ED 7-62, sheet 13B (NARA T627, roll 198); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "adams_presley",
+    "adams_fran",
+    "adams_frederick_s"
+   ],
+   "files": [
+    "media/census-1940-richmond-presley-adams.jpg"
+   ]
+  },
+  {
+   "id": "census-1940-portland-childs",
+   "kind": "document",
+   "title": "1940 census: Thomas and Edith Childs, NE 46th Avenue, Portland, Oregon",
+   "caption": "Thomas W. Childs (31), his wife Edith (27), born in Oregon, and their son George C. (2). In 1935 they were living in Philadelphia.",
+   "source": "1940 United States Federal Census, Portland, Multnomah County, Oregon, ED 37-263, sheet 1B (NARA T627, roll 3389); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "childs_thomas",
+    "adams_edith_v",
+    "childs_george_c"
+   ],
+   "files": [
+    "media/census-1940-portland-childs.jpg"
+   ]
+  },
+  {
+   "id": "draft-ww2-presley-mark-adams",
+   "kind": "album",
+   "title": "WWII draft registration card of Presley Mark Adams, 16 October 1940",
+   "caption": "Serial no. 875: Presley Mark Adams, 140 Santa Fe Avenue, Richmond, California, aged 30, born 21 Jun 1910 at Roseburg, Oregon; his wife Mrs. Frances Adams; employed by the Standard Oil Company of California. Page 2: 6 ft, 200 lb, blue eyes, brown hair, light complexion, a scar on the left wrist.",
+   "source": "U.S., World War II Draft Registration Cards, California, 1940-1947 (Records of the Selective Service System, RG 147); images from Ancestry.com. Original: National Archives and Records Administration, St. Louis.",
+   "people": [
+    "adams_presley",
+    "adams_fran"
+   ],
+   "files": [
+    "media/draft-ww2-presley-mark-adams-01.jpg",
+    "media/draft-ww2-presley-mark-adams-02.jpg"
+   ]
+  },
+  {
+   "id": "trumbo-house-chehalis",
+   "kind": "album",
+   "title": "The Trumbo family at their house in Chehalis, Washington, about 1891",
+   "caption": "Page 1: the house Presley N. Trumbo built at Chehalis in 1890, with the family numbered: his father Presley at the door (1), his mother holding the baby Serena (2 and 7), and the other children on the porch and by the fence. Page 2: the key written by John Holmes Trumbo in 1957: \"The old home in Chehalis built by my father in 1890. The house is still occupied and has had very few alterations.\" He lists his father Presley Nevil Trumbo, born 1840; his mother Hannah Lois Trumbo; himself, John Holmes Trumbo, 1881; his sisters Lizzie Buckley Trumbo, 1883, and Gertrude Trumbo, 1885; his brother Presley Nevil Trumbo, 1887; and his sister Serena Maria Nevada Trumbo.",
+   "source": "Shared on Ancestry.com by Therese Roberson, 21 Jan 2018; from the public member tree \"Turner / Harvey Family Tree\".",
+   "people": [
+    "trumbo_presley_neville",
+    "buckley_hannah_louise",
+    "trumbo_serena_marie",
+    "trumbo_john_holmes",
+    "trumbo_lizzie_buckley",
+    "trumbo_gertrude",
+    "trumbo_presley_nevil_jr"
+   ],
+   "files": [
+    "media/trumbo-house-chehalis-01.jpg",
+    "media/trumbo-house-chehalis-02.jpg"
    ]
   }
  ]

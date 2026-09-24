@@ -1,9 +1,9 @@
 {
   "id": "adams_fran",
-  "name": "Frances “Fran” Adams",
+  "name": "Frances “Fran” Korecki (Adams)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "9 Mar 1916",
+  "death": "7 Dec 2002",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -23,18 +23,24 @@
       "adams_frederick_s"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Toledo, Ohio",
+    "Richmond, California"
+  ],
   "sources": [
     "Brendan Adams (personal knowledge), 2026",
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947",
-    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
   ],
   "notes": [
     "Wife of Presley Adams; her birth surname is not recorded.",
-    "Frances Adams, aged 24 in the 1940 census (born about 1916), at Richmond, California; named as Presley's wife on his 1940 draft card and in his 1987 obituary."
+    "Frances Adams, aged 24 in the 1940 census (born about 1916), at Richmond, California; named as Presley's wife on his 1940 draft card and in his 1987 obituary.",
+    "Born Frances Korecki on 9 Mar 1916 at Toledo, Ohio; Woodward High School, Toledo, 1932; died 7 Dec 2002 at Richmond, California (Turner / Harvey Family Tree)."
   ],
   "aliases": [
-    "Fran Adams"
+    "Fran Adams",
+    "Frances “Fran” Adams"
   ]
 }

@@ -37,7 +37,11 @@
     "mother": "buckley_hannah_louise",
     "father": "trumbo_presley_neville",
     "siblings": [
-      "trumbo_george"
+      "trumbo_george",
+      "trumbo_john_holmes",
+      "trumbo_lizzie_buckley",
+      "trumbo_gertrude",
+      "trumbo_presley_nevil_jr"
     ],
     "spouse": "adams_george_francis_2",
     "children": [
@@ -54,7 +58,11 @@
     "Burlingame, CA",
     "Pierce County, WA",
     "Dryad, Lewis County, WA",
-    "Chehalis, Washington"
+    "Chehalis, Washington",
+    "Dryad, Lewis County, Washington",
+    "Burlingame, California",
+    "San Francisco, California",
+    "Fort Lewis, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -67,7 +75,9 @@
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
     "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)"
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)",
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
   ],
   "notes": [
     "Nicknamed Nini",
@@ -76,8 +86,11 @@
     "Pictured in a family photograph c. 1919 with George F., Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
     "George Trumbo, who worked in her husband's pharmacy, is described as Neenie's brother. [Family research emails, email 31]",
     "CORRECTION 2026-09-23: Marriage dated before 1925 rather than about 1929: their daughter Daphne was born about 1925 (1940 census). Decision by Brendan Adams.",
-    "Her son George's 1916 birth certificate gives her birthplace as Chehalis, Washington."
+    "Her son George's 1916 birth certificate gives her birthplace as Chehalis, Washington.",
+    "Born 24 Mar 1890 at Chehalis, Washington, the youngest of the children in her brother John Holmes Trumbo's 1957 key to the family photograph. She lived at Dryad, Lewis County, in 1900, married George F. Adams at Chehalis on 7 Jan 1909, lived at 1315 Drake Avenue, Burlingame, from about 1922, and at 1156 Filbert Street, San Francisco, in 1940; she died at Fort Lewis, Washington, on 28 Sep 1967 (Turner / Harvey Family Tree)."
   ],
-  "aliases": [],
+  "aliases": [
+    "Serena Maria Nevada Trumbo"
+  ],
   "sex": "F"
 }

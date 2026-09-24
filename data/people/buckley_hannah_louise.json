@@ -20,7 +20,11 @@
     "spouse": "trumbo_presley_neville",
     "children": [
       "trumbo_serena_marie",
-      "trumbo_george"
+      "trumbo_george",
+      "trumbo_john_holmes",
+      "trumbo_lizzie_buckley",
+      "trumbo_gertrude",
+      "trumbo_presley_nevil_jr"
     ]
   },
   "locations": [
@@ -30,12 +34,17 @@
   "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "John Holmes Trumbo, handwritten key to the Chehalis house photograph, 1957 (Turner / Harvey Family Tree on Ancestry.com)"
   ],
   "notes": [
     "Mother of Serena Marie Nevada Trumbo (Nini). New to record.",
     "Precise birth and death dates newly established. Birth: Louisiana.",
-    "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]"
+    "Open question: Did George F. Adams (#2) meet Neenie through her brother George Trumbo, or hire George Trumbo after the marriage? George Trumbo should be added to the tree as a son of Presley Neville Trumbo and Hannah Louise Buckley. [Family research emails, email 31]",
+    "Her son John Holmes Trumbo's 1957 key calls her Hannah Lois Trumbo."
   ],
-  "sex": "F"
+  "sex": "F",
+  "aliases": [
+    "Hannah Lois Trumbo"
+  ]
 }
