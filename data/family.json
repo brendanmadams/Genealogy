@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T22:16:13.356Z",
+  "generated": "2026-09-24T22:18:12.808Z",
   "people": 915,
   "family_members": 866,
   "dna_matches": 49,
@@ -61003,8 +61003,12 @@
   },
   {
    "id": "van_tine_abraham",
-   "name": "Abraham Van Tine",
-   "aliases": [],
+   "name": "Abraham Vantine",
+   "aliases": [
+    "Abraham Van Tine",
+    "Abraham VanTine",
+    "Abraham VanTyne"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -61042,7 +61046,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "New Jersey",
+    "Clark Township, Chariton County, Missouri"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -61053,13 +61060,17 @@
     "Died 1866"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Farmer (1860 census)."
+   ],
    "sources": [
     "adams_direct_line_summary_v1",
-    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)"
+    "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
+    "Ancestry.com, 1860 United States Federal Census (Clark, Chariton County, Missouri; post office Keytesville)"
    ],
    "notes": [
-    "Father of Mary Frances VanTine (spouse of John Wesley Adams). New to record."
+    "Father of Mary Frances VanTine (spouse of John Wesley Adams). New to record.",
+    "In 1860 a farmer in Clark Township, Chariton County, Missouri (post office Keytesville), aged 45 and born in New Jersey, with Mary (42), Lucy (13), Ellen (7), Alletta (4) and Joseph (22). His daughter Mary Frances, about 16, had already left home; she married Ephraim Clark at 15."
    ]
   },
   {
@@ -61258,7 +61269,11 @@
   {
    "id": "vantine_mary_frances",
    "name": "Mary Frances Vantine",
-   "aliases": [],
+   "aliases": [
+    "Mary Frances Van Tine",
+    "Mary Frances VanTine",
+    "Mary Frances VanTyne"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
