@@ -1,21 +1,22 @@
 {
   "id": "ball_ellen_rogers",
   "name": "Ellen Rogers Ball (McPhail)",
-  "birth": "abt 1851",
-  "death": "",
+  "birth": "2 Nov 1851",
+  "death": "21 Oct 1934",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Buried in Lynden Cemetery, Lynden, Washington"
+    "Buried in Lynden Cemetery, Lynden, Washington",
+    "Married John Belle McPhail (m. 1873)"
   ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "ball_graden",
+    "father": "ball_david",
     "siblings": [],
     "spouse": "mcphail_john_belle",
     "children": [
@@ -28,16 +29,29 @@
   },
   "locations": [
     "Delta Township, Whatcom County, Washington",
-    "Lynden, Washington"
+    "Lynden, Washington",
+    "Nashville, Davidson County, Tennessee",
+    "McMinn County, Tennessee",
+    "Roane County, Tennessee",
+    "Meridian, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington"
   ],
   "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
+    "Find a Grave, memorial 6749131 (via Ancestry.com, U.S., Find a Grave Index)"
   ],
   "notes": [
-    "Aged 59 in the 1910 census, Delta Township, Whatcom County. [Family research emails, email 48, 50]"
+    "Aged 59 in the 1910 census, Delta Township, Whatcom County. [Family research emails, email 48, 50]",
+    "Born 2 Nov 1851 at Nashville, Tennessee; died 21 Oct 1934 at Blaine, Whatcom County, aged 82. Her Washington death record names her father as David Ball; her mother's name is left blank. Find a Grave gives the death date as 31 Oct 1934; the death record's 21 Oct is used here.",
+    "Married John Belle McPhail in 1873 (1900 census: married 27 years). By 1900 she had borne five children, all living. The family lived at Meridian, Whatcom County, in 1900 and at Delta in 1910 and 1920, when their grandson John M. McPhail, 9, lived with them.",
+    "Inferred: she is the Ellen Ball, aged 9, in the household of David Ball (48) and Graden Ball (46) in District 2, McMinn County, Tennessee, in 1860, and aged 18 with David and \"Grodon\" Ball in Roane County in 1870. McMinn County was also John Belle McPhail's birthplace, and the name Graden matches the Draden/Dradie names in her family."
   ],
   "aliases": [
-    "Ellen R. McPhail"
+    "Ellen R. McPhail",
+    "Ellen Roger Ball",
+    "Ellen R. Ball"
   ],
   "sex": "F"
 }

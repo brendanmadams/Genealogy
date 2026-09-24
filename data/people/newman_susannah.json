@@ -1,0 +1,36 @@
+{
+  "id": "newman_susannah",
+  "name": "Susannah Newman (McPhail)",
+  "sex": "F",
+  "birth": "1817",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "mcphail_john_elder",
+    "children": [
+      "mcphail_john_belle"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
+    "Find a Grave, memorial 6749130 (via Ancestry.com, U.S., Find a Grave Index)"
+  ],
+  "notes": [
+    "Mother of John Belle McPhail. His death record calls her Martha Newman; Find a Grave calls her Susannah Newman McPhail (b. 1817)."
+  ],
+  "aliases": [
+    "Martha Newman",
+    "Susannah Newman McPhail"
+  ]
+}

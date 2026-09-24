@@ -1,8 +1,8 @@
 {
   "id": "mcphail_john_belle",
   "name": "John Belle McPhail",
-  "birth": "abt 1850",
-  "death": "",
+  "birth": "31 Aug 1849",
+  "death": "14 Mar 1925",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -10,13 +10,14 @@
   "risk_events": [],
   "milestones": [
     "Moved the family from Tennessee to Arkansas, then by covered wagon from Arkansas to Whatcom County, Washington (May-Sep 1896)",
-    "Buried in Lynden Cemetery, Lynden, Washington"
+    "Buried in Lynden Cemetery, Lynden, Washington",
+    "Married Ellen Rogers Ball (m. 1873)"
   ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "newman_susannah",
+    "father": "mcphail_john_elder",
     "siblings": [],
     "spouse": "ball_ellen_rogers",
     "children": [
@@ -32,13 +33,21 @@
     "Arkansas",
     "Delta Township, Whatcom County, Washington",
     "Burk Road, Delta Township, Whatcom County, Washington",
-    "Lynden, Washington"
+    "Lynden, Washington",
+    "McMinn County, Tennessee",
+    "Meridian, Whatcom County, Washington",
+    "West Delta, Whatcom County, Washington"
   ],
   "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
+    "Find a Grave, memorial 6749130 (via Ancestry.com, U.S., Find a Grave Index)"
   ],
   "notes": [
-    "Irma's great-grandfather. In the 1910 census, aged 60, with his wife Ellen R., two farms from Aaron Simons in Delta Township. Their homestead was on the north side of Burk Road, across from the John Kulp homestead. [Family research emails, email 48, 50]"
+    "Irma's great-grandfather. In the 1910 census, aged 60, with his wife Ellen R., two farms from Aaron Simons in Delta Township. Their homestead was on the north side of Burk Road, across from the John Kulp homestead. [Family research emails, email 48, 50]",
+    "Born 31 Aug 1849 in McMinn County, Tennessee; died 14 Mar 1925 at West Delta, Whatcom County, aged 75 (Washington death certificate 48).",
+    "His death record names his parents as John McPhail and Martha Newman; Find a Grave gives his mother as Susannah Newman McPhail (b. 1817)."
   ],
   "aliases": [
     "John B. McPhail"

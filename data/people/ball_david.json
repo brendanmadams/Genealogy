@@ -1,0 +1,37 @@
+{
+  "id": "ball_david",
+  "name": "David Ball",
+  "sex": "M",
+  "birth": "abt 1812",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "ball_graden",
+    "children": [
+      "ball_ellen_rogers"
+    ]
+  },
+  "locations": [
+    "McMinn County, Tennessee",
+    "Roane County, Tennessee"
+  ],
+  "sources": [
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920"
+  ],
+  "notes": [
+    "Father of Ellen Rogers (Ball) McPhail, as named on her 1934 Washington death record.",
+    "Inferred from the censuses: aged 48 in 1860 (District 2, McMinn County, Tennessee) and 55 in 1870 (District 8, Roane County), with his wife Graden and children Nancy (b. abt 1844), George (abt 1845), Mary Ann (abt 1848), Ellen (abt 1851), Margaret (abt 1854) and Catharine (abt 1857)."
+  ],
+  "aliases": []
+}

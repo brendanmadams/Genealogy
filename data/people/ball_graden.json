@@ -1,0 +1,34 @@
+{
+  "id": "ball_graden",
+  "name": "Graden Ball",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "ball_david",
+    "children": [
+      "ball_ellen_rogers"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920"
+  ],
+  "notes": [
+    "Inferred mother of Ellen Rogers (Ball) McPhail: wife of David Ball in the 1860 (aged 46) and 1870 (\"Grodon\", aged 42) censuses of McMinn and Roane counties, Tennessee. Her birth surname is not recorded. The name appears to be the source of the Draden/Dradie names among her descendants."
+  ],
+  "aliases": [
+    "Grodon Ball"
+  ]
+}

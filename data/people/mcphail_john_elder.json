@@ -1,0 +1,34 @@
+{
+  "id": "mcphail_john_elder",
+  "name": "John McPhail",
+  "sex": "M",
+  "birth": "1805",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "newman_susannah",
+    "children": [
+      "mcphail_john_belle"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
+    "Find a Grave, memorial 6749130 (via Ancestry.com, U.S., Find a Grave Index)"
+  ],
+  "notes": [
+    "Father of John Belle McPhail, named on his son's 1925 death record.",
+    "Find a Grave lists his other children as Byrd Newman McPhail (1833–1893), William Dugald McPhail (1838–1900), Mary Rebecca McPhail Gudger (1840–1924) and Daniel Percell McPhail (1847–1928)."
+  ],
+  "aliases": []
+}
