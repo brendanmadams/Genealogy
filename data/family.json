@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T14:12:32.972Z",
+  "generated": "2026-09-24T14:16:58.793Z",
   "people": 658,
   "family_members": 608,
   "dna_matches": 50,
@@ -39604,11 +39604,13 @@
    "name": "Gertrude Nellie Simons (Masters, Groves)",
    "aliases": [
     "Nellie G. Simons",
-    "Gertrude Groves",
-    "Nellie Masters"
+    "Gertrude Groves"
    ],
    "photo": null,
-   "card_name": null,
+   "card_name": [
+    "Gertrude N.",
+    "(Simons) Groves"
+   ],
    "sex": "F",
    "media": [],
    "birth": {

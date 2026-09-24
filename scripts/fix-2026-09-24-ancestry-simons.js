@@ -83,7 +83,10 @@ edit('simons_harriet_hattie', [CENSUS, WADEATH, FAG(6661061)], p => {
 const GERT = 'simons_gertrude_nellie';
 person(GERT, 'Gertrude Nellie Simons (Masters, Groves)', 'F', [FAG(14101134)], p => {
   p.birth = '16 May 1879'; p.death = '18 Jun 1947';
-  for (const a of ['Nellie G. Simons', 'Gertrude Groves', 'Nellie Masters']) add(p.aliases, a);
+  p.aliases = p.aliases.filter(a => a !== 'Nellie Masters');
+  for (const a of ['Nellie G. Simons', 'Gertrude Groves']) add(p.aliases, a);
+  // she married in 1898 as Nellie, but is Gertrude on later records; the card follows those
+  p.card_name = ['Gertrude N.', '(Simons) Groves'];
   for (const l of ['Minnesota', 'Benton Harbor, Berrien County, Michigan', 'North Yakima, Yakima County, Washington', 'Winlock, Lewis County, Washington']) add(p.locations, l);
   add(p.milestones, 'Married Charles F. Masters (m. 12 Sep 1898)');
   add(p.milestones, 'Married Dan H. Groves (m. 8 Sep 1906)');
