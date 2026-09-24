@@ -1,0 +1,30 @@
+{
+  "id": "simons_elmer_henry",
+  "name": "Elmer Henry Simons",
+  "sex": "M",
+  "birth": "1886",
+  "death": "1968",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "turnipseed_mary_a",
+    "father": "simons_richard",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 66385846"
+  ],
+  "notes": [
+    "Son of Richard Simons and Mary A. Turnipseed."
+  ],
+  "aliases": []
+}

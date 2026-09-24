@@ -1,0 +1,34 @@
+{
+  "id": "forester_stephen_s",
+  "name": "Stephen S. Forester",
+  "sex": "M",
+  "birth": "1854",
+  "death": "1923",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Rebecca Ann Simons (m. 1874)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_ann_1854",
+    "children": [
+      "forester_charles_elmer"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 68165791"
+  ],
+  "notes": [
+    "Husband of Rebecca Ann Simons."
+  ],
+  "aliases": []
+}

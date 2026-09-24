@@ -1,0 +1,30 @@
+{
+  "id": "decker_clyde",
+  "name": "Clyde Decker",
+  "sex": "M",
+  "birth": "1888",
+  "death": "1981",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "simons_olive_catherine",
+    "father": "decker_peter",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 15329399"
+  ],
+  "notes": [
+    "Son of Peter and Olive Catherine (Simons) Decker."
+  ],
+  "aliases": []
+}

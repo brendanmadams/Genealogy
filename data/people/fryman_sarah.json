@@ -1,0 +1,30 @@
+{
+  "id": "fryman_sarah",
+  "name": "Sarah Fryman (Swift)",
+  "sex": "F",
+  "birth": "1859",
+  "death": "1945",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "simons_mary_jane",
+    "father": "fryman_joel",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 29778599"
+  ],
+  "notes": [
+    "Child of Joel and Mary Jane (Simons) Fryman."
+  ],
+  "aliases": []
+}

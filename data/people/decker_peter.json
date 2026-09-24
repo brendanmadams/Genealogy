@@ -1,0 +1,35 @@
+{
+  "id": "decker_peter",
+  "name": "Peter Decker",
+  "sex": "M",
+  "birth": "1856",
+  "death": "1924",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Olive Catherine Simons (m. 1874)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_olive_catherine",
+    "children": [
+      "decker_simeon",
+      "decker_clyde"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 15329399"
+  ],
+  "notes": [
+    "First husband of Olive Catherine Simons."
+  ],
+  "aliases": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "turnipseed_mary_a",
+  "name": "Mary A. Turnipseed (Simons)",
+  "sex": "F",
+  "birth": "1858",
+  "death": "1912",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Richard Simons (m. 23 Aug 1880)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_richard",
+    "children": [
+      "simons_leroy_scott",
+      "simons_elmer_henry"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 66385846"
+  ],
+  "notes": [
+    "A wife of Richard Simons."
+  ],
+  "aliases": []
+}

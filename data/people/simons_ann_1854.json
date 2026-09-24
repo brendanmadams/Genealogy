@@ -1,23 +1,28 @@
 {
   "id": "simons_ann_1854",
-  "name": "Ann Simons",
+  "name": "Rebecca Ann Simons (Forester)",
   "sex": "F",
-  "birth": "abt 1854",
-  "death": "",
+  "birth": "25 Jun 1855",
+  "death": "23 Jun 1904",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Stephen S. Forester (m. 1874)",
+    "Buried at Camden Cemetery, Camden, Michigan"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "wagner_mary",
     "father": "simons_henry",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "forester_stephen_s",
+    "children": [
+      "forester_charles_elmer"
+    ]
   },
   "locations": [],
   "sources": [
@@ -25,10 +30,18 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 68165791"
   ],
   "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 6 in 1860. Possibly the Rebecca Ann (Forester) whom Find a Grave lists among Henry's children."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born 25 Jun 1855 in DeKalb County, Indiana; \"Ann\", aged 6, in 1860 and \"Han R.\", 15, in 1870, and \"Ann Rebecca\" in her father's will. Find a Grave lists her as Rebecca Ann Simons Forester.",
+    "Died 23 Jun 1904 in Northwest Township, Williams County, Ohio. Married Stephen S. Forester (1854–1923) in 1874; their son was Charles Elmer \"Charlie\" Forester (1875–1954)."
   ],
-  "aliases": []
+  "aliases": [
+    "Ann Simons",
+    "Ann Rebecca Simons",
+    "Han R. Simons",
+    "Rebecca Ann Forester"
+  ]
 }

@@ -1,0 +1,35 @@
+{
+  "id": "rogers_charles_t",
+  "name": "Charles T. Rogers",
+  "sex": "M",
+  "birth": "1843",
+  "death": "1910",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Sarah E. Simons (m. 20 Feb 1862)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_sarah_1844",
+    "children": [
+      "rogers_henry",
+      "rogers_orpha"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 92466844"
+  ],
+  "notes": [
+    "Husband of Sarah E. Simons (married 20 Feb 1862)."
+  ],
+  "aliases": []
+}

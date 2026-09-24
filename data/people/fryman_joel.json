@@ -1,0 +1,36 @@
+{
+  "id": "fryman_joel",
+  "name": "Joel Fryman",
+  "sex": "M",
+  "birth": "1836",
+  "death": "1921",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Mary Jane Simons"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_mary_jane",
+    "children": [
+      "fryman_sarah",
+      "fryman_william_j",
+      "fryman_homer"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 29778599"
+  ],
+  "notes": [
+    "Husband of Mary Jane Simons."
+  ],
+  "aliases": []
+}

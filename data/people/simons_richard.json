@@ -2,22 +2,35 @@
   "id": "simons_richard",
   "name": "Richard Simons",
   "sex": "M",
-  "birth": "abt 1853",
+  "birth": "1853",
   "death": "5 Jul 1921",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Mary Ellen VanFossen (m. 1875); later divorced",
+    "Married Mary A. Turnipseed (m. 23 Aug 1880)",
+    "Married Minnie Belle (Purdy) Adams (m. 28 Sep 1912)",
+    "Buried at Fremont Cemetery, Fremont, Indiana"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "wagner_mary",
     "father": "simons_henry",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "vanfossen_mary_ellen",
+    "children": [
+      "simons_hallah",
+      "simons_leroy_scott",
+      "simons_elmer_henry"
+    ],
+    "_extra_spouses": [
+      "turnipseed_mary_a",
+      "purdy_minnie_belle"
+    ]
   },
   "locations": [],
   "sources": [
@@ -25,10 +38,13 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 66385846"
   ],
   "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1860 and 17 in 1870. The tree gives his death as 5 Jul 1921 at Fremont, Steuben County, Indiana."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1860 and 17 in 1870. The tree gives his death as 5 Jul 1921 at Fremont, Steuben County, Indiana.",
+    "Married first Mary Ellen VanFossen in 1875 (later divorced; daughter Della \"Hallah\" M.); second Mary A. Turnipseed on 23 Aug 1880 in Wabash County, Indiana (sons LeRoy Scott and Elmer Henry); third Minnie Belle (Purdy) Adams on 28 Sep 1912 at Coldwater, Michigan. Buried at Fremont, Steuben County, Indiana."
   ],
   "aliases": []
 }

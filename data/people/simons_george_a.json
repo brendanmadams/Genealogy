@@ -2,32 +2,40 @@
   "id": "simons_george_a",
   "name": "George A. Simons",
   "sex": "M",
-  "birth": "abt 1848",
-  "death": "1933",
+  "birth": "25 Jan 1848",
+  "death": "26 Apr 1933",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Sophronia McClain"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "wagner_mary",
     "father": "simons_henry",
     "siblings": [],
-    "spouse": "",
+    "spouse": "mcclain_sophronia",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Steuben County, Indiana"
+  ],
   "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Ancestry.com, Indiana, U.S., Death Certificates, 1899–2017 (George Simons, 1933)",
+    "Ancestry.com, Indiana, U.S., Marriages, 1810–2001"
   ],
   "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Ohio; aged 2 in 1850, 12 in 1860 and 22 in 1870, when he lived with his parents with Sarah J. Simons (17) and Anna B. (2 months), probably his wife and daughter."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Ohio; aged 2 in 1850, 12 in 1860 and 22 in 1870, when he lived with his parents with Sarah J. Simons (17) and Anna B. (2 months), probably his wife and daughter.",
+    "Born 25 Jan 1848 (Indiana death certificate, which gives Indiana; the 1850 and 1860 censuses give Ohio); died 26 Apr 1933 in Steuben County, Indiana, a widower, aged 85. The certificate names his father Henry Simons and his wife Sophronia; an Indiana marriage record names her Sophronia McClain."
   ],
   "aliases": []
 }

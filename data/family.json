@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T15:30:56.415Z",
-  "people": 731,
-  "family_members": 681,
+  "generated": "2026-09-24T15:41:06.209Z",
+  "people": 751,
+  "family_members": 701,
   "dna_matches": 50,
-  "connected_people": 681,
-  "families": 229,
+  "connected_people": 701,
+  "families": 239,
   "branches": [
    "adams",
    "hamilton",
@@ -14188,6 +14188,182 @@
    ]
   },
   {
+   "id": "decker_clyde",
+   "name": "Clyde Decker",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1888",
+    "year": 1888,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1981",
+    "year": 1981,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "decker_peter",
+   "mother": "simons_olive_catherine",
+   "parents": [
+    "decker_peter",
+    "simons_olive_catherine"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "decker_simeon"
+   ],
+   "families": [],
+   "parent_family": "F_decker_peter+simons_olive_catherine",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 15329399"
+   ],
+   "notes": [
+    "Son of Peter and Olive Catherine (Simons) Decker."
+   ]
+  },
+  {
+   "id": "decker_peter",
+   "name": "Peter Decker",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1856",
+    "year": 1856,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1924",
+    "year": 1924,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_olive_catherine"
+   ],
+   "children": [
+    "decker_simeon",
+    "decker_clyde"
+   ],
+   "siblings": [],
+   "families": [
+    "F_decker_peter+simons_olive_catherine"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Olive Catherine Simons (m. 1874)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 15329399"
+   ],
+   "notes": [
+    "First husband of Olive Catherine Simons."
+   ]
+  },
+  {
+   "id": "decker_simeon",
+   "name": "Simeon Decker",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1881",
+    "year": 1881,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1949",
+    "year": 1949,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "decker_peter",
+   "mother": "simons_olive_catherine",
+   "parents": [
+    "decker_peter",
+    "simons_olive_catherine"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "decker_clyde"
+   ],
+   "families": [],
+   "parent_family": "F_decker_peter+simons_olive_catherine",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 15329399"
+   ],
+   "notes": [
+    "Son of Peter and Olive Catherine (Simons) Decker."
+   ]
+  },
+  {
    "id": "denzlein_margaret",
    "name": "Margaret Denzlein (Schriefer)",
    "aliases": [
@@ -15820,6 +15996,121 @@
    ]
   },
   {
+   "id": "forester_charles_elmer",
+   "name": "Charles Elmer “Charlie” Forester",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1954",
+    "year": 1954,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "forester_stephen_s",
+   "mother": "simons_ann_1854",
+   "parents": [
+    "forester_stephen_s",
+    "simons_ann_1854"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_forester_stephen_s+simons_ann_1854",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 68165791"
+   ],
+   "notes": [
+    "Son of Stephen S. and Rebecca Ann (Simons) Forester."
+   ]
+  },
+  {
+   "id": "forester_stephen_s",
+   "name": "Stephen S. Forester",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1854",
+    "year": 1854,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1923",
+    "year": 1923,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_ann_1854"
+   ],
+   "children": [
+    "forester_charles_elmer"
+   ],
+   "siblings": [],
+   "families": [
+    "F_forester_stephen_s+simons_ann_1854"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Rebecca Ann Simons (m. 1874)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 68165791"
+   ],
+   "notes": [
+    "Husband of Rebecca Ann Simons."
+   ]
+  },
+  {
    "id": "fox_casey",
    "name": "Casey Fox",
    "aliases": [],
@@ -16051,6 +16342,244 @@
    ],
    "notes": [
     "CORRECTION 2026-09-22: Removed kulp_michael_nicholas (b. 1842) from children; he is a descendant several generations later."
+   ]
+  },
+  {
+   "id": "fryman_homer",
+   "name": "Homer Fryman",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1916",
+    "year": 1916,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "fryman_joel",
+   "mother": "simons_mary_jane",
+   "parents": [
+    "fryman_joel",
+    "simons_mary_jane"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "fryman_sarah",
+    "fryman_william_j"
+   ],
+   "families": [],
+   "parent_family": "F_fryman_joel+simons_mary_jane",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 29778599"
+   ],
+   "notes": [
+    "Child of Joel and Mary Jane (Simons) Fryman."
+   ]
+  },
+  {
+   "id": "fryman_joel",
+   "name": "Joel Fryman",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1836",
+    "year": 1836,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1921",
+    "year": 1921,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_mary_jane"
+   ],
+   "children": [
+    "fryman_sarah",
+    "fryman_william_j",
+    "fryman_homer"
+   ],
+   "siblings": [],
+   "families": [
+    "F_fryman_joel+simons_mary_jane"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Mary Jane Simons"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 29778599"
+   ],
+   "notes": [
+    "Husband of Mary Jane Simons."
+   ]
+  },
+  {
+   "id": "fryman_sarah",
+   "name": "Sarah Fryman (Swift)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1859",
+    "year": 1859,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1945",
+    "year": 1945,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "fryman_joel",
+   "mother": "simons_mary_jane",
+   "parents": [
+    "fryman_joel",
+    "simons_mary_jane"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "fryman_william_j",
+    "fryman_homer"
+   ],
+   "families": [],
+   "parent_family": "F_fryman_joel+simons_mary_jane",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 29778599"
+   ],
+   "notes": [
+    "Child of Joel and Mary Jane (Simons) Fryman."
+   ]
+  },
+  {
+   "id": "fryman_william_j",
+   "name": "William J. Fryman",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1861",
+    "year": 1861,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1928",
+    "year": 1928,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "fryman_joel",
+   "mother": "simons_mary_jane",
+   "parents": [
+    "fryman_joel",
+    "simons_mary_jane"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "fryman_sarah",
+    "fryman_homer"
+   ],
+   "families": [],
+   "parent_family": "F_fryman_joel+simons_mary_jane",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 29778599"
+   ],
+   "notes": [
+    "Child of Joel and Mary Jane (Simons) Fryman."
    ]
   },
   {
@@ -31088,6 +31617,66 @@
    ]
   },
   {
+   "id": "mcclain_sophronia",
+   "name": "Sophronia McClain (Simons)",
+   "aliases": [
+    "Sophronia Simons"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_george_a"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_mcclain_sophronia+simons_george_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married George A. Simons"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Indiana, U.S., Marriages, 1810–2001",
+    "Ancestry.com, Indiana, U.S., Death Certificates, 1899–2017 (George Simons, 1933)"
+   ],
+   "notes": [
+    "Wife of George A. Simons; she died before him (he was a widower in 1933)."
+   ]
+  },
+  {
    "id": "mccoy_ulysses_g",
    "name": "Ulysses G. McCoy",
    "aliases": [],
@@ -36689,6 +37278,63 @@
    "notes": []
   },
   {
+   "id": "parsons_stephen",
+   "name": "Stephen Parsons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1851",
+    "year": 1851,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1931",
+    "year": 1931,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_olive_catherine"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_parsons_stephen+simons_olive_catherine"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Olive Catherine (Simons) Decker (m. 1928)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 15329399"
+   ],
+   "notes": [
+    "Second husband of Olive Catherine Simons."
+   ]
+  },
+  {
    "id": "paul_patricia",
    "name": "Patricia Paul",
    "aliases": [],
@@ -37306,6 +37952,63 @@
     "consolidated_research_digest_v1"
    ],
    "notes": []
+  },
+  {
+   "id": "purdy_minnie_belle",
+   "name": "Minnie Belle Purdy (Adams, Simons)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1863",
+    "year": 1863,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1923",
+    "year": 1923,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_richard"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_purdy_minnie_belle+simons_richard"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Richard Simons (m. 28 Sep 1912)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 66385846"
+   ],
+   "notes": [
+    "A wife of Richard Simons."
+   ]
   },
   {
    "id": "quin_james_mcgeer",
@@ -39693,6 +40396,182 @@
     "DNA profile only. McKeldin branch, 3rd cousin.",
     "McKeldin branch CONFIRMED.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "rogers_charles_t",
+   "name": "Charles T. Rogers",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1843",
+    "year": 1843,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1910",
+    "year": 1910,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_sarah_1844"
+   ],
+   "children": [
+    "rogers_henry",
+    "rogers_orpha"
+   ],
+   "siblings": [],
+   "families": [
+    "F_rogers_charles_t+simons_sarah_1844"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Sarah E. Simons (m. 20 Feb 1862)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 92466844"
+   ],
+   "notes": [
+    "Husband of Sarah E. Simons (married 20 Feb 1862)."
+   ]
+  },
+  {
+   "id": "rogers_henry",
+   "name": "Henry Rogers",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "rogers_charles_t",
+   "mother": "simons_sarah_1844",
+   "parents": [
+    "rogers_charles_t",
+    "simons_sarah_1844"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "rogers_orpha"
+   ],
+   "families": [],
+   "parent_family": "F_rogers_charles_t+simons_sarah_1844",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Sarah Simons Rogers, Garrett Clipper, Garrett, Indiana, 7 Jan 1932 (transcribed on Find a Grave)"
+   ],
+   "notes": [
+    "Child of Charles T. and Sarah (Simons) Rogers. Of Portis, Kansas, in 1932."
+   ]
+  },
+  {
+   "id": "rogers_orpha",
+   "name": "Orpha Rogers (Pence)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "rogers_charles_t",
+   "mother": "simons_sarah_1844",
+   "parents": [
+    "rogers_charles_t",
+    "simons_sarah_1844"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "rogers_henry"
+   ],
+   "families": [],
+   "parent_family": "F_rogers_charles_t+simons_sarah_1844",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Sarah Simons Rogers, Garrett Clipper, Garrett, Indiana, 7 Jan 1932 (transcribed on Find a Grave)"
+   ],
+   "notes": [
+    "Child of Charles T. and Sarah (Simons) Rogers. Mrs. Pence, of Chicago, in 1932; her mother lived with her after being widowed."
    ]
   },
   {
@@ -42525,7 +43404,6 @@
     "simons_george_a",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
@@ -42717,20 +43595,25 @@
   },
   {
    "id": "simons_ann_1854",
-   "name": "Ann Simons",
-   "aliases": [],
+   "name": "Rebecca Ann Simons (Forester)",
+   "aliases": [
+    "Ann Simons",
+    "Ann Rebecca Simons",
+    "Han R. Simons",
+    "Rebecca Ann Forester"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "abt 1854",
-    "year": 1854,
-    "qualifier": "about"
+    "text": "25 Jun 1855",
+    "year": 1855,
+    "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "23 Jun 1904",
+    "year": 1904,
     "qualifier": null
    },
    "living": false,
@@ -42747,19 +43630,24 @@
     "simons_henry",
     "wagner_mary"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "forester_stephen_s"
+   ],
+   "children": [
+    "forester_charles_elmer"
+   ],
    "siblings": [
     "simons_sarah_1844",
     "simons_isabella",
     "simons_george_a",
     "simons_aaron",
     "simons_richard",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
-   "families": [],
+   "families": [
+    "F_forester_stephen_s+simons_ann_1854"
+   ],
    "parent_family": "F_simons_henry+wagner_mary",
    "connected": true,
    "dna_match": false,
@@ -42770,7 +43658,10 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Stephen S. Forester (m. 1874)",
+    "Buried at Camden Cemetery, Camden, Michigan"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -42778,10 +43669,13 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 68165791"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 6 in 1860. Possibly the Rebecca Ann (Forester) whom Find a Grave lists among Henry's children."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born 25 Jun 1855 in DeKalb County, Indiana; \"Ann\", aged 6, in 1860 and \"Han R.\", 15, in 1870, and \"Ann Rebecca\" in her father's will. Find a Grave lists her as Rebecca Ann Simons Forester.",
+    "Died 23 Jun 1904 in Northwest Township, Williams County, Ohio. Married Stephen S. Forester (1854–1923) in 1874; their son was Charles Elmer \"Charlie\" Forester (1875–1954)."
    ]
   },
   {
@@ -43397,6 +44291,64 @@
    ]
   },
   {
+   "id": "simons_elmer_henry",
+   "name": "Elmer Henry Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1886",
+    "year": 1886,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1968",
+    "year": 1968,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_richard",
+   "mother": "turnipseed_mary_a",
+   "parents": [
+    "simons_richard",
+    "turnipseed_mary_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_leroy_scott"
+   ],
+   "families": [],
+   "parent_family": "F_simons_richard+turnipseed_mary_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 66385846"
+   ],
+   "notes": [
+    "Son of Richard Simons and Mary A. Turnipseed."
+   ]
+  },
+  {
    "id": "simons_ettie",
    "name": "Ettie Simons",
    "aliases": [],
@@ -43472,12 +44424,12 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "abt 1848",
+    "text": "25 Jan 1848",
     "year": 1848,
-    "qualifier": "about"
+    "qualifier": null
    },
    "death": {
-    "text": "1933",
+    "text": "26 Apr 1933",
     "year": 1933,
     "qualifier": null
    },
@@ -43495,7 +44447,9 @@
     "simons_henry",
     "wagner_mary"
    ],
-   "spouses": [],
+   "spouses": [
+    "mcclain_sophronia"
+   ],
    "children": [],
    "siblings": [
     "simons_sarah_1844",
@@ -43503,32 +44457,41 @@
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
-   "families": [],
+   "families": [
+    "F_mcclain_sophronia+simons_george_a"
+   ],
    "parent_family": "F_simons_henry+wagner_mary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Steuben County, Indiana"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Sophronia McClain"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Ancestry.com, Indiana, U.S., Death Certificates, 1899–2017 (George Simons, 1933)",
+    "Ancestry.com, Indiana, U.S., Marriages, 1810–2001"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Ohio; aged 2 in 1850, 12 in 1860 and 22 in 1870, when he lived with his parents with Sarah J. Simons (17) and Anna B. (2 months), probably his wife and daughter."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Ohio; aged 2 in 1850, 12 in 1860 and 22 in 1870, when he lived with his parents with Sarah J. Simons (17) and Anna B. (2 months), probably his wife and daughter.",
+    "Born 25 Jan 1848 (Indiana death certificate, which gives Indiana; the 1850 and 1860 censuses give Ohio); died 26 Apr 1933 in Steuben County, Indiana, a widower, aged 85. The certificate names his father Henry Simons and his wife Sophronia; an Indiana marriage record names her Sophronia McClain."
    ]
   },
   {
@@ -43710,21 +44673,21 @@
    ]
   },
   {
-   "id": "simons_han_r",
-   "name": "Han R. Simons",
+   "id": "simons_hallah",
+   "name": "Della “Hallah” M. Simons (Adams)",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "abt 1855",
-    "year": 1855,
-    "qualifier": "about"
+    "text": "1877",
+    "year": 1877,
+    "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1938",
+    "year": 1938,
     "qualifier": null
    },
    "living": false,
@@ -43735,26 +44698,17 @@
     "simons"
    ],
    "adopted": false,
-   "father": "simons_henry",
-   "mother": "wagner_mary",
+   "father": "simons_richard",
+   "mother": "vanfossen_mary_ellen",
    "parents": [
-    "simons_henry",
-    "wagner_mary"
+    "simons_richard",
+    "vanfossen_mary_ellen"
    ],
    "spouses": [],
    "children": [],
-   "siblings": [
-    "simons_sarah_1844",
-    "simons_isabella",
-    "simons_george_a",
-    "simons_aaron",
-    "simons_richard",
-    "simons_ann_1854",
-    "simons_olive_catherine",
-    "simons_harriet_e"
-   ],
+   "siblings": [],
    "families": [],
-   "parent_family": "F_simons_henry+wagner_mary",
+   "parent_family": "F_simons_richard+vanfossen_mary_ellen",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -43768,20 +44722,18 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
-    "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
-    "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 66385846"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; \"Han R.\" (perhaps Hannah), aged 15, in 1870. Find a Grave also lists a daughter Mary Jane (Fryman), not yet matched to a census entry."
+    "Daughter of Richard Simons and Mary Ellen VanFossen."
    ]
   },
   {
    "id": "simons_harriet_e",
-   "name": "Harriet E. Simons",
-   "aliases": [],
+   "name": "Harriet Emma Simons",
+   "aliases": [
+    "Harriet E. Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -43819,7 +44771,6 @@
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine"
    ],
    "families": [],
@@ -43840,10 +44791,12 @@
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1870."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1870.",
+    "Named Harriet Emma in her father Henry Simons's will; her married name and later life are not yet found."
    ]
   },
   {
@@ -43991,13 +44944,14 @@
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
-    "simons_harriet_e"
+    "simons_harriet_e",
+    "simons_mary_jane"
    ],
    "siblings": [],
    "families": [
-    "F_simons_henry+wagner_mary"
+    "F_simons_henry+wagner_mary",
+    "F_simons_henry"
    ],
    "parent_family": null,
    "connected": true,
@@ -44016,7 +44970,8 @@
    "risk_events": [],
    "milestones": [
     "Married Mary Marsh (m. 24 Apr 1845)",
-    "Buried at Billingstown Cemetery, Northwest Township, Williams County, Ohio"
+    "Buried at Billingstown Cemetery, Northwest Township, Williams County, Ohio",
+    "Will recorded in Williams County, Ohio (will records 1889–1897)"
    ],
    "education": [],
    "career": [
@@ -44029,12 +44984,14 @@
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, Summit County, Ohio, U.S., Marriage Records, 1840–1980 (Vol. A–C), and Ohio, U.S., County Marriage Records",
     "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons"
    ],
    "notes": [
     "Born 15 Oct 1818 in England (Find a Grave; the 1860 and 1870 censuses give England, about 1818); died 30 Jun 1890 in Williams County, Ohio. Married \"Mary Marsh\" as Henry Symons on 24 Apr 1845 in Summit County, Ohio.",
     "The family was at Coventry, Summit County, Ohio, in 1850 (Henry 29, Mary 32, Sarah, Isabella, George A. and the infant Aaron); at Richland Township, DeKalb County, Indiana (post office Auburn), in 1860, with Richard, Ann and Olive added; and at Northwest Township, Williams County, Ohio, in 1870. Aaron grew up in Indiana, which is why his son Ray gave his father's birthplace as Indiana in 1918.",
-    "Lead: some Ancestry trees place his birth at Berrynarbor, Devon, and name his parents William Henry Simmons (1763–1847) and Mary Pestell (1779–1857). No baptism or other record has been found to support this."
+    "Lead: some Ancestry trees place his birth at Berrynarbor, Devon, and name his parents William Henry Simmons (1763–1847) and Mary Pestell (1779–1857). No baptism or other record has been found to support this.",
+    "Henry Simons's will names his wife Mary and nine children: Mary Jane, Sarah, Isabell, Harriet Emma, Aaron, Richard, George A., Ann Rebecca and Olive Catherine."
    ]
   },
   {
@@ -44196,7 +45153,9 @@
   {
    "id": "simons_isabella",
    "name": "Isabella Simons",
-   "aliases": [],
+   "aliases": [
+    "Isabell Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -44233,7 +45192,6 @@
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
@@ -44255,10 +45213,12 @@
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Ohio; aged 4 in 1850 and 14 in 1860."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Ohio; aged 4 in 1850 and 14 in 1860.",
+    "Named \"Isabell\" in her father Henry Simons's will; her married name and later life are not yet found."
    ]
   },
   {
@@ -44523,6 +45483,64 @@
    ],
    "notes": [
     "Wife of Les Simons. Maiden name not recorded."
+   ]
+  },
+  {
+   "id": "simons_leroy_scott",
+   "name": "LeRoy Scott Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1881",
+    "year": 1881,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1964",
+    "year": 1964,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_richard",
+   "mother": "turnipseed_mary_a",
+   "parents": [
+    "simons_richard",
+    "turnipseed_mary_a"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_elmer_henry"
+   ],
+   "families": [],
+   "parent_family": "F_simons_richard+turnipseed_mary_a",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 66385846"
+   ],
+   "notes": [
+    "Son of Richard Simons and Mary A. Turnipseed."
    ]
   },
   {
@@ -44870,6 +45888,79 @@
    ]
   },
   {
+   "id": "simons_mary_jane",
+   "name": "Mary Jane Simons (Fryman)",
+   "aliases": [
+    "Mary Jane Fryman"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "10 Feb 1841",
+    "year": 1841,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Aug 1919",
+    "year": 1919,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_henry",
+   "mother": null,
+   "parents": [
+    "simons_henry"
+   ],
+   "spouses": [
+    "fryman_joel"
+   ],
+   "children": [
+    "fryman_sarah",
+    "fryman_william_j",
+    "fryman_homer"
+   ],
+   "siblings": [],
+   "families": [
+    "F_fryman_joel+simons_mary_jane"
+   ],
+   "parent_family": "F_simons_henry",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Coventry Township, Summit County, Ohio",
+    "Copley, Summit County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Joel Fryman",
+    "Buried at Copley Cemetery, Copley, Ohio"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 29778599"
+   ],
+   "notes": [
+    "Born 10 Feb 1841 in Coventry Township, Summit County, Ohio; died 10 Aug 1919 at Copley, Summit County. Named first among the children in her father Henry Simons's will. Her Ohio death certificate (no. 50581, as quoted on Find a Grave) names her father as Henry Simons, born in England, and her mother as Elizabeth Marsh, born in Ohio. She was born four years before Henry married \"Mary Marsh\" in 1845 and is not in the 1850 household.",
+    "Wife of Joel Fryman (1836–1921); children on Find a Grave: Sarah (Swift, 1859–1945), William J. (1861–1928) and Homer (1875–1916)."
+   ]
+  },
+  {
    "id": "simons_nancy",
    "name": "Nancy A. Simons",
    "aliases": [
@@ -44949,12 +46040,12 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "28 Oct 1856",
-    "year": 1856,
+    "text": "28 Oct 1857",
+    "year": 1857,
     "qualifier": null
    },
    "death": {
-    "text": "1932",
+    "text": "9 Apr 1932",
     "year": 1932,
     "qualifier": null
    },
@@ -44972,8 +46063,14 @@
     "simons_henry",
     "wagner_mary"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "decker_peter",
+    "parsons_stephen"
+   ],
+   "children": [
+    "decker_simeon",
+    "decker_clyde"
+   ],
    "siblings": [
     "simons_sarah_1844",
     "simons_isabella",
@@ -44981,21 +46078,29 @@
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_harriet_e"
    ],
-   "families": [],
+   "families": [
+    "F_decker_peter+simons_olive_catherine",
+    "F_parsons_stephen+simons_olive_catherine"
+   ],
    "parent_family": "F_simons_henry+wagner_mary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Battle Creek, Calhoun County, Michigan"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Peter Decker (m. 1874)",
+    "Married Stephen Parsons (m. 1928)",
+    "Buried at Oak Hill Cemetery, Battle Creek, Michigan"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -45003,10 +46108,14 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 15329399"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; \"Oliva\", aged 3, in 1860 and Olive C., 12, in 1870. Find a Grave lists her as Olive Catherine Decker Parsons."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; \"Oliva\", aged 3, in 1860 and Olive C., 12, in 1870. Find a Grave lists her as Olive Catherine Decker Parsons.",
+    "CORRECTION: born 28 Oct 1857 in DeKalb County, Indiana (Find a Grave; aged 3 in 1860); the Ancestry tree gives 1856.",
+    "Died 9 Apr 1932 at Battle Creek, Michigan. Married Peter Decker (1856–1924) in 1874; their sons were Simeon (1881–1949) and Clyde (1888–1981). In 1928 she married Stephen Parsons (1851–1931)."
    ]
   },
   {
@@ -45442,9 +46551,9 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "abt 1853",
+    "text": "1853",
     "year": 1853,
-    "qualifier": "about"
+    "qualifier": null
    },
    "death": {
     "text": "5 Jul 1921",
@@ -45465,19 +46574,30 @@
     "simons_henry",
     "wagner_mary"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "vanfossen_mary_ellen",
+    "turnipseed_mary_a",
+    "purdy_minnie_belle"
+   ],
+   "children": [
+    "simons_hallah",
+    "simons_leroy_scott",
+    "simons_elmer_henry"
+   ],
    "siblings": [
     "simons_sarah_1844",
     "simons_isabella",
     "simons_george_a",
     "simons_aaron",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
-   "families": [],
+   "families": [
+    "F_purdy_minnie_belle+simons_richard",
+    "F_simons_richard+vanfossen_mary_ellen",
+    "F_simons_richard+turnipseed_mary_a"
+   ],
    "parent_family": "F_simons_henry+wagner_mary",
    "connected": true,
    "dna_match": false,
@@ -45488,7 +46608,12 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Mary Ellen VanFossen (m. 1875); later divorced",
+    "Married Mary A. Turnipseed (m. 23 Aug 1880)",
+    "Married Minnie Belle (Purdy) Adams (m. 28 Sep 1912)",
+    "Buried at Fremont Cemetery, Fremont, Indiana"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -45496,10 +46621,13 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 66385846"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1860 and 17 in 1870. The tree gives his death as 5 Jul 1921 at Fremont, Steuben County, Indiana."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1860 and 17 in 1870. The tree gives his death as 5 Jul 1921 at Fremont, Steuben County, Indiana.",
+    "Married first Mary Ellen VanFossen in 1875 (later divorced; daughter Della \"Hallah\" M.); second Mary A. Turnipseed on 23 Aug 1880 in Wabash County, Indiana (sons LeRoy Scott and Elmer Henry); third Minnie Belle (Purdy) Adams on 28 Sep 1912 at Coldwater, Michigan. Buried at Fremont, Steuben County, Indiana."
    ]
   },
   {
@@ -45670,7 +46798,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "1932",
+    "text": "5 Jan 1932",
     "year": 1932,
     "qualifier": null
    },
@@ -45688,30 +46816,42 @@
     "simons_henry",
     "wagner_mary"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "rogers_charles_t"
+   ],
+   "children": [
+    "rogers_henry",
+    "rogers_orpha"
+   ],
    "siblings": [
     "simons_isabella",
     "simons_george_a",
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
-   "families": [],
+   "families": [
+    "F_rogers_charles_t+simons_sarah_1844"
+   ],
    "parent_family": "F_simons_henry+wagner_mary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Altona, DeKalb County, Indiana",
+    "Avilla, Noble County, Indiana"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Charles T. Rogers (m. 20 Feb 1862)",
+    "Buried at Christian Union Cemetery, Garrett, Indiana"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -45719,10 +46859,14 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 92466844",
+    "Obituary of Sarah Simons Rogers, Garrett Clipper, Garrett, Indiana, 7 Jan 1932 (transcribed on Find a Grave)"
    ],
    "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Summit County, Ohio (tree); aged 5 in 1850 and 17 in 1860. Find a Grave lists her as Sarah E. Rogers."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Summit County, Ohio (tree); aged 5 in 1850 and 17 in 1860. Find a Grave lists her as Sarah E. Rogers.",
+    "Born 9 Nov 1844 near Akron, Ohio (her obituary says 1843); married Charles T. Rogers on 20 Feb 1862; lived many years at Altona, DeKalb County, Indiana; died 5 Jan 1932 at Avilla, Indiana, aged 87. Survived by her children Henry Rogers of Portis, Kansas, and Orpha (Mrs. Pence) of Chicago, eleven grandchildren and eight great-grandchildren; four children died before her."
    ]
   },
   {
@@ -48553,6 +49697,66 @@
    ]
   },
   {
+   "id": "turnipseed_mary_a",
+   "name": "Mary A. Turnipseed (Simons)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1858",
+    "year": 1858,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1912",
+    "year": 1912,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_richard"
+   ],
+   "children": [
+    "simons_leroy_scott",
+    "simons_elmer_henry"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_richard+turnipseed_mary_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Richard Simons (m. 23 Aug 1880)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 66385846"
+   ],
+   "notes": [
+    "A wife of Richard Simons."
+   ]
+  },
+  {
    "id": "upham_william",
    "name": "William Clifford “Bill” Upham",
    "aliases": [
@@ -49205,6 +50409,65 @@
    ]
   },
   {
+   "id": "vanfossen_mary_ellen",
+   "name": "Mary Ellen VanFossen (Simons, Rice)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1856",
+    "year": 1856,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1898",
+    "year": 1898,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_richard"
+   ],
+   "children": [
+    "simons_hallah"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_richard+vanfossen_mary_ellen"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Richard Simons (m. 1875); later divorced"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 66385846"
+   ],
+   "notes": [
+    "A wife of Richard Simons."
+   ]
+  },
+  {
    "id": "vantine_mary_frances",
    "name": "Mary Frances Vantine",
    "aliases": [],
@@ -49455,7 +50718,6 @@
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
@@ -49487,11 +50749,13 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, Summit County, Ohio, U.S., Marriage Records, 1840–1980 (Vol. A–C), and Ohio, U.S., County Marriage Records",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
+    "Find a Grave, memorial 29778599"
    ],
    "notes": [
     "Born in Ohio about 1817–18 (aged 32 in 1850, 43 in 1860, 53 in 1870); the Ancestry trees give 30 Jan 1818, and her death as 25 Dec 1889 in Williams County, Ohio.",
-    "She married Henry Symons as \"Mary Marsh\" on 24 Apr 1845 in Summit County, Ohio. Find a Grave and the family trees give her birth surname as Wagner or Wagoner, so she was probably a widow, Mrs. Marsh, when she married Henry; no record found so far shows the Wagner name or a first husband."
+    "She married Henry Symons as \"Mary Marsh\" on 24 Apr 1845 in Summit County, Ohio. Find a Grave and the family trees give her birth surname as Wagner or Wagoner, so she was probably a widow, Mrs. Marsh, when she married Henry; no record found so far shows the Wagner name or a first husband.",
+    "Mary Jane Simons Fryman's 1919 death certificate names her mother as Elizabeth Marsh, born in Ohio. With the 1845 marriage record's \"Mary Marsh\", this suggests Marsh may have been her birth surname rather than a first husband's, or that Henry had an earlier wife; the Wagner name appears only on Find a Grave and in trees."
    ]
   },
   {
@@ -53374,6 +54638,18 @@
    "marriage": "6 Sep 1829, Darke County, OH"
   },
   {
+   "id": "F_decker_peter+simons_olive_catherine",
+   "partners": [
+    "decker_peter",
+    "simons_olive_catherine"
+   ],
+   "children": [
+    "decker_simeon",
+    "decker_clyde"
+   ],
+   "marriage": "1874"
+  },
+  {
    "id": "F_denzlein_margaret+schriefer_bartholomew",
    "partners": [
     "denzlein_margaret",
@@ -53509,6 +54785,17 @@
    "marriage": "2 Aug 1969"
   },
   {
+   "id": "F_forester_stephen_s+simons_ann_1854",
+   "partners": [
+    "forester_stephen_s",
+    "simons_ann_1854"
+   ],
+   "children": [
+    "forester_charles_elmer"
+   ],
+   "marriage": "1874"
+  },
+  {
    "id": "F_fretz_barbara+kolb_henry",
    "partners": [
     "fretz_barbara",
@@ -53516,6 +54803,19 @@
    ],
    "children": [
     "kolb_peter"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_fryman_joel+simons_mary_jane",
+   "partners": [
+    "fryman_joel",
+    "simons_mary_jane"
+   ],
+   "children": [
+    "fryman_sarah",
+    "fryman_william_j",
+    "fryman_homer"
    ],
    "marriage": null
   },
@@ -54314,6 +55614,15 @@
    "marriage": "12 Sep 1898"
   },
   {
+   "id": "F_mcclain_sophronia+simons_george_a",
+   "partners": [
+    "mcclain_sophronia",
+    "simons_george_a"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
    "id": "F_mckeldin_edward_hazelton+selbe_sophia",
    "partners": [
     "mckeldin_edward_hazelton",
@@ -54506,6 +55815,15 @@
    "marriage": "16 May 1921"
   },
   {
+   "id": "F_parsons_stephen+simons_olive_catherine",
+   "partners": [
+    "parsons_stephen",
+    "simons_olive_catherine"
+   ],
+   "children": [],
+   "marriage": "1928"
+  },
+  {
    "id": "F_perusek_dawn+stang_mark",
    "partners": [
     "perusek_dawn",
@@ -54538,6 +55856,15 @@
     "pugh_susan"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_purdy_minnie_belle+simons_richard",
+   "partners": [
+    "purdy_minnie_belle",
+    "simons_richard"
+   ],
+   "children": [],
+   "marriage": "28 Sep 1912"
   },
   {
    "id": "F_quinn_joan+stang_bern",
@@ -54598,6 +55925,18 @@
     "rhinehart_debbie"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_rogers_charles_t+simons_sarah_1844",
+   "partners": [
+    "rogers_charles_t",
+    "simons_sarah_1844"
+   ],
+   "children": [
+    "rogers_henry",
+    "rogers_orpha"
+   ],
+   "marriage": "20 Feb 1862"
   },
   {
    "id": "F_rotter_richard+zacher_kimberly_lynn",
@@ -54724,6 +56063,16 @@
    "marriage": null
   },
   {
+   "id": "F_simons_henry",
+   "partners": [
+    "simons_henry"
+   ],
+   "children": [
+    "simons_mary_jane"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_simons_henry+wagner_mary",
    "partners": [
     "simons_henry",
@@ -54736,7 +56085,6 @@
     "simons_aaron",
     "simons_richard",
     "simons_ann_1854",
-    "simons_han_r",
     "simons_olive_catherine",
     "simons_harriet_e"
    ],
@@ -54814,6 +56162,29 @@
    ],
    "children": [],
    "marriage": null
+  },
+  {
+   "id": "F_simons_richard+turnipseed_mary_a",
+   "partners": [
+    "simons_richard",
+    "turnipseed_mary_a"
+   ],
+   "children": [
+    "simons_leroy_scott",
+    "simons_elmer_henry"
+   ],
+   "marriage": "1875"
+  },
+  {
+   "id": "F_simons_richard+vanfossen_mary_ellen",
+   "partners": [
+    "simons_richard",
+    "vanfossen_mary_ellen"
+   ],
+   "children": [
+    "simons_hallah"
+   ],
+   "marriage": "1875"
   },
   {
    "id": "F_simons_sandy+warner_marc",

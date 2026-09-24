@@ -3,32 +3,45 @@
   "name": "Sarah E. Simons (Rogers)",
   "sex": "F",
   "birth": "9 Nov 1844",
-  "death": "1932",
+  "death": "5 Jan 1932",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Charles T. Rogers (m. 20 Feb 1862)",
+    "Buried at Christian Union Cemetery, Garrett, Indiana"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "wagner_mary",
     "father": "simons_henry",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "rogers_charles_t",
+    "children": [
+      "rogers_henry",
+      "rogers_orpha"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Altona, DeKalb County, Indiana",
+    "Avilla, Noble County, Indiana"
+  ],
   "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 92466844",
+    "Obituary of Sarah Simons Rogers, Garrett Clipper, Garrett, Indiana, 7 Jan 1932 (transcribed on Find a Grave)"
   ],
   "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Summit County, Ohio (tree); aged 5 in 1850 and 17 in 1860. Find a Grave lists her as Sarah E. Rogers."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Summit County, Ohio (tree); aged 5 in 1850 and 17 in 1860. Find a Grave lists her as Sarah E. Rogers.",
+    "Born 9 Nov 1844 near Akron, Ohio (her obituary says 1843); married Charles T. Rogers on 20 Feb 1862; lived many years at Altona, DeKalb County, Indiana; died 5 Jan 1932 at Avilla, Indiana, aged 87. Survived by her children Henry Rogers of Portis, Kansas, and Orpha (Mrs. Pence) of Chicago, eleven grandchildren and eight great-grandchildren; four children died before her."
   ],
   "aliases": []
 }

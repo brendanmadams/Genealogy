@@ -66,9 +66,9 @@ sib('simons_sarah_1844', 'Sarah E. Simons (Rogers)', 'F', '9 Nov 1844', '1932', 
 sib('simons_isabella', 'Isabella Simons', 'F', 'abt 1846', '', 'Born in Ohio; aged 4 in 1850 and 14 in 1860.');
 sib('simons_george_a', 'George A. Simons', 'M', 'abt 1848', '1933', 'Born in Ohio; aged 2 in 1850, 12 in 1860 and 22 in 1870, when he lived with his parents with Sarah J. Simons (17) and Anna B. (2 months), probably his wife and daughter.');
 sib('simons_richard', 'Richard Simons', 'M', 'abt 1853', '5 Jul 1921', 'Born in Indiana; aged 8 in 1860 and 17 in 1870. The tree gives his death as 5 Jul 1921 at Fremont, Steuben County, Indiana.', [FAG]);
-sib('simons_ann_1854', 'Ann Simons', 'F', 'abt 1854', '', 'Born in Indiana; aged 6 in 1860. Possibly the Rebecca Ann (Forester) whom Find a Grave lists among Henry\'s children.', [FAG]);
-sib('simons_han_r', 'Han R. Simons', 'F', 'abt 1855', '', 'Born in Indiana; "Han R." (perhaps Hannah), aged 15, in 1870. Find a Grave also lists a daughter Mary Jane (Fryman), not yet matched to a census entry.', [FAG]);
-sib('simons_olive_catherine', 'Olive Catherine Simons (Decker, Parsons)', 'F', '28 Oct 1856', '1932', 'Born in Indiana; "Oliva", aged 3, in 1860 and Olive C., 12, in 1870. Find a Grave lists her as Olive Catherine Decker Parsons.', [FAG]);
+sib('simons_ann_1854', 'Rebecca Ann Simons (Forester)', 'F', '25 Jun 1855', '23 Jun 1904', 'Born 25 Jun 1855 in DeKalb County, Indiana; "Ann", aged 6, in 1860 and "Han R.", 15, in 1870, and "Ann Rebecca" in her father\'s will. Find a Grave lists her as Rebecca Ann Simons Forester.', [FAG]);
+// "Han R." (1870) is the same daughter as Ann (1860): Ann Rebecca in Henry's will; merged by fix-2026-09-24-simons-siblings.js
+sib('simons_olive_catherine', 'Olive Catherine Simons (Decker, Parsons)', 'F', '28 Oct 1857', '9 Apr 1932', 'Born in Indiana; "Oliva", aged 3, in 1860 and Olive C., 12, in 1870. Find a Grave lists her as Olive Catherine Decker Parsons.', [FAG]);
 sib('simons_harriet_e', 'Harriet E. Simons', 'F', 'abt 1862', '', 'Born in Indiana; aged 8 in 1870.');
 
 // Aaron: his origins are no longer an open question

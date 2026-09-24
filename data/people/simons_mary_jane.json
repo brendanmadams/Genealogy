@@ -1,0 +1,44 @@
+{
+  "id": "simons_mary_jane",
+  "name": "Mary Jane Simons (Fryman)",
+  "sex": "F",
+  "birth": "10 Feb 1841",
+  "death": "10 Aug 1919",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Joel Fryman",
+    "Buried at Copley Cemetery, Copley, Ohio"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "simons_henry",
+    "siblings": [],
+    "spouse": "fryman_joel",
+    "children": [
+      "fryman_sarah",
+      "fryman_william_j",
+      "fryman_homer"
+    ]
+  },
+  "locations": [
+    "Coventry Township, Summit County, Ohio",
+    "Copley, Summit County, Ohio"
+  ],
+  "sources": [
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 29778599"
+  ],
+  "notes": [
+    "Born 10 Feb 1841 in Coventry Township, Summit County, Ohio; died 10 Aug 1919 at Copley, Summit County. Named first among the children in her father Henry Simons's will. Her Ohio death certificate (no. 50581, as quoted on Find a Grave) names her father as Henry Simons, born in England, and her mother as Elizabeth Marsh, born in Ohio. She was born four years before Henry married \"Mary Marsh\" in 1845 and is not in the 1850 household.",
+    "Wife of Joel Fryman (1836–1921); children on Find a Grave: Sarah (Swift, 1859–1945), William J. (1861–1928) and Homer (1875–1916)."
+  ],
+  "aliases": [
+    "Mary Jane Fryman"
+  ]
+}

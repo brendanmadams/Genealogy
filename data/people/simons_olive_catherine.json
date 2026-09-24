@@ -2,33 +2,49 @@
   "id": "simons_olive_catherine",
   "name": "Olive Catherine Simons (Decker, Parsons)",
   "sex": "F",
-  "birth": "28 Oct 1856",
-  "death": "1932",
+  "birth": "28 Oct 1857",
+  "death": "9 Apr 1932",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Peter Decker (m. 1874)",
+    "Married Stephen Parsons (m. 1928)",
+    "Buried at Oak Hill Cemetery, Battle Creek, Michigan"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "wagner_mary",
     "father": "simons_henry",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "decker_peter",
+    "children": [
+      "decker_simeon",
+      "decker_clyde"
+    ],
+    "_extra_spouses": [
+      "parsons_stephen"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Battle Creek, Calhoun County, Michigan"
+  ],
   "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)"
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Find a Grave, memorial 15329399"
   ],
   "notes": [
-    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; \"Oliva\", aged 3, in 1860 and Olive C., 12, in 1870. Find a Grave lists her as Olive Catherine Decker Parsons."
+    "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; \"Oliva\", aged 3, in 1860 and Olive C., 12, in 1870. Find a Grave lists her as Olive Catherine Decker Parsons.",
+    "CORRECTION: born 28 Oct 1857 in DeKalb County, Indiana (Find a Grave; aged 3 in 1860); the Ancestry tree gives 1856.",
+    "Died 9 Apr 1932 at Battle Creek, Michigan. Married Peter Decker (1856–1924) in 1874; their sons were Simeon (1881–1949) and Clyde (1888–1981). In 1928 she married Stephen Parsons (1851–1931)."
   ],
   "aliases": []
 }
