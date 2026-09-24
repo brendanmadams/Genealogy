@@ -2,8 +2,8 @@
   "id": "schriefer_bartholomew",
   "name": "Bartholomew Schriefer",
   "sex": "M",
-  "birth": "1839",
-  "death": "1914",
+  "birth": "9 Sep 1839",
+  "death": "8 Nov 1914",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -11,10 +11,13 @@
   "risk_events": [],
   "milestones": [],
   "education": [],
-  "career": [],
+  "career": [
+    "Bricklayer (Zeegendorf, 1862–1871).",
+    "Brewer in Baltimore (1875–1900); kept a saloon (1890); brewery watchman (1910)."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "schruefer_margaretha",
+    "father": "schlasberger_joseph",
     "siblings": [],
     "spouse": "denzlein_margaret",
     "children": [
@@ -23,15 +26,30 @@
   },
   "locations": [
     "Germany",
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "Zeegendorf, Bamberg, Bavaria",
+    "Mistendorf, Bamberg, Bavaria",
+    "2004 E. Oliver Street, Baltimore (1890)",
+    "917 Stirling Street, Baltimore (1910)",
+    "Most Holy Redeemer Cemetery, Baltimore"
   ],
   "sources": [
     "Ancestry.com, 1900 United States Federal Census",
-    "Find a Grave, memorial 65818037"
+    "Find a Grave, memorial 65818037",
+    "Find a Grave, memorial 65818037 (Bartholomew Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, Baltimore, Maryland, U.S., Passenger Lists, 1820-1964 (ship Leipzig from Bremen, arrived 12 Sep 1874)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
   ],
   "notes": [
     "Born in Germany; aged 60 in the 1900 census at 2531 E. Oliver Street, Baltimore.",
-    "Children on Find a Grave: Mary (1883–1937), Jennie Katherine (Frank, 1889–1955), Anna M. (Herbert, 1892–1967), Margaret M. (Conroy, 1896–1961), George (1899–1951) and Henry (1904–1980)."
+    "Children on Find a Grave: Mary (1883–1937), Jennie Katherine (Frank, 1889–1955), Anna M. (Herbert, 1892–1967), Margaret M. (Conroy, 1896–1961), George (1899–1951) and Henry (1904–1980).",
+    "Born 9 Sep 1839 at Zeegendorf, near Bamberg, Bavaria, and baptized \"Joannes Bartholomaeus\" in the parish of Mistendorf; died 8 Nov 1914 in Baltimore, aged 75, and buried at Most Holy Redeemer Cemetery with his third wife, Margaret (Find a Grave; the Frank and Shugars member tree).",
+    "Arrived at Baltimore from Bremen on the Leipzig on 12 Sep 1874, as Bartholomäus Schriefer, 35, with Elisabetha (33), Kunigunde (9) and Pankratz (7) (Baltimore passenger lists).",
+    "Married three times (Find a Grave; the member tree): Margaretha Deinlein (1837–1871), at Mistendorf on 12 Oct 1862, mother of Kunigunde and Pankratz; Elisabetha Nüsslein (1841–1888), at Mistendorf on 3 Jun 1872, who came over with him in 1874 and was the mother of Mary (1883–1937); and Margaret Denzlein, on 8 Jan 1889 at St. James' Catholic Church, Baltimore (the tree, citing the church and civil marriage records; the 1900 census gives 1888)."
   ],
-  "aliases": []
+  "aliases": [
+    "Bartholomäus Schriefer",
+    "Bartholomäus Schrüfer",
+    "Joannes Bartholomaeus Schrüfer"
+  ]
 }

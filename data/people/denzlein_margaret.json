@@ -2,8 +2,8 @@
   "id": "denzlein_margaret",
   "name": "Margaret Denzlein (Schriefer)",
   "sex": "F",
-  "birth": "1865",
-  "death": "1924",
+  "birth": "19 May 1865",
+  "death": "25 Oct 1924",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -13,8 +13,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "popp_margaretha",
+    "father": "denzlein_karl",
     "siblings": [],
     "spouse": "schriefer_bartholomew",
     "children": [
@@ -23,16 +23,27 @@
   },
   "locations": [
     "Germany",
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "Mistendorf, Bamberg, Bavaria",
+    "917 Stirling Street, Baltimore (1910–1924)",
+    "Most Holy Redeemer Cemetery, Baltimore"
   ],
   "sources": [
     "Ancestry.com, 1900 United States Federal Census",
-    "Find a Grave, memorial 65818125"
+    "Find a Grave, memorial 65818125",
+    "Find a Grave, memorial 65818125 (Margaret Denzlein Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, Baltimore, Maryland, U.S., Passenger Lists, 1820-1964 (ship Maine from Bremen, arrived 30 May 1888)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
   ],
   "notes": [
-    "Born in Germany; aged 35 in the 1900 census, wife of Bartholomew Schriefer."
+    "Born in Germany; aged 35 in the 1900 census, wife of Bartholomew Schriefer.",
+    "Born 19 May 1865 at Mistendorf, near Bamberg, Bavaria, and baptized there on 21 May; died 25 Oct 1924 at 917 Stirling Street, Baltimore, aged 59, and buried at Most Holy Redeemer Cemetery (Find a Grave; the Frank and Shugars member tree).",
+    "Arrived at Baltimore from Bremen on the Maine on 30 May 1888, as Marga Denzlein, 23 (Baltimore passenger lists), and married Bartholomew Schriefer, a widower, on 8 Jan 1889 at St. James' Catholic Church. Of their nine children, George (1891), John (1894), Maria Anna (1898) and Joseph (1903) died as infants; George S. (George Goode) was born on 1 Jun 1899.",
+    "Lead: a John Denzlein, born about 1864 in Germany, lived in Baltimore in 1910 with his wife Margarett M.; perhaps a relative."
   ],
   "aliases": [
-    "Margaret Schriefer"
+    "Margaret Schriefer",
+    "Margaretha Denzlein",
+    "Marga Denzlein"
   ]
 }

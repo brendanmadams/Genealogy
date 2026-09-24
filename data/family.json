@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T22:18:12.808Z",
-  "people": 915,
-  "family_members": 866,
+  "generated": "2026-09-24T22:29:08.058Z",
+  "people": 919,
+  "family_members": 870,
   "dna_matches": 49,
-  "connected_people": 866,
-  "families": 309,
+  "connected_people": 870,
+  "families": 311,
   "branches": [
    "adams",
    "hamilton",
@@ -16838,10 +16838,76 @@
    ]
   },
   {
+   "id": "denzlein_karl",
+   "name": "Karl Denzlein",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1 Dec 1822",
+    "year": 1822,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "popp_margaretha"
+   ],
+   "children": [
+    "denzlein_margaret"
+   ],
+   "siblings": [],
+   "families": [
+    "F_denzlein_karl+popp_margaretha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hochstall, Bamberg, Bavaria",
+    "Mistendorf, Bamberg, Bavaria"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Farmer (1847)."
+   ],
+   "sources": [
+    "Find a Grave, memorial 65818125 (Margaret Denzlein Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+   ],
+   "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Born 1 Dec 1822 at house no. 5, Hochstall, and baptized the next day at the Church of the Assumption (Mariä Himmelfahrt), Mistendorf; a farmer at house no. 48, Mistendorf. Married Margaretha Popp there on 8 Feb 1847; their children included Margaretha (1849), Georg (1850–1851), Georg (1853), Margaretha (1860), Barbara (1862) and Margaret (1865). Alive when his wife died in 1877.",
+    "UNPROVEN lead: the same tree names his parents as Johann Georg Denzlein (1796–1872) and Barbara Pfeufer (born 1794)."
+   ]
+  },
+  {
    "id": "denzlein_margaret",
    "name": "Margaret Denzlein (Schriefer)",
    "aliases": [
-    "Margaret Schriefer"
+    "Margaret Schriefer",
+    "Margaretha Denzlein",
+    "Marga Denzlein"
    ],
    "photo": null,
    "card_name": null,
@@ -16850,12 +16916,12 @@
     "census-1900-baltimore-schriefer"
    ],
    "birth": {
-    "text": "1865",
+    "text": "19 May 1865",
     "year": 1865,
     "qualifier": null
    },
    "death": {
-    "text": "1924",
+    "text": "25 Oct 1924",
     "year": 1924,
     "qualifier": null
    },
@@ -16867,9 +16933,12 @@
     "schriefer"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "denzlein_karl",
+   "mother": "popp_margaretha",
+   "parents": [
+    "denzlein_karl",
+    "popp_margaretha"
+   ],
    "spouses": [
     "schriefer_bartholomew"
    ],
@@ -16880,13 +16949,16 @@
    "families": [
     "F_denzlein_margaret+schriefer_bartholomew"
    ],
-   "parent_family": null,
+   "parent_family": "F_denzlein_karl+popp_margaretha",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Germany",
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "Mistendorf, Bamberg, Bavaria",
+    "917 Stirling Street, Baltimore (1910–1924)",
+    "Most Holy Redeemer Cemetery, Baltimore"
    ],
    "personality": [],
    "roles": [],
@@ -16898,10 +16970,16 @@
    "career": [],
    "sources": [
     "Ancestry.com, 1900 United States Federal Census",
-    "Find a Grave, memorial 65818125"
+    "Find a Grave, memorial 65818125",
+    "Find a Grave, memorial 65818125 (Margaret Denzlein Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, Baltimore, Maryland, U.S., Passenger Lists, 1820-1964 (ship Maine from Bremen, arrived 30 May 1888)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
    ],
    "notes": [
-    "Born in Germany; aged 35 in the 1900 census, wife of Bartholomew Schriefer."
+    "Born in Germany; aged 35 in the 1900 census, wife of Bartholomew Schriefer.",
+    "Born 19 May 1865 at Mistendorf, near Bamberg, Bavaria, and baptized there on 21 May; died 25 Oct 1924 at 917 Stirling Street, Baltimore, aged 59, and buried at Most Holy Redeemer Cemetery (Find a Grave; the Frank and Shugars member tree).",
+    "Arrived at Baltimore from Bremen on the Maine on 30 May 1888, as Marga Denzlein, 23 (Baltimore passenger lists), and married Bartholomew Schriefer, a widower, on 8 Jan 1889 at St. James' Catholic Church. Of their nine children, George (1891), John (1894), Maria Anna (1898) and Joseph (1903) died as infants; George S. (George Goode) was born on 1 Jun 1899.",
+    "Lead: a John Denzlein, born about 1864 in Germany, lived in Baltimore in 1910 with his wife Margarett M.; perhaps a relative."
    ]
   },
   {
@@ -43927,6 +44005,68 @@
    ]
   },
   {
+   "id": "popp_margaretha",
+   "name": "Margaretha Popp (Denzlein)",
+   "aliases": [
+    "Margaret Denzlein"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1821",
+    "year": 1821,
+    "qualifier": null
+   },
+   "death": {
+    "text": "15 Oct 1877",
+    "year": 1877,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "denzlein_karl"
+   ],
+   "children": [
+    "denzlein_margaret"
+   ],
+   "siblings": [],
+   "families": [
+    "F_denzlein_karl+popp_margaretha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Mistendorf, Bamberg, Bavaria"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 65818125 (Margaret Denzlein Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+   ],
+   "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Born 1821; married Karl Denzlein at Mistendorf on 8 Feb 1847; died there on 15 Oct 1877, when her daughter Margaret was 12."
+   ]
+  },
+  {
    "id": "pugh_alexander",
    "name": "Alexander Pugh",
    "aliases": [],
@@ -49565,6 +49705,66 @@
    ]
   },
   {
+   "id": "schlasberger_joseph",
+   "name": "Joseph Schlasberger",
+   "aliases": [
+    "Joseph Schalsberger"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "schriefer_bartholomew"
+   ],
+   "siblings": [],
+   "families": [
+    "F_schlasberger_joseph+schruefer_margaretha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Zeegendorf, Bamberg, Bavaria"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 65818037 (Bartholomew Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+   ],
+   "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Named as the father of Bartholomew Schriefer (born 1839 at Zeegendorf); the son took his mother's surname, Schrüfer (Schriefer), which suggests his parents were not married when he was born. Spelled Schlasberger on Find a Grave and Schalsberger in the tree."
+   ]
+  },
+  {
    "id": "schlatter_charles_w",
    "name": "Charles W. Schlatter",
    "aliases": [],
@@ -49680,7 +49880,11 @@
   {
    "id": "schriefer_bartholomew",
    "name": "Bartholomew Schriefer",
-   "aliases": [],
+   "aliases": [
+    "Bartholomäus Schriefer",
+    "Bartholomäus Schrüfer",
+    "Joannes Bartholomaeus Schrüfer"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -49688,12 +49892,12 @@
     "census-1900-baltimore-schriefer"
    ],
    "birth": {
-    "text": "1839",
+    "text": "9 Sep 1839",
     "year": 1839,
     "qualifier": null
    },
    "death": {
-    "text": "1914",
+    "text": "8 Nov 1914",
     "year": 1914,
     "qualifier": null
    },
@@ -49705,9 +49909,12 @@
     "schriefer"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "schlasberger_joseph",
+   "mother": "schruefer_margaretha",
+   "parents": [
+    "schlasberger_joseph",
+    "schruefer_margaretha"
+   ],
    "spouses": [
     "denzlein_margaret"
    ],
@@ -49718,13 +49925,18 @@
    "families": [
     "F_denzlein_margaret+schriefer_bartholomew"
    ],
-   "parent_family": null,
+   "parent_family": "F_schlasberger_joseph+schruefer_margaretha",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Germany",
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "Zeegendorf, Bamberg, Bavaria",
+    "Mistendorf, Bamberg, Bavaria",
+    "2004 E. Oliver Street, Baltimore (1890)",
+    "917 Stirling Street, Baltimore (1910)",
+    "Most Holy Redeemer Cemetery, Baltimore"
    ],
    "personality": [],
    "roles": [],
@@ -49733,14 +49945,23 @@
    "risk_events": [],
    "milestones": [],
    "education": [],
-   "career": [],
+   "career": [
+    "Bricklayer (Zeegendorf, 1862–1871).",
+    "Brewer in Baltimore (1875–1900); kept a saloon (1890); brewery watchman (1910)."
+   ],
    "sources": [
     "Ancestry.com, 1900 United States Federal Census",
-    "Find a Grave, memorial 65818037"
+    "Find a Grave, memorial 65818037",
+    "Find a Grave, memorial 65818037 (Bartholomew Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, Baltimore, Maryland, U.S., Passenger Lists, 1820-1964 (ship Leipzig from Bremen, arrived 12 Sep 1874)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
    ],
    "notes": [
     "Born in Germany; aged 60 in the 1900 census at 2531 E. Oliver Street, Baltimore.",
-    "Children on Find a Grave: Mary (1883–1937), Jennie Katherine (Frank, 1889–1955), Anna M. (Herbert, 1892–1967), Margaret M. (Conroy, 1896–1961), George (1899–1951) and Henry (1904–1980)."
+    "Children on Find a Grave: Mary (1883–1937), Jennie Katherine (Frank, 1889–1955), Anna M. (Herbert, 1892–1967), Margaret M. (Conroy, 1896–1961), George (1899–1951) and Henry (1904–1980).",
+    "Born 9 Sep 1839 at Zeegendorf, near Bamberg, Bavaria, and baptized \"Joannes Bartholomaeus\" in the parish of Mistendorf; died 8 Nov 1914 in Baltimore, aged 75, and buried at Most Holy Redeemer Cemetery with his third wife, Margaret (Find a Grave; the Frank and Shugars member tree).",
+    "Arrived at Baltimore from Bremen on the Leipzig on 12 Sep 1874, as Bartholomäus Schriefer, 35, with Elisabetha (33), Kunigunde (9) and Pankratz (7) (Baltimore passenger lists).",
+    "Married three times (Find a Grave; the member tree): Margaretha Deinlein (1837–1871), at Mistendorf on 12 Oct 1862, mother of Kunigunde and Pankratz; Elisabetha Nüsslein (1841–1888), at Mistendorf on 3 Jun 1872, who came over with him in 1874 and was the mother of Mary (1883–1937); and Margaret Denzlein, on 8 Jan 1889 at St. James' Catholic Church, Baltimore (the tree, citing the church and civil marriage records; the 1900 census gives 1888)."
    ]
   },
   {
@@ -50042,6 +50263,66 @@
     "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]",
     "Kenneth J., aged 7 in the 1930 census and 16 in 1940; named Kenneth Joseph in his parents' death notices.",
     "The Quinn Family Tree on Ancestry gives him as Joseph Kenneth Schriefer, born 7 Jul 1923 in Baltimore, died 2005."
+   ]
+  },
+  {
+   "id": "schruefer_margaretha",
+   "name": "Margaretha Schrüfer",
+   "aliases": [
+    "Margaretha Schriefer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "schriefer_bartholomew"
+   ],
+   "siblings": [],
+   "families": [
+    "F_schlasberger_joseph+schruefer_margaretha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Zeegendorf, Bamberg, Bavaria"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 65818037 (Bartholomew Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+   ],
+   "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Named as the mother of Bartholomew Schriefer, born 9 Sep 1839 at Zeegendorf in the parish of Mistendorf."
    ]
   },
   {
@@ -66195,6 +66476,17 @@
    "marriage": null
   },
   {
+   "id": "F_denzlein_karl+popp_margaretha",
+   "partners": [
+    "denzlein_karl",
+    "popp_margaretha"
+   ],
+   "children": [
+    "denzlein_margaret"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_denzlein_margaret+schriefer_bartholomew",
    "partners": [
     "denzlein_margaret",
@@ -67937,6 +68229,17 @@
     "sawyer_carolyn"
    ],
    "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_schlasberger_joseph+schruefer_margaretha",
+   "partners": [
+    "schlasberger_joseph",
+    "schruefer_margaretha"
+   ],
+   "children": [
+    "schriefer_bartholomew"
+   ],
    "marriage": null
   },
   {

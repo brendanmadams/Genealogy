@@ -1,0 +1,37 @@
+{
+  "id": "popp_margaretha",
+  "name": "Margaretha Popp (Denzlein)",
+  "sex": "F",
+  "birth": "1821",
+  "death": "15 Oct 1877",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "denzlein_karl",
+    "children": [
+      "denzlein_margaret"
+    ]
+  },
+  "locations": [
+    "Mistendorf, Bamberg, Bavaria"
+  ],
+  "sources": [
+    "Find a Grave, memorial 65818125 (Margaret Denzlein Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+  ],
+  "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Born 1821; married Karl Denzlein at Mistendorf on 8 Feb 1847; died there on 15 Oct 1877, when her daughter Margaret was 12."
+  ],
+  "aliases": [
+    "Margaret Denzlein"
+  ]
+}

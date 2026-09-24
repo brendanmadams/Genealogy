@@ -1,0 +1,37 @@
+{
+  "id": "schlasberger_joseph",
+  "name": "Joseph Schlasberger",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "",
+    "children": [
+      "schriefer_bartholomew"
+    ]
+  },
+  "locations": [
+    "Zeegendorf, Bamberg, Bavaria"
+  ],
+  "sources": [
+    "Find a Grave, memorial 65818037 (Bartholomew Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+  ],
+  "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Named as the father of Bartholomew Schriefer (born 1839 at Zeegendorf); the son took his mother's surname, Schrüfer (Schriefer), which suggests his parents were not married when he was born. Spelled Schlasberger on Find a Grave and Schalsberger in the tree."
+  ],
+  "aliases": [
+    "Joseph Schalsberger"
+  ]
+}

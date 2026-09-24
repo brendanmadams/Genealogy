@@ -1,0 +1,39 @@
+{
+  "id": "denzlein_karl",
+  "name": "Karl Denzlein",
+  "sex": "M",
+  "birth": "1 Dec 1822",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [
+    "Farmer (1847)."
+  ],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "popp_margaretha",
+    "children": [
+      "denzlein_margaret"
+    ]
+  },
+  "locations": [
+    "Hochstall, Bamberg, Bavaria",
+    "Mistendorf, Bamberg, Bavaria"
+  ],
+  "sources": [
+    "Find a Grave, memorial 65818125 (Margaret Denzlein Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+  ],
+  "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Born 1 Dec 1822 at house no. 5, Hochstall, and baptized the next day at the Church of the Assumption (Mariä Himmelfahrt), Mistendorf; a farmer at house no. 48, Mistendorf. Married Margaretha Popp there on 8 Feb 1847; their children included Margaretha (1849), Georg (1850–1851), Georg (1853), Margaretha (1860), Barbara (1862) and Margaret (1865). Alive when his wife died in 1877.",
+    "UNPROVEN lead: the same tree names his parents as Johann Georg Denzlein (1796–1872) and Barbara Pfeufer (born 1794)."
+  ],
+  "aliases": []
+}

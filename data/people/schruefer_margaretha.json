@@ -1,0 +1,37 @@
+{
+  "id": "schruefer_margaretha",
+  "name": "Margaretha Schrüfer",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "",
+    "children": [
+      "schriefer_bartholomew"
+    ]
+  },
+  "locations": [
+    "Zeegendorf, Bamberg, Bavaria"
+  ],
+  "sources": [
+    "Find a Grave, memorial 65818037 (Bartholomew Schriefer, Most Holy Redeemer Cemetery, Baltimore)",
+    "Ancestry.com, public member tree \"Frank and Shugars Families\" (tree 113007221), citing the Mistendorf parish registers and Baltimore church and civil records"
+  ],
+  "notes": [
+    "UNPROVEN: from the Find a Grave biographies and the \"Frank and Shugars Families\" member tree, which cites the Mistendorf parish registers; not yet checked against the registers. Named as the mother of Bartholomew Schriefer, born 9 Sep 1839 at Zeegendorf in the parish of Mistendorf."
+  ],
+  "aliases": [
+    "Margaretha Schriefer"
+  ]
+}
