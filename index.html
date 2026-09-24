@@ -7,7 +7,7 @@
 <meta name="description" content="An interactive family history for the Adams, McKeldin and related families." />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="css/app.css?v=e2a1e36b" data-versioned />
+<link rel="stylesheet" href="css/app.css?v=02160b08" data-versioned />
 </head>
 <body>
 <div id="app">
@@ -18,6 +18,10 @@
       <input id="search" type="search" placeholder="Search people…  ( / )" autocomplete="off" aria-label="Search people" />
       <div class="dropdown" id="search-results"></div>
     </div>
+    <form class="ask-box" id="ask-form" role="search" aria-label="Ask a question">
+      <input id="ask" type="search" placeholder="Ask a question…" autocomplete="off" aria-label="Ask a question about the family" />
+    </form>
+    <button class="hbtn" id="btn-ask" title="Ask a question">✦ <span class="label">Ask</span></button>
     <div class="spacer"></div>
     <button class="hbtn" id="btn-home" title="Start page">⌂ <span class="label">Start</span></button>
     <button class="hbtn" id="btn-fit" title="Fit the tree in view">⤢ <span class="label">Fit</span></button>
@@ -68,8 +72,9 @@
 <!-- versions:start (written by scripts/build.js; each file gets ?v=<content hash> so browsers fetch changes immediately) -->
 <script type="importmap">{
  "imports": {
-  "./js/app.js": "./js/app.js?v=e6607794",
-  "./js/config.js": "./js/config.js?v=39de7122",
+  "./js/app.js": "./js/app.js?v=dec51526",
+  "./js/ask.js": "./js/ask.js?v=ee4ff1ad",
+  "./js/config.js": "./js/config.js?v=ccfc531b",
   "./js/data.js": "./js/data.js?v=eaab13e0",
   "./js/descendants.js": "./js/descendants.js?v=bef0ca3f",
   "./js/layout.js": "./js/layout.js?v=143a2a06",
@@ -83,6 +88,6 @@
  }
 }</script>
 <!-- versions:end -->
-<script type="module" src="js/app.js?v=e6607794" data-versioned></script>
+<script type="module" src="js/app.js?v=dec51526" data-versioned></script>
 </body>
 </html>

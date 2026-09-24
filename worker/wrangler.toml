@@ -9,3 +9,13 @@ SITE_URL = "https://brendanmadams.github.io/Genealogy/"
 
 # Secrets, set once with `npx wrangler secret put <NAME>` (never put them here):
 #   GITHUB_TOKEN, TURNSTILE_SECRET
+
+# "Ask a question" (POST /ask): Workers AI, on the free daily allowance
+[ai]
+binding = "AI"
+
+# At most 12 questions a minute from one visitor
+[[ratelimits]]
+name = "ASK_LIMITER"
+namespace_id = "1001"
+simple = { limit = 12, period = 60 }

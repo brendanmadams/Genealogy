@@ -76,3 +76,22 @@ right to share it (they tick a box when attaching). Newspaper clippings after
 `wrangler.toml` holds the repo name, the site address and the origins allowed
 to post (`https://brendanmadams.github.io` and `http://localhost:5580` for
 local testing). The free Workers plan allows 100,000 requests a day.
+
+## Ask a question (POST /ask)
+
+The same Worker answers questions typed into the site's **Ask a question**
+box. The site answers exact questions itself (how two people are related,
+parents, children, siblings, spouses, cousins, dates, places, "who was born
+in …" lists) without calling the Worker. Everything else is sent to `/ask`
+with only the records for the chart on screen, plus anyone named in the
+question: about 24,000 characters at most, with living people reduced to
+names and relationships.
+
+- Model: `@cf/google/gemma-4-26b-a4b-it` on Workers AI, with its "thinking"
+  step turned off. The instructions are fixed in the Worker, so a page cannot
+  change them.
+- Cost: the free Workers AI allowance (10,000 neurons a day, roughly 100–150
+  questions). On the free plan it stops for the day rather than billing; the
+  exact answers keep working.
+- Abuse limit: 12 questions a minute from one visitor (the `ASK_LIMITER`
+  binding in `wrangler.toml`).

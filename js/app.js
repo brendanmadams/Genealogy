@@ -8,6 +8,7 @@ import { renderPanel } from './panel.js';
 import { Sidebar } from './sidebar.js';
 import { Viewer } from './viewer.js';
 import { Suggest } from './suggest.js';
+import { Ask } from './ask.js';
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -26,7 +27,7 @@ const me = {
 };
 let compareId = null;   // someone picked in the panel's compare box
 
-let D, renderer, sidebar, viewer, suggest, focusId = null;
+let D, renderer, sidebar, viewer, suggest, ask, focusId = null;
 
 async function main() {
   try { D = await loadFamily(); }
@@ -38,6 +39,7 @@ async function main() {
   sidebar = new Sidebar($('#dir'), D, focus);
   viewer = new Viewer(D, focus);
   suggest = new Suggest();
+  ask = new Ask(D, { getView: () => ({ focusId, view, gens: gens[view] }), getMe: () => me.get(), onPick: id => focus(id) });
   wireHeader();
   wirePanel();
   window.addEventListener('hashchange', route);
@@ -148,6 +150,8 @@ function showLanding() {
 // ── Header / search ─────────────────────────────────────────────────────────
 function wireHeader() {
   wireSearch($('#search'), $('#search-results'));
+  $('#ask-form').addEventListener('submit', e => { e.preventDefault(); const q = $('#ask').value.trim(); if (q) { ask.ask(q); $('#ask').value = ''; $('#ask').blur(); } });
+  $('#btn-ask').addEventListener('click', () => ask.openEmpty());
   $('#btn-home').addEventListener('click', () => { location.hash = ''; });
   $('#btn-fit').addEventListener('click', () => renderer.fit(true));
   $('#zoom-in').addEventListener('click', () => renderer.zoomBy(1.3));

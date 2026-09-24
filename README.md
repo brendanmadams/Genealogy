@@ -93,3 +93,10 @@ corrections made at that time.
 Each person panel can offer a "Suggest a correction or addition" form. Suggestions go to a
 private review repo through a small Cloudflare Worker; see `worker/README.md` for setup and
 review.
+
+## Ask a question
+
+The box next to the search bar answers questions about the family. Exact
+questions are answered from the data in the browser (`js/ask.js`); open
+questions go to a free Workers AI model through the same Worker, which reads
+only the records for the chart on screen. See `worker/README.md`.

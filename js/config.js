@@ -7,3 +7,9 @@ export const SUGGEST = {
   // Cloudflare Turnstile site key (the public half; the secret lives in the Worker)
   turnstileSiteKey: '0x4AAAAAAFCoWvk-MZZd0Ifi',
 };
+
+// "Ask a question": the Worker's /ask endpoint (Cloudflare Workers AI). Leave
+// it empty to answer only from the records, with no AI.
+export const ASK = {
+  endpoint: 'https://genealogy-submissions.brendanmadams.workers.dev/ask',
+};

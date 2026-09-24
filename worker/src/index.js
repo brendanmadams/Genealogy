@@ -7,7 +7,8 @@
 //   GITHUB_TOKEN      fine-grained token for the submissions repo only
 //                     (Contents: read/write, Issues: read/write)
 //   TURNSTILE_SECRET  Cloudflare Turnstile secret key
-// Vars (wrangler.toml): REPO, ALLOWED_ORIGINS, SITE_URL
+// Vars (wrangler.toml): REPO, ALLOWED_ORIGINS, SITE_URL; bindings AI and ASK_LIMITER
+// Routes: POST / files a suggestion; POST /ask answers a question (see handleAsk)
 
 const MAX_FILES = 3;
 const MAX_FILE_BYTES = 8 * 1024 * 1024;
@@ -27,6 +28,7 @@ export default {
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: cors });
     if (request.method !== 'POST') return reply(405, { ok: false, error: 'POST only' });
     if (!cors['Access-Control-Allow-Origin']) return reply(403, { ok: false, error: 'Unknown origin' });
+    if (new URL(request.url).pathname === '/ask') return handleAsk(request, env, reply);
 
     let form;
     try { form = await request.formData(); } catch { return reply(400, { ok: false, error: 'Could not read the form' }); }
@@ -94,6 +96,55 @@ export default {
     return reply(200, { ok: true, number: issue.number, ref });
   },
 };
+
+// ── POST /ask: answer a question from the records the site sends ───────────
+// The site sends the question, a label for the selection on screen and the
+// records for that selection (already trimmed). The instructions below are
+// fixed here, so a page cannot change them. Uses the free Workers AI
+// allowance; on the free plan it stops for the day instead of billing.
+const ASK_MODEL = '@cf/google/gemma-4-26b-a4b-it';
+const ASK_SYSTEM = `You help relatives explore the Adams–McKeldin family history website. Answer the question using ONLY the family records provided. Each record starts with a person's id in square brackets.
+
+Rules:
+- Use only facts stated in the records. If they do not answer the question, say plainly what is and is not recorded. Never guess, and never fill gaps from general knowledge.
+- Whenever you mention a person, put their id in square brackets right after the name, e.g. "Ellen Rogers Ball [ball_ellen_rogers]".
+- Anything the records call UNPROVEN, "Inferred" or "Lead" must stay labelled as unproven in your answer.
+- For people marked living, give only names and relationships.
+- Be concise: at most about 200 words. Plain text only: short paragraphs, "- " for list items, **bold** sparingly. No headings or tables.`;
+
+async function handleAsk(request, env, reply) {
+  const ip = request.headers.get('CF-Connecting-IP') || 'unknown';
+  if (env.ASK_LIMITER) {
+    const { success } = await env.ASK_LIMITER.limit({ key: ip });
+    if (!success) return reply(429, { ok: false, error: 'That is a lot of questions at once. Please wait a minute and try again.' });
+  }
+  let body;
+  try { body = await request.json(); } catch { return reply(400, { ok: false, error: 'Could not read the question.' }); }
+  const question = String(body?.question ?? '').trim().slice(0, 500);
+  const scope = String(body?.scope ?? '').trim().slice(0, 200);
+  const context = String(body?.context ?? '').slice(0, 30000);
+  if (question.length < 3) return reply(400, { ok: false, error: 'Please type a question.' });
+  if (!context.trim()) return reply(400, { ok: false, error: 'Open a person first, so there are records to read.' });
+  try {
+    const out = await env.AI.run(env.ASK_MODEL || ASK_MODEL, {
+      messages: [
+        { role: 'system', content: ASK_SYSTEM },
+        { role: 'user', content: `Selection on screen: ${scope || 'not given'}\n\nRecords:\n${context}\n\nQuestion: ${question}` },
+      ],
+      max_tokens: 700,
+      temperature: 0.2,
+      chat_template_kwargs: { enable_thinking: false },   // answer directly; thinking used up the token budget
+    });
+    const answer = String(out?.response ?? out?.choices?.[0]?.message?.content ?? '').trim();
+    if (!answer) throw new Error('empty answer');
+    return reply(200, { ok: true, answer });
+  } catch (e) {
+    const msg = String(e?.message || e);
+    console.error('AI failed', msg.slice(0, 300));
+    if (/4006|daily free allocation|neurons/i.test(msg)) return reply(429, { ok: false, error: 'The AI has used its free allowance for today. The exact answers still work; try the AI again tomorrow.' });
+    return reply(502, { ok: false, error: 'The AI could not answer just now. Please try again in a minute.' });
+  }
+}
 
 async function verifyTurnstile(env, token, ip) {
   if (!token) return false;
