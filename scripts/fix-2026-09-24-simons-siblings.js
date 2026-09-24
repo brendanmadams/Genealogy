@@ -34,7 +34,12 @@ const KIDS = 'Henry Simons\'s will names his wife Mary and nine children: Mary J
 
 // "Ann" and "Han R." are the same daughter
 if (exists('simons_han_r')) move('simons_han_r', 'simons_ann_1854');
-edit('simons_henry', WILL, p => { add(p.milestones, 'Will recorded in Williams County, Ohio (will records 1889–1897)'); note(p, KIDS); });
+edit('simons_henry', WILL, p => {
+  p.milestones = p.milestones.filter(t => t !== 'Will recorded in Williams County, Ohio (will records 1889–1897)');
+  add(p.milestones, 'Made his will on 17 Mar 1889; proved at Bryan, Williams County, Ohio, 23 Jul 1890');
+  note(p, KIDS);
+  note(p, 'His will, made 17 Mar 1889 in Northwest Township, left his property to his wife Mary while she remained his widow (she died first, in Dec 1889); thirty acres of section 15 to "Mary A. Simons, wife of Richard Simons"; five dollars each to his daughters Mary Jane, Sarah, Isabell and Emma and his sons Aaron and Richard; and the rest in equal shares to George A., Ann Rebecca and Olive Catharine. When it was proved at Bryan on 23 Jul 1890, notice went to the next of kin living in Ohio: Ann R. Forester, Olive C. Decker, Mary J. Fryman and a Rachel Simons (not identified). Witnesses: R. K. and J. M. Haughey.');
+});
 
 // Mary Jane, born before the 1845 marriage
 person('simons_mary_jane', 'Mary Jane Simons (Fryman)', 'F', [WILL, FAG(29778599)], p => {
@@ -71,8 +76,21 @@ for (const [id, name, sex, text] of [['rogers_henry', 'Henry Rogers', 'M', 'Of P
 }
 
 // Isabella and Harriet Emma
-edit('simons_isabella', WILL, p => { add(p.aliases, 'Isabell Simons'); note(p, 'Named "Isabell" in her father Henry Simons\'s will; her married name and later life are not yet found.'); });
-edit('simons_harriet_e', WILL, p => { rename(p, ['Harriet E. Simons'], 'Harriet Emma Simons'); note(p, 'Named Harriet Emma in her father Henry Simons\'s will; her married name and later life are not yet found.'); });
+const NOT_OHIO = 'She was not among the next of kin living in Ohio who were notified when the will was proved in 1890, so she probably lived elsewhere by then (or had died). Searches of the Indiana and Ohio county marriage indexes, including DeKalb and Williams counties, found no certain match; an Isabella Simmons married John White in Indiana on 22 Mar 1876, county not given.';
+edit('simons_isabella', WILL, p => {
+  add(p.aliases, 'Isabell Simons');
+  p.notes = p.notes.filter(t => t !== 'Named "Isabell" in her father Henry Simons\'s will; her married name and later life are not yet found.');
+  note(p, 'Named "Isabell" in her father Henry Simons\'s will (1889), which left her five dollars. Her married name and later life are not yet found.');
+  note(p, NOT_OHIO);
+});
+edit('simons_harriet_e', WILL, p => {
+  rename(p, ['Harriet E. Simons'], 'Harriet Emma Simons');
+  add(p.aliases, 'Emma Simons');
+  p.notes = p.notes.filter(t => t !== 'Named Harriet Emma in her father Henry Simons\'s will; her married name and later life are not yet found.');
+  note(p, 'Called "Emma" in the text of her father Henry Simons\'s will (1889), which left her five dollars, and indexed as Harriet Emma. Her married name and later life are not yet found.');
+  note(p, NOT_OHIO.replace('; an Isabella Simmons married John White in Indiana on 22 Mar 1876, county not given', ', under either Harriet or Emma'));
+});
+edit('simons_richard', WILL, p => note(p, 'His father\'s will (1889) left thirty acres of section 15, Northwest Township, Williams County, to his wife Mary A. Simons, and five dollars to Richard.'));
 
 // George A.
 edit('simons_george_a', [WILL, INDEATH, INMARR], p => {
