@@ -1,6 +1,6 @@
 {
   "id": "stang_bern",
-  "name": "Bernard J. Stang",
+  "name": "Bernard J. Stang Jr.",
   "birth": "abt 1931",
   "death": "",
   "personality": [],
@@ -14,25 +14,34 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "stang_catherine",
+    "father": "stang_bernard_sr",
     "siblings": [],
     "spouse": "quinn_joan",
     "children": [
-      "stang_mark"
+      "stang_mark",
+      "stang_john_quinn"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Baltimore, Maryland",
+    "Sparta, New Jersey",
+    "Easton, Pennsylvania"
+  ],
   "sources": [
     "Brendan Adams (personal knowledge), 2026",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
-    "Ancestry.com, U.S., Newspapers.com Marriage Index (Baltimore Sun, 6 Jan 1952)"
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Baltimore Sun, 6 Jan 1952)",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Obituary of Justin Kyle Stang, Morning Call, Allentown, Feb 2004 (Legacy.com)"
   ],
   "notes": [
-    "Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]"
+    "Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]",
+    "Aged 9 in the 1940 census as Bernard J. Stang Jr., living with his parents Bernard and Catherine Stang and his sister Bernice and brother William at 3020 Clifton Park Terrace, Baltimore."
   ],
   "aliases": [
-    "Bern Stang"
+    "Bern Stang",
+    "Bernard J. Stang"
   ],
   "sex": "M"
 }

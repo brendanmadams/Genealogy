@@ -1,0 +1,34 @@
+{
+  "id": "gilden_unknown",
+  "name": "(Unknown) Gilden",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "quinn_pat",
+    "children": [
+      "gilden_christopher",
+      "gilden_patrick",
+      "gilden_kelly"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
+  ],
+  "notes": [
+    "Placeholder for the first husband of Patricia Marie Quinn and father of her Gilden children; his first name is not recorded."
+  ],
+  "aliases": []
+}

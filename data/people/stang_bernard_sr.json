@@ -1,0 +1,36 @@
+{
+  "id": "stang_bernard_sr",
+  "name": "Bernard Stang",
+  "sex": "M",
+  "birth": "abt 1892",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "stang_catherine",
+    "children": [
+      "stang_bern"
+    ]
+  },
+  "locations": [
+    "Baltimore, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, 1940 United States Federal Census"
+  ],
+  "notes": [
+    "Aged 48 in the 1940 census at 3020 Clifton Park Terrace, Baltimore, with his wife Catherine and children Bernice (24), William (19) and Bernard Jr. (9)."
+  ],
+  "aliases": [
+    "Bernard Stang Sr."
+  ]
+}

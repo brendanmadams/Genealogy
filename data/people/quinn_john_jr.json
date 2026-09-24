@@ -9,10 +9,12 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Died before 2021"
+    "Married Joan Patricia Hogan"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Retired Associate Director, Maryland Department of Assessments and Taxation."
+  ],
   "relationships": {
     "mother": "quinn_marie_ellinghaus",
     "father": "quinn_john_joseph",
@@ -21,8 +23,13 @@
       "quinn_pat",
       "margaret_peggy_mckeldin"
     ],
-    "spouse": "",
-    "children": []
+    "spouse": "hogan_joan_patricia",
+    "children": [
+      "quinn_john_j_3",
+      "quinn_sharon",
+      "quinn_joan_galbreath",
+      "quinn_matthew"
+    ]
   },
   "locations": [
     "Baltimore, MD",
@@ -34,14 +41,16 @@
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
     "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
     "Ancestry.com, U.S., Obituary Collection (John Joseph Quinn Jr., Columbia, Maryland, 22 May 2013)",
-    "Find a Grave, memorial 208190620"
+    "Find a Grave, memorial 208190620",
+    "Obituary of John J. Quinn Jr., Baltimore Sun, 19 May 2013 (Legacy.com)"
   ],
   "notes": [
     "Barbara identifies John Quinn as Marie Ellinghaus-Quinn's husband.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14. Disambiguated from father quinn_john_joseph.",
     "Promoted from unresolved (john_quinn.json).",
-    "Born 6 May 1934; died 14 May 2013 at Forest Hill, Harford County (Quinn Family Tree on Ancestry; Find a Grave 1934–2013). His obituary appeared in Columbia, Maryland, on 22 May 2013."
+    "Born 6 May 1934; died 14 May 2013 at Forest Hill, Harford County (Quinn Family Tree on Ancestry; Find a Grave 1934–2013). His obituary appeared in Columbia, Maryland, on 22 May 2013.",
+    "Born and raised in Baltimore; graduated from the Shrine of the Little Flower school, Calvert Hall College and Loyola College (business administration); moved to Forest Hill, Harford County, in 1969; a member of St Ignatius Church, Hickory. Married Joan Patricia Hogan for over 50 years until her death in 2009. Survived by his children Sharon (Comes), Joan (Galbreath) and Matthew, four grandchildren, and his sister Catherine Joan Stang; predeceased by his son John J. Quinn."
   ],
   "sex": "M",
   "aliases": [

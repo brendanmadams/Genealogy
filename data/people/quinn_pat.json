@@ -11,8 +11,7 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Died before 2021",
-    "Married Walter G. Revty"
+    "Married (Unknown) Gilden; later married Walter G. Revty"
   ],
   "education": [],
   "career": [],
@@ -25,7 +24,16 @@
       "margaret_peggy_mckeldin"
     ],
     "spouse": "revty_walter_g",
-    "children": []
+    "children": [
+      "gilden_christopher",
+      "gilden_patrick",
+      "gilden_kelly",
+      "revty_amanda",
+      "revty_mark"
+    ],
+    "_extra_spouses": [
+      "gilden_unknown"
+    ]
   },
   "locations": [
     "Baltimore, MD",
@@ -36,7 +44,8 @@
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
   ],
   "notes": [
     "Barbara identifies Pat as one of John Joseph Quinn’s teenage children.",
@@ -44,7 +53,8 @@
     "Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "Pat Quinn, a teenager in about 1952; daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Barbara calls her \"Aunt Pat\".",
     "Promoted from unresolved (pat.json).",
-    "Born 28 Sep 1940 in Baltimore; died 21 Nov 2009 in Baltimore (Quinn Family Tree on Ancestry). Her husband Walter G. Revty (1938–2006) died 19 Dec 2006."
+    "Born 28 Sep 1940 in Baltimore; died 21 Nov 2009 in Baltimore (Quinn Family Tree on Ancestry). Her husband Walter G. Revty (1938–2006) died 19 Dec 2006.",
+    "Her obituary names her children Christopher, Patrick and Kelly Gilden (by an earlier marriage to a Gilden), Amanda Revty and the late Mark Revty, and her stepdaughter Sharon Helmly."
   ],
   "aliases": [
     "Pat Quinn",

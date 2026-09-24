@@ -95,8 +95,9 @@ edit('quinn_joan', [TREE, WED, OBIT13, FAG(224415296)], p => {
   add(p.milestones, 'Married Bernard J. Stang (m. abt 1952)');
   p.notes = p.notes.filter(t => t !== 'Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her "my aunt Joan Hogan" in one passage, which may point to an earlier marriage. [Barbara McKeldin Adams, A Memoir, text line 540]');
   note(p, 'Born Catherine Joan Quinn on 16 Dec 1930 in Baltimore; died 25 Jan 2018 at Easton, Pennsylvania, aged 87 (Find a Grave; Quinn Family Tree on Ancestry). Find a Grave places her burial at Gethsemane Cemetery, Easton; the tree gives Hickory, Harford County.');
-  note(p, 'Her marriage to Bernard J. Stang was announced in the Baltimore Sun on 6 Jan 1952, as Miss Catherine Joan Quinn, daughter of John Quinn. They lived in Greensboro, North Carolina, in 1960. The Quinn tree shows four children, all hidden as living; Mark Stang is one (per Brendan Adams). Her brother John Joseph Quinn Jr.\'s 2013 obituary names her as Catherine Joan Stang.');
-  note(p, 'Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her "my aunt Joan Hogan" in one passage, but Joan was still unmarried when her engagement to Bernard Stang was announced in 1952, so the name may belong to another aunt. [Barbara McKeldin Adams, A Memoir, text line 540]');
+  p.notes = p.notes.filter(t => !t.startsWith('Her marriage to Bernard J. Stang was announced') || t.includes('Sparta'));
+  note(p, 'Her marriage to Bernard J. Stang was announced in the Baltimore Sun on 6 Jan 1952, as Miss Catherine Joan Quinn, daughter of John Quinn. They lived in Greensboro, North Carolina, in 1960, and at Sparta, New Jersey, in 2004. The Quinn tree shows four children, all hidden as living; two are Mark (per Brendan Adams) and John Quinn Stang (named as their grandson Justin\'s father in his 2004 obituary). Her brother John Joseph Quinn Jr.\'s 2013 obituary names her as Catherine Joan Stang.');
+  p.notes = p.notes.filter(t => !t.startsWith('Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her "my aunt Joan Hogan"'));
 });
 edit('stang_bern', WED, p => {
   rename(p, ['Bern Stang'], 'Bernard J. Stang');
@@ -116,7 +117,8 @@ edit('quinn_pat', TREE, p => {
   p.birth = '28 Sep 1940';
   p.death = '21 Nov 2009';
   add(p.locations, 'Baltimore, Maryland');
-  add(p.milestones, 'Married Walter G. Revty');
+  p.milestones = p.milestones.filter(t => t !== 'Married Walter G. Revty');
+  add(p.milestones, 'Married (Unknown) Gilden; later married Walter G. Revty');
   note(p, 'Born 28 Sep 1940 in Baltimore; died 21 Nov 2009 in Baltimore (Quinn Family Tree on Ancestry). Her husband Walter G. Revty (1938–2006) died 19 Dec 2006.');
 });
 person('revty_walter_g', 'Walter G. Revty', 'M', TREE, p => { p.birth = p.birth || '1938'; p.death = p.death || '19 Dec 2006'; add(p.milestones, 'Married Patricia Marie Quinn'); note(p, 'Husband of Patricia Marie "Pat" Quinn; died 19 Dec 2006 in Baltimore (Quinn Family Tree on Ancestry).'); });

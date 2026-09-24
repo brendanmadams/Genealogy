@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T14:51:06.931Z",
-  "people": 673,
-  "family_members": 623,
+  "generated": "2026-09-24T14:58:28.710Z",
+  "people": 690,
+  "family_members": 640,
   "dna_matches": 50,
-  "connected_people": 623,
-  "families": 211,
+  "connected_people": 640,
+  "families": 215,
   "branches": [
    "adams",
    "hamilton",
@@ -15463,6 +15463,68 @@
    ]
   },
   {
+   "id": "gayhardt_darlene",
+   "name": "Darlene A. Gayhardt (Stang)",
+   "aliases": [
+    "Darlene Stang"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "stang_john_quinn"
+   ],
+   "children": [
+    "stang_justin_kyle",
+    "stang_katelyn"
+   ],
+   "siblings": [],
+   "families": [
+    "F_gayhardt_darlene+stang_john_quinn"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married John Quinn Stang"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Justin Kyle Stang, Morning Call, Allentown, Feb 2004 (Legacy.com)"
+   ],
+   "notes": [
+    "Wife of John Quinn Stang; her mother was Mary R. Gayhardt of Berlin, Maryland (2004)."
+   ]
+  },
+  {
    "id": "genevieve_mildred_smith",
    "name": "Genevieve Mildred Smith",
    "aliases": [],
@@ -16210,6 +16272,242 @@
    "notes": [
     "DNA match #17 on Simons branch.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "gilden_christopher",
+   "name": "Christopher Gilden",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "gilden_unknown",
+   "mother": "quinn_pat",
+   "parents": [
+    "gilden_unknown",
+    "quinn_pat"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "gilden_patrick",
+    "gilden_kelly"
+   ],
+   "families": [],
+   "parent_family": "F_gilden_unknown+quinn_pat",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
+   ],
+   "notes": [
+    "Child of Patricia Marie (Quinn) Revty and her first husband, a Gilden."
+   ]
+  },
+  {
+   "id": "gilden_kelly",
+   "name": "Kelly Gilden",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "gilden_unknown",
+   "mother": "quinn_pat",
+   "parents": [
+    "gilden_unknown",
+    "quinn_pat"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "gilden_christopher",
+    "gilden_patrick"
+   ],
+   "families": [],
+   "parent_family": "F_gilden_unknown+quinn_pat",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
+   ],
+   "notes": [
+    "Child of Patricia Marie (Quinn) Revty and her first husband, a Gilden."
+   ]
+  },
+  {
+   "id": "gilden_patrick",
+   "name": "Patrick Gilden",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "gilden_unknown",
+   "mother": "quinn_pat",
+   "parents": [
+    "gilden_unknown",
+    "quinn_pat"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "gilden_christopher",
+    "gilden_kelly"
+   ],
+   "families": [],
+   "parent_family": "F_gilden_unknown+quinn_pat",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
+   ],
+   "notes": [
+    "Child of Patricia Marie (Quinn) Revty and her first husband, a Gilden."
+   ]
+  },
+  {
+   "id": "gilden_unknown",
+   "name": "(Unknown) Gilden",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "quinn_pat"
+   ],
+   "children": [
+    "gilden_christopher",
+    "gilden_patrick",
+    "gilden_kelly"
+   ],
+   "siblings": [],
+   "families": [
+    "F_gilden_unknown+quinn_pat"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
+   ],
+   "notes": [
+    "Placeholder for the first husband of Patricia Marie Quinn and father of her Gilden children; his first name is not recorded."
    ]
   },
   {
@@ -23228,6 +23526,73 @@
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": []
+  },
+  {
+   "id": "hogan_joan_patricia",
+   "name": "Joan Patricia Hogan (Quinn)",
+   "aliases": [
+    "Joan Quinn",
+    "Joan Hogan"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2009",
+    "year": 2009,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "quinn_john_jr"
+   ],
+   "children": [
+    "quinn_john_j_3",
+    "quinn_sharon",
+    "quinn_joan_galbreath",
+    "quinn_matthew"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hogan_joan_patricia+quinn_john_jr"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married John Joseph Quinn Jr."
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of John J. Quinn Jr., Baltimore Sun, 19 May 2013 (Legacy.com)",
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+   ],
+   "notes": [
+    "Wife of John Joseph Quinn Jr. for over 50 years; died in 2009. She is the \"aunt Joan Hogan\" of Barbara McKeldin Adams's memoir, who went to college with Barbara's fifth-grade teacher, Mrs. Cronin. [Barbara McKeldin Adams, A Memoir, text line 540]"
+   ]
   },
   {
    "id": "hohimer_harralson_d",
@@ -36243,7 +36608,6 @@
    "name": "Catherine Joan Quinn (Stang)",
    "aliases": [
     "Joan Stang",
-    "Joan Hogan",
     "Joan Quinn (Stang)",
     "Joan Quinn",
     "Joan Q. Stang",
@@ -36281,7 +36645,8 @@
     "stang_bern"
    ],
    "children": [
-    "stang_mark"
+    "stang_mark",
+    "stang_john_quinn"
    ],
    "siblings": [
     "margaret_peggy_mckeldin",
@@ -36310,7 +36675,6 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Died before 2021",
     "Aunt Joan had a house in Ocean City, Maryland, where Barbara's family stayed on visits east when it was free.",
     "Married Bernard J. Stang (m. abt 1952)"
    ],
@@ -36336,10 +36700,136 @@
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14.",
     "Promoted from unresolved (joan.json).",
-    "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]",
     "Born Catherine Joan Quinn on 16 Dec 1930 in Baltimore; died 25 Jan 2018 at Easton, Pennsylvania, aged 87 (Find a Grave; Quinn Family Tree on Ancestry). Find a Grave places her burial at Gethsemane Cemetery, Easton; the tree gives Hickory, Harford County.",
-    "Her marriage to Bernard J. Stang was announced in the Baltimore Sun on 6 Jan 1952, as Miss Catherine Joan Quinn, daughter of John Quinn. They lived in Greensboro, North Carolina, in 1960. The Quinn tree shows four children, all hidden as living; Mark Stang is one (per Brendan Adams). Her brother John Joseph Quinn Jr.'s 2013 obituary names her as Catherine Joan Stang.",
-    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her \"my aunt Joan Hogan\" in one passage, but Joan was still unmarried when her engagement to Bernard Stang was announced in 1952, so the name may belong to another aunt. [Barbara McKeldin Adams, A Memoir, text line 540]"
+    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams).",
+    "Her marriage to Bernard J. Stang was announced in the Baltimore Sun on 6 Jan 1952, as Miss Catherine Joan Quinn, daughter of John Quinn. They lived in Greensboro, North Carolina, in 1960, and at Sparta, New Jersey, in 2004. The Quinn tree shows four children, all hidden as living; two are Mark (per Brendan Adams) and John Quinn Stang (named as their grandson Justin's father in his 2004 obituary). Her brother John Joseph Quinn Jr.'s 2013 obituary names her as Catherine Joan Stang."
+   ]
+  },
+  {
+   "id": "quinn_joan_galbreath",
+   "name": "Joan “Joanie” Quinn (Galbreath)",
+   "aliases": [
+    "Joan Galbreath",
+    "Joanie Quinn"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_john_jr",
+   "mother": "hogan_joan_patricia",
+   "parents": [
+    "hogan_joan_patricia",
+    "quinn_john_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_john_j_3",
+    "quinn_sharon",
+    "quinn_matthew"
+   ],
+   "families": [],
+   "parent_family": "F_hogan_joan_patricia+quinn_john_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of John J. Quinn Jr., Baltimore Sun, 19 May 2013 (Legacy.com)",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+   ],
+   "notes": [
+    "A first cousin of Barbara McKeldin Adams through her stepmother Peggy (Quinn) McKeldin; Barbara names the cousins Quinn, Tommy, Mark, Tim, Michael, Sharon, John, Joanie, Matthew, Billy and Bobbie. [Barbara McKeldin Adams, A Memoir, text line 413]",
+    "Married Brian Galbreath, a dairy farmer at Street, Maryland. Barbara sent her a tie quilt of cows for her firstborn. [Barbara McKeldin Adams, A Memoir, text line 3387]"
+   ]
+  },
+  {
+   "id": "quinn_john_j_3",
+   "name": "John J. Quinn",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "before 2013",
+    "year": 2013,
+    "qualifier": "before"
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_john_jr",
+   "mother": "hogan_joan_patricia",
+   "parents": [
+    "hogan_joan_patricia",
+    "quinn_john_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_sharon",
+    "quinn_joan_galbreath",
+    "quinn_matthew"
+   ],
+   "families": [],
+   "parent_family": "F_hogan_joan_patricia+quinn_john_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of John J. Quinn Jr., Baltimore Sun, 19 May 2013 (Legacy.com)",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+   ],
+   "notes": [
+    "A first cousin of Barbara McKeldin Adams through her stepmother Peggy (Quinn) McKeldin; Barbara names the cousins Quinn, Tommy, Mark, Tim, Michael, Sharon, John, Joanie, Matthew, Billy and Bobbie. [Barbara McKeldin Adams, A Memoir, text line 413]",
+    "Son of John J. Quinn Jr. and Joan (Hogan) Quinn; he died before his father (2013)."
    ]
   },
   {
@@ -36493,14 +36983,23 @@
     "quinn_john_joseph",
     "quinn_marie_ellinghaus"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "hogan_joan_patricia"
+   ],
+   "children": [
+    "quinn_john_j_3",
+    "quinn_sharon",
+    "quinn_joan_galbreath",
+    "quinn_matthew"
+   ],
    "siblings": [
     "margaret_peggy_mckeldin",
     "quinn_joan",
     "quinn_pat"
    ],
-   "families": [],
+   "families": [
+    "F_hogan_joan_patricia+quinn_john_jr"
+   ],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
    "dna_match": false,
@@ -36515,24 +37014,28 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Died before 2021"
+    "Married Joan Patricia Hogan"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Retired Associate Director, Maryland Department of Assessments and Taxation."
+   ],
    "sources": [
     "adams_direct_line_json_v1",
     "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
     "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
     "Ancestry.com, U.S., Obituary Collection (John Joseph Quinn Jr., Columbia, Maryland, 22 May 2013)",
-    "Find a Grave, memorial 208190620"
+    "Find a Grave, memorial 208190620",
+    "Obituary of John J. Quinn Jr., Baltimore Sun, 19 May 2013 (Legacy.com)"
    ],
    "notes": [
     "Barbara identifies John Quinn as Marie Ellinghaus-Quinn's husband.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14. Disambiguated from father quinn_john_joseph.",
     "Promoted from unresolved (john_quinn.json).",
-    "Born 6 May 1934; died 14 May 2013 at Forest Hill, Harford County (Quinn Family Tree on Ancestry; Find a Grave 1934–2013). His obituary appeared in Columbia, Maryland, on 22 May 2013."
+    "Born 6 May 1934; died 14 May 2013 at Forest Hill, Harford County (Quinn Family Tree on Ancestry; Find a Grave 1934–2013). His obituary appeared in Columbia, Maryland, on 22 May 2013.",
+    "Born and raised in Baltimore; graduated from the Shrine of the Little Flower school, Calvert Hall College and Loyola College (business administration); moved to Forest Hill, Harford County, in 1969; a member of St Ignatius Church, Hickory. Married Joan Patricia Hogan for over 50 years until her death in 2009. Survived by his children Sharon (Comes), Joan (Galbreath) and Matthew, four grandchildren, and his sister Catherine Joan Stang; predeceased by his son John J. Quinn."
    ]
   },
   {
@@ -36801,6 +37304,68 @@
    ]
   },
   {
+   "id": "quinn_matthew",
+   "name": "Matthew Quinn",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_john_jr",
+   "mother": "hogan_joan_patricia",
+   "parents": [
+    "hogan_joan_patricia",
+    "quinn_john_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_john_j_3",
+    "quinn_sharon",
+    "quinn_joan_galbreath"
+   ],
+   "families": [],
+   "parent_family": "F_hogan_joan_patricia+quinn_john_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of John J. Quinn Jr., Baltimore Sun, 19 May 2013 (Legacy.com)",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+   ],
+   "notes": [
+    "A first cousin of Barbara McKeldin Adams through her stepmother Peggy (Quinn) McKeldin; Barbara names the cousins Quinn, Tommy, Mark, Tim, Michael, Sharon, John, Joanie, Matthew, Billy and Bobbie. [Barbara McKeldin Adams, A Memoir, text line 413]",
+    "Of Forest Hill, Maryland. A Billy Joel fan; his cousins took him to Billy Joel's concerts. [Barbara McKeldin Adams, A Memoir, text line 3015]"
+   ]
+  },
+  {
    "id": "quinn_pat",
    "name": "Patricia Marie Quinn (Revty)",
    "aliases": [
@@ -36836,15 +37401,23 @@
     "quinn_marie_ellinghaus"
    ],
    "spouses": [
-    "revty_walter_g"
+    "revty_walter_g",
+    "gilden_unknown"
    ],
-   "children": [],
+   "children": [
+    "gilden_christopher",
+    "gilden_patrick",
+    "gilden_kelly",
+    "revty_amanda",
+    "revty_mark"
+   ],
    "siblings": [
     "margaret_peggy_mckeldin",
     "quinn_joan",
     "quinn_john_jr"
    ],
    "families": [
+    "F_gilden_unknown+quinn_pat",
     "F_quinn_pat+revty_walter_g"
    ],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
@@ -36863,8 +37436,7 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Died before 2021",
-    "Married Walter G. Revty"
+    "Married (Unknown) Gilden; later married Walter G. Revty"
    ],
    "education": [],
    "career": [],
@@ -36873,7 +37445,8 @@
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
    ],
    "notes": [
     "Barbara identifies Pat as one of John Joseph Quinn’s teenage children.",
@@ -36881,7 +37454,8 @@
     "Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "Pat Quinn, a teenager in about 1952; daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Barbara calls her \"Aunt Pat\".",
     "Promoted from unresolved (pat.json).",
-    "Born 28 Sep 1940 in Baltimore; died 21 Nov 2009 in Baltimore (Quinn Family Tree on Ancestry). Her husband Walter G. Revty (1938–2006) died 19 Dec 2006."
+    "Born 28 Sep 1940 in Baltimore; died 21 Nov 2009 in Baltimore (Quinn Family Tree on Ancestry). Her husband Walter G. Revty (1938–2006) died 19 Dec 2006.",
+    "Her obituary names her children Christopher, Patrick and Kelly Gilden (by an earlier marriage to a Gilden), Amanda Revty and the late Mark Revty, and her stepdaughter Sharon Helmly."
    ]
   },
   {
@@ -36950,6 +37524,70 @@
    ],
    "notes": [
     "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry."
+   ]
+  },
+  {
+   "id": "quinn_sharon",
+   "name": "Sharon Quinn (Comes)",
+   "aliases": [
+    "Sharon Comes"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_john_jr",
+   "mother": "hogan_joan_patricia",
+   "parents": [
+    "hogan_joan_patricia",
+    "quinn_john_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_john_j_3",
+    "quinn_joan_galbreath",
+    "quinn_matthew"
+   ],
+   "families": [],
+   "parent_family": "F_hogan_joan_patricia+quinn_john_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of John J. Quinn Jr., Baltimore Sun, 19 May 2013 (Legacy.com)",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+   ],
+   "notes": [
+    "A first cousin of Barbara McKeldin Adams through her stepmother Peggy (Quinn) McKeldin; Barbara names the cousins Quinn, Tommy, Mark, Tim, Michael, Sharon, John, Joanie, Matthew, Billy and Bobbie. [Barbara McKeldin Adams, A Memoir, text line 413]",
+    "Married Dan Comes; they live in Bel Air, Maryland. Barbara, ten years older, calls her the nearest in age of her girl cousins. [Barbara McKeldin Adams, A Memoir, text line 949]"
    ]
   },
   {
@@ -37232,6 +37870,122 @@
    ]
   },
   {
+   "id": "revty_amanda",
+   "name": "Amanda Revty",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "revty_walter_g",
+   "mother": "quinn_pat",
+   "parents": [
+    "quinn_pat",
+    "revty_walter_g"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "revty_mark"
+   ],
+   "families": [],
+   "parent_family": "F_quinn_pat+revty_walter_g",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
+   ],
+   "notes": [
+    "Daughter of Walter G. and Patricia (Quinn) Revty."
+   ]
+  },
+  {
+   "id": "revty_mark",
+   "name": "Mark Revty",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "before 2009",
+    "year": 2009,
+    "qualifier": "before"
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "revty_walter_g",
+   "mother": "quinn_pat",
+   "parents": [
+    "quinn_pat",
+    "revty_walter_g"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "revty_amanda"
+   ],
+   "families": [],
+   "parent_family": "F_quinn_pat+revty_walter_g",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Patricia Marie Revty, Baltimore Sun, 26 Nov 2009 (Legacy.com)"
+   ],
+   "notes": [
+    "Son of Walter G. and Patricia (Quinn) Revty; he died before his mother (2009). His wife was Robin Revty, and they had a son, Mark."
+   ]
+  },
+  {
    "id": "revty_walter_g",
    "name": "Walter G. Revty",
    "aliases": [],
@@ -37261,7 +38015,10 @@
    "spouses": [
     "quinn_pat"
    ],
-   "children": [],
+   "children": [
+    "revty_amanda",
+    "revty_mark"
+   ],
    "siblings": [],
    "families": [
     "F_quinn_pat+revty_walter_g"
@@ -43554,9 +44311,10 @@
   },
   {
    "id": "stang_bern",
-   "name": "Bernard J. Stang",
+   "name": "Bernard J. Stang Jr.",
    "aliases": [
-    "Bern Stang"
+    "Bern Stang",
+    "Bernard J. Stang"
    ],
    "photo": null,
    "card_name": null,
@@ -43578,24 +44336,32 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "stang_bernard_sr",
+   "mother": "stang_catherine",
+   "parents": [
+    "stang_bernard_sr",
+    "stang_catherine"
+   ],
    "spouses": [
     "quinn_joan"
    ],
    "children": [
-    "stang_mark"
+    "stang_mark",
+    "stang_john_quinn"
    ],
    "siblings": [],
    "families": [
     "F_quinn_joan+stang_bern"
    ],
-   "parent_family": null,
+   "parent_family": "F_stang_bernard_sr+stang_catherine",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Baltimore, Maryland",
+    "Sparta, New Jersey",
+    "Easton, Pennsylvania"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -43609,10 +44375,133 @@
    "sources": [
     "Brendan Adams (personal knowledge), 2026",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
-    "Ancestry.com, U.S., Newspapers.com Marriage Index (Baltimore Sun, 6 Jan 1952)"
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Baltimore Sun, 6 Jan 1952)",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Obituary of Justin Kyle Stang, Morning Call, Allentown, Feb 2004 (Legacy.com)"
    ],
    "notes": [
-    "Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]"
+    "Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]",
+    "Aged 9 in the 1940 census as Bernard J. Stang Jr., living with his parents Bernard and Catherine Stang and his sister Bernice and brother William at 3020 Clifton Park Terrace, Baltimore."
+   ]
+  },
+  {
+   "id": "stang_bernard_sr",
+   "name": "Bernard Stang",
+   "aliases": [
+    "Bernard Stang Sr."
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1892",
+    "year": 1892,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "stang_catherine"
+   ],
+   "children": [
+    "stang_bern"
+   ],
+   "siblings": [],
+   "families": [
+    "F_stang_bernard_sr+stang_catherine"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Baltimore, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1940 United States Federal Census"
+   ],
+   "notes": [
+    "Aged 48 in the 1940 census at 3020 Clifton Park Terrace, Baltimore, with his wife Catherine and children Bernice (24), William (19) and Bernard Jr. (9)."
+   ]
+  },
+  {
+   "id": "stang_catherine",
+   "name": "Catherine Stang",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1893",
+    "year": 1893,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "stang_bernard_sr"
+   ],
+   "children": [
+    "stang_bern"
+   ],
+   "siblings": [],
+   "families": [
+    "F_stang_bernard_sr+stang_catherine"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Baltimore, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1940 United States Federal Census"
+   ],
+   "notes": [
+    "Aged 47 in the 1940 census, wife of Bernard Stang; her birth surname is not recorded."
    ]
   },
   {
@@ -43780,6 +44669,199 @@
    ]
   },
   {
+   "id": "stang_john_quinn",
+   "name": "John Quinn Stang",
+   "aliases": [
+    "John Q. Stang",
+    "Quinn Stang"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "stang_bern",
+   "mother": "quinn_joan",
+   "parents": [
+    "quinn_joan",
+    "stang_bern"
+   ],
+   "spouses": [
+    "gayhardt_darlene"
+   ],
+   "children": [
+    "stang_justin_kyle",
+    "stang_katelyn"
+   ],
+   "siblings": [
+    "stang_mark"
+   ],
+   "families": [
+    "F_gayhardt_darlene+stang_john_quinn"
+   ],
+   "parent_family": "F_quinn_joan+stang_bern",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "South Whitehall Township, Lehigh County, Pennsylvania"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Darlene A. Gayhardt"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Justin Kyle Stang, Morning Call, Allentown, Feb 2004 (Legacy.com)",
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+   ],
+   "notes": [
+    "Son of Bernard J. and Catherine Joan (Quinn) Stang: his son Justin's 2004 obituary names Bernard J. and Catherine J. (Quinn) Stang as Justin's paternal grandparents. Possibly the cousin \"Quinn\" of Barbara's memoir, who is listed separately from a cousin John. [Barbara McKeldin Adams, A Memoir, text line 413]"
+   ]
+  },
+  {
+   "id": "stang_justin_kyle",
+   "name": "Justin Kyle Stang",
+   "aliases": [
+    "Kyle Stang"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1985",
+    "year": 1985,
+    "qualifier": null
+   },
+   "death": {
+    "text": "7 Feb 2004",
+    "year": 2004,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "stang_john_quinn",
+   "mother": "gayhardt_darlene",
+   "parents": [
+    "gayhardt_darlene",
+    "stang_john_quinn"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "stang_katelyn"
+   ],
+   "families": [],
+   "parent_family": "F_gayhardt_darlene+stang_john_quinn",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "South Whitehall Township, Lehigh County, Pennsylvania"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Justin Kyle Stang, Morning Call, Allentown, Feb 2004 (Legacy.com)"
+   ],
+   "notes": [
+    "Died 7 Feb 2004, aged 18, in a car accident in South Whitehall Township. A senior at Parkland High School, where he played varsity soccer and belonged to the National Honor Society and Spanish Club; a member of St Joseph the Worker Church, Orefield."
+   ]
+  },
+  {
+   "id": "stang_katelyn",
+   "name": "Katelyn B. Stang",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "stang_john_quinn",
+   "mother": "gayhardt_darlene",
+   "parents": [
+    "gayhardt_darlene",
+    "stang_john_quinn"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "stang_justin_kyle"
+   ],
+   "families": [],
+   "parent_family": "F_gayhardt_darlene+stang_john_quinn",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Justin Kyle Stang, Morning Call, Allentown, Feb 2004 (Legacy.com)"
+   ],
+   "notes": [
+    "Daughter of John Quinn and Darlene (Gayhardt) Stang; sister of Justin Kyle Stang."
+   ]
+  },
+  {
    "id": "stang_kevin",
    "name": "Kevin Stang",
    "aliases": [],
@@ -43874,7 +44956,9 @@
     "stang_kevin",
     "stang_emily"
    ],
-   "siblings": [],
+   "siblings": [
+    "stang_john_quinn"
+   ],
    "families": [
     "F_perusek_dawn+stang_mark"
    ],
@@ -43899,7 +44983,7 @@
    ],
    "notes": [
     "Son of Bern and Joan (Quinn) Stang, a cousin of Barbara McKeldin Adams: Joan was the sister of Barbara’s stepmother, Peggy (Quinn) McKeldin (per Brendan Adams). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket. [Barbara McKeldin Adams, A Memoir, text line 3389]",
-    "Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his \"big cousin\". John Q. Stang appears as John Quinn Stang in Allentown. So John is probably Mark’s brother, another son of Bern and Joan (Quinn) Stang; Barbara lists both a John and a Quinn among her cousins. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]"
+    "His brother is John Quinn Stang: the 2004 Morning Call obituary of John's son Justin Kyle Stang names his paternal grandparents as Bernard J. and Catherine J. (Quinn) Stang, and a Kevin Stang wrote in its guestbook to his \"big cousin\". [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]"
    ]
   },
   {
@@ -49516,6 +50600,18 @@
    "marriage": null
   },
   {
+   "id": "F_gayhardt_darlene+stang_john_quinn",
+   "partners": [
+    "gayhardt_darlene",
+    "stang_john_quinn"
+   ],
+   "children": [
+    "stang_justin_kyle",
+    "stang_katelyn"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_genevieve_mildred_smith+louis_russell_smith",
    "partners": [
     "genevieve_mildred_smith",
@@ -49549,6 +50645,19 @@
     "camille_remy"
    ],
    "marriage": "19 Aug 1964"
+  },
+  {
+   "id": "F_gilden_unknown+quinn_pat",
+   "partners": [
+    "gilden_unknown",
+    "quinn_pat"
+   ],
+   "children": [
+    "gilden_christopher",
+    "gilden_patrick",
+    "gilden_kelly"
+   ],
+   "marriage": null
   },
   {
    "id": "F_goodman_amber+jorgensen_dan",
@@ -49961,6 +51070,20 @@
     "kenoyer_wright"
    ],
    "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_hogan_joan_patricia+quinn_john_jr",
+   "partners": [
+    "hogan_joan_patricia",
+    "quinn_john_jr"
+   ],
+   "children": [
+    "quinn_john_j_3",
+    "quinn_sharon",
+    "quinn_joan_galbreath",
+    "quinn_matthew"
+   ],
    "marriage": null
   },
   {
@@ -50483,7 +51606,8 @@
     "stang_bern"
    ],
    "children": [
-    "stang_mark"
+    "stang_mark",
+    "stang_john_quinn"
    ],
    "marriage": "abt 1952"
   },
@@ -50507,7 +51631,10 @@
     "quinn_pat",
     "revty_walter_g"
    ],
-   "children": [],
+   "children": [
+    "revty_amanda",
+    "revty_mark"
+   ],
    "marriage": null
   },
   {
@@ -50687,6 +51814,17 @@
    ],
    "children": [
     "young_jacobina"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_stang_bernard_sr+stang_catherine",
+   "partners": [
+    "stang_bernard_sr",
+    "stang_catherine"
+   ],
+   "children": [
+    "stang_bern"
    ],
    "marriage": null
   },

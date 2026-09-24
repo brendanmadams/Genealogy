@@ -61,8 +61,7 @@ for (const [id, name] of [['schriefer_kenneth', 'Kenneth Schriefer'], ['schriefe
   person(id, name, MEM, { notes: [`Son of George "Goode" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo.${L(284)}`] });
   child(id, 'schriefer_george_goode', 'ethel_quinn_schriefer');
 }
-edit('emily_schrieffer_mckeldin', p => { if (!p.birth) p.birth = 'abt 1914'; note(p, `Birth estimated: Barbara says her mother died at 36 (she died 24 Oct 1950).${L(4157)}`); }, MEM);
-edit('ethel_quinn_schriefer', p => { if (!p.birth) p.birth = 'abt 1890'; note(p, `Birth estimated: Barbara says her grandmother died in her early sixties (she died 12 Apr 1952).${L(4158)}`); }, MEM);
+// Emily's and Ethel's birth estimates from the memoir were replaced by record dates (fix-2026-09-24-ancestry-mckeldin-schriefer.js)
 
 // ── 2. Corrections ────────────────────────────────────────────────────────
 edit('camille_remy', p => {
@@ -94,7 +93,7 @@ person('stang_mark', 'Mark Stang', BA, { notes: ['Son of Bern and Joan (Quinn) S
 person('perusek_dawn', 'Dawn Perusek (Stang)', BA, { birth: '23 Jun', aliases: ['Dawn Stang'], notes: ['Wife of Mark Stang.'] });
 wed('stang_mark', 'perusek_dawn');
 child('stang_mark', 'stang_bern', 'quinn_joan');
-edit('quinn_joan', p => { if (p.name === 'Joan Quinn') p.name = 'Joan Quinn (Stang)'; add(p.aliases, 'Joan Stang'); add(p.aliases, 'Joan Hogan'); note(p, `Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her "my aunt Joan Hogan" in one passage, which may point to an earlier marriage.${L(540)}`); }, BA);
+edit('quinn_joan', p => { if (p.name === 'Joan Quinn') p.name = 'Joan Quinn (Stang)'; add(p.aliases, 'Joan Stang'); p.aliases = p.aliases.filter(a => a !== 'Joan Hogan'); p.notes = p.notes.filter(t => !/^(Wife of Bern Stang and mother of Mark Stang \(per Brendan Adams\)\. Barbara calls her|Barbara mentions 'my aunt Joan Hogan')/.test(t)); note(p, 'Wife of Bern Stang and mother of Mark Stang (per Brendan Adams).'); }, BA);
 for (const [id, name] of [['stang_kevin', 'Kevin Stang'], ['stang_emily', 'Emily Stang']]) { person(id, name, BA, {}); child(id, 'stang_mark', 'perusek_dawn'); }
 person('bob_beryl', 'Bob', BA, { death: 'bef 1 Aug 1998', notes: ['Second husband of Beryl Simons Adams, whom he married after George Francis Adams Sr.’s death in 1980; they lived on a golf course in Olympia, Washington. He died before Beryl (1 Aug 1998).', 'Went with Beryl on the 1993 Alaska cruise with John and Barbara Adams and Barbara’s father and stepmother.' + L(3677)], locations: ['Olympia, Washington'] });
 edit('bob_beryl', p => {
@@ -107,7 +106,8 @@ edit('falde_brendan', p => { add(p.milestones, 'Died 12 Nov 2020, in a car accid
 // Mark Stang: web research, 2026-09-23 (not conclusive)
 edit('stang_mark', p => {
   add(p.locations, 'Allentown, Pennsylvania');
-  note(p, 'Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his "big cousin". John Q. Stang appears as John Quinn Stang in Allentown. So John is probably Mark’s brother, another son of Bern and Joan (Quinn) Stang; Barbara lists both a John and a Quinn among her cousins. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]');
+  p.notes = p.notes.filter(t => !t.startsWith('Research lead: the 2004 Morning Call obituary of Justin Kyle Stang'));
+  note(p, 'His brother is John Quinn Stang: the 2004 Morning Call obituary of John\'s son Justin Kyle Stang names his paternal grandparents as Bernard J. and Catherine J. (Quinn) Stang, and a Kevin Stang wrote in its guestbook to his "big cousin". [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]');
 }, 'Web research by Claude for Brendan Adams, 2026-09-23 (Legacy.com; people-search listing)');
 wed('beryl_simons_adams', 'bob_beryl');
 edit('beryl_simons_adams', p => { p.milestones = p.milestones.filter(t => !/^Married Bob/.test(t)); add(p.milestones, 'Married Bob Shriver (m. after 1980); they lived on a golf course in Olympia, Washington'); add(p.locations, 'Olympia, Washington'); }, BA);

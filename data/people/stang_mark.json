@@ -14,7 +14,9 @@
   "relationships": {
     "mother": "quinn_joan",
     "father": "stang_bern",
-    "siblings": [],
+    "siblings": [
+      "stang_john_quinn"
+    ],
     "spouse": "perusek_dawn",
     "children": [
       "stang_kevin",
@@ -30,7 +32,7 @@
   ],
   "notes": [
     "Son of Bern and Joan (Quinn) Stang, a cousin of Barbara McKeldin Adams: Joan was the sister of Barbara’s stepmother, Peggy (Quinn) McKeldin (per Brendan Adams). Barbara made his son Kevin a teddy-bear tie quilt, which Mark said Kevin carried everywhere like Linus’s blanket. [Barbara McKeldin Adams, A Memoir, text line 3389]",
-    "Research lead: the 2004 Morning Call obituary of Justin Kyle Stang (18, of South Whitehall Township, died 7 Feb 2004) names his parents John Q. and Darlene A. (Gayhardt) Stang, and a Kevin Stang wrote in its guestbook to his \"big cousin\". John Q. Stang appears as John Quinn Stang in Allentown. So John is probably Mark’s brother, another son of Bern and Joan (Quinn) Stang; Barbara lists both a John and a Quinn among her cousins. Not confirmed. [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]"
+    "His brother is John Quinn Stang: the 2004 Morning Call obituary of John's son Justin Kyle Stang names his paternal grandparents as Bernard J. and Catherine J. (Quinn) Stang, and a Kevin Stang wrote in its guestbook to his \"big cousin\". [Legacy.com, Justin Stang obituary, Morning Call, Feb 2004]"
   ],
   "aliases": [],
   "sex": "M"

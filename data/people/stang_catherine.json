@@ -1,0 +1,34 @@
+{
+  "id": "stang_catherine",
+  "name": "Catherine Stang",
+  "sex": "F",
+  "birth": "abt 1893",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "stang_bernard_sr",
+    "children": [
+      "stang_bern"
+    ]
+  },
+  "locations": [
+    "Baltimore, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, 1940 United States Federal Census"
+  ],
+  "notes": [
+    "Aged 47 in the 1940 census, wife of Bernard Stang; her birth surname is not recorded."
+  ],
+  "aliases": []
+}
