@@ -1,34 +1,48 @@
 {
   "id": "childs_thomas",
-  "name": "Thomas Childs",
-  "birth": "",
-  "death": "",
+  "name": "Thomas White Childs",
+  "birth": "20 May 1908",
+  "death": "7 May 1998",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Edith V. Adams"
+    "Married Edith Van Tyne Adams (m. abt 1934)",
+    "Buried at Willamette National Cemetery, Portland, Oregon"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Captain, U.S. Army."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
     "siblings": [],
     "spouse": "adams_edith_v",
-    "children": []
+    "children": [
+      "childs_george_c",
+      "childs_gregg_e"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Portland, Oregon"
+  ],
   "sources": [
     "adams_direct_line_summary_v1",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census",
+    "Ancestry.com, U.S., Veterans' Gravesites, ca. 1775-2019 (Willamette National Cemetery)",
+    "Find a Grave, memorial 36261118 (Edith Childs, Willamette National Cemetery)"
   ],
   "notes": [
-    "Husband of Edith V. Adams, George Francis Adams Sr.’s sister; they had two sons, whose names are not recorded.",
-    "UNPROVEN: known only from family recollection (Brendan Adams, 2026); no document in the collection records the marriage."
+    "Husband of Edith (Adams) Childs, George Francis Adams Sr.'s sister. Born 20 May 1908; died 7 May 1998; a captain in the U.S. Army, buried at Willamette National Cemetery. With Edith and their sons George C. and Gregg E. in Portland in 1940 and 1950."
   ],
   "sex": "M",
-  "aliases": []
+  "aliases": [
+    "Thomas Childs",
+    "Thomas W. Childs II"
+  ]
 }

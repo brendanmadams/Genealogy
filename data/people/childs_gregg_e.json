@@ -1,0 +1,33 @@
+{
+  "id": "childs_gregg_e",
+  "name": "Gregg E. Childs",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "adams_edith_v",
+    "father": "childs_thomas",
+    "siblings": [
+      "childs_george_c"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census"
+  ],
+  "notes": [
+    "Son of Thomas White and Edith (Adams) Childs; in their Portland household in the 1950 census."
+  ],
+  "aliases": []
+}

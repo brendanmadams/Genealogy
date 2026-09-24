@@ -1,8 +1,8 @@
 {
   "id": "adams_presley",
-  "name": "Presley Adams",
+  "name": "Presley Mark Adams",
   "birth": "22 June 1910",
-  "death": "January 1987",
+  "death": "9 Jan 1987",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -12,25 +12,30 @@
     "Census 1920: Douglas County, Oregon, aged 9, born Oregon"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Laboratory technician for the Standard Oil Company of California at Richmond (1940); he had four years of college."
+  ],
   "relationships": {
     "mother": "trumbo_serena_marie",
     "father": "adams_george_francis_2",
     "siblings": [
       "george_francis_adams_sr",
-      "adams_edith_v",
-      "adams_george_francis_2"
+      "adams_edith_v"
     ],
     "spouse": "adams_fran",
     "children": [
       "adams_sally",
-      "adams_casey"
+      "adams_casey",
+      "adams_frederick_s"
     ]
   },
   "locations": [
     "Sutherlin, OR",
     "Gardnerville, NV",
-    "Burlingame, San Mateo County, CA"
+    "Burlingame, San Mateo County, CA",
+    "Roseburg, Douglas County, Oregon",
+    "Richmond, Contra Costa County, California",
+    "Gardnerville, Douglas County, Nevada"
   ],
   "sources": [
     "adams_direct_line_summary_v1",
@@ -38,16 +43,27 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
+    "Ancestry.com, 1920 United States Federal Census (Sutherlin, Douglas County, Oregon)",
+    "Ancestry.com, 1930 United States Federal Census (Burlingame, San Mateo County, California)",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947",
+    "Ancestry.com, Nevada, U.S., Death Index, 1980-2012",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
   ],
   "notes": [
-    "Sibling of George Francis Adams Sr. (child of George Francis Adams #2 and Serena Trumbo). Previously listed as 'Presley Marcason Adams' in prior sources.",
     "Precise birth and death dates newly established. Sibling of George Francis Adams Sr.",
     "Pictured in a family photograph c. 1919 with his family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
-    "He and Fran had three children: Sally, Casey and a third whose name is not recorded."
+    "Born 22 Jun 1910 at Roseburg, Oregon, the first child of George F. Adams, druggist, and Serena Trumbo; his birth certificate names him Pressley Alfred Adams. As an adult he used Presley Mark Adams (1940 draft card, which gives 21 Jun 1910); family papers called him Presley Marcason, and the 1920 census index reads \"Presley N.\"",
+    "In 1930 he was 20, a stepson in Arthur T. Wells's household at Burlingame, California. By 1940 he lived at 140 Santa Fe Avenue, Richmond, with his wife Frances (24) and their infant son. He died on 9 Jan 1987 at Gardnerville, Nevada.",
+    "His obituary (Reno Gazette-Journal, 11 Jan 1987) names his wife Frances; his children Frederick S. Adams, Serena A. Haapala and Kathleen Adams; and his sisters Edith Childs, Daphne Miller and Rosemary O'Dell."
   ],
   "aliases": [
-    "Presley N. Adams"
+    "Presley N. Adams",
+    "Presley Adams",
+    "Pressley Alfred Adams",
+    "Presley M. Adams"
   ],
   "sex": "M"
 }

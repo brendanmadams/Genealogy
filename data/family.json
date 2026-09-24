@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-09-24T17:32:23.359Z",
-  "people": 886,
-  "family_members": 837,
+  "generated": "2026-09-24T17:45:53.440Z",
+  "people": 889,
+  "family_members": 840,
   "dna_matches": 49,
-  "connected_people": 837,
+  "connected_people": 840,
   "families": 303,
   "branches": [
    "adams",
@@ -778,7 +778,9 @@
   {
    "id": "adams_casey",
    "name": "Casey Adams",
-   "aliases": [],
+   "aliases": [
+    "Kathleen Adams"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -812,7 +814,8 @@
    "spouses": [],
    "children": [],
    "siblings": [
-    "adams_sally"
+    "adams_sally",
+    "adams_frederick_s"
    ],
    "families": [],
    "parent_family": "F_adams_fran+adams_presley",
@@ -829,10 +832,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
    "notes": [
-    "Never married; deceased."
+    "Never married; deceased.",
+    "Probably the \"Kathleen Adams\" named as Presley's daughter in his 1987 obituary, unmarried then; Casey would be a nickname."
    ]
   },
   {
@@ -1037,10 +1042,13 @@
   },
   {
    "id": "adams_edith_v",
-   "name": "Edith V. Adams (Childs)",
+   "name": "Edith Van Tyne Adams (Childs)",
    "aliases": [
     "Edith V. Adams",
-    "Edith Childs"
+    "Edith Childs",
+    "Edith V. Adams (Childs)",
+    "Edith Adams Childs",
+    "Edith A. Childs"
    ],
    "photo": null,
    "card_name": null,
@@ -1049,13 +1057,13 @@
     "george-f-adams-family-1919"
    ],
    "birth": {
-    "text": "abt 1913",
-    "year": 1913,
-    "qualifier": "about"
+    "text": "29 Apr 1912",
+    "year": 1912,
+    "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "10 May 2000",
+    "year": 2000,
     "qualifier": null
    },
    "living": false,
@@ -1077,7 +1085,10 @@
    "spouses": [
     "childs_thomas"
    ],
-   "children": [],
+   "children": [
+    "childs_george_c",
+    "childs_gregg_e"
+   ],
    "siblings": [
     "adams_presley",
     "george_francis_adams_sr"
@@ -1091,7 +1102,10 @@
    "priority": "normal",
    "locations": [
     "Oregon",
-    "Burlingame, San Mateo County, CA"
+    "Burlingame, San Mateo County, CA",
+    "Sutherlin, Douglas County, Oregon",
+    "Philadelphia, Pennsylvania",
+    "Portland, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -1102,8 +1116,9 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Thomas Childs",
-    "Census 1920: Douglas County, Oregon, aged 7, born Oregon"
+    "Census 1920: Douglas County, Oregon, aged 7, born Oregon",
+    "Married Thomas White Childs (m. abt 1934)",
+    "Buried at Willamette National Cemetery, Portland, Oregon (7 Jun 2000)"
    ],
    "education": [],
    "career": [],
@@ -1114,13 +1129,21 @@
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
+    "Ancestry.com, 1920 United States Federal Census (Sutherlin, Douglas County, Oregon)",
+    "Ancestry.com, 1930 United States Federal Census (Burlingame, San Mateo County, California)",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008",
+    "Ancestry.com, U.S., Veterans' Gravesites, ca. 1775-2019 (Willamette National Cemetery)",
+    "Find a Grave, memorial 36261118 (Edith Childs, Willamette National Cemetery)",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
    "notes": [
-    "Birth year approximate: abt 1913.",
     "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
-    "She had two sons, surname Childs; their names are not recorded.",
-    "UNPROVEN: her marriage to Thomas Childs and their two sons come from family recollection (Brendan Adams, 2026); no document in the collection records them. An earlier note cited \"memoir p. 57\", but neither John’s nor Barbara’s memoir mentions it."
+    "Born 29 Apr 1912 at Sutherlin, Oregon, the second child of George F. Adams, pharmacist, and Serena Trumbo. Her birth certificate is marked \"ALTERED\": her given names, Edith Van Tyne, were added later by affidavit. Van Tyne is her grandmother Mary Frances Vantine's surname.",
+    "In 1930 she was 17, a stepdaughter in Arthur T. Wells's household at Burlingame. She married Thomas White Childs about 1934 (married 16 years in 1950); they lived in Philadelphia in 1935 and in Portland, Oregon, from 1940, with their sons George C. and Gregg E. Childs. She died on 10 May 2000 and was buried beside Thomas at Willamette National Cemetery."
    ]
   },
   {
@@ -1378,8 +1401,10 @@
   },
   {
    "id": "adams_fran",
-   "name": "Fran Adams",
-   "aliases": [],
+   "name": "Frances “Fran” Adams",
+   "aliases": [
+    "Fran Adams"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -1408,7 +1433,8 @@
    ],
    "children": [
     "adams_sally",
-    "adams_casey"
+    "adams_casey",
+    "adams_frederick_s"
    ],
    "siblings": [],
    "families": [
@@ -1428,10 +1454,14 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
    "notes": [
-    "Wife of Presley Adams; her birth surname is not recorded."
+    "Wife of Presley Adams; her birth surname is not recorded.",
+    "Frances Adams, aged 24 in the 1940 census (born about 1916), at Richmond, California; named as Presley's wife on his 1940 draft card and in his 1987 obituary."
    ]
   },
   {
@@ -1915,6 +1945,68 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
+  },
+  {
+   "id": "adams_frederick_s",
+   "name": "Frederick S. Adams",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton",
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "adams_presley",
+   "mother": "adams_fran",
+   "parents": [
+    "adams_fran",
+    "adams_presley"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "adams_sally",
+    "adams_casey"
+   ],
+   "families": [],
+   "parent_family": "F_adams_fran+adams_presley",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1940 United States Federal Census",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
+   ],
+   "notes": [
+    "Son of Presley and Frances Adams; an infant in the 1940 census at Richmond, California, and named in his father's 1987 obituary."
+   ]
   },
   {
    "id": "adams_george",
@@ -2444,7 +2536,8 @@
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "Family letters in Bill Allen’s family document",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008"
    ],
    "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
@@ -2459,9 +2552,7 @@
     "Unconfirmed: A short obituary for him appeared in the 1920 National Association of Retail Druggists newsletter, suggesting he was a druggist. [Family research emails, email 41]",
     "Unconfirmed: His obituaries appeared in pharmacy trade journals (NARD Journal, Practical Druggist), which suggests he was a druggist. [Family research emails, email 24]",
     "Unconfirmed: He may be buried in Sutherlin, but this is not confirmed. [Family research emails, email 24]",
-    "Unconfirmed: Trudy said he died in 1918, but the 1920 census and the obituary's March 1920 publication date contradict this. [Family research emails, email 30]",
     "Unconfirmed: The obituary says he died of the flu; the writers note this would have been after the 1917-18 epidemic, and that a death certificate would settle it. [Family research emails, email 31]",
-    "Unconfirmed: A death certificate for him probably exists in the Douglas County archives but had not been located yet. [Family research emails, email 30]",
     "Unconfirmed: George II was born in Missouri, possibly Marion. [Family research emails, email 20]",
     "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]",
     "Open question: An Ancestry.com tree by Cynthia Hughes / Dustin Spivey claims a George Washington Adams, son of George Francis Adams and brother of a John Sr. Adams of California. George F. Adams says no such person exists and calls it a different tree or a mistake (emails 25, 44). Details of that outside family were not extracted. [Family research emails, email 25, 44]",
@@ -2477,7 +2568,9 @@
     "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]",
     "Open question: Email 35 gives George Francis Adams (#1)'s birth year as 1817; the tree has 11 May 1816. [Family research emails, email 35, 11]",
     "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]",
-    "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]"
+    "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]",
+    "The Oregon death index records his death on 7 Feb 1920 in Douglas County, which settles the date; Trudy's 1918 was mistaken.",
+    "On his children's birth certificates he is a druggist or pharmacist, born in Missouri: at Roseburg in 1910 (aged 33) and 1916, and at Sutherlin in 1912 (aged 35)."
    ]
   },
   {
@@ -4932,9 +5025,12 @@
   },
   {
    "id": "adams_presley",
-   "name": "Presley Adams",
+   "name": "Presley Mark Adams",
    "aliases": [
-    "Presley N. Adams"
+    "Presley N. Adams",
+    "Presley Adams",
+    "Pressley Alfred Adams",
+    "Presley M. Adams"
    ],
    "photo": null,
    "card_name": null,
@@ -4948,7 +5044,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "January 1987",
+    "text": "9 Jan 1987",
     "year": 1987,
     "qualifier": null
    },
@@ -4973,7 +5069,8 @@
    ],
    "children": [
     "adams_sally",
-    "adams_casey"
+    "adams_casey",
+    "adams_frederick_s"
    ],
    "siblings": [
     "adams_edith_v",
@@ -4989,7 +5086,10 @@
    "locations": [
     "Sutherlin, OR",
     "Gardnerville, NV",
-    "Burlingame, San Mateo County, CA"
+    "Burlingame, San Mateo County, CA",
+    "Roseburg, Douglas County, Oregon",
+    "Richmond, Contra Costa County, California",
+    "Gardnerville, Douglas County, Nevada"
    ],
    "personality": [],
    "roles": [],
@@ -5000,20 +5100,30 @@
     "Census 1920: Douglas County, Oregon, aged 9, born Oregon"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Laboratory technician for the Standard Oil Company of California at Richmond (1940); he had four years of college."
+   ],
    "sources": [
     "adams_direct_line_summary_v1",
     "family_data_v1",
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
+    "Ancestry.com, 1920 United States Federal Census (Sutherlin, Douglas County, Oregon)",
+    "Ancestry.com, 1930 United States Federal Census (Burlingame, San Mateo County, California)",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947",
+    "Ancestry.com, Nevada, U.S., Death Index, 1980-2012",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
    "notes": [
-    "Sibling of George Francis Adams Sr. (child of George Francis Adams #2 and Serena Trumbo). Previously listed as 'Presley Marcason Adams' in prior sources.",
     "Precise birth and death dates newly established. Sibling of George Francis Adams Sr.",
     "Pictured in a family photograph c. 1919 with his family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
-    "He and Fran had three children: Sally, Casey and a third whose name is not recorded."
+    "Born 22 Jun 1910 at Roseburg, Oregon, the first child of George F. Adams, druggist, and Serena Trumbo; his birth certificate names him Pressley Alfred Adams. As an adult he used Presley Mark Adams (1940 draft card, which gives 21 Jun 1910); family papers called him Presley Marcason, and the 1920 census index reads \"Presley N.\"",
+    "In 1930 he was 20, a stepson in Arthur T. Wells's household at Burlingame, California. By 1940 he lived at 140 Santa Fe Avenue, Richmond, with his wife Frances (24) and their infant son. He died on 9 Jan 1987 at Gardnerville, Nevada.",
+    "His obituary (Reno Gazette-Journal, 11 Jan 1987) names his wife Frances; his children Frederick S. Adams, Serena A. Haapala and Kathleen Adams; and his sisters Edith Childs, Daphne Miller and Rosemary O'Dell."
    ]
   },
   {
@@ -5230,7 +5340,8 @@
    "id": "adams_sally",
    "name": "Sally Adams (Haapala)",
    "aliases": [
-    "Sally Haapala"
+    "Sally Haapala",
+    "Serena A. Haapala"
    ],
    "photo": null,
    "card_name": null,
@@ -5267,7 +5378,8 @@
    ],
    "children": [],
    "siblings": [
-    "adams_casey"
+    "adams_casey",
+    "adams_frederick_s"
    ],
    "families": [
     "F_adams_sally+haapala_john"
@@ -5288,9 +5400,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
-   "notes": []
+   "notes": [
+    "Probably the \"Serena A. Haapala\" named as Presley's daughter in his 1987 obituary; Sally would be a nickname, and Serena was her grandmother's name."
+   ]
   },
   {
    "id": "adams_susan_twin",
@@ -10206,12 +10321,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
    "notes": [
     "UNPROVEN: from family recollection (Brendan Adams, 2026); not yet confirmed by a document.",
-    "The surname Miller is John Howard Adams’s recollection (2026); not yet confirmed by a document.",
-    "Husband of Daphne Wells. They lived in the San Francisco Bay Area."
+    "Husband of Daphne Wells. They lived in the San Francisco Bay Area.",
+    "Presley Adams's 1987 obituary names his sister as Daphne Miller, confirming the surname; the first name Bill is family recollection."
    ]
   },
   {
@@ -12939,8 +13055,8 @@
    ]
   },
   {
-   "id": "childs_thomas",
-   "name": "Thomas Childs",
+   "id": "childs_george_c",
+   "name": "George C. Childs",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -12957,6 +13073,131 @@
     "qualifier": null
    },
    "living": false,
+   "living_status": "assumed",
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton",
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "childs_thomas",
+   "mother": "adams_edith_v",
+   "parents": [
+    "adams_edith_v",
+    "childs_thomas"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "childs_gregg_e"
+   ],
+   "families": [],
+   "parent_family": "F_adams_edith_v+childs_thomas",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census"
+   ],
+   "notes": [
+    "Son of Thomas White and Edith (Adams) Childs; in their Portland household in the 1950 census."
+   ]
+  },
+  {
+   "id": "childs_gregg_e",
+   "name": "Gregg E. Childs",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "adams",
+   "branch_by_marriage": false,
+   "lineages": [
+    "adams",
+    "hamilton",
+    "trumbo"
+   ],
+   "adopted": false,
+   "father": "childs_thomas",
+   "mother": "adams_edith_v",
+   "parents": [
+    "adams_edith_v",
+    "childs_thomas"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "childs_george_c"
+   ],
+   "families": [],
+   "parent_family": "F_adams_edith_v+childs_thomas",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census"
+   ],
+   "notes": [
+    "Son of Thomas White and Edith (Adams) Childs; in their Portland household in the 1950 census."
+   ]
+  },
+  {
+   "id": "childs_thomas",
+   "name": "Thomas White Childs",
+   "aliases": [
+    "Thomas Childs",
+    "Thomas W. Childs II"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "20 May 1908",
+    "year": 1908,
+    "qualifier": null
+   },
+   "death": {
+    "text": "7 May 1998",
+    "year": 1998,
+    "qualifier": null
+   },
+   "living": false,
    "living_status": null,
    "branch": "adams",
    "branch_by_marriage": true,
@@ -12968,7 +13209,10 @@
    "spouses": [
     "adams_edith_v"
    ],
-   "children": [],
+   "children": [
+    "childs_george_c",
+    "childs_gregg_e"
+   ],
    "siblings": [],
    "families": [
     "F_adams_edith_v+childs_thomas"
@@ -12977,24 +13221,32 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Portland, Oregon"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Edith V. Adams"
+    "Married Edith Van Tyne Adams (m. abt 1934)",
+    "Buried at Willamette National Cemetery, Portland, Oregon"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Captain, U.S. Army."
+   ],
    "sources": [
     "adams_direct_line_summary_v1",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census",
+    "Ancestry.com, U.S., Veterans' Gravesites, ca. 1775-2019 (Willamette National Cemetery)",
+    "Find a Grave, memorial 36261118 (Edith Childs, Willamette National Cemetery)"
    ],
    "notes": [
-    "Husband of Edith V. Adams, George Francis Adams Sr.’s sister; they had two sons, whose names are not recorded.",
-    "UNPROVEN: known only from family recollection (Brendan Adams, 2026); no document in the collection records the marriage."
+    "Husband of Edith (Adams) Childs, George Francis Adams Sr.'s sister. Born 20 May 1908; died 7 May 1998; a captain in the U.S. Army, buried at Willamette National Cemetery. With Edith and their sons George C. and Gregg E. in Portland in 1940 and 1950."
    ]
   },
   {
@@ -19312,7 +19564,8 @@
     "Fort Gordon, Augusta, Georgia",
     "Europe",
     "Olympia, Washington",
-    "southern Puget Sound, WA"
+    "southern Puget Sound, WA",
+    "Roseburg, Douglas County, Oregon"
    ],
    "personality": [
     "Did not bring his work home",
@@ -19375,7 +19628,8 @@
     "Military: He was stationed in South Korea for all of John's senior year of high school (1964-65).",
     "After WWII he briefly left the Army and worked for Union Oil (called Standard Oil in another chapter), and the family lived in Richmond and then Sacramento, California. (late 1940s to 1952)",
     "In the mid-1970s, after his Army retirement, he and Beryl lived in Olympia, Washington, where Ray and Dradie Simons visited them. (mid-1970s)",
-    "In retirement he and Beryl lived near the southernmost point of Puget Sound; he took up golf again, played at the Ft. Lewis golf course, and bought a cabin cruiser that he and Beryl took out on day trips to fish for salmon. (after 1971)"
+    "In retirement he and Beryl lived near the southernmost point of Puget Sound; he took up golf again, played at the Ft. Lewis golf course, and bought a cabin cruiser that he and Beryl took out on day trips to fish for salmon. (after 1971)",
+    "Born at Mercy Hospital, Roseburg, Oregon, 10 Mar 1916"
    ],
    "education": [],
    "career": [
@@ -19392,7 +19646,10 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
+    "Ancestry.com, 1930 United States Federal Census (Burlingame, San Mateo County, California)",
+    "Find a Grave, memorial 239144218 (George Francis Adams, 1916–1980)"
    ],
    "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams II",
@@ -19403,11 +19660,10 @@
     "Pictured as 'George Jr.' in a c. 1919 family photograph with George F., Serena, Edith and Presley [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
     "As George Adams, he appears in a census in the household of his stepfather Arthur T. Wells, after his father's death. [Family research emails, email 17]",
     "He was always known as 'Sr.' rather than III; his son George writes that technically he was George II, because of a generation gap between the first two George Francis Adamses. [Family research emails, email 31]",
-    "Unconfirmed: His mother Neenie seems to have changed his name from Edward G. to George F. some time after his father died. [Family research emails, email 17]",
-    "Unconfirmed: His sister Trudy said he was 2 years old when his father died in 1918, a date the brothers later doubted. [Family research emails, email 30]",
-    "Unconfirmed: His son George can only guess that the 'G' in Edward G. stood for George. [Family research emails, email 31]",
-    "Open question: George Francis Adams Sr. appears as Edward G. in the 1920 census, and Oregon birth certificates exist under both names. Did Neenie rename him after his father died? What did the 'G' stand for (guessed George)? John asks 'where did Edward come from?' [Family research emails, email 17, 31]",
-    "The 1920 census of his parents' household in Douglas County, Oregon, lists a son \"Edward G. Adams\", aged 3 years 9 months (born about 1916-17, Oregon), and no other young son; George, born 10 Mar 1916, would have been 3 years 10 months. The emails say Oregon birth certificates exist under both names. Brendan Adams doubts they are the same person; left open. [1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)]"
+    "The 1920 census of his parents' household in Douglas County, Oregon, lists a son \"Edward G. Adams\", aged 3 years 9 months (born about 1916-17, Oregon), and no other young son; George, born 10 Mar 1916, would have been 3 years 10 months. [1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)]",
+    "CORRECTION 2026-09-24: His Oregon birth certificate (no. 25) records George Francis Adams, born 10 Mar 1916 at Mercy Hospital, Roseburg, the third child of George Francis Adams, druggist, and Serena Trumbo, of Sutherlin. The given name was added by a supplemental report on 25 Mar 1916, so he was named George Francis two weeks after birth, not renamed after his father's death. No certificate exists for an Edward G. Adams. The \"Edward G. Adams\", aged 3, in the 1920 census is the only young son in the household, and in 1930 he appears as George F., 14, stepson of Arthur T. Wells, with Presley and Edith, so \"Edward G.\" looks like the enumerator's error or a family name.",
+    "His father died on 7 Feb 1920 (Oregon death index), when George was nearly 4, not in 1918 when he was 2.",
+    "He died on 11 Oct 1980 at Tacoma, Washington (Find a Grave, memorial 239144218)."
    ]
   },
   {
@@ -58095,7 +58351,8 @@
     "San Francisco, CA",
     "Burlingame, CA",
     "Pierce County, WA",
-    "Dryad, Lewis County, WA"
+    "Dryad, Lewis County, WA",
+    "Chehalis, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -58137,7 +58394,8 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
     "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)"
    ],
    "notes": [
     "Nicknamed Nini",
@@ -58145,7 +58403,8 @@
     "Death timing confirmed by memoir: John's 2nd year at USNA = 1966-67. Death date 28 Sep 1967 is consistent.",
     "Pictured in a family photograph c. 1919 with George F., Edith, George Jr. and Presley Adams [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
     "George Trumbo, who worked in her husband's pharmacy, is described as Neenie's brother. [Family research emails, email 31]",
-    "CORRECTION 2026-09-23: Marriage dated before 1925 rather than about 1929: their daughter Daphne was born about 1925 (1940 census). Decision by Brendan Adams."
+    "CORRECTION 2026-09-23: Marriage dated before 1925 rather than about 1929: their daughter Daphne was born about 1925 (1940 census). Decision by Brendan Adams.",
+    "Her son George's 1916 birth certificate gives her birthplace as Chehalis, Washington."
    ]
   },
   {
@@ -59821,7 +60080,8 @@
    "sources": [
     "1940 U.S. census, Assembly District 22, San Francisco, California, ED 38-131, sheet 12B (FamilySearch index, accessed 2 Apr 2013)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
    "notes": [
     "Daughter of Arthur T. Wells and Serena (Trumbo) Wells, so a half-sister of George Francis Adams Sr. John Adams's memoir says Serena and Arthur had a daughter together; the 1940 census of their San Francisco household lists Daphne, aged 15, born in California. [John Howard Adams, A Memoir, text line 546] Decision by Brendan Adams.",
@@ -59889,11 +60149,13 @@
    "career": [],
    "sources": [
     "adams_direct_line_summary_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
    ],
    "notes": [
     "Not a blood relative of Adams line. Step-sister of George Francis Adams Sr. Daughter of Arthur Wells.",
-    "CORRECTION 2026-09-22: Mother is not Serena Marie Nevada Trumbo (confirmed by Brendan Adams): Rosemary was born about 1916 and Serena married Arthur Wells in 1929. Rosemary was Arthur's daughter from an earlier marriage, so she was a step-sister of George Francis Adams Sr. Her mother is not recorded."
+    "CORRECTION 2026-09-22: Mother is not Serena Marie Nevada Trumbo (confirmed by Brendan Adams): Rosemary was born about 1916 and Serena married Arthur Wells in 1929. Rosemary was Arthur's daughter from an earlier marriage, so she was a step-sister of George Francis Adams Sr. Her mother is not recorded.",
+    "Named as Rosemary O'Dell, a sister of Presley Adams, in his 1987 obituary."
    ]
   },
   {
@@ -62626,8 +62888,11 @@
     "adams_edith_v",
     "childs_thomas"
    ],
-   "children": [],
-   "marriage": null
+   "children": [
+    "childs_george_c",
+    "childs_gregg_e"
+   ],
+   "marriage": "abt 1934"
   },
   {
    "id": "F_adams_fran+adams_presley",
@@ -62637,7 +62902,8 @@
    ],
    "children": [
     "adams_sally",
-    "adams_casey"
+    "adams_casey",
+    "adams_frederick_s"
    ],
    "marriage": null
   },

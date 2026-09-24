@@ -1,8 +1,8 @@
 {
   "id": "adams_edith_v",
-  "name": "Edith V. Adams (Childs)",
-  "birth": "abt 1913",
-  "death": "",
+  "name": "Edith Van Tyne Adams (Childs)",
+  "birth": "29 Apr 1912",
+  "death": "10 May 2000",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -12,8 +12,9 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Married Thomas Childs",
-    "Census 1920: Douglas County, Oregon, aged 7, born Oregon"
+    "Census 1920: Douglas County, Oregon, aged 7, born Oregon",
+    "Married Thomas White Childs (m. abt 1934)",
+    "Buried at Willamette National Cemetery, Portland, Oregon (7 Jun 2000)"
   ],
   "education": [],
   "career": [],
@@ -22,15 +23,20 @@
     "father": "adams_george_francis_2",
     "siblings": [
       "george_francis_adams_sr",
-      "adams_presley",
-      "adams_george_francis_2"
+      "adams_presley"
     ],
     "spouse": "childs_thomas",
-    "children": []
+    "children": [
+      "childs_george_c",
+      "childs_gregg_e"
+    ]
   },
   "locations": [
     "Oregon",
-    "Burlingame, San Mateo County, CA"
+    "Burlingame, San Mateo County, CA",
+    "Sutherlin, Douglas County, Oregon",
+    "Philadelphia, Pennsylvania",
+    "Portland, Oregon"
   ],
   "sources": [
     "adams_direct_line_summary_v1",
@@ -39,17 +45,28 @@
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
+    "Ancestry.com, 1920 United States Federal Census (Sutherlin, Douglas County, Oregon)",
+    "Ancestry.com, 1930 United States Federal Census (Burlingame, San Mateo County, California)",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008",
+    "Ancestry.com, U.S., Veterans' Gravesites, ca. 1775-2019 (Willamette National Cemetery)",
+    "Find a Grave, memorial 36261118 (Edith Childs, Willamette National Cemetery)",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
   ],
   "notes": [
-    "Birth year approximate: abt 1913.",
     "Pictured in a family photograph c. 1919 with her family [Bill Allen, Descendants of Jose Pierre Adams, 2011, line 6079]",
-    "She had two sons, surname Childs; their names are not recorded.",
-    "UNPROVEN: her marriage to Thomas Childs and their two sons come from family recollection (Brendan Adams, 2026); no document in the collection records them. An earlier note cited \"memoir p. 57\", but neither John’s nor Barbara’s memoir mentions it."
+    "Born 29 Apr 1912 at Sutherlin, Oregon, the second child of George F. Adams, pharmacist, and Serena Trumbo. Her birth certificate is marked \"ALTERED\": her given names, Edith Van Tyne, were added later by affidavit. Van Tyne is her grandmother Mary Frances Vantine's surname.",
+    "In 1930 she was 17, a stepdaughter in Arthur T. Wells's household at Burlingame. She married Thomas White Childs about 1934 (married 16 years in 1950); they lived in Philadelphia in 1935 and in Portland, Oregon, from 1940, with their sons George C. and Gregg E. Childs. She died on 10 May 2000 and was buried beside Thomas at Willamette National Cemetery."
   ],
   "aliases": [
     "Edith V. Adams",
-    "Edith Childs"
+    "Edith Childs",
+    "Edith V. Adams (Childs)",
+    "Edith Adams Childs",
+    "Edith A. Childs"
   ],
   "sex": "F"
 }

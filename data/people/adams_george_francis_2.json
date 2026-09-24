@@ -40,10 +40,7 @@
   "relationships": {
     "mother": "vantine_mary_frances",
     "father": "adams_john_wesley",
-    "siblings": [
-      "adams_presley",
-      "adams_edith_v"
-    ],
+    "siblings": [],
     "spouse": "trumbo_serena_marie",
     "children": [
       "george_francis_adams_sr",
@@ -71,7 +68,8 @@
     "Newspaper clippings and obituaries in Bill Allen’s family document (2011)",
     "Family letters in Bill Allen’s family document",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)"
+    "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008"
   ],
   "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
@@ -86,9 +84,7 @@
     "Unconfirmed: A short obituary for him appeared in the 1920 National Association of Retail Druggists newsletter, suggesting he was a druggist. [Family research emails, email 41]",
     "Unconfirmed: His obituaries appeared in pharmacy trade journals (NARD Journal, Practical Druggist), which suggests he was a druggist. [Family research emails, email 24]",
     "Unconfirmed: He may be buried in Sutherlin, but this is not confirmed. [Family research emails, email 24]",
-    "Unconfirmed: Trudy said he died in 1918, but the 1920 census and the obituary's March 1920 publication date contradict this. [Family research emails, email 30]",
     "Unconfirmed: The obituary says he died of the flu; the writers note this would have been after the 1917-18 epidemic, and that a death certificate would settle it. [Family research emails, email 31]",
-    "Unconfirmed: A death certificate for him probably exists in the Douglas County archives but had not been located yet. [Family research emails, email 30]",
     "Unconfirmed: George II was born in Missouri, possibly Marion. [Family research emails, email 20]",
     "Open question: Bill Allen says 'George Francis Adams SR.' was Alberta Adams Allen's younger brother and a son of John Wesley Adams. In the tree, Alberta's brother is George Francis Adams (#2), father of George Francis Adams Sr., who married Beryl Simons [Family research emails, email 26]",
     "Open question: An Ancestry.com tree by Cynthia Hughes / Dustin Spivey claims a George Washington Adams, son of George Francis Adams and brother of a John Sr. Adams of California. George F. Adams says no such person exists and calls it a different tree or a mistake (emails 25, 44). Details of that outside family were not extracted. [Family research emails, email 25, 44]",
@@ -104,7 +100,9 @@
     "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]",
     "Open question: Email 35 gives George Francis Adams (#1)'s birth year as 1817; the tree has 11 May 1816. [Family research emails, email 35, 11]",
     "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]",
-    "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]"
+    "Open question: George F. Adams (#2) served in the military in Denver in 1898, but the branch is unknown. [Family research emails, email 37]",
+    "The Oregon death index records his death on 7 Feb 1920 in Douglas County, which settles the date; Trudy's 1918 was mistaken.",
+    "On his children's birth certificates he is a druggist or pharmacist, born in Missouri: at Roseburg in 1910 (aged 33) and 1916, and at Sutherlin in 1912 (aged 35)."
   ],
   "aliases": [],
   "sex": "M"

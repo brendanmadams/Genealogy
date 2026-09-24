@@ -1,6 +1,6 @@
 {
   "id": "adams_fran",
-  "name": "Fran Adams",
+  "name": "Frances “Fran” Adams",
   "sex": "F",
   "birth": "",
   "death": "",
@@ -19,15 +19,22 @@
     "spouse": "adams_presley",
     "children": [
       "adams_sally",
-      "adams_casey"
+      "adams_casey",
+      "adams_frederick_s"
     ]
   },
   "locations": [],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947",
+    "Obituary of Presley M. Adams, Reno Gazette-Journal, 11 Jan 1987 (Newspapers.com Obituary Index on Ancestry.com)"
   ],
   "notes": [
-    "Wife of Presley Adams; her birth surname is not recorded."
+    "Wife of Presley Adams; her birth surname is not recorded.",
+    "Frances Adams, aged 24 in the 1940 census (born about 1916), at Richmond, California; named as Presley's wife on his 1940 draft card and in his 1987 obituary."
   ],
-  "aliases": []
+  "aliases": [
+    "Fran Adams"
+  ]
 }
