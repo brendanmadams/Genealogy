@@ -10,7 +10,7 @@
  *  - Ray's eldest sister Gertrude Nellie (Masters, Groves) was missing.
  *  - Lola married Matt Busey (1903), a Murphy, and Lial T. Adams (1918); Zell
  *    Busey in the 1910 household was her son.
- *  - Aaron's parents Henry Simons and Mary Wagner (UNPROVEN: Find a Grave only).
+ *  - Aaron's parents Henry Simons and Mary Wagner (later proven by the censuses).
  */
 'use strict';
 const { exists, load, save, note } = require('./lib/records');
@@ -50,20 +50,22 @@ edit('simons_raymond_zell', [CENSUS, DRAFT, WADEATH, SSDI, ORBIRTH, OBIT, FAG(72
   note(p, 'In 1930 the household at Buffalo Road, Delta, included Dradie\'s brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland.');
 });
 
-// Aaron Simons and his parents (UNPROVEN)
+// Aaron Simons and his parents
 edit('simons_aaron', [CENSUS, FAG(159793415)], p => {
-  p.birth = '9 May 1851';
+  p.birth = '9 May 1850';
   p.death = '16 Nov 1923';
   add(p.locations, 'Custer, Whatcom County, Washington');
   p.notes = p.notes.map(t => t.startsWith('Aaron Simons birth ~1852 confirmed') ? 'Birthplace Ohio (1900 and 1910 censuses).' : t);
   drop(p, 'notes', /^(Research lead \(Zell Busey\)|Open question: Who was Zell Busey)/);
-  note(p, 'CORRECTION: birth 9 May 1851 per his Find a Grave memorial, which fits his age of 58 in the 1910 census; the 1900 census gives May 1852.');
+  p.notes = p.notes.filter(t => !t.startsWith('CORRECTION: birth 9 May 1851 per his Find a Grave memorial'));
+  note(p, 'CORRECTION: born 9 May 1850 in Ohio. He is an infant in the 1850 census of Coventry, Summit County, Ohio (taken as of 1 June 1850), so Find a Grave\'s 9 May 1851 is a year late; the 1900 census gives May 1852.');
   note(p, 'Died 16 Nov 1923 at Custer, Whatcom County, Washington.');
   note(p, 'Zell Busey, 4, in his 1910 household was his grandson, the son of his daughter Lola and Matt Busey.');
 });
+// Henry and Mary: proven by the 1850, 1860 and 1870 censuses (fix-2026-09-24-ancestry-simons-henry.js adds the detail)
 const UNP_AARON = 'UNPROVEN: named as a parent of Aaron Simons on his Find a Grave memorial (159793415), a volunteer entry without a cited record.';
-person('simons_henry', 'Henry Simons', 'M', FAG(159793415), p => note(p, UNP_AARON));
-person('wagner_mary', 'Mary Wagner (Simons)', 'F', FAG(159793415), p => { add(p.aliases, 'Mary Simons'); note(p, UNP_AARON); });
+person('simons_henry', 'Henry Simons', 'M', FAG(159793415), p => { p.notes = p.notes.filter(t => t !== UNP_AARON); });
+person('wagner_mary', 'Mary Wagner (Simons)', 'F', FAG(159793415), p => { add(p.aliases, 'Mary Simons'); p.notes = p.notes.filter(t => t !== UNP_AARON); });
 wed('simons_henry', 'wagner_mary');
 child('simons_aaron', 'simons_henry', 'wagner_mary');
 

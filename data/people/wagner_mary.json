@@ -1,15 +1,18 @@
 {
   "id": "wagner_mary",
-  "name": "Mary Wagner (Simons)",
+  "name": "Mary Wagner (Marsh, Simons)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "abt 1818",
+  "death": "25 Dec 1889",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Henry Simons (m. 24 Apr 1845)",
+    "Buried at Billingstown Cemetery, Northwest Township, Williams County, Ohio"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -18,17 +21,36 @@
     "siblings": [],
     "spouse": "simons_henry",
     "children": [
-      "simons_aaron"
+      "simons_aaron",
+      "simons_sarah_1844",
+      "simons_isabella",
+      "simons_george_a",
+      "simons_richard",
+      "simons_ann_1854",
+      "simons_han_r",
+      "simons_olive_catherine",
+      "simons_harriet_e"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Ohio"
+  ],
   "sources": [
-    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
+    "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
+    "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
+    "Ancestry.com, Summit County, Ohio, U.S., Marriage Records, 1840–1980 (Vol. A–C), and Ohio, U.S., County Marriage Records",
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
   ],
   "notes": [
-    "UNPROVEN: named as a parent of Aaron Simons on his Find a Grave memorial (159793415), a volunteer entry without a cited record."
+    "Born in Ohio about 1817–18 (aged 32 in 1850, 43 in 1860, 53 in 1870); the Ancestry trees give 30 Jan 1818, and her death as 25 Dec 1889 in Williams County, Ohio.",
+    "She married Henry Symons as \"Mary Marsh\" on 24 Apr 1845 in Summit County, Ohio. Find a Grave and the family trees give her birth surname as Wagner or Wagoner, so she was probably a widow, Mrs. Marsh, when she married Henry; no record found so far shows the Wagner name or a first husband."
   ],
   "aliases": [
-    "Mary Simons"
+    "Mary Simons",
+    "Mary Wagner (Simons)",
+    "Mary Marsh",
+    "Mary Wagoner"
   ]
 }

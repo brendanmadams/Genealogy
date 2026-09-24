@@ -2,31 +2,59 @@
   "id": "simons_henry",
   "name": "Henry Simons",
   "sex": "M",
-  "birth": "",
-  "death": "",
+  "birth": "15 Oct 1818",
+  "death": "30 Jun 1890",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Mary Marsh (m. 24 Apr 1845)",
+    "Buried at Billingstown Cemetery, Northwest Township, Williams County, Ohio"
+  ],
   "education": [],
-  "career": [],
+  "career": [
+    "Farmer: $2,500 in land in DeKalb County, Indiana, in 1860 and $6,000 in Williams County, Ohio, in 1870."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
     "siblings": [],
     "spouse": "wagner_mary",
     "children": [
-      "simons_aaron"
+      "simons_aaron",
+      "simons_sarah_1844",
+      "simons_isabella",
+      "simons_george_a",
+      "simons_richard",
+      "simons_ann_1854",
+      "simons_han_r",
+      "simons_olive_catherine",
+      "simons_harriet_e"
     ]
   },
-  "locations": [],
+  "locations": [
+    "England",
+    "Coventry, Summit County, Ohio",
+    "Richland Township, DeKalb County, Indiana",
+    "Northwest Township, Williams County, Ohio"
+  ],
   "sources": [
-    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 159793415 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
+    "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
+    "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
+    "Ancestry.com, Summit County, Ohio, U.S., Marriage Records, 1840–1980 (Vol. A–C), and Ohio, U.S., County Marriage Records",
+    "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
   ],
   "notes": [
-    "UNPROVEN: named as a parent of Aaron Simons on his Find a Grave memorial (159793415), a volunteer entry without a cited record."
+    "Born 15 Oct 1818 in England (Find a Grave; the 1860 and 1870 censuses give England, about 1818); died 30 Jun 1890 in Williams County, Ohio. Married \"Mary Marsh\" as Henry Symons on 24 Apr 1845 in Summit County, Ohio.",
+    "The family was at Coventry, Summit County, Ohio, in 1850 (Henry 29, Mary 32, Sarah, Isabella, George A. and the infant Aaron); at Richland Township, DeKalb County, Indiana (post office Auburn), in 1860, with Richard, Ann and Olive added; and at Northwest Township, Williams County, Ohio, in 1870. Aaron grew up in Indiana, which is why his son Ray gave his father's birthplace as Indiana in 1918.",
+    "Lead: some Ancestry trees place his birth at Berrynarbor, Devon, and name his parents William Henry Simmons (1763–1847) and Mary Pestell (1779–1857). No baptism or other record has been found to support this."
   ],
-  "aliases": []
+  "aliases": [
+    "Henry Symons"
+  ]
 }
