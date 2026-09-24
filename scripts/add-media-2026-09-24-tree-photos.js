@@ -3,7 +3,7 @@
  * 2026-09-24, photos and record images saved from Ancestry.com public member
  * trees with Brendan Adams's approval. Published here: photos taken before
  * 1930 and record images. Later snapshots and headstone photos were saved to
- * the private image folder; those shared by wtmbbanjo were added once he agreed. Adds items
+ * the private image folder; those shared by wtmbbanjo were added once they agreed. Adds items
  * to data/media.json; re-runnable. Then run scripts/prepare-media.ps1 and
  * scripts/build.js.
  * Also records what the images and the Kulp-Ritchey-Dorsett tree show:
