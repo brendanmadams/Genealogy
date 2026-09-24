@@ -1,0 +1,11 @@
+name = "genealogy-submissions"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+REPO = "brendanmadams/Genealogy-submissions"
+ALLOWED_ORIGINS = "https://brendanmadams.github.io,http://localhost:5580"
+SITE_URL = "https://brendanmadams.github.io/Genealogy/"
+
+# Secrets, set once with `npx wrangler secret put <NAME>` (never put them here):
+#   GITHUB_TOKEN, TURNSTILE_SECRET

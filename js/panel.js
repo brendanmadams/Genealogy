@@ -1,6 +1,7 @@
 // The details panel for the focus person.
 import { lifespan, byBirth, initials as initialsOf, displayName } from './data.js';
 import { relate } from './relate.js';
+import { suggestEnabled } from './suggest.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
@@ -109,6 +110,7 @@ export function renderPanel(container, D, p, rel = {}) {
       ${section('Hard times', items(p.risk_events))}
       ${section('Research notes', items(p.notes, 'notes'))}
       ${section('Sources', items(p.sources, 'sources'))}
+      ${suggestEnabled() ? `<section class="sec suggest-sec"><p class="muted">Know something we don’t, or spot a mistake?</p><button class="suggest-btn" id="panel-suggest">Suggest a correction or addition</button></section>` : ''}
     </div>`;
 
   if (p.photo) {

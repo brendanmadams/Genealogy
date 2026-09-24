@@ -1,0 +1,140 @@
+// "Suggest a correction or addition": a form that sends a suggestion about
+// the open person to the submissions Worker (worker/), which files it for
+// review in a private repo. Nothing appears on the site until it is reviewed.
+import { displayName } from './data.js';
+import { SUGGEST } from './config.js';
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+export const suggestEnabled = () => Boolean(SUGGEST.endpoint && SUGGEST.turnstileSiteKey);
+
+let turnstileLoading = null;
+function loadTurnstile() {
+  if (window.turnstile) return Promise.resolve(window.turnstile);
+  turnstileLoading ||= new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit';
+    s.async = true;
+    s.onload = () => resolve(window.turnstile);
+    s.onerror = () => { turnstileLoading = null; reject(new Error('spam check failed to load')); };
+    document.head.appendChild(s);
+  });
+  return turnstileLoading;
+}
+
+export class Suggest {
+  constructor() {
+    this.el = document.createElement('div');
+    this.el.id = 'suggest';
+    this.el.hidden = true;
+    this.el.setAttribute('role', 'dialog');
+    this.el.setAttribute('aria-modal', 'true');
+    this.el.setAttribute('aria-labelledby', 'sg-title');
+    document.body.appendChild(this.el);
+    this.el.addEventListener('click', e => {
+      if (e.target === this.el || e.target.closest('.sg-close')) this.close();
+    });
+    this.el.addEventListener('submit', e => { e.preventDefault(); this.send(); });
+    this.el.addEventListener('change', e => { if (e.target.name === 'files') this.el.querySelector('.sg-permission').hidden = !e.target.files.length; });
+    document.addEventListener('keydown', e => {
+      if (!this.el.hidden && e.key === 'Escape') { e.stopPropagation(); this.close(); }
+    }, true);
+  }
+
+  open(p) {
+    this.person = p;
+    this.el.innerHTML = `
+      <form class="sg-frame" novalidate>
+        <button type="button" class="icon-btn sg-close" aria-label="Close">✕</button>
+        <h2 id="sg-title">Suggest a correction or addition</h2>
+        <p class="sg-about">About <strong>${esc(displayName(p))}</strong></p>
+        <p class="muted sg-intro">Your suggestion goes to Brendan for review. Nothing is published until it has been checked, and your name and email are never shown on the site.</p>
+
+        <label>What kind of suggestion?
+          <select name="kind">
+            <option value="correction">Something here is wrong</option>
+            <option value="addition">New information (dates, places, stories)</option>
+            <option value="relative">A missing relative</option>
+            <option value="media">A photo or document</option>
+            <option value="other">Something else</option>
+          </select>
+        </label>
+        <label>What should change? <span class="req">required</span>
+          <textarea name="details" rows="5" required minlength="10" maxlength="5000" placeholder="e.g. She was born on 3 May 1921 in Everett, not 1920."></textarea>
+        </label>
+        <label>How do you know?
+          <textarea name="source" rows="2" maxlength="2000" placeholder="A certificate, obituary, family Bible, your own memory…"></textarea>
+        </label>
+        <p class="muted sg-note">For living relatives the site shows only names and how they are related, so please leave out their birth dates, addresses and health details.</p>
+
+        <label>Photos or documents <span class="muted">(optional, up to 3; JPEG, PNG, WebP, GIF or PDF, 8 MB each)</span>
+          <input type="file" name="files" multiple accept="image/jpeg,image/png,image/webp,image/gif,application/pdf" />
+        </label>
+        <label class="sg-check sg-permission" hidden><input type="checkbox" name="permission" value="yes" /> I took these myself or have permission to share them.</label>
+
+        <fieldset>
+          <legend>About you <span class="muted">(optional, in case there are questions)</span></legend>
+          <label>Your name <input name="name" maxlength="120" autocomplete="name" /></label>
+          <label>Your email <input name="email" type="email" maxlength="200" autocomplete="email" /></label>
+          <label>How are you related to ${esc(displayName(p))}? <input name="relation" maxlength="200" placeholder="e.g. granddaughter" /></label>
+        </fieldset>
+
+        <input class="sg-hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+        <input type="hidden" name="person_id" value="${esc(p.id)}" />
+        <input type="hidden" name="person_name" value="${esc(displayName(p))}" />
+        <div class="sg-turnstile"></div>
+        <p class="sg-status" role="status" aria-live="polite"></p>
+        <div class="sg-actions">
+          <button type="button" class="link-btn sg-close">Cancel</button>
+          <button type="submit" class="sg-send">Send suggestion</button>
+        </div>
+      </form>`;
+    this.el.hidden = false;
+    this.el.querySelector('select').focus();
+    this.widget = null;
+    loadTurnstile()
+      .then(ts => { if (!this.el.hidden) this.widget = ts.render(this.el.querySelector('.sg-turnstile'), { sitekey: SUGGEST.turnstileSiteKey, theme: 'dark', 'error-callback': () => { this.status('The spam check ran into a problem. Please reload the page and try again.', true); return true; } }); })
+      .catch(() => this.status('The spam check could not load. Please check your connection and try again.', true));
+  }
+
+  close() {
+    if (this.widget != null && window.turnstile) try { window.turnstile.remove(this.widget); } catch {}
+    this.widget = null;
+    this.el.hidden = true;
+    this.el.replaceChildren();
+  }
+
+  status(text, bad = false) {
+    const s = this.el.querySelector('.sg-status');
+    if (s) { s.textContent = text; s.classList.toggle('bad', bad); }
+  }
+
+  async send() {
+    const form = this.el.querySelector('form');
+    const data = new FormData(form);
+    const files = form.elements.files.files;
+    if (String(data.get('details')).trim().length < 10) return this.status('Please describe the change in a sentence or two.', true);
+    if (files.length > 3) return this.status('Please attach at most 3 files.', true);
+    if ([...files].some(f => f.size > 8 * 1024 * 1024)) return this.status('Each file must be 8 MB or smaller.', true);
+    if (files.length && !data.get('permission')) return this.status('Please confirm you have the right to share the attached files.', true);
+    if (!data.get('cf-turnstile-response')) return this.status('Please wait for the spam check to finish, then send again.', true);
+
+    const btn = form.querySelector('.sg-send');
+    btn.disabled = true;
+    this.status('Sending…');
+    try {
+      const res = await fetch(SUGGEST.endpoint, { method: 'POST', body: data });
+      const out = await res.json().catch(() => ({}));
+      if (!res.ok || !out.ok) throw new Error(out.error || 'The suggestion could not be sent.');
+      form.innerHTML = `
+        <button type="button" class="icon-btn sg-close" aria-label="Close">✕</button>
+        <h2 id="sg-title">Thank you</h2>
+        <p>Your suggestion about <strong>${esc(displayName(this.person))}</strong> has been received and will be reviewed before anything changes on the site.</p>
+        ${out.ref ? `<p class="muted">Reference: ${esc(out.ref)}</p>` : ''}
+        <div class="sg-actions"><button type="button" class="sg-send sg-close">Close</button></div>`;
+    } catch (err) {
+      btn.disabled = false;
+      this.status(err.message, true);
+      if (this.widget != null && window.turnstile) window.turnstile.reset(this.widget);
+    }
+  }
+}

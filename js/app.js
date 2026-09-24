@@ -7,6 +7,7 @@ import { Renderer } from './render.js';
 import { renderPanel } from './panel.js';
 import { Sidebar } from './sidebar.js';
 import { Viewer } from './viewer.js';
+import { Suggest } from './suggest.js';
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -25,7 +26,7 @@ const me = {
 };
 let compareId = null;   // someone picked in the panel's compare box
 
-let D, renderer, sidebar, viewer, focusId = null;
+let D, renderer, sidebar, viewer, suggest, focusId = null;
 
 async function main() {
   try { D = await loadFamily(); }
@@ -36,6 +37,7 @@ async function main() {
   renderer = new Renderer($('#svg'), D, focus);
   sidebar = new Sidebar($('#dir'), D, focus);
   viewer = new Viewer(D, focus);
+  suggest = new Suggest();
   wireHeader();
   wirePanel();
   window.addEventListener('hashchange', route);
@@ -214,6 +216,7 @@ function wirePanel() {
     if (p && e.target.closest('#rel-clear')) { compareId = null; renderPanelFor(p); }
     const m = e.target.closest('.media[data-media]');
     if (m) viewer.open(m.dataset.media);
+    if (p && e.target.closest('#panel-suggest')) suggest.open(p);
   });
 }
 

@@ -87,3 +87,9 @@ The research pipeline that produced these records (prompts, specs, raw sources, 
 reports) lives outside this repository in the private `claude_cowork` folder. Records were
 brought into `data/people` on 2026-09-22; see `scripts/fix-2026-09-22.js` for the
 corrections made at that time.
+
+## Suggestions from visitors
+
+Each person panel can offer a "Suggest a correction or addition" form. Suggestions go to a
+private review repo through a small Cloudflare Worker; see `worker/README.md` for setup and
+review.
