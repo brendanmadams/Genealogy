@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T14:58:28.710Z",
+  "generated": "2026-09-24T15:05:52.857Z",
   "people": 690,
   "family_members": 640,
   "dna_matches": 50,
@@ -8267,7 +8267,10 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1860-mcminn-ball",
+    "census-1870-roane-ball"
+   ],
    "birth": {
     "text": "abt 1812",
     "year": 1812,
@@ -8334,7 +8337,9 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "census-1910-delta-simons-mcphail"
+    "census-1910-delta-simons-mcphail",
+    "census-1860-mcminn-ball",
+    "census-1870-roane-ball"
    ],
    "birth": {
     "text": "2 Nov 1851",
@@ -8420,7 +8425,10 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1860-mcminn-ball",
+    "census-1870-roane-ball"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -11361,7 +11369,9 @@
    ],
    "sex": "M",
    "media": [
-    "census-1920-baltimore-mckeldin-bell"
+    "census-1920-baltimore-mckeldin-bell",
+    "census-1930-baltimore-mckeldin",
+    "census-1940-baltimore-mckeldin"
    ],
    "birth": {
     "text": "April 22, 1917",
@@ -14013,7 +14023,10 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1930-baltimore-schriefer",
+    "census-1940-baltimore-schriefer"
+   ],
    "birth": {
     "text": "20 Feb 1921",
     "year": 1921,
@@ -14127,7 +14140,9 @@
    "sex": "F",
    "media": [
     "census-1920-baltimore-mckeldin-bell",
-    "census-1900-baltimore-bell"
+    "census-1900-baltimore-bell",
+    "census-1930-baltimore-mckeldin",
+    "census-1940-baltimore-mckeldin"
    ],
    "birth": {
     "text": "13 Aug 1891",
@@ -14208,7 +14223,8 @@
     "Grandmother to Barbara and Chuck McKeldin.",
     "Born Emma Virginia Bell on 13 Aug 1891 in Baltimore, the daughter of William H. Bell and Elmira \"Ella\" Bell; the 1920 census lists her parents living with her and Charles at 1143 Carroll Street as his father-in-law and mother-in-law. Bell was her maiden name.",
     "CORRECTION: died 4 Jan 1949 in Baltimore and buried 7 Jan 1949 at Mount Olivet Cemetery (Find a Grave, with burial permit number), about eleven months after her granddaughter Barbara was born; the earlier \"abt Feb 1948\" was an estimate from Barbara's memoir.",
-    "Married Charles Edward McKeldin about 1908 (he was 21 at his first marriage, per the 1930 census). Children in the 1920 and 1930 censuses: Lola E. (b. abt 1909), Lillian M. (abt 1911), Helen M. (abt 1912), Charles E. (1917), Emma (abt 1920) and William (abt 1923)."
+    "Married Charles Edward McKeldin about 1908 (he was 21 at his first marriage, per the 1930 census). Children in the 1920 and 1930 censuses: Lola E. (b. abt 1909), Lillian M. (abt 1911), Helen M. (abt 1912), Charles E. (1917), Emma (abt 1920) and William (abt 1923).",
+    "In the 1940 census she is listed as head of the household at 1143 Carroll Street, married, with her children Charles (23), Emma (19) and William (17); her husband Charles was not living there."
    ]
   },
   {
@@ -14312,7 +14328,9 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "census-1910-harford-quinn"
+    "census-1910-harford-quinn",
+    "census-1930-baltimore-schriefer",
+    "census-1940-baltimore-schriefer"
    ],
    "birth": {
     "text": "13 Nov 1900",
@@ -29059,7 +29077,8 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "census-1910-harford-quinn"
+    "census-1910-harford-quinn",
+    "census-1930-baltimore-schriefer"
    ],
    "birth": {
     "text": "1869",
@@ -30175,7 +30194,8 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "census-1920-baltimore-mckeldin-bell"
+    "census-1920-baltimore-mckeldin-bell",
+    "census-1930-baltimore-mckeldin"
    ],
    "birth": {
     "text": "4 Feb 1887",
@@ -30263,7 +30283,8 @@
    "notes": [
     "Siblings listed: Theodore Roosevelt McKeldin (Governor of Maryland), George Edward, John, Lillian J., Theresa, Laura S., Louis Lawrence, William Frederick, James Raymond, Alice",
     "Brendan's great-grandfather.",
-    "His Find a Grave memorial names him Charles Edward McKeldin (1887–1949). He rented 1143 Carroll Street in 1920 and owned it by 1930; the house stayed in the family, and his daughter-in-law Emily's funeral (1950) and her parents' death notices (1951, 1952) all give it as home."
+    "His Find a Grave memorial names him Charles Edward McKeldin (1887–1949). He rented 1143 Carroll Street in 1920 and owned it by 1930; the house stayed in the family, and his daughter-in-law Emily's funeral (1950) and her parents' death notices (1951, 1952) all give it as home.",
+    "He is not in the 1940 census household at 1143 Carroll Street, where his wife Emma, still married, is listed as head."
    ]
   },
   {
@@ -30477,7 +30498,10 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1930-baltimore-mckeldin",
+    "census-1940-baltimore-mckeldin"
+   ],
    "birth": {
     "text": "abt 1920",
     "year": 1920,
@@ -30683,7 +30707,8 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "census-1920-baltimore-mckeldin-bell"
+    "census-1920-baltimore-mckeldin-bell",
+    "census-1930-baltimore-mckeldin"
    ],
    "birth": {
     "text": "1912",
@@ -31207,7 +31232,8 @@
    "card_name": null,
    "sex": "F",
    "media": [
-    "census-1920-baltimore-mckeldin-bell"
+    "census-1920-baltimore-mckeldin-bell",
+    "census-1930-baltimore-mckeldin"
    ],
    "birth": {
     "text": "abt 1911",
@@ -32040,7 +32066,10 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1930-baltimore-mckeldin",
+    "census-1940-baltimore-mckeldin"
+   ],
    "birth": {
     "text": "abt 1923",
     "year": 1923,
@@ -39658,7 +39687,9 @@
    "card_name": null,
    "sex": "M",
    "media": [
-    "census-1900-baltimore-schriefer"
+    "census-1900-baltimore-schriefer",
+    "census-1930-baltimore-schriefer",
+    "census-1940-baltimore-schriefer"
    ],
    "birth": {
     "text": "1 Jun 1899",
@@ -39755,7 +39786,10 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1930-baltimore-schriefer",
+    "census-1940-baltimore-schriefer"
+   ],
    "birth": {
     "text": "1925",
     "year": 1925,
@@ -39880,7 +39914,10 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1930-baltimore-schriefer",
+    "census-1940-baltimore-schriefer"
+   ],
    "birth": {
     "text": "7 Jul 1923",
     "year": 1923,
@@ -52908,6 +52945,106 @@
    ],
    "files": [
     "media/draft-ww1-raymond-zell-simons.jpg"
+   ]
+  },
+  {
+   "id": "census-1860-mcminn-ball",
+   "kind": "document",
+   "title": "1860 census: the Ball household, District 2, McMinn County, Tennessee",
+   "caption": "David Ball (48) and Graden Ball (46) with Nancy, George, Mary Ann, Ellen (9), Margaret and Catharine. Ellen is taken to be Ellen Rogers (Ball) McPhail; post office Ten Mile, Meigs County.",
+   "source": "1860 United States Federal Census, District 2, McMinn County, Tennessee, page 213 (NARA M653, roll 1262); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "ball_david",
+    "ball_graden",
+    "ball_ellen_rogers"
+   ],
+   "files": [
+    "media/census-1860-mcminn-ball.jpg"
+   ]
+  },
+  {
+   "id": "census-1870-roane-ball",
+   "kind": "document",
+   "title": "1870 census: the Ball household, District 8, Roane County, Tennessee",
+   "caption": "David Ball (55) and \"Grodon\" Ball (42) with Nancy, Mary A., Ellen (18), Margaret and Catharine; post office Erie.",
+   "source": "1870 United States Federal Census, District 8, Roane County, Tennessee, page 420A (NARA M593, roll 1555); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "ball_david",
+    "ball_graden",
+    "ball_ellen_rogers"
+   ],
+   "files": [
+    "media/census-1870-roane-ball.jpg"
+   ]
+  },
+  {
+   "id": "census-1930-baltimore-mckeldin",
+   "kind": "document",
+   "title": "1930 census: the McKeldin household at 1143 Carroll Street, Baltimore",
+   "caption": "Charles McKeldin (43), a sheet metal worker, who owned the house, his wife Emma (38) and children Lillian (19), Helen (17), Charles (12), Emma (10) and William (7), with a boarder, Marie Ferbaugh.",
+   "source": "1930 United States Federal Census, Baltimore, Maryland, ED 349, sheet 3B (NARA T626); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "mckeldin_charles_i",
+    "emma_bell_mckeldin",
+    "mckeldin_lillian_buckey",
+    "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
+    "mckeldin_emma_buckey",
+    "mckeldin_william_billy"
+   ],
+   "files": [
+    "media/census-1930-baltimore-mckeldin.jpg"
+   ]
+  },
+  {
+   "id": "census-1940-baltimore-mckeldin",
+   "kind": "document",
+   "title": "1940 census: the McKeldin household at 1143 Carroll Street, Baltimore",
+   "caption": "Emma McKeldin (48), married, listed as head of the household, with Charles (23), Emma (19) and William (17), and a young lodger, Margaret Yewell. Her husband Charles is not in the household.",
+   "source": "1940 United States Federal Census, Baltimore, Maryland, ED 4-650B, sheet 7B (NARA T627, roll 1534); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "emma_bell_mckeldin",
+    "charles_buckey_mckeldin",
+    "mckeldin_emma_buckey",
+    "mckeldin_william_billy"
+   ],
+   "files": [
+    "media/census-1940-baltimore-mckeldin.jpg"
+   ]
+  },
+  {
+   "id": "census-1930-baltimore-schriefer",
+   "kind": "document",
+   "title": "1930 census: the Schriefer household at 2003 Barclay Street, Baltimore",
+   "caption": "George Schriefer (30), a shipping clerk for an ice cream company, his wife Ethel (29) and children Emily (9), Kenneth (7) and George (5), with Ethel's mother Emily Cook (54) and stepfather Earnest Cook (55).",
+   "source": "1930 United States Federal Census, Baltimore, Maryland, ED 167, sheet 12B (NARA T626); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "schriefer_george_goode",
+    "ethel_quinn_schriefer",
+    "emily_schrieffer_mckeldin",
+    "schriefer_kenneth",
+    "schriefer_george_jr",
+    "lynn_emily_mariam"
+   ],
+   "files": [
+    "media/census-1930-baltimore-schriefer.jpg"
+   ]
+  },
+  {
+   "id": "census-1940-baltimore-schriefer",
+   "kind": "document",
+   "title": "1940 census: the Schriefer household at 339 21st Street, Baltimore",
+   "caption": "George Schriefer (40), a shipping clerk, his wife Ethel E. (39) and children Emily M. (19), Kenneth J. (16) and George B. (15).",
+   "source": "1940 United States Federal Census, Baltimore, Maryland, ED 4-320, sheet 1B (NARA T627, roll 1520); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "schriefer_george_goode",
+    "ethel_quinn_schriefer",
+    "emily_schrieffer_mckeldin",
+    "schriefer_kenneth",
+    "schriefer_george_jr"
+   ],
+   "files": [
+    "media/census-1940-baltimore-schriefer.jpg"
    ]
   }
  ]
