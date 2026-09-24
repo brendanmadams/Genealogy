@@ -68,7 +68,7 @@ export default {
       const safe = (f.name || 'file').replace(/\.[^.]*$/, '').replace(/[^A-Za-z0-9_-]+/g, '_').slice(0, 60) || 'file';
       const path = `uploads/${ref}/${i + 1}-${safe}.${FILE_TYPES[f.type]}`;
       const res = await gh(`/contents/${path}`, { method: 'PUT', body: JSON.stringify({ message: `Upload for submission ${ref}`, content: toBase64(await f.arrayBuffer()) }) });
-      if (!res.ok) return reply(502, { ok: false, error: 'Could not store the attachment. Please try again later.' });
+      if (!res.ok) { console.error('GitHub upload failed', res.status, (await res.text()).slice(0, 300)); return reply(502, { ok: false, error: 'Could not store the attachment. Please try again later.' }); }
       uploaded.push({ name: f.name, path, size: f.size });
     }
 
@@ -89,7 +89,7 @@ export default {
     ].join('\n');
 
     const res = await gh('/issues', { method: 'POST', body: JSON.stringify({ title: `${s.person_name || 'General'}: ${KINDS[kind]}`, body, labels: ['pending', kind] }) });
-    if (!res.ok) return reply(502, { ok: false, error: 'Could not save the suggestion. Please try again later.' });
+    if (!res.ok) { console.error('GitHub issue failed', res.status, (await res.text()).slice(0, 300)); return reply(502, { ok: false, error: 'Could not save the suggestion. Please try again later.' }); }
     const issue = await res.json();
     return reply(200, { ok: true, number: issue.number, ref });
   },
