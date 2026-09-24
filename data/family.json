@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T18:10:21.725Z",
+  "generated": "2026-09-24T18:24:19.630Z",
   "people": 893,
   "family_members": 844,
   "dna_matches": 49,
@@ -4543,13 +4543,17 @@
    "sources": [
     "consolidated_research_digest_v1",
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Ancestry.com, 1850 United States Federal Census (Columbus Ward 1, Franklin County, Ohio; NARA M432, roll 679, page 384b)",
+    "Ancestry.com, 1860 United States Federal Census (Cleveland Ward 9, Cuyahoga County, Ohio; NARA M653, roll 953, page 899)",
+    "Ancestry.com, Ohio, U.S., County Marriage Records, 1774-1993"
    ],
    "notes": [
     "Siblings listed: Twin brother George Francis (#1), Alexander Washington, Magdalena, Harriet Josephine, Susan, and Ursula",
     "Twin of George; deceased by 1909 per the Gill biography. [Bill Allen, Further Research, 2012, line 7598]",
     "Twin of George (Francis Adams #1); child of Jose and Elizabeth [Bill Allen, Further Research, 2012, line 8313]",
-    "Bill Allen’s hypothesis: Bill believes Mary stepped in as Lewis Swan’s wife after her sister Magdalena died, a common practice at the time, and that she had no children. [Bill Allen, line 8472, 8547]"
+    "Bill Allen’s hypothesis: Bill believes Mary stepped in as Lewis Swan’s wife after her sister Magdalena died, a common practice at the time, and that she had no children. [Bill Allen, line 8472, 8547]",
+    "In the 1850 census she is Mary E. Swan, 33 (born about 1817), wife of Lewis Swan, a carpenter, at Columbus Ward 1, with his children Horatio M. (23) and Melissa (18) and her niece and stepdaughter Mary Elizabeth (10). The Franklin County marriage index gives her as Mary E. (or C.) Adams, married 24 Sep 1848. By 1860 Lewis was living with Horatio in Cleveland without her, so she died between 1850 and 1860."
    ]
   },
   {
@@ -5507,10 +5511,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Ancestry.com, Ohio, U.S., County Marriage Records, 1774-1993"
    ],
    "notes": [
-    "Twin of Ursula; alive in 1830, and probably died before the 1840 census."
+    "Twin of Ursula; alive in 1830, and probably died before the 1840 census.",
+    "Lead only: Ohio county marriage records include a Susanna Adams who married James Budd on 25 Dec 1839 and an \"Arsula C.\" Adams who married John Sigler on 21 Jun 1849, both in Delaware County, next to Licking and Franklin. Neither is linked to this family by any record found, and the 1909 Gill biography says both twins had died by then."
    ]
   },
   {
@@ -5571,10 +5577,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Ancestry.com, Ohio, U.S., County Marriage Records, 1774-1993"
    ],
    "notes": [
-    "Twin of Susan; alive in 1830, and probably died before the 1840 census."
+    "Twin of Susan; alive in 1830, and probably died before the 1840 census.",
+    "Lead only: Ohio county marriage records include a Susanna Adams who married James Budd on 25 Dec 1839 and an \"Arsula C.\" Adams who married John Sigler on 21 Jun 1849, both in Delaware County, next to Licking and Franklin. Neither is linked to this family by any record found, and the 1909 Gill biography says both twins had died by then."
    ]
   },
   {
@@ -56889,9 +56897,9 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1827",
+    "year": 1827,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -56932,12 +56940,15 @@
    "education": [],
    "career": [],
    "sources": [
-    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Ancestry.com, 1850 United States Federal Census (Columbus Ward 1, Franklin County, Ohio; NARA M432, roll 679, page 384b)",
+    "Ancestry.com, 1860 United States Federal Census (Cleveland Ward 9, Cuyahoga County, Ohio; NARA M653, roll 953, page 899)"
    ],
    "notes": [
     "Bill Allen believed he was Lewis Swan’s child by an earlier marriage.",
     "Age 23 in the Lewis Swan household in the 1850 census [Further Research, line 8336]",
-    "Head of household in the 1860 census [Further Research, line 8494]"
+    "Head of household in the 1860 census [Further Research, line 8494]",
+    "Son of Lewis Swan, probably by a marriage before Magdalena Adams; aged 23 in 1850 (Columbus). In 1860 \"H. M. Swan\", 30, lived in Cleveland Ward 9 with his wife Cecilia (24), daughter Frances C. (2), his father Lewis and his half-sister Maria (19)."
    ]
   },
   {
@@ -56990,7 +57001,9 @@
     "Franklin County, OH",
     "Licking County, OH",
     "Union Township, Licking County, Ohio",
-    "Columbus, Franklin County, Ohio"
+    "Columbus, Franklin County, Ohio",
+    "Granville, Licking County, Ohio",
+    "Cleveland, Cuyahoga County, Ohio"
    ],
    "personality": [],
    "roles": [],
@@ -57002,12 +57015,18 @@
     "Married Mary Adams (m. 1848) after Magdalena's death"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Carpenter (1850–1870)."
+   ],
    "sources": [
     "consolidated_research_digest_v1",
     "family_data_v1",
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "Ancestry.com, 1830 United States Federal Census (Granville, Licking County, Ohio)",
+    "Ancestry.com, 1850 United States Federal Census (Columbus Ward 1, Franklin County, Ohio; NARA M432, roll 679, page 384b)",
+    "Ancestry.com, 1860 United States Federal Census (Cleveland Ward 9, Cuyahoga County, Ohio; NARA M653, roll 953, page 899)",
+    "Ancestry.com, 1870 United States Federal Census (Union, Licking County, Ohio; NARA M593, roll 1233, page 428A)"
    ],
    "notes": [
     "Married Magdalena Adams (m. 25 Sep 1838) then Mary Adams (Swan) (m. 24 Sep 1848) after Magdalena's death.",
@@ -57015,21 +57034,25 @@
     "Birth date newly established: abt 1807.",
     "Spent the rest of his life moving between his children's households and the Gills' [Bill Allen, Further Research, 2012, line 8478]",
     "Bill Allen’s hypothesis: Bill believes Lewis, much older than Magdalena, had an earlier marriage that produced Horatio and Melissa. [Bill Allen, line 8463]",
-    "Bill Allen’s hypothesis: No death or burial record found; assumed to have died between 1870 and 1880. [Bill Allen, line 8520]"
+    "Bill Allen’s hypothesis: No death or burial record found; assumed to have died between 1870 and 1880. [Bill Allen, line 8520]",
+    "A carpenter, born about 1805–07 in Vermont (1850, 1860; Connecticut in 1870). He headed a household at Granville, Licking County, in 1830; lived at Columbus in 1850; was with his son H. M. (Horatio) Swan in Cleveland Ward 9 in 1860, with Maria (Mary Elizabeth), 19; and in 1870, aged 64, lived with Stephen and Harriet J. (Adams) Gill at Union Township, Licking County (post office Etna), with Mary E., 30."
    ]
   },
   {
    "id": "swan_mary_elizabeth",
    "name": "Mary Elizabeth Swan",
-   "aliases": [],
+   "aliases": [
+    "Maria Swan",
+    "Mary E. Hand"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1840",
+    "year": 1840,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -57071,12 +57094,18 @@
    "education": [],
    "career": [],
    "sources": [
-    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Ancestry.com, 1850 United States Federal Census (Columbus Ward 1, Franklin County, Ohio; NARA M432, roll 679, page 384b)",
+    "Ancestry.com, 1860 United States Federal Census (Cleveland Ward 9, Cuyahoga County, Ohio; NARA M653, roll 953, page 899)",
+    "Ancestry.com, 1870 United States Federal Census (Union, Licking County, Ohio; NARA M593, roll 1233, page 428A)",
+    "Ancestry.com, Ohio, U.S., County Marriage Records, 1774-1993"
    ],
    "notes": [
     "Bill Allen believed she was Magdalena’s daughter, born after the 1840 census. The 1870 census suggests she married a man named Hanel or Hazle (hard to read).",
     "Age 10 in the Lewis Swan household in the 1850 census [Further Research, line 8337]",
-    "Author lost track of her after her marriage [Further Research, line 8548]"
+    "Author lost track of her after her marriage [Further Research, line 8548]",
+    "Aged 10 in 1850 (Columbus) and \"Maria\", 19, with her father and half-brother Horatio in Cleveland in 1860. In 1870, as Mary E., 30, she was with her father at her aunt Harriet (Adams) Gill's at Union Township, Licking County.",
+    "Lead: a Mary E. Swan married Samuel Hand on 2 May 1866 in Franklin County (Ohio county marriage records); the surname indexed as \"Hanel\" in the 1870 census may be Hand. Not confirmed."
    ]
   },
   {
@@ -57088,9 +57117,9 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "abt 1832",
+    "year": 1832,
+    "qualifier": "about"
    },
    "death": {
     "text": "",
@@ -57130,11 +57159,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Ancestry.com, 1850 United States Federal Census (Columbus Ward 1, Franklin County, Ohio; NARA M432, roll 679, page 384b)"
    ],
    "notes": [
     "Bill Allen believed she was Lewis Swan’s child by an earlier marriage.",
-    "Age 18 in the Lewis Swan household in the 1850 census [Further Research, line 8337]"
+    "Age 18 in the Lewis Swan household in the 1850 census [Further Research, line 8337]",
+    "Daughter of Lewis Swan; aged 18 in the 1850 census at Columbus."
    ]
   },
   {

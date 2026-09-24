@@ -1,7 +1,7 @@
 {
   "id": "swan_mary_elizabeth",
   "name": "Mary Elizabeth Swan",
-  "birth": "",
+  "birth": "abt 1840",
   "death": "",
   "personality": [],
   "roles": [],
@@ -22,13 +22,22 @@
     "Columbus, Franklin County, Ohio"
   ],
   "sources": [
-    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)"
+    "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
+    "Ancestry.com, 1850 United States Federal Census (Columbus Ward 1, Franklin County, Ohio; NARA M432, roll 679, page 384b)",
+    "Ancestry.com, 1860 United States Federal Census (Cleveland Ward 9, Cuyahoga County, Ohio; NARA M653, roll 953, page 899)",
+    "Ancestry.com, 1870 United States Federal Census (Union, Licking County, Ohio; NARA M593, roll 1233, page 428A)",
+    "Ancestry.com, Ohio, U.S., County Marriage Records, 1774-1993"
   ],
   "notes": [
     "Bill Allen believed she was Magdalena’s daughter, born after the 1840 census. The 1870 census suggests she married a man named Hanel or Hazle (hard to read).",
     "Age 10 in the Lewis Swan household in the 1850 census [Further Research, line 8337]",
-    "Author lost track of her after her marriage [Further Research, line 8548]"
+    "Author lost track of her after her marriage [Further Research, line 8548]",
+    "Aged 10 in 1850 (Columbus) and \"Maria\", 19, with her father and half-brother Horatio in Cleveland in 1860. In 1870, as Mary E., 30, she was with her father at her aunt Harriet (Adams) Gill's at Union Township, Licking County.",
+    "Lead: a Mary E. Swan married Samuel Hand on 2 May 1866 in Franklin County (Ohio county marriage records); the surname indexed as \"Hanel\" in the 1870 census may be Hand. Not confirmed."
   ],
-  "aliases": [],
+  "aliases": [
+    "Maria Swan",
+    "Mary E. Hand"
+  ],
   "sex": "F"
 }
