@@ -14,7 +14,9 @@ const MAX_FILES = 3;
 const MAX_FILE_BYTES = 8 * 1024 * 1024;
 const FILE_TYPES = { 'image/jpeg': 'jpg', 'image/png': 'png', 'image/webp': 'webp', 'image/gif': 'gif', 'application/pdf': 'pdf' };
 const KINDS = { correction: 'Correction', addition: 'New information', relative: 'Missing relative', media: 'Photo or document', other: 'Other' };
-const LIMITS = { person_id: 120, person_name: 200, details: 5000, source: 2000, name: 120, email: 200, relation: 200 };
+const LIMITS = { person_id: 120, person_name: 200, details: 5000, source: 2000, name: 120, email: 200, relation: 200, new_name: 150, new_relation: 30, new_status: 20, new_born: 60, new_died: 60, new_place: 200 };
+const NEW_RELATIONS = { parent: 'parent', child: 'child', sibling: 'brother or sister', spouse: 'husband, wife or partner', other: 'other relation or not sure' };
+const NEW_STATUS = { died: 'has died', living: 'living', unsure: 'not sure' };
 
 export default {
   async fetch(request, env) {
@@ -46,8 +48,16 @@ export default {
       details: field('details'), source: field('source'),
       name: field('name'), email: field('email'), relation: field('relation'),
       permission: form.get('permission') === 'yes',
+      new_name: field('new_name'), new_relation: NEW_RELATIONS[field('new_relation')] ? field('new_relation') : '',
+      new_status: NEW_STATUS[field('new_status')] ? field('new_status') : 'unsure',
+      new_born: field('new_born'), new_died: field('new_died'), new_place: field('new_place'),
     };
-    if (s.details.length < 10) return reply(400, { ok: false, error: 'Please describe the change in a sentence or two.' });
+    // living people: names and relationships only, whatever the browser sent
+    if (s.new_status === 'living') s.new_born = s.new_died = s.new_place = '';
+    if (kind === 'relative') {
+      if (s.new_name.length < 2) return reply(400, { ok: false, error: 'Please give the missing relative’s name.' });
+      if (!s.person_id && s.details.length < 10) return reply(400, { ok: false, error: 'Please say how they fit into the family.' });
+    } else if (s.details.length < 10) return reply(400, { ok: false, error: 'Please describe the change in a sentence or two.' });
     if (s.email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s.email)) return reply(400, { ok: false, error: 'That email address does not look right.' });
 
     const files = form.getAll('files').filter(f => f && typeof f === 'object' && f.size > 0);
@@ -74,13 +84,20 @@ export default {
       uploaded.push({ name: f.name, path, size: f.size });
     }
 
-    const person = s.person_id ? `${s.person_name || s.person_id} (\`${s.person_id}\`)` : '(no person selected)';
+    const person = s.person_id ? `${s.person_name || s.person_id} (\`${s.person_id}\`)` : 'General (not about one person)';
     const link = s.person_id ? `${env.SITE_URL}#/p/${encodeURIComponent(s.person_id)}` : env.SITE_URL;
     const quote = t => t ? t.split('\n').map(l => `> ${l}`).join('\n') : '> (none given)';
     const body = [
       `**Person:** ${person} · [open on the site](${link})`,
       `**Kind:** ${KINDS[kind]}`,
-      '', '### What should change', quote(s.details),
+      ...(kind === 'relative' ? ['', '### The missing relative',
+        `- Name: ${s.new_name}`,
+        ...(s.person_id ? [`- Relationship to ${s.person_name || s.person_id}: ${s.new_relation ? NEW_RELATIONS[s.new_relation] : '(not given)'}`] : []),
+        `- Living: ${NEW_STATUS[s.new_status]}`,
+        ...(s.new_born ? [`- Born: ${s.new_born}`] : []),
+        ...(s.new_died ? [`- Died: ${s.new_died}`] : []),
+        ...(s.new_place ? [`- Where they lived: ${s.new_place}`] : [])] : []),
+      '', kind === 'relative' ? (s.person_id ? '### Anything else about them' : '### How they fit into the family') : '### What should change', quote(s.details),
       '', '### Source or how they know', quote(s.source),
       '', '### Submitted by',
       `- Name: ${s.name || '(not given)'}`,
@@ -90,7 +107,10 @@ export default {
       '', `<sub>Reference ${ref}, received ${stamp}</sub>`,
     ].join('\n');
 
-    const res = await gh('/issues', { method: 'POST', body: JSON.stringify({ title: `${s.person_name || 'General'}: ${KINDS[kind]}`, body, labels: ['pending', kind] }) });
+    const title = kind === 'relative'
+      ? `New relative: ${s.new_name}${s.person_id ? ` (${s.new_relation ? NEW_RELATIONS[s.new_relation] : 'relative'} of ${s.person_name || s.person_id})` : ''}`
+      : `${s.person_name || 'General'}: ${KINDS[kind]}`;
+    const res = await gh('/issues', { method: 'POST', body: JSON.stringify({ title: title.slice(0, 250), body, labels: ['pending', kind] }) });
     if (!res.ok) { console.error('GitHub issue failed', res.status, (await res.text()).slice(0, 300)); return reply(502, { ok: false, error: 'Could not save the suggestion. Please try again later.' }); }
     const issue = await res.json();
     return reply(200, { ok: true, number: issue.number, ref });

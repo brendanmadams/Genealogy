@@ -8,6 +8,7 @@
 import { displayName, lifespan, byBirth } from './data.js';
 import { relate } from './relate.js';
 import { ASK } from './config.js';
+import { suggestEnabled } from './suggest.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const norm = s => String(s ?? '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[“”"]/g, ' ').replace(/[’']/g, "'").replace(/[^a-z0-9' ]+/g, ' ').replace(/\s+/g, ' ').trim();
@@ -306,8 +307,8 @@ function buildContext(D, sel, named) {
 
 // ── The box and the answer card ──────────────────────────────────────────────
 export class Ask {
-  constructor(D, { getView, getMe, onPick }) {
-    this.D = D; this.getView = getView; this.getMe = getMe; this.onPick = onPick;
+  constructor(D, { getView, getMe, onPick, onSuggest }) {
+    this.D = D; this.getView = getView; this.getMe = getMe; this.onPick = onPick; this.onSuggest = onSuggest;
     this.names = new NameIndex(D);
     this.el = document.createElement('div');
     this.el.id = 'ask-card';
@@ -317,6 +318,7 @@ export class Ask {
     document.body.appendChild(this.el);
     this.el.addEventListener('click', e => {
       if (e.target.closest('.ask-close')) return this.close();
+      if (e.target.closest('.ask-suggest')) { this.close(); return this.onSuggest?.(this.sel?.focus || null); }
       const ex = e.target.closest('[data-q]');
       if (ex) return this.ask(ex.dataset.q);
       const c = e.target.closest('[data-id]');
@@ -342,7 +344,7 @@ export class Ask {
       'Who was born in Tennessee?',
       nm && this.getMe() && this.getMe() !== focusId && `How am I related to ${nm}?`,
     ].filter(Boolean);
-    this.frame('Ask a question', `<p class="muted">Ask about anyone in the family. Exact questions (relationships, parents, dates, places) are answered straight from the records; anything else is answered by an AI that reads only what is on screen.</p><div class="ask-examples">${examples.map(q => `<button class="ask-ex" data-q="${esc(q)}">${esc(q)}</button>`).join('')}</div>`);
+    this.frame('Ask a question', `<p class="muted">Ask about anyone in the family. Exact questions (relationships, parents, dates, places) are answered straight from the records; anything else is answered by an AI that reads only what is on screen.</p><div class="ask-examples">${examples.map(q => `<button class="ask-ex" data-q="${esc(q)}">${esc(q)}</button>`).join('')}</div>${suggestEnabled() && this.onSuggest ? `<p class="muted ask-suggest-row">Know something the tree is missing? <button class="link-btn ask-suggest">Suggest an addition or correction</button></p>` : ''}`);
     this.el.querySelector('.ask-again input').focus();
   }
 

@@ -381,3 +381,18 @@ body[data-view="ancestors"] .legend, body[data-view="descendants"] .legend { dis
   #ask-card { top: var(--header-h); width: 100%; max-height: calc(100vh - var(--header-h)); border-radius: 0; left: 0; transform: none; }
 }
 @media print { .ask-box, #btn-ask, #ask-card { display: none !important; } }
+
+/* suggestion form: "About" picker and the missing-relative fields */
+.sg-about-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; color: var(--text); font-size: 13px; font-weight: 500; }
+.sg-about-row .chip { cursor: default; }
+.sg-picker { max-width: none; display: grid; gap: 6px; }
+.sg-picker[hidden] { display: none; }
+.sg-picker .dropdown { position: static; box-shadow: none; max-height: 240px; }
+.sg-picker .sg-none { justify-self: start; }
+.sg-relative[hidden], .sg-dates[hidden], .sg-rel-select[hidden], .sg-living-note[hidden] { display: none; }
+.sg-dates { display: grid; gap: 10px; }
+.sg-radios { display: grid; gap: 4px; color: var(--text); font-size: 13px; font-weight: 500; }
+.sg-radios .sg-check { font-weight: 400; }
+.landing-suggest { margin-top: 24px; color: var(--text-2); font-size: 14px; }
+.landing-suggest .link-btn, .ask-suggest-row .link-btn { font-size: inherit; }
+.ask-suggest-row { font-size: 13px; }

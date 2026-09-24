@@ -7,7 +7,7 @@ import { Renderer } from './render.js';
 import { renderPanel } from './panel.js';
 import { Sidebar } from './sidebar.js';
 import { Viewer } from './viewer.js';
-import { Suggest } from './suggest.js';
+import { Suggest, suggestEnabled } from './suggest.js';
 import { Ask } from './ask.js';
 
 const $ = s => document.querySelector(s);
@@ -38,8 +38,8 @@ async function main() {
   renderer = new Renderer($('#svg'), D, focus);
   sidebar = new Sidebar($('#dir'), D, focus);
   viewer = new Viewer(D, focus);
-  suggest = new Suggest();
-  ask = new Ask(D, { getView: () => ({ focusId, view, gens: gens[view] }), getMe: () => me.get(), onPick: id => focus(id) });
+  suggest = new Suggest(D);
+  ask = new Ask(D, { getView: () => ({ focusId, view, gens: gens[view] }), getMe: () => me.get(), onPick: id => focus(id), onSuggest: id => suggest.open(id ? D.person(id) : null) });
   wireHeader();
   wirePanel();
   window.addEventListener('hashchange', route);
@@ -141,9 +141,11 @@ function showLanding() {
       ${recent.length ? `<h3>Recently viewed</h3><div class="chips">${recent.map(chip).join('')}</div>` : ''}
       <h3>Start from the earliest known ancestors</h3>
       <div class="lines">${lines}</div>
+      ${suggestEnabled() ? `<p class="landing-suggest">Know someone who’s missing, or spotted a mistake? <button class="link-btn" id="landing-suggest">Suggest an addition or correction</button></p>` : ''}
     </div>`;
   $('#landing').hidden = false;
   wireSearch($('#landing-search'), $('#landing-results'));
+  $('#landing-suggest')?.addEventListener('click', () => suggest.open(null, { kind: 'relative' }));
   $('#landing-search').focus();
 }
 
