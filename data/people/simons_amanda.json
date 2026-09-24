@@ -1,15 +1,20 @@
 {
   "id": "simons_amanda",
-  "name": "Amanda Simons",
+  "name": "Amanda Marie Simons (Knight)",
   "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
-  "notable_stories": [],
+  "notable_stories": [
+    "DNA match: 4.61% shared. Glen's great-niece; Simons side",
+    "DNA match: 4.61% shared DNA. Simons branch. 23&Me label: 2C. Great-niece of Glen Simons (11.18% with Glen)."
+  ],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Christopher Bradley Knight (m. 2018)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -21,10 +26,17 @@
   },
   "locations": [],
   "sources": [
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "family_data_v1",
+    "adams_dna_linkage_v1",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
   ],
   "notes": [
-    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons. Married Chris (surname not given)."
+    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons.",
+    "Amanda Marie Simons applied to marry Christopher Bradley Knight on 28 Sep 2018 in Franklin County. She is the \"Amanda Knight\" in Brendan's 23andMe match list, a great-niece of Glen Simons."
   ],
-  "aliases": []
+  "aliases": [
+    "Amanda Simons",
+    "Amanda Knight"
+  ]
 }

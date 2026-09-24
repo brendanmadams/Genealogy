@@ -88,7 +88,7 @@ person('simons_leslie', 'Leslie Simons (Addis)', 'F', OB_IRENE, p => { add(p.ali
 child('simons_leslie', 'simons_les', 'simons_lenore');
 person('simons_billy', 'Billy Simons', 'M', [OB_IRENE, OB_ROD], p => note(p, 'Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda.'));
 child('simons_billy', 'simons_orval_keith', 'simons_irene');
-person('simons_amanda', 'Amanda Simons', 'F', OB_IRENE, p => note(p, 'Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons. Married Chris (surname not given).'));
+person('simons_amanda', 'Amanda Simons', 'F', OB_IRENE, p => note(p, 'Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons.'));
 child('simons_amanda', 'simons_billy', null);
 edit('simons_rodney', [OB_ROD, OB_IRENE], p => {
   rename(p, ['Rodney Simons'], 'Rodney Keith “Rod” Simons');

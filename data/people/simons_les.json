@@ -1,6 +1,6 @@
 {
   "id": "simons_les",
-  "name": "Les Simons",
+  "name": "Leslie Orvel “Les” Simons",
   "birth": "",
   "death": "",
   "personality": [],
@@ -8,7 +8,9 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Terri Lee Hickman (m. 1976)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -30,9 +32,14 @@
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
   ],
-  "notes": [],
-  "aliases": [],
+  "notes": [
+    "Leslie Orvel Simons married Terri Lee Hickman in Franklin County (certificate recorded 4 May 1976), before his marriage to Lenore."
+  ],
+  "aliases": [
+    "Les Simons"
+  ],
   "sex": "M"
 }

@@ -1,6 +1,6 @@
 {
   "id": "simons_mary",
-  "name": "Mary Simons",
+  "name": "Mary Patricia Walker (Simons)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -8,7 +8,9 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Glen E. Simons (m. 27 Jul 1958)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -23,11 +25,15 @@
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
   ],
   "notes": [
-    "Wife of Glen Simons. Maiden name not recorded."
+    "Wife of Glen Simons.",
+    "Born Mary Patricia Walker; she married Glen E. Simons on 27 Jul 1958 in Franklin County, Washington (recorded 29 Jul 1958)."
   ],
-  "aliases": [],
+  "aliases": [
+    "Mary Simons"
+  ],
   "sex": "F"
 }

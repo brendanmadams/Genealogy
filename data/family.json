@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generated": "2026-09-24T16:59:09.514Z",
-  "people": 887,
+  "generated": "2026-09-24T17:32:23.359Z",
+  "people": 886,
   "family_members": 837,
-  "dna_matches": 50,
+  "dna_matches": 49,
   "connected_people": 837,
   "families": 303,
   "branches": [
@@ -30876,63 +30876,6 @@
    "notes": []
   },
   {
-   "id": "knight_amanda",
-   "name": "Amanda Knight",
-   "aliases": [],
-   "photo": null,
-   "card_name": null,
-   "sex": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
-   "lineages": [],
-   "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "spouses": [],
-   "children": [],
-   "siblings": [],
-   "families": [],
-   "parent_family": null,
-   "connected": false,
-   "dna_match": true,
-   "priority": "low",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [
-    "DNA match: 4.61% shared. Glen's great-niece; Simons side",
-    "DNA match: 4.61% shared DNA. Simons branch. 23&Me label: 2C. Great-niece of Glen Simons (11.18% with Glen)."
-   ],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "family_data_v1",
-    "adams_dna_linkage_v1"
-   ],
-   "notes": [
-    "DNA profile only. Simons branch — Glen Simons' great-niece.",
-    "Simons branch confirmed via Glen's RIC.",
-    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
-   ]
-  },
-  {
    "id": "koenig_anna_caroline",
    "name": "Anna Caroline Koenig (Winfrey, Allen)",
    "aliases": [
@@ -49603,8 +49546,11 @@
   },
   {
    "id": "simons_amanda",
-   "name": "Amanda Simons",
-   "aliases": [],
+   "name": "Amanda Marie Simons (Knight)",
+   "aliases": [
+    "Amanda Simons",
+    "Amanda Knight"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -49646,16 +49592,25 @@
    "personality": [],
    "roles": [],
    "childhood_experience": [],
-   "notable_stories": [],
+   "notable_stories": [
+    "DNA match: 4.61% shared. Glen's great-niece; Simons side",
+    "DNA match: 4.61% shared DNA. Simons branch. 23&Me label: 2C. Great-niece of Glen Simons (11.18% with Glen)."
+   ],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Christopher Bradley Knight (m. 2018)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "family_data_v1",
+    "adams_dna_linkage_v1",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
    ],
    "notes": [
-    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons. Married Chris (surname not given)."
+    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons.",
+    "Amanda Marie Simons applied to marry Christopher Bradley Knight on 28 Sep 2018 in Franklin County. She is the \"Amanda Knight\" in Brendan's 23andMe match list, a great-niece of Glen Simons."
    ]
   },
   {
@@ -50139,8 +50094,10 @@
   },
   {
    "id": "simons_billy",
-   "name": "Billy Simons",
-   "aliases": [],
+   "name": "Billy Michael Simons",
+   "aliases": [
+    "Billy Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -50193,15 +50150,20 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married LeAnn Robin Collins (m. 2000)",
+    "Married Yvette Lavon Johnson (m. 2017)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
-    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
    ],
    "notes": [
-    "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda."
+    "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda.",
+    "Billy Michael Simons married LeAnn Robin Collins in Benton County (certificate recorded 23 Jun 2000) and applied to marry Yvette Lavon Johnson there on 3 Aug 2017."
    ]
   },
   {
@@ -50528,11 +50490,13 @@
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
    ],
    "notes": [
     "Adopted by Elmer and Wilma (Hardy) Simons; Elmer's second wife, Bette, was a stepmother.",
-    "Her brother Carl Ray's 2025 obituary says she died before him."
+    "Her brother Carl Ray's 2025 obituary says she died before him.",
+    "Probably her: Debra Sue Simons applied to marry Michael D. Miller in Benton County on 14 Dec 2001."
    ]
   },
   {
@@ -51358,7 +51322,9 @@
     "In 1952 Uncle Glen drove Beryl and her three children from Pasco to San Francisco on two-lane highways so they could board the ship to Okinawa."
    ],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Mary Patricia Walker (m. 27 Jul 1958)"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -51368,7 +51334,8 @@
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
     "Ancestry.com, U.S. Federal Censuses 1900–1950",
     "Sumner Voiles Funeral Chapel, memorial page for Glen Simons (12 Jan 1936 – 1 Dec 2020)",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
    ],
    "notes": [
     "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
@@ -52075,15 +52042,19 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Stanley James Bensussen (m. 4 Sep 1983)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
    ],
    "notes": [
-    "Married Stan Bensussen."
+    "Married Stan Bensussen.",
+    "She married Stanley James Bensussen on 4 Sep 1983 in Benton County."
    ]
   },
   {
@@ -52213,9 +52184,14 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
    ],
-   "notes": []
+   "notes": [
+    "Probably her: Judith A. Simons married Steven L. Arbogast on 21 Nov 1979 in Benton County, and, as Judith A. Arbogast, Jeffrey F. Armatrout in 1983, also in Benton County (county marriage certificates). Neither record names her parents.",
+    "Lead: Ryan Howard Armatrout (married in Benton County, 2011) and Chad Alan Armatrout (married there in 2010) may be her sons with Jeffrey Armatrout; Ryan's middle name would honour her father, Howard. Not confirmed."
+   ]
   },
   {
    "id": "simons_kenneth",
@@ -52422,8 +52398,10 @@
   },
   {
    "id": "simons_les",
-   "name": "Les Simons",
-   "aliases": [],
+   "name": "Leslie Orvel “Les” Simons",
+   "aliases": [
+    "Les Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -52481,14 +52459,19 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Terri Lee Hickman (m. 1976)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
    ],
-   "notes": []
+   "notes": [
+    "Leslie Orvel Simons married Terri Lee Hickman in Franklin County (certificate recorded 4 May 1976), before his marriage to Lenore."
+   ]
   },
   {
    "id": "simons_leslie",
@@ -52775,8 +52758,10 @@
   },
   {
    "id": "simons_mary",
-   "name": "Mary Simons",
-   "aliases": [],
+   "name": "Mary Patricia Walker (Simons)",
+   "aliases": [
+    "Mary Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -52821,14 +52806,18 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Glen E. Simons (m. 27 Jul 1958)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
    ],
    "notes": [
-    "Wife of Glen Simons. Maiden name not recorded."
+    "Wife of Glen Simons.",
+    "Born Mary Patricia Walker; she married Glen E. Simons on 27 Jul 1958 in Franklin County, Washington (recorded 29 Jul 1958)."
    ]
   },
   {
@@ -53273,10 +53262,12 @@
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Department of Health, Marriage Index, 1969-2022"
    ],
    "notes": [
-    "Brother of Beryl Simons Adams."
+    "Brother of Beryl Simons Adams.",
+    "Open question: an Orvel K. Simons married Ruth E. Bates (born Connor) on 12 Mar 1977 in Franklin County (Department of Health marriage index). If this is Orval, he and Irene had divorced before his death in 1979."
    ]
   },
   {
@@ -53338,8 +53329,10 @@
   },
   {
    "id": "simons_penny",
-   "name": "Penny Simons",
-   "aliases": [],
+   "name": "Penny M. Parker (Simons)",
+   "aliases": [
+    "Penny Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -53381,14 +53374,18 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Steve H. Simons (m. 31 Dec 1977)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
    ],
    "notes": [
-    "Wife of Steve Simons. Maiden name not recorded."
+    "Wife of Steve Simons.",
+    "Born Penny M. Parker; she married Steve H. Simons on 31 Dec 1977 in Benton County, Washington."
    ]
   },
   {
@@ -54106,7 +54103,8 @@
    "notes": [
     "Listed among the Simons family researchers in the Adams direct-line notes. Not the same person as Barbara McKeldin Adams's cousin Sharon.",
     "Unconfirmed: Sharon Simons uses the married surname Thompson and planned to visit Nancy in the Tri-Cities in 2011. [Family research emails, email 43]",
-    "Unconfirmed: Sharon, apparently a Simons cousin, writes under the married surname Thompson and calls Elaine Simons her aunt. [Family research emails, email 34]"
+    "Unconfirmed: Sharon, apparently a Simons cousin, writes under the married surname Thompson and calls Elaine Simons her aunt. [Family research emails, email 34]",
+    "Lead: a Sharon L. Simons married Forrest C. Gill in 1973 in Clark County, where Camas is; not confirmed as her."
    ]
   },
   {
@@ -54162,16 +54160,20 @@
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
    ],
    "notes": [
-    "Child of Carl Ray Simons; grandchild of Elmer Simons."
+    "Child of Carl Ray Simons; grandchild of Elmer Simons.",
+    "Probably him: Shawn R. Simons applied to marry Emily Black in Benton County on 13 Jul 1999."
    ]
   },
   {
    "id": "simons_steve",
    "name": "Steve Simons",
-   "aliases": [],
+   "aliases": [
+    "Steve H. Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -54229,13 +54231,16 @@
     "As a boy of about 8 to 10, already used to driving farm equipment, he drove his grandfather Ray Simons’s pickup into Pasco with his cousin John Adams to collect discarded grocery-store food for the Chetzamoka Park Zoo animals, with blocks on the pedals and looking under the steering wheel. They were never stopped. [John Howard Adams, A Memoir, text lines 190–193, 616–619]"
    ],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Penny M. Parker (m. 31 Dec 1977)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
    ],
    "notes": [
     "Cousin of John Howard Adams; his memoir recalls Steve driving a pickup at age 9 or 10. Listed among the Simons family researchers in the Adams direct-line notes."
@@ -55582,9 +55587,10 @@
   },
   {
    "id": "stan_husband_of_janine_simons",
-   "name": "Stan Bensussen",
+   "name": "Stanley James “Stan” Bensussen",
    "aliases": [
-    "Stan"
+    "Stan",
+    "Stan Bensussen"
    ],
    "photo": null,
    "card_name": null,
@@ -55630,12 +55636,15 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Janine Simons (m. 4 Sep 1983)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
    ],
    "notes": [
     "Husband of Janine (Simons) Bensussen."
@@ -65686,7 +65695,7 @@
     "simons_ed",
     "simons_ann"
    ],
-   "marriage": null
+   "marriage": "27 Jul 1958"
   },
   {
    "id": "F_simons_henry",
@@ -65755,7 +65764,7 @@
     "bensussen_simon",
     "bensussen_michael"
    ],
-   "marriage": null
+   "marriage": "4 Sep 1983"
   },
   {
    "id": "F_simons_lenore+simons_les",
@@ -65767,7 +65776,7 @@
     "simons_jessica_irene",
     "simons_leslie"
    ],
-   "marriage": null
+   "marriage": "1976"
   },
   {
    "id": "F_simons_leroy_scott",
@@ -65806,7 +65815,7 @@
     "simons_steve"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "31 Dec 1977"
   },
   {
    "id": "F_simons_richard+turnipseed_mary_a",

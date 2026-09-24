@@ -1,6 +1,6 @@
 {
   "id": "simons_billy",
-  "name": "Billy Simons",
+  "name": "Billy Michael Simons",
   "sex": "M",
   "birth": "",
   "death": "",
@@ -9,7 +9,10 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married LeAnn Robin Collins (m. 2000)",
+    "Married Yvette Lavon Johnson (m. 2017)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -28,10 +31,14 @@
   "locations": [],
   "sources": [
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
-    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
   ],
   "notes": [
-    "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda."
+    "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda.",
+    "Billy Michael Simons married LeAnn Robin Collins in Benton County (certificate recorded 23 Jun 2000) and applied to marry Yvette Lavon Johnson there on 3 Aug 2017."
   ],
-  "aliases": []
+  "aliases": [
+    "Billy Simons"
+  ]
 }
