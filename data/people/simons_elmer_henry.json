@@ -2,26 +2,39 @@
   "id": "simons_elmer_henry",
   "name": "Elmer Henry Simons",
   "sex": "M",
-  "birth": "1886",
-  "death": "1968",
+  "birth": "18 Oct 1886",
+  "death": "12 May 1968",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Edna Elizabeth Isenhower (Simons) (m. 1910)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "turnipseed_mary_a",
     "father": "simons_richard",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "isenhower_edna",
+    "children": [
+      "simons_conway",
+      "simons_clelah",
+      "simons_melvin",
+      "simons_donald",
+      "simons_kenneth",
+      "simons_dorothy"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Williams Co., Ohio",
+    "Union City, Branch Co., Michigan"
+  ],
   "sources": [
-    "Find a Grave, memorial 66385846"
+    "Find a Grave, memorial 66385846",
+    "Find a Grave, memorial 120973908"
   ],
   "notes": [
     "Son of Richard Simons and Mary A. Turnipseed."

@@ -2,26 +2,36 @@
   "id": "decker_clyde",
   "name": "Clyde Decker",
   "sex": "M",
-  "birth": "1888",
-  "death": "1981",
+  "birth": "16 Sep 1888",
+  "death": "19 Dec 1981",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Merle Grace Decker (m. 1907)",
+    "Married Esther Shirtliff (Decker) (m. 1951)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_olive_catherine",
     "father": "decker_peter",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "decker_merle",
+    "children": [],
+    "_extra_spouses": [
+      "shirtliff_esther"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Northwest, Williams Co., Ohio",
+    "Howell, Livingston Co., Michigan"
+  ],
   "sources": [
-    "Find a Grave, memorial 15329399"
+    "Find a Grave, memorial 15329399",
+    "Find a Grave, memorial 109621327"
   ],
   "notes": [
     "Son of Peter and Olive Catherine (Simons) Decker."

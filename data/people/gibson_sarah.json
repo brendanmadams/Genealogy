@@ -1,0 +1,40 @@
+{
+  "id": "gibson_sarah",
+  "name": "Sarah Ellen Gibson (Rogers)",
+  "sex": "F",
+  "birth": "1906",
+  "death": "1971",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Harris John Rogers (m. 1927)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "rogers_harris",
+    "children": [
+      "rogers_minnie",
+      "rogers_arthur",
+      "rogers_willodean",
+      "rogers_arlene",
+      "rogers_lou"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 93101216"
+  ],
+  "notes": [
+    "Wife of Harris John Rogers, married 1927 (Find a Grave, memorial 93101216)."
+  ],
+  "aliases": [
+    "Sarah Ellen Gibson Rogers"
+  ]
+}

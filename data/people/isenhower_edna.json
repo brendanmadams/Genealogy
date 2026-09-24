@@ -1,0 +1,41 @@
+{
+  "id": "isenhower_edna",
+  "name": "Edna Elizabeth Isenhower (Simons)",
+  "sex": "F",
+  "birth": "1890",
+  "death": "1955",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Elmer Henry Simons (m. 1910)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_elmer_henry",
+    "children": [
+      "simons_conway",
+      "simons_clelah",
+      "simons_melvin",
+      "simons_donald",
+      "simons_kenneth",
+      "simons_dorothy"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 120973907"
+  ],
+  "notes": [
+    "Wife of Elmer Henry Simons, married 1910 (Find a Grave, memorial 120973907)."
+  ],
+  "aliases": [
+    "Edna Elizabeth Isenhower Simons"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "swift_lowell",
+  "name": "Lowell Rudolph Swift",
+  "sex": "M",
+  "birth": "7 Nov 1905",
+  "death": "5 Dec 1969",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Grace Ernestine Defenbaugh (Leopard)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "kimble_sarah",
+    "father": "swift_rudolph",
+    "siblings": [],
+    "spouse": "defenbaugh_grace",
+    "children": [
+      "swift_jeanine",
+      "swift_dennis"
+    ]
+  },
+  "locations": [
+    "Copley, Summit Co., Ohio"
+  ],
+  "sources": [
+    "Find a Grave, memorial 167802643"
+  ],
+  "notes": [
+    "Born 7 Nov 1905 at Copley, Summit Co., Ohio; died 5 Dec 1969 at Copley, Summit Co., Ohio (Find a Grave, memorial 167802643).",
+    "Find a Grave marks him as a veteran."
+  ],
+  "aliases": []
+}

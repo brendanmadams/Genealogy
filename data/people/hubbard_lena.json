@@ -1,0 +1,36 @@
+{
+  "id": "hubbard_lena",
+  "name": "Lena Hubbard (Fryman)",
+  "sex": "F",
+  "birth": "1860",
+  "death": "1937",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married William J. Fryman"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "fryman_william_j",
+    "children": [
+      "fryman_rex_32317802"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 102532526"
+  ],
+  "notes": [
+    "Wife of William J. Fryman (Find a Grave, memorial 102532526)."
+  ],
+  "aliases": [
+    "Lena Hubbard Fryman"
+  ]
+}

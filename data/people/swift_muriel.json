@@ -1,0 +1,38 @@
+{
+  "id": "swift_muriel",
+  "name": "Muriel Alberta Swift (Snyder)",
+  "sex": "F",
+  "birth": "14 Jan 1908",
+  "death": "29 Mar 1992",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married James William Snyder"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "kimble_sarah",
+    "father": "swift_rudolph",
+    "siblings": [],
+    "spouse": "snyder_james",
+    "children": [
+      "snyder_ken"
+    ]
+  },
+  "locations": [
+    "Copley, Summit Co., Ohio"
+  ],
+  "sources": [
+    "Find a Grave, memorial 167804046"
+  ],
+  "notes": [
+    "Born 14 Jan 1908 at Copley, Summit Co., Ohio; died 29 Mar 1992 at Copley, Summit Co., Ohio (Find a Grave, memorial 167804046)."
+  ],
+  "aliases": [
+    "Muriel Alberta Swift Snyder"
+  ]
+}

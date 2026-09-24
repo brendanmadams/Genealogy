@@ -1,0 +1,42 @@
+{
+  "id": "jacob_richard",
+  "name": "Richard Martin Jacob",
+  "sex": "M",
+  "birth": "1 May 1935",
+  "death": "12 Dec 2022",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Thelma I. Pieper (Jacob) (m. 1978)",
+    "Married Ruth Anne Paul (Jacob)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "rogers_mary",
+    "father": "jacob_martin_152475179",
+    "siblings": [],
+    "spouse": "pieper_thelma",
+    "children": [
+      "jacob_james"
+    ],
+    "_extra_spouses": [
+      "paul_ruth"
+    ]
+  },
+  "locations": [
+    "Toledo, Lucas Co., Ohio",
+    "Sylvania, Lucas Co., Ohio"
+  ],
+  "sources": [
+    "Find a Grave, memorial 247585835"
+  ],
+  "notes": [
+    "Born 1 May 1935 at Toledo, Lucas Co., Ohio; died 12 Dec 2022 at Sylvania, Lucas Co., Ohio (Find a Grave, memorial 247585835).",
+    "Find a Grave marks him as a veteran."
+  ],
+  "aliases": []
+}

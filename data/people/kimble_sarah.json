@@ -1,0 +1,40 @@
+{
+  "id": "kimble_sarah",
+  "name": "Sarah Jemima Kimble (Swift)",
+  "sex": "F",
+  "birth": "1882",
+  "death": "1969",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Rudolph Swift"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "swift_rudolph",
+    "children": [
+      "swift_hazel",
+      "swift_leslie",
+      "swift_robert",
+      "swift_lowell",
+      "swift_muriel"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 167803382"
+  ],
+  "notes": [
+    "Wife of Rudolph Swift (Find a Grave, memorial 167803382)."
+  ],
+  "aliases": [
+    "Sarah Jemima Kimble Swift"
+  ]
+}

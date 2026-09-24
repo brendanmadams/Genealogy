@@ -1,0 +1,36 @@
+{
+  "id": "swift_frank",
+  "name": "Frank A. Swift",
+  "sex": "M",
+  "birth": "1854",
+  "death": "1934",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Sarah Fryman (Swift)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "fryman_sarah",
+    "children": [
+      "swift_rudolph"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 167803102"
+  ],
+  "notes": [
+    "Husband of Sarah Fryman (Swift) (Find a Grave, memorial 167803102)."
+  ],
+  "aliases": [
+    "Frank A Swift"
+  ]
+}

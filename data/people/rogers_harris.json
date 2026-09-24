@@ -1,0 +1,41 @@
+{
+  "id": "rogers_harris",
+  "name": "Harris John Rogers",
+  "sex": "M",
+  "birth": "17 Apr 1899",
+  "death": "25 May 1983",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Sarah Ellen Gibson (Rogers) (m. 1927)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "crummay_eva",
+    "father": "rogers_edwin",
+    "siblings": [],
+    "spouse": "gibson_sarah",
+    "children": [
+      "rogers_minnie",
+      "rogers_arthur",
+      "rogers_willodean",
+      "rogers_arlene",
+      "rogers_lou"
+    ]
+  },
+  "locations": [
+    "Garrett, DeKalb Co., Indiana",
+    "Fort Wayne, Allen Co., Indiana"
+  ],
+  "sources": [
+    "Find a Grave, memorial 94087042"
+  ],
+  "notes": [
+    "Born 17 Apr 1899 at Garrett, DeKalb Co., Indiana; died 25 May 1983 at Fort Wayne, Allen Co., Indiana (Find a Grave, memorial 94087042)."
+  ],
+  "aliases": []
+}

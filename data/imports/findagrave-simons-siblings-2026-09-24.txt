@@ -1,0 +1,79 @@
+# Find a Grave family links walked from the memorials of Henry Simons's children
+# (Olive, Mary Jane, Richard, Rebecca Ann, Sarah), four generations down, 2026-09-24.
+# Fields: memorial id; generation below Henry's child (0 = the child); name as on
+# Find a Grave; birth; birth place; death; death place; parent memorial ids;
+# spouses (id~text); children memorial ids.
+15329399;0;Olive Catherine Simons Decker Parsons;28 Oct 1857;DeKalb Co., Indiana;9 Apr 1932;Battle Creek, Calhoun Co., Michigan;78651501,78651692;15329398~Peter Decker 1856–1924(m.1874)|16501630~Stephen Parsons 1851–1931(m.1928);15431288,109621327
+29778599;0;Mary Jane Simons Fryman;10 Feb 1841;Coventry Township, Summit Co., Ohio;10 Aug 1919;Copley, Summit Co., Ohio;78651501;29778587~Joel Fryman 1836–1921;167803282,141485149,29778644
+66385846;0;Richard Simons;1853;;1921;;78651501;31651884~Mary Ellen VanFossen Rice 1856–1898(m.1875)|64384921~Minnie Belle Purdy Adams 1863–1923(m.1912)|66385831~Mary A Turnipseed Simons 1858–1912;21066190,115063437,120973908
+68165791;0;Rebecca Ann Simons Forester;25 Jun 1855;DeKalb Co., Indiana;23 Jun 1904;Northwest, Williams Co., Ohio;78651501;68165790~Stephen S Forester 1854–1923(m.1874);57296268
+92466844;0;Sarah E. Simons Rogers;9 Nov 1844;Summit Co., Ohio;5 Jan 1932;Avilla, Noble Co., Indiana;78651501,78651692;243836323~Charles T. Rogers 1843–1910(m.1862);41087751,160352631,132906187,203661409,92073915
+15431288;1;Simeon Decker;17 Jan 1881;Williams Co., Ohio;19 Aug 1949;Pennfield, Calhoun Co., Michigan;15329398,15329399;15431289~Ardella M "Della" Sisson Decker 1880–1950(m.1919;
+21066190;1;Hallah M. Simons Adams;7 Feb 1877;Northwest, Williams Co., Ohio;18 Feb 1938;Albion, Calhoun Co., Michigan;66385846,31651884;21066131~George Sheridan Adams 1876–1951(m.1893);
+29778644;1;Homer Fryman;15 Oct 1875;Portage Co., Ohio;3 Sep 1916;Akron, Summit Co., Ohio;29778587,29778599;13942693~Daisy Ann Spicer Fryman 1877–1967(m.1907);13942514,13942677
+41087751;1;Sanford Charles Tecumseh Rogers;21 Dec 1862;Keyser Township, DeKalb Co., Indiana;30 Nov 1895;Kendallville, Noble Co., Indiana;243836323,92466844;41087750~Sarah Ellen Hovarter Leighty 1869–1914;41087749
+57296268;1;Charles Elmer “Charlie” Forester;22 Jan 1875;Northwest, Williams Co., Ohio;28 Nov 1954;Coldwater, Branch Co., Michigan;68165790,68165791;57296267~Etta May Burch Forester 1875–1967(m.1896);
+92073915;1;Clarence Harris Rogers;2 Nov 1875;Altona, DeKalb Co., Indiana;27 Jun 1918;Garrett, DeKalb Co., Indiana;243836323,92466844;66082492~Nora Hogue Rogers Morr 1880–1973(m.1902);
+109621327;1;Clyde Decker;16 Sep 1888;Northwest, Williams Co., Ohio;19 Dec 1981;Howell, Livingston Co., Michigan;15329398,15329399;109621367~Merle Grace Decker 1885–1963(m.1907)|109621240~Esther Shirtliff Decker 1912–1973(m.1951);
+115063437;1;LeRoy Scott Simons;23 Jan 1881;Miami Co., Indiana;20 Feb 1964;Hillsdale, Hillsdale Co., Michigan;66385846,66385831;36018335~Florence Belle Phillips Comerford 1883–1956(m.19|115063438~Viola Ellen Stall Simons 1904–1985(m.1932);115063436
+120973908;1;Elmer Henry Simons;18 Oct 1886;Williams Co., Ohio;12 May 1968;Union City, Branch Co., Michigan;66385846,66385831;120973907~Edna Elizabeth Isenhower Simons 1890–1955(m.1910;91032396,111485315,167071020,120973906,81827780,276999218
+132906187;1;Sylvia Jane Rogers Dawson;3 Jun 1870;Altona, DeKalb Co., Indiana;23 Feb 1904;Garrett, DeKalb Co., Indiana;243836323,92466844;18926121~John E Dawson 1864–1932(m.1888)|143377693~John E. Dawson 1866–1932(m.1888);149398201,128193003
+141485149;1;William J. Fryman;14 Jan 1861;Copley, Summit Co., Ohio;12 Mar 1928;Bath, Summit Co., Ohio;29778587,29778599;102532526~Lena Hubbard Fryman 1860–1937;32317802
+160352631;1;Edwin Harris Rogers;May 1867;Keyser Township, DeKalb Co., Indiana;13 Mar 1927;Toledo, Lucas Co., Ohio;243836323,92466844;240163160~Eva Viola Crummay Rogers 1874–1899(m.1893)|165081371~Grace Ann Lazenby Rogers 1883–1934(m.1903);243844811,94087042,153255137,193489102,152475176,152475178,176683873
+167803282;1;Sarah Fryman Swift;14 Jan 1859;Copley, Summit Co., Ohio;24 Jun 1945;Copley, Summit Co., Ohio;29778587,29778599;167803102~Frank A Swift 1854–1934;167803437
+203661409;1;Orpha A Rogers Pence;29 Nov 1872;Keyser Township, DeKalb Co., Indiana;27 Oct 1957;North Manchester, Wabash Co., Indiana;243836323,92466844;203661361~Kary Elva Pence 1866–1937(m.1890);150658268
+13942514;2;Gerald A. Fryman;28 Feb 1908;Akron, Summit Co., Ohio;9 Apr 1927;Kenmore, Summit Co., Ohio;29778644,13942693;;
+13942677;2;Harold Joel Fryman;19 Sep 1909;Akron, Summit Co., Ohio;5 Feb 1978;Akron, Summit Co., Ohio;29778644,13942693;122956343~Helen Elizabeth Braden Fryman 1902–1984(m.1961);
+32317802;2;Rex Fryman;20 Jan 1885;Summit Co., Ohio;2 Sep 1953;Bath, Summit Co., Ohio;141485149,102532526;32317798~Allie Jane Hopkins Fryman 1888–1967;32317722
+41087749;2;Merl Rogers Hart;1892;;1923;;41087751,41087750;41087748~Clarence Freeman Hart 1894–1959(m.1921);
+81827780;2;Conway Simons;17 Nov 1924;;16 Mar 1961;;120973908,120973907;121481309~Thelma L VanHoose Sechler 1925–2011(m.1944);45223299
+91032396;2;Clelah M Simons Tobey;19 Jul 1912;Fremont, Steuben Co., Indiana;21 May 1999;Tekonsha, Calhoun Co., Michigan;120973908,120973907;91032942~Harry A Tobey 1911–1977(m.1933);
+94087042;2;Harris John Rogers;17 Apr 1899;Garrett, DeKalb Co., Indiana;25 May 1983;Fort Wayne, Allen Co., Indiana;160352631,240163160;93101216~Sarah Ellen Gibson Rogers 1906–1971(m.1927);53886208,93101174,94068786,244766825,94068592
+111485315;2;Melvin R. Simons;1916;;1949;;120973908,120973907;;
+115063436;2;Esther M. Simons;1908;;1932;;115063437;;
+120973906;2;Donald Blaine Simons;15 Mar 1922;Fremont, Steuben Co., Indiana;23 Aug 2019;Coldwater, Branch Co., Michigan;120973908,120973907;120973909~Teresa A Ratkowski Simons 1914–1960;291445035,288301132
+128193003;2;Curtis J. Dawson;12 Oct 1890;Richland Township, DeKalb Co., Indiana;30 Nov 1937;Bellevue, Huron Co., Ohio;18926121,132906187;128193023~Leah Alma Clevenger Ritter 1893–1958(m.1912);141474811
+149398201;2;Lurl Irella Dawson Worman;4 Dec 1888;Garrett, DeKalb Co., Indiana;9 Mar 1960;Breezewood, Bedford Co., Pennsylvania;18926121,132906187;149398173~Henry W Worman 1886–1967(m.1906);149398106,7032840,150792124
+150658268;2;Nellie Fern Pence;16 Feb 1894;Altona, DeKalb Co., Indiana;17 May 1908;Garrett, DeKalb Co., Indiana;203661361,203661409;;
+152475176;2;Elizabeth K Rogers;27 Jul 1912;Hamler, Henry Co., Ohio;27 May 1997;Toledo, Lucas Co., Ohio;160352631,165081371;;
+152475178;2;Mary Louise Rogers Jacob;6 Oct 1916;Findlay, Hancock Co., Ohio;7 Aug 1999;Toledo, Lucas Co., Ohio;160352631,165081371;152475179~Martin Clifford Jacob 1917–1995(m.1935);247585835,152475083,96388216
+153255137;2;Pauline Vaughn Rogers Rohr;13 Nov 1904;Fostoria, Hancock Co., Ohio;15 Feb 1992;Waterville, Lucas Co., Ohio;160352631,165081371;153255054~William Harvey Rohr Jr 1901–1967(m.1927);153255136
+167071020;2;Kenneth Albert Simons;9 Sep 1919;Fremont, Steuben Co., Indiana;1 Nov 2002;Ocala, Marion Co., Florida;120973908,120973907;167071104~Myrtle Mae Adams Simons 1922–2000(m.1946);
+167803437;2;Rudolph Swift VVeteran;5 Nov 1880;Copley, Summit Co., Ohio;10 Sep 1957;Copley, Summit Co., Ohio;167803102,167803282;167803382~Sarah Jemima Kimble Swift 1882–1969;29778869,167802643,167804046,87356192,148642200
+176683873;2;Arthur Edwin Rogers;1919;;1981;;160352631,165081371;;
+193489102;2;Roger Paul Rogers;11 Jul 1908;Hamler, Henry Co., Ohio;5 Jan 1961;Toledo, Lucas Co., Ohio;160352631,165081371;193489430~Constance Cathleen "Kate" Fidell Badik 1921–2001;
+243844811;2;Ruth Rogers;6 May 1893;Illinois;6 Dec 1909;Altona, DeKalb Co., Indiana;160352631,240163160;;
+276999218;2;Dorothy Dian Simons Stephenson;27 Apr 1931;Union City, Branch Co., Michigan;28 Aug 2022;Coldwater, Branch Co., Michigan;120973908,120973907;200148007~Homer Duane Stephenson 1932–2019(m.1951);
+7032840;3;Luzetta Mae Worman Swantusch;24 Nov 1910;Garrett, DeKalb Co., Indiana;23 Dec 2002;Angola, Steuben Co., Indiana;149398173,149398201;92754908~Victor Merwood Walter 1909–1996(m.1929)|128609175~Dr Otto H. Swantusch 1883–1945;
+29778869;3;Hazel Winona Swift Thompson;4 Nov 1902;Copley, Summit Co., Ohio;23 Jun 1975;Copley, Summit Co., Ohio;167803437,167803382;29778873~James Park Thompson 1900–1946;22315253,235543451
+32317722;3;Rex Fryman Jr.;26 Aug 1914;;10 Sep 1914;;32317802,32317798;;
+45223299;3;Diana L. Simons Musselman;10 Jul 1944;Coldwater, Branch Co., Michigan;12 Apr 1995;Coldwater, Branch Co., Michigan;81827780,121481309;;
+53886208;3;Minnie E. Rogers Loshe;24 May 1928;Garrett, DeKalb Co., Indiana;16 Jun 2010;Fort Wayne, Allen Co., Indiana;94087042,93101216;94068601~Robert Dale Loshe 1928–2006(m.1950);305529967
+87356192;3;Leslie Dale “L. Dale” Swift;4 Mar 1910;Ohio;28 Jan 1974;;167803437,167803382;167803810~Helen Ida Hardy Swift 1911–1986(m.1935);
+93101174;3;Arthur Berdon Rogers;29 Nov 1930;Churubusco, Whitley Co., Indiana;25 Sep 1931;Garrett, DeKalb Co., Indiana;94087042,93101216;;
+94068592;3;Willodean Carol Rogers Young;27 Apr 1944;Fort Wayne, Allen Co., Indiana;2 Oct 2009;Silver Lake, Kosciusko Co., Indiana;94087042,93101216;236786119~William James Young Sr 1943–2022(m.1965);
+94068786;3;Arlene Mae Rogers LaFever;29 Nov 1930;Churubusco, Whitley Co., Indiana;17 Nov 2011;Fort Wayne, Allen Co., Indiana;94087042,93101216;;192499090,247892206
+96388216;3;Jean Ellen Jacob Kenel;24 Jul 1938;Toledo, Lucas Co., Ohio;21 Aug 1987;Saginaw, Saginaw Co., Michigan;152475179,152475178;300561391~Albert Jerome "Jerry" Kenel Sr 1938–2022(m.1958);
+141474811;3;Evelyn Elnor Dawson Richardson;17 Mar 1914;Auburn, DeKalb Co., Indiana;18 Sep 1988;Springfield, Clark Co., Ohio;128193003,128193023;151057904~Forrest Leroy Richardson 1910–2000;
+148642200;3;Robert Russell Swift;10 Jan 1923;Akron, Summit Co., Ohio;2 Sep 1998;Copley, Summit Co., Ohio;167803437,167803382;148642207~Della Virginia Wade Swift 1922–2005(m.1943);
+149398106;3;Curtis Worman;21 Feb 1908;Garrett, DeKalb Co., Indiana;6 Jul 1918;Garrett, DeKalb Co., Indiana;149398173,149398201;;
+150792124;3;Henry Edward Worman VVeteran;29 Apr 1918;Garrett, DeKalb Co., Indiana;15 Mar 1988;Fort Myers, Lee Co., Florida;149398173,149398201;101134327~Mabel Pearl Lewis Worman 1922–2012(m.1944);
+152475083;3;Thomas Roger Jacob;16 Aug 1937;Toledo, Lucas Co., Ohio;28 Jul 1983;Toledo, Lucas Co., Ohio;152475179,152475178;;300587559
+153255136;3;Robert W Rohr;27 Nov 1932;Toledo, Lucas Co., Ohio;20 Jan 2011;Toledo, Lucas Co., Ohio;153255054,153255137;;
+167802643;3;Lowell Rudolph Swift VVeteran;7 Nov 1905;Copley, Summit Co., Ohio;5 Dec 1969;Copley, Summit Co., Ohio;167803437,167803382;167802666~Grace Ernestine Defenbaugh Leopard 1910–2011;167802294,167802834
+167804046;3;Muriel Alberta Swift Snyder;14 Jan 1908;Copley, Summit Co., Ohio;29 Mar 1992;Copley, Summit Co., Ohio;167803437,167803382;167804090~James William Snyder 1907–1998;167818682
+244766825;3;Lou Eva Rogers Wideman;9 Mar 1933;Kendallville, Noble Co., Indiana;5 May 2020;Anderson, Madison Co., Indiana;94087042,93101216;;243767527
+247585835;3;Richard Martin Jacob VVeteran;1 May 1935;Toledo, Lucas Co., Ohio;12 Dec 2022;Sylvania, Lucas Co., Ohio;152475179,152475178;180565215~Thelma I Pieper Jacob 1926–2016(m.1978)|300579840~Ruth Anne Paul Jacob 1939–2022;195973861
+288301132;3;Christopher A. Simons;7 Jun 1964;;21 Jan 2024;Coldwater, Branch Co., Michigan;120973906;;
+291445035;3;Margie Ann Simons Howard;20 Jul 1951;Coldwater, Branch Co., Michigan;8 Jan 2024;Elkhart, Elkhart Co., Indiana;120973906,120973909;144053399~Philip Potvin Howard 1948–2004(m.1971);
+22315253;4;Wesley Park Thompson;1925;;17 Sep 1925;;29778873,29778869;;
+167802294;4;Jeanine Daire Swift Acuff;11 Jan 1936;Akron, Summit Co., Ohio;30 Nov 1988;Barberton, Summit Co., Ohio;167802643,167802666;;
+167802834;4;Dennis Lowell Swift VVeteran;21 May 1938;Akron, Summit Co., Ohio;19 Feb 2016;Uhrichsville, Tuscarawas Co., Ohio;167802643,167802666;;
+167818682;4;Ken Darrell Snyder;15 Jan 1933;;unknown;;167804090,167804046;167818528~Mary Elizabeth Ernst Snyder 1934–2006;
+192499090;4;Cheryl Sue “Cheri” LaFever Clark;27 Sep 1951;Fort Wayne, Allen Co., Indiana;11 Dec 2012;Scottsdale, Maricopa Co., Arizona;94068786;;
+195973861;4;James Paul “Jim” Jacob;25 Jan 1972;Toledo, Lucas Co., Ohio;10 Jan 2019;Perrysburg, Wood Co., Ohio;247585835,300579840;;
+235543451;4;Dallas Dale Thompson VVeteran;6 May 1929;Copley, Summit Co., Ohio;13 Oct 1990;Cook Co., Illinois;29778873,29778869;288272472~Daphna Audie Isom Kaenan 1931 – unknown(m.1949);
+243767527;4;Rodney Dean Widewman;28 Nov 1955;;21 Sep 2022;;244766825;;
+247892206;4;Chris Joseph LaFever;28 Nov 1957;Fort Wayne, Allen Co., Indiana;25 Dec 2022;Fort Wayne, Allen Co., Indiana;94068786;;
+300587559;4;Martin Edward Jacob;11 Apr 1963;Toledo, Lucas Co., Ohio;11 Mar 2016;Toledo, Lucas Co., Ohio;152475083;;
+305529967;4;Robert Stephen “Bob” Loshe VVeteran;26 Nov 1950;Fort Wayne, Allen Co., Indiana;18 Jul 2026;Bluffton, Wells Co., Indiana;;;

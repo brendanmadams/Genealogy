@@ -2,26 +2,32 @@
   "id": "decker_simeon",
   "name": "Simeon Decker",
   "sex": "M",
-  "birth": "1881",
-  "death": "1949",
+  "birth": "17 Jan 1881",
+  "death": "19 Aug 1949",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Ardella M. “Della” Sisson (Decker) (m. 1919)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_olive_catherine",
     "father": "decker_peter",
     "siblings": [],
-    "spouse": "",
+    "spouse": "sisson_ardella",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Williams Co., Ohio",
+    "Pennfield, Calhoun Co., Michigan"
+  ],
   "sources": [
-    "Find a Grave, memorial 15329399"
+    "Find a Grave, memorial 15329399",
+    "Find a Grave, memorial 15431288"
   ],
   "notes": [
     "Son of Peter and Olive Catherine (Simons) Decker."

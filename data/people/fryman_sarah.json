@@ -2,29 +2,38 @@
   "id": "fryman_sarah",
   "name": "Sarah Fryman (Swift)",
   "sex": "F",
-  "birth": "1859",
-  "death": "1945",
+  "birth": "14 Jan 1859",
+  "death": "24 Jun 1945",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Frank A. Swift"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_mary_jane",
     "father": "fryman_joel",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "swift_frank",
+    "children": [
+      "swift_rudolph"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Copley, Summit Co., Ohio"
+  ],
   "sources": [
-    "Find a Grave, memorial 29778599"
+    "Find a Grave, memorial 29778599",
+    "Find a Grave, memorial 167803282"
   ],
   "notes": [
     "Child of Joel and Mary Jane (Simons) Fryman."
   ],
-  "aliases": []
+  "aliases": [
+    "Sarah Fryman Swift"
+  ]
 }

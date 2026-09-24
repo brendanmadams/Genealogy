@@ -1,0 +1,40 @@
+{
+  "id": "rogers_sylvia",
+  "name": "Sylvia Jane Rogers (Dawson)",
+  "sex": "F",
+  "birth": "3 Jun 1870",
+  "death": "23 Feb 1904",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married John E. Dawson (m. 1888)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "simons_sarah_1844",
+    "father": "rogers_charles_t",
+    "siblings": [],
+    "spouse": "dawson_john",
+    "children": [
+      "dawson_curtis",
+      "dawson_lurl"
+    ]
+  },
+  "locations": [
+    "Altona, DeKalb Co., Indiana",
+    "Garrett, DeKalb Co., Indiana"
+  ],
+  "sources": [
+    "Find a Grave, memorial 132906187"
+  ],
+  "notes": [
+    "Born 3 Jun 1870 at Altona, DeKalb Co., Indiana; died 23 Feb 1904 at Garrett, DeKalb Co., Indiana (Find a Grave, memorial 132906187)."
+  ],
+  "aliases": [
+    "Sylvia Jane Rogers Dawson"
+  ]
+}

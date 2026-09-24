@@ -1,0 +1,41 @@
+{
+  "id": "swift_rudolph",
+  "name": "Rudolph Swift",
+  "sex": "M",
+  "birth": "5 Nov 1880",
+  "death": "10 Sep 1957",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Sarah Jemima Kimble (Swift)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "fryman_sarah",
+    "father": "swift_frank",
+    "siblings": [],
+    "spouse": "kimble_sarah",
+    "children": [
+      "swift_hazel",
+      "swift_leslie",
+      "swift_robert",
+      "swift_lowell",
+      "swift_muriel"
+    ]
+  },
+  "locations": [
+    "Copley, Summit Co., Ohio"
+  ],
+  "sources": [
+    "Find a Grave, memorial 167803437"
+  ],
+  "notes": [
+    "Born 5 Nov 1880 at Copley, Summit Co., Ohio; died 10 Sep 1957 at Copley, Summit Co., Ohio (Find a Grave, memorial 167803437).",
+    "Find a Grave marks him as a veteran."
+  ],
+  "aliases": []
+}

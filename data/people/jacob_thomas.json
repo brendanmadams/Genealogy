@@ -1,0 +1,34 @@
+{
+  "id": "jacob_thomas",
+  "name": "Thomas Roger Jacob",
+  "sex": "M",
+  "birth": "16 Aug 1937",
+  "death": "28 Jul 1983",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "rogers_mary",
+    "father": "jacob_martin_152475179",
+    "siblings": [],
+    "spouse": "",
+    "children": [
+      "jacob_martin"
+    ]
+  },
+  "locations": [
+    "Toledo, Lucas Co., Ohio"
+  ],
+  "sources": [
+    "Find a Grave, memorial 152475083"
+  ],
+  "notes": [
+    "Born 16 Aug 1937 at Toledo, Lucas Co., Ohio; died 28 Jul 1983 at Toledo, Lucas Co., Ohio (Find a Grave, memorial 152475083)."
+  ],
+  "aliases": []
+}

@@ -10,7 +10,7 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Sophronia McClain"
+    "Married Sophronia McClain (m. abt 1870)"
   ],
   "education": [],
   "career": [],
@@ -19,10 +19,17 @@
     "father": "simons_henry",
     "siblings": [],
     "spouse": "mcclain_sophronia",
-    "children": []
+    "children": [
+      "simons_anna_b",
+      "simons_alvaretta",
+      "simons_merta_m",
+      "simons_hallie"
+    ]
   },
   "locations": [
-    "Steuben County, Indiana"
+    "Steuben County, Indiana",
+    "North West Township, Williams County, Ohio",
+    "Clear Lake, Steuben County, Indiana"
   ],
   "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
@@ -31,11 +38,14 @@
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
     "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
     "Ancestry.com, Indiana, U.S., Death Certificates, 1899–2017 (George Simons, 1933)",
-    "Ancestry.com, Indiana, U.S., Marriages, 1810–2001"
+    "Ancestry.com, Indiana, U.S., Marriages, 1810–2001",
+    "Ancestry.com, 1880 United States Federal Census",
+    "Ancestry.com, 1900 United States Federal Census"
   ],
   "notes": [
     "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Ohio; aged 2 in 1850, 12 in 1860 and 22 in 1870, when he lived with his parents with Sarah J. Simons (17) and Anna B. (2 months), probably his wife and daughter.",
-    "Born 25 Jan 1848 (Indiana death certificate, which gives Indiana; the 1850 and 1860 censuses give Ohio); died 26 Apr 1933 in Steuben County, Indiana, a widower, aged 85. The certificate names his father Henry Simons and his wife Sophronia; an Indiana marriage record names her Sophronia McClain."
+    "Born 25 Jan 1848 (Indiana death certificate, which gives Indiana; the 1850 and 1860 censuses give Ohio); died 26 Apr 1933 in Steuben County, Indiana, a widower, aged 85. The certificate names his father Henry Simons and his wife Sophronia; an Indiana marriage record names her Sophronia McClain.",
+    "A farmer in North West Township, Williams County, Ohio, in 1880 and at Clear Lake, Steuben County, Indiana, by 1900 (owning a mortgaged farm), with his wife Sophronia (\"Sarah\") and their daughters Anna B., Alvaretta, Merta M. and Hallie."
   ],
   "aliases": []
 }

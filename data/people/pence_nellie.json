@@ -1,0 +1,33 @@
+{
+  "id": "pence_nellie",
+  "name": "Nellie Fern Pence",
+  "sex": "F",
+  "birth": "16 Feb 1894",
+  "death": "17 May 1908",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "rogers_orpha",
+    "father": "pence_kary",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Altona, DeKalb Co., Indiana",
+    "Garrett, DeKalb Co., Indiana"
+  ],
+  "sources": [
+    "Find a Grave, memorial 150658268"
+  ],
+  "notes": [
+    "Born 16 Feb 1894 at Altona, DeKalb Co., Indiana; died 17 May 1908 at Garrett, DeKalb Co., Indiana (Find a Grave, memorial 150658268)."
+  ],
+  "aliases": []
+}

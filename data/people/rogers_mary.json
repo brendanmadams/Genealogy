@@ -1,0 +1,41 @@
+{
+  "id": "rogers_mary",
+  "name": "Mary Louise Rogers (Jacob)",
+  "sex": "F",
+  "birth": "6 Oct 1916",
+  "death": "7 Aug 1999",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Martin Clifford Jacob (m. 1935)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "lazenby_grace",
+    "father": "rogers_edwin",
+    "siblings": [],
+    "spouse": "jacob_martin_152475179",
+    "children": [
+      "jacob_jean",
+      "jacob_thomas",
+      "jacob_richard"
+    ]
+  },
+  "locations": [
+    "Findlay, Hancock Co., Ohio",
+    "Toledo, Lucas Co., Ohio"
+  ],
+  "sources": [
+    "Find a Grave, memorial 152475178"
+  ],
+  "notes": [
+    "Born 6 Oct 1916 at Findlay, Hancock Co., Ohio; died 7 Aug 1999 at Toledo, Lucas Co., Ohio (Find a Grave, memorial 152475178)."
+  ],
+  "aliases": [
+    "Mary Louise Rogers Jacob"
+  ]
+}

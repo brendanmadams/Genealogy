@@ -1,0 +1,37 @@
+{
+  "id": "spicer_daisy",
+  "name": "Daisy Ann Spicer (Fryman)",
+  "sex": "F",
+  "birth": "1877",
+  "death": "1967",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Homer Fryman (m. 1907)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "fryman_homer",
+    "children": [
+      "fryman_gerald",
+      "fryman_harold"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 13942693"
+  ],
+  "notes": [
+    "Wife of Homer Fryman, married 1907 (Find a Grave, memorial 13942693)."
+  ],
+  "aliases": [
+    "Daisy Ann Spicer Fryman"
+  ]
+}

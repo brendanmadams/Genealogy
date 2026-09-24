@@ -2,26 +2,34 @@
   "id": "fryman_william_j",
   "name": "William J. Fryman",
   "sex": "M",
-  "birth": "1861",
-  "death": "1928",
+  "birth": "14 Jan 1861",
+  "death": "12 Mar 1928",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Lena Hubbard (Fryman)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_mary_jane",
     "father": "fryman_joel",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "hubbard_lena",
+    "children": [
+      "fryman_rex_32317802"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Copley, Summit Co., Ohio",
+    "Bath, Summit Co., Ohio"
+  ],
   "sources": [
-    "Find a Grave, memorial 29778599"
+    "Find a Grave, memorial 29778599",
+    "Find a Grave, memorial 141485149"
   ],
   "notes": [
     "Child of Joel and Mary Jane (Simons) Fryman."

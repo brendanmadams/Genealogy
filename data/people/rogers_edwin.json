@@ -1,0 +1,47 @@
+{
+  "id": "rogers_edwin",
+  "name": "Edwin Harris Rogers",
+  "sex": "M",
+  "birth": "May 1867",
+  "death": "13 Mar 1927",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Eva Viola Crummay (Rogers) (m. 1893)",
+    "Married Grace Ann Lazenby (Rogers) (m. 1903)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "simons_sarah_1844",
+    "father": "rogers_charles_t",
+    "siblings": [],
+    "spouse": "crummay_eva",
+    "children": [
+      "rogers_harris",
+      "rogers_elizabeth",
+      "rogers_mary",
+      "rogers_pauline",
+      "rogers_arthur_176683873",
+      "rogers_roger",
+      "rogers_ruth"
+    ],
+    "_extra_spouses": [
+      "lazenby_grace"
+    ]
+  },
+  "locations": [
+    "Keyser Township, DeKalb Co., Indiana",
+    "Toledo, Lucas Co., Ohio"
+  ],
+  "sources": [
+    "Find a Grave, memorial 160352631"
+  ],
+  "notes": [
+    "Born May 1867 at Keyser Township, DeKalb Co., Indiana; died 13 Mar 1927 at Toledo, Lucas Co., Ohio (Find a Grave, memorial 160352631)."
+  ],
+  "aliases": []
+}

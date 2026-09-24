@@ -2,7 +2,7 @@
   "id": "mcclain_sophronia",
   "name": "Sophronia McClain (Simons)",
   "sex": "F",
-  "birth": "",
+  "birth": "abt 1853",
   "death": "",
   "personality": [],
   "roles": [],
@@ -10,7 +10,7 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married George A. Simons"
+    "Married George A. Simons (m. abt 1870)"
   ],
   "education": [],
   "career": [],
@@ -19,17 +19,28 @@
     "father": "",
     "siblings": [],
     "spouse": "simons_george_a",
-    "children": []
+    "children": [
+      "simons_anna_b",
+      "simons_alvaretta",
+      "simons_merta_m",
+      "simons_hallie"
+    ]
   },
   "locations": [],
   "sources": [
     "Ancestry.com, Indiana, U.S., Marriages, 1810–2001",
-    "Ancestry.com, Indiana, U.S., Death Certificates, 1899–2017 (George Simons, 1933)"
+    "Ancestry.com, Indiana, U.S., Death Certificates, 1899–2017 (George Simons, 1933)",
+    "Ancestry.com, 1870 United States Federal Census",
+    "Ancestry.com, 1880 United States Federal Census",
+    "Ancestry.com, 1900 United States Federal Census"
   ],
   "notes": [
-    "Wife of George A. Simons; she died before him (he was a widower in 1933)."
+    "Wife of George A. Simons; she died before him (he was a widower in 1933).",
+    "Listed as Sarah J. (17) in 1870, Sarah (27) in 1880 and Sophronia (46) in 1900, when she and George had been married 30 years; so the Sarah of the earlier censuses is Sophronia. Her daughters: Anna B. and Alvaretta (both about 1870), Merta M. (about 1878) and Hallie (about 1891)."
   ],
   "aliases": [
-    "Sophronia Simons"
+    "Sophronia Simons",
+    "Sarah J. Simons",
+    "Sarah Simons"
   ]
 }

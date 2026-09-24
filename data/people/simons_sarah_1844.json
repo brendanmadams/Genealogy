@@ -22,12 +22,18 @@
     "spouse": "rogers_charles_t",
     "children": [
       "rogers_henry",
-      "rogers_orpha"
+      "rogers_orpha",
+      "rogers_sanford",
+      "rogers_clarence",
+      "rogers_sylvia",
+      "rogers_edwin"
     ]
   },
   "locations": [
     "Altona, DeKalb County, Indiana",
-    "Avilla, Noble County, Indiana"
+    "Avilla, Noble County, Indiana",
+    "Summit Co., Ohio",
+    "Avilla, Noble Co., Indiana"
   ],
   "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
@@ -43,5 +49,7 @@
     "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Summit County, Ohio (tree); aged 5 in 1850 and 17 in 1860. Find a Grave lists her as Sarah E. Rogers.",
     "Born 9 Nov 1844 near Akron, Ohio (her obituary says 1843); married Charles T. Rogers on 20 Feb 1862; lived many years at Altona, DeKalb County, Indiana; died 5 Jan 1932 at Avilla, Indiana, aged 87. Survived by her children Henry Rogers of Portis, Kansas, and Orpha (Mrs. Pence) of Chicago, eleven grandchildren and eight great-grandchildren; four children died before her."
   ],
-  "aliases": []
+  "aliases": [
+    "Sarah E. Simons Rogers"
+  ]
 }

@@ -1,0 +1,37 @@
+{
+  "id": "rogers_sanford",
+  "name": "Sanford Charles Tecumseh Rogers",
+  "sex": "M",
+  "birth": "21 Dec 1862",
+  "death": "30 Nov 1895",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Sarah Ellen Hovarter (Rogers, Leighty)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "simons_sarah_1844",
+    "father": "rogers_charles_t",
+    "siblings": [],
+    "spouse": "hovarter_sarah",
+    "children": [
+      "rogers_merl"
+    ]
+  },
+  "locations": [
+    "Keyser Township, DeKalb Co., Indiana",
+    "Kendallville, Noble Co., Indiana"
+  ],
+  "sources": [
+    "Find a Grave, memorial 41087751"
+  ],
+  "notes": [
+    "Born 21 Dec 1862 at Keyser Township, DeKalb Co., Indiana; died 30 Nov 1895 at Kendallville, Noble Co., Indiana (Find a Grave, memorial 41087751)."
+  ],
+  "aliases": []
+}

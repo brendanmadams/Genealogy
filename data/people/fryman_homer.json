@@ -2,26 +2,35 @@
   "id": "fryman_homer",
   "name": "Homer Fryman",
   "sex": "M",
-  "birth": "1875",
-  "death": "1916",
+  "birth": "15 Oct 1875",
+  "death": "3 Sep 1916",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Daisy Ann Spicer (Fryman) (m. 1907)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_mary_jane",
     "father": "fryman_joel",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "spicer_daisy",
+    "children": [
+      "fryman_gerald",
+      "fryman_harold"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Portage Co., Ohio",
+    "Akron, Summit Co., Ohio"
+  ],
   "sources": [
-    "Find a Grave, memorial 29778599"
+    "Find a Grave, memorial 29778599",
+    "Find a Grave, memorial 29778644"
   ],
   "notes": [
     "Child of Joel and Mary Jane (Simons) Fryman."

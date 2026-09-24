@@ -1,30 +1,41 @@
 {
   "id": "rogers_orpha",
-  "name": "Orpha Rogers (Pence)",
+  "name": "Orpha A. Rogers (Pence)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "29 Nov 1872",
+  "death": "27 Oct 1957",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Kary Elva Pence (m. 1890)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_sarah_1844",
     "father": "rogers_charles_t",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "pence_kary",
+    "children": [
+      "pence_nellie"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Keyser Township, DeKalb Co., Indiana",
+    "North Manchester, Wabash Co., Indiana"
+  ],
   "sources": [
-    "Obituary of Sarah Simons Rogers, Garrett Clipper, Garrett, Indiana, 7 Jan 1932 (transcribed on Find a Grave)"
+    "Obituary of Sarah Simons Rogers, Garrett Clipper, Garrett, Indiana, 7 Jan 1932 (transcribed on Find a Grave)",
+    "Find a Grave, memorial 203661409"
   ],
   "notes": [
     "Child of Charles T. and Sarah (Simons) Rogers. Mrs. Pence, of Chicago, in 1932; her mother lived with her after being widowed."
   ],
-  "aliases": []
+  "aliases": [
+    "Orpha Rogers (Pence)",
+    "Orpha A Rogers Pence"
+  ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "pence_kary",
+  "name": "Kary Elva Pence",
+  "sex": "M",
+  "birth": "1866",
+  "death": "1937",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Orpha A. Rogers (Pence) (m. 1890)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "rogers_orpha",
+    "children": [
+      "pence_nellie"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 203661361"
+  ],
+  "notes": [
+    "Husband of Orpha A. Rogers (Pence), married 1890 (Find a Grave, memorial 203661361)."
+  ],
+  "aliases": []
+}

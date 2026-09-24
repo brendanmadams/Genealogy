@@ -1,0 +1,37 @@
+{
+  "id": "dawson_john",
+  "name": "John E. Dawson",
+  "sex": "M",
+  "birth": "1864",
+  "death": "1932",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Sylvia Jane Rogers (Dawson) (m. 1888)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "rogers_sylvia",
+    "children": [
+      "dawson_curtis",
+      "dawson_lurl"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Find a Grave, memorial 18926121"
+  ],
+  "notes": [
+    "Husband of Sylvia Jane Rogers (Dawson), married 1888 (Find a Grave, memorial 18926121)."
+  ],
+  "aliases": [
+    "John E Dawson"
+  ]
+}

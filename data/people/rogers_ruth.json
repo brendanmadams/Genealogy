@@ -1,0 +1,33 @@
+{
+  "id": "rogers_ruth",
+  "name": "Ruth Rogers",
+  "sex": "F",
+  "birth": "6 May 1893",
+  "death": "6 Dec 1909",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "crummay_eva",
+    "father": "rogers_edwin",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Illinois",
+    "Altona, DeKalb Co., Indiana"
+  ],
+  "sources": [
+    "Find a Grave, memorial 243844811"
+  ],
+  "notes": [
+    "Born 6 May 1893 at Illinois; died 6 Dec 1909 at Altona, DeKalb Co., Indiana (Find a Grave, memorial 243844811)."
+  ],
+  "aliases": []
+}

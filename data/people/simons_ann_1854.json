@@ -24,7 +24,10 @@
       "forester_charles_elmer"
     ]
   },
-  "locations": [],
+  "locations": [
+    "DeKalb Co., Indiana",
+    "Northwest, Williams Co., Ohio"
+  ],
   "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
@@ -42,6 +45,7 @@
     "Ann Simons",
     "Ann Rebecca Simons",
     "Han R. Simons",
-    "Rebecca Ann Forester"
+    "Rebecca Ann Forester",
+    "Rebecca Ann Simons Forester"
   ]
 }

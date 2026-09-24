@@ -1,0 +1,38 @@
+{
+  "id": "simons_donald",
+  "name": "Donald Blaine Simons",
+  "sex": "M",
+  "birth": "15 Mar 1922",
+  "death": "23 Aug 2019",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [
+    "Married Teresa A. Ratkowski (Simons)"
+  ],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "isenhower_edna",
+    "father": "simons_elmer_henry",
+    "siblings": [],
+    "spouse": "ratkowski_teresa",
+    "children": [
+      "simons_christopher",
+      "simons_margie"
+    ]
+  },
+  "locations": [
+    "Fremont, Steuben Co., Indiana",
+    "Coldwater, Branch Co., Michigan"
+  ],
+  "sources": [
+    "Find a Grave, memorial 120973906"
+  ],
+  "notes": [
+    "Born 15 Mar 1922 at Fremont, Steuben Co., Indiana; died 23 Aug 2019 at Coldwater, Branch Co., Michigan (Find a Grave, memorial 120973906)."
+  ],
+  "aliases": []
+}

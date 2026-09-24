@@ -2,26 +2,32 @@
   "id": "forester_charles_elmer",
   "name": "Charles Elmer “Charlie” Forester",
   "sex": "M",
-  "birth": "1875",
-  "death": "1954",
+  "birth": "22 Jan 1875",
+  "death": "28 Nov 1954",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Etta May Burch (Forester) (m. 1896)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_ann_1854",
     "father": "forester_stephen_s",
     "siblings": [],
-    "spouse": "",
+    "spouse": "burch_etta",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Northwest, Williams Co., Ohio",
+    "Coldwater, Branch Co., Michigan"
+  ],
   "sources": [
-    "Find a Grave, memorial 68165791"
+    "Find a Grave, memorial 68165791",
+    "Find a Grave, memorial 57296268"
   ],
   "notes": [
     "Son of Stephen S. and Rebecca Ann (Simons) Forester."
