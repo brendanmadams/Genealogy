@@ -5,8 +5,11 @@
  * marriage records on Ancestry.com. Re-runnable.
  *  - The 1860 census places Lewis Swan in Cleveland with his son Horatio's
  *    family and "Maria" (Mary Elizabeth), 19; Mary (Adams) Swan is gone.
- *  - Leads only: Mary E. Swan's 1866 marriage to Samuel Hand, and 1839 and
- *    1849 Delaware County marriages of a Susanna and an "Arsula C." Adams.
+ *  - Lead: Mary E. Swan's 1866 marriage to Samuel Hand. Ruled out: the 1839
+ *    and 1849 Delaware County marriages of a Susanna and an "Arsula C."
+ *    Adams, and Judge Evi Adams of Wantage, New Jersey, as Jose's father.
+ *  - Jose's 1820 (Bath, Morgan County) and 1830 (Jefferson County)
+ *    households, which put the twins' births at about 1821–1825.
  */
 'use strict';
 const { load, save, note } = require('./lib/records');
@@ -50,5 +53,15 @@ for (const id of ['adams_susan_twin', 'adams_ursula_twin']) edit(id, [MARR, FAG]
 // Jose Pierre Adams: a lead on his parents
 const WILL = 'Ancestry.com, New Jersey, U.S., Wills and Probate Records, 1739-1991 (will of Evi Adams Esq. of Wantage, Sussex County, dated 9 Dec 1815; Sussex County Wills, vol. C–D, 1828–1855)';
 const FAG_EVI = 'Find a Grave, memorial 5983703 (Judge Evi Adams, 1744–1828, quoting his entries in the records of the First Baptist Church of Wantage, New Jersey)';
-edit('adams_jose_pierre', [WILL, FAG_EVI], p => note(p, "UNPROVEN lead on his parents: about twenty Ancestry member trees make him \"Joseph Perry Adams\", born 15 Mar 1783, son of Judge Evi Adams (1744–1828) and Jane Lewis of Wantage, Sussex County, New Jersey. Evi's own entries in the Wantage First Baptist Church records list a son Joseph born 15 Mar 1783 (an earlier Joseph died in 1774), and Evi's will of 9 Dec 1815 leaves \"my son Joseph Adams\" $1,200 out of money he had already received, beside his sons Lewis, John E., Evi and Ellis. Neither record gives a middle name or ties that Joseph to Virginia; the trees' \"Perry\" middle name, Fredericksburg birthplace and 1843 death are unsourced. The birth year fits Jose's (1780–1790 in the 1820 and 1830 censuses), and the New Jersey origin fits the family story, but no link has been proved."));
+const OLD_JOSE_LEAD = "UNPROVEN lead on his parents: about twenty Ancestry member trees make him \"Joseph Perry Adams\", born 15 Mar 1783, son of Judge Evi Adams (1744–1828) and Jane Lewis of Wantage, Sussex County, New Jersey. Evi's own entries in the Wantage First Baptist Church records list a son Joseph born 15 Mar 1783 (an earlier Joseph died in 1774), and Evi's will of 9 Dec 1815 leaves \"my son Joseph Adams\" $1,200 out of money he had already received, beside his sons Lewis, John E., Evi and Ellis. Neither record gives a middle name or ties that Joseph to Virginia; the trees' \"Perry\" middle name, Fredericksburg birthplace and 1843 death are unsourced. The birth year fits Jose's (1780–1790 in the 1820 and 1830 censuses), and the New Jersey origin fits the family story, but no link has been proved.";
+const C1820 = 'Ancestry.com, 1820 United States Federal Census (Bath, Morgan County, Virginia; NARA M33, roll 141, page 17)';
+const C1830V = 'Ancestry.com, 1830 United States Federal Census (Jefferson County, Virginia; NARA M19, roll 191, page 111)';
+const C1830NJ = 'Ancestry.com, 1830 United States Federal Census (Wantage, Sussex County, New Jersey; NARA M19, roll 82, page 245)';
+edit('adams_jose_pierre', [WILL, FAG_EVI, C1820, C1830V, C1830NJ], p => {
+  p.notes = p.notes.filter(t => t !== OLD_JOSE_LEAD);
+  note(p, "Ruled out as his father: Judge Evi Adams (1744–1828) of Wantage, Sussex County, New Jersey, whom about twenty Ancestry member trees give as the father of a \"Joseph Perry Adams\" married to Elizabeth Hamilton. Evi's church register and his will of 9 Dec 1815 do name a son Joseph, born 15 Mar 1783, but that Joseph stayed in Sussex County: in 1830 a Joseph Adams aged 40–49 headed a household of twelve at Wantage, with nine children under 20, while Jose was in Jefferson County, Virginia. Member trees that follow Evi's son give him wives in Sussex County (1809, and Martha Wisner Post in 1816) and children born there from 1806 to 1837. The \"Perry\" middle name, Fredericksburg birthplace and English burial in the Hamilton-linked trees have no sources.");
+  note(p, "1820 census, Bath (Berkeley Springs), Morgan County, Virginia, enumerated 7 Aug 1820, as Joseph P. Adams: one man aged 26–44 (Jose), one man aged 45 or over (unidentified; perhaps a parent or in-law), a woman 26–44 (Elizabeth), a girl 10–15, and two boys and two girls under 10. One person engaged in manufactures, which fits his work as a chemist.");
+  note(p, "1830 census, Jefferson County, Virginia, as Jose P. Adams: a man and a woman aged 40–49, two boys aged 10–14 (George and Alexander), and five girls: two aged 15–19, one aged 10–14 and two aged 5–9. The two youngest are probably the twins Susan and Ursula.");
+});
+for (const id of ['adams_susan_twin', 'adams_ursula_twin']) edit(id, C1830V, p => note(p, "Inferred: probably one of the two girls aged 5–9 in Jose P. Adams's household in Jefferson County, Virginia, in 1830, so born about 1821–1825."));
 console.log('Adams–Swan and twins applied');
