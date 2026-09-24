@@ -1,0 +1,33 @@
+{
+  "id": "mooney_sarah",
+  "name": "Sarah Mooney (Quin)",
+  "sex": "F",
+  "birth": "1826",
+  "death": "23 Jun 1890",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "quin_james_mcgeer",
+    "children": [
+      "quinn_bernard"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+  ],
+  "notes": [
+    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
+    "The tree gives her death as 23 Jun 1890 at Hydes, Maryland."
+  ],
+  "aliases": []
+}

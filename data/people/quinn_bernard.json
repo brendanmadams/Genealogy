@@ -1,40 +1,59 @@
 {
   "id": "quinn_bernard",
-  "name": "Bernard Quinn",
+  "name": "John Bernard Quinn",
   "sex": "M",
-  "birth": "1852",
-  "death": "1913",
+  "birth": "Dec 1853",
+  "death": "14 Oct 1913",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Emigrated from Ireland to the United States in 1870, settling in Harford County, Maryland",
+    "Married Emily Mariam Lynn (m. 6 Aug 1889)",
+    "Buried 16 Oct 1913 at St John's Church, Long Green, Baltimore County"
+  ],
   "education": [],
-  "career": [],
+  "career": [
+    "Laborer (1900 and 1910 censuses)."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "mooney_sarah",
+    "father": "quin_james_mcgeer",
     "siblings": [],
     "spouse": "lynn_emily_mariam",
     "children": [
       "ethel_quinn_schriefer",
-      "quinn_john_joseph"
+      "quinn_john_joseph",
+      "quinn_sarah_catherine",
+      "quinn_charlotte_ann",
+      "quinn_mariam_ellen",
+      "quinn_agnes_emily",
+      "quinn_james_1897",
+      "quinn_margaret_agatha"
     ]
   },
   "locations": [
     "Ireland",
-    "Harford County, Maryland"
+    "Harford County, Maryland",
+    "Rasharkin, County Antrim, Ireland",
+    "Fallston, Harford County, Maryland",
+    "Benson, Harford County, Maryland"
   ],
   "sources": [
     "Ancestry.com, 1910 United States Federal Census",
-    "Find a Grave, memorial 222563596"
+    "Find a Grave, memorial 222563596",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
   ],
   "notes": [
     "Born in Ireland; \"Barnie Quin\", aged 58, in the 1910 census of District 3, Harford County, Maryland, with his wife Emily M. and children Agnes E. (14), John J. (12), Ethel E. (9) and Margaret A. (4).",
-    "Children named on Find a Grave: Sarah Catherine \"Sally\" (Brady, 1889–1959), Charlotte Ann (Landreth, 1892–1971), John Joseph (1898–1956), Ethel E. (Schriefer, 1901–1952) and Margaret M. (Osborne, 1905–1946)."
+    "Children named on Find a Grave: Sarah Catherine \"Sally\" (Brady, 1889–1959), Charlotte Ann (Landreth, 1892–1971), John Joseph (1898–1956), Ethel E. (Schriefer, 1901–1952) and Margaret M. (Osborne, 1905–1946).",
+    "Per the Quinn Family Tree on Ancestry (citing the 1870–1910 censuses): born Dec 1853 at Rasharkin, County Antrim; came to the United States in 1870; married Emily Mariam Lynn on 6 Aug 1889 at St John's Church, Hydes, Baltimore County; lived at Fallston, Harford County; died 14 Oct 1913 at Benson, Harford County. By 1910 he had fathered eight children, seven living. Find a Grave gives his birth year as 1852.",
+    "His children, per the tree: Sarah Catherine \"Sally\" (b. 22 Jun 1890), Charlotte Ann (3 Mar 1892), Mariam Ellen (Jan 1894), Agnes Emily (Sep 1895), James (May–Sep 1897), John Joseph (6 May 1898), Ethel Elizabeth (13 Nov 1900) and Margaret Agatha (15 Aug 1905)."
   ],
   "aliases": [
-    "Barnie Quinn"
+    "Barnie Quinn",
+    "Bernard Quinn"
   ]
 }

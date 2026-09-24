@@ -96,13 +96,15 @@ edit('schriefer_george_goode', [C1900, C1930, C1940, OBIT, FAG(222563508)], p =>
   p.birth = '1 Jun 1899';
   p.death = '9 May 1951';
   p.milestones = p.milestones.filter(t => t !== 'Death: 12 May 1951');
-  add(p.milestones, 'Married Ethel E. Quinn (m. abt 1920)');
+  p.milestones = p.milestones.filter(t => t !== 'Married Ethel E. Quinn (m. abt 1920)');
+  add(p.milestones, 'Married Ethel Elizabeth Quinn (m. 12 Jul 1920)');
   add(p.milestones, 'Buried at New Cathedral Cemetery, Baltimore, 12 May 1951');
   for (const l of ['2531 E. Oliver Street, Baltimore (1900)', '2003 Barclay Street, Baltimore (1930)', '339 21st Street, Baltimore (1940)', '1143 Carroll Street, Baltimore (1951)']) add(p.locations, l);
   add(p.career, 'Shipping clerk, for an ice cream company in 1930 and still in 1940 (censuses).');
   add(p.education, 'Completed sixth grade (1940 census).');
   note(p, 'CORRECTION: died 9 May 1951 in Baltimore, in his 52nd year, per his death notice (Evening Sun, 10 May 1951) and Find a Grave; 12 May 1951 was his burial at New Cathedral Cemetery. Born 1 Jun 1899 in Baltimore.');
-  note(p, 'Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel E. Quinn about 1920 (he was 20 at his first marriage, per the 1930 census).');
+  p.notes = p.notes.filter(t => t !== 'Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel E. Quinn about 1920 (he was 20 at his first marriage, per the 1930 census).');
+  note(p, 'Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel Elizabeth Quinn on 12 Jul 1920 in Baltimore (Quinn Family Tree on Ancestry; he was 20 at his first marriage, per the 1930 census).');
   note(p, 'In 1930 his mother-in-law Emily Cook and her husband Earnest Cook lived with the family on Barclay Street.');
 });
 person('schriefer_bartholomew', 'Bartholomew Schriefer', 'M', [C1900, FAG(65818037)], p => {
@@ -122,15 +124,17 @@ child('schriefer_george_goode', 'schriefer_bartholomew', 'denzlein_margaret');
 
 // Ethel E. Quinn and her parents
 edit('ethel_quinn_schriefer', [C1910, C1930, C1940, OBIT, FAG(222563596)], p => {
-  rename(p, ['Ethel Quinn (Schriefer)'], 'Ethel E. Quinn (Schriefer)');
-  p.birth = '1901';
+  rename(p, ['Ethel Quinn (Schriefer)', 'Ethel E. Quinn (Schriefer)'], 'Ethel Elizabeth Quinn (Schriefer)');
+  add(p.aliases, 'Ethel E. Schriefer');
+  p.birth = '13 Nov 1900';
+  p.notes = p.notes.filter(t => t !== 'CORRECTION: born 1901 in Maryland (aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave 1901) and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered.');
   p.death = '9 Apr 1952';
   drop(p, 'notes', /^Birth estimated: Barbara says her grandmother died in her early sixties/);
   p.milestones = p.milestones.filter(t => t !== 'Death.');
   add(p.milestones, 'Buried at New Cathedral Cemetery, Baltimore');
   add(p.locations, 'Harford County, Maryland');
   add(p.locations, '1143 Carroll Street, Baltimore (1952)');
-  note(p, 'CORRECTION: born 1901 in Maryland (aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave 1901) and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered.');
+  note(p, 'CORRECTION: born 13 Nov 1900 at Fallston, Harford County, and baptized 2 Dec 1900 at St John\'s Church (Quinn Family Tree on Ancestry; aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave gives 1901), and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered.');
   note(p, 'Daughter of Bernard Quinn and Emily M. (Lynn), both born in Ireland; in 1910 the family lived in District 3, Harford County, Maryland.');
 });
 person('quinn_bernard', 'Bernard Quinn', 'M', [C1910, FAG(222563596)], p => {
@@ -149,9 +153,10 @@ person('lynn_emily_mariam', 'Emily Mariam Lynn (Quinn, Cook)', 'F', [C1910, C193
 wed('quinn_bernard', 'lynn_emily_mariam');
 child('ethel_quinn_schriefer', 'quinn_bernard', 'lynn_emily_mariam');
 edit('quinn_john_joseph', [C1910, FAG(222563596)], p => {
-  p.birth = '1898';
-  p.death = '1956';
-  note(p, 'CORRECTION: 1898–1956 per Find a Grave (aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel\'s sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling.');
+  p.birth = '6 May 1898';
+  p.death = 'Feb 1956';
+  p.notes = p.notes.filter(t => !t.startsWith('CORRECTION: 1898–1956 per Find a Grave (aged 12 in the 1910 census)'));
+  note(p, 'CORRECTION: born 6 May 1898 at Fallston, Harford County, and died Feb 1956 in Baltimore (Quinn Family Tree on Ancestry, citing the Social Security Death Index; Find a Grave 1898–1956; aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel\'s sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling.');
 });
 child('quinn_john_joseph', 'quinn_bernard', 'lynn_emily_mariam');
 

@@ -3,13 +3,15 @@
   "name": "Emily Mariam Lynn (Quinn, Cook)",
   "sex": "F",
   "birth": "1869",
-  "death": "1937",
+  "death": "24 Sep 1937",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married John Bernard Quinn (m. 6 Aug 1889)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -19,7 +21,13 @@
     "spouse": "quinn_bernard",
     "children": [
       "ethel_quinn_schriefer",
-      "quinn_john_joseph"
+      "quinn_john_joseph",
+      "quinn_sarah_catherine",
+      "quinn_charlotte_ann",
+      "quinn_mariam_ellen",
+      "quinn_agnes_emily",
+      "quinn_james_1897",
+      "quinn_margaret_agatha"
     ]
   },
   "locations": [
@@ -30,10 +38,12 @@
   "sources": [
     "Ancestry.com, 1910 United States Federal Census",
     "Ancestry.com, 1930 United States Federal Census",
-    "Find a Grave, memorial 222563596"
+    "Find a Grave, memorial 222563596",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
   ],
   "notes": [
-    "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her."
+    "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her.",
+    "Died 24 Sep 1937 in Baltimore County (Quinn Family Tree on Ancestry)."
   ],
   "aliases": [
     "Emily M. Quinn",

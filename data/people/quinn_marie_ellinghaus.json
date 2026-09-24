@@ -1,8 +1,8 @@
 {
   "id": "quinn_marie_ellinghaus",
-  "name": "Marie Ellinghaus (Quinn)",
-  "birth": "abt 1901",
-  "death": "12 Feb (about 1997)",
+  "name": "Marie Elizabeth Ellinghaus (Quinn)",
+  "birth": "1904",
+  "death": "12 Feb 2001",
   "personality": [
     "Lifelong learner",
     "Self-taught — quit school in 7th grade as eldest child with fragile mother",
@@ -42,7 +42,8 @@
   "milestones": [
     "Married John Joseph Quinn",
     "Served as the functional Grandmother to Barbara McKeldin Adams",
-    "Died 12 Feb (about 1997)"
+    "Died 12 Feb (about 1997)",
+    "Married John Joseph Quinn (m. 25 May 1925)"
   ],
   "education": [
     "Self-taught — typing, shorthand, stenography after leaving school in 7th grade"
@@ -71,7 +72,9 @@
     "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
     "adams_direct_line_json_v1",
     "mckeldin_research_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Find a Grave, memorial 254763745"
   ],
   "notes": [
     "Barbara says Marie knew current and historical information about movie stars, presidents, TV actors, popular songs, and politicians.",
@@ -87,10 +90,13 @@
     "CORRECTION: Prior record attributed typing/shorthand + Olin Mathieson career to Ethel Quinn Schriefer. Memoir p. 58 reveals this describes MARIE Ellinghaus-Quinn, not Ethel. Correction applied.",
     "Maiden name: Ellinghaus. Married John Joseph Quinn.",
     "Motto: 'Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life. Celebrate the good times and roll up your sleeves with the bad times.'",
-    "CORRECTION 2026-09-23: Death refined from \"abt 1997\" to \"12 Feb (about 1997)\" [Barbara McKeldin Adams, A Memoir, text line 1057]."
+    "CORRECTION 2026-09-23: Death refined from \"abt 1997\" to \"12 Feb (about 1997)\" [Barbara McKeldin Adams, A Memoir, text line 1057].",
+    "CORRECTION: born 1904 and died 12 Feb 2001 in Baltimore (Find a Grave; Quinn Family Tree on Ancestry). Aged 96, matching the family's memory that she lived 96 years; the earlier \"abt 1901\" and \"about 1997\" were estimates."
   ],
   "aliases": [
-    "Marie Ellinghaus Quinn"
+    "Marie Ellinghaus Quinn",
+    "Marie Ellinghaus (Quinn)",
+    "Marie Quinn"
   ],
   "sex": "F"
 }

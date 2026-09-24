@@ -1,8 +1,8 @@
 {
   "id": "quinn_john_joseph",
   "name": "John Joseph Quinn",
-  "birth": "1898",
-  "death": "1956",
+  "birth": "6 May 1898",
+  "death": "Feb 1956",
   "personality": [],
   "roles": [
     "WWI communication specialist"
@@ -29,7 +29,8 @@
     "Opened home to Barbara McKeldin Adams and Chuck McKeldin Jr. after Emily Schriefer's death",
     "Served in WWI as communication/wireline specialist",
     "Household on Nicklas Avenue, Baltimore raised Barbara and Chuck after Emily's 1950 death and Ethel's 1952 death",
-    "Died early Feb 1959, Baltimore, MD"
+    "Died early Feb 1959, Baltimore, MD",
+    "Married Marie Ellinghaus (m. 25 May 1925)"
   ],
   "education": [],
   "career": [],
@@ -49,7 +50,8 @@
   },
   "locations": [
     "Baltimore, MD",
-    "Nicklas Avenue, Baltimore"
+    "Nicklas Avenue, Baltimore",
+    "Fallston, Harford County, Maryland"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -58,7 +60,8 @@
     "adams_direct_line_json_v1",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
     "Ancestry.com, 1910 United States Federal Census",
-    "Find a Grave, memorial 222563596"
+    "Find a Grave, memorial 222563596",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
   ],
   "notes": [
     "Barbara identifies him as her great uncle and the youngest sibling of her grandmother, Ethel.",
@@ -68,7 +71,8 @@
     "Ethel's youngest brother per this source — adds new detail (youngest).",
     "Confirmed as Ethel Quinn Schriefer's youngest brother per this source. Children: Peggy, Joan, John, Pat.",
     "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus.",
-    "CORRECTION: 1898–1956 per Find a Grave (aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel's sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling."
+    "CORRECTION: born 6 May 1898 at Fallston, Harford County, and died Feb 1956 in Baltimore (Quinn Family Tree on Ancestry, citing the Social Security Death Index; Find a Grave 1898–1956; aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel's sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling.",
+    "Married Marie Ellinghaus on 25 May 1925 at St Ann's Church, Baltimore (Quinn Family Tree on Ancestry). Children: Margaret Frances \"Peggy\" (1927), Catherine Joan (1930), John Joseph Jr. (1934) and Patricia Marie \"Pat\" (1940)."
   ],
   "sex": "M",
   "aliases": []

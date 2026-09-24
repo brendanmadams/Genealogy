@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T14:23:55.826Z",
-  "people": 664,
-  "family_members": 614,
+  "generated": "2026-09-24T14:36:09.029Z",
+  "people": 673,
+  "family_members": 623,
   "dna_matches": 50,
-  "connected_people": 614,
-  "families": 209,
+  "connected_people": 623,
+  "families": 211,
   "branches": [
    "adams",
    "hamilton",
@@ -14084,7 +14084,8 @@
     "Ancestry.com, 1930 United States Federal Census",
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
-    "Find a Grave, memorial 222564260"
+    "Find a Grave, memorial 222564260",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
     "Referenced in Barbara Jeanne Adams: Daughter of Charles McKeldin and Emily Schrieffer McKeldin",
@@ -14092,7 +14093,8 @@
     "Siblings listed: Kenneth, George Jr.",
     "Emily Schriefer and Peggy Quinn were 1ST COUSINS: John Joseph Quinn (Peggy's father) was Ethel Quinn Schriefer's (Emily's mother) youngest brother.",
     "CORRECTION: born 20 Feb 1921 in Baltimore and died 21 Oct 1950, in her 30th year, per her death notice (Baltimore Sun, 23 Oct 1950) and Find a Grave; she was 9 in the 1930 census and 19 in 1940. The earlier birth \"abt 1914\" came from Barbara remembering her as 36, and 24 Oct was not her death date.",
-    "The censuses, her parents' death notices and Find a Grave spell the family name Schriefer."
+    "The censuses, her parents' death notices and Find a Grave spell the family name Schriefer.",
+    "The Quinn Family Tree on Ancestry gives her birth as 4 Feb 1921 and her death as Oct 1951; her death notice (Oct 1950) and Find a Grave (20 Feb 1921) are followed here."
    ]
   },
   {
@@ -14280,18 +14282,20 @@
   },
   {
    "id": "ethel_quinn_schriefer",
-   "name": "Ethel E. Quinn (Schriefer)",
+   "name": "Ethel Elizabeth Quinn (Schriefer)",
    "aliases": [
     "Ethel Quinn Schriefer",
-    "Ethel Quinn (Schriefer)"
+    "Ethel Quinn (Schriefer)",
+    "Ethel E. Quinn (Schriefer)",
+    "Ethel E. Schriefer"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1901",
-    "year": 1901,
+    "text": "13 Nov 1900",
+    "year": 1900,
     "qualifier": null
    },
    "death": {
@@ -14322,7 +14326,13 @@
     "schriefer_george_jr"
    ],
    "siblings": [
-    "quinn_john_joseph"
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
+    "quinn_john_joseph",
+    "quinn_margaret_agatha"
    ],
    "families": [
     "F_ethel_quinn_schriefer+schriefer_george_goode"
@@ -14353,7 +14363,7 @@
     "Died on 4/12/52."
    ],
    "milestones": [
-    "Married George Goode Schriefer",
+    "Married George Goode Schriefer (m. 12 Jul 1920)",
     "Buried at New Cathedral Cemetery, Baltimore"
    ],
    "education": [],
@@ -14367,14 +14377,15 @@
     "Ancestry.com, 1930 United States Federal Census",
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
-    "Find a Grave, memorial 222563596"
+    "Find a Grave, memorial 222563596",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
     "Barbara identifies her as her maternal grandmother.",
     "Siblings listed: John Joseph Quinn",
     "Emily's mother.",
-    "CORRECTION: born 1901 in Maryland (aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave 1901) and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered.",
-    "Daughter of Bernard Quinn and Emily M. (Lynn), both born in Ireland; in 1910 the family lived in District 3, Harford County, Maryland."
+    "Daughter of Bernard Quinn and Emily M. (Lynn), both born in Ireland; in 1910 the family lived in District 3, Harford County, Maryland.",
+    "CORRECTION: born 13 Nov 1900 at Fallston, Harford County, and baptized 2 Dec 1900 at St John's Church (Quinn Family Tree on Ancestry; aged 9 in 1910, 29 in 1930, 39 in 1940; Find a Grave gives 1901), and died 9 Apr 1952 in Baltimore, per her death notice (Baltimore Sun, 10 Apr 1952). She was about 51, not in her early sixties as Barbara remembered."
    ]
   },
   {
@@ -28668,7 +28679,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "1937",
+    "text": "24 Sep 1937",
     "year": 1937,
     "qualifier": null
    },
@@ -28687,8 +28698,14 @@
     "quinn_bernard"
    ],
    "children": [
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
     "quinn_john_joseph",
-    "ethel_quinn_schriefer"
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
    ],
    "siblings": [],
    "families": [
@@ -28708,16 +28725,20 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married John Bernard Quinn (m. 6 Aug 1889)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Ancestry.com, 1910 United States Federal Census",
     "Ancestry.com, 1930 United States Federal Census",
-    "Find a Grave, memorial 222563596"
+    "Find a Grave, memorial 222563596",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
-    "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her."
+    "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her.",
+    "Died 24 Sep 1937 in Baltimore County (Quinn Family Tree on Ancestry)."
    ]
   },
   {
@@ -33167,6 +33188,64 @@
    ]
   },
   {
+   "id": "mooney_sarah",
+   "name": "Sarah Mooney (Quin)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1826",
+    "year": 1826,
+    "qualifier": null
+   },
+   "death": {
+    "text": "23 Jun 1890",
+    "year": 1890,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "quin_james_mcgeer"
+   ],
+   "children": [
+    "quinn_bernard"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mooney_sarah+quin_james_mcgeer"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
+    "The tree gives her death as 23 Jun 1890 at Hydes, Maryland."
+   ]
+  },
+  {
    "id": "morgan_scott",
    "name": "Scott Morgan",
    "aliases": [],
@@ -35770,22 +35849,151 @@
    "notes": []
   },
   {
+   "id": "quin_james_mcgeer",
+   "name": "James McGeer Quin",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1823",
+    "year": 1823,
+    "qualifier": null
+   },
+   "death": {
+    "text": "6 Mar 1898",
+    "year": 1898,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "mooney_sarah"
+   ],
+   "children": [
+    "quinn_bernard"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mooney_sarah+quin_james_mcgeer"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "County Antrim, Ireland",
+    "Fallston, Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
+    "The tree gives his death as 6 Mar 1898 at Fallston, Harford County, and lists other children Ann Jane (1846–1912), Elizabeth Jane (1857–1903) and John Joseph (1858–1883)."
+   ]
+  },
+  {
+   "id": "quinn_agnes_emily",
+   "name": "Agnes Emily Quinn",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "Sep 1895",
+    "year": 1895,
+    "qualifier": null
+   },
+   "death": {
+    "text": "after 1910",
+    "year": 1910,
+    "qualifier": "after"
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_james_1897",
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
+   ],
+   "families": [],
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Fallston, Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry.",
+    "Aged 14 in the 1910 census; the tree says she died after it."
+   ]
+  },
+  {
    "id": "quinn_bernard",
-   "name": "Bernard Quinn",
+   "name": "John Bernard Quinn",
    "aliases": [
-    "Barnie Quinn"
+    "Barnie Quinn",
+    "Bernard Quinn"
    ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1852",
-    "year": 1852,
+    "text": "Dec 1853",
+    "year": 1853,
     "qualifier": null
    },
    "death": {
-    "text": "1913",
+    "text": "14 Oct 1913",
     "year": 1913,
     "qualifier": null
    },
@@ -35797,27 +36005,118 @@
     "quinn"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "quin_james_mcgeer",
+   "mother": "mooney_sarah",
+   "parents": [
+    "mooney_sarah",
+    "quin_james_mcgeer"
+   ],
    "spouses": [
     "lynn_emily_mariam"
    ],
    "children": [
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
     "quinn_john_joseph",
-    "ethel_quinn_schriefer"
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
    ],
    "siblings": [],
    "families": [
     "F_lynn_emily_mariam+quinn_bernard"
    ],
-   "parent_family": null,
+   "parent_family": "F_mooney_sarah+quin_james_mcgeer",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Ireland",
-    "Harford County, Maryland"
+    "Harford County, Maryland",
+    "Rasharkin, County Antrim, Ireland",
+    "Fallston, Harford County, Maryland",
+    "Benson, Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Emigrated from Ireland to the United States in 1870, settling in Harford County, Maryland",
+    "Married Emily Mariam Lynn (m. 6 Aug 1889)",
+    "Buried 16 Oct 1913 at St John's Church, Long Green, Baltimore County"
+   ],
+   "education": [],
+   "career": [
+    "Laborer (1900 and 1910 censuses)."
+   ],
+   "sources": [
+    "Ancestry.com, 1910 United States Federal Census",
+    "Find a Grave, memorial 222563596",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Born in Ireland; \"Barnie Quin\", aged 58, in the 1910 census of District 3, Harford County, Maryland, with his wife Emily M. and children Agnes E. (14), John J. (12), Ethel E. (9) and Margaret A. (4).",
+    "Children named on Find a Grave: Sarah Catherine \"Sally\" (Brady, 1889–1959), Charlotte Ann (Landreth, 1892–1971), John Joseph (1898–1956), Ethel E. (Schriefer, 1901–1952) and Margaret M. (Osborne, 1905–1946).",
+    "Per the Quinn Family Tree on Ancestry (citing the 1870–1910 censuses): born Dec 1853 at Rasharkin, County Antrim; came to the United States in 1870; married Emily Mariam Lynn on 6 Aug 1889 at St John's Church, Hydes, Baltimore County; lived at Fallston, Harford County; died 14 Oct 1913 at Benson, Harford County. By 1910 he had fathered eight children, seven living. Find a Grave gives his birth year as 1852.",
+    "His children, per the tree: Sarah Catherine \"Sally\" (b. 22 Jun 1890), Charlotte Ann (3 Mar 1892), Mariam Ellen (Jan 1894), Agnes Emily (Sep 1895), James (May–Sep 1897), John Joseph (6 May 1898), Ethel Elizabeth (13 Nov 1900) and Margaret Agatha (15 Aug 1905)."
+   ]
+  },
+  {
+   "id": "quinn_charlotte_ann",
+   "name": "Charlotte Ann Quinn (Landreth)",
+   "aliases": [
+    "Charlotte Landreth"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "3 Mar 1892",
+    "year": 1892,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1971",
+    "year": 1971,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_sarah_catherine",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
+   ],
+   "families": [],
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Fallston, Harford County, Maryland"
    ],
    "personality": [],
    "roles": [],
@@ -35828,34 +36127,104 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, 1910 United States Federal Census",
-    "Find a Grave, memorial 222563596"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
-    "Born in Ireland; \"Barnie Quin\", aged 58, in the 1910 census of District 3, Harford County, Maryland, with his wife Emily M. and children Agnes E. (14), John J. (12), Ethel E. (9) and Margaret A. (4).",
-    "Children named on Find a Grave: Sarah Catherine \"Sally\" (Brady, 1889–1959), Charlotte Ann (Landreth, 1892–1971), John Joseph (1898–1956), Ethel E. (Schriefer, 1901–1952) and Margaret M. (Osborne, 1905–1946)."
+    "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry."
+   ]
+  },
+  {
+   "id": "quinn_james_1897",
+   "name": "James Quinn",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "May 1897",
+    "year": 1897,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Sep 1897",
+    "year": 1897,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
+   ],
+   "families": [],
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Fallston, Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Died in infancy"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry."
    ]
   },
   {
    "id": "quinn_joan",
-   "name": "Joan Quinn (Stang)",
+   "name": "Catherine Joan Quinn (Stang)",
    "aliases": [
     "Joan Stang",
-    "Joan Hogan"
+    "Joan Hogan",
+    "Joan Quinn (Stang)",
+    "Joan Quinn",
+    "Joan Q. Stang",
+    "Catherine Joan Stang"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "16 Dec 1930",
+    "year": 1930,
     "qualifier": null
    },
    "death": {
-    "text": "before 2021",
-    "year": 2021,
-    "qualifier": "before"
+    "text": "25 Jan 2018",
+    "year": 2018,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -35891,7 +36260,10 @@
    "priority": "normal",
    "locations": [
     "Baltimore, MD",
-    "Ocean City, MD"
+    "Ocean City, MD",
+    "Baltimore, Maryland",
+    "Greensboro, North Carolina",
+    "Easton, Pennsylvania"
    ],
    "personality": [],
    "roles": [
@@ -35902,7 +36274,8 @@
    "risk_events": [],
    "milestones": [
     "Died before 2021",
-    "Aunt Joan had a house in Ocean City, Maryland, where Barbara's family stayed on visits east when it was free."
+    "Aunt Joan had a house in Ocean City, Maryland, where Barbara's family stayed on visits east when it was free.",
+    "Married Bernard J. Stang (m. abt 1952)"
    ],
    "education": [],
    "career": [
@@ -35913,7 +36286,11 @@
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Baltimore Sun, 6 Jan 1952)",
+    "Ancestry.com, U.S., Obituary Collection (John Joseph Quinn Jr., Columbia, Maryland, 22 May 2013)",
+    "Find a Grave, memorial 224415296"
    ],
    "notes": [
     "Barbara identifies Joan as one of John Joseph Quinn’s children.",
@@ -35923,7 +36300,9 @@
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14.",
     "Promoted from unresolved (joan.json).",
     "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]",
-    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her \"my aunt Joan Hogan\" in one passage, which may point to an earlier marriage. [Barbara McKeldin Adams, A Memoir, text line 540]"
+    "Born Catherine Joan Quinn on 16 Dec 1930 in Baltimore; died 25 Jan 2018 at Easton, Pennsylvania, aged 87 (Find a Grave; Quinn Family Tree on Ancestry). Find a Grave places her burial at Gethsemane Cemetery, Easton; the tree gives Hickory, Harford County.",
+    "Her marriage to Bernard J. Stang was announced in the Baltimore Sun on 6 Jan 1952, as Miss Catherine Joan Quinn, daughter of John Quinn. They lived in Greensboro, North Carolina, in 1960. The Quinn tree shows four children, all hidden as living; Mark Stang is one (per Brendan Adams). Her brother John Joseph Quinn Jr.'s 2013 obituary names her as Catherine Joan Stang.",
+    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her \"my aunt Joan Hogan\" in one passage, but Joan was still unmarried when her engagement to Bernard Stang was announced in 1952, so the name may belong to another aunt. [Barbara McKeldin Adams, A Memoir, text line 540]"
    ]
   },
   {
@@ -35935,12 +36314,12 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1898",
+    "text": "6 May 1898",
     "year": 1898,
     "qualifier": null
    },
    "death": {
-    "text": "1956",
+    "text": "Feb 1956",
     "year": 1956,
     "qualifier": null
    },
@@ -35968,7 +36347,13 @@
     "quinn_pat"
    ],
    "siblings": [
-    "ethel_quinn_schriefer"
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
    ],
    "families": [
     "F_quinn_john_joseph+quinn_marie_ellinghaus"
@@ -35979,7 +36364,8 @@
    "priority": "normal",
    "locations": [
     "Baltimore, MD",
-    "Nicklas Avenue, Baltimore"
+    "Nicklas Avenue, Baltimore",
+    "Fallston, Harford County, Maryland"
    ],
    "personality": [],
    "roles": [
@@ -36007,7 +36393,8 @@
     "Opened home to Barbara McKeldin Adams and Chuck McKeldin Jr. after Emily Schriefer's death",
     "Served in WWI as communication/wireline specialist",
     "Household on Nicklas Avenue, Baltimore raised Barbara and Chuck after Emily's 1950 death and Ethel's 1952 death",
-    "Died early Feb 1959, Baltimore, MD"
+    "Died early Feb 1959, Baltimore, MD",
+    "Married Marie Ellinghaus (m. 25 May 1925)"
    ],
    "education": [],
    "career": [],
@@ -36018,7 +36405,8 @@
     "adams_direct_line_json_v1",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
     "Ancestry.com, 1910 United States Federal Census",
-    "Find a Grave, memorial 222563596"
+    "Find a Grave, memorial 222563596",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
     "Barbara identifies him as her great uncle and the youngest sibling of her grandmother, Ethel.",
@@ -36028,26 +36416,29 @@
     "Ethel's youngest brother per this source — adds new detail (youngest).",
     "Confirmed as Ethel Quinn Schriefer's youngest brother per this source. Children: Peggy, Joan, John, Pat.",
     "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus.",
-    "CORRECTION: 1898–1956 per Find a Grave (aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel's sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling."
+    "CORRECTION: born 6 May 1898 at Fallston, Harford County, and died Feb 1956 in Baltimore (Quinn Family Tree on Ancestry, citing the Social Security Death Index; Find a Grave 1898–1956; aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel's sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling.",
+    "Married Marie Ellinghaus on 25 May 1925 at St Ann's Church, Baltimore (Quinn Family Tree on Ancestry). Children: Margaret Frances \"Peggy\" (1927), Catherine Joan (1930), John Joseph Jr. (1934) and Patricia Marie \"Pat\" (1940)."
    ]
   },
   {
    "id": "quinn_john_jr",
-   "name": "John Quinn Jr.",
-   "aliases": [],
+   "name": "John Joseph Quinn Jr.",
+   "aliases": [
+    "John Quinn Jr."
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "6 May 1934",
+    "year": 1934,
     "qualifier": null
    },
    "death": {
-    "text": "before 2021",
-    "year": 2021,
-    "qualifier": "before"
+    "text": "14 May 2013",
+    "year": 2013,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -36076,7 +36467,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "Forest Hill, Harford County, Maryland"
    ],
    "personality": [],
    "roles": [],
@@ -36091,34 +36483,176 @@
    "sources": [
     "adams_direct_line_json_v1",
     "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Ancestry.com, U.S., Obituary Collection (John Joseph Quinn Jr., Columbia, Maryland, 22 May 2013)",
+    "Find a Grave, memorial 208190620"
    ],
    "notes": [
     "Barbara identifies John Quinn as Marie Ellinghaus-Quinn's husband.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14. Disambiguated from father quinn_john_joseph.",
-    "Promoted from unresolved (john_quinn.json)."
+    "Promoted from unresolved (john_quinn.json).",
+    "Born 6 May 1934; died 14 May 2013 at Forest Hill, Harford County (Quinn Family Tree on Ancestry; Find a Grave 1934–2013). His obituary appeared in Columbia, Maryland, on 22 May 2013."
    ]
   },
   {
-   "id": "quinn_marie_ellinghaus",
-   "name": "Marie Ellinghaus (Quinn)",
+   "id": "quinn_margaret_agatha",
+   "name": "Margaret Agatha Quinn (Osborne)",
    "aliases": [
-    "Marie Ellinghaus Quinn"
+    "Margaret M. Osborne"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "abt 1901",
-    "year": 1901,
-    "qualifier": "about"
+    "text": "15 Aug 1905",
+    "year": 1905,
+    "qualifier": null
    },
    "death": {
-    "text": "12 Feb (about 1997)",
-    "year": 1997,
-    "qualifier": "about"
+    "text": "10 Jul 1946",
+    "year": 1946,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer"
+   ],
+   "families": [],
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Fallston, Harford County, Maryland",
+    "Philadelphia, Pennsylvania"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry.",
+    "Margaret A., aged 4, in the 1910 census; Find a Grave calls her Margaret M. Quinn Osborne (1905–1946). The tree gives her death as 10 Jul 1946 in Philadelphia."
+   ]
+  },
+  {
+   "id": "quinn_mariam_ellen",
+   "name": "Mariam Ellen Quinn",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "Jan 1894",
+    "year": 1894,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
+   ],
+   "families": [],
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Fallston, Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry."
+   ]
+  },
+  {
+   "id": "quinn_marie_ellinghaus",
+   "name": "Marie Elizabeth Ellinghaus (Quinn)",
+   "aliases": [
+    "Marie Ellinghaus Quinn",
+    "Marie Ellinghaus (Quinn)",
+    "Marie Quinn"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1904",
+    "year": 1904,
+    "qualifier": null
+   },
+   "death": {
+    "text": "12 Feb 2001",
+    "year": 2001,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -36189,7 +36723,8 @@
    "milestones": [
     "Married John Joseph Quinn",
     "Served as the functional Grandmother to Barbara McKeldin Adams",
-    "Died 12 Feb (about 1997)"
+    "Died 12 Feb (about 1997)",
+    "Married John Joseph Quinn (m. 25 May 1925)"
    ],
    "education": [
     "Self-taught — typing, shorthand, stenography after leaving school in 7th grade"
@@ -36202,7 +36737,9 @@
     "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
     "adams_direct_line_json_v1",
     "mckeldin_research_v1",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Find a Grave, memorial 254763745"
    ],
    "notes": [
     "Barbara says Marie knew current and historical information about movie stars, presidents, TV actors, popular songs, and politicians.",
@@ -36218,26 +36755,30 @@
     "CORRECTION: Prior record attributed typing/shorthand + Olin Mathieson career to Ethel Quinn Schriefer. Memoir p. 58 reveals this describes MARIE Ellinghaus-Quinn, not Ethel. Correction applied.",
     "Maiden name: Ellinghaus. Married John Joseph Quinn.",
     "Motto: 'Don't air out your family laundry in public, battle for your kids and grandkids, be a lifelong learner and do not be afraid of life. Celebrate the good times and roll up your sleeves with the bad times.'",
-    "CORRECTION 2026-09-23: Death refined from \"abt 1997\" to \"12 Feb (about 1997)\" [Barbara McKeldin Adams, A Memoir, text line 1057]."
+    "CORRECTION 2026-09-23: Death refined from \"abt 1997\" to \"12 Feb (about 1997)\" [Barbara McKeldin Adams, A Memoir, text line 1057].",
+    "CORRECTION: born 1904 and died 12 Feb 2001 in Baltimore (Find a Grave; Quinn Family Tree on Ancestry). Aged 96, matching the family's memory that she lived 96 years; the earlier \"abt 1901\" and \"about 1997\" were estimates."
    ]
   },
   {
    "id": "quinn_pat",
-   "name": "Pat Quinn",
-   "aliases": [],
+   "name": "Patricia Marie Quinn (Revty)",
+   "aliases": [
+    "Pat Quinn",
+    "Patricia Revty"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "28 Sep 1940",
+    "year": 1940,
     "qualifier": null
    },
    "death": {
-    "text": "before 2021",
-    "year": 2021,
-    "qualifier": "before"
+    "text": "21 Nov 2009",
+    "year": 2009,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -36253,20 +36794,25 @@
     "quinn_john_joseph",
     "quinn_marie_ellinghaus"
    ],
-   "spouses": [],
+   "spouses": [
+    "revty_walter_g"
+   ],
    "children": [],
    "siblings": [
     "margaret_peggy_mckeldin",
     "quinn_joan",
     "quinn_john_jr"
    ],
-   "families": [],
+   "families": [
+    "F_quinn_pat+revty_walter_g"
+   ],
    "parent_family": "F_quinn_john_joseph+quinn_marie_ellinghaus",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "Baltimore, Maryland"
    ],
    "personality": [],
    "roles": [],
@@ -36276,7 +36822,8 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Died before 2021"
+    "Died before 2021",
+    "Married Walter G. Revty"
    ],
    "education": [],
    "career": [],
@@ -36284,14 +36831,84 @@
     "adams_direct_line_json_v1",
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
     "Barbara identifies Pat as one of John Joseph Quinn’s teenage children.",
     "Pat Quinn. Sibling of Peggy Quinn McKeldin, teenager in 1952.",
     "Pat Quinn, teenager in ~1952. Child of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "Pat Quinn, a teenager in about 1952; daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Barbara calls her \"Aunt Pat\".",
-    "Promoted from unresolved (pat.json)."
+    "Promoted from unresolved (pat.json).",
+    "Born 28 Sep 1940 in Baltimore; died 21 Nov 2009 in Baltimore (Quinn Family Tree on Ancestry). Her husband Walter G. Revty (1938–2006) died 19 Dec 2006."
+   ]
+  },
+  {
+   "id": "quinn_sarah_catherine",
+   "name": "Sarah Catherine “Sally” Quinn (Brady)",
+   "aliases": [
+    "Sally Brady"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "22 Jun 1890",
+    "year": 1890,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1959",
+    "year": 1959,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": false,
+   "lineages": [
+    "quinn"
+   ],
+   "adopted": false,
+   "father": "quinn_bernard",
+   "mother": "lynn_emily_mariam",
+   "parents": [
+    "lynn_emily_mariam",
+    "quinn_bernard"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
+   ],
+   "families": [],
+   "parent_family": "F_lynn_emily_mariam+quinn_bernard",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Fallston, Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry."
    ]
   },
   {
@@ -36571,6 +37188,63 @@
    "notes": [
     "DNA match #18 on Schriefer branch.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "revty_walter_g",
+   "name": "Walter G. Revty",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1938",
+    "year": 1938,
+    "qualifier": null
+   },
+   "death": {
+    "text": "19 Dec 2006",
+    "year": 2006,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "quinn",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "quinn_pat"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_quinn_pat+revty_walter_g"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Patricia Marie Quinn"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Husband of Patricia Marie \"Pat\" Quinn; died 19 Dec 2006 in Baltimore (Quinn Family Tree on Ancestry)."
    ]
   },
   {
@@ -38240,8 +38914,8 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Ethel E. Quinn (m. abt 1920)",
-    "Buried at New Cathedral Cemetery, Baltimore, 12 May 1951"
+    "Buried at New Cathedral Cemetery, Baltimore, 12 May 1951",
+    "Married Ethel Elizabeth Quinn (m. 12 Jul 1920)"
    ],
    "education": [
     "Completed sixth grade (1940 census)."
@@ -38257,7 +38931,8 @@
     "Ancestry.com, 1930 United States Federal Census",
     "Ancestry.com, 1940 United States Federal Census",
     "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
-    "Find a Grave, memorial 222563508"
+    "Find a Grave, memorial 222563508",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
     "Barbara identifies him as her maternal grandfather.",
@@ -38265,8 +38940,8 @@
     "Nickname: Goode. Also described as biological maternal grandfather of Barbara McKeldin Adams and Chuck McKeldin Jr.",
     "Emily's father. Nickname: Goode.",
     "CORRECTION: died 9 May 1951 in Baltimore, in his 52nd year, per his death notice (Evening Sun, 10 May 1951) and Find a Grave; 12 May 1951 was his burial at New Cathedral Cemetery. Born 1 Jun 1899 in Baltimore.",
-    "Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel E. Quinn about 1920 (he was 20 at his first marriage, per the 1930 census).",
-    "In 1930 his mother-in-law Emily Cook and her husband Earnest Cook lived with the family on Barclay Street."
+    "In 1930 his mother-in-law Emily Cook and her husband Earnest Cook lived with the family on Barclay Street.",
+    "Son of Bartholomew Schriefer and Margaret (Denzlein), both born in Germany; in the 1900 census he is George S., aged 11 months, at 2531 E. Oliver Street. He married Ethel Elizabeth Quinn on 12 Jul 1920 in Baltimore (Quinn Family Tree on Ancestry; he was 20 at his first marriage, per the 1930 census)."
    ]
   },
   {
@@ -38405,17 +39080,17 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "abt 1923",
+    "text": "7 Jul 1923",
     "year": 1923,
-    "qualifier": "about"
+    "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "2005",
+    "year": 2005,
     "qualifier": null
    },
    "living": false,
-   "living_status": "assumed",
+   "living_status": null,
    "branch": "schriefer",
    "branch_by_marriage": false,
    "lineages": [
@@ -38453,11 +39128,13 @@
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
     "Ancestry.com, 1930 United States Federal Census",
     "Ancestry.com, 1940 United States Federal Census",
-    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)"
+    "Ancestry.com, U.S., Newspapers.com Obituary Index (Baltimore Sun and Evening Sun death notices)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
    ],
    "notes": [
     "Son of George \"Goode\" and Ethel (Quinn) Schriefer; brother of Emily Schriefer McKeldin, shown with her and their mother in a family photo. [Barbara McKeldin Adams, A Memoir, text line 284]",
-    "Kenneth J., aged 7 in the 1930 census and 16 in 1940; named Kenneth Joseph in his parents' death notices."
+    "Kenneth J., aged 7 in the 1930 census and 16 in 1940; named Kenneth Joseph in his parents' death notices.",
+    "The Quinn Family Tree on Ancestry gives him as Joseph Kenneth Schriefer, born 7 Jul 1923 in Baltimore, died 2005."
    ]
   },
   {
@@ -42823,8 +43500,10 @@
   },
   {
    "id": "stang_bern",
-   "name": "Bern Stang",
-   "aliases": [],
+   "name": "Bernard J. Stang",
+   "aliases": [
+    "Bern Stang"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -42868,12 +43547,15 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Catherine Joan Quinn (m. abt 1952)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams (personal knowledge), 2026",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Baltimore Sun, 6 Jan 1952)"
    ],
    "notes": [
     "Husband of Aunt Joan Quinn, and father of Mark Stang (per Brendan Adams). He turned 90 in 2021 and was then the last living member of Barbara’s parents’ generation; she texted him several times a year. [Barbara McKeldin Adams, A Memoir, text line 3324]"
@@ -48733,7 +49415,7 @@
     "schriefer_kenneth",
     "schriefer_george_jr"
    ],
-   "marriage": "abt 1920"
+   "marriage": "12 Jul 1920"
   },
   {
    "id": "F_falde_mary+falde_roger",
@@ -49471,10 +50153,16 @@
     "quinn_bernard"
    ],
    "children": [
+    "quinn_sarah_catherine",
+    "quinn_charlotte_ann",
+    "quinn_mariam_ellen",
+    "quinn_agnes_emily",
+    "quinn_james_1897",
     "quinn_john_joseph",
-    "ethel_quinn_schriefer"
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
    ],
-   "marriage": null
+   "marriage": "6 Aug 1889"
   },
   {
    "id": "F_mann_f_iona+mann_rolla_w",
@@ -49584,6 +50272,17 @@
     "olson_tommy"
    ],
    "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_mooney_sarah+quin_james_mcgeer",
+   "partners": [
+    "mooney_sarah",
+    "quin_james_mcgeer"
+   ],
+   "children": [
+    "quinn_bernard"
+   ],
    "marriage": null
   },
   {
@@ -49732,7 +50431,7 @@
    "children": [
     "stang_mark"
    ],
-   "marriage": null
+   "marriage": "abt 1952"
   },
   {
    "id": "F_quinn_john_joseph+quinn_marie_ellinghaus",
@@ -49746,6 +50445,15 @@
     "quinn_john_jr",
     "quinn_pat"
    ],
+   "marriage": "25 May 1925"
+  },
+  {
+   "id": "F_quinn_pat+revty_walter_g",
+   "partners": [
+    "quinn_pat",
+    "revty_walter_g"
+   ],
+   "children": [],
    "marriage": null
   },
   {

@@ -1,0 +1,36 @@
+{
+  "id": "quin_james_mcgeer",
+  "name": "James McGeer Quin",
+  "sex": "M",
+  "birth": "1823",
+  "death": "6 Mar 1898",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "mooney_sarah",
+    "children": [
+      "quinn_bernard"
+    ]
+  },
+  "locations": [
+    "County Antrim, Ireland",
+    "Fallston, Harford County, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+  ],
+  "notes": [
+    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
+    "The tree gives his death as 6 Mar 1898 at Fallston, Harford County, and lists other children Ann Jane (1846–1912), Elizabeth Jane (1857–1903) and John Joseph (1858–1883)."
+  ],
+  "aliases": []
+}

@@ -1,8 +1,8 @@
 {
   "id": "quinn_john_jr",
-  "name": "John Quinn Jr.",
-  "birth": "",
-  "death": "before 2021",
+  "name": "John Joseph Quinn Jr.",
+  "birth": "6 May 1934",
+  "death": "14 May 2013",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -25,18 +25,26 @@
     "children": []
   },
   "locations": [
-    "Baltimore, MD"
+    "Baltimore, MD",
+    "Forest Hill, Harford County, Maryland"
   ],
   "sources": [
     "adams_direct_line_json_v1",
     "barbara_memoir_ch16_the_wisest_person_ive_ever_known",
-    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)"
+    "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Ancestry.com, U.S., Obituary Collection (John Joseph Quinn Jr., Columbia, Maryland, 22 May 2013)",
+    "Find a Grave, memorial 208190620"
   ],
   "notes": [
     "Barbara identifies John Quinn as Marie Ellinghaus-Quinn's husband.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn.",
     "John Quinn Jr., teenager in ~1952. Son of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14. Disambiguated from father quinn_john_joseph.",
-    "Promoted from unresolved (john_quinn.json)."
+    "Promoted from unresolved (john_quinn.json).",
+    "Born 6 May 1934; died 14 May 2013 at Forest Hill, Harford County (Quinn Family Tree on Ancestry; Find a Grave 1934–2013). His obituary appeared in Columbia, Maryland, on 22 May 2013."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": [
+    "John Quinn Jr."
+  ]
 }

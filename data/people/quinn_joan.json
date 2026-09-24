@@ -1,8 +1,8 @@
 {
   "id": "quinn_joan",
-  "name": "Joan Quinn (Stang)",
-  "birth": "",
-  "death": "before 2021",
+  "name": "Catherine Joan Quinn (Stang)",
+  "birth": "16 Dec 1930",
+  "death": "25 Jan 2018",
   "personality": [],
   "roles": [
     "telephone operator"
@@ -12,7 +12,8 @@
   "risk_events": [],
   "milestones": [
     "Died before 2021",
-    "Aunt Joan had a house in Ocean City, Maryland, where Barbara's family stayed on visits east when it was free."
+    "Aunt Joan had a house in Ocean City, Maryland, where Barbara's family stayed on visits east when it was free.",
+    "Married Bernard J. Stang (m. abt 1952)"
   ],
   "education": [],
   "career": [
@@ -33,14 +34,21 @@
   },
   "locations": [
     "Baltimore, MD",
-    "Ocean City, MD"
+    "Ocean City, MD",
+    "Baltimore, Maryland",
+    "Greensboro, North Carolina",
+    "Easton, Pennsylvania"
   ],
   "sources": [
     "adams_direct_line_json_v1",
     "adams_direct_line_summary_v1",
     "barbara_memoir_ch02_a_typical_birth_day",
     "Barbara McKeldin Adams, \"Barbara McKeldin Adams - A Memoir\" (privately printed)",
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Baltimore Sun, 6 Jan 1952)",
+    "Ancestry.com, U.S., Obituary Collection (John Joseph Quinn Jr., Columbia, Maryland, 22 May 2013)",
+    "Find a Grave, memorial 224415296"
   ],
   "notes": [
     "Barbara identifies Joan as one of John Joseph Quinn’s children.",
@@ -50,11 +58,17 @@
     "Joan Quinn, telephone operator. Daughter of John Joseph Quinn and Marie Ellinghaus Quinn. Confirmed via Barbara's memoir p.14.",
     "Promoted from unresolved (joan.json).",
     "Barbara mentions 'my aunt Joan Hogan', who went to college with Barbara's 5th-grade teacher Mrs. Cronin. This suggests Joan Quinn married a Hogan. [Barbara McKeldin Adams, A Memoir, text line 540]",
-    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her \"my aunt Joan Hogan\" in one passage, which may point to an earlier marriage. [Barbara McKeldin Adams, A Memoir, text line 540]"
+    "Born Catherine Joan Quinn on 16 Dec 1930 in Baltimore; died 25 Jan 2018 at Easton, Pennsylvania, aged 87 (Find a Grave; Quinn Family Tree on Ancestry). Find a Grave places her burial at Gethsemane Cemetery, Easton; the tree gives Hickory, Harford County.",
+    "Her marriage to Bernard J. Stang was announced in the Baltimore Sun on 6 Jan 1952, as Miss Catherine Joan Quinn, daughter of John Quinn. They lived in Greensboro, North Carolina, in 1960. The Quinn tree shows four children, all hidden as living; Mark Stang is one (per Brendan Adams). Her brother John Joseph Quinn Jr.'s 2013 obituary names her as Catherine Joan Stang.",
+    "Wife of Bern Stang and mother of Mark Stang (per Brendan Adams). Barbara calls her \"my aunt Joan Hogan\" in one passage, but Joan was still unmarried when her engagement to Bernard Stang was announced in 1952, so the name may belong to another aunt. [Barbara McKeldin Adams, A Memoir, text line 540]"
   ],
   "aliases": [
     "Joan Stang",
-    "Joan Hogan"
+    "Joan Hogan",
+    "Joan Quinn (Stang)",
+    "Joan Quinn",
+    "Joan Q. Stang",
+    "Catherine Joan Stang"
   ],
   "sex": "F"
 }

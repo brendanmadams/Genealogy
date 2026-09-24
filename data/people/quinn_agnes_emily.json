@@ -1,0 +1,33 @@
+{
+  "id": "quinn_agnes_emily",
+  "name": "Agnes Emily Quinn",
+  "sex": "F",
+  "birth": "Sep 1895",
+  "death": "after 1910",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "lynn_emily_mariam",
+    "father": "quinn_bernard",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Fallston, Harford County, Maryland"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+  ],
+  "notes": [
+    "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry.",
+    "Aged 14 in the 1910 census; the tree says she died after it."
+  ],
+  "aliases": []
+}
