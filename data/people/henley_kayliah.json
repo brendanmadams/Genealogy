@@ -1,6 +1,7 @@
 {
-  "id": "simons_ed",
-  "name": "Ed Simons",
+  "id": "henley_kayliah",
+  "name": "Kayliah Henley",
+  "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,22 +13,18 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "simons_mary",
-    "father": "simons_glen",
-    "siblings": [],
+    "mother": "henley_kayla",
+    "father": "henley_austin",
+    "siblings": [
+      "henley_elizabeth"
+    ],
     "spouse": "",
-    "children": [
-      "henley_kayla"
-    ]
+    "children": []
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22",
     "Sharon Simons, via Brendan Adams, 2026-09-24"
   ],
-  "notes": [
-    "Listed among the Simons family researchers in the Adams direct-line notes."
-  ],
-  "aliases": [],
-  "sex": "M"
+  "notes": [],
+  "aliases": []
 }
