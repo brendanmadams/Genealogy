@@ -6,6 +6,8 @@
  * the photographers' agreement (arranged by Brendan Adams). Adds items to
  * data/media.json; re-runnable. Then run scripts/prepare-media.ps1 and
  * scripts/build.js.
+ * Also the 1933 and 1936 Salem newspaper notices about the Childses, hosted
+ * at Brendan Adams's request.
  */
 'use strict';
 const fs = require('fs');
@@ -29,6 +31,22 @@ const items = [
     title: 'Niche marker of Thomas W. and Edith (Adams) Childs, Willamette National Cemetery',
     caption: '"Childs, Thomas W, Capt USA, WWII, 1908–1998" and "Edith Adams, 1912–2000", in the columbarium at Willamette National Cemetery, Portland, Oregon (Col-2, row 198, site C).',
     source: 'Photograph shared on Ancestry.com by PatSmithPetty, 6 Oct 2018; published with the photographer\'s permission.',
+    people: ['childs_thomas', 'adams_edith_v'],
+  },
+  {
+    id: 'clipping-1933-childs-adams-wedding', kind: 'document',
+    file: 'ancestry_childs_clip_wed.jpg',
+    title: '"Childs Marriage To Take Place Monday", Statesman Journal, Salem, 9 September 1933',
+    caption: 'Thomas W. Childs, son of Mr. and Mrs. C. D. Childs of Salem, is to marry Miss Edith Adams, daughter of Mr. and Mrs. A. T. Wells of Burlingame and niece of Mr. and Mrs. E. Hanzlick of Portland, at St. Paul's Episcopal Church, Burlingame; the couple will leave for Philadelphia, where he will study botany at the University of Pennsylvania.',
+    source: 'Statesman Journal, Salem, Oregon, 9 Sep 1933, p. 5 (Newspapers.com clipping shared on Ancestry.com by PatSmithPetty, 6 Oct 2018).',
+    people: ['childs_thomas', 'adams_edith_v', 'wells_arthur', 'trumbo_serena_marie'],
+  },
+  {
+    id: 'clipping-1936-childs-arrive', kind: 'document',
+    file: 'ancestry_childs_clip_arrive.jpg',
+    title: '"Arrive From Eastern Seaboard", Daily Capital Journal, Salem, 23 June 1936',
+    caption: 'Dr. and Mrs. Thomas W. Childs have arrived from Philadelphia, after his three years of graduate work at the University of Pennsylvania, and will live in Portland, where he will be assistant in the Forest Pathology office.',
+    source: 'Daily Capital Journal, Salem, Oregon, 23 Jun 1936, p. 5 (Newspapers.com clipping shared on Ancestry.com by PatSmithPetty, 6 Oct 2018).',
     people: ['childs_thomas', 'adams_edith_v'],
   },
 ];
