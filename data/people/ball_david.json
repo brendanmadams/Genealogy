@@ -1,37 +1,59 @@
 {
   "id": "ball_david",
-  "name": "David Ball",
+  "name": "David Tate Ball",
   "sex": "M",
-  "birth": "abt 1812",
-  "death": "",
+  "birth": "25 Dec 1813",
+  "death": "18 Mar 1886",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Draden “Drady” Davis (m. 21 Dec 1833, Roane County, Tennessee)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "tate_nancy",
+    "father": "ball_william_1784",
     "siblings": [],
     "spouse": "ball_graden",
     "children": [
-      "ball_ellen_rogers"
+      "ball_ellen_rogers",
+      "ball_william_henry",
+      "ball_samuel_g",
+      "ball_sarah",
+      "ball_nancy_rebecca",
+      "ball_thomas_t",
+      "ball_george_w",
+      "ball_mary_ann",
+      "ball_martha_e",
+      "ball_margaret",
+      "ball_catharine"
     ]
   },
   "locations": [
     "McMinn County, Tennessee",
-    "Roane County, Tennessee"
+    "Roane County, Tennessee",
+    "Hawkins County, Tennessee",
+    "Meigs County, Tennessee"
   ],
   "sources": [
     "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
-    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920"
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920",
+    "Ancestry.com, Tennessee, U.S., Marriage Records, 1780-2002 (David Ball and Drary Davis, Roane County, 21 Dec 1833)",
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
   ],
   "notes": [
     "Father of Ellen Rogers (Ball) McPhail, as named on her 1934 Washington death record.",
-    "Inferred from the censuses: aged 48 in 1860 (District 2, McMinn County, Tennessee) and 55 in 1870 (District 8, Roane County), with his wife Graden and children Nancy (b. abt 1844), George (abt 1845), Mary Ann (abt 1848), Ellen (abt 1851), Margaret (abt 1854) and Catharine (abt 1857)."
+    "Married \"Drary Davis\" (Draden Catherine Davis) on 21 Dec 1833 in Roane County, Tennessee. The family is in the censuses at Subdivision 22, Meigs County, in 1850 (David 36, with Dorden 34 and eight children); District 2, McMinn County, in 1860; and District 8, Roane County, in 1870 and 1880 (with Drady C.). Eleven children are known: William Henry (1834), Samuel G. (1836), Sarah (abt 1837), Nancy Rebecca (1841), Thomas T. (1842), George W. (1844), Mary Ann (abt 1846), Martha E. (abt 1849), Ellen Rogers (1851), Margaret (abt 1854) and Catharine (abt 1857).",
+    "The Kulp-Ritchey-Dorsett tree gives his full name as David Tate Ball, born 25 Dec 1813 in Hawkins County, Tennessee (the censuses put his birth in 1812–1814), and his death as 18 Mar 1886 at Rogersville, Roane County. The middle name Tate, his mother's reputed surname, was given to Ellen's son John Tate McPhail.",
+    "UNPROVEN: the Kulp-Ritchey-Dorsett tree names his parents as William Ball (1784–1826, born at Alexandria, Virginia, died in Hawkins County) and Nancy Tate (1788–1850), and their parents as Moses Ball and Mary Ann Hardin, and Edward Tate and Sarah McMullan. The tree cites only other member trees for this."
   ],
-  "aliases": []
+  "aliases": [
+    "David Ball"
+  ]
 }

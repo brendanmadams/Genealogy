@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T18:58:05.626Z",
-  "people": 893,
-  "family_members": 844,
+  "generated": "2026-09-24T19:07:13.312Z",
+  "people": 907,
+  "family_members": 858,
   "dna_matches": 49,
-  "connected_people": 844,
-  "families": 303,
+  "connected_people": 858,
+  "families": 305,
   "branches": [
    "adams",
    "hamilton",
@@ -8556,19 +8556,16 @@
    "notes": []
   },
   {
-   "id": "ball_david",
-   "name": "David Ball",
+   "id": "ball_catharine",
+   "name": "Catharine Ball",
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "sex": "M",
-   "media": [
-    "census-1860-mcminn-ball",
-    "census-1870-roane-ball"
-   ],
+   "sex": "F",
+   "media": [],
    "birth": {
-    "text": "abt 1812",
-    "year": 1812,
+    "text": "abt 1857",
+    "year": 1857,
     "qualifier": "about"
    },
    "death": {
@@ -8582,27 +8579,32 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "spouses": [
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
     "ball_graden"
    ],
-   "children": [
-    "ball_ellen_rogers"
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret"
    ],
-   "siblings": [],
-   "families": [
-    "F_ball_david+ball_graden"
-   ],
-   "parent_family": null,
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [
-    "McMinn County, Tennessee",
-    "Roane County, Tennessee"
-   ],
+   "locations": [],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -8612,12 +8614,102 @@
    "education": [],
    "career": [],
    "sources": [
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. In the household in 1860 and 1870. The tree calls her Dradie Catherine Ball and gives her death as 7 May 1917 in Mobile County, Alabama. Lead: a Tennessee death record names a Drady Katherine Ball as the wife of Joseph L. Fox and mother of George Browder Fox."
+   ]
+  },
+  {
+   "id": "ball_david",
+   "name": "David Tate Ball",
+   "aliases": [
+    "David Ball"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [
+    "census-1860-mcminn-ball",
+    "census-1870-roane-ball"
+   ],
+   "birth": {
+    "text": "25 Dec 1813",
+    "year": 1813,
+    "qualifier": null
+   },
+   "death": {
+    "text": "18 Mar 1886",
+    "year": 1886,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "spouses": [
+    "ball_graden"
+   ],
+   "children": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_david+ball_graden"
+   ],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "McMinn County, Tennessee",
+    "Roane County, Tennessee",
+    "Hawkins County, Tennessee",
+    "Meigs County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Draden “Drady” Davis (m. 21 Dec 1833, Roane County, Tennessee)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
     "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
-    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920"
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920",
+    "Ancestry.com, Tennessee, U.S., Marriage Records, 1780-2002 (David Ball and Drary Davis, Roane County, 21 Dec 1833)",
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
     "Father of Ellen Rogers (Ball) McPhail, as named on her 1934 Washington death record.",
-    "Inferred from the censuses: aged 48 in 1860 (District 2, McMinn County, Tennessee) and 55 in 1870 (District 8, Roane County), with his wife Graden and children Nancy (b. abt 1844), George (abt 1845), Mary Ann (abt 1848), Ellen (abt 1851), Margaret (abt 1854) and Catharine (abt 1857)."
+    "Married \"Drary Davis\" (Draden Catherine Davis) on 21 Dec 1833 in Roane County, Tennessee. The family is in the censuses at Subdivision 22, Meigs County, in 1850 (David 36, with Dorden 34 and eight children); District 2, McMinn County, in 1860; and District 8, Roane County, in 1870 and 1880 (with Drady C.). Eleven children are known: William Henry (1834), Samuel G. (1836), Sarah (abt 1837), Nancy Rebecca (1841), Thomas T. (1842), George W. (1844), Mary Ann (abt 1846), Martha E. (abt 1849), Ellen Rogers (1851), Margaret (abt 1854) and Catharine (abt 1857).",
+    "The Kulp-Ritchey-Dorsett tree gives his full name as David Tate Ball, born 25 Dec 1813 in Hawkins County, Tennessee (the censuses put his birth in 1812–1814), and his death as 18 Mar 1886 at Rogersville, Roane County. The middle name Tate, his mother's reputed surname, was given to Ellen's son John Tate McPhail.",
+    "UNPROVEN: the Kulp-Ritchey-Dorsett tree names his parents as William Ball (1784–1826, born at Alexandria, Virginia, died in Hawkins County) and Nancy Tate (1788–1850), and their parents as Moses Ball and Mary Ann Hardin, and Edward Tate and Sarah McMullan. The tree cites only other member trees for this."
    ]
   },
   {
@@ -8672,7 +8764,18 @@
     "mcphail_john_tate",
     "mcphail_draden"
    ],
-   "siblings": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_margaret",
+    "ball_catharine"
+   ],
    "families": [
     "F_ball_ellen_rogers+mcphail_john_belle"
    ],
@@ -8704,36 +8807,35 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920",
     "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
-    "Find a Grave, memorial 6749131 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 6749131 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Ancestry.com, Tennessee, U.S., Marriage Records, 1780-2002 (David Ball and Drary Davis, Roane County, 21 Dec 1833)",
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
    ],
    "notes": [
     "Aged 59 in the 1910 census, Delta Township, Whatcom County. [Family research emails, email 48, 50]",
     "Born 2 Nov 1851 at Nashville, Tennessee; died 21 Oct 1934 at Blaine, Whatcom County, aged 82. Her Washington death record names her father as David Ball; her mother's name is left blank. Find a Grave gives the death date as 31 Oct 1934; the death record's 21 Oct is used here.",
     "Married John Belle McPhail in 1873 (1900 census: married 27 years). By 1900 she had borne five children, all living. The family lived at Meridian, Whatcom County, in 1900 and at Delta in 1910 and 1920, when their grandson John M. McPhail, 9, lived with them.",
-    "Inferred: she is the Ellen Ball, aged 9, in the household of David Ball (48) and Graden Ball (46) in District 2, McMinn County, Tennessee, in 1860, and aged 18 with David and \"Grodon\" Ball in Roane County in 1870. McMinn County was also John Belle McPhail's birthplace, and the name Graden matches the Draden/Dradie names in her family."
+    "Inferred: she is the Ellen Ball, aged 9, in the household of David Ball (48) and Graden Ball (46) in District 2, McMinn County, Tennessee, in 1860, and aged 18 with David and \"Grodon\" Ball in Roane County in 1870. McMinn County was also John Belle McPhail's birthplace, and the name Graden matches the Draden/Dradie names in her family.",
+    "Her mother was Draden (Drady) Catherine Davis, who married David Ball in Roane County on 21 Dec 1833. Her middle name, Rogers, would come from her maternal grandmother, whom the Kulp-Ritchey-Dorsett tree names as Rebecca Rogers (UNPROVEN)."
    ]
   },
   {
-   "id": "ball_graden",
-   "name": "Graden Ball",
-   "aliases": [
-    "Grodon Ball"
-   ],
+   "id": "ball_george_w",
+   "name": "George W. Ball",
+   "aliases": [],
    "photo": null,
    "card_name": null,
-   "sex": "F",
-   "media": [
-    "census-1860-mcminn-ball",
-    "census-1870-roane-ball"
-   ],
+   "sex": "M",
+   "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "Oct 1844",
+    "year": 1844,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1908",
+    "year": 1908,
     "qualifier": null
    },
    "living": false,
@@ -8742,20 +8844,28 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "spouses": [
-    "ball_david"
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
    ],
-   "children": [
-    "ball_ellen_rogers"
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
    ],
-   "siblings": [],
-   "families": [
-    "F_ball_david+ball_graden"
-   ],
-   "parent_family": null,
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -8769,10 +8879,704 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920"
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1900 United States Federal Census (Civil District 2, McMinn County, Tennessee)",
+    "Ancestry.com, Tennessee, U.S., Wills and Probate Records, 1779-2008 (George W. Ball, 1908)"
    ],
    "notes": [
-    "Inferred mother of Ellen Rogers (Ball) McPhail: wife of David Ball in the 1860 (aged 46) and 1870 (\"Grodon\", aged 42) censuses of McMinn and Roane counties, Tennessee. Her birth surname is not recorded. The name appears to be the source of the Draden/Dradie names among her descendants."
+    "Child of David Tate Ball and Draden (Davis) Ball; a brother of Ellen Rogers (Ball) McPhail. Born Oct 1844; aged 6 in 1850 and 15 in 1860. He lived with his mother and sister Nancy in McMinn County in 1900 and died in 1908 (Tennessee probate record); the tree gives 26 Mar 1908."
+   ]
+  },
+  {
+   "id": "ball_graden",
+   "name": "Draden Catherine “Drady” Davis (Ball)",
+   "aliases": [
+    "Grodon Ball",
+    "Graden Ball",
+    "Dorden Ball",
+    "Drady C. Ball",
+    "Drary Davis",
+    "Dradie Catherine Davis"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [
+    "census-1860-mcminn-ball",
+    "census-1870-roane-ball"
+   ],
+   "birth": {
+    "text": "Jan 1816",
+    "year": 1816,
+    "qualifier": null
+   },
+   "death": {
+    "text": "12 Mar 1908",
+    "year": 1908,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "davis_samuel_g",
+   "mother": "rogers_rebecca",
+   "parents": [
+    "davis_samuel_g",
+    "rogers_rebecca"
+   ],
+   "spouses": [
+    "ball_david"
+   ],
+   "children": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_david+ball_graden"
+   ],
+   "parent_family": "F_davis_samuel_g+rogers_rebecca",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Meigs County, Tennessee",
+    "McMinn County, Tennessee",
+    "Roane County, Tennessee",
+    "Athens, McMinn County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married David Tate Ball (m. 21 Dec 1833, Roane County, Tennessee)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920",
+    "Ancestry.com, Tennessee, U.S., Marriage Records, 1780-2002 (David Ball and Drary Davis, Roane County, 21 Dec 1833)",
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1900 United States Federal Census (Civil District 2, McMinn County, Tennessee)",
+    "Ancestry.com, Tennessee, U.S., Death Records, 1908-1965 (Thomas T. Ball, McMinn County, 1924, certificate 195)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "CORRECTION 2026-09-24: Her name was Draden (Drady) Catherine, born Davis, not \"Graden\" (a misreading in the 1860 census index). She married David Ball as \"Drary Davis\" on 21 Dec 1833 in Roane County, Tennessee, and her son Thomas T. Ball's 1924 death certificate gives his mother's maiden name as Davis. She appears as Dorden (34) in 1850, Graden (46) in 1860, \"Grodon\" in 1870, Drady C. in 1880, and Drady Ball, born Jan 1816, in 1900, living in McMinn County with her children Nancy R. and George W. She is the source of the Draden/Dradie names among Ellen's descendants.",
+    "The Kulp-Ritchey-Dorsett tree gives her birth as 18 Jan 1816 and her death as 12 Mar 1908 at Athens, McMinn County, aged 92.",
+    "UNPROVEN: the Kulp-Ritchey-Dorsett tree names her parents as Samuel G. Davis (1778–1848, born in Virginia, died in McMinn or Meigs County) and Rebecca Rogers (\"Rebecca Ball Rogers\", 1785–1830). Ellen's middle name, Rogers, would come from this grandmother. The tree cites only other member trees; no will or probate for Samuel G. Davis has been found."
+   ]
+  },
+  {
+   "id": "ball_margaret",
+   "name": "Margaret Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1854",
+    "year": 1854,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. In the household in 1860 and 1870. The tree calls her Margaret S. Harriet Ball, born 1854 in Meigs County, died about 1905 in McMinn County."
+   ]
+  },
+  {
+   "id": "ball_martha_e",
+   "name": "Martha E. Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1849",
+    "year": 1849,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Aged 1 in 1850; not in the 1860 household. The tree gives her death as 1858."
+   ]
+  },
+  {
+   "id": "ball_mary_ann",
+   "name": "Mary Ann Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1846",
+    "year": 1846,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Aged 4 in 1850 and in the household in 1860 and 1870 (Mary A.)."
+   ]
+  },
+  {
+   "id": "ball_nancy_rebecca",
+   "name": "Nancy Rebecca Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "Mar 1841",
+    "year": 1841,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1900 United States Federal Census (Civil District 2, McMinn County, Tennessee)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Born Mar 1841; aged 10 in 1850. Unmarried, she lived with her parents in 1860–1880 and with her mother and brother George in McMinn County in 1900. The tree gives her death as after 1910."
+   ]
+  },
+  {
+   "id": "ball_samuel_g",
+   "name": "Samuel G. Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "11 Aug 1836",
+    "year": 1836,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2 Dec 1935",
+    "year": 1935,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Find a Grave, memorial for Samuel G. Ball (Bluff Springs Cemetery, Kingsville, Missouri)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a brother of Ellen Rogers (Ball) McPhail. Born 11 Aug 1836 at Decatur, Meigs County, Tennessee; aged 15 in 1850. Lived in Johnson County, Missouri (1910, 1930); died 2 Dec 1935 at Higginsville, Missouri, aged 99, and buried at Bluff Springs Cemetery, Kingsville. His wife was Rachel J.; a daughter was Martha E. Denney."
+   ]
+  },
+  {
+   "id": "ball_sarah",
+   "name": "Sarah Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1837",
+    "year": 1837,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Aged 13 in 1850. The Kulp-Ritchey-Dorsett tree calls her Sarah Jane and gives her death as 1880."
+   ]
+  },
+  {
+   "id": "ball_thomas_t",
+   "name": "Thomas T. Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "18 Nov 1842",
+    "year": 1842,
+    "qualifier": null
+   },
+   "death": {
+    "text": "22 Aug 1924",
+    "year": 1924,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, Tennessee, U.S., Death Records, 1908-1965 (Thomas T. Ball, McMinn County, 1924, certificate 195)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a brother of Ellen Rogers (Ball) McPhail. Born 18 Nov 1842 in Tennessee; aged 8 in 1850; in District 7, Meigs County, in 1880 and McMinn County in 1910. Died 22 Aug 1924 in McMinn County, widowed, and buried at Mt. Zion. His death certificate (no. 195) names his parents as Ball and Davis. The tree calls him Thomas Terrell (or Tate) Ball."
+   ]
+  },
+  {
+   "id": "ball_william_1784",
+   "name": "William Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1784",
+    "year": 1784,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1826",
+    "year": 1826,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "tate_nancy"
+   ],
+   "children": [
+    "ball_david"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_william_1784+tate_nancy"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Alexandria, Virginia",
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1784 at Alexandria, Virginia; died 1826 in Hawkins County, Tennessee; son of Moses Ball and Mary Ann Hardin. Father of David Tate Ball."
+   ]
+  },
+  {
+   "id": "ball_william_henry",
+   "name": "William Henry Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "20 Oct 1834",
+    "year": 1834,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Dec 1906",
+    "year": 1906,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_david",
+   "mother": "ball_graden",
+   "parents": [
+    "ball_david",
+    "ball_graden"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
+   ],
+   "families": [],
+   "parent_family": "F_ball_david+ball_graden",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Find a Grave, memorial for William H. Ball (Rose Hill Cemetery, Wapanucka, Oklahoma)"
+   ],
+   "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a brother of Ellen Rogers (Ball) McPhail. Born 20 Oct 1834 in Meigs County, Tennessee; aged 17 in 1850. Died 5 Dec 1906 at Wapanucka, Johnston County, Oklahoma, and buried at Rose Hill Cemetery there; his wife was Ann, and Find a Grave links sons Thomas Jefferson, Edward John, Landon Ceirn Haynes and John D. Ball."
    ]
   },
   {
@@ -14948,6 +15752,66 @@
    ],
    "notes": [
     "First wife of George W. Adams. The marriage record reads Jennie S. Davis and the license image Carrie A. Davis, so her first name is uncertain."
+   ]
+  },
+  {
+   "id": "davis_samuel_g",
+   "name": "Samuel G. Davis",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1778",
+    "year": 1778,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1848",
+    "year": 1848,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "rogers_rebecca"
+   ],
+   "children": [
+    "ball_graden"
+   ],
+   "siblings": [],
+   "families": [
+    "F_davis_samuel_g+rogers_rebecca"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia",
+    "McMinn County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1778 in Virginia; died 1848 in McMinn (or Meigs) County, Tennessee. Father of Draden Catherine (Davis) Ball."
    ]
   },
   {
@@ -46345,6 +47209,68 @@
    ]
   },
   {
+   "id": "rogers_rebecca",
+   "name": "Rebecca Rogers (Davis)",
+   "aliases": [
+    "Rebecca Ball Rogers"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1785",
+    "year": 1785,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1830",
+    "year": 1830,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "davis_samuel_g"
+   ],
+   "children": [
+    "ball_graden"
+   ],
+   "siblings": [],
+   "families": [
+    "F_davis_samuel_g+rogers_rebecca"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia",
+    "McMinn County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Named in the tree as \"Rebecca Ball Rogers\", born 1785 in Virginia, died 1830 in McMinn County. Mother of Draden Catherine (Davis) Ball; Ellen Rogers Ball's middle name would come from her."
+   ]
+  },
+  {
    "id": "rogers_roger",
    "name": "Roger Paul Rogers",
    "aliases": [],
@@ -57858,6 +58784,65 @@
    ]
   },
   {
+   "id": "tate_nancy",
+   "name": "Nancy Tate (Ball)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1788",
+    "year": 1788,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1850",
+    "year": 1850,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "ball_william_1784"
+   ],
+   "children": [
+    "ball_david"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_william_1784+tate_nancy"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+   ],
+   "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1788 and died 1850 in Hawkins County, Tennessee; daughter of Edward Tate and Sarah McMullan. Mother of David Tate Ball."
+   ]
+  },
+  {
    "id": "ted_adams",
    "name": "Ted Adams",
    "aliases": [],
@@ -63976,9 +64961,19 @@
     "ball_graden"
    ],
    "children": [
-    "ball_ellen_rogers"
+    "ball_william_henry",
+    "ball_samuel_g",
+    "ball_sarah",
+    "ball_nancy_rebecca",
+    "ball_thomas_t",
+    "ball_george_w",
+    "ball_mary_ann",
+    "ball_martha_e",
+    "ball_ellen_rogers",
+    "ball_margaret",
+    "ball_catharine"
    ],
-   "marriage": null
+   "marriage": "21 Dec 1833, Roane County, Tennessee"
   },
   {
    "id": "F_ball_ellen_rogers+mcphail_john_belle",
@@ -63994,6 +64989,17 @@
     "mcphail_draden"
    ],
    "marriage": "1873"
+  },
+  {
+   "id": "F_ball_william_1784+tate_nancy",
+   "partners": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "children": [
+    "ball_david"
+   ],
+   "marriage": null
   },
   {
    "id": "F_ballard_william_a+hamilton_anna_b",
@@ -64407,6 +65413,17 @@
     "geoffrey_louis_adams"
    ],
    "marriage": "17 Jun 1972"
+  },
+  {
+   "id": "F_davis_samuel_g+rogers_rebecca",
+   "partners": [
+    "davis_samuel_g",
+    "rogers_rebecca"
+   ],
+   "children": [
+    "ball_graden"
+   ],
+   "marriage": null
   },
   {
    "id": "F_dawson_evelyn+richardson_forrest",

@@ -1,0 +1,45 @@
+{
+  "id": "ball_nancy_rebecca",
+  "name": "Nancy Rebecca Ball",
+  "sex": "F",
+  "birth": "Mar 1841",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "ball_graden",
+    "father": "ball_david",
+    "siblings": [
+      "ball_ellen_rogers",
+      "ball_william_henry",
+      "ball_samuel_g",
+      "ball_sarah",
+      "ball_thomas_t",
+      "ball_george_w",
+      "ball_mary_ann",
+      "ball_martha_e",
+      "ball_margaret",
+      "ball_catharine"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1900 United States Federal Census (Civil District 2, McMinn County, Tennessee)"
+  ],
+  "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Born Mar 1841; aged 10 in 1850. Unmarried, she lived with her parents in 1860–1880 and with her mother and brother George in McMinn County in 1900. The tree gives her death as after 1910."
+  ],
+  "aliases": []
+}

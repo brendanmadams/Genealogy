@@ -1,34 +1,66 @@
 {
   "id": "ball_graden",
-  "name": "Graden Ball",
+  "name": "Draden Catherine “Drady” Davis (Ball)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "Jan 1816",
+  "death": "12 Mar 1908",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married David Tate Ball (m. 21 Dec 1833, Roane County, Tennessee)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "rogers_rebecca",
+    "father": "davis_samuel_g",
     "siblings": [],
     "spouse": "ball_david",
     "children": [
-      "ball_ellen_rogers"
+      "ball_ellen_rogers",
+      "ball_william_henry",
+      "ball_samuel_g",
+      "ball_sarah",
+      "ball_nancy_rebecca",
+      "ball_thomas_t",
+      "ball_george_w",
+      "ball_mary_ann",
+      "ball_martha_e",
+      "ball_margaret",
+      "ball_catharine"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Meigs County, Tennessee",
+    "McMinn County, Tennessee",
+    "Roane County, Tennessee",
+    "Athens, McMinn County, Tennessee"
+  ],
   "sources": [
-    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920"
+    "Ancestry.com, U.S. Federal Censuses 1860, 1870, 1900, 1910 and 1920",
+    "Ancestry.com, Tennessee, U.S., Marriage Records, 1780-2002 (David Ball and Drary Davis, Roane County, 21 Dec 1833)",
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, 1900 United States Federal Census (Civil District 2, McMinn County, Tennessee)",
+    "Ancestry.com, Tennessee, U.S., Death Records, 1908-1965 (Thomas T. Ball, McMinn County, 1924, certificate 195)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
   ],
   "notes": [
-    "Inferred mother of Ellen Rogers (Ball) McPhail: wife of David Ball in the 1860 (aged 46) and 1870 (\"Grodon\", aged 42) censuses of McMinn and Roane counties, Tennessee. Her birth surname is not recorded. The name appears to be the source of the Draden/Dradie names among her descendants."
+    "CORRECTION 2026-09-24: Her name was Draden (Drady) Catherine, born Davis, not \"Graden\" (a misreading in the 1860 census index). She married David Ball as \"Drary Davis\" on 21 Dec 1833 in Roane County, Tennessee, and her son Thomas T. Ball's 1924 death certificate gives his mother's maiden name as Davis. She appears as Dorden (34) in 1850, Graden (46) in 1860, \"Grodon\" in 1870, Drady C. in 1880, and Drady Ball, born Jan 1816, in 1900, living in McMinn County with her children Nancy R. and George W. She is the source of the Draden/Dradie names among Ellen's descendants.",
+    "The Kulp-Ritchey-Dorsett tree gives her birth as 18 Jan 1816 and her death as 12 Mar 1908 at Athens, McMinn County, aged 92.",
+    "UNPROVEN: the Kulp-Ritchey-Dorsett tree names her parents as Samuel G. Davis (1778–1848, born in Virginia, died in McMinn or Meigs County) and Rebecca Rogers (\"Rebecca Ball Rogers\", 1785–1830). Ellen's middle name, Rogers, would come from this grandmother. The tree cites only other member trees; no will or probate for Samuel G. Davis has been found."
   ],
   "aliases": [
-    "Grodon Ball"
+    "Grodon Ball",
+    "Graden Ball",
+    "Dorden Ball",
+    "Drady C. Ball",
+    "Drary Davis",
+    "Dradie Catherine Davis"
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "id": "rogers_rebecca",
+  "name": "Rebecca Rogers (Davis)",
+  "sex": "F",
+  "birth": "1785",
+  "death": "1830",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "davis_samuel_g",
+    "children": [
+      "ball_graden"
+    ]
+  },
+  "locations": [
+    "Virginia",
+    "McMinn County, Tennessee"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+  ],
+  "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Named in the tree as \"Rebecca Ball Rogers\", born 1785 in Virginia, died 1830 in McMinn County. Mother of Draden Catherine (Davis) Ball; Ellen Rogers Ball's middle name would come from her."
+  ],
+  "aliases": [
+    "Rebecca Ball Rogers"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ball_sarah",
+  "name": "Sarah Ball",
+  "sex": "F",
+  "birth": "abt 1837",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "ball_graden",
+    "father": "ball_david",
+    "siblings": [
+      "ball_ellen_rogers",
+      "ball_william_henry",
+      "ball_samuel_g",
+      "ball_nancy_rebecca",
+      "ball_thomas_t",
+      "ball_george_w",
+      "ball_mary_ann",
+      "ball_martha_e",
+      "ball_margaret",
+      "ball_catharine"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+  ],
+  "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Aged 13 in 1850. The Kulp-Ritchey-Dorsett tree calls her Sarah Jane and gives her death as 1880."
+  ],
+  "aliases": []
+}

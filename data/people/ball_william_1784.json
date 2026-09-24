@@ -1,0 +1,35 @@
+{
+  "id": "ball_william_1784",
+  "name": "William Ball",
+  "sex": "M",
+  "birth": "1784",
+  "death": "1826",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "tate_nancy",
+    "children": [
+      "ball_david"
+    ]
+  },
+  "locations": [
+    "Alexandria, Virginia",
+    "Hawkins County, Tennessee"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+  ],
+  "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1784 at Alexandria, Virginia; died 1826 in Hawkins County, Tennessee; son of Moses Ball and Mary Ann Hardin. Father of David Tate Ball."
+  ],
+  "aliases": []
+}

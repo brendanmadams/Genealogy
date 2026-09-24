@@ -1,0 +1,43 @@
+{
+  "id": "ball_margaret",
+  "name": "Margaret Ball",
+  "sex": "F",
+  "birth": "abt 1854",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "ball_graden",
+    "father": "ball_david",
+    "siblings": [
+      "ball_ellen_rogers",
+      "ball_william_henry",
+      "ball_samuel_g",
+      "ball_sarah",
+      "ball_nancy_rebecca",
+      "ball_thomas_t",
+      "ball_george_w",
+      "ball_mary_ann",
+      "ball_martha_e",
+      "ball_catharine"
+    ],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, 1860 United States Federal Census (District 2, McMinn County, Tennessee)",
+    "Ancestry.com, 1870 United States Federal Census (District 8, Roane County, Tennessee)",
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+  ],
+  "notes": [
+    "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. In the household in 1860 and 1870. The tree calls her Margaret S. Harriet Ball, born 1854 in Meigs County, died about 1905 in McMinn County."
+  ],
+  "aliases": []
+}

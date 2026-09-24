@@ -1,0 +1,34 @@
+{
+  "id": "tate_nancy",
+  "name": "Nancy Tate (Ball)",
+  "sex": "F",
+  "birth": "1788",
+  "death": "1850",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "ball_william_1784",
+    "children": [
+      "ball_david"
+    ]
+  },
+  "locations": [
+    "Hawkins County, Tennessee"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+  ],
+  "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1788 and died 1850 in Hawkins County, Tennessee; daughter of Edward Tate and Sarah McMullan. Mother of David Tate Ball."
+  ],
+  "aliases": []
+}

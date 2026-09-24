@@ -1,0 +1,35 @@
+{
+  "id": "davis_samuel_g",
+  "name": "Samuel G. Davis",
+  "sex": "M",
+  "birth": "1778",
+  "death": "1848",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "rogers_rebecca",
+    "children": [
+      "ball_graden"
+    ]
+  },
+  "locations": [
+    "Virginia",
+    "McMinn County, Tennessee"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+  ],
+  "notes": [
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1778 in Virginia; died 1848 in McMinn (or Meigs) County, Tennessee. Father of Draden Catherine (Davis) Ball."
+  ],
+  "aliases": []
+}
