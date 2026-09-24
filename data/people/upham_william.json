@@ -1,16 +1,20 @@
 {
   "id": "upham_william",
-  "name": "William “Bill” Upham",
-  "birth": "",
-  "death": "",
+  "name": "William Clifford “Bill” Upham",
+  "birth": "8 Jul 1919",
+  "death": "5 Oct 2016",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Elaine (Simons) Rinehart (m. 1991)"
+  ],
   "education": [],
-  "career": [],
+  "career": [
+    "Accountant at Consolidated Freightways for 46 years; U.S. Army, 106th Infantry Regiment, 27th Infantry Division, in the Pacific, 1942–1945."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
@@ -19,16 +23,20 @@
     "children": []
   },
   "locations": [
-    "Gladstone, Oregon"
+    "Gladstone, Oregon",
+    "Portland, Oregon"
   ],
   "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
   ],
   "notes": [
-    "Husband of Elaine Simons at her death in 2011; living in Gladstone, Oregon. [Family research emails, email 27]"
+    "Husband of Elaine Simons at her death in 2011; living in Gladstone, Oregon. [Family research emails, email 27]",
+    "Born 8 Jul 1919 in Portland; died 5 Oct 2016, aged 97. He married Marie Maxine Smith in 1947 (two daughters), Virginia Rounds in 1977, and Elaine Rinehart in 1991."
   ],
   "aliases": [
-    "Bill Upham"
+    "Bill Upham",
+    "William “Bill” Upham"
   ],
   "sex": "M"
 }

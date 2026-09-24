@@ -1,8 +1,8 @@
 {
   "id": "simons_nancy",
-  "name": "Nancy Simons",
-  "birth": "",
-  "death": "",
+  "name": "Nancy A. Simons",
+  "birth": "14 Oct 1929",
+  "death": "Nov 2012",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -10,7 +10,9 @@
   "risk_events": [],
   "milestones": [],
   "education": [],
-  "career": [],
+  "career": [
+    "Life insurance agent from 1973 until she retired in 2008; the first woman president of the Washington State Association of Life Underwriters."
+  ],
   "relationships": {
     "mother": "",
     "father": "",
@@ -24,13 +26,21 @@
       "simons_judy"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Illinois",
+    "Pasco, Washington",
+    "Kennewick, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
   ],
   "notes": [
-    "Wife of Howard (Byron Daniel) Simons. Maiden name not recorded."
+    "Wife of Howard (Byron Daniel) Simons. Born 14 Oct 1929 in Illinois; her family came to the Tri-Cities in 1943 with the Hanford project. She and Howard farmed raw land north of Pasco for ten years and moved to Kennewick in 1960. She died in Nov 2012. Her brother was Lyle Mineer of Richland, so her birth surname was probably Mineer.",
+    "At her death she had 11 grandchildren and 9 great-grandchildren, not named in her obituary."
   ],
-  "aliases": [],
+  "aliases": [
+    "Nancy Simons"
+  ],
   "sex": "F"
 }

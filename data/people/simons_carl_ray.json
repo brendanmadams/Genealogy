@@ -1,8 +1,8 @@
 {
   "id": "simons_carl_ray",
   "name": "Carl Ray Simons",
-  "birth": "",
-  "death": "",
+  "birth": "18 May 1954",
+  "death": "7 Aug 2025",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -16,15 +16,20 @@
     "father": "simons_raymond_elmer",
     "siblings": [],
     "spouse": "",
-    "children": [],
+    "children": [
+      "simons_ashley",
+      "simons_shawn"
+    ],
     "adopted": true
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
   ],
   "notes": [
-    "Adopted by Elmer and Betty Simons."
+    "Adopted by Elmer and Betty Simons.",
+    "Born 18 May 1954; grew up in Washington and died 7 Aug 2025. He loved motorcycles, music and the boat races on the Columbia River. His partner was Judy Simons; his children are Ashley and Shawn Simons. His obituary names his parents as Wilma and Elmer Simons, and says his sister Deborah died before him."
   ],
   "aliases": [],
   "sex": "M"

@@ -1,6 +1,7 @@
 {
-  "id": "rhinehart_janet",
-  "name": "Janet Rhinehart (Holter)",
+  "id": "rhinehart_debbie",
+  "name": "Debbie Rhinehart (Groom)",
+  "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
@@ -16,25 +17,21 @@
     "father": "rhinehart_les",
     "siblings": [
       "rhinehart_jerry",
-      "rhinehart_debbie"
+      "rhinehart_janet"
     ],
-    "spouse": "holter_duane",
+    "spouse": "",
     "children": []
   },
   "locations": [
-    "Coeur d'Alene, Idaho"
+    "Oregon City, Oregon"
   ],
   "sources": [
-    "Brendan Adams, 2026-09-22",
     "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
   ],
   "notes": [
-    "The emails spell the surname Rinehart. [Family research emails, email 27]"
+    "Daughter of Elaine (Simons); a stepdaughter of William Upham, whose 2016 obituary lists her as Debbie Groom of Oregon City, with John Mein. Born after 1940 (not in that census), so presumably a daughter of Les Rinehart; her birth surname is assumed."
   ],
   "aliases": [
-    "Janet Rinehart",
-    "Janet Rhinehart",
-    "Jan Holter"
-  ],
-  "sex": "F"
+    "Debbie Groom"
+  ]
 }

@@ -14,7 +14,10 @@
   "relationships": {
     "mother": "simons_elaine_deretha",
     "father": "rhinehart_les",
-    "siblings": [],
+    "siblings": [
+      "rhinehart_janet",
+      "rhinehart_debbie"
+    ],
     "spouse": "rinehart_linda",
     "children": []
   },

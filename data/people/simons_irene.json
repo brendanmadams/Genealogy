@@ -1,14 +1,16 @@
 {
   "id": "simons_irene",
-  "name": "Irene Simons",
-  "birth": "",
-  "death": "",
+  "name": "Bessie Irene Cantrell (Simons)",
+  "birth": "4 Nov 1932",
+  "death": "10 Oct 2017",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Orvel Keith Simons (m. 1951)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -19,16 +21,23 @@
     "children": [
       "simons_les",
       "simons_rodney",
-      "simons_janine"
+      "simons_janine",
+      "simons_billy"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Rock Island, Tennessee",
+    "Pasco, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
   ],
   "notes": [
-    "Wife of Orval Keith Simons. Maiden name not recorded."
+    "Born Bessie Irene Cantrell on 4 Nov 1932 at Rock Island, Tennessee, the eldest of three daughters of Hallie and Houston Cantrell; the family moved to Washington in 1942. She married her high school sweetheart Orvel Keith Simons in 1951 and raised their four children, Janine, Les, Rod and Billy, after his death in 1979. Known to her grandchildren as \"Gam\". She died 10 Oct 2017, a long-time Pasco resident."
   ],
-  "aliases": [],
+  "aliases": [
+    "Irene Simons"
+  ],
   "sex": "F"
 }

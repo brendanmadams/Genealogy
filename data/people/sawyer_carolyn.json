@@ -1,6 +1,7 @@
 {
-  "id": "simons_lenore",
-  "name": "Lenore Simons",
+  "id": "sawyer_carolyn",
+  "name": "Carolyn Sawyer",
+  "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
@@ -15,19 +16,15 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "simons_les",
-    "children": [
-      "simons_jessica_irene",
-      "simons_leslie"
-    ]
+    "spouse": "sawyer_benjamin_iii",
+    "children": []
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)"
   ],
   "notes": [
-    "Wife of Les Simons. Maiden name not recorded."
+    "Wife of Benjamin Sebastian Sawyer III; of Banning, California (2014)."
   ],
-  "aliases": [],
-  "sex": "F"
+  "aliases": []
 }

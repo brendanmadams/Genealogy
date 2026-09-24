@@ -2,29 +2,42 @@
   "id": "groves_dorothy_helen",
   "name": "Dorothy Helen Groves (Sawyer)",
   "sex": "F",
-  "birth": "1909",
-  "death": "1999",
+  "birth": "18 Oct 1909",
+  "death": "11 Aug 1999",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Benjamin Sebastian Sawyer Jr. (m. 1929)",
+    "Buried at Hillcrest Burial Park, Kent, Washington"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "simons_gertrude_nellie",
     "father": "groves_dan_harvey",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "sawyer_benjamin_jr",
+    "children": [
+      "sawyer_benjamin_iii"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Seattle, Washington",
+    "Portland, Oregon",
+    "Kent, Washington"
+  ],
   "sources": [
-    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Find a Grave, memorial 155822857 (Dorothy Helen Groves Sawyer)",
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)",
+    "Ancestry.com, U.S. Social Security Death Index; Oregon, U.S., Death Index, 1898–2008"
   ],
   "notes": [
-    "Daughter of Dan and Gertrude (Simons) Groves."
+    "Daughter of Dan and Gertrude (Simons) Groves.",
+    "Born 18 Oct 1909; died 11 Aug 1999 (Find a Grave and the Social Security Death Index; the Oregon death index gives 11 Jun 1999 in Multnomah County). Married Benjamin Sebastian Sawyer Jr. in 1929; their son Benjamin III was born in Seattle in 1931 and raised in Portland."
   ],
   "aliases": []
 }

@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T15:12:11.788Z",
-  "people": 698,
-  "family_members": 648,
+  "generated": "2026-09-24T15:25:21.024Z",
+  "people": 731,
+  "family_members": 681,
   "dna_matches": 50,
-  "connected_people": 648,
-  "families": 215,
+  "connected_people": 681,
+  "families": 229,
   "branches": [
    "adams",
    "hamilton",
@@ -9748,6 +9748,127 @@
    ]
   },
   {
+   "id": "bensussen_michael",
+   "name": "Michael Bensussen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "stan_husband_of_janine_simons",
+   "mother": "simons_janine",
+   "parents": [
+    "simons_janine",
+    "stan_husband_of_janine_simons"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "bensussen_simon"
+   ],
+   "families": [],
+   "parent_family": "F_simons_janine+stan_husband_of_janine_simons",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+   ],
+   "notes": [
+    "Son of Stan and Janine (Simons) Bensussen; grandson of Orvel and Irene Simons.",
+    "His wife is Jenna, and their son Jacob is Irene Simons's great-grandson (2017)."
+   ]
+  },
+  {
+   "id": "bensussen_simon",
+   "name": "Simon Bensussen",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "stan_husband_of_janine_simons",
+   "mother": "simons_janine",
+   "parents": [
+    "simons_janine",
+    "stan_husband_of_janine_simons"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "bensussen_michael"
+   ],
+   "families": [],
+   "parent_family": "F_simons_janine+stan_husband_of_janine_simons",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+   ],
+   "notes": [
+    "Son of Stan and Janine (Simons) Bensussen; grandson of Orvel and Irene Simons."
+   ]
+  },
+  {
    "id": "beryl_simons_adams",
    "name": "Beryl Eva Simons (Adams)",
    "aliases": [
@@ -10987,6 +11108,563 @@
    ]
   },
   {
+   "id": "busey_ana_jean",
+   "name": "Ana Jean Busey (Lewis)",
+   "aliases": [
+    "Ana Jean Lewis"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_zell",
+   "mother": "busey_rose_lee",
+   "parents": [
+    "busey_rose_lee",
+    "busey_zell"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "busey_gordon",
+    "busey_lola"
+   ],
+   "families": [],
+   "parent_family": "F_busey_rose_lee+busey_zell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "Younger sister of Gordon and Lola; daughter of Zell and Rose Lee Busey."
+   ]
+  },
+  {
+   "id": "busey_debbie",
+   "name": "Debbie Busey (Ludtke)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_gordon",
+   "mother": "larsen_helen_laverne",
+   "parents": [
+    "busey_gordon",
+    "larsen_helen_laverne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "busey_sheryl",
+    "busey_greg",
+    "busey_kris"
+   ],
+   "families": [],
+   "parent_family": "F_busey_gordon+larsen_helen_laverne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "Child of Gordon \"Bud\" and Helen (Larsen) Busey; grandchild of Zell Busey. Spouse: Jesse Ludtke (2005)."
+   ]
+  },
+  {
+   "id": "busey_gordon",
+   "name": "Gordon James “Bud” Busey",
+   "aliases": [
+    "Bud Busey"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "24 Mar 1929",
+    "year": 1929,
+    "qualifier": null
+   },
+   "death": {
+    "text": "14 Oct 2005",
+    "year": 2005,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_zell",
+   "mother": "busey_rose_lee",
+   "parents": [
+    "busey_rose_lee",
+    "busey_zell"
+   ],
+   "spouses": [
+    "larsen_helen_laverne"
+   ],
+   "children": [
+    "busey_sheryl",
+    "busey_greg",
+    "busey_debbie",
+    "busey_kris"
+   ],
+   "siblings": [
+    "busey_lola",
+    "busey_ana_jean"
+   ],
+   "families": [
+    "F_busey_gordon+larsen_helen_laverne"
+   ],
+   "parent_family": "F_busey_rose_lee+busey_zell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Seattle, Washington",
+    "Albany, California",
+    "Eureka, California"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Helen Laverne Larsen (d. 1983)",
+    "Married Maggie Murray (m. 1985)"
+   ],
+   "education": [],
+   "career": [
+    "U.S. Marine Corps, 1946–1948; Eureka Police Department for 25 years, retiring in 1977 as Captain of Patrol Operations; then security program director at PG&E's Humboldt Bay plant until 1987."
+   ],
+   "sources": [
+    "Ancestry.com, 1930 United States Federal Census",
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "Born 24 Mar 1929, twin of Lola; son of Zell and Rose Lee Busey. Raised in Albany, California, by his mother and stepfather Peter Diebell. He married Helen Laverne Larsen, and they had Sheryl (1949), Greg, Debbie and Kris; after Helen's death in 1983 he married Maggie Murray in 1985 (her children Dayton Murray and Mitzi Goodrow). He died 14 Oct 2005 at Eureka, California.",
+    "His grandchildren in 2005: Jeff and Christopher Mitchell, Ryan Busey, Charlene Johnson, Erin Hogan, Jackie and Justin Christensen, and Megan Murray; and five great-grandchildren."
+   ]
+  },
+  {
+   "id": "busey_grace",
+   "name": "Grace M. Busey",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "busey_zell"
+   ],
+   "children": [
+    "busey_joan_cora"
+   ],
+   "siblings": [],
+   "families": [
+    "F_busey_grace+busey_zell"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Zell Martin Busey (m. 31 Dec 1948)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1950 United States Federal Census"
+   ],
+   "notes": [
+    "Third wife of Zell Busey (married 31 Dec 1948 at Sedro-Woolley); aged 39 in the 1950 census. Her birth surname is not recorded."
+   ]
+  },
+  {
+   "id": "busey_greg",
+   "name": "Greg Busey",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_gordon",
+   "mother": "larsen_helen_laverne",
+   "parents": [
+    "busey_gordon",
+    "larsen_helen_laverne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "busey_sheryl",
+    "busey_debbie",
+    "busey_kris"
+   ],
+   "families": [],
+   "parent_family": "F_busey_gordon+larsen_helen_laverne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "Child of Gordon \"Bud\" and Helen (Larsen) Busey; grandchild of Zell Busey. Spouse: Peggy (2005)."
+   ]
+  },
+  {
+   "id": "busey_jessie",
+   "name": "Jessie L. Busey",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "busey_zell"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_busey_jessie+busey_zell"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Zell Martin Busey (m. 4 Mar 1939)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1940 United States Federal Census"
+   ],
+   "notes": [
+    "Second wife of Zell Busey; aged 21 in the 1940 census, at 4524 Orcas Street, Seattle. Her birth surname is not recorded."
+   ]
+  },
+  {
+   "id": "busey_joan_cora",
+   "name": "Joan Cora Busey",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1949",
+    "year": 1949,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_zell",
+   "mother": "busey_grace",
+   "parents": [
+    "busey_grace",
+    "busey_zell"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_busey_grace+busey_zell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1950 United States Federal Census"
+   ],
+   "notes": [
+    "Daughter of Zell and Grace M. Busey; aged 1 in the 1950 census, King County, Washington."
+   ]
+  },
+  {
+   "id": "busey_kris",
+   "name": "Kris Busey (Christensen)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_gordon",
+   "mother": "larsen_helen_laverne",
+   "parents": [
+    "busey_gordon",
+    "larsen_helen_laverne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "busey_sheryl",
+    "busey_greg",
+    "busey_debbie"
+   ],
+   "families": [],
+   "parent_family": "F_busey_gordon+larsen_helen_laverne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "Child of Gordon \"Bud\" and Helen (Larsen) Busey; grandchild of Zell Busey. Spouse: Bill Christensen (2005)."
+   ]
+  },
+  {
+   "id": "busey_lola",
+   "name": "Lola Busey (Long)",
+   "aliases": [
+    "Lola Long",
+    "Lola Marie Busey"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "24 Mar 1929",
+    "year": 1929,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_zell",
+   "mother": "busey_rose_lee",
+   "parents": [
+    "busey_rose_lee",
+    "busey_zell"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "busey_gordon",
+    "busey_ana_jean"
+   ],
+   "families": [],
+   "parent_family": "F_busey_rose_lee+busey_zell",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1930 United States Federal Census",
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "Twin sister of Gordon \"Bud\" Busey; daughter of Zell and Rose Lee Busey (indexed as \"Sola Marie\" in the 1930 census). Married Harry Long. Likely named for her grandmother Lola (Simons) Busey."
+   ]
+  },
+  {
    "id": "busey_matt",
    "name": "Matt Busey",
    "aliases": [],
@@ -11047,9 +11725,138 @@
    ]
   },
   {
-   "id": "busey_zell",
-   "name": "Zell Busey",
+   "id": "busey_rose_lee",
+   "name": "Rose Lee Diebell",
+   "aliases": [
+    "Rose Lee Busey",
+    "Rosa Lee Busey"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "busey_zell"
+   ],
+   "children": [
+    "busey_gordon",
+    "busey_lola",
+    "busey_ana_jean"
+   ],
+   "siblings": [],
+   "families": [
+    "F_busey_rose_lee+busey_zell"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Zell Martin Busey (m. abt 1926); divorced 1935",
+    "Married Peter Diebell (m. 1937)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1930 United States Federal Census",
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "First wife of Zell Busey (\"Rosa Lee\", 22, in the 1930 census) and mother of Gordon, Lola and Ana Jean. After their divorce in 1935 she married Peter Diebell in 1937 and moved with the children to Albany, California. Her birth surname is not recorded."
+   ]
+  },
+  {
+   "id": "busey_sheryl",
+   "name": "Sheryl Busey (Mitchell)",
    "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1949",
+    "year": 1949,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "busey_gordon",
+   "mother": "larsen_helen_laverne",
+   "parents": [
+    "busey_gordon",
+    "larsen_helen_laverne"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "busey_greg",
+    "busey_debbie",
+    "busey_kris"
+   ],
+   "families": [],
+   "parent_family": "F_busey_gordon+larsen_helen_laverne",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "Child of Gordon \"Bud\" and Helen (Larsen) Busey; grandchild of Zell Busey. Spouse: Wally Mitchell (2005)."
+   ]
+  },
+  {
+   "id": "busey_zell",
+   "name": "Zell Martin Busey",
+   "aliases": [
+    "Zell Busey",
+    "Zell M. Busey"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -11057,13 +11864,13 @@
     "census-1910-delta-simons-mcphail"
    ],
    "birth": {
-    "text": "abt 1906",
+    "text": "21 Nov 1906",
     "year": 1906,
-    "qualifier": "about"
+    "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "28 Apr 1983",
+    "year": 1983,
     "qualifier": null
    },
    "living": false,
@@ -11080,29 +11887,63 @@
     "busey_matt",
     "simons_lola"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "busey_rose_lee",
+    "busey_jessie",
+    "busey_grace"
+   ],
+   "children": [
+    "busey_joan_cora",
+    "busey_gordon",
+    "busey_lola",
+    "busey_ana_jean"
+   ],
    "siblings": [],
-   "families": [],
+   "families": [
+    "F_busey_grace+busey_zell",
+    "F_busey_jessie+busey_zell",
+    "F_busey_rose_lee+busey_zell"
+   ],
    "parent_family": "F_busey_matt+simons_lola",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Bellingham, Washington",
+    "Umatilla County, Oregon",
+    "Seattle, Washington",
+    "Kirkland, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Rose Lee (m. abt 1926); divorced 1935",
+    "Married Jessie L. (m. 4 Mar 1939)",
+    "Married Grace M. (m. 31 Dec 1948)"
+   ],
    "education": [],
-   "career": [],
+   "career": [
+    "Lumber mill foreman (1930), crane operator (1940), National Guard caretaker (1950); a master sergeant by 1957."
+   ],
    "sources": [
-    "Ancestry.com, U.S. Federal Censuses 1900–1950"
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census",
+    "Ancestry.com, U.S. World War II Draft Cards Young Men, 1940–1947",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013",
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
    ],
    "notes": [
     "Grandson of Aaron and Hattie Simons, living with them at Delta, Whatcom County, aged 4 in 1910. Inferred to be the son of Lola Simons and Matt Busey: Lola is the only Simons daughter known to have married a Busey. His name likely honours his uncle Raymond Zell Simons.",
-    "The 1910 census gives his birthplace as Washington, his father's as Iowa and his mother's as Michigan, which fits Lola Simons, born in Michigan."
+    "The 1910 census gives his birthplace as Washington, his father's as Iowa and his mother's as Michigan, which fits Lola Simons, born in Michigan.",
+    "Born 21 Nov 1906 at Bellingham, Washington (WWII draft card; other records give 1905 or 1908); died 28 Apr 1983 at Kirkland, Washington. In 1920, aged 14, he lived in Umatilla County, Oregon, as the nephew of Harry H. and Bertha Harrington, his mother Lola's sister.",
+    "Married Rose Lee about 1926 (they had twins Gordon \"Bud\" and Lola in 1929 and a younger daughter Ana Jean, and divorced in 1935); Jessie L. on 4 Mar 1939 in Seattle; and Grace M. on 31 Dec 1948 at Sedro-Woolley, Skagit County, with whom he had a daughter, Joan Cora, about 1949."
    ]
   },
   {
@@ -13587,6 +14428,61 @@
    "notes": [
     "DNA match #9 on Schriefer branch.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "doshier_doug",
+   "name": "Doug Doshier",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_judy"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_doshier_doug+simons_judy"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+   ],
+   "notes": [
+    "Husband of Judith (Simons) Doshier, of Kennewick (2012)."
    ]
   },
   {
@@ -17512,12 +18408,12 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1909",
+    "text": "18 Oct 1909",
     "year": 1909,
     "qualifier": null
    },
    "death": {
-    "text": "1999",
+    "text": "11 Aug 1999",
     "year": 1999,
     "qualifier": null
    },
@@ -17535,28 +18431,45 @@
     "groves_dan_harvey",
     "simons_gertrude_nellie"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "sawyer_benjamin_jr"
+   ],
+   "children": [
+    "sawyer_benjamin_iii"
+   ],
    "siblings": [],
-   "families": [],
+   "families": [
+    "F_groves_dorothy_helen+sawyer_benjamin_jr"
+   ],
    "parent_family": "F_groves_dan_harvey+simons_gertrude_nellie",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Seattle, Washington",
+    "Portland, Oregon",
+    "Kent, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Benjamin Sebastian Sawyer Jr. (m. 1929)",
+    "Buried at Hillcrest Burial Park, Kent, Washington"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Find a Grave, memorial 155822857 (Dorothy Helen Groves Sawyer)",
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)",
+    "Ancestry.com, U.S. Social Security Death Index; Oregon, U.S., Death Index, 1898–2008"
    ],
    "notes": [
-    "Daughter of Dan and Gertrude (Simons) Groves."
+    "Daughter of Dan and Gertrude (Simons) Groves.",
+    "Born 18 Oct 1909; died 11 Aug 1999 (Find a Grave and the Social Security Death Index; the Oregon death index gives 11 Jun 1999 in Multnomah County). Married Benjamin Sebastian Sawyer Jr. in 1929; their son Benjamin III was born in Seattle in 1931 and raised in Portland."
    ]
   },
   {
@@ -23211,6 +24124,63 @@
    ]
   },
   {
+   "id": "harrington_harry_h",
+   "name": "Harry H. Harrington",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1887",
+    "year": 1887,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_bertha"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_harrington_harry_h+simons_bertha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Umatilla County, Oregon"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1920 United States Federal Census"
+   ],
+   "notes": [
+    "Aged 33 in the 1920 census, Precinct 12, Umatilla County, Oregon, with his wife Bertha (33) and her nephew Zell Busey (14). Inferred husband of Bertha Simons."
+   ]
+  },
+  {
    "id": "harter_eli",
    "name": "Eli Harter",
    "aliases": [],
@@ -28751,6 +29721,68 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
+  },
+  {
+   "id": "larsen_helen_laverne",
+   "name": "Helen Laverne Larsen (Busey)",
+   "aliases": [
+    "Helen Busey"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1983",
+    "year": 1983,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "busey_gordon"
+   ],
+   "children": [
+    "busey_sheryl",
+    "busey_greg",
+    "busey_debbie",
+    "busey_kris"
+   ],
+   "siblings": [],
+   "families": [
+    "F_busey_gordon+larsen_helen_laverne"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
+   ],
+   "notes": [
+    "First wife of Gordon \"Bud\" Busey and mother of his children; she died in 1983."
+   ]
   },
   {
    "id": "lauren_adams",
@@ -38075,10 +39107,77 @@
    ]
   },
   {
-   "id": "rhinehart_janet",
-   "name": "Janet Rhinehart",
+   "id": "rhinehart_debbie",
+   "name": "Debbie Rhinehart (Groom)",
    "aliases": [
-    "Janet Rinehart"
+    "Debbie Groom"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "rhinehart_les",
+   "mother": "simons_elaine_deretha",
+   "parents": [
+    "rhinehart_les",
+    "simons_elaine_deretha"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "rhinehart_jerry",
+    "rhinehart_janet"
+   ],
+   "families": [],
+   "parent_family": "F_rhinehart_les+simons_elaine_deretha",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Oregon City, Oregon"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
+   ],
+   "notes": [
+    "Daughter of Elaine (Simons); a stepdaughter of William Upham, whose 2016 obituary lists her as Debbie Groom of Oregon City, with John Mein. Born after 1940 (not in that census), so presumably a daughter of Les Rinehart; her birth surname is assumed."
+   ]
+  },
+  {
+   "id": "rhinehart_janet",
+   "name": "Janet Rhinehart (Holter)",
+   "aliases": [
+    "Janet Rinehart",
+    "Janet Rhinehart",
+    "Jan Holter"
    ],
    "photo": null,
    "card_name": null,
@@ -38115,7 +39214,8 @@
    ],
    "children": [],
    "siblings": [
-    "rhinehart_jerry"
+    "rhinehart_jerry",
+    "rhinehart_debbie"
    ],
    "families": [
     "F_holter_duane+rhinehart_janet"
@@ -38124,7 +39224,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Coeur d'Alene, Idaho"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -38134,7 +39236,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
    ],
    "notes": [
     "The emails spell the surname Rinehart. [Family research emails, email 27]"
@@ -38181,7 +39284,8 @@
    ],
    "children": [],
    "siblings": [
-    "rhinehart_janet"
+    "rhinehart_janet",
+    "rhinehart_debbie"
    ],
    "families": [
     "F_rhinehart_jerry+rinehart_linda"
@@ -38240,7 +39344,8 @@
    ],
    "children": [
     "rhinehart_jerry",
-    "rhinehart_janet"
+    "rhinehart_janet",
+    "rhinehart_debbie"
    ],
    "siblings": [],
    "families": [
@@ -39498,6 +40603,373 @@
    ],
    "notes": [
     "Siblings listed: George, Ted, Roy, and Mary. Child of George Francis Adams IV and Anne Marie Bainbridge."
+   ]
+  },
+  {
+   "id": "sawyer_benjamin_iii",
+   "name": "Benjamin Sebastian Sawyer III",
+   "aliases": [
+    "Ben Sawyer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "10 Nov 1931",
+    "year": 1931,
+    "qualifier": null
+   },
+   "death": {
+    "text": "9 Oct 2014",
+    "year": 2014,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "sawyer_benjamin_jr",
+   "mother": "groves_dorothy_helen",
+   "parents": [
+    "groves_dorothy_helen",
+    "sawyer_benjamin_jr"
+   ],
+   "spouses": [
+    "sawyer_carolyn"
+   ],
+   "children": [
+    "sawyer_brent",
+    "sawyer_lyn",
+    "sawyer_benjamin_iv"
+   ],
+   "siblings": [],
+   "families": [
+    "F_sawyer_benjamin_iii+sawyer_carolyn",
+    "F_sawyer_benjamin_iii"
+   ],
+   "parent_family": "F_groves_dorothy_helen+sawyer_benjamin_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Seattle, Washington",
+    "Portland, Oregon",
+    "Walnut Creek, California",
+    "Banning, California"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [
+    "Grant High School, Portland, class of 1949."
+   ],
+   "career": [
+    "Owned and ran Sawyer Communications in Portland and later in Walnut Creek and Martinez, California."
+   ],
+   "sources": [
+    "Find a Grave, memorial 155822857 (Dorothy Helen Groves Sawyer)",
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)"
+   ],
+   "notes": [
+    "Born 10 Nov 1931 in Seattle; died 9 Oct 2014, of Banning, California. Survived by his wife Carolyn, his children Brent, Lyn and Benjamin, and fifteen grandchildren."
+   ]
+  },
+  {
+   "id": "sawyer_benjamin_iv",
+   "name": "Benjamin Sawyer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "sawyer_benjamin_iii",
+   "mother": null,
+   "parents": [
+    "sawyer_benjamin_iii"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sawyer_brent",
+    "sawyer_lyn"
+   ],
+   "families": [],
+   "parent_family": "F_sawyer_benjamin_iii",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)"
+   ],
+   "notes": [
+    "Child of Benjamin Sebastian Sawyer III; grandchild of Dorothy (Groves) Sawyer. Of Seattle (2014)."
+   ]
+  },
+  {
+   "id": "sawyer_benjamin_jr",
+   "name": "Benjamin Sebastian Sawyer Jr.",
+   "aliases": [
+    "Ben Sawyer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1909",
+    "year": 1909,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1956",
+    "year": 1956,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "groves_dorothy_helen"
+   ],
+   "children": [
+    "sawyer_benjamin_iii"
+   ],
+   "siblings": [],
+   "families": [
+    "F_groves_dorothy_helen+sawyer_benjamin_jr"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Dorothy Helen Groves (m. 1929)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 155822857 (Dorothy Helen Groves Sawyer)"
+   ],
+   "notes": [
+    "Husband of Dorothy Helen Groves (married 1929)."
+   ]
+  },
+  {
+   "id": "sawyer_brent",
+   "name": "Brent Sawyer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "sawyer_benjamin_iii",
+   "mother": null,
+   "parents": [
+    "sawyer_benjamin_iii"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sawyer_lyn",
+    "sawyer_benjamin_iv"
+   ],
+   "families": [],
+   "parent_family": "F_sawyer_benjamin_iii",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)"
+   ],
+   "notes": [
+    "Child of Benjamin Sebastian Sawyer III; grandchild of Dorothy (Groves) Sawyer. Of Gilbert, Arizona (2014)."
+   ]
+  },
+  {
+   "id": "sawyer_carolyn",
+   "name": "Carolyn Sawyer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "sawyer_benjamin_iii"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_sawyer_benjamin_iii+sawyer_carolyn"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)"
+   ],
+   "notes": [
+    "Wife of Benjamin Sebastian Sawyer III; of Banning, California (2014)."
+   ]
+  },
+  {
+   "id": "sawyer_lyn",
+   "name": "Lyn Sawyer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "simons"
+   ],
+   "adopted": false,
+   "father": "sawyer_benjamin_iii",
+   "mother": null,
+   "parents": [
+    "sawyer_benjamin_iii"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "sawyer_brent",
+    "sawyer_benjamin_iv"
+   ],
+   "families": [],
+   "parent_family": "F_sawyer_benjamin_iii",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Benjamin S. Sawyer III, Weaver Mortuary, Beaumont, California, Oct 2014 (Dignity Memorial)"
+   ],
+   "notes": [
+    "Child of Benjamin Sebastian Sawyer III; grandchild of Dorothy (Groves) Sawyer. Of Ferndale, Washington, with her husband Scott (2014); her married surname is not given."
    ]
   },
   {
@@ -41119,6 +42591,63 @@
    ]
   },
   {
+   "id": "simons_amanda",
+   "name": "Amanda Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_billy",
+   "mother": null,
+   "parents": [
+    "simons_billy"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_simons_billy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+   ],
+   "notes": [
+    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons. Married Chris (surname not given)."
+   ]
+  },
+  {
    "id": "simons_ann",
    "name": "Ann Simons",
    "aliases": [],
@@ -41256,9 +42785,130 @@
    ]
   },
   {
-   "id": "simons_bertha",
-   "name": "Bertha Simons",
+   "id": "simons_anna_bess",
+   "name": "Anna Bess “Annie” Simons",
    "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_rodney",
+   "mother": "simons_pamela",
+   "parents": [
+    "simons_pamela",
+    "simons_rodney"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_simons_pamela+simons_rodney",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+   ],
+   "notes": [
+    "Daughter of Rod and Pam Simons; granddaughter of Orvel and Irene Simons."
+   ]
+  },
+  {
+   "id": "simons_ashley",
+   "name": "Ashley Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_carl_ray",
+   "mother": null,
+   "parents": [
+    "simons_carl_ray"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_shawn"
+   ],
+   "families": [],
+   "parent_family": "F_simons_carl_ray",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
+   ],
+   "notes": [
+    "Child of Carl Ray Simons; grandchild of Elmer Simons."
+   ]
+  },
+  {
+   "id": "simons_bertha",
+   "name": "Bertha Simons (Harrington)",
+   "aliases": [
+    "Bertha Simons",
+    "Bertha Harrington"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -41287,7 +42937,9 @@
     "simons_aaron",
     "simons_harriet_hattie"
    ],
-   "spouses": [],
+   "spouses": [
+    "harrington_harry_h"
+   ],
    "children": [],
    "siblings": [
     "simons_gertrude_nellie",
@@ -41295,14 +42947,17 @@
     "simons_lola",
     "simons_raymond_zell"
    ],
-   "families": [],
+   "families": [
+    "F_harrington_harry_h+simons_bertha"
+   ],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Michigan",
-    "Covert Township, Van Buren County, Michigan"
+    "Covert Township, Van Buren County, Michigan",
+    "Umatilla County, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -41316,10 +42971,11 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, 1920 United States Federal Census"
    ],
    "notes": [
-    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."
+    "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth."
    ]
   },
   {
@@ -41374,15 +43030,17 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
    ],
    "notes": [
-    "Wife of Raymond Elmer (\"Elmer\") Simons. Maiden name not recorded."
+    "Wife of Raymond Elmer (\"Elmer\") Simons. Maiden name not recorded.",
+    "Carl Ray Simons's 2025 obituary names his mother as Wilma, not Betty; Elmer may have married twice, or Betty may be a nickname. Not resolved."
    ]
   },
   {
-   "id": "simons_carl_ray",
-   "name": "Carl Ray Simons",
+   "id": "simons_billy",
+   "name": "Billy Simons",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -41407,6 +43065,73 @@
     "mcphail",
     "simons"
    ],
+   "adopted": false,
+   "father": "simons_orval_keith",
+   "mother": "simons_irene",
+   "parents": [
+    "simons_irene",
+    "simons_orval_keith"
+   ],
+   "spouses": [],
+   "children": [
+    "simons_amanda"
+   ],
+   "siblings": [
+    "simons_rodney",
+    "simons_les",
+    "simons_janine"
+   ],
+   "families": [
+    "F_simons_billy"
+   ],
+   "parent_family": "F_simons_irene+simons_orval_keith",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
+   ],
+   "notes": [
+    "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda."
+   ]
+  },
+  {
+   "id": "simons_carl_ray",
+   "name": "Carl Ray Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "18 May 1954",
+    "year": 1954,
+    "qualifier": null
+   },
+   "death": {
+    "text": "7 Aug 2025",
+    "year": 2025,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
    "adopted": true,
    "father": "simons_raymond_elmer",
    "mother": "simons_betty",
@@ -41415,11 +43140,16 @@
     "simons_raymond_elmer"
    ],
    "spouses": [],
-   "children": [],
+   "children": [
+    "simons_ashley",
+    "simons_shawn"
+   ],
    "siblings": [
     "simons_debra_sue"
    ],
-   "families": [],
+   "families": [
+    "F_simons_carl_ray"
+   ],
    "parent_family": "F_simons_betty+simons_raymond_elmer",
    "connected": true,
    "dna_match": false,
@@ -41434,10 +43164,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
    ],
    "notes": [
-    "Adopted by Elmer and Betty Simons."
+    "Adopted by Elmer and Betty Simons.",
+    "Born 18 May 1954; grew up in Washington and died 7 Aug 2025. He loved motorcycles, music and the boat races on the Columbia River. His partner was Judy Simons; his children are Ashley and Shawn Simons. His obituary names his parents as Wilma and Elmer Simons, and says his sister Deborah died before him."
    ]
   },
   {
@@ -41454,12 +43186,12 @@
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
+    "text": "before 2025",
+    "year": 2025,
+    "qualifier": "before"
    },
    "living": false,
-   "living_status": "assumed",
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -41494,10 +43226,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
    ],
    "notes": [
-    "Adopted by Elmer and Betty Simons."
+    "Adopted by Elmer and Betty Simons.",
+    "Her brother Carl Ray's 2025 obituary says she died before him."
    ]
   },
   {
@@ -41600,7 +43334,8 @@
    ],
    "children": [
     "rhinehart_jerry",
-    "rhinehart_janet"
+    "rhinehart_janet",
+    "rhinehart_debbie"
    ],
    "siblings": [
     "beryl_simons_adams",
@@ -41634,7 +43369,8 @@
     "Born Jan 1918, Milton, Oregon",
     "Died 11 Aug 2011",
     "Buried: Elaine's graveside service was at Desert Lawn Memorial Park in Kennewick on 19 August 2011.",
-    "Born Milton, Oregon"
+    "Born Milton, Oregon",
+    "Married William Clifford Upham (m. 1991)"
    ],
    "education": [
     "Elaine was an elementary school student of Amy Kulp and Alice Burk and was remembered as an excellent student."
@@ -41644,14 +43380,16 @@
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Ancestry.com, Oregon, U.S., State Births, 1842–1924",
-    "Ancestry.com, U.S. Federal Censuses 1900–1950"
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
    ],
    "notes": [
     "Sister of Beryl Simons Adams; married Les Rhinehart.",
     "A funeral service for Elaine was held 17 August 2011 at Holman, Hankins, Bowker & Waud Funeral Home in Oregon City. [Family research emails, email 27]",
     "CORRECTION 2026-09-23: Added her later husband, William \"Bill\" Upham of Gladstone, Oregon, named in Irma's note about her services. [Family research emails, email 27]",
     "Open question: Elaine Deretha Simons's husband at her 2011 death was William (Bill) Upham, but the tree lists only Les Rhinehart. Was this a second marriage? The emails spell the name Rinehart; the tree spells it Rhinehart [Family research emails, email 27]",
-    "Her birth is recorded in the Oregon state birth records, with parents Raymond Zell Simons (aged 20) and Dradie Ellen Kulp. The 1940 census and her Find a Grave memorial spell her married name Rinehart."
+    "Her birth is recorded in the Oregon state birth records, with parents Raymond Zell Simons (aged 20) and Dradie Ellen Kulp. The 1940 census and her Find a Grave memorial spell her married name Rinehart.",
+    "Her children were Jerry, Janet (Holter) and Debbie (Groom); William Upham's 2016 obituary names Debbie and Jan as his stepdaughters."
    ]
   },
   {
@@ -41885,17 +43623,17 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "abt 1936",
+    "text": "12 Jan 1936",
     "year": 1936,
-    "qualifier": "about"
-   },
-   "death": {
-    "text": "",
-    "year": null,
     "qualifier": null
    },
-   "living": true,
-   "living_status": "living",
+   "death": {
+    "text": "1 Dec 2020",
+    "year": 2020,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -41952,7 +43690,9 @@
     "adams_dna_linkage_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
-    "Ancestry.com, U.S. Federal Censuses 1900–1950"
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Sumner Voiles Funeral Chapel, memorial page for Glen Simons (12 Jan 1936 – 1 Dec 2020)",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
    ],
    "notes": [
     "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
@@ -41961,7 +43701,8 @@
     "Unconfirmed: Irma thinks Glen Simons might not have been born in the Lynden area. [Family research emails, email 48]",
     "Open question: Were Beryl and her younger siblings born in Whatcom County, and was Glen born somewhere other than the Lynden area? Irma asks to be corrected [Family research emails, email 48]",
     "'Glen Acres', a residential development in Pasco, is named after him. [John Howard Adams, A Memoir, text line 592]",
-    "Aged 4 in the 1940 census (near Richland) and 14 in 1950 as Glen E. Simons (Franklin County)."
+    "Aged 4 in the 1940 census (near Richland) and 14 in 1950 as Glen E. Simons (Franklin County).",
+    "Born 12 Jan 1936; died 1 Dec 2020 (Sumner Voiles Funeral Chapel, near Bonney Lake). He and Mary were living when his sister-in-law Irene died in 2017."
    ]
   },
   {
@@ -42382,20 +44123,22 @@
   },
   {
    "id": "simons_irene",
-   "name": "Irene Simons",
-   "aliases": [],
+   "name": "Bessie Irene Cantrell (Simons)",
+   "aliases": [
+    "Irene Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "4 Nov 1932",
+    "year": 1932,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "10 Oct 2017",
+    "year": 2017,
     "qualifier": null
    },
    "living": false,
@@ -42411,9 +44154,10 @@
     "simons_orval_keith"
    ],
    "children": [
-    "simons_les",
     "simons_rodney",
-    "simons_janine"
+    "simons_les",
+    "simons_janine",
+    "simons_billy"
    ],
    "siblings": [],
    "families": [
@@ -42423,20 +44167,26 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Rock Island, Tennessee",
+    "Pasco, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Orvel Keith Simons (m. 1951)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
    ],
    "notes": [
-    "Wife of Orval Keith Simons. Maiden name not recorded."
+    "Born Bessie Irene Cantrell on 4 Nov 1932 at Rock Island, Tennessee, the eldest of three daughters of Hallie and Houston Cantrell; the family moved to Washington in 1942. She married her high school sweetheart Orvel Keith Simons in 1951 and raised their four children, Janine, Les, Rod and Billy, after his death in 1979. Known to her grandchildren as \"Gam\". She died 10 Oct 2017, a long-time Pasco resident."
    ]
   },
   {
@@ -42509,8 +44259,11 @@
   },
   {
    "id": "simons_janine",
-   "name": "Janine Simons",
-   "aliases": [],
+   "name": "Janine Simons (Bensussen)",
+   "aliases": [
+    "Janine Simons",
+    "Janine Bensussen"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -42544,15 +44297,82 @@
    "spouses": [
     "stan_husband_of_janine_simons"
    ],
-   "children": [],
+   "children": [
+    "bensussen_simon",
+    "bensussen_michael"
+   ],
    "siblings": [
+    "simons_rodney",
     "simons_les",
-    "simons_rodney"
+    "simons_billy"
    ],
    "families": [
     "F_simons_janine+stan_husband_of_janine_simons"
    ],
    "parent_family": "F_simons_irene+simons_orval_keith",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Richland, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+   ],
+   "notes": [
+    "Married Stan Bensussen."
+   ]
+  },
+  {
+   "id": "simons_jessica_irene",
+   "name": "Jessica Irene Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_les",
+   "mother": "simons_lenore",
+   "parents": [
+    "simons_lenore",
+    "simons_les"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_leslie"
+   ],
+   "families": [],
+   "parent_family": "F_simons_lenore+simons_les",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -42566,16 +44386,19 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
    ],
    "notes": [
-    "Married Stan (surname not recorded)."
+    "Daughter of Les and Lenore Simons; granddaughter of Orvel and Irene Simons."
    ]
   },
   {
    "id": "simons_judy",
-   "name": "Judy Simons",
-   "aliases": [],
+   "name": "Judith “Judy” Simons (Doshier)",
+   "aliases": [
+    "Judy Simons",
+    "Judith Doshier"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -42606,7 +44429,9 @@
     "simons_howard",
     "simons_nancy"
    ],
-   "spouses": [],
+   "spouses": [
+    "doshier_doug"
+   ],
    "children": [],
    "siblings": [
     "simons_steve",
@@ -42614,12 +44439,16 @@
     "simons_sandy",
     "simons_sharon"
    ],
-   "families": [],
+   "families": [
+    "F_doshier_doug+simons_judy"
+   ],
    "parent_family": "F_simons_howard+simons_nancy",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Kennewick, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -42629,7 +44458,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
    ],
    "notes": []
   },
@@ -42663,7 +44493,10 @@
    "spouses": [
     "simons_les"
    ],
-   "children": [],
+   "children": [
+    "simons_jessica_irene",
+    "simons_leslie"
+   ],
    "siblings": [],
    "families": [
     "F_simons_lenore+simons_les"
@@ -42725,15 +44558,82 @@
    "spouses": [
     "simons_lenore"
    ],
-   "children": [],
+   "children": [
+    "simons_jessica_irene",
+    "simons_leslie"
+   ],
    "siblings": [
     "simons_rodney",
-    "simons_janine"
+    "simons_janine",
+    "simons_billy"
    ],
    "families": [
     "F_simons_lenore+simons_les"
    ],
    "parent_family": "F_simons_irene+simons_orval_keith",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kent, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+   ],
+   "notes": []
+  },
+  {
+   "id": "simons_leslie",
+   "name": "Leslie Simons (Addis)",
+   "aliases": [
+    "Leslie Addis"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_les",
+   "mother": "simons_lenore",
+   "parents": [
+    "simons_lenore",
+    "simons_les"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_jessica_irene"
+   ],
+   "families": [],
+   "parent_family": "F_simons_lenore+simons_les",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -42747,9 +44647,11 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
    ],
-   "notes": []
+   "notes": [
+    "Daughter of Les and Lenore Simons; married Paul Addis."
+   ]
   },
   {
    "id": "simons_lola",
@@ -42888,7 +44790,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Kennewick, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -42898,7 +44802,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
    ],
    "notes": []
   },
@@ -42962,20 +44867,22 @@
   },
   {
    "id": "simons_nancy",
-   "name": "Nancy Simons",
-   "aliases": [],
+   "name": "Nancy A. Simons",
+   "aliases": [
+    "Nancy Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "14 Oct 1929",
+    "year": 1929,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "Nov 2012",
+    "year": 2012,
     "qualifier": null
    },
    "living": false,
@@ -43005,7 +44912,11 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Illinois",
+    "Pasco, Washington",
+    "Kennewick, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -43013,12 +44924,16 @@
    "risk_events": [],
    "milestones": [],
    "education": [],
-   "career": [],
+   "career": [
+    "Life insurance agent from 1973 until she retired in 2008; the first woman president of the Washington State Association of Life Underwriters."
+   ],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
    ],
    "notes": [
-    "Wife of Howard (Byron Daniel) Simons. Maiden name not recorded."
+    "Wife of Howard (Byron Daniel) Simons. Born 14 Oct 1929 in Illinois; her family came to the Tri-Cities in 1943 with the Hanford project. She and Howard farmed raw land north of Pasco for ten years and moved to Kennewick in 1960. She died in Nov 2012. Her brother was Lyle Mineer of Richland, so her birth surname was probably Mineer.",
+    "At her death she had 11 grandchildren and 9 great-grandchildren, not named in her obituary."
    ]
   },
   {
@@ -43128,9 +45043,10 @@
     "simons_irene"
    ],
    "children": [
-    "simons_les",
     "simons_rodney",
-    "simons_janine"
+    "simons_les",
+    "simons_janine",
+    "simons_billy"
    ],
    "siblings": [
     "simons_elaine_deretha",
@@ -43158,7 +45074,8 @@
    "risk_events": [],
    "milestones": [
     "Born 30 Oct 1929, Lynden, Whatcom Co, Washington",
-    "Died 21 Jul 1979, Spokane, Spokane Co, Washington"
+    "Died 21 Jul 1979, Spokane, Spokane Co, Washington",
+    "Married Bessie Irene Cantrell (m. 1951)"
    ],
    "education": [
     "Orval Simons was an elementary school student of Amy Kulp and Alice Burk."
@@ -43166,10 +45083,68 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
    ],
    "notes": [
     "Brother of Beryl Simons Adams."
+   ]
+  },
+  {
+   "id": "simons_pamela",
+   "name": "Pamela “Pam” Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_rodney"
+   ],
+   "children": [
+    "simons_anna_bess"
+   ],
+   "siblings": [],
+   "families": [
+    "F_simons_pamela+simons_rodney"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
+   ],
+   "notes": [
+    "Wife of Rod Simons; her birth surname is not recorded."
    ]
   },
   {
@@ -43525,24 +45500,27 @@
   },
   {
    "id": "simons_rodney",
-   "name": "Rodney Simons",
-   "aliases": [],
+   "name": "Rodney Keith “Rod” Simons",
+   "aliases": [
+    "Rodney Simons",
+    "Rod Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "30 Jun 1960",
+    "year": 1960,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "20 Feb 2017",
+    "year": 2017,
     "qualifier": null
    },
    "living": false,
-   "living_status": "assumed",
+   "living_status": null,
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -43557,35 +45535,59 @@
     "simons_irene",
     "simons_orval_keith"
    ],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "simons_pamela"
+   ],
+   "children": [
+    "simons_anna_bess"
+   ],
    "siblings": [
     "simons_les",
-    "simons_janine"
+    "simons_janine",
+    "simons_billy"
    ],
-   "families": [],
+   "families": [
+    "F_simons_pamela+simons_rodney"
+   ],
    "parent_family": "F_simons_irene+simons_orval_keith",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Pasco, Washington",
+    "Minneapolis, Minnesota",
+    "Fort Myers, Florida"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams, 2026-09-22"
+   "milestones": [
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
    ],
-   "notes": []
+   "education": [
+    "Washington State University."
+   ],
+   "career": [
+    "Radio and sports broadcaster, based in Minneapolis."
+   ],
+   "sources": [
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+   ],
+   "notes": [
+    "Born 30 Jun 1960; grew up in the Tri-Cities and studied at Washington State University, where he found radio and then sports broadcasting. He died 20 Feb 2017 at Fort Myers, Florida, aged 56, and was buried at Desert Lawn Memorial Park, Kennewick, where his grandparents Ray and Dradie Simons lie. His wife is Pam (Pamela), and their daughter Anna Bess \"Annie\" Simons."
+   ]
   },
   {
    "id": "simons_sandy",
-   "name": "Sandy Simons",
-   "aliases": [],
+   "name": "Sandy Simons (Warner)",
+   "aliases": [
+    "Sandy Simons",
+    "Sandy Warner"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -43616,7 +45618,9 @@
     "simons_howard",
     "simons_nancy"
    ],
-   "spouses": [],
+   "spouses": [
+    "warner_marc"
+   ],
    "children": [],
    "siblings": [
     "simons_steve",
@@ -43624,12 +45628,16 @@
     "simons_sharon",
     "simons_judy"
    ],
-   "families": [],
+   "families": [
+    "F_simons_sandy+warner_marc"
+   ],
    "parent_family": "F_simons_howard+simons_nancy",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Kennewick, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -43639,7 +45647,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
    ],
    "notes": []
   },
@@ -43714,8 +45723,11 @@
   },
   {
    "id": "simons_sharon",
-   "name": "Sharon Simons",
-   "aliases": [],
+   "name": "Sharon Simons (Thompson)",
+   "aliases": [
+    "Sharon Simons",
+    "Sharon Thompson"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -43746,7 +45758,9 @@
     "simons_howard",
     "simons_nancy"
    ],
-   "spouses": [],
+   "spouses": [
+    "thompson_alan"
+   ],
    "children": [],
    "siblings": [
     "simons_steve",
@@ -43754,8 +45768,75 @@
     "simons_sandy",
     "simons_judy"
    ],
-   "families": [],
+   "families": [
+    "F_simons_sharon+thompson_alan"
+   ],
    "parent_family": "F_simons_howard+simons_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Camas, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-22",
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+   ],
+   "notes": [
+    "Listed among the Simons family researchers in the Adams direct-line notes. Not the same person as Barbara McKeldin Adams's cousin Sharon.",
+    "Unconfirmed: Sharon Simons uses the married surname Thompson and planned to visit Nancy in the Tri-Cities in 2011. [Family research emails, email 43]",
+    "Unconfirmed: Sharon, apparently a Simons cousin, writes under the married surname Thompson and calls Elaine Simons her aunt. [Family research emails, email 34]"
+   ]
+  },
+  {
+   "id": "simons_shawn",
+   "name": "Shawn Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": null,
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_carl_ray",
+   "mother": null,
+   "parents": [
+    "simons_carl_ray"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_ashley"
+   ],
+   "families": [],
+   "parent_family": "F_simons_carl_ray",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -43769,13 +45850,10 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
    ],
    "notes": [
-    "Listed among the Simons family researchers in the Adams direct-line notes. Not the same person as Barbara McKeldin Adams's cousin Sharon.",
-    "Unconfirmed: Sharon Simons uses the married surname Thompson and planned to visit Nancy in the Tri-Cities in 2011. [Family research emails, email 43]",
-    "Unconfirmed: Sharon, apparently a Simons cousin, writes under the married surname Thompson and calls Elaine Simons her aunt. [Family research emails, email 34]"
+    "Child of Carl Ray Simons; grandchild of Elmer Simons."
    ]
   },
   {
@@ -43829,7 +45907,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Sequim, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -43842,7 +45922,8 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
    ],
    "notes": [
     "Cousin of John Howard Adams; his memoir recalls Steve driving a pickup at age 9 or 10. Listed among the Simons family researchers in the Adams direct-line notes."
@@ -44887,8 +46968,10 @@
   },
   {
    "id": "stan_husband_of_janine_simons",
-   "name": "Stan",
-   "aliases": [],
+   "name": "Stan Bensussen",
+   "aliases": [
+    "Stan"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -44915,7 +46998,10 @@
    "spouses": [
     "simons_janine"
    ],
-   "children": [],
+   "children": [
+    "bensussen_simon",
+    "bensussen_michael"
+   ],
    "siblings": [],
    "families": [
     "F_simons_janine+stan_husband_of_janine_simons"
@@ -44934,10 +47020,11 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
    ],
    "notes": [
-    "Husband of Janine Simons. Surname not recorded."
+    "Husband of Janine (Simons) Bensussen."
    ]
   },
   {
@@ -46110,6 +48197,61 @@
    ]
   },
   {
+   "id": "thompson_alan",
+   "name": "Alan Thompson",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_sharon"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_simons_sharon+thompson_alan"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+   ],
+   "notes": [
+    "Husband of Sharon (Simons) Thompson, of Camas, Washington (2012)."
+   ]
+  },
+  {
    "id": "toadvine_jennifer",
    "name": "Jennifer Toadvine",
    "aliases": [],
@@ -46408,22 +48550,23 @@
   },
   {
    "id": "upham_william",
-   "name": "William “Bill” Upham",
+   "name": "William Clifford “Bill” Upham",
    "aliases": [
-    "Bill Upham"
+    "Bill Upham",
+    "William “Bill” Upham"
    ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "8 Jul 1919",
+    "year": 1919,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "5 Oct 2016",
+    "year": 2016,
     "qualifier": null
    },
    "living": false,
@@ -46448,21 +48591,28 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Gladstone, Oregon"
+    "Gladstone, Oregon",
+    "Portland, Oregon"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Elaine (Simons) Rinehart (m. 1991)"
+   ],
    "education": [],
-   "career": [],
+   "career": [
+    "Accountant at Consolidated Freightways for 46 years; U.S. Army, 106th Infantry Regiment, 27th Infantry Division, in the Pacific, 1942–1945."
+   ],
    "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
    ],
    "notes": [
-    "Husband of Elaine Simons at her death in 2011; living in Gladstone, Oregon. [Family research emails, email 27]"
+    "Husband of Elaine Simons at her death in 2011; living in Gladstone, Oregon. [Family research emails, email 27]",
+    "Born 8 Jul 1919 in Portland; died 5 Oct 2016, aged 97. He married Marie Maxine Smith in 1947 (two daughters), Virginia Rounds in 1977, and Elaine Rinehart in 1991."
    ]
   },
   {
@@ -47338,6 +49488,61 @@
    "notes": [
     "Born in Ohio about 1817–18 (aged 32 in 1850, 43 in 1860, 53 in 1870); the Ancestry trees give 30 Jan 1818, and her death as 25 Dec 1889 in Williams County, Ohio.",
     "She married Henry Symons as \"Mary Marsh\" on 24 Apr 1845 in Summit County, Ohio. Find a Grave and the family trees give her birth surname as Wagner or Wagoner, so she was probably a widow, Mrs. Marsh, when she married Henry; no record found so far shows the Wagner name or a first husband."
+   ]
+  },
+  {
+   "id": "warner_marc",
+   "name": "Marc Warner",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_sandy"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_simons_sandy+warner_marc"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+   ],
+   "notes": [
+    "Husband of Sandy (Simons) Warner, of Kennewick (2012)."
    ]
   },
   {
@@ -50961,6 +53166,40 @@
    "marriage": "abt 1927"
   },
   {
+   "id": "F_busey_gordon+larsen_helen_laverne",
+   "partners": [
+    "busey_gordon",
+    "larsen_helen_laverne"
+   ],
+   "children": [
+    "busey_sheryl",
+    "busey_greg",
+    "busey_debbie",
+    "busey_kris"
+   ],
+   "marriage": "1985"
+  },
+  {
+   "id": "F_busey_grace+busey_zell",
+   "partners": [
+    "busey_grace",
+    "busey_zell"
+   ],
+   "children": [
+    "busey_joan_cora"
+   ],
+   "marriage": "31 Dec 1948"
+  },
+  {
+   "id": "F_busey_jessie+busey_zell",
+   "partners": [
+    "busey_jessie",
+    "busey_zell"
+   ],
+   "children": [],
+   "marriage": "4 Mar 1939"
+  },
+  {
    "id": "F_busey_matt+simons_lola",
    "partners": [
     "busey_matt",
@@ -50970,6 +53209,19 @@
     "busey_zell"
    ],
    "marriage": "16 Feb 1903"
+  },
+  {
+   "id": "F_busey_rose_lee+busey_zell",
+   "partners": [
+    "busey_rose_lee",
+    "busey_zell"
+   ],
+   "children": [
+    "busey_gordon",
+    "busey_lola",
+    "busey_ana_jean"
+   ],
+   "marriage": "abt 1926"
   },
   {
    "id": "F_camille_remy+ivo_john_obad",
@@ -51151,6 +53403,15 @@
     "olson_sigrid"
    ],
    "marriage": "6 Apr 1945"
+  },
+  {
+   "id": "F_doshier_doug+simons_judy",
+   "partners": [
+    "doshier_doug",
+    "simons_judy"
+   ],
+   "children": [],
+   "marriage": null
   },
   {
    "id": "F_douglas_elizabeth+hamilton_gavin_d1814",
@@ -51407,6 +53668,17 @@
     "groves_dorothy_helen"
    ],
    "marriage": "8 Sep 1906"
+  },
+  {
+   "id": "F_groves_dorothy_helen+sawyer_benjamin_jr",
+   "partners": [
+    "groves_dorothy_helen",
+    "sawyer_benjamin_jr"
+   ],
+   "children": [
+    "sawyer_benjamin_iii"
+   ],
+   "marriage": "1929"
   },
   {
    "id": "F_hamilton_abigail+hamilton_gavin_kype_1649",
@@ -51716,6 +53988,15 @@
     "hamilton_mary_a",
     "hamilton_eunice"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_harrington_harry_h+simons_bertha",
+   "partners": [
+    "harrington_harry_h",
+    "simons_bertha"
+   ],
+   "children": [],
    "marriage": null
   },
   {
@@ -52309,7 +54590,8 @@
    ],
    "children": [
     "rhinehart_jerry",
-    "rhinehart_janet"
+    "rhinehart_janet",
+    "rhinehart_debbie"
    ],
    "marriage": null
   },
@@ -52326,6 +54608,27 @@
     "zacher_jacob"
    ],
    "marriage": "abt 1991"
+  },
+  {
+   "id": "F_sawyer_benjamin_iii",
+   "partners": [
+    "sawyer_benjamin_iii"
+   ],
+   "children": [
+    "sawyer_brent",
+    "sawyer_lyn",
+    "sawyer_benjamin_iv"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_sawyer_benjamin_iii+sawyer_carolyn",
+   "partners": [
+    "sawyer_benjamin_iii",
+    "sawyer_carolyn"
+   ],
+   "children": [],
+   "marriage": null
   },
   {
    "id": "F_schlatter_charles_w+wheeler_marjorie",
@@ -52375,13 +54678,34 @@
    "marriage": null
   },
   {
+   "id": "F_simons_billy",
+   "partners": [
+    "simons_billy"
+   ],
+   "children": [
+    "simons_amanda"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_carl_ray",
+   "partners": [
+    "simons_carl_ray"
+   ],
+   "children": [
+    "simons_ashley",
+    "simons_shawn"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_simons_elaine_deretha+upham_william",
    "partners": [
     "simons_elaine_deretha",
     "upham_william"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "1991"
   },
   {
    "id": "F_simons_glen+simons_mary",
@@ -52436,11 +54760,12 @@
     "simons_orval_keith"
    ],
    "children": [
-    "simons_les",
     "simons_rodney",
-    "simons_janine"
+    "simons_les",
+    "simons_janine",
+    "simons_billy"
    ],
-   "marriage": null
+   "marriage": "1951"
   },
   {
    "id": "F_simons_janine+stan_husband_of_janine_simons",
@@ -52448,7 +54773,10 @@
     "simons_janine",
     "stan_husband_of_janine_simons"
    ],
-   "children": [],
+   "children": [
+    "bensussen_simon",
+    "bensussen_michael"
+   ],
    "marriage": null
   },
   {
@@ -52457,7 +54785,21 @@
     "simons_lenore",
     "simons_les"
    ],
-   "children": [],
+   "children": [
+    "simons_jessica_irene",
+    "simons_leslie"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_pamela+simons_rodney",
+   "partners": [
+    "simons_pamela",
+    "simons_rodney"
+   ],
+   "children": [
+    "simons_anna_bess"
+   ],
    "marriage": null
   },
   {
@@ -52465,6 +54807,24 @@
    "partners": [
     "simons_penny",
     "simons_steve"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_sandy+warner_marc",
+   "partners": [
+    "simons_sandy",
+    "warner_marc"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_sharon+thompson_alan",
+   "partners": [
+    "simons_sharon",
+    "thompson_alan"
    ],
    "children": [],
    "marriage": null

@@ -1,6 +1,7 @@
 {
-  "id": "stan_husband_of_janine_simons",
-  "name": "Stan Bensussen",
+  "id": "simons_amanda",
+  "name": "Amanda Simons",
+  "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
@@ -13,24 +14,17 @@
   "career": [],
   "relationships": {
     "mother": "",
-    "father": "",
+    "father": "simons_billy",
     "siblings": [],
-    "spouse": "simons_janine",
-    "children": [
-      "bensussen_simon",
-      "bensussen_michael"
-    ]
+    "spouse": "",
+    "children": []
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
   ],
   "notes": [
-    "Husband of Janine (Simons) Bensussen."
+    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons. Married Chris (surname not given)."
   ],
-  "aliases": [
-    "Stan"
-  ],
-  "sex": "M"
+  "aliases": []
 }

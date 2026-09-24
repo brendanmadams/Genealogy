@@ -1,6 +1,7 @@
 {
-  "id": "simons_lynn",
-  "name": "Lynn Simons",
+  "id": "warner_marc",
+  "name": "Marc Warner",
+  "sex": "M",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,20 +13,18 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "simons_nancy",
-    "father": "simons_howard",
+    "mother": "",
+    "father": "",
     "siblings": [],
-    "spouse": "",
+    "spouse": "simons_sandy",
     "children": []
   },
-  "locations": [
-    "Kennewick, Washington"
-  ],
+  "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22",
     "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
   ],
-  "notes": [],
-  "aliases": [],
-  "sex": "M"
+  "notes": [
+    "Husband of Sandy (Simons) Warner, of Kennewick (2012)."
+  ],
+  "aliases": []
 }

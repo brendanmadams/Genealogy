@@ -1,6 +1,7 @@
 {
-  "id": "stan_husband_of_janine_simons",
-  "name": "Stan Bensussen",
+  "id": "simons_pamela",
+  "name": "Pamela “Pam” Simons",
+  "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
@@ -15,22 +16,17 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "simons_janine",
+    "spouse": "simons_rodney",
     "children": [
-      "bensussen_simon",
-      "bensussen_michael"
+      "simons_anna_bess"
     ]
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
   ],
   "notes": [
-    "Husband of Janine (Simons) Bensussen."
+    "Wife of Rod Simons; her birth surname is not recorded."
   ],
-  "aliases": [
-    "Stan"
-  ],
-  "sex": "M"
+  "aliases": []
 }

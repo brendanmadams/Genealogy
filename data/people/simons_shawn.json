@@ -1,6 +1,6 @@
 {
-  "id": "simons_lenore",
-  "name": "Lenore Simons",
+  "id": "simons_shawn",
+  "name": "Shawn Simons",
   "birth": "",
   "death": "",
   "personality": [],
@@ -13,21 +13,17 @@
   "career": [],
   "relationships": {
     "mother": "",
-    "father": "",
+    "father": "simons_carl_ray",
     "siblings": [],
-    "spouse": "simons_les",
-    "children": [
-      "simons_jessica_irene",
-      "simons_leslie"
-    ]
+    "spouse": "",
+    "children": []
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025"
   ],
   "notes": [
-    "Wife of Les Simons. Maiden name not recorded."
+    "Child of Carl Ray Simons; grandchild of Elmer Simons."
   ],
-  "aliases": [],
-  "sex": "F"
+  "aliases": []
 }

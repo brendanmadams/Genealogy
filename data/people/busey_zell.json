@@ -1,31 +1,64 @@
 {
   "id": "busey_zell",
-  "name": "Zell Busey",
+  "name": "Zell Martin Busey",
   "sex": "M",
-  "birth": "abt 1906",
-  "death": "",
+  "birth": "21 Nov 1906",
+  "death": "28 Apr 1983",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Rose Lee (m. abt 1926); divorced 1935",
+    "Married Jessie L. (m. 4 Mar 1939)",
+    "Married Grace M. (m. 31 Dec 1948)"
+  ],
   "education": [],
-  "career": [],
+  "career": [
+    "Lumber mill foreman (1930), crane operator (1940), National Guard caretaker (1950); a master sergeant by 1957."
+  ],
   "relationships": {
     "mother": "simons_lola",
     "father": "busey_matt",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "busey_rose_lee",
+    "children": [
+      "busey_gordon",
+      "busey_lola",
+      "busey_ana_jean",
+      "busey_joan_cora"
+    ],
+    "_extra_spouses": [
+      "busey_jessie",
+      "busey_grace"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Bellingham, Washington",
+    "Umatilla County, Oregon",
+    "Seattle, Washington",
+    "Kirkland, Washington"
+  ],
   "sources": [
-    "Ancestry.com, U.S. Federal Censuses 1900–1950"
+    "Ancestry.com, U.S. Federal Censuses 1900–1950",
+    "Ancestry.com, 1920 United States Federal Census",
+    "Ancestry.com, 1930 United States Federal Census",
+    "Ancestry.com, 1940 United States Federal Census",
+    "Ancestry.com, 1950 United States Federal Census",
+    "Ancestry.com, U.S. World War II Draft Cards Young Men, 1940–1947",
+    "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013",
+    "Obituary of Gordon \"Bud\" Busey, Times-Standard, Eureka, California, 19 Oct 2005 (Legacy.com)"
   ],
   "notes": [
     "Grandson of Aaron and Hattie Simons, living with them at Delta, Whatcom County, aged 4 in 1910. Inferred to be the son of Lola Simons and Matt Busey: Lola is the only Simons daughter known to have married a Busey. His name likely honours his uncle Raymond Zell Simons.",
-    "The 1910 census gives his birthplace as Washington, his father's as Iowa and his mother's as Michigan, which fits Lola Simons, born in Michigan."
+    "The 1910 census gives his birthplace as Washington, his father's as Iowa and his mother's as Michigan, which fits Lola Simons, born in Michigan.",
+    "Born 21 Nov 1906 at Bellingham, Washington (WWII draft card; other records give 1905 or 1908); died 28 Apr 1983 at Kirkland, Washington. In 1920, aged 14, he lived in Umatilla County, Oregon, as the nephew of Harry H. and Bertha Harrington, his mother Lola's sister.",
+    "Married Rose Lee about 1926 (they had twins Gordon \"Bud\" and Lola in 1929 and a younger daughter Ana Jean, and divorced in 1935); Jessie L. on 4 Mar 1939 in Seattle; and Grace M. on 31 Dec 1948 at Sedro-Woolley, Skagit County, with whom he had a daughter, Joan Cora, about 1949."
   ],
-  "aliases": []
+  "aliases": [
+    "Zell Busey",
+    "Zell M. Busey"
+  ]
 }

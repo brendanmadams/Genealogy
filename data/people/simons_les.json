@@ -14,13 +14,23 @@
   "relationships": {
     "mother": "simons_irene",
     "father": "simons_orval_keith",
-    "siblings": [],
+    "siblings": [
+      "simons_janine",
+      "simons_rodney",
+      "simons_billy"
+    ],
     "spouse": "simons_lenore",
-    "children": []
+    "children": [
+      "simons_jessica_irene",
+      "simons_leslie"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Kent, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
   ],
   "notes": [],
   "aliases": [],

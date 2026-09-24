@@ -1,6 +1,6 @@
 {
   "id": "simons_sandy",
-  "name": "Sandy Simons",
+  "name": "Sandy Simons (Warner)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -15,14 +15,20 @@
     "mother": "simons_nancy",
     "father": "simons_howard",
     "siblings": [],
-    "spouse": "",
+    "spouse": "warner_marc",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Kennewick, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
   ],
   "notes": [],
-  "aliases": [],
+  "aliases": [
+    "Sandy Simons",
+    "Sandy Warner"
+  ],
   "sex": "F"
 }

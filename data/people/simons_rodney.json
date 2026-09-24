@@ -1,28 +1,51 @@
 {
   "id": "simons_rodney",
-  "name": "Rodney Simons",
-  "birth": "",
-  "death": "",
+  "name": "Rodney Keith “Rod” Simons",
+  "birth": "30 Jun 1960",
+  "death": "20 Feb 2017",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
-  "education": [],
-  "career": [],
+  "milestones": [
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
+  ],
+  "education": [
+    "Washington State University."
+  ],
+  "career": [
+    "Radio and sports broadcaster, based in Minneapolis."
+  ],
   "relationships": {
     "mother": "simons_irene",
     "father": "simons_orval_keith",
-    "siblings": [],
-    "spouse": "",
-    "children": []
+    "siblings": [
+      "simons_janine",
+      "simons_les",
+      "simons_billy"
+    ],
+    "spouse": "simons_pamela",
+    "children": [
+      "simons_anna_bess"
+    ]
   },
-  "locations": [],
-  "sources": [
-    "Brendan Adams, 2026-09-22"
+  "locations": [
+    "Pasco, Washington",
+    "Minneapolis, Minnesota",
+    "Fort Myers, Florida"
   ],
-  "notes": [],
-  "aliases": [],
+  "sources": [
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+  ],
+  "notes": [
+    "Born 30 Jun 1960; grew up in the Tri-Cities and studied at Washington State University, where he found radio and then sports broadcasting. He died 20 Feb 2017 at Fort Myers, Florida, aged 56, and was buried at Desert Lawn Memorial Park, Kennewick, where his grandparents Ray and Dradie Simons lie. His wife is Pam (Pamela), and their daughter Anna Bess \"Annie\" Simons."
+  ],
+  "aliases": [
+    "Rodney Simons",
+    "Rod Simons"
+  ],
   "sex": "M"
 }

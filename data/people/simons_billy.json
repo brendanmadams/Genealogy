@@ -1,0 +1,37 @@
+{
+  "id": "simons_billy",
+  "name": "Billy Simons",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "simons_irene",
+    "father": "simons_orval_keith",
+    "siblings": [
+      "simons_janine",
+      "simons_les",
+      "simons_rodney"
+    ],
+    "spouse": "",
+    "children": [
+      "simons_amanda"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
+  ],
+  "notes": [
+    "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda."
+  ],
+  "aliases": []
+}

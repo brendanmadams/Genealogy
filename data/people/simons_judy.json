@@ -1,6 +1,6 @@
 {
   "id": "simons_judy",
-  "name": "Judy Simons",
+  "name": "Judith “Judy” Simons (Doshier)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -15,14 +15,20 @@
     "mother": "simons_nancy",
     "father": "simons_howard",
     "siblings": [],
-    "spouse": "",
+    "spouse": "doshier_doug",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Kennewick, Washington"
+  ],
   "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
   ],
   "notes": [],
-  "aliases": [],
+  "aliases": [
+    "Judy Simons",
+    "Judith Doshier"
+  ],
   "sex": "F"
 }

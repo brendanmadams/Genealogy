@@ -1,6 +1,7 @@
 {
-  "id": "stan_husband_of_janine_simons",
-  "name": "Stan Bensussen",
+  "id": "simons_anna_bess",
+  "name": "Anna Bess “Annie” Simons",
+  "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,25 +13,19 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "simons_pamela",
+    "father": "simons_rodney",
     "siblings": [],
-    "spouse": "simons_janine",
-    "children": [
-      "bensussen_simon",
-      "bensussen_michael"
-    ]
+    "spouse": "",
+    "children": []
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22",
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
   ],
   "notes": [
-    "Husband of Janine (Simons) Bensussen."
+    "Daughter of Rod and Pam Simons; granddaughter of Orvel and Irene Simons."
   ],
-  "aliases": [
-    "Stan"
-  ],
-  "sex": "M"
+  "aliases": []
 }

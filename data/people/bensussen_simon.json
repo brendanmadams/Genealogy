@@ -1,6 +1,7 @@
 {
-  "id": "stan_husband_of_janine_simons",
-  "name": "Stan Bensussen",
+  "id": "bensussen_simon",
+  "name": "Simon Bensussen",
+  "sex": "M",
   "birth": "",
   "death": "",
   "personality": [],
@@ -12,25 +13,18 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "simons_janine",
+    "father": "stan_husband_of_janine_simons",
     "siblings": [],
-    "spouse": "simons_janine",
-    "children": [
-      "bensussen_simon",
-      "bensussen_michael"
-    ]
+    "spouse": "",
+    "children": []
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
   ],
   "notes": [
-    "Husband of Janine (Simons) Bensussen."
+    "Son of Stan and Janine (Simons) Bensussen; grandson of Orvel and Irene Simons."
   ],
-  "aliases": [
-    "Stan"
-  ],
-  "sex": "M"
+  "aliases": []
 }

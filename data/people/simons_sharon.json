@@ -1,6 +1,6 @@
 {
   "id": "simons_sharon",
-  "name": "Sharon Simons",
+  "name": "Sharon Simons (Thompson)",
   "birth": "",
   "death": "",
   "personality": [],
@@ -15,19 +15,25 @@
     "mother": "simons_nancy",
     "father": "simons_howard",
     "siblings": [],
-    "spouse": "",
+    "spouse": "thompson_alan",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Camas, Washington"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
   ],
   "notes": [
     "Listed among the Simons family researchers in the Adams direct-line notes. Not the same person as Barbara McKeldin Adams's cousin Sharon.",
     "Unconfirmed: Sharon Simons uses the married surname Thompson and planned to visit Nancy in the Tri-Cities in 2011. [Family research emails, email 43]",
     "Unconfirmed: Sharon, apparently a Simons cousin, writes under the married surname Thompson and calls Elaine Simons her aunt. [Family research emails, email 34]"
   ],
-  "aliases": [],
+  "aliases": [
+    "Sharon Simons",
+    "Sharon Thompson"
+  ],
   "sex": "F"
 }
