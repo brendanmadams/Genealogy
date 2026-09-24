@@ -6,14 +6,16 @@
 //    sees only the records for the current selection (the chart on screen)
 //    plus anyone named in the question, and must answer from them alone.
 import { displayName, lifespan, byBirth } from './data.js';
-import { relate } from './relate.js';
+import { relate, bloodDistance } from './relate.js';
 import { ASK } from './config.js';
 import { suggestEnabled } from './suggest.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-const norm = s => String(s ?? '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[“”"]/g, ' ').replace(/[’']/g, "'").replace(/[^a-z0-9' ]+/g, ' ').replace(/\s+/g, ' ').trim();
+const norm = s => String(s ?? '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[“”"]/g, ' ').replace(/[’']s\b/g, '').replace(/[’']/g, '').replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();
 const STOP = new Set('a an and are as at be by did do does for from had has have he her his how i in is it its me my of on or our she that the their them there they this to was we were what when where which who whom whose why with you your about any tell know anything much many please'.split(' '));
 const CONTEXT_CHARS = 24000;
+// words too common in the records to help find the right ones
+const SEARCH_STOP = new Set('family families time times people person life lived live living years year ever known records record side line spent'.split(' '));
 
 export const askEnabled = () => Boolean(ASK.endpoint);
 
@@ -50,8 +52,9 @@ class NameIndex {
     this.maxWords = Math.max(...[...this.map.keys()].map(k => k.split(' ').length));
   }
   /** People named in `text`, longest matches first, one pick per mention. */
-  find(text, scope = new Set()) {
+  find(text, scope = new Set(), focus = null) {
     const words = norm(text).split(' ');
+    const caps = new Set((String(text).match(/\b[A-Z][a-z’']+/g) || []).map(norm));
     const found = [];
     for (let i = 0; i < words.length;) {
       let hit = null;
@@ -60,23 +63,29 @@ class NameIndex {
         if (n === 1 && (STOP.has(phrase) || phrase.length < 3)) continue;
         const ids = this.map.get(phrase);
         if (!ids) continue;
-        const pick = this.best([...ids], scope, n === 1);
-        if (pick) hit = { id: pick, n, text: phrase };
+        const pick = this.best([...ids], scope, n === 1, caps.has(phrase), focus);
+        if (pick) hit = { id: pick.id, n, text: phrase, of: pick.of };
       }
       if (hit) { if (!found.some(f => f.id === hit.id)) found.push(hit); i += hit.n; } else i++;
     }
     return found;
   }
-  best(ids, scope, single) {
+  /** → { id, of } where `of` is how many family members share the name (0 when unambiguous). */
+  best(ids, scope, single, capitalized, focus) {
     const D = this.D;
     const rank = id => { const p = D.person(id); return (scope.has(id) ? 8 : 0) + (p.connected ? 4 : 0) + (p.dna_match ? -6 : 0) + (p.birth?.year ? 1 : 0); };
     const sorted = ids.sort((a, b) => rank(b) - rank(a));
-    if (!single) return sorted[0];
-    // a bare first name counts only if it points at one person in view, or one person overall
+    if (!single) return { id: sorted[0], of: 0 };
+    // a bare first name: one person in view, or one person overall …
     const inScope = sorted.filter(id => scope.has(id));
-    if (inScope.length === 1) return inScope[0];
+    if (inScope.length === 1) return { id: inScope[0], of: 0 };
     const family = sorted.filter(id => !D.person(id).dna_match);
-    return family.length === 1 ? family[0] : null;
+    if (family.length === 1) return { id: family[0], of: 0 };
+    // … or, when several share it and it was written as a name ("Ellen"), the closest relative of the person on screen
+    if (!capitalized || !family.length) return null;
+    const dist = id => { if (!focus) return 99; if (id === focus) return 0; const bd = bloodDistance(D, focus, id); return bd ? bd.a + bd.b : 99; };
+    const closest = family.map(id => [id, dist(id), rank(id)]).sort((a, b) => a[1] - b[1] || b[2] - a[2])[0];
+    return { id: closest[0], of: family.length };
   }
 }
 
@@ -106,19 +115,71 @@ export function selection(D, focusId, view, gens) {
 }
 
 // ── Exact answers ────────────────────────────────────────────────────────────
-const REL_WORDS = {
-  parents: /\b(parents?|father|mother|mom|dad)\b/, grandparents: /\bgrand ?(parents?|father|mother)s?\b/,
-  children: /\b(children|kids|sons?|daughters?|child)\b/, grandchildren: /\bgrand ?(children|kids|sons?|daughters?)\b/,
-  siblings: /\b(siblings?|brothers?|sisters?)\b/, spouses: /\b(spouses?|wife|wives|husbands?|married to|marry|partner)\b/,
-  cousins: /\b(first )?cousins?\b/,
-};
+const US_STATES = { alabama: 'AL', alaska: 'AK', arizona: 'AZ', arkansas: 'AR', california: 'CA', colorado: 'CO', connecticut: 'CT', delaware: 'DE', florida: 'FL', georgia: 'GA', hawaii: 'HI', idaho: 'ID', illinois: 'IL', indiana: 'IN', iowa: 'IA', kansas: 'KS', kentucky: 'KY', louisiana: 'LA', maine: 'ME', maryland: 'MD', massachusetts: 'MA', michigan: 'MI', minnesota: 'MN', mississippi: 'MS', missouri: 'MO', montana: 'MT', nebraska: 'NE', nevada: 'NV', 'new hampshire': 'NH', 'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY', 'north carolina': 'NC', 'north dakota': 'ND', ohio: 'OH', oklahoma: 'OK', oregon: 'OR', pennsylvania: 'PA', 'rhode island': 'RI', 'south carolina': 'SC', 'south dakota': 'SD', tennessee: 'TN', texas: 'TX', utah: 'UT', vermont: 'VT', virginia: 'VA', washington: 'WA', 'west virginia': 'WV', wisconsin: 'WI', wyoming: 'WY' };
+const reEsc = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+/** A test for "this text mentions the place". A US state matches "Lynden, Washington",
+ *  "…, WA" or "in Washington", but not Washington County or Washington, D.C.; and
+ *  Virginia does not match West Virginia. */
+function placeTest(place) {
+  const abbr = US_STATES[place];
+  if (abbr) {
+    const full = new RegExp(`(?:^|,\\s*|\\bin\\s+|\\bstate of\\s+|\\()(?<!\\b(?:west|new|north|south)\\s)${reEsc(place)}(?!\\s+(?:county|co\\b|d\\.?\\s?c\\b|city\\b))(?=\\s*$|\\s*[,;.()]|\\s+(?:state|territory|usa|us)\\b)`, 'i');
+    const short = new RegExp(`,\\s*${abbr}\\b`);
+    return s => full.test(String(s)) || short.test(String(s));
+  }
+  const re = new RegExp(`\\b${reEsc(place)}\\b`);
+  return s => re.test(norm(s));
+}
+
+// relationship words → generations up from the person (a) and down to the relative (b)
+const ORDN = { first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, '1st': 1, '2nd': 2, '3rd': 3, '4th': 4, '5th': 5, '6th': 6 };
+const REMOVED = { once: 1, twice: 2, thrice: 3, 'three times': 3, 'four times': 4 };
+const KIN = { parent: 'up', parents: 'up', father: 'up', fathers: 'up', mother: 'up', mothers: 'up', child: 'down', children: 'down', kid: 'down', kids: 'down', son: 'down', sons: 'down', daughter: 'down', daughters: 'down', aunt: 'au', aunts: 'au', uncle: 'au', uncles: 'au', niece: 'nn', nieces: 'nn', nephew: 'nn', nephews: 'nn', sibling: 'sib', siblings: 'sib', brother: 'sib', brothers: 'sib', sister: 'sib', sisters: 'sib' };
+const FEM = /^(mothers?|daughters?|aunts?|nieces?|sisters?)$/, MASC = /^(fathers?|sons?|uncles?|nephews?|brothers?)$/;
+const KIN_RE = /\b((?:great\s*-?\s*|\d+\s*x\s*great\s*-?\s*)*)(grand\s*-?\s*)?(parents?|fathers?|mothers?|children|kids?|sons?|daughters?|aunts?|uncles?|nieces?|nephews?|siblings?|brothers?|sisters?)\b/g;
+
+function relRequest(n) {
+  const c = n.match(/\b(first|second|third|fourth|fifth|sixth|1st|2nd|3rd|4th|5th|6th)?\s*cousins?(?:\s+(once|twice|thrice|three times|four times)\s+removed)?\b/);
+  if (c) {
+    const deg = ORDN[c[1]] || 1, k = REMOVED[c[2]] || 0;
+    return { phrase: `${c[1] || 'first'} cousins${k ? ` ${c[2]} removed` : ''}`, pairs: k ? [[deg + 1, deg + 1 + k], [deg + 1 + k, deg + 1]] : [[deg + 1, deg + 1]], sex: null };
+  }
+  const all = [...n.matchAll(KIN_RE)];
+  if (!all.length) return null;
+  const m = all[0];
+  const x = (m[1].match(/(\d+)\s*x/) || [])[1];
+  const g = x ? +x : (m[1].match(/great/g) || []).length;
+  const grand = m[2] || g ? 1 : 0;
+  const kind = KIN[m[3]];
+  const sexes = new Set(all.map(k => FEM.test(k[3]) ? 'F' : MASC.test(k[3]) ? 'M' : 'any'));
+  const sex = sexes.size === 1 && !sexes.has('any') ? [...sexes][0] : null;
+  const pair = { up: [1 + grand + g, 0], down: [0, 1 + grand + g], au: [2 + g + (m[2] ? 1 : 0), 1], nn: [1, 2 + g + (m[2] ? 1 : 0)], sib: [1, 1] }[kind];
+  return { phrase: all.map(k => k[0].trim()).join(' and '), pairs: [pair], sex, kind };
+}
+
+/** Everyone whose closest blood relationship to p is one of the (a, b) pairs; id → half? */
+function relativesOf(D, p, pairs) {
+  const out = new Map();
+  const anc = [[p.id]];
+  for (let d = 1; d <= Math.max(...pairs.map(x => x[0])); d++) anc.push([...new Set(anc[d - 1].flatMap(id => D.person(id)?.parents || []))].filter(id => D.person(id)));
+  for (const [a, b] of pairs) for (const top of anc[a] || []) {
+    let level = [top];
+    for (let d = 0; d < b; d++) level = [...new Set(level.flatMap(id => D.person(id)?.children || []))].filter(id => D.person(id));
+    for (const id of level) {
+      if (id === p.id || out.has(id)) continue;
+      const bd = bloodDistance(D, p.id, id);
+      if (bd && bd.a === a && bd.b === b) out.set(id, bd.half);
+    }
+  }
+  return out;
+}
 
 function localAnswer(D, names, q, sel, meId) {
   const n = norm(q);
   const who = id => D.person(id);
   const named = names.map(x => x.id);
-  const subject = named[0] || (/\b(his|her|their|this person|them|he|she)\b/.test(n) || !named.length ? sel.focus : null);
-  const iAsk = /\b(i|me|my|am i)\b/.test(n);
+  const iAsk = /\b(i|me|my|am i|mine)\b/.test(n);
 
   // how is A related to B / relationship between A and B / how am I related to A
   if (/\brelat(ed|ion|ionship)\b|\bconnected to\b/.test(n)) {
@@ -142,107 +203,124 @@ function localAnswer(D, names, q, sel, meId) {
   // open questions ("what do we know…", "why…", "summarize…") need reading, not lookup
   if (/\b(what do we know|what is known|tell me|how sure|how certain|how confident|why|summari[sz]e|describe|explain|stor(y|ies)|anything about|more about|compare|evidence|proof|proven)\b/.test(n)) return null;
 
-  const p = subject && who(subject);
-  if (p) {
-    const nm = esc(displayName(p));
-    // when did they marry
-    if (/\bwhen\b/.test(n) && /\b(marry|married|marriage|wed|wedding)\b/.test(n)) {
-      const fams = D.partnerFamilies(p).filter(f => D.partnerIn(f, p));
-      if (!fams.length) return { html: `<p>No marriage is recorded for <strong>${nm}</strong>.</p>`, people: [p.id] };
-      return { html: `<ul>${fams.map(f => `<li>${nm} and ${esc(displayName(D.partnerIn(f, p)))}: ${f.marriage ? `married <strong>${esc(f.marriage)}</strong>` : 'marriage date not recorded'}</li>`).join('')}</ul>`, people: [p.id, ...fams.map(f => D.partnerIn(f, p).id)], list: true };
-    }
-    // family members
-    for (const [key, re] of Object.entries(REL_WORDS)) {
-      if (!re.test(n)) continue;
-      if (key === 'parents' && REL_WORDS.grandparents.test(n)) continue;
-      if (key === 'children' && REL_WORDS.grandchildren.test(n)) continue;
-      const partners = D.partnerFamilies(p).map(f => D.partnerIn(f, p)).filter(Boolean);
-      const sib = D.siblings(p);
-      const list = {
-        parents: D.parents(p), grandparents: D.parents(p).flatMap(x => D.parents(x)),
-        children: D.children(p), grandchildren: byBirth(D.children(p).flatMap(x => D.children(x))),
-        siblings: [...sib.full, ...sib.half], spouses: partners,
-        cousins: byBirth(D.parents(p).flatMap(par => { const s = D.siblings(par); return [...s.full, ...s.half]; }).flatMap(x => D.children(x))),
-      }[key];
-      const word = { parents: 'parents', grandparents: 'grandparents', children: 'children', grandchildren: 'grandchildren', siblings: 'brothers and sisters', spouses: 'spouses or partners', cousins: 'first cousins' }[key];
-      if (!list.length) return { html: `<p>No ${word} of <strong>${nm}</strong> are recorded.</p>`, people: [p.id] };
-      const half = key === 'siblings' && sib.half.length ? ` (${sib.half.length} half)` : '';
-      return { html: `<p><strong>${nm}</strong> has ${list.length} recorded ${word}${half}:</p>`, people: list.map(x => x.id), list: true };
-    }
-    // when / where
-    if (/\bwhen\b/.test(n) && /\b(born|birth)\b/.test(n)) return { html: `<p><strong>${nm}</strong> was born <strong>${esc(p.birth?.text || 'on a date not yet recorded')}</strong>.</p>`, people: [p.id] };
-    if (/\bwhen\b/.test(n) && /\b(die|died|death|pass|passed)\b/.test(n)) {
-      const t = p.death?.text ? `died <strong>${esc(p.death.text)}</strong>` : p.living_status ? 'is living, or no death is recorded' : 'has no death date recorded';
-      return { html: `<p><strong>${nm}</strong> ${t}.</p>`, people: [p.id] };
-    }
-    if (/\bwhere\b/.test(n) && /\b(born|live|lived|die|died|buried|from)\b/.test(n)) {
-      const kw = /\bborn\b/.test(n) ? /\bborn\b|\bbirth\b/i : /\b(die|died)\b/.test(n) ? /\bdied\b|\bdeath\b/i : /\bburied\b/.test(n) ? /\bburied\b|\bcemetery\b/i : null;
-      const facts = kw ? (p.milestones || []).filter(m => kw.test(m)) : [];
-      const places = p.locations || [];
-      if (!facts.length && !places.length) return { html: `<p>No places are recorded for <strong>${nm}</strong> yet.</p>`, people: [p.id] };
-      return { html: `${facts.length ? `<ul>${facts.map(f => `<li>${esc(f)}</li>`).join('')}</ul>` : ''}${places.length ? `<p>Places recorded for <strong>${nm}</strong>: ${places.map(esc).join(' · ')}</p>` : ''}`, people: [p.id] };
-    }
-    // oldest / earliest ancestor
-    if (/\b(oldest|earliest|furthest|farthest|first)\b.*\bancestors?\b/.test(n)) {
-      const seen = new Set(); let gen = [p]; const all = [];
-      while (gen.length) { gen = gen.flatMap(x => D.parents(x)).filter(x => !seen.has(x.id) && seen.add(x.id)); all.push(...gen); }
-      const dated = all.filter(x => x.birth?.year).sort((a, b) => a.birth.year - b.birth.year);
-      if (!dated.length) return { html: `<p>No dated ancestors of <strong>${nm}</strong> are recorded.</p>`, people: [p.id] };
-      return { html: `<p>The earliest-born recorded ancestors of <strong>${nm}</strong> (${all.length} ancestors in all):</p>`, people: dated.slice(0, 5).map(x => x.id), list: true };
-    }
-    // how many ancestors / descendants
-    if (/\bhow many\b/.test(n) && /\b(ancestors?|descendants?)\b/.test(n)) {
-      const up = /\bancestors?\b/.test(n);
-      const seen = new Set(); let gen = [p];
-      while (gen.length) { gen = gen.flatMap(x => up ? D.parents(x) : D.children(x)).filter(x => !seen.has(x.id) && seen.add(x.id)); }
-      return { html: `<p><strong>${seen.size}</strong> ${up ? 'ancestors' : 'descendants'} of <strong>${nm}</strong> are recorded.</p>`, people: [p.id] };
-    }
+  // lists across the whole tree: born / died / lived in, before, after. A place wins over a
+  // name here ("who lived in Washington" is about the state, not Washington Baker).
+  const m = n.match(/\b(born|died|lived|live|living|buried|from)\s+(in|before|after|near|at)\s+(.+)$/);
+  if (m) {
+    const verb = m[1] === 'live' || m[1] === 'living' ? 'lived' : m[1], prep = m[2], rest = m[3];
+    const year = (rest.match(/\b(1[5-9]\d\d|20\d\d)\b/) || [])[1];
+    const place = rest.replace(/\b(1[5-9]\d\d|20\d\d)s?\b/, ' ').replace(/\b(the|state|state of|usa|us)\b/g, ' ').replace(/\s+/g, ' ').trim();
+    const known = place.length >= 3 && (US_STATES[place] || [...D.people.values()].some(x => (x.locations || []).some(l => norm(l).includes(place))));
+    if (year || known || !named.length) return placeList(D, sel, verb, prep, year, place);
   }
 
-  // lists across the whole tree: born / died / lived in, before, after
-  const m = n.match(/\b(born|died|lived|buried|from)\s+(in|before|after|near|at)\s+(.+)$/);
-  if (m && !named.length) {
-    const [, verb, prep, rest] = m;
-    const year = (rest.match(/\b(1[5-9]\d\d|20\d\d)\b/) || [])[1];
-    const place = rest.replace(/\b(1[5-9]\d\d|20\d\d)s?\b/, '').replace(/\b(county|the|state of)\b/g, ' ').trim();
-    let hits = [];
-    for (const x of D.people.values()) {
-      if (x.dna_match) continue;
-      if (year && prep !== 'in') {
-        const y = verb === 'died' ? x.death?.year : x.birth?.year;
-        if (y && (prep === 'before' ? y < +year : y > +year)) hits.push(x);
-      } else if (year && prep === 'in') {
-        if ((verb === 'died' ? x.death?.year : x.birth?.year) === +year) hits.push(x);
-      } else if (place.length >= 3) {
-        const re = new RegExp(`\\b${place.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`);
-        const kw = verb === 'born' ? /\bborn\b|\bbirth\b/i : verb === 'died' ? /\bdied\b|\bdeath\b/i : verb === 'buried' ? /\bburied\b|\bcemetery\b/i : null;
-        if (!kw) { if (re.test(norm((x.locations || []).join(' | ')))) hits.push(x); continue; }
-        // a birth (death, burial) is "recorded there" only when one sentence names both the event and the place
-        const sentences = [...(x.milestones || []), ...(x.notes || [])].flatMap(t => String(t).split(/(?<=[.;])\s+/));
-        if (sentences.some(t => kw.test(t) && re.test(norm(t)))) hits.push(x);
-        else if (re.test(norm((x.locations || []).join(' | ')))) (x._alsoLinked = true, hits.push(x));
-      }
-    }
-    const inView = new Set(sel.ids);
-    const title = s => s.replace(/\b\w/g, c => c.toUpperCase());
-    const what = `${{ born: 'born', died: 'having died', buried: 'buried', lived: 'living', from: 'coming from' }[verb]} ${verb === 'from' ? '' : prep + ' '}${esc(year || title(place))}${verb === 'lived' ? ' at some point' : ''}`;
-    const strong = byBirth(hits.filter(h => !h._alsoLinked)), weak = byBirth(hits.filter(h => h._alsoLinked));
-    hits.forEach(h => delete h._alsoLinked);
-    if (!strong.length && !weak.length) return { html: `<p>No one in the records is recorded as ${what}.</p>` };
-    const shown = strong.slice(0, 40);
-    const mark = strong.some(h => inView.has(h.id)) ? ' (those in your current view are highlighted)' : '';
-    let html = strong.length
-      ? `<p><strong>${strong.length}</strong> ${strong.length === 1 ? 'person is' : 'people are'} recorded as ${what}${strong.length > shown.length ? `; the first ${shown.length} by birth` : ''}${mark}:</p>`
-      : `<p>No one has a ${verb === 'born' ? 'birth' : verb === 'died' ? 'death' : 'burial'} recorded ${prep} ${esc(title(place))}.</p>`;
-    const extra = weak.length ? `<p class="muted">Also linked to ${esc(title(place))}, with no ${verb === 'born' ? 'birthplace' : verb === 'died' ? 'place of death' : 'burial place'} recorded there: ${weak.slice(0, 30).map(x => esc(displayName(x))).join(', ')}${weak.length > 30 ? ` and ${weak.length - 30} more` : ''}.</p>` : '';
-    return { html, people: shown.map(x => x.id), list: true, highlight: inView, after: extra };
+  // whose question is it: "my" → you; a name → them; otherwise the person on screen
+  let subject = named[0] || null, youNote = '';
+  if (!subject && iAsk) {
+    if (meId) subject = meId;
+    else if (sel.focus) { subject = sel.focus; youNote = `<p class="muted">Answering for ${esc(displayName(who(sel.focus)))}, the person on screen. To make “my” mean you, open your own entry and press <strong>This is me</strong>.</p>`; }
+  }
+  if (!subject) subject = sel.focus;
+  const p = subject && who(subject);
+  if (!p) return null;
+  const you = subject === meId && iAsk;
+  const nm = esc(displayName(p));
+  const has = you ? 'You have' : `<strong>${nm}</strong> has`;
+
+  // when did they marry
+  if (/\bwhen\b/.test(n) && /\b(marry|married|marriage|wed|wedding)\b/.test(n)) {
+    const fams = D.partnerFamilies(p).filter(f => D.partnerIn(f, p));
+    if (!fams.length) return { html: `<p>No marriage is recorded for <strong>${nm}</strong>.</p>`, people: [p.id] };
+    return { html: `<ul>${fams.map(f => `<li>${nm} and ${esc(displayName(D.partnerIn(f, p)))}: ${f.marriage ? `married <strong>${esc(f.marriage)}</strong>` : 'marriage date not recorded'}</li>`).join('')}</ul>`, people: [p.id, ...fams.map(f => D.partnerIn(f, p).id)], list: true };
+  }
+  // when / where
+  if (/\bwhen\b/.test(n) && /\b(born|birth)\b/.test(n)) return { html: `<p><strong>${nm}</strong> was born <strong>${esc(p.birth?.text || 'on a date not yet recorded')}</strong>.</p>`, people: [p.id] };
+  if (/\bwhen\b/.test(n) && /\b(die|died|death|pass|passed)\b/.test(n)) {
+    const t = p.death?.text ? `died <strong>${esc(p.death.text)}</strong>` : p.living_status ? 'is living, or no death is recorded' : 'has no death date recorded';
+    return { html: `<p><strong>${nm}</strong> ${t}.</p>`, people: [p.id] };
+  }
+  if (/\bwhere\b/.test(n) && /\b(born|live|lived|die|died|buried|from)\b/.test(n)) {
+    const kw = /\bborn\b/.test(n) ? /\bborn\b|\bbirth\b/i : /\b(die|died)\b/.test(n) ? /\bdied\b|\bdeath\b/i : /\bburied\b/.test(n) ? /\bburied\b|\bcemetery\b/i : null;
+    const facts = kw ? (p.milestones || []).filter(t => kw.test(t)) : [];
+    const places = p.locations || [];
+    if (!facts.length && !places.length) return { html: `<p>No places are recorded for <strong>${nm}</strong> yet.</p>`, people: [p.id] };
+    return { html: `${facts.length ? `<ul>${facts.map(f => `<li>${esc(f)}</li>`).join('')}</ul>` : ''}${places.length ? `<p>Places recorded for <strong>${nm}</strong>: ${places.map(esc).join(' · ')}</p>` : ''}`, people: [p.id] };
+  }
+  // oldest / earliest ancestor
+  if (/\b(oldest|earliest|furthest|farthest|first)\b.*\bancestors?\b/.test(n)) {
+    const seen = new Set(); let gen = [p]; const all = [];
+    while (gen.length) { gen = gen.flatMap(x => D.parents(x)).filter(x => !seen.has(x.id) && seen.add(x.id)); all.push(...gen); }
+    const dated = all.filter(x => x.birth?.year).sort((a, b) => a.birth.year - b.birth.year);
+    if (!dated.length) return { html: `<p>No dated ancestors of <strong>${nm}</strong> are recorded.</p>`, people: [p.id] };
+    return { html: `<p>The earliest-born recorded ancestors of <strong>${nm}</strong> (${all.length} ancestors in all):</p>`, people: dated.slice(0, 5).map(x => x.id), list: true };
+  }
+  // how many ancestors / descendants
+  if (/\bhow many\b/.test(n) && /\b(ancestors?|descendants?)\b/.test(n)) {
+    const up = /\bancestors?\b/.test(n);
+    const seen = new Set(); let gen = [p];
+    while (gen.length) { gen = gen.flatMap(x => up ? D.parents(x) : D.children(x)).filter(x => !seen.has(x.id) && seen.add(x.id)); }
+    return { html: `<p><strong>${seen.size}</strong> ${up ? 'ancestors' : 'descendants'} of <strong>${nm}</strong> are recorded.</p>`, people: [p.id] };
+  }
+  // spouses
+  if (/\b(spouses?|wife|wives|husbands?|married to|partners?)\b/.test(n)) {
+    const partners = D.partnerFamilies(p).map(f => D.partnerIn(f, p)).filter(Boolean);
+    if (!partners.length) return { html: `${youNote}<p>No spouse or partner of <strong>${nm}</strong> is recorded.</p>`, people: [p.id] };
+    return { html: `${youNote}<p>${has} ${partners.length} recorded ${partners.length === 1 ? 'spouse or partner' : 'spouses or partners'}:</p>`, people: partners.map(x => x.id), list: true };
+  }
+  // any blood relationship: parents, great-grandparents, aunts, nieces, second cousins once removed…
+  const req = relRequest(n);
+  if (req) {
+    const found = relativesOf(D, p, req.pairs);
+    let ids = [...found.keys()].filter(id => !req.sex || who(id).sex === req.sex);
+    ids = byBirth(ids.map(who)).map(x => x.id);
+    if (!ids.length) return { html: `${youNote}<p>No ${esc(req.phrase)} of ${you ? 'yours' : `<strong>${nm}</strong>`} are recorded.</p>`, people: you ? [] : [p.id] };
+    const halves = ids.filter(id => found.get(id)).length;
+    const shown = ids.slice(0, 60);
+    return { html: `${youNote}<p>${has} <strong>${ids.length}</strong> recorded ${esc(req.phrase)}${halves ? ` (${halves} of them half relations)` : ''}${ids.length > shown.length ? `; the first ${shown.length} by birth` : ''}:</p>`, people: shown, list: true };
   }
   return null;
 }
 
+function placeList(D, sel, verb, prep, year, place) {
+  const test = place.length >= 3 ? placeTest(place) : null;
+  const kw = verb === 'born' ? /\bborn\b/i : verb === 'died' ? /\bdied\b/i : verb === 'buried' ? /\bburied\b|\bcemetery\b/i : null;
+  // "her son was born in…" or "his father's birthplace…" is about someone else
+  const other = /\b(sons?|daughters?|child|children|brothers?|sisters?|father|mother|parents?|wife|husband|grand\w+)\b[^;]*\b(born|died|buried)\b/i;
+  const strong = [], weak = [];
+  for (const x of D.people.values()) {
+    if (x.dna_match) continue;
+    if (year) {
+      const y = verb === 'died' ? x.death?.year : x.birth?.year;
+      if (y && (prep === 'before' ? y < +year : prep === 'after' ? y > +year : y === +year)) strong.push(x);
+      continue;
+    }
+    if (!test) continue;
+    const inPlaces = (x.locations || []).some(test);
+    if (!kw) { if (inPlaces) strong.push(x); continue; }
+    // a birth (death, burial) is "recorded there" only when one sentence names both the event and the place
+    // split into sentences, but not at initials ("Samuel G. Davis") or abbreviations ("Co.", "St.")
+    const sentences = [...(x.milestones || []), ...(x.notes || [])].flatMap(t => String(t).split(/(?<!\b(?:[A-Z]|Co|St|Mt|Jr|Sr|Dr|Mr|Mrs|No|Rev|Capt|Lt|Col|Gen)\.)(?<=[.;])\s+/));
+    if (sentences.some(t => kw.test(t) && !other.test(t) && test(t))) strong.push(x);
+    else if (inPlaces) weak.push(x);
+  }
+  const inView = new Set(sel.ids);
+  const title = s => s.replace(/\b\w/g, c => c.toUpperCase());
+  const where = esc(year || title(place));
+  const what = `${{ born: 'born', died: 'having died', buried: 'buried', lived: 'living', from: 'coming from' }[verb]} ${verb === 'from' ? '' : prep + ' '}${where}${verb === 'lived' ? ' at some point' : ''}`;
+  const s = byBirth(strong), w = byBirth(weak);
+  if (!s.length && !w.length) return { html: `<p>No one in the records is recorded as ${what}.</p>`, place: true };
+  const shown = s.slice(0, 60);
+  const mark = s.some(h => inView.has(h.id)) ? ' (those in your current view are highlighted)' : '';
+  const html = s.length
+    ? `<p><strong>${s.length}</strong> ${s.length === 1 ? 'person is' : 'people are'} recorded as ${what}${s.length > shown.length ? `; the first ${shown.length} by birth` : ''}${mark}:</p>`
+    : `<p>No one has a ${verb === 'born' ? 'birth' : verb === 'died' ? 'death' : 'burial'} recorded ${prep} ${where}.</p>`;
+  const extra = w.length ? `<p class="muted">Also linked to ${where}, with no ${verb === 'born' ? 'birthplace' : verb === 'died' ? 'place of death' : 'burial place'} recorded there: ${w.slice(0, 30).map(x => esc(displayName(x))).join(', ')}${w.length > 30 ? ` and ${w.length - 30} more` : ''}.</p>` : '';
+  return { html, people: shown.map(x => x.id), list: true, highlight: inView, after: extra, place: true };
+}
+
 // ── Plain search over the records, for "related records" ───────────────────
-function recordSearch(D, q, limit = 8) {
-  const terms = norm(q).split(' ').filter(t => t.length > 2 && !STOP.has(t));
+function recordSearch(D, q, limit = 8, named = []) {
+  const terms = norm(q).split(' ').filter(t => t.length > 2 && !STOP.has(t) && !SEARCH_STOP.has(t));
   if (!terms.length) return [];
   const out = [];
   for (const p of D.people.values()) {
@@ -250,24 +328,26 @@ function recordSearch(D, q, limit = 8) {
     const name = norm([p.name, ...(p.aliases || [])].join(' '));
     let score = 0, snippet = '';
     for (const t of terms) {
-      if (name.includes(t)) score += 3;
+      // a name only counts when the question names that person ("Washington" is not Washington Baker)
+      if (named.includes(p.id) && name.includes(t)) score += 3;
       const f = fields.find(x => norm(x).includes(t));
       if (f) { score += 1; snippet ||= f; }
     }
     if (p.dna_match) score -= 2;
-    if (score >= Math.max(2, terms.length)) out.push({ p, score, snippet });
+    if (score >= Math.min(2, terms.length)) out.push({ p, score, snippet });
   }
   return out.sort((a, b) => b.score - a.score).slice(0, limit);
 }
 
 // ── What the AI sees ─────────────────────────────────────────────────────────
-function buildContext(D, sel, named) {
+function buildContext(D, sel, named, extra = []) {
   const order = [];
   const add = id => { if (id && D.person(id) && !order.includes(id)) order.push(id); };
   named.forEach(add);
   add(sel.focus);
   for (const id of named) { const p = D.person(id); [...D.parents(p), ...D.partnerFamilies(p).map(f => D.partnerIn(f, p)).filter(Boolean), ...D.children(p)].forEach(q => add(q.id)); }
   sel.ids.forEach(add);
+  extra.forEach(add);              // records that mention the question's words
   const ref = id => { const q = D.person(id); return q ? `${displayName(q)} [${q.id}]` : null; };
   const listOf = arr => arr.map(q => ref(q.id)).filter(Boolean).join(', ');
   const lines = [];
@@ -368,8 +448,11 @@ export class Ask {
     this.q = q.trim().slice(0, 500);
     const { focusId, view, gens } = this.getView();
     this.sel = selection(this.D, focusId, view, gens);
-    this.named = this.names.find(this.q, new Set(this.sel.ids)).map(x => x.id);
-    const local = localAnswer(this.D, this.names.find(this.q, new Set(this.sel.ids)), this.q, this.sel, this.getMe());
+    const found = this.names.find(this.q, new Set(this.sel.ids), this.sel.focus);
+    this.named = found.map(x => x.id);
+    const guess = found.filter(x => x.of > 1).map(x => `Several people are called “${esc(x.text.replace(/\b\w/g, c => c.toUpperCase()))}”; this answer uses <strong>${esc(displayName(this.D.person(x.id)))}</strong>. Use a fuller name to ask about someone else.`);
+    const local = localAnswer(this.D, found, this.q, this.sel, this.getMe());
+    if (local && guess.length && !local.place) local.html = `<p class="muted">${guess.join(' ')}</p>` + local.html;
     if (local) {
       const chips = (local.people || []).map(id => this.chip(id, local.highlight?.has(id) ? ' rel-anc' : '')).join(local.path ? '<span class="rel-arrow">›</span>' : '');
       const shared = local.ancestors?.length ? `<p class="muted">Nearest shared ancestor${local.ancestors.length > 1 ? 's' : ''}: ${local.ancestors.map(id => esc(displayName(this.D.person(id)))).join(' and ')}</p>` : '';
@@ -383,13 +466,13 @@ export class Ask {
   }
 
   related() {
-    const hits = recordSearch(this.D, this.q);
+    const hits = recordSearch(this.D, this.q, 8, this.named);
     if (!hits.length) return '';
     return `<div class="ask-related"><h3>Records that mention this</h3>${hits.map(h => `<div class="ask-hit">${this.chip(h.p.id)}${h.snippet ? `<div class="ask-snip muted">${esc(h.snippet.length > 180 ? h.snippet.slice(0, 180) + '…' : h.snippet)}</div>` : ''}</div>`).join('')}</div>`;
   }
 
   async askAI() {
-    const ctx = buildContext(this.D, this.sel, this.named);
+    const ctx = buildContext(this.D, this.sel, this.named, recordSearch(this.D, this.q, 25, this.named).map(h => h.p.id));
     this.frame(this.q, `<div class="ask-answer"><p class="ask-thinking">Reading ${ctx.count} ${ctx.count === 1 ? 'record' : 'records'}…</p></div>${this.related()}`);
     this.pending?.abort();
     const ctl = this.pending = new AbortController();

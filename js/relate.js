@@ -92,6 +92,12 @@ function blood(D, aId, bId) {
   return { neutral, words: genderize(neutral, sexOf(D, bId)), a: best.a, b: best.b, score: best.score, path: [...up, ...down], ancestors: couple };
 }
 
+/** Generations from A (a) and from B (b) up to their closest shared ancestor, or null (used by "Ask"). */
+export function bloodDistance(D, aId, bId) {
+  const r = blood(D, aId, bId);
+  return r ? { a: r.a, b: r.b, half: /^half-/.test(r.neutral) } : null;
+}
+
 /**
  * relate(D, aId, bId) → { text, path, ancestors, kind } describing B relative to A:
  * "B is A's <text>". kind is 'self', 'blood', 'marriage' or 'none'.
