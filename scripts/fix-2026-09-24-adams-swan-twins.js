@@ -40,5 +40,15 @@ edit('swan_mary_elizabeth', [C1850, C1860, C1870, MARR], p => {
   note(p, 'Aged 10 in 1850 (Columbus) and "Maria", 19, with her father and half-brother Horatio in Cleveland in 1860. In 1870, as Mary E., 30, she was with her father at her aunt Harriet (Adams) Gill\'s at Union Township, Licking County.');
   note(p, 'Lead: a Mary E. Swan married Samuel Hand on 2 May 1866 in Franklin County (Ohio county marriage records); the surname indexed as "Hanel" in the 1870 census may be Hand. Not confirmed.');
 });
-for (const id of ['adams_susan_twin', 'adams_ursula_twin']) edit(id, MARR, p => note(p, 'Lead only: Ohio county marriage records include a Susanna Adams who married James Budd on 25 Dec 1839 and an "Arsula C." Adams who married John Sigler on 21 Jun 1849, both in Delaware County, next to Licking and Franklin. Neither is linked to this family by any record found, and the 1909 Gill biography says both twins had died by then.'));
+const OLD_TWIN_LEAD = 'Lead only: Ohio county marriage records include a Susanna Adams who married James Budd on 25 Dec 1839 and an "Arsula C." Adams who married John Sigler on 21 Jun 1849, both in Delaware County, next to Licking and Franklin. Neither is linked to this family by any record found, and the 1909 Gill biography says both twins had died by then.';
+const FAG = 'Find a Grave, memorials 40110222 (Susannah Adams Budd) and Arsula C. Sigler (Leon, Iowa)';
+for (const id of ['adams_susan_twin', 'adams_ursula_twin']) edit(id, [MARR, FAG], p => {
+  p.notes = p.notes.filter(t => t !== OLD_TWIN_LEAD);
+  note(p, 'Checked and ruled out: the Susanna Adams who married James Budd in Delaware County, Ohio, on 25 Dec 1839 was born in Ohio on 20 May 1816, a daughter of Elijah Adams, and died in Indiana in 1896; the "Arsula C." Adams who married John Sigler there on 21 Jun 1849 was born at Harlem, Delaware County, on 19 Mar 1830, a daughter of John and Desire (Cook) Adams, and died at Leon, Iowa, in 1908. No record of either twin after 1830 has been found.');
+});
+
+// Jose Pierre Adams: a lead on his parents
+const WILL = 'Ancestry.com, New Jersey, U.S., Wills and Probate Records, 1739-1991 (will of Evi Adams Esq. of Wantage, Sussex County, dated 9 Dec 1815; Sussex County Wills, vol. C–D, 1828–1855)';
+const FAG_EVI = 'Find a Grave, memorial 5983703 (Judge Evi Adams, 1744–1828, quoting his entries in the records of the First Baptist Church of Wantage, New Jersey)';
+edit('adams_jose_pierre', [WILL, FAG_EVI], p => note(p, 'UNPROVEN lead on his parents: about twenty Ancestry member trees make him "Joseph Perry Adams", born 15 Mar 1783, son of Judge Evi Adams (1744–1828) and Jane Lewis of Wantage, Sussex County, New Jersey. Evi's own entries in the Wantage First Baptist Church records list a son Joseph born 15 Mar 1783 (an earlier Joseph died in 1774), and Evi's will of 9 Dec 1815 leaves "my son Joseph Adams" $1,200 out of money he had already received, beside his sons Lewis, John E., Evi and Ellis. Neither record gives a middle name or ties that Joseph to Virginia; the trees' "Perry" middle name, Fredericksburg birthplace and 1843 death are unsourced. The birth year fits Jose's (1780–1790 in the 1820 and 1830 censuses), and the New Jersey origin fits the family story, but no link has been proved.'));
 console.log('Adams–Swan and twins applied');
