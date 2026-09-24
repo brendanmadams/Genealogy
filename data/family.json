@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-24T14:36:09.029Z",
+  "generated": "2026-09-24T14:51:06.931Z",
   "people": 673,
   "family_members": 623,
   "dna_matches": 50,
@@ -8333,7 +8333,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1910-delta-simons-mcphail"
+   ],
    "birth": {
     "text": "2 Nov 1851",
     "year": 1851,
@@ -9617,7 +9619,10 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell",
+    "census-1900-baltimore-bell"
+   ],
    "birth": {
     "text": "abt 1858",
     "year": 1858,
@@ -9677,7 +9682,10 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell",
+    "census-1900-baltimore-bell"
+   ],
    "birth": {
     "text": "abt 1854",
     "year": 1854,
@@ -11026,7 +11034,8 @@
     "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013"
    ],
    "notes": [
-    "First husband of Lola Simons, married at Mount Vernon, Skagit County, Washington."
+    "First husband of Lola Simons, married at Mount Vernon, Skagit County, Washington.",
+    "Born in Iowa, per his son Zell's 1910 census entry."
    ]
   },
   {
@@ -11036,7 +11045,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1910-delta-simons-mcphail"
+   ],
    "birth": {
     "text": "abt 1906",
     "year": 1906,
@@ -11082,7 +11093,8 @@
     "Ancestry.com, U.S. Federal Censuses 1900–1950"
    ],
    "notes": [
-    "Grandson of Aaron and Hattie Simons, living with them at Delta, Whatcom County, aged 4 in 1910. Inferred to be the son of Lola Simons and Matt Busey: Lola is the only Simons daughter known to have married a Busey. His name likely honours his uncle Raymond Zell Simons."
+    "Grandson of Aaron and Hattie Simons, living with them at Delta, Whatcom County, aged 4 in 1910. Inferred to be the son of Lola Simons and Matt Busey: Lola is the only Simons daughter known to have married a Busey. His name likely honours his uncle Raymond Zell Simons.",
+    "The 1910 census gives his birthplace as Washington, his father's as Iowa and his mother's as Michigan, which fits Lola Simons, born in Michigan."
    ]
   },
   {
@@ -11348,7 +11360,9 @@
     "McKeldin"
    ],
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell"
+   ],
    "birth": {
     "text": "April 22, 1917",
     "year": 1917,
@@ -13331,7 +13345,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1900-baltimore-schriefer"
+   ],
    "birth": {
     "text": "1865",
     "year": 1865,
@@ -14109,7 +14125,10 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell",
+    "census-1900-baltimore-bell"
+   ],
    "birth": {
     "text": "13 Aug 1891",
     "year": 1891,
@@ -14292,7 +14311,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1910-harford-quinn"
+   ],
    "birth": {
     "text": "13 Nov 1900",
     "year": 1900,
@@ -28672,7 +28693,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1910-harford-quinn"
+   ],
    "birth": {
     "text": "1869",
     "year": 1869,
@@ -29786,7 +29809,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell"
+   ],
    "birth": {
     "text": "4 Feb 1887",
     "year": 1887,
@@ -30292,7 +30317,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell"
+   ],
    "birth": {
     "text": "1912",
     "year": 1912,
@@ -30814,7 +30841,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell"
+   ],
    "birth": {
     "text": "abt 1911",
     "year": 1911,
@@ -30953,7 +30982,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1920-baltimore-mckeldin-bell"
+   ],
    "birth": {
     "text": "abt 1909",
     "year": 1909,
@@ -32024,7 +32055,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1910-delta-simons-mcphail"
+   ],
    "birth": {
     "text": "31 Aug 1849",
     "year": 1849,
@@ -35916,7 +35949,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1910-harford-quinn"
+   ],
    "birth": {
     "text": "Sep 1895",
     "year": 1895,
@@ -35986,7 +36021,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1910-harford-quinn"
+   ],
    "birth": {
     "text": "Dec 1853",
     "year": 1853,
@@ -36312,7 +36349,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1910-harford-quinn"
+   ],
    "birth": {
     "text": "6 May 1898",
     "year": 1898,
@@ -36505,7 +36544,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1910-harford-quinn"
+   ],
    "birth": {
     "text": "15 Aug 1905",
     "year": 1905,
@@ -38793,7 +38834,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1900-baltimore-schriefer"
+   ],
    "birth": {
     "text": "1839",
     "year": 1839,
@@ -38857,7 +38900,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1900-baltimore-schriefer"
+   ],
    "birth": {
     "text": "1 Jun 1899",
     "year": 1899,
@@ -40169,7 +40214,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1910-delta-simons-mcphail"
+   ],
    "birth": {
     "text": "9 May 1851",
     "year": 1851,
@@ -40985,7 +41032,10 @@
     "Simons"
    ],
    "sex": "F",
-   "media": [],
+   "media": [
+    "census-1910-delta-simons-mcphail",
+    "draft-ww1-raymond-zell-simons"
+   ],
    "birth": {
     "text": "23 Dec 1858",
     "year": 1858,
@@ -42013,7 +42063,10 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "census-1910-delta-simons-mcphail",
+    "draft-ww1-raymond-zell-simons"
+   ],
    "birth": {
     "text": "14 Jun 1897",
     "year": 1897,
@@ -42106,7 +42159,7 @@
     "Registered for the WWI draft while working in Milton, Oregon",
     "Moved his family from the Lynden farm to Pasco, Washington, in the 1950s",
     "Moved family from Lynden to Pasco due to tuberculosis diagnosis",
-    "Military: Raymond Zell Simons registered for the WWI draft on 11 Sep 1918 at Blaine, giving birth 14 June 1897 at South Haven, Michigan and father's birthplace Indiana.",
+    "Military: Raymond Zell Simons registered for the WWI draft on 26 Aug 1918 at Blaine, Whatcom County, giving birth 14 June 1897 at South Haven, Michigan and father's birthplace Indiana.",
     "Ray's Pasco farm had about half a mile of Columbia River waterfront, bought before the Hanford Nuclear Reservation was built; the land became valuable as the area grew. (1950s)",
     "Late in life Ray and Dradie moved into a nursing home, and the farmland was sold. (late 1970s)",
     "Registered for the WWII draft on 16 Feb 1942 at Kennewick, Washington; self-employed, with his brother-in-law Dan Groves as next of kin",
@@ -42147,7 +42200,8 @@
     "Born 14 Jun 1897 at South Haven, Michigan, as his WWI and WWII draft cards, Washington death record and Social Security record all agree; the Ann Arbor birthplace comes from his Tri-City Herald obituary. He died 7 May 1977 at Kennewick while living in Pasco (Washington death certificate 9562). The Raymond Simons who died in Seattle in 1976 was a different man.",
     "His Washington death record names his parents as Aaron Simons and Hattie Micheals.",
     "Censuses give his father's birthplace as Ohio (1900, 1910), Iowa (1920) and Illinois (1930), and his own as Washington in 1930.",
-    "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland."
+    "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland.",
+    "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918."
    ]
   },
   {
@@ -51615,6 +51669,107 @@
    ],
    "files": [
     "media/virginia-general-assembly-list.pdf"
+   ]
+  },
+  {
+   "id": "census-1920-baltimore-mckeldin-bell",
+   "kind": "document",
+   "title": "1920 census: the McKeldin household at 1143 Carroll Street, Baltimore",
+   "caption": "Charles E. McKeldin (32), a sheet metal worker, his wife Emma (27), their children Lola, Lillian, Helen and Charles (2, \"Buckey\"), and Emma's parents William H. Bell (66) and Ella Bell (62), listed as father-in-law and mother-in-law. The household is at the bottom of the sheet.",
+   "source": "1920 United States Federal Census, Baltimore Ward 21, Maryland, ED 364, sheet 4A (NARA T625, roll 666); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "mckeldin_charles_i",
+    "emma_bell_mckeldin",
+    "mckeldin_lola",
+    "mckeldin_lillian_buckey",
+    "mckeldin_helen_buckey",
+    "charles_buckey_mckeldin",
+    "bell_william_h",
+    "bell_elmira"
+   ],
+   "files": [
+    "media/census-1920-baltimore-mckeldin-bell.jpg"
+   ]
+  },
+  {
+   "id": "census-1900-baltimore-bell",
+   "kind": "document",
+   "title": "1900 census: the Bell household at 1118 Cleveland Street, Baltimore",
+   "caption": "William Bell (46) and Elmira Bell (42) with their children, among them Emma, 8, born August 1891, and William's mother-in-law Margaret Clayhardy (73).",
+   "source": "1900 United States Federal Census, Baltimore Ward 22, Maryland, ED 283, sheet 7 (NARA T623, roll 618); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "bell_william_h",
+    "bell_elmira",
+    "emma_bell_mckeldin"
+   ],
+   "files": [
+    "media/census-1900-baltimore-bell.jpg"
+   ]
+  },
+  {
+   "id": "census-1900-baltimore-schriefer",
+   "kind": "document",
+   "title": "1900 census: the Schriefer household at 2531 E. Oliver Street, Baltimore",
+   "caption": "Bartholomew Schriefer (60) and Margaret (35), both born in Germany, with Jennie, Annie, Maggie and George, 11 months, born June 1899. Indexed as \"Schrofer\".",
+   "source": "1900 United States Federal Census, Baltimore Ward 9, Maryland, ED 122, sheet 2 (NARA T623, roll 611); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "schriefer_bartholomew",
+    "denzlein_margaret",
+    "schriefer_george_goode"
+   ],
+   "files": [
+    "media/census-1900-baltimore-schriefer.jpg"
+   ]
+  },
+  {
+   "id": "census-1910-harford-quinn",
+   "kind": "document",
+   "title": "1910 census: the Quinn household, District 3, Harford County, Maryland",
+   "caption": "Barnie (Bernard) Quin (58) and Emily M. (39), both born in Ireland, with Agnes E. (14), John J. (12), Ethel E. (9) and Margaret A. (4).",
+   "source": "1910 United States Federal Census, District 3, Harford County, Maryland, ED 102, sheet 17B (NARA T624, roll 565); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "quinn_bernard",
+    "lynn_emily_mariam",
+    "quinn_agnes_emily",
+    "quinn_john_joseph",
+    "ethel_quinn_schriefer",
+    "quinn_margaret_agatha"
+   ],
+   "files": [
+    "media/census-1910-harford-quinn.jpg"
+   ]
+  },
+  {
+   "id": "census-1910-delta-simons-mcphail",
+   "kind": "album",
+   "title": "1910 census: the Simons and McPhail households, Delta, Whatcom County, Washington",
+   "caption": "Sheet 4A: John B. McPhail (60) and Ellen R. (59) two households above Aron Simons (58), Hattie (57) and Raymond (12), on Road 18. Sheet 4B, line 51: the Simons household continues with their grandson Zell Busey (4), born in Washington, his father born in Iowa and his mother in Michigan.",
+   "source": "1910 United States Federal Census, Delta, Whatcom County, Washington, ED 342, sheets 4A–4B (NARA T624, roll 1674); images from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "simons_aaron",
+    "simons_harriet_hattie",
+    "simons_raymond_zell",
+    "busey_zell",
+    "mcphail_john_belle",
+    "ball_ellen_rogers"
+   ],
+   "files": [
+    "media/census-1910-delta-simons-mcphail-01.jpg",
+    "media/census-1910-delta-simons-mcphail-02.jpg"
+   ]
+  },
+  {
+   "id": "draft-ww1-raymond-zell-simons",
+   "kind": "document",
+   "title": "WWI draft registration card of Raymond Zell Simons, 26 August 1918",
+   "caption": "Born 14 June 1897 at South Haven, Michigan; living at Blaine, Whatcom County; employed by Will Steen at Milton, Oregon; nearest relative his mother, Mrs. Hattie Simons, RFD 2, Blaine. Father's birthplace Indiana. Tall, medium build, blue eyes, dark brown hair. Registered by Ernest O. Draper.",
+   "source": "U.S., World War I Selective Service System Draft Registration Cards, 1917–1918, Whatcom County, Washington (NARA M1509); image from Ancestry.com. Original: National Archives and Records Administration.",
+   "people": [
+    "simons_raymond_zell",
+    "simons_harriet_hattie"
+   ],
+   "files": [
+    "media/draft-ww1-raymond-zell-simons.jpg"
    ]
   }
  ]
