@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-25T22:35:35.211Z",
+  "generated": "2026-09-25T22:39:04.686Z",
   "people": 988,
   "family_members": 939,
   "dna_matches": 49,
@@ -9395,7 +9395,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "1826",
     "year": 1826,
@@ -9479,7 +9481,8 @@
     "census-1870-roane-ball",
     "marriage-1833-ball-davis",
     "census-1850-meigs-ball",
-    "census-1880-roane-ball"
+    "census-1880-roane-ball",
+    "court-1875-hawkins-ball-heirs"
    ],
    "birth": {
     "text": "25 Dec 1813",
@@ -9596,7 +9599,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "18 Jul 1810",
     "year": 1810,
@@ -9865,7 +9870,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "1827",
     "year": 1827,
@@ -10051,7 +10058,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "1818",
     "year": 1818,
@@ -10201,7 +10210,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "17 Feb 1824",
     "year": 1824,
@@ -10502,7 +10513,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -10578,7 +10591,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "1826",
     "year": 1826,
@@ -10655,7 +10670,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "1820",
     "year": 1820,
@@ -10882,7 +10899,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "1815",
     "year": 1815,
@@ -11039,7 +11058,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "1815",
     "year": 1815,
@@ -11262,7 +11283,9 @@
    "photo": null,
    "card_name": null,
    "sex": "F",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -11489,7 +11512,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "abt 1775",
     "year": 1775,
@@ -11665,7 +11690,9 @@
    "photo": null,
    "card_name": null,
    "sex": "M",
-   "media": [],
+   "media": [
+    "court-1875-hawkins-ball-heirs"
+   ],
    "birth": {
     "text": "",
     "year": null,
@@ -80126,6 +80153,33 @@
    ],
    "files": [
     "media/birth-1881-john-holmes-trumbo.jpg"
+   ]
+  },
+  {
+   "id": "court-1875-hawkins-ball-heirs",
+   "kind": "album",
+   "title": "Heirs of William Ball Sr.: Hawkins County Court minutes, 6 September 1875",
+   "caption": "Pages 248–251 of the County Court minute book. Page 1: the heirs' agreement of 23 Aug 1875 settling Hardin Ball's administration of his father's estate, signed by Moses, M. E., Hardin, Nancy Bailey, Zadock and Mary Barnard, G. W. F. and C. C. Ball, Sarah Barnard, John K. and Sibby Bradley, and \"David Ball by S. H. Ball, Agent\". Page 2: the court's decree naming the heirs at law of Wm Ball Sr., deceased, including David Ball, and ordering the Buck Creek land partitioned.",
+   "source": "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877 (FamilySearch film 008658851, images 462–463; arks 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7). A public county record.",
+   "people": [
+    "ball_david",
+    "ball_william_1784",
+    "ball_harden",
+    "ball_edward_tate",
+    "ball_mary_barnard",
+    "ball_sarah_barnard",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_jr"
+   ],
+   "files": [
+    "media/court-1875-hawkins-ball-heirs-01.jpg",
+    "media/court-1875-hawkins-ball-heirs-02.jpg"
    ]
   }
  ]
