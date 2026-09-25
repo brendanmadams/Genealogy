@@ -1,6 +1,6 @@
 {
   "id": "simons_john",
-  "name": "John Simons",
+  "name": "John Glen Simons",
   "sex": "M",
   "birth": "",
   "death": "",
@@ -21,8 +21,11 @@
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-24"
+    "Brendan Adams, 2026-09-24",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [],
-  "aliases": []
+  "aliases": [
+    "John Simons"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "kulp_ruth_zenith",
   "name": "Ruth Zenith Kulp",
-  "birth": "1915",
+  "birth": "11 Apr 1915",
   "death": "",
   "personality": [],
   "roles": [],
@@ -30,11 +30,14 @@
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]"
+    "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]",
+    "UNPROVEN, from Ed Simons's tree: born 11 Apr 1915 at Schrag, Adams County, Washington."
   ],
-  "sex": "F"
+  "sex": "F",
+  "aliases": []
 }

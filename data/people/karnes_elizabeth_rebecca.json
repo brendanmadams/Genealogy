@@ -1,9 +1,9 @@
 {
-  "id": "simons_kim",
-  "name": "Kimberly Kay Alberts (Simons)",
+  "id": "karnes_elizabeth_rebecca",
+  "name": "Elizabeth Rebecca Karnes (Vancel)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "1829",
+  "death": "1 Mar 1885",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -16,19 +16,17 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "simons_ed",
+    "spouse": "vancel_valentine",
     "children": [
-      "henley_kayla",
-      "simons_john"
+      "vancel_sarah"
     ]
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
-  "notes": [],
-  "aliases": [
-    "Kim Simons"
-  ]
+  "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: mother of Sarah Vancel (Kulp); born 1829 in Pennsylvania, died 1 Mar 1885 at Clyde, Cloud County, Kansas. Not found in records yet."
+  ],
+  "aliases": []
 }

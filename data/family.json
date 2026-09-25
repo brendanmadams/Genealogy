@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-25T16:27:42.128Z",
-  "people": 934,
-  "family_members": 885,
+  "generated": "2026-09-25T16:46:43.319Z",
+  "people": 941,
+  "family_members": 892,
   "dna_matches": 49,
-  "connected_people": 885,
-  "families": 318,
+  "connected_people": 892,
+  "families": 323,
   "branches": [
    "adams",
    "hamilton",
@@ -14672,11 +14672,13 @@
    "career": [],
    "sources": [
     "adams_family_doc_ocr_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Wife of Ephraim Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage.",
-    "Open question: Maria Catharina Confer's entry reads 'm. Maria Catharina Confer, Somerset, PA'. It is unclear whether Somerset is her origin or the marriage place [Family research emails, email 23]"
+    "Open question: Maria Catharina Confer's entry reads 'm. Maria Catharina Confer, Somerset, PA'. It is unclear whether Somerset is her origin or the marriage place [Family research emails, email 23]",
+    "UNPROVEN, from Ed Simons's Ancestry tree: born 1810 in Pennsylvania; died Feb 1860 at Lower Salford, Montgomery County, Pennsylvania."
    ]
   },
   {
@@ -16647,11 +16649,13 @@
    "career": [],
    "sources": [
     "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
-    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Father of Sheldon Joseph Dolan, named as Martine Joseph Dolan on Sheldon's 1937 marriage record. Born 2 May 1882 in Portland, Oregon; died 6 Jul 1967 in Multnomah County and was buried at Mount Calvary Cemetery (Find a Grave). He married May Smith in 1906; after her death he married Annabel Fields in 1918, the mother of Martin Kenneth (1919–1997) and Arline (1921–2014) (Find a Grave).",
-    "UNPROVEN, from Find a Grave family links: son of Thomas Dolan (1829–1899) and Ellen Dowling (1845–1930)."
+    "UNPROVEN, from Find a Grave family links: son of Thomas Dolan (1829–1899) and Ellen Dowling (1845–1930).",
+    "Ed Simons's tree gives his birthplace as Cedar Mill, Washington County, Oregon; Find a Grave says Portland. Not yet checked against a record."
    ]
   },
   {
@@ -16740,7 +16744,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "1899",
+    "text": "3 Aug 1899",
     "year": 1899,
     "qualifier": null
    },
@@ -16777,10 +16781,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)",
+    "Ancestry.com, U.S., Find a Grave Index, 1600s-Current"
    ],
    "notes": [
-    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Father of Joseph Martin Dolan (born 1882 in Portland) and of Thomas J. (1880–1965), Sadie L. (Davis, 1886–1972) and Annie C. (Beberness, 1887–1945)."
+    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Father of Joseph Martin Dolan (born 1882 in Portland) and of Thomas J. (1880–1965), Sadie L. (Davis, 1886–1972) and Annie C. (Beberness, 1887–1945).",
+    "Died 3 Aug 1899; buried in Portland (Find a Grave). Ed Simons's tree gives his birthplace as County Dublin, Ireland."
    ]
   },
   {
@@ -17017,12 +17023,12 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1845",
+    "text": "27 Nov 1845",
     "year": 1845,
     "qualifier": null
    },
    "death": {
-    "text": "1930",
+    "text": "15 Apr 1930",
     "year": 1930,
     "qualifier": null
    },
@@ -17059,10 +17065,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)"
+    "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)",
+    "Ancestry.com, U.S., Find a Grave Index, 1600s-Current"
    ],
    "notes": [
-    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Mother of Joseph Martin Dolan, born 1882 in Portland."
+    "UNPROVEN, from Find a Grave family links; not yet checked against a record. Mother of Joseph Martin Dolan, born 1882 in Portland.",
+    "Born 27 Nov 1845; died 15 Apr 1930; buried in Portland (Find a Grave). Ed Simons's tree gives her birthplace as County Cork, Ireland."
    ]
   },
   {
@@ -17305,6 +17313,133 @@
    ],
    "notes": [
     "Spouse of Leroy Gaylord Allen."
+   ]
+  },
+  {
+   "id": "eby_barbara_ann",
+   "name": "Barbara Ann Eby (Michel)",
+   "aliases": [
+    "Barbara A. Michaels",
+    "Barbara Michel"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1824",
+    "year": 1824,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "eby_george_w",
+   "mother": "nafcher_elizabeth",
+   "parents": [
+    "eby_george_w",
+    "nafcher_elizabeth"
+   ],
+   "spouses": [
+    "michel_mathias"
+   ],
+   "children": [
+    "simons_harriet_hattie"
+   ],
+   "siblings": [],
+   "families": [
+    "F_eby_barbara_ann+michel_mathias"
+   ],
+   "parent_family": "F_eby_george_w+nafcher_elizabeth",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Pennsylvania",
+    "Bangor, Van Buren County, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Washington, Death Certificates, 1907-1960 (Hattie Davison; parents Mathias Michel and Barbara Eby)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Hattie Michels Simons; parents Mathias Michels and Barbera Eby)",
+    "Ancestry.com, 1870 United States Federal Census (Bangor, Van Buren County, Michigan, post office South Haven; household of Mathias Michaels)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Mother of Harriet \"Hattie\" Michel (Simons, Davison), as her Washington death certificate and marriage record state. In 1870 she was 46, born in Pennsylvania, at Bangor, Van Buren County, Michigan (1870 census).",
+    "UNPROVEN, from Ed Simons's Ancestry tree: daughter of George W. Eby (1798–1886) and Elizabeth Nafcher (1800–1881). Not found in records yet."
+   ]
+  },
+  {
+   "id": "eby_george_w",
+   "name": "George W. Eby",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1798",
+    "year": 1798,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1886",
+    "year": 1886,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "nafcher_elizabeth"
+   ],
+   "children": [
+    "eby_barbara_ann"
+   ],
+   "siblings": [],
+   "families": [
+    "F_eby_george_w+nafcher_elizabeth"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: father of Barbara Ann Eby (Michel); born 1798, died 1886. Not found in records yet."
    ]
   },
   {
@@ -28508,7 +28643,7 @@
   },
   {
    "id": "henley_kayla",
-   "name": "Kayla Simons (Henley)",
+   "name": "Kayla Ann Simons (Henley)",
    "aliases": [
     "Kayla Henley",
     "Kayla Simons"
@@ -28571,7 +28706,8 @@
    "career": [],
    "sources": [
     "Sharon Simons, via Brendan Adams, 2026-09-24",
-    "Brendan Adams, 2026-09-24"
+    "Brendan Adams, 2026-09-24",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": []
   },
@@ -28781,14 +28917,16 @@
     "hinds_hershel"
    ],
    "spouses": [
-    "dolan_sheldon_joseph"
+    "dolan_sheldon_joseph",
+    "walker_john_william"
    ],
    "children": [
     "simons_mary"
    ],
    "siblings": [],
    "families": [
-    "F_dolan_sheldon_joseph+hinds_marrion_roma"
+    "F_dolan_sheldon_joseph+hinds_marrion_roma",
+    "F_hinds_marrion_roma+walker_john_william"
    ],
    "parent_family": "F_goodenough_florence_c+hinds_hershel",
    "connected": true,
@@ -31863,6 +32001,63 @@
    "notes": []
   },
   {
+   "id": "karnes_elizabeth_rebecca",
+   "name": "Elizabeth Rebecca Karnes (Vancel)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1829",
+    "year": 1829,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1 Mar 1885",
+    "year": 1885,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "vancel_valentine"
+   ],
+   "children": [
+    "vancel_sarah"
+   ],
+   "siblings": [],
+   "families": [
+    "F_karnes_elizabeth_rebecca+vancel_valentine"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: mother of Sarah Vancel (Kulp); born 1829 in Pennsylvania, died 1 Mar 1885 at Clyde, Cloud County, Kansas. Not found in records yet."
+   ]
+  },
+  {
    "id": "kendall_estella_l",
    "name": "Estella L. Kendall (Adams)",
    "aliases": [],
@@ -33301,7 +33496,7 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1917",
+    "text": "11 Jun 1917",
     "year": 1917,
     "qualifier": null
    },
@@ -33360,12 +33555,14 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
     "Unconfirmed: Alton was only about 12 when his mother died. [Family research emails, email 48]",
-    "Open question: Alton Kulp (born 1917) is said to be about 12 when his mother died in 1931, which would make him about 13-14; Audrey 'a year younger' [Family research emails, email 12, 13, 14, 48]"
+    "Open question: Alton Kulp (born 1917) is said to be about 12 when his mother died in 1931, which would make him about 13-14; Audrey 'a year younger' [Family research emails, email 12, 13, 14, 48]",
+    "UNPROVEN, from Ed Simons's tree: born 11 Jun 1917 at Albion, Whitman County, Washington."
    ]
   },
   {
@@ -33377,13 +33574,13 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1918",
+    "text": "8 Dec 1918",
     "year": 1918,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "27 Oct 2000",
+    "year": 2000,
     "qualifier": null
    },
    "living": false,
@@ -33435,11 +33632,14 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Died 27 Oct 2000 in Stevens County as Audrey R. Hedrick (Washington death records). Born 8 Dec 1918 at Albion (Ed Simons's tree)."
    ]
   },
   {
@@ -33567,19 +33767,21 @@
   {
    "id": "kulp_dorothy_belle",
    "name": "Dorothy Belle Kulp",
-   "aliases": [],
+   "aliases": [
+    "Dorothy Belle Hooper"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1912",
+    "text": "24 May 1912",
     "year": 1912,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "9 Oct 1991",
+    "year": 1991,
     "qualifier": null
    },
    "living": false,
@@ -33643,10 +33845,13 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Born 24 May 1912; died 9 Oct 1991 at Pasco as Dorothy Belle Hooper (Washington death records)."
    ]
   },
   {
@@ -33763,13 +33968,13 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1899",
+    "text": "6 Jun 1899",
     "year": 1899,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "11 Sep 1968",
+    "year": 1968,
     "qualifier": null
    },
    "living": false,
@@ -33822,11 +34027,14 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Died 11 Sep 1968 at Spokane as Edith Smith (Washington death records). Born 6 Jun 1899 at Blaine (Ed Simons's tree)."
    ]
   },
   {
@@ -34051,11 +34259,13 @@
    "career": [],
    "sources": [
     "adams_family_doc_ocr_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, 1880 United States Federal Census (Elk, Clarion County, Pennsylvania; Ephram Kulp, 74, stonemason)"
    ],
    "notes": [
     "Son of Abraham Clemens Kulp. Father of Michael Nicholas Kulp — fills the final missing generation. Birth year disputed: Irmagene Zacher explicitly notes uncertainty. Source: Irmagene Kulp Zacher, Kulp Family Lineage.",
-    "Open question: Ephraim Kulp's birth year is given as 1805, 1809 or 1811; Irma is unsure which is right [Family research emails, email 23]"
+    "Open question: Ephraim Kulp's birth year is given as 1805, 1809 or 1811; Irma is unsure which is right [Family research emails, email 23]",
+    "In 1880 he was 74, a stonemason at Elk, Clarion County, Pennsylvania, born in Pennsylvania, with his wife Anna M. (58) and son George W. (18) (1880 census). Ed Simons's tree gives his birth as 10 Apr 1809 in New York; the sources disagree on the year (1806–1811)."
    ]
   },
   {
@@ -34390,13 +34600,13 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1901",
+    "text": "13 Jun 1901",
     "year": 1901,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "21 Jan 1974",
+    "year": 1974,
     "qualifier": null
    },
    "living": false,
@@ -34449,10 +34659,13 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Born 13 Jun 1901; died 21 Jan 1974 at Spokane (Washington death records). Ed Simons's tree gives 16 Jun 1901 at Blaine."
    ]
   },
   {
@@ -34600,7 +34813,8 @@
    "sources": [
     "family_data_v1",
     "adams_family_doc_ocr_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017"
    ],
    "notes": [
     "Father of John Jacob Kulp. Son of Henry Kolb. Also spelled Culp.",
@@ -34608,7 +34822,8 @@
     "Father: Ephraim Kulp (NOW CONFIRMED — fills the missing generation). Source: Irmagene Kulp Zacher Kulp Family Lineage.",
     "CORRECTION 2026-09-22: Mother changed from fretz_barbara (wife of Henry Kolb, d. 1730) to confer_maria_catharina, wife of his confirmed father Ephraim Kulp.",
     "Open question: Email 23 says Sarah went to Illinois 'while John was in the War'. This almost certainly means her husband Michael Kulp (1861-1863), since John was their child. [Family research emails, email 23]",
-    "Open question: Irma says it is unknown when Michael and John Kulp came to Washington. They first appear in the 1885 Washington Territory census [Family research emails, email 23]"
+    "Open question: Irma says it is unknown when Michael and John Kulp came to Washington. They first appear in the 1885 Washington Territory census [Family research emails, email 23]",
+    "Died 21 Feb 1911 at the State Soldiers' Home, Orting, Pierce County, Washington; the death record gives his birth year as about 1838 (Washington death records). Ed Simons's tree gives 28 Feb 1842 at Oil City, Pennsylvania."
    ]
   },
   {
@@ -34620,13 +34835,13 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1904",
+    "text": "8 Feb 1904",
     "year": 1904,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "4 Oct 1960",
+    "year": 1960,
     "qualifier": null
    },
    "living": false,
@@ -34687,11 +34902,14 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Unconfirmed: Irma believes Nardin graduated from Albion High School. [Family research emails, email 48]"
+    "Unconfirmed: Irma believes Nardin graduated from Albion High School. [Family research emails, email 48]",
+    "Died 4 Oct 1960 in Whitman County, aged about 56 (Washington death records). Born 8 Feb 1904 at Blaine (Ed Simons's tree)."
    ]
   },
   {
@@ -34760,19 +34978,21 @@
   {
    "id": "kulp_reta_may",
    "name": "Reta May Kulp",
-   "aliases": [],
+   "aliases": [
+    "Reta May Koenig"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1906",
+    "text": "20 May 1906",
     "year": 1906,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "28 Jun 1989",
+    "year": 1989,
     "qualifier": null
    },
    "living": false,
@@ -34832,10 +35052,13 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Born 20 May 1906; died 28 Jun 1989 at Spokane as Reta May Koenig (Washington death records)."
    ]
   },
   {
@@ -34847,7 +35070,7 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1915",
+    "text": "11 Apr 1915",
     "year": 1915,
     "qualifier": null
    },
@@ -34909,11 +35132,13 @@
    "career": [],
    "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]"
+    "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]",
+    "UNPROVEN, from Ed Simons's tree: born 11 Apr 1915 at Schrag, Adams County, Washington."
    ]
   },
   {
@@ -36853,12 +37078,12 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1875",
+    "text": "Mar 1875",
     "year": 1875,
     "qualifier": null
    },
    "death": {
-    "text": "1928",
+    "text": "18 May 1928",
     "year": 1928,
     "qualifier": null
    },
@@ -36883,7 +37108,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "South Haven, Michigan",
+    "Sacramento, California"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -36895,10 +37123,14 @@
    "education": [],
    "career": [],
    "sources": [
-    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Ancestry.com, 1900 United States Federal Census (South Haven, Van Buren County, Michigan; Frank C. Masters, son of Richard F. and Sarah)",
+    "Ancestry.com, California, U.S., Death Index, 1905-1939 (Charles F. Masters, 18 May 1928, Sacramento)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "First husband of Gertrude Nellie Simons; they divorced on 17 Dec 1901. The 1900 census lists him as Frank C. Masters, living with his parents at South Haven, Michigan."
+    "First husband of Gertrude Nellie Simons; they divorced on 17 Dec 1901. The 1900 census lists him as Frank C. Masters, living with his parents at South Haven, Michigan.",
+    "Born Mar 1875 in Michigan, son of Richard F. and Sarah Masters, with whom he lived at South Haven in 1900; died 18 May 1928 at Sacramento, aged 53 (1900 census; California death index). Ed Simons's tree gives 17 Mar 1875 at Watertown, Clinton County, and names him as Raymond Zell Simons's father (UNPROVEN); Raymond's birth register names a \"Ray Simonds\", born in Chicago."
    ]
   },
   {
@@ -40554,6 +40786,73 @@
    ]
   },
   {
+   "id": "michel_mathias",
+   "name": "Mathias Michel",
+   "aliases": [
+    "Mathias Michels",
+    "Mathias Michaels",
+    "Mather Michaels"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1822",
+    "year": 1822,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "eby_barbara_ann"
+   ],
+   "children": [
+    "simons_harriet_hattie"
+   ],
+   "siblings": [],
+   "families": [
+    "F_eby_barbara_ann+michel_mathias"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Prussia",
+    "Bangor, Van Buren County, Michigan"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Washington, Death Certificates, 1907-1960 (Hattie Davison; parents Mathias Michel and Barbara Eby)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Hattie Michels Simons; parents Mathias Michels and Barbera Eby)",
+    "Ancestry.com, 1870 United States Federal Census (Bangor, Van Buren County, Michigan, post office South Haven; household of Mathias Michaels)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Father of Harriet \"Hattie\" Michel (Simons, Davison), as her Washington death certificate and her Washington marriage record both state. In 1870 he was a farmer at Bangor, Van Buren County, Michigan (post office South Haven), aged 48, born in Prussia, with his wife Barbara A. and children Sebastian, Margaret (13), Harriet (11), Mathias (8) and Louisa (4) (1870 census). The 1900 census gives Harriet's father's birthplace as Germany."
+   ]
+  },
+  {
    "id": "michelle_ellis_adams",
    "name": "Michelle Ellis (Adams)",
    "aliases": [
@@ -41318,6 +41617,63 @@
    ],
    "notes": [
     "First wife of Marion Lafayette \"Fay\" Allen (married before 1930); surname not recorded."
+   ]
+  },
+  {
+   "id": "nafcher_elizabeth",
+   "name": "Elizabeth Nafcher (Eby)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1800",
+    "year": 1800,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1881",
+    "year": 1881,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "eby_george_w"
+   ],
+   "children": [
+    "eby_barbara_ann"
+   ],
+   "siblings": [],
+   "families": [
+    "F_eby_george_w+nafcher_elizabeth"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: mother of Barbara Ann Eby (Michel); born 1800, died 1881. Not found in records yet."
    ]
   },
   {
@@ -51610,8 +51966,7 @@
     "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
-    "simons_bertha",
-    "simons_raymond_zell"
+    "simons_bertha"
    ],
    "siblings": [
     "simons_sarah_1844",
@@ -51670,7 +52025,9 @@
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
-    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)"
+    "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)"
    ],
    "notes": [
     "Birthplace Ohio (1900 and 1910 censuses).",
@@ -51680,7 +52037,8 @@
     "Zell Busey, 4, in his 1910 household was his grandson, the son of his daughter Lola and Matt Busey.",
     "CORRECTION: born 9 May 1850 in Ohio. He is an infant in the 1850 census of Coventry, Summit County, Ohio (taken as of 1 June 1850), so Find a Grave's 9 May 1851 is a year late; the 1900 census gives May 1852.",
     "He married Harriet \"Hattie\" Michel about 1875 (Michigan marriage records, cited in the Ancestry tree); their first child, Gertrude Nellie, was born in Minnesota in 1879.",
-    "Son of Henry Simons, born in England, and Mary, born in Ohio, who married Henry as Mary Marsh. Born in Ohio and raised in DeKalb County, Indiana (1860); with his parents in Williams County, Ohio, in 1870. This explains the censuses' English-born father and the Indiana birthplace on his son Ray's draft card."
+    "Son of Henry Simons, born in England, and Mary, born in Ohio, who married Henry as Mary Marsh. Born in Ohio and raised in DeKalb County, Indiana (1860); with his parents in Williams County, Ohio, in 1870. This explains the censuses' English-born father and the Indiana birthplace on his son Ray's draft card.",
+    "Grandparents of Raymond Zell Simons (born 1897), their daughter Gertrude's son, whom they raised as their own; the 1900 census lists him as their son (Michigan birth registers)."
    ]
   },
   {
@@ -51816,8 +52174,10 @@
   },
   {
    "id": "simons_ann",
-   "name": "Ann Simons",
-   "aliases": [],
+   "name": "Ann Elizabeth Simons",
+   "aliases": [
+    "Ann Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -51875,7 +52235,8 @@
    "sources": [
     "consolidated_research_digest_v1",
     "adams_dna_linkage_v1",
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Parent: Glen Simons.",
@@ -52195,8 +52556,7 @@
    "siblings": [
     "simons_gertrude_nellie",
     "simons_ettie",
-    "simons_lola",
-    "simons_raymond_zell"
+    "simons_lola"
    ],
    "families": [
     "F_harrington_harry_h+simons_bertha"
@@ -52223,10 +52583,14 @@
    "sources": [
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Ancestry.com, 1920 United States Federal Census"
+    "Ancestry.com, 1920 United States Federal Census",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth."
+    "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth.",
+    "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
+    "UNPROVEN, from Ed Simons's tree: died 24 Sep 1940 in King County, Washington. Not found in the death index under Simons or Harrington."
    ]
   },
   {
@@ -52910,8 +53274,10 @@
   },
   {
    "id": "simons_ed",
-   "name": "Ed Simons",
-   "aliases": [],
+   "name": "Edward John \"Ed\" Simons",
+   "aliases": [
+    "Ed Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -52971,7 +53337,8 @@
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Sharon Simons, via Brendan Adams, 2026-09-24",
-    "Brendan Adams, 2026-09-24"
+    "Brendan Adams, 2026-09-24",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Listed among the Simons family researchers in the Adams direct-line notes."
@@ -53223,7 +53590,9 @@
   {
    "id": "simons_ettie",
    "name": "Ettie Simons",
-   "aliases": [],
+   "aliases": [
+    "Etta May Dunker"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -53234,8 +53603,8 @@
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "17 Sep 1970",
+    "year": 1970,
     "qualifier": null
    },
    "living": false,
@@ -53257,8 +53626,7 @@
    "siblings": [
     "simons_gertrude_nellie",
     "simons_lola",
-    "simons_bertha",
-    "simons_raymond_zell"
+    "simons_bertha"
    ],
    "families": [],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
@@ -53281,10 +53649,15 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded."
+    "Sister of Raymond Zell Simons. Recorded under her birth surname Simons; she likely took a husband's surname, which is not recorded.",
+    "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
+    "Etta May Simons married August Henry Dunker and died 17 Sep 1970 at Olympia, Thurston County, as Etta M. Dunker (Washington death records). Ed Simons's tree gives her birth as 1 Dec 1883."
    ]
   },
   {
@@ -53419,17 +53792,18 @@
     "groves_dan_harvey"
    ],
    "children": [
-    "groves_dorothy_helen"
+    "groves_dorothy_helen",
+    "simons_raymond_zell"
    ],
    "siblings": [
     "simons_ettie",
     "simons_lola",
-    "simons_bertha",
-    "simons_raymond_zell"
+    "simons_bertha"
    ],
    "families": [
     "F_groves_dan_harvey+simons_gertrude_nellie",
-    "F_masters_charles_f+simons_gertrude_nellie"
+    "F_masters_charles_f+simons_gertrude_nellie",
+    "F_simons_gertrude_nellie"
    ],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
    "connected": true,
@@ -53455,12 +53829,14 @@
    "career": [],
    "sources": [
     "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "FamilySearch, Michigan, County Births, 1867-1917 (Ray Simonds, 14 June 1897, South Haven, Van Buren County)"
    ],
    "notes": [
     "Born 16 May 1879 in Minnesota, the eldest child of Aaron and Hattie Simons; died 18 Jun 1947 at Winlock, Lewis County, Washington.",
     "Married Charles F. Masters on 12 Sep 1898 at Benton Harbor, Michigan (divorced 17 Dec 1901), then Daniel Harvey \"Dan\" Groves on 8 Sep 1906 at North Yakima, Washington; the 1906 return calls it her first marriage.",
-    "UNPROVEN: Ed Simons's Ancestry tree makes her the mother of Raymond Zell Simons (born Jun 1897), with Charles F. Masters as his father; the census and his death record call Raymond her brother. Her own answer to the 1900 census question \"mother of how many children\" would help settle it; she has not yet been found in the 1900 index."
+    "Mother of Raymond Zell Simons, born 14 Jun 1897 at South Haven, when she was 18 and unmarried: the Michigan state and Van Buren County birth registers record him as Ray, son of Gertrude Simonds, born in Minnesota, of Covert. Her parents, Aaron and Harriet Simons, raised him as their son. The registers name the father as \"Ray Simonds\", born in Chicago; he is not identified."
    ]
   },
   {
@@ -53550,7 +53926,8 @@
     "Sumner Voiles Funeral Chapel, memorial page for Glen Simons (12 Jan 1936 – 1 Dec 2020)",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
     "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Parents: Raymond Zell Simons and Dradie Ellen Kulp. Siblings listed: Elaine, Beryl, Raymond Elmer, Byron Daniel, Orval.",
@@ -53561,7 +53938,8 @@
     "'Glen Acres', a residential development in Pasco, is named after him. [John Howard Adams, A Memoir, text line 592]",
     "Aged 4 in the 1940 census (near Richland) and 14 in 1950 as Glen E. Simons (Franklin County).",
     "Born 12 Jan 1936; died 1 Dec 2020 (Sumner Voiles Funeral Chapel, near Bonney Lake). He and Mary were living when his sister-in-law Irene died in 2017.",
-    "Married on 27 Jul 1958 at Kennewick, Benton County, Washington, by Rev. H. H. Underwood, a Methodist minister, under a license issued by the Franklin County auditor on 7 Jul 1958; witnesses Orvel K. Simons (Glen's brother Orval) and Jane Hudson. Glen, of Franklin County, signed \"Glen Erwin Simons\"; Mary Patricia Walker was of Benton County (Franklin County marriage certificate no. 9306)."
+    "Married on 27 Jul 1958 at Kennewick, Benton County, Washington, by Rev. H. H. Underwood, a Methodist minister, under a license issued by the Franklin County auditor on 7 Jul 1958; witnesses Orvel K. Simons (Glen's brother Orval) and Jane Hudson. Glen, of Franklin County, signed \"Glen Erwin Simons\"; Mary Patricia Walker was of Benton County (Franklin County marriage certificate no. 9306).",
+    "Born at Bellingham, Whatcom County (Ed Simons's tree, from his son). That answers Irma's question: not in the Lynden area."
    ]
   },
   {
@@ -53803,9 +54181,12 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "michel_mathias",
+   "mother": "eby_barbara_ann",
+   "parents": [
+    "eby_barbara_ann",
+    "michel_mathias"
+   ],
    "spouses": [
     "simons_aaron"
    ],
@@ -53813,14 +54194,13 @@
     "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
-    "simons_bertha",
-    "simons_raymond_zell"
+    "simons_bertha"
    ],
    "siblings": [],
    "families": [
     "F_simons_aaron+simons_harriet_hattie"
    ],
-   "parent_family": null,
+   "parent_family": "F_eby_barbara_ann+michel_mathias",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -53856,7 +54236,11 @@
     "Ancestry.com, U.S. Federal Censuses 1900–1950",
     "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
     "Find a Grave, memorial 6661061 (via Ancestry.com, U.S., Find a Grave Index)",
-    "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)"
+    "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "FamilySearch, Washington, Death Certificates, 1907-1960 (Hattie Davison; parents Mathias Michel and Barbara Eby)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Hattie Michels Simons; parents Mathias Michels and Barbera Eby)",
+    "Ancestry.com, 1870 United States Federal Census (Bangor, Van Buren County, Michigan, post office South Haven; household of Mathias Michaels)"
    ],
    "notes": [
     "Birth date Dec 1858 newly established — previously excluded as nickname-only. Mother of Raymond Zell Simons.",
@@ -53870,7 +54254,9 @@
     "Born 23 Dec 1858 at London, Ontario; died 14 Jan 1933 at Delta, Whatcom County. Her Find a Grave memorial gives her name as Hattie Michel Davison; her son Ray's death record gives her birth surname as Micheals. The \"M.\" in \"Harriet M.\" (1900 census) may be her birth surname.",
     "After Aaron's death in 1923 she married a Davison, whose first name is not recorded.",
     "Her own parents are not yet known. John Howard Adams said Irma's Ancestry trees contain \"a couple of errors\", not yet specified. [Family research emails, email 46]",
-    "In 1900 at Covert, Van Buren County, Michigan, aged 41 (born Dec 1858 in Canada), married 25 years, she was the mother of 6 children, 5 of them living; her father was born in Germany and her mother in Pennsylvania (1900 census). The five living would be Gertrude, Ettie, Lola, Bertha and Raymond."
+    "In 1900 at Covert, Van Buren County, Michigan, aged 41 (born Dec 1858 in Canada), married 25 years, she was the mother of 6 children, 5 of them living; her father was born in Germany and her mother in Pennsylvania (1900 census). The five living would be Gertrude, Ettie, Lola, Bertha and Raymond.",
+    "Grandparents of Raymond Zell Simons (born 1897), their daughter Gertrude's son, whom they raised as their own; the 1900 census lists him as their son (Michigan birth registers).",
+    "Daughter of Mathias Michel and Barbara Eby: her Washington death certificate (as Hattie Davison) and her Washington marriage record (as Hattie Michels Simons) name them, and in 1870 she was Harriet, 11, in their household at Bangor, Van Buren County, Michigan."
    ]
   },
   {
@@ -54337,8 +54723,10 @@
   },
   {
    "id": "simons_john",
-   "name": "John Simons",
-   "aliases": [],
+   "name": "John Glen Simons",
+   "aliases": [
+    "John Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -54389,7 +54777,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-24"
+    "Brendan Adams, 2026-09-24",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": []
   },
@@ -54542,8 +54931,10 @@
   },
   {
    "id": "simons_kim",
-   "name": "Kim Simons",
-   "aliases": [],
+   "name": "Kimberly Kay Alberts (Simons)",
+   "aliases": [
+    "Kim Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -54592,7 +54983,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-24"
+    "Brendan Adams, 2026-09-24",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": []
   },
@@ -54914,8 +55306,7 @@
    "siblings": [
     "simons_gertrude_nellie",
     "simons_ettie",
-    "simons_bertha",
-    "simons_raymond_zell"
+    "simons_bertha"
    ],
    "families": [
     "F_adams_lial_t+simons_lola",
@@ -54950,11 +55341,16 @@
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Ancestry.com, Washington, U.S., Marriage Records, 1854–2013",
-    "Find a Grave, memorial 6660495 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 6660495 (via Ancestry.com, U.S., Find a Grave Index)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "Ancestry.com, U.S., Find a Grave Index, 1600s-Current",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Sister of Raymond Zell Simons. Born 21 Sep 1885 at Hart, Oceana County, Michigan; died 3 Dec 1918 at Butte, Montana, aged 33.",
-    "Married Matt Busey at Mount Vernon, Skagit County, on 16 Feb 1903 at 18 (the index also shows the couple under 26 Feb 1903 and 1 Feb 1902). She was Lola Murphy when she married Lial T. Adams at Spokane on 2 May 1918; her Murphy husband is not recorded."
+    "Married Matt Busey at Mount Vernon, Skagit County, on 16 Feb 1903 at 18 (the index also shows the couple under 26 Feb 1903 and 1 Feb 1902). She was Lola Murphy when she married Lial T. Adams at Spokane on 2 May 1918; her Murphy husband is not recorded.",
+    "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
+    "Buried at Lynden, Whatcom County (Find a Grave, as Lola P. Adams, 21 Sep 1885 – 3 Dec 1918). Ed Simons's tree gives her birthplace as Hart, Oceana County, Michigan, and her place of death as Butte, Montana."
    ]
   },
   {
@@ -55848,11 +56244,10 @@
     "simons"
    ],
    "adopted": false,
-   "father": "simons_aaron",
-   "mother": "simons_harriet_hattie",
+   "father": null,
+   "mother": "simons_gertrude_nellie",
    "parents": [
-    "simons_aaron",
-    "simons_harriet_hattie"
+    "simons_gertrude_nellie"
    ],
    "spouses": [
     "kulp_dradie_ellen"
@@ -55866,16 +56261,11 @@
     "simons_orval_keith",
     "simons_glen"
    ],
-   "siblings": [
-    "simons_gertrude_nellie",
-    "simons_ettie",
-    "simons_lola",
-    "simons_bertha"
-   ],
+   "siblings": [],
    "families": [
     "F_kulp_dradie_ellen+simons_raymond_zell"
    ],
-   "parent_family": "F_simons_aaron+simons_harriet_hattie",
+   "parent_family": "F_simons_gertrude_nellie",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -55955,7 +56345,9 @@
     "Find a Grave, memorial 72996672 (via Ancestry.com, U.S., Find a Grave Index)",
     "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
     "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "FamilySearch, Michigan, County Births, 1867-1917 (Ray Simonds, 14 June 1897, South Haven, Van Buren County)"
    ],
    "notes": [
     "Siblings listed: Ettie, Lola, Bertha",
@@ -55969,7 +56361,8 @@
     "Censuses give his father's birthplace as Ohio (1900, 1910), Iowa (1920) and Illinois (1930), and his own as Washington in 1930.",
     "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland.",
     "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918.",
-    "UNPROVEN alternative: Ed Simons's Ancestry tree names his parents as Gertrude Nellie Simons (Aaron and Harriet's eldest daughter) and Charles F. Masters, citing only another member tree. For it: Gertrude was 18 and unmarried when Raymond was born at South Haven in June 1897; she married Masters, then living at South Haven, on 12 Sep 1898. Against it: the 1900 census lists \"Ramond\" as Aaron and Harriet's son, Harriet reported 6 children born and 5 living (which fits only if Raymond is counted as hers), and his death certificate names Aaron and Hattie as his parents. Not yet checked: the 1897 Van Buren County birth register (FamilySearch, Michigan Births, 1867–1917) and Gertrude's own 1900 census entry."
+    "CORRECTION: his mother was Gertrude Nellie Simons, Aaron and Harriet's eldest daughter, not Harriet. The Michigan state birth register and the Van Buren County register both record Ray, born 14 Jun 1897 at South Haven, to Gertrude Simonds, born in Minnesota, the family living at Covert (state register no. 4556, recorded 5 Aug 1898). Gertrude, born in Minnesota in 1879, was 18 and unmarried. Aaron and Harriet raised him as their son: the 1900 census lists him as their son, and his death certificate names them as his parents. His \"sisters\" Ettie, Lola and Bertha were his aunts, and Dorothy Groves was his half-sister.",
+    "His father is not identified. The birth registers name him as \"Ray Simonds\", born in Chicago, a farmer, which fits neither Aaron (born in Ohio) nor Charles F. Masters, whom Gertrude married in 1898 (born in Michigan). Raymond's 1930 census gives his father's birthplace as Illinois. Ed Simons's Ancestry tree names Masters as his father, citing only another member tree (UNPROVEN). DNA matches could settle it."
    ]
   },
   {
@@ -57015,7 +57408,8 @@
    "id": "smith_may",
    "name": "May Smith (Dolan)",
    "aliases": [
-    "May Dolan"
+    "May Dolan",
+    "Mae Idilla Smith"
    ],
    "photo": null,
    "card_name": null,
@@ -57074,11 +57468,13 @@
    "career": [],
    "sources": [
     "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
-    "Find a Grave, memorial 45057978 (May Smith Dolan, Mount Calvary Cemetery, Portland)"
+    "Find a Grave, memorial 45057978 (May Smith Dolan, Mount Calvary Cemetery, Portland)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Mother of Sheldon Joseph Dolan, named as May Dolan on his 1937 marriage record. Born 3 Jan 1886 at Hardman, Morrow County, Oregon; married Joseph Martin Dolan in 1906; died 15 Jan 1915 in Portland, aged 29, and was buried at Mount Calvary Cemetery; her children were Sheldon (1909) and Marjorie (1911–1996) (Find a Grave).",
-    "UNPROVEN, from the Find a Grave biography: daughter of Thomas Smith and Nellie Frances Hampton, who married on 24 Dec 1877 in Linn County, Oregon. Her sisters were Bertha Iona (1878–1968), Alice Leona (Tennent, 1882–1972) and Mary Delpha (Parker, 1888–1970)."
+    "UNPROVEN, from the Find a Grave biography: daughter of Thomas Smith and Nellie Frances Hampton, who married on 24 Dec 1877 in Linn County, Oregon. Her sisters were Bertha Iona (1878–1968), Alice Leona (Tennent, 1882–1972) and Mary Delpha (Parker, 1888–1970).",
+    "Ed Simons's tree gives her full name as Mae Idilla Smith."
    ]
   },
   {
@@ -61879,9 +62275,12 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "vancel_valentine",
+   "mother": "karnes_elizabeth_rebecca",
+   "parents": [
+    "karnes_elizabeth_rebecca",
+    "vancel_valentine"
+   ],
    "spouses": [
     "kulp_michael_nicholas"
    ],
@@ -61895,7 +62294,7 @@
    "families": [
     "F_kulp_michael_nicholas+vancel_sarah"
    ],
-   "parent_family": null,
+   "parent_family": "F_karnes_elizabeth_rebecca+vancel_valentine",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -61917,12 +62316,71 @@
    "career": [],
    "sources": [
     "family_data_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Open question: John Jacob Kulp's birth year is 1860, 1864 or 1865; his Albion headstone says 1860, but that would make his mother Sarah Vancel about 14. No birth certificate is known [Family research emails, email 14, 23]",
     "Open question: Email 23 says Sarah Vancel Kulp died in '1975' after George Jasper was born 'December 1974'. These are clearly typos for 1875/1874, which matches the tree's abt 1875 death. [Family research emails, email 23]",
-    "Open question: Email 23 says Sarah went to Illinois 'while John was in the War'. This almost certainly means her husband Michael Kulp (1861-1863), since John was their child. [Family research emails, email 23]"
+    "Open question: Email 23 says Sarah went to Illinois 'while John was in the War'. This almost certainly means her husband Michael Kulp (1861-1863), since John was their child. [Family research emails, email 23]",
+    "UNPROVEN, from Ed Simons's Ancestry tree: born Mar 1847 in Somerset County, Pennsylvania, and died 18 Dec 1874 at Holton, Jackson County, Kansas."
+   ]
+  },
+  {
+   "id": "vancel_valentine",
+   "name": "Valentine Vancel",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1820",
+    "year": 1820,
+    "qualifier": null
+   },
+   "death": {
+    "text": "26 Sep 1856",
+    "year": 1856,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "karnes_elizabeth_rebecca"
+   ],
+   "children": [
+    "vancel_sarah"
+   ],
+   "siblings": [],
+   "families": [
+    "F_karnes_elizabeth_rebecca+vancel_valentine"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: father of Sarah Vancel (Kulp); born 1820 in Pennsylvania, died 26 Sep 1856 at Big Muddy, Union County, Illinois. Not found in the 1850 census or other records yet."
    ]
   },
   {
@@ -62400,6 +62858,73 @@
     "Born in Ohio about 1817–18 (aged 32 in 1850, 43 in 1860, 53 in 1870); the Ancestry trees give 30 Jan 1818, and her death as 25 Dec 1889 in Williams County, Ohio.",
     "She married Henry Symons as \"Mary Marsh\" on 24 Apr 1845 in Summit County, Ohio. Find a Grave and the family trees give her birth surname as Wagner or Wagoner, so she was probably a widow, Mrs. Marsh, when she married Henry; no record found so far shows the Wagner name or a first husband.",
     "Mary Jane Simons Fryman's 1919 death certificate names her mother as Elizabeth Marsh, born in Ohio. With the 1845 marriage record's \"Mary Marsh\", this suggests Marsh may have been her birth surname rather than a first husband's, or that Henry had an earlier wife; the Wagner name appears only on Find a Grave and in trees."
+   ]
+  },
+  {
+   "id": "walker_john_william",
+   "name": "John William Walker",
+   "aliases": [
+    "John W. Walker"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "29 Dec 1915",
+    "year": 1915,
+    "qualifier": null
+   },
+   "death": {
+    "text": "22 Dec 1975",
+    "year": 1975,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "hinds_marrion_roma"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hinds_marrion_roma+walker_john_william"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Colorado",
+    "Portland, Oregon",
+    "Richland, Washington",
+    "Spokane, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (John W. Walker, son of Ed and Esther Walker, and Carolyn E. Taylor; application 18 Nov 1940, Clark County)",
+    "Ancestry.com, 1940 United States Federal Census (Portland, Multnomah County, Oregon; household of Audry R. Bishop)",
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Born 29 Dec 1915 in Colorado; died 22 Dec 1975 at Spokane (Washington death records). Son of William Edgar \"Ed\" Walker (died 1916, Pueblo, Colorado) and Ester Lydia Green (1896–1970): his 1940 Washington marriage record names his parents as Ed and Esther Walker, and in 1940 he lived in Portland as the stepson of Audry R. Bishop, whose wife was Esther (1940 census; Ed Simons's tree).",
+    "Married Carolyn E. Taylor (Clark County, Washington, application 18 Nov 1940), and later Marrion Roma (Hinds) Dolan, widow of Sheldon Dolan. In 1950 they lived at 316 Goethals, Richland, with her daughter Mary P. and their daughters Roma F. and Betty A. Walker (1950 census). Stepfather of Mary Patricia (Walker) Simons, who took his surname."
    ]
   },
   {
@@ -67076,6 +67601,28 @@
    "marriage": "20 Jul 1800, Prince George’s County, MD"
   },
   {
+   "id": "F_eby_barbara_ann+michel_mathias",
+   "partners": [
+    "eby_barbara_ann",
+    "michel_mathias"
+   ],
+   "children": [
+    "simons_harriet_hattie"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_eby_george_w+nafcher_elizabeth",
+   "partners": [
+    "eby_george_w",
+    "nafcher_elizabeth"
+   ],
+   "children": [
+    "eby_barbara_ann"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_emily_schrieffer_mckeldin+poleman_jack",
    "partners": [
     "emily_schrieffer_mckeldin",
@@ -67850,6 +68397,15 @@
    "marriage": null
   },
   {
+   "id": "F_hinds_marrion_roma+walker_john_william",
+   "partners": [
+    "hinds_marrion_roma",
+    "walker_john_william"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
    "id": "F_hittle_alice+kenoyer_wright",
    "partners": [
     "hittle_alice",
@@ -68032,6 +68588,17 @@
    ],
    "children": [
     "kaempfer_adela"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_karnes_elizabeth_rebecca+vancel_valentine",
+   "partners": [
+    "karnes_elizabeth_rebecca",
+    "vancel_valentine"
+   ],
+   "children": [
+    "vancel_sarah"
    ],
    "marriage": null
   },
@@ -68840,8 +69407,7 @@
     "simons_gertrude_nellie",
     "simons_ettie",
     "simons_lola",
-    "simons_bertha",
-    "simons_raymond_zell"
+    "simons_bertha"
    ],
    "marriage": null
   },
@@ -68934,6 +69500,16 @@
    ],
    "children": [],
    "marriage": "21 Jun 1991"
+  },
+  {
+   "id": "F_simons_gertrude_nellie",
+   "partners": [
+    "simons_gertrude_nellie"
+   ],
+   "children": [
+    "simons_raymond_zell"
+   ],
+   "marriage": null
   },
   {
    "id": "F_simons_glen+simons_mary",

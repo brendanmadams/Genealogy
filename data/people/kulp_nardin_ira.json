@@ -1,8 +1,8 @@
 {
   "id": "kulp_nardin_ira",
   "name": "Nardin Ira Kulp",
-  "birth": "1904",
-  "death": "",
+  "birth": "8 Feb 1904",
+  "death": "4 Oct 1960",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -31,11 +31,15 @@
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Unconfirmed: Irma believes Nardin graduated from Albion High School. [Family research emails, email 48]"
+    "Unconfirmed: Irma believes Nardin graduated from Albion High School. [Family research emails, email 48]",
+    "Died 4 Oct 1960 in Whitman County, aged about 56 (Washington death records). Born 8 Feb 1904 at Blaine (Ed Simons's tree)."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": []
 }

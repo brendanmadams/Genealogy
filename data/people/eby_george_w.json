@@ -1,9 +1,9 @@
 {
-  "id": "simons_kim",
-  "name": "Kimberly Kay Alberts (Simons)",
-  "sex": "F",
-  "birth": "",
-  "death": "",
+  "id": "eby_george_w",
+  "name": "George W. Eby",
+  "sex": "M",
+  "birth": "1798",
+  "death": "1886",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -16,19 +16,17 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "simons_ed",
+    "spouse": "nafcher_elizabeth",
     "children": [
-      "henley_kayla",
-      "simons_john"
+      "eby_barbara_ann"
     ]
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
-  "notes": [],
-  "aliases": [
-    "Kim Simons"
-  ]
+  "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: father of Barbara Ann Eby (Michel); born 1798, died 1886. Not found in records yet."
+  ],
+  "aliases": []
 }

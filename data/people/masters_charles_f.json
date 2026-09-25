@@ -2,8 +2,8 @@
   "id": "masters_charles_f",
   "name": "Charles F. Masters",
   "sex": "M",
-  "birth": "1875",
-  "death": "1928",
+  "birth": "Mar 1875",
+  "death": "18 May 1928",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -21,12 +21,19 @@
     "spouse": "simons_gertrude_nellie",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "South Haven, Michigan",
+    "Sacramento, California"
+  ],
   "sources": [
-    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Ancestry.com, 1900 United States Federal Census (South Haven, Van Buren County, Michigan; Frank C. Masters, son of Richard F. and Sarah)",
+    "Ancestry.com, California, U.S., Death Index, 1905-1939 (Charles F. Masters, 18 May 1928, Sacramento)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
-    "First husband of Gertrude Nellie Simons; they divorced on 17 Dec 1901. The 1900 census lists him as Frank C. Masters, living with his parents at South Haven, Michigan."
+    "First husband of Gertrude Nellie Simons; they divorced on 17 Dec 1901. The 1900 census lists him as Frank C. Masters, living with his parents at South Haven, Michigan.",
+    "Born Mar 1875 in Michigan, son of Richard F. and Sarah Masters, with whom he lived at South Haven in 1900; died 18 May 1928 at Sacramento, aged 53 (1900 census; California death index). Ed Simons's tree gives 17 Mar 1875 at Watertown, Clinton County, and names him as Raymond Zell Simons's father (UNPROVEN); Raymond's birth register names a \"Ray Simonds\", born in Chicago."
   ],
   "aliases": [
     "Frank C. Masters"

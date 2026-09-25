@@ -1,8 +1,8 @@
 {
   "id": "kulp_audrey_rebecca",
   "name": "Audrey Rebecca Kulp (Hedrick)",
-  "birth": "1918",
-  "death": "",
+  "birth": "8 Dec 1918",
+  "death": "27 Oct 2000",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -26,11 +26,15 @@
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
     "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
-    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams."
+    "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
+    "Died 27 Oct 2000 in Stevens County as Audrey R. Hedrick (Washington death records). Born 8 Dec 1918 at Albion (Ed Simons's tree)."
   ],
-  "sex": "F"
+  "sex": "F",
+  "aliases": []
 }

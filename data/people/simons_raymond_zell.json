@@ -47,8 +47,8 @@
     "School bus driver in Delta, Whatcom County, in 1930."
   ],
   "relationships": {
-    "mother": "simons_harriet_hattie",
-    "father": "simons_aaron",
+    "mother": "simons_gertrude_nellie",
+    "father": "",
     "siblings": [],
     "spouse": "kulp_dradie_ellen",
     "children": [
@@ -94,7 +94,9 @@
     "Find a Grave, memorial 72996672 (via Ancestry.com, U.S., Find a Grave Index)",
     "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
     "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "FamilySearch, Michigan, County Births, 1867-1917 (Ray Simonds, 14 June 1897, South Haven, Van Buren County)"
   ],
   "notes": [
     "Siblings listed: Ettie, Lola, Bertha",
@@ -108,7 +110,8 @@
     "Censuses give his father's birthplace as Ohio (1900, 1910), Iowa (1920) and Illinois (1930), and his own as Washington in 1930.",
     "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland.",
     "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918.",
-    "UNPROVEN alternative: Ed Simons's Ancestry tree names his parents as Gertrude Nellie Simons (Aaron and Harriet's eldest daughter) and Charles F. Masters, citing only another member tree. For it: Gertrude was 18 and unmarried when Raymond was born at South Haven in June 1897; she married Masters, then living at South Haven, on 12 Sep 1898. Against it: the 1900 census lists \"Ramond\" as Aaron and Harriet's son, Harriet reported 6 children born and 5 living (which fits only if Raymond is counted as hers), and his death certificate names Aaron and Hattie as his parents. Not yet checked: the 1897 Van Buren County birth register (FamilySearch, Michigan Births, 1867–1917) and Gertrude's own 1900 census entry."
+    "CORRECTION: his mother was Gertrude Nellie Simons, Aaron and Harriet's eldest daughter, not Harriet. The Michigan state birth register and the Van Buren County register both record Ray, born 14 Jun 1897 at South Haven, to Gertrude Simonds, born in Minnesota, the family living at Covert (state register no. 4556, recorded 5 Aug 1898). Gertrude, born in Minnesota in 1879, was 18 and unmarried. Aaron and Harriet raised him as their son: the 1900 census lists him as their son, and his death certificate names them as his parents. His \"sisters\" Ettie, Lola and Bertha were his aunts, and Dorothy Groves was his half-sister.",
+    "His father is not identified. The birth registers name him as \"Ray Simonds\", born in Chicago, a farmer, which fits neither Aaron (born in Ohio) nor Charles F. Masters, whom Gertrude married in 1898 (born in Michigan). Raymond's 1930 census gives his father's birthplace as Illinois. Ed Simons's Ancestry tree names Masters as his father, citing only another member tree (UNPROVEN). DNA matches could settle it."
   ],
   "sex": "M",
   "aliases": []

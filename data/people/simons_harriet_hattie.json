@@ -19,12 +19,11 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "eby_barbara_ann",
+    "father": "michel_mathias",
     "siblings": [],
     "spouse": "simons_aaron",
     "children": [
-      "simons_raymond_zell",
       "simons_ettie",
       "simons_lola",
       "simons_bertha",
@@ -48,7 +47,11 @@
     "Ancestry.com, U.S. Federal Censuses 1900–1950",
     "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
     "Find a Grave, memorial 6661061 (via Ancestry.com, U.S., Find a Grave Index)",
-    "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)"
+    "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)",
+    "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
+    "FamilySearch, Washington, Death Certificates, 1907-1960 (Hattie Davison; parents Mathias Michel and Barbara Eby)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Hattie Michels Simons; parents Mathias Michels and Barbera Eby)",
+    "Ancestry.com, 1870 United States Federal Census (Bangor, Van Buren County, Michigan, post office South Haven; household of Mathias Michaels)"
   ],
   "notes": [
     "Birth date Dec 1858 newly established — previously excluded as nickname-only. Mother of Raymond Zell Simons.",
@@ -62,7 +65,9 @@
     "Born 23 Dec 1858 at London, Ontario; died 14 Jan 1933 at Delta, Whatcom County. Her Find a Grave memorial gives her name as Hattie Michel Davison; her son Ray's death record gives her birth surname as Micheals. The \"M.\" in \"Harriet M.\" (1900 census) may be her birth surname.",
     "After Aaron's death in 1923 she married a Davison, whose first name is not recorded.",
     "Her own parents are not yet known. John Howard Adams said Irma's Ancestry trees contain \"a couple of errors\", not yet specified. [Family research emails, email 46]",
-    "In 1900 at Covert, Van Buren County, Michigan, aged 41 (born Dec 1858 in Canada), married 25 years, she was the mother of 6 children, 5 of them living; her father was born in Germany and her mother in Pennsylvania (1900 census). The five living would be Gertrude, Ettie, Lola, Bertha and Raymond."
+    "In 1900 at Covert, Van Buren County, Michigan, aged 41 (born Dec 1858 in Canada), married 25 years, she was the mother of 6 children, 5 of them living; her father was born in Germany and her mother in Pennsylvania (1900 census). The five living would be Gertrude, Ettie, Lola, Bertha and Raymond.",
+    "Grandparents of Raymond Zell Simons (born 1897), their daughter Gertrude's son, whom they raised as their own; the 1900 census lists him as their son (Michigan birth registers).",
+    "Daughter of Mathias Michel and Barbara Eby: her Washington death certificate (as Hattie Davison) and her Washington marriage record (as Hattie Michels Simons) name them, and in 1870 she was Harriet, 11, in their household at Bangor, Van Buren County, Michigan."
   ],
   "card_name": [
     "Harriet “Hattie”",

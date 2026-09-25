@@ -33,11 +33,14 @@
   ],
   "sources": [
     "adams_family_doc_ocr_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, 1880 United States Federal Census (Elk, Clarion County, Pennsylvania; Ephram Kulp, 74, stonemason)"
   ],
   "notes": [
     "Son of Abraham Clemens Kulp. Father of Michael Nicholas Kulp — fills the final missing generation. Birth year disputed: Irmagene Zacher explicitly notes uncertainty. Source: Irmagene Kulp Zacher, Kulp Family Lineage.",
-    "Open question: Ephraim Kulp's birth year is given as 1805, 1809 or 1811; Irma is unsure which is right [Family research emails, email 23]"
+    "Open question: Ephraim Kulp's birth year is given as 1805, 1809 or 1811; Irma is unsure which is right [Family research emails, email 23]",
+    "In 1880 he was 74, a stonemason at Elk, Clarion County, Pennsylvania, born in Pennsylvania, with his wife Anna M. (58) and son George W. (18) (1880 census). Ed Simons's tree gives his birth as 10 Apr 1809 in New York; the sources disagree on the year (1806–1811)."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": []
 }

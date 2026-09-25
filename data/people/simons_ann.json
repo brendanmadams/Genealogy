@@ -1,6 +1,6 @@
 {
   "id": "simons_ann",
-  "name": "Ann Simons",
+  "name": "Ann Elizabeth Simons",
   "birth": "",
   "death": "",
   "personality": [],
@@ -27,11 +27,15 @@
   "sources": [
     "consolidated_research_digest_v1",
     "adams_dna_linkage_v1",
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
     "Parent: Glen Simons.",
     "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect."
   ],
-  "sex": "F"
+  "sex": "F",
+  "aliases": [
+    "Ann Simons"
+  ]
 }

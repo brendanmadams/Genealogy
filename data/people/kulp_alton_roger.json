@@ -1,7 +1,7 @@
 {
   "id": "kulp_alton_roger",
   "name": "Alton Roger Kulp",
-  "birth": "1917",
+  "birth": "11 Jun 1917",
   "death": "",
   "personality": [],
   "roles": [],
@@ -27,12 +27,15 @@
   ],
   "sources": [
     "consolidated_research_digest_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
     "Unconfirmed: Alton was only about 12 when his mother died. [Family research emails, email 48]",
-    "Open question: Alton Kulp (born 1917) is said to be about 12 when his mother died in 1931, which would make him about 13-14; Audrey 'a year younger' [Family research emails, email 12, 13, 14, 48]"
+    "Open question: Alton Kulp (born 1917) is said to be about 12 when his mother died in 1931, which would make him about 13-14; Audrey 'a year younger' [Family research emails, email 12, 13, 14, 48]",
+    "UNPROVEN, from Ed Simons's tree: born 11 Jun 1917 at Albion, Whitman County, Washington."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": []
 }

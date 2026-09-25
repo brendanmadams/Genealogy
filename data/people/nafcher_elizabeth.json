@@ -1,9 +1,9 @@
 {
-  "id": "simons_kim",
-  "name": "Kimberly Kay Alberts (Simons)",
+  "id": "nafcher_elizabeth",
+  "name": "Elizabeth Nafcher (Eby)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "1800",
+  "death": "1881",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -16,19 +16,17 @@
     "mother": "",
     "father": "",
     "siblings": [],
-    "spouse": "simons_ed",
+    "spouse": "eby_george_w",
     "children": [
-      "henley_kayla",
-      "simons_john"
+      "eby_barbara_ann"
     ]
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
-  "notes": [],
-  "aliases": [
-    "Kim Simons"
-  ]
+  "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: mother of Barbara Ann Eby (Michel); born 1800, died 1881. Not found in records yet."
+  ],
+  "aliases": []
 }

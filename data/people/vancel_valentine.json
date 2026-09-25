@@ -1,0 +1,32 @@
+{
+  "id": "vancel_valentine",
+  "name": "Valentine Vancel",
+  "sex": "M",
+  "birth": "1820",
+  "death": "26 Sep 1856",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "karnes_elizabeth_rebecca",
+    "children": [
+      "vancel_sarah"
+    ]
+  },
+  "locations": [],
+  "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+  ],
+  "notes": [
+    "UNPROVEN, from Ed Simons's Ancestry tree: father of Sarah Vancel (Kulp); born 1820 in Pennsylvania, died 26 Sep 1856 at Big Muddy, Union County, Illinois. Not found in the 1850 census or other records yet."
+  ],
+  "aliases": []
+}

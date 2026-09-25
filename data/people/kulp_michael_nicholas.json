@@ -51,7 +51,8 @@
   "sources": [
     "family_data_v1",
     "adams_family_doc_ocr_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017"
   ],
   "notes": [
     "Father of John Jacob Kulp. Son of Henry Kolb. Also spelled Culp.",
@@ -59,7 +60,9 @@
     "Father: Ephraim Kulp (NOW CONFIRMED — fills the missing generation). Source: Irmagene Kulp Zacher Kulp Family Lineage.",
     "CORRECTION 2026-09-22: Mother changed from fretz_barbara (wife of Henry Kolb, d. 1730) to confer_maria_catharina, wife of his confirmed father Ephraim Kulp.",
     "Open question: Email 23 says Sarah went to Illinois 'while John was in the War'. This almost certainly means her husband Michael Kulp (1861-1863), since John was their child. [Family research emails, email 23]",
-    "Open question: Irma says it is unknown when Michael and John Kulp came to Washington. They first appear in the 1885 Washington Territory census [Family research emails, email 23]"
+    "Open question: Irma says it is unknown when Michael and John Kulp came to Washington. They first appear in the 1885 Washington Territory census [Family research emails, email 23]",
+    "Died 21 Feb 1911 at the State Soldiers' Home, Orting, Pierce County, Washington; the death record gives his birth year as about 1838 (Washington death records). Ed Simons's tree gives 28 Feb 1842 at Oil City, Pennsylvania."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": []
 }
