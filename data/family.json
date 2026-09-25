@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-25T16:46:43.319Z",
-  "people": 941,
-  "family_members": 892,
+  "generated": "2026-09-25T17:24:13.793Z",
+  "people": 947,
+  "family_members": 898,
   "dna_matches": 49,
-  "connected_people": 892,
-  "families": 323,
+  "connected_people": 898,
+  "families": 326,
   "branches": [
    "adams",
    "hamilton",
@@ -8710,15 +8710,18 @@
     "Ancestry.com, 1850 United States Federal Census (Subdivision 22, Meigs County, Tennessee)",
     "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Ancestry.com, 1830 United States Federal Census (Hawkins County, Tennessee; William Ball)"
+    "Ancestry.com, 1830 United States Federal Census (Hawkins County, Tennessee; William Ball)",
+    "Find a Grave, memorial 101804658 (William Ball, 1775–1871, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)"
    ],
    "notes": [
     "Father of Ellen Rogers (Ball) McPhail, as named on her 1934 Washington death record.",
     "Married \"Drary Davis\" (Draden Catherine Davis) on 21 Dec 1833 in Roane County, Tennessee. The family is in the censuses at Subdivision 22, Meigs County, in 1850 (David 36, with Dorden 34 and eight children); District 2, McMinn County, in 1860; and District 8, Roane County, in 1870 and 1880 (with Drady C.). Eleven children are known: William Henry (1834), Samuel G. (1836), Sarah (abt 1837), Nancy Rebecca (1841), Thomas T. (1842), George W. (1844), Mary Ann (abt 1846), Martha E. (abt 1849), Ellen Rogers (1851), Margaret (abt 1854) and Catharine (abt 1857).",
     "The Kulp-Ritchey-Dorsett tree gives his full name as David Tate Ball, born 25 Dec 1813 in Hawkins County, Tennessee (the censuses put his birth in 1812–1814), and his death as 18 Mar 1886 at Rogersville, Roane County. The middle name Tate, his mother's reputed surname, was given to Ellen's son John Tate McPhail.",
-    "UNPROVEN: the Kulp-Ritchey-Dorsett tree names his parents as William Ball (1784–1826, born at Alexandria, Virginia, died in Hawkins County) and Nancy Tate (1788–1850), and their parents as Moses Ball and Mary Ann Hardin, and Edward Tate and Sarah McMullan. The tree cites only other member trees for this.",
     "His marriage bond of 21 Dec 1833 was given with Wm. Breeden as his surety, and he signed it with his mark. In 1880 his father's birthplace is given as Virginia and his mother's as Tennessee.",
-    "Lead: the 1830 census of Hawkins County, Tennessee, lists a William Ball with a household of 12, including a man aged 50–59, a woman aged 30–39 and three boys aged 15–19, one of whom could be David (then about 16). It does not fit the tree's William Ball (born 1784, died 1826) and is not proved to be David's family."
+    "Lead: the 1830 census of Hawkins County, Tennessee, lists a William Ball with a household of 12, including a man aged 50–59, a woman aged 30–39 and three boys aged 15–19, one of whom could be David (then about 16). It does not fit the tree's William Ball (born 1784, died 1826) and is not proved to be David's family.",
+    "Inferred: son of William Ball (about 1775–1871) of Hawkins County and Nancy Tate. He was born in Hawkins County in 1813, his middle name matches Nancy Tate's maiden name (and passed to his grandson John Tate McPhail), and William's 1830 household held a boy of his age; but neither Find a Grave nor Bonnie Ball's 1961 genealogy lists him among William's children. His parents' parents, Moses Ball and Mary Ann Hardin and Edward Tate and Sarah McMullan, come from the Kulp-Ritchey-Dorsett tree.",
+    "Rogersville, given by the tree as his place of death, is the seat of Hawkins County, not Roane County; he was living in District 8, Roane County, in 1880."
    ]
   },
   {
@@ -9006,6 +9009,68 @@
    ]
   },
   {
+   "id": "ball_john_stafford",
+   "name": "John Ball of Stafford County",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1722",
+    "year": 1722,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "winifred_ball"
+   ],
+   "children": [
+    "ball_moses_sr"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_john_stafford+winifred_ball"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Stafford County, Virginia"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Arlington Historical Society, review of Doris and George Ball, \"The Ball Family of the Potomac 1654–2004\" (2005)",
+    "Steven Perkins, \"More bad genealogy on the Washington-Ball connection\" (scpgen.blogspot.com, 2012), and the Ball surname Y-DNA project at FamilyTreeDNA"
+   ],
+   "notes": [
+    "Died 1722 in Stafford County, Virginia; his will names his wife Winifred and his sons James, John, Moses and George (Bonnie Ball's 1961 genealogy; the 2005 Arlington Historical Society review). The earliest proven ancestor of the Fairfax and Hawkins County Balls; his own parents are unknown. A James Ball brought to Westmoreland County in 1654 has been proposed as his father, unproven.",
+    "The claim that he was a son of Richard Ball (1645–1677), brother of Mary Ball Washington's father Col. Joseph Ball, has no record behind it, and Y-DNA testing places his descendants and the Lancaster County Balls in unrelated paternal lines (haplogroups R1b and I)."
+   ]
+  },
+  {
    "id": "ball_margaret",
    "name": "Margaret Ball",
    "aliases": [],
@@ -9212,6 +9277,138 @@
    ],
    "notes": [
     "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Aged 4 in 1850 and in the household in 1860 and 1870 (Mary A.)."
+   ]
+  },
+  {
+   "id": "ball_moses_jr",
+   "name": "Moses Ball Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "20 Apr 1748",
+    "year": 1748,
+    "qualifier": null
+   },
+   "death": {
+    "text": "15 Dec 1831",
+    "year": 1831,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_moses_sr",
+   "mother": "brashears_ann",
+   "parents": [
+    "ball_moses_sr",
+    "brashears_ann"
+   ],
+   "spouses": [
+    "hardin_mary_ann"
+   ],
+   "children": [
+    "ball_william_1784"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_moses_jr+hardin_mary_ann"
+   ],
+   "parent_family": "F_ball_moses_sr+brashears_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Beech Creek, Fairfax County, Virginia",
+    "Beech Creek, Hawkins County, Tennessee",
+    "Ball Cemetery, Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 35458870 (Moses Ball Jr., 1748–1831, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Hawkins County, Tennessee, will abstracts (Moses Ball, will dated 13 Dec 1831)",
+    "Find a Grave, memorial 89287998 (John Wesley Ball Sr., 1789–1862)"
+   ],
+   "notes": [
+    "Born 20 Apr 1748 in Fairfax County, Virginia, son of Moses Ball and Ann Brashears; married Mary Ann \"Molly\" Hardin about 1770. Last recorded in Fairfax in 1791, he bought 200 acres on Beech Creek, Hawkins County, Tennessee, from Samuel Curry in 1797. His will is dated 13 Dec 1831 and names his wife Molly and the executors Wesley and Thomas Ball; he died 15 Dec 1831 and was buried in the Ball Cemetery (Bonnie Ball's 1961 genealogy; the Hawkins County will abstracts; Find a Grave). His children included William, John Wesley (1789–1862), Thomas H., Bennett, Sarah (Long) and Sabilla (Long)."
+   ]
+  },
+  {
+   "id": "ball_moses_sr",
+   "name": "Moses Ball Sr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1717",
+    "year": 1717,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1792",
+    "year": 1792,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "ball_john_stafford",
+   "mother": "winifred_ball",
+   "parents": [
+    "ball_john_stafford",
+    "winifred_ball"
+   ],
+   "spouses": [
+    "brashears_ann"
+   ],
+   "children": [
+    "ball_moses_jr"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_moses_sr+brashears_ann"
+   ],
+   "parent_family": "F_ball_john_stafford+winifred_ball",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Fairfax County, Virginia"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Arlington Historical Society, review of Doris and George Ball, \"The Ball Family of the Potomac 1654–2004\" (2005)",
+    "Mount Vernon digital encyclopedia, \"Ball Family\""
+   ],
+   "notes": [
+    "Of Fairfax County, Virginia, 1717–1792, son of John Ball of Stafford County, whose 1722 will names him. A neighbour of George Washington, who calls him \"cousin\" in his diaries, though Washington called anyone named Ball cousin; Moses's will provides for repaying £10 he owed Washington (Bonnie Ball's 1961 genealogy; the 2005 Arlington Historical Society review). Father of Moses Ball Jr.",
+    "Not related to George Washington's Ball family by blood: Y-DNA tests of descendants of John Ball of Stafford and of William Ball of Lancaster County (Mary Ball Washington's grandfather) show two unrelated families."
    ]
   },
   {
@@ -9504,13 +9701,13 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1784",
-    "year": 1784,
-    "qualifier": null
+    "text": "abt 1775",
+    "year": 1775,
+    "qualifier": "about"
    },
    "death": {
-    "text": "1826",
-    "year": 1826,
+    "text": "27 Feb 1871",
+    "year": 1871,
     "qualifier": null
    },
    "living": false,
@@ -9519,9 +9716,12 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "ball_moses_jr",
+   "mother": "hardin_mary_ann",
+   "parents": [
+    "ball_moses_jr",
+    "hardin_mary_ann"
+   ],
    "spouses": [
     "tate_nancy"
    ],
@@ -9532,13 +9732,17 @@
    "families": [
     "F_ball_william_1784+tate_nancy"
    ],
-   "parent_family": null,
+   "parent_family": "F_ball_moses_jr+hardin_mary_ann",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Alexandria, Virginia",
-    "Hawkins County, Tennessee"
+    "Hawkins County, Tennessee",
+    "Fairfax County, Virginia",
+    "District 16, Hawkins County, Tennessee",
+    "Van Hill, Hawkins County, Tennessee",
+    "Ball Cemetery, Hawkins County, Tennessee"
    ],
    "personality": [],
    "roles": [],
@@ -9550,11 +9754,19 @@
    "career": [],
    "sources": [
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Ancestry.com, 1830 United States Federal Census (Hawkins County, Tennessee; William Ball)"
+    "Ancestry.com, 1830 United States Federal Census (Hawkins County, Tennessee; William Ball)",
+    "Ancestry.com, 1840 United States Federal Census (Hawkins County, Tennessee; William Ball)",
+    "Ancestry.com, 1850 United States Federal Census (District 16, Hawkins County, Tennessee; Wm Ball, 75)",
+    "Ancestry.com, 1870 United States Federal Census (District 16, Hawkins County, Tennessee, post office Van Hill; William Ball, 95, in the household of Harden Ball)",
+    "Find a Grave, memorial 101804658 (William Ball, 1775–1871, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Hawkins County, Tennessee, will abstracts (Moses Ball, will dated 13 Dec 1831)"
    ],
    "notes": [
-    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1784 at Alexandria, Virginia; died 1826 in Hawkins County, Tennessee; son of Moses Ball and Mary Ann Hardin. Father of David Tate Ball.",
-    "No Hawkins County probate for a William Ball and no marriage record of a William Ball and Nancy Tate has been found on Ancestry.com. The 1880 census gives David Ball's father's birthplace as Virginia."
+    "No Hawkins County probate for a William Ball and no marriage record of a William Ball and Nancy Tate has been found on Ancestry.com. The 1880 census gives David Ball's father's birthplace as Virginia.",
+    "CORRECTION: born about 1775 and died 27 Feb 1871, not 1784–1826. He is in the Hawkins County censuses of 1830 (aged 50–59), 1840 (60–69), 1850 (75, a farmer with real estate of $400, unable to read or write) and 1870 (95, retired, in the household of his son Harden at Van Hill), and Find a Grave records his death at Van Hill on 27 Feb 1871 and his burial in the Ball Cemetery. The 1850 census gives his birthplace as Maryland and the 1870 census Virginia; Bonnie Ball's 1961 genealogy says Fairfax County or Alexandria.",
+    "Married Nancy Tate about 1801 (Find a Grave; the Kulp-Ritchey-Dorsett tree), and later Patience. Children named by Find a Grave and the censuses include Tabitha (Smith, 1802), Mary, Sarah, the twins Nancy (Bailey) and Sabilla (Bradley, 1815), Harden (1818), Moses (1820), Rev. Lewis B. (1824), the twins Clinton C. and Milton E. (1826), George W. (1827) and William S.; Bonnie Ball also lists Edward Tate (about 1806), Nancy (about 1808) and a William Jr. who died in Roane County. Neither list includes David Tate Ball, so David's place as his son rests on the evidence on David's record.",
+    "Inferred: son of Moses Ball Jr. and Mary Ann Hardin. Moses's 1831 Hawkins County will names a \"Wm\", Bonnie Ball's genealogy lists William, husband of Nancy Tate, among Moses's children, William named sons Harden and Moses, and his brother John Wesley Ball Sr. (1789–1862) also came from Fairfax County to Hawkins County."
    ]
   },
   {
@@ -11414,6 +11626,66 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
+  },
+  {
+   "id": "brashears_ann",
+   "name": "Ann \"Nancy\" Brashears (Ball)",
+   "aliases": [
+    "Ann Nancy Brashers"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "ball_moses_sr"
+   ],
+   "children": [
+    "ball_moses_jr"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_moses_sr+brashears_ann"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 35458870 (Moses Ball Jr., 1748–1831, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)"
+   ],
+   "notes": [
+    "Wife of Moses Ball Sr. and mother of Moses Ball Jr., as Find a Grave and Bonnie Ball's genealogy give her; her surname is also spelled Brashers."
+   ]
   },
   {
    "id": "brendan_mckeldin_adams",
@@ -28065,6 +28337,69 @@
    ],
    "notes": [
     "Parent of Serepta Mary \"Reppa\" Grinnell (Wheeler): inferred, not stated. Bill Allen’s document shows photos captioned \"Willard Grinnell\" and \"Mary Hanks Grinnell\" on the same page as Reppa’s photo and the Grinnell family group (page 103)."
+   ]
+  },
+  {
+   "id": "hardin_mary_ann",
+   "name": "Mary Ann \"Molly\" Hardin (Ball)",
+   "aliases": [
+    "Molly Ball"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1754",
+    "year": 1754,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "ball_moses_jr"
+   ],
+   "children": [
+    "ball_william_1784"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_moses_jr+hardin_mary_ann"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 35458870 (Moses Ball Jr., 1748–1831, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Hawkins County, Tennessee, will abstracts (Moses Ball, will dated 13 Dec 1831)"
+   ],
+   "notes": [
+    "Wife of Moses Ball Jr., married about 1770; named as Molly in his 1831 will. Find a Grave gives her birth as 1754 and her parents as William Hardin and Patty Green (unverified)."
    ]
   },
   {
@@ -60498,10 +60833,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Find a Grave, memorial 101804658 (William Ball, 1775–1871, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)"
    ],
    "notes": [
-    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1788 and died 1850 in Hawkins County, Tennessee; daughter of Edward Tate and Sarah McMullan. Mother of David Tate Ball."
+    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1788 and died 1850 in Hawkins County, Tennessee; daughter of Edward Tate and Sarah McMullan. Mother of David Tate Ball.",
+    "Married William Ball about 1801; Find a Grave gives her death only as the 1840s, and Bonnie Ball's genealogy names her as his second wife, after a first wife surnamed Alim (or similar)."
    ]
   },
   {
@@ -64572,6 +64910,64 @@
    ]
   },
   {
+   "id": "winifred_ball",
+   "name": "Winifred (Ball)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "ball_john_stafford"
+   ],
+   "children": [
+    "ball_moses_sr"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ball_john_stafford+winifred_ball"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Arlington Historical Society, review of Doris and George Ball, \"The Ball Family of the Potomac 1654–2004\" (2005)"
+   ],
+   "notes": [
+    "Wife of John Ball of Stafford County, named in his 1722 will."
+   ]
+  },
+  {
    "id": "wood_chris",
    "name": "Chris Wood",
    "aliases": [],
@@ -66925,6 +67321,39 @@
     "mcphail_draden"
    ],
    "marriage": "1873"
+  },
+  {
+   "id": "F_ball_john_stafford+winifred_ball",
+   "partners": [
+    "ball_john_stafford",
+    "winifred_ball"
+   ],
+   "children": [
+    "ball_moses_sr"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_ball_moses_jr+hardin_mary_ann",
+   "partners": [
+    "ball_moses_jr",
+    "hardin_mary_ann"
+   ],
+   "children": [
+    "ball_william_1784"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_ball_moses_sr+brashears_ann",
+   "partners": [
+    "ball_moses_sr",
+    "brashears_ann"
+   ],
+   "children": [
+    "ball_moses_jr"
+   ],
+   "marriage": null
   },
   {
    "id": "F_ball_william_1784+tate_nancy",

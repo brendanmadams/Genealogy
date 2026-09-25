@@ -2,8 +2,8 @@
   "id": "ball_william_1784",
   "name": "William Ball",
   "sex": "M",
-  "birth": "1784",
-  "death": "1826",
+  "birth": "abt 1775",
+  "death": "27 Feb 1871",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -13,8 +13,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "hardin_mary_ann",
+    "father": "ball_moses_jr",
     "siblings": [],
     "spouse": "tate_nancy",
     "children": [
@@ -23,15 +23,27 @@
   },
   "locations": [
     "Alexandria, Virginia",
-    "Hawkins County, Tennessee"
+    "Hawkins County, Tennessee",
+    "Fairfax County, Virginia",
+    "District 16, Hawkins County, Tennessee",
+    "Van Hill, Hawkins County, Tennessee",
+    "Ball Cemetery, Hawkins County, Tennessee"
   ],
   "sources": [
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Ancestry.com, 1830 United States Federal Census (Hawkins County, Tennessee; William Ball)"
+    "Ancestry.com, 1830 United States Federal Census (Hawkins County, Tennessee; William Ball)",
+    "Ancestry.com, 1840 United States Federal Census (Hawkins County, Tennessee; William Ball)",
+    "Ancestry.com, 1850 United States Federal Census (District 16, Hawkins County, Tennessee; Wm Ball, 75)",
+    "Ancestry.com, 1870 United States Federal Census (District 16, Hawkins County, Tennessee, post office Van Hill; William Ball, 95, in the household of Harden Ball)",
+    "Find a Grave, memorial 101804658 (William Ball, 1775–1871, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Hawkins County, Tennessee, will abstracts (Moses Ball, will dated 13 Dec 1831)"
   ],
   "notes": [
-    "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1784 at Alexandria, Virginia; died 1826 in Hawkins County, Tennessee; son of Moses Ball and Mary Ann Hardin. Father of David Tate Ball.",
-    "No Hawkins County probate for a William Ball and no marriage record of a William Ball and Nancy Tate has been found on Ancestry.com. The 1880 census gives David Ball's father's birthplace as Virginia."
+    "No Hawkins County probate for a William Ball and no marriage record of a William Ball and Nancy Tate has been found on Ancestry.com. The 1880 census gives David Ball's father's birthplace as Virginia.",
+    "CORRECTION: born about 1775 and died 27 Feb 1871, not 1784–1826. He is in the Hawkins County censuses of 1830 (aged 50–59), 1840 (60–69), 1850 (75, a farmer with real estate of $400, unable to read or write) and 1870 (95, retired, in the household of his son Harden at Van Hill), and Find a Grave records his death at Van Hill on 27 Feb 1871 and his burial in the Ball Cemetery. The 1850 census gives his birthplace as Maryland and the 1870 census Virginia; Bonnie Ball's 1961 genealogy says Fairfax County or Alexandria.",
+    "Married Nancy Tate about 1801 (Find a Grave; the Kulp-Ritchey-Dorsett tree), and later Patience. Children named by Find a Grave and the censuses include Tabitha (Smith, 1802), Mary, Sarah, the twins Nancy (Bailey) and Sabilla (Bradley, 1815), Harden (1818), Moses (1820), Rev. Lewis B. (1824), the twins Clinton C. and Milton E. (1826), George W. (1827) and William S.; Bonnie Ball also lists Edward Tate (about 1806), Nancy (about 1808) and a William Jr. who died in Roane County. Neither list includes David Tate Ball, so David's place as his son rests on the evidence on David's record.",
+    "Inferred: son of Moses Ball Jr. and Mary Ann Hardin. Moses's 1831 Hawkins County will names a \"Wm\", Bonnie Ball's genealogy lists William, husband of Nancy Tate, among Moses's children, William named sons Harden and Moses, and his brother John Wesley Ball Sr. (1789–1862) also came from Fairfax County to Hawkins County."
   ],
   "aliases": []
 }

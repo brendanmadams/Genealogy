@@ -1,0 +1,39 @@
+{
+  "id": "ball_moses_jr",
+  "name": "Moses Ball Jr.",
+  "sex": "M",
+  "birth": "20 Apr 1748",
+  "death": "15 Dec 1831",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "brashears_ann",
+    "father": "ball_moses_sr",
+    "siblings": [],
+    "spouse": "hardin_mary_ann",
+    "children": [
+      "ball_william_1784"
+    ]
+  },
+  "locations": [
+    "Beech Creek, Fairfax County, Virginia",
+    "Beech Creek, Hawkins County, Tennessee",
+    "Ball Cemetery, Hawkins County, Tennessee"
+  ],
+  "sources": [
+    "Find a Grave, memorial 35458870 (Moses Ball Jr., 1748–1831, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Hawkins County, Tennessee, will abstracts (Moses Ball, will dated 13 Dec 1831)",
+    "Find a Grave, memorial 89287998 (John Wesley Ball Sr., 1789–1862)"
+  ],
+  "notes": [
+    "Born 20 Apr 1748 in Fairfax County, Virginia, son of Moses Ball and Ann Brashears; married Mary Ann \"Molly\" Hardin about 1770. Last recorded in Fairfax in 1791, he bought 200 acres on Beech Creek, Hawkins County, Tennessee, from Samuel Curry in 1797. His will is dated 13 Dec 1831 and names his wife Molly and the executors Wesley and Thomas Ball; he died 15 Dec 1831 and was buried in the Ball Cemetery (Bonnie Ball's 1961 genealogy; the Hawkins County will abstracts; Find a Grave). His children included William, John Wesley (1789–1862), Thomas H., Bennett, Sarah (Long) and Sabilla (Long)."
+  ],
+  "aliases": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ball_moses_sr",
+  "name": "Moses Ball Sr.",
+  "sex": "M",
+  "birth": "1717",
+  "death": "1792",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "winifred_ball",
+    "father": "ball_john_stafford",
+    "siblings": [],
+    "spouse": "brashears_ann",
+    "children": [
+      "ball_moses_jr"
+    ]
+  },
+  "locations": [
+    "Fairfax County, Virginia"
+  ],
+  "sources": [
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Arlington Historical Society, review of Doris and George Ball, \"The Ball Family of the Potomac 1654–2004\" (2005)",
+    "Mount Vernon digital encyclopedia, \"Ball Family\""
+  ],
+  "notes": [
+    "Of Fairfax County, Virginia, 1717–1792, son of John Ball of Stafford County, whose 1722 will names him. A neighbour of George Washington, who calls him \"cousin\" in his diaries, though Washington called anyone named Ball cousin; Moses's will provides for repaying £10 he owed Washington (Bonnie Ball's 1961 genealogy; the 2005 Arlington Historical Society review). Father of Moses Ball Jr.",
+    "Not related to George Washington's Ball family by blood: Y-DNA tests of descendants of John Ball of Stafford and of William Ball of Lancaster County (Mary Ball Washington's grandfather) show two unrelated families."
+  ],
+  "aliases": []
+}
