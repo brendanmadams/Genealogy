@@ -188,7 +188,7 @@ function closeDropdowns() { document.querySelectorAll('.dropdown.show').forEach(
 function wireSearch(input, drop, onPick = focus) {
   let sel = -1, hits = [];
   const render = () => {
-    drop.innerHTML = hits.map((p, i) => `<div class="hit${i === sel ? ' sel' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><div><div class="hit-name">${esc(displayName(p))}</div><div class="hit-sub">${esc([p.dna_match ? 'DNA match · low priority' : '', lifespan(p), p.locations?.[0]].filter(Boolean).join(' · '))}</div></div></div>`).join('')
+    drop.innerHTML = hits.map((p, i) => `<div class="hit${i === sel ? ' sel' : ''}" data-id="${p.id}" style="--branch:${D.color(p)}"><i></i><div><div class="hit-name">${esc(displayName(p))}</div><div class="hit-sub">${esc([p.dna_match ? 'DNA match · low priority' : '', lifespan(p), p.locations?.[0]?.replace(/\s*\(.*\)\s*$/, '')].filter(Boolean).join(' · '))}</div></div></div>`).join('')
       || `<div class="hit none">No one found</div>`;
     drop.classList.add('show');
   };

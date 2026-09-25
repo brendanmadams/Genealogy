@@ -8,7 +8,7 @@
 <script>try { var t = localStorage.getItem('familytree.theme'); if (t === 'light' || (t !== 'dark' && matchMedia('(prefers-color-scheme: light)').matches)) document.documentElement.dataset.theme = 'light'; } catch (e) {}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="css/app.css?v=d2ae8e1d" data-versioned />
+<link rel="stylesheet" href="css/app.css?v=21f7ed2f" data-versioned />
 </head>
 <body>
 <div id="app">
@@ -19,11 +19,11 @@
       <input id="search" type="search" placeholder="Search people…  ( / )" autocomplete="off" aria-label="Search people" />
       <div class="dropdown" id="search-results"></div>
     </div>
+    <div class="spacer"></div>
     <form class="ask-box" id="ask-form" role="search" aria-label="Ask a question">
       <input id="ask" type="search" placeholder="Ask a question…" autocomplete="off" aria-label="Ask a question about the family" />
     </form>
     <button class="hbtn" id="btn-ask" title="Ask a question">✦ <span class="label">Ask</span></button>
-    <div class="spacer"></div>
     <button class="hbtn" id="btn-theme" title="Switch to light mode" aria-label="Switch to light mode">☀</button>
     <button class="hbtn" id="btn-home" title="Start page">⌂ <span class="label">Start</span></button>
     <button class="hbtn" id="btn-fit" title="Fit the tree in view">⤢ <span class="label">Fit</span></button>
@@ -74,7 +74,7 @@
 <!-- versions:start (written by scripts/build.js; each file gets ?v=<content hash> so browsers fetch changes immediately) -->
 <script type="importmap">{
  "imports": {
-  "./js/app.js": "./js/app.js?v=70b1ef17",
+  "./js/app.js": "./js/app.js?v=a51ee429",
   "./js/ask.js": "./js/ask.js?v=f71cab7f",
   "./js/config.js": "./js/config.js?v=ccfc531b",
   "./js/data.js": "./js/data.js?v=eaab13e0",
@@ -90,6 +90,6 @@
  }
 }</script>
 <!-- versions:end -->
-<script type="module" src="js/app.js?v=70b1ef17" data-versioned></script>
+<script type="module" src="js/app.js?v=a51ee429" data-versioned></script>
 </body>
 </html>
