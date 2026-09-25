@@ -15,15 +15,17 @@
     "mother": "simons_mary",
     "father": "simons_glen",
     "siblings": [],
-    "spouse": "",
+    "spouse": "simons_kim",
     "children": [
-      "henley_kayla"
+      "henley_kayla",
+      "simons_john"
     ]
   },
   "locations": [],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Sharon Simons, via Brendan Adams, 2026-09-24"
+    "Sharon Simons, via Brendan Adams, 2026-09-24",
+    "Brendan Adams, 2026-09-24"
   ],
   "notes": [
     "Listed among the Simons family researchers in the Adams direct-line notes."

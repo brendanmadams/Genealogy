@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-25T00:00:18.119Z",
-  "people": 932,
-  "family_members": 883,
+  "generated": "2026-09-25T02:37:22.349Z",
+  "people": 934,
+  "family_members": 885,
   "dna_matches": 49,
-  "connected_people": 883,
-  "families": 318,
+  "connected_people": 885,
+  "families": 319,
   "branches": [
    "adams",
    "hamilton",
@@ -28549,7 +28549,9 @@
     "henley_kayliah",
     "henley_elizabeth"
    ],
-   "siblings": [],
+   "siblings": [
+    "simons_john"
+   ],
    "families": [
     "F_henley_austin+henley_kayla"
    ],
@@ -52934,14 +52936,18 @@
     "simons_glen",
     "simons_mary"
    ],
-   "spouses": [],
+   "spouses": [
+    "simons_kim"
+   ],
    "children": [
-    "henley_kayla"
+    "henley_kayla",
+    "simons_john"
    ],
    "siblings": [
     "simons_ann"
    ],
    "families": [
+    "F_simons_ed+simons_kim",
     "F_simons_ed"
    ],
    "parent_family": "F_simons_glen+simons_mary",
@@ -52959,7 +52965,8 @@
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Sharon Simons, via Brendan Adams, 2026-09-24"
+    "Sharon Simons, via Brendan Adams, 2026-09-24",
+    "Brendan Adams, 2026-09-24"
    ],
    "notes": [
     "Listed among the Simons family researchers in the Adams direct-line notes."
@@ -54320,6 +54327,63 @@
    ]
   },
   {
+   "id": "simons_john",
+   "name": "John Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "father": "simons_ed",
+   "mother": null,
+   "parents": [
+    "simons_ed"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "henley_kayla"
+   ],
+   "families": [],
+   "parent_family": "F_simons_ed",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-24"
+   ],
+   "notes": []
+  },
+  {
    "id": "simons_judy",
    "name": "Judith “Judy” Simons (Doshier)",
    "aliases": [
@@ -54465,6 +54529,59 @@
    "notes": [
     "Born 9 Sep 1919 at Fremont, Steuben Co., Indiana; died 1 Nov 2002 at Ocala, Marion Co., Florida (Find a Grave, memorial 167071020)."
    ]
+  },
+  {
+   "id": "simons_kim",
+   "name": "Kim Simons",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_ed"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_simons_ed+simons_kim"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams, 2026-09-24"
+   ],
+   "notes": []
   },
   {
    "id": "simons_lenore",
@@ -68787,8 +68904,18 @@
     "simons_ed"
    ],
    "children": [
-    "henley_kayla"
+    "henley_kayla",
+    "simons_john"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_ed+simons_kim",
+   "partners": [
+    "simons_ed",
+    "simons_kim"
+   ],
+   "children": [],
    "marriage": null
   },
   {
