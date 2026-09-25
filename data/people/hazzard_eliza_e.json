@@ -1,0 +1,38 @@
+{
+  "id": "hazzard_eliza_e",
+  "name": "Eliza E. Hazzard (Goodenough)",
+  "sex": "F",
+  "birth": "Feb 1870",
+  "death": "1961",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "goodenough_william_johnston",
+    "children": [
+      "goodenough_florence_c"
+    ]
+  },
+  "locations": [
+    "St. Louis, Missouri",
+    "Oregon"
+  ],
+  "sources": [
+    "FamilySearch, United States Census, 1900 (St. Louis city Ward 27, precinct 12, Missouri; household of William J. Goodenough)",
+    "FamilySearch Family Tree, Florence Clara Goodenough (LHDT-6PY), William Johnston Goodenough (L4WY-DPS), Eliza E. Hazzard (L4WY-D5S) and Lee Herschel Hinds (G9YG-XHN); a shared tree, used as a guide only"
+  ],
+  "notes": [
+    "Born Feb 1870 in Missouri; married William J. Goodenough at St. Louis on 5 Jan 1887; died in Oregon in 1961, having presumably followed her daughter Florence west (the FamilySearch tree). UNPROVEN, from the tree only: daughter of Daniel Hazzard (1833–1885) and Frances Caroline Rust (1833–1910)."
+  ],
+  "aliases": [
+    "Eliza Goodenough"
+  ]
+}

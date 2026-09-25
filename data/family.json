@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-25T17:45:48.082Z",
-  "people": 949,
-  "family_members": 900,
+  "generated": "2026-09-25T18:06:27.458Z",
+  "people": 960,
+  "family_members": 911,
   "dna_matches": 49,
-  "connected_people": 900,
-  "families": 326,
+  "connected_people": 911,
+  "families": 332,
   "branches": [
    "adams",
    "hamilton",
@@ -8133,6 +8133,59 @@
    ]
   },
   {
+   "id": "andrews_harriet",
+   "name": "Harriet (Andrews)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": "goodenough_florence_c",
+   "parents": [
+    "goodenough_florence_c"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_goodenough_florence_c",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "The Oregonian (Portland), 22 Jun 1970, obituary of Florence C. Bird (via FamilySearch / GenealogyBank, ark 1:1:Q5Q4-GBJ3)"
+   ],
+   "notes": [
+    "Named as Harriet Andrews, a daughter, in the Oregonian obituary of Florence C. Bird, 22 Jun 1970. Her birth surname (Whitney or Hinds) and dates are not yet known; she is not in the 1920 Whitney household, so she was born after January 1920 and could be a full sister of Marrion."
+   ]
+  },
+  {
    "id": "anne_marie_bainbridge",
    "name": "Anne Marie Bainbridge",
    "aliases": [],
@@ -11325,6 +11378,68 @@
    "notes": [
     "DNA match #27. Unplaced.",
     "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+   ]
+  },
+  {
+   "id": "bird_andrew_francis",
+   "name": "Andrew Francis Bird",
+   "aliases": [
+    "Andrew F. Bird"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1879",
+    "year": 1879,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "1956",
+    "year": 1956,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "goodenough_florence_c"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_bird_andrew_francis+goodenough_florence_c"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "New York",
+    "Brentwood, Multnomah County, Oregon"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1940 (Election Precinct 437 Brentwood, Multnomah County, Oregon; ED 26-58, sheet 8A, line 7; household of Andrew F. Bird; ark 1:1:VRTC-B3T)",
+    "FamilySearch, United States Census, 1950 (Multnomah County, Oregon; household of Andrew F. Bird)",
+    "FamilySearch Family Tree, Florence Clara Goodenough (LHDT-6PY), William Johnston Goodenough (L4WY-DPS), Eliza E. Hazzard (L4WY-D5S) and Lee Herschel Hinds (G9YG-XHN); a shared tree, used as a guide only"
+   ],
+   "notes": [
+    "Born in New York (1940 census, aged 64, so about 1876; the FamilySearch tree gives 1879 and a death in 1956). Married Florence C. (Goodenough) Hinds at Vancouver, Washington, on 8 Jun 1933 (the tree); head of the household in Election Precinct 437 Brentwood, Multnomah County, in 1940, and in Multnomah County in 1950."
    ]
   },
   {
@@ -17295,6 +17410,69 @@
    "notes": []
   },
   {
+   "id": "douthit_mary_c",
+   "name": "Mary C. Douthit (Pfander)",
+   "aliases": [
+    "Mary C. Pfander"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "pfander_joseph_v"
+   ],
+   "children": [
+    "pfander_dorothy_douthit"
+   ],
+   "siblings": [],
+   "families": [
+    "F_douthit_mary_c+pfander_joseph_v"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Lincoln Township, Page County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1900 (Lincoln Township, Page County, Iowa; household of Joseph V. Pfander; ark 1:1:M9LQ-SX1)",
+    "FamilySearch, Iowa, County Births, 1880-1935 (Dorothy D. Pfander, 14 Nov 1899, Lincoln Township, Page County; arks 1:1:V461-KS9, XV6F-P52)",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (Dorothy Douthit Pfander, born 14 Nov 1899 Coin, Page County, Iowa, died 1 May 1993; parents Joseph V. Pfander and Mary C. Douthit; ark 1:1:6K44-3612)"
+   ],
+   "notes": [
+    "Wife of Joseph V. Pfander and mother of Dorothy Douthit Pfander; her maiden name Douthit is on Dorothy's Social Security file and became Dorothy's middle name (1900 census; Iowa county birth register)."
+   ]
+  },
+  {
    "id": "dowling_ellen",
    "name": "Ellen Dowling (Dolan)",
    "aliases": [
@@ -21817,23 +21995,117 @@
   },
   {
    "id": "goodenough_florence_c",
-   "name": "Florence C. Goodenough (Hinds)",
+   "name": "Florence Clara Goodenough (Whitney, Hinds, Bird)",
    "aliases": [
     "Florence Hinds",
-    "Florance C. Goodenough"
+    "Florance C. Goodenough",
+    "Florence C. Whitney",
+    "Florence C. Bird",
+    "Florence Clara Goodenough"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "Feb 1892",
+    "year": 1892,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "20 Jun 1970",
+    "year": 1970,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "goodenough_william_johnston",
+   "mother": "hazzard_eliza_e",
+   "parents": [
+    "goodenough_william_johnston",
+    "hazzard_eliza_e"
+   ],
+   "spouses": [
+    "hinds_hershel",
+    "whitney_william_henry_jr",
+    "bird_andrew_francis"
+   ],
+   "children": [
+    "hinds_marrion_roma",
+    "whitney_albert_earl",
+    "whitney_elmer_m",
+    "whitney_harrell",
+    "andrews_harriet"
+   ],
+   "siblings": [],
+   "families": [
+    "F_bird_andrew_francis+goodenough_florence_c",
+    "F_goodenough_florence_c+hinds_hershel",
+    "F_goodenough_florence_c+whitney_william_henry_jr",
+    "F_goodenough_florence_c"
+   ],
+   "parent_family": "F_goodenough_william_johnston+hazzard_eliza_e",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Louis, Missouri",
+    "Vancouver, Clark County, Washington",
+    "Brentwood, Multnomah County, Oregon",
+    "Portland, Multnomah County, Oregon"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Marrion Roma Dolan / Walker)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (Marrion R. Walker, born 26 Nov 1920 St. Louis, parents Hershel H. Hinds and Florence C. Goodenough; ark 1:1:6KW5-TWBR)",
+    "The Oregonian (Portland), 22 Jun 1970, obituary of Florence C. Bird (via FamilySearch / GenealogyBank, ark 1:1:Q5Q4-GBJ3)",
+    "FamilySearch, Oregon, Death Index, 1903-1998 (Florence C. Bird, 20 Jun 1970, Multnomah County, certificate 9457)",
+    "Find a Grave index (Florence C. Bird, 1892–1970, Portland, Multnomah County)",
+    "FamilySearch, Missouri, Marriages, 1750-1920 (Florence C. Goodenough and Wm. Whitney Jr., St. Louis, 31 Mar 1910; ark 1:1:HQGT-TH6Z; licence 29 Mar 1910 in Missouri, County Marriage, Naturalization, and Court Records)",
+    "FamilySearch, Missouri, County Marriage, Naturalization, and Court Records, 1800-1991 (Lee Herschell Hinds and Florence C. Whitney, St. Louis, 23 Oct 1923, page 272185; ark 1:1:6DL7-M8GP)",
+    "FamilySearch, United States Census, 1920 (St. Louis Ward 27, Missouri; household of William H. Whitney)",
+    "FamilySearch, United States Census, 1940 (Election Precinct 437 Brentwood, Multnomah County, Oregon; ED 26-58, sheet 8A, line 7; household of Andrew F. Bird; ark 1:1:VRTC-B3T)",
+    "FamilySearch, United States Census, 1950 (Multnomah County, Oregon; household of Andrew F. Bird)",
+    "FamilySearch, United States Census, 1900 (St. Louis city Ward 27, precinct 12, Missouri; household of William J. Goodenough)",
+    "FamilySearch Family Tree, Florence Clara Goodenough (LHDT-6PY), William Johnston Goodenough (L4WY-DPS), Eliza E. Hazzard (L4WY-D5S) and Lee Herschel Hinds (G9YG-XHN); a shared tree, used as a guide only"
+   ],
+   "notes": [
+    "Mother of Marrion Roma Hinds, born 26 Nov 1920 in St. Louis, Missouri: Florance C. Goodenough on Marrion's Social Security record and Florence Hinds on her 1937 marriage record.",
+    "Born Feb 1892 in Missouri, daughter of William J. Goodenough, an Englishman from the Isle of Wight, and Eliza E. Hazzard; at home in St. Louis Ward 27 in 1900 with Edgar, Irwin, Myrtle, George and Jessie (1900 census; the FamilySearch tree of the family). Inferred: the census household is the link between her and the Goodenough parents.",
+    "Married three times: William Henry Whitney Jr. at St. Louis on 31 Mar 1910 (licence 29 Mar), with whom she had Albert Earl (about 1910), Elmer (about 1911) and Harrell (about 1915), and was living in St. Louis Ward 27 in 1920; Lee Herschell Hinds at St. Louis on 23 Oct 1923, as Florence C. Whitney; and Andrew Francis Bird, born in New York about 1876–1879, at Vancouver, Washington, on 8 Jun 1933 (the FamilySearch tree; the 1933 marriage not yet seen in the index). In 1940 she and Andrew, 64, lived in Election Precinct 437 Brentwood, Multnomah County, Oregon, the same precinct as her daughter Marrion and Sheldon Dolan; in 1950 still in Multnomah County with her son Elmer M. Whitney.",
+    "Died 20 Jun 1970 in Multnomah County (Oregon death index, certificate 9457, which gives her age as 92, an indexing slip for 78). Her obituary in the Oregonian of 22 Jun 1970 names her children Elmer Whitney, Harriet Andrews, Harrell and Mrs John Walker, that is Marrion. Buried at Portland (Find a Grave, 1892–1970)."
+   ]
+  },
+  {
+   "id": "goodenough_william_johnston",
+   "name": "William Johnston Goodenough",
+   "aliases": [
+    "William J. Goodenough"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "14 Jun 1866",
+    "year": 1866,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Jan 1937",
+    "year": 1937,
     "qualifier": null
    },
    "living": false,
@@ -21846,20 +22118,24 @@
    "mother": null,
    "parents": [],
    "spouses": [
-    "hinds_hershel"
+    "hazzard_eliza_e"
    ],
    "children": [
-    "hinds_marrion_roma"
+    "goodenough_florence_c"
    ],
    "siblings": [],
    "families": [
-    "F_goodenough_florence_c+hinds_hershel"
+    "F_goodenough_william_johnston+hazzard_eliza_e"
    ],
    "parent_family": null,
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "West Cowes, Isle of Wight, England",
+    "St. Louis, Missouri",
+    "Saint Peters Cemetery, Normandy, St. Louis County, Missouri"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -21869,11 +22145,11 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Marrion Roma Dolan / Walker)",
-    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)"
+    "FamilySearch, United States Census, 1900 (St. Louis city Ward 27, precinct 12, Missouri; household of William J. Goodenough)",
+    "FamilySearch Family Tree, Florence Clara Goodenough (LHDT-6PY), William Johnston Goodenough (L4WY-DPS), Eliza E. Hazzard (L4WY-D5S) and Lee Herschel Hinds (G9YG-XHN); a shared tree, used as a guide only"
    ],
    "notes": [
-    "Mother of Marrion Roma Hinds, born 26 Nov 1920 in St. Louis, Missouri: Florance C. Goodenough on Marrion's Social Security record and Florence Hinds on her 1937 marriage record."
+    "Born 14 Jun 1866 at West Cowes, Isle of Wight (the FamilySearch tree, which cites six sources); came to the United States in 1882; married Eliza E. Hazzard at St. Louis on 5 Jan 1887; in St. Louis Ward 27 in 1900 with Eliza and children including Florence. Died Jan 1937 at St. Louis and buried at Saint Peters Cemetery, Normandy (the tree). Nine children are attached to the couple on the tree."
    ]
   },
   {
@@ -28768,6 +29044,69 @@
    ]
   },
   {
+   "id": "hazzard_eliza_e",
+   "name": "Eliza E. Hazzard (Goodenough)",
+   "aliases": [
+    "Eliza Goodenough"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "Feb 1870",
+    "year": 1870,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1961",
+    "year": 1961,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "goodenough_william_johnston"
+   ],
+   "children": [
+    "goodenough_florence_c"
+   ],
+   "siblings": [],
+   "families": [
+    "F_goodenough_william_johnston+hazzard_eliza_e"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Louis, Missouri",
+    "Oregon"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1900 (St. Louis city Ward 27, precinct 12, Missouri; household of William J. Goodenough)",
+    "FamilySearch Family Tree, Florence Clara Goodenough (LHDT-6PY), William Johnston Goodenough (L4WY-DPS), Eliza E. Hazzard (L4WY-D5S) and Lee Herschel Hinds (G9YG-XHN); a shared tree, used as a guide only"
+   ],
+   "notes": [
+    "Born Feb 1870 in Missouri; married William J. Goodenough at St. Louis on 5 Jan 1887; died in Oregon in 1961, having presumably followed her daughter Florence west (the FamilySearch tree). UNPROVEN, from the tree only: daughter of Daniel Hazzard (1833–1885) and Frances Caroline Rust (1833–1910)."
+   ]
+  },
+  {
    "id": "heistand_alice",
    "name": "Alice Heistand (Decker)",
    "aliases": [],
@@ -29183,7 +29522,9 @@
   {
    "id": "hinds_hershel",
    "name": "Hershel Hinds",
-   "aliases": [],
+   "aliases": [
+    "Hershel H. Hinds"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -29232,10 +29573,14 @@
    "career": [],
    "sources": [
     "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Marrion Roma Dolan / Walker)",
-    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)"
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Robert Joseph Dolan and Marrion P. Hinds, Vancouver, Clark County, 9 Jun 1937)",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (Marrion R. Walker, born 26 Nov 1920 St. Louis, parents Hershel H. Hinds and Florence C. Goodenough; ark 1:1:6KW5-TWBR)",
+    "FamilySearch, Missouri, County Marriage, Naturalization, and Court Records, 1800-1991 (Lee Herschell Hinds and Florence C. Whitney, St. Louis, 23 Oct 1923, page 272185; ark 1:1:6DL7-M8GP)",
+    "FamilySearch Family Tree, Florence Clara Goodenough (LHDT-6PY), William Johnston Goodenough (L4WY-DPS), Eliza E. Hazzard (L4WY-D5S) and Lee Herschel Hinds (G9YG-XHN); a shared tree, used as a guide only"
    ],
    "notes": [
-    "Father of Marrion Roma Hinds, born 26 Nov 1920 in St. Louis, Missouri (her Social Security record and her 1937 marriage record). Not yet found in a census; a Merritt Hershel Hinds, born Aug 1894 in Missouri, lived in Greene County in 1900, a lead only."
+    "Named as Hershel H. Hinds, father of Marrion Roma Hinds, on Marrion's own Social Security application of 1942 and as Hershel Hinds on her 1937 marriage record. The only Hinds marriage found for Florence is that of Lee Herschell Hinds and Florence C. Whitney at St. Louis on 23 Oct 1923, three years after Marrion's birth; see Marrion's record for what that leaves open. Not yet found in a census with Florence; a Merritt Hershel Hinds, born Aug 1894 in Missouri, lived in Greene County in 1900, a lead only.",
+    "UNPROVEN: the FamilySearch tree attaches the 1923 marriage to a Lee Herschel Hinds born 20 Apr 1888 at Clinton, Indiana, who died 26 Jun 1957 at Indianapolis, with other wives Mary Ennis (1907), Florence Martha Fuller (1928) and Flossie Lanham (1953), and who was at Frankfort, Indiana, in 1930. If that is the right man, the marriage to Florence ended by 1928."
    ]
   },
   {
@@ -29245,7 +29590,8 @@
     "Marrion R. Walker",
     "Marrion Dolan",
     "Marrion P. Hinds",
-    "Marrion Roma Dolan"
+    "Marrion Roma Dolan",
+    "Marrion Roma Hinds"
    ],
    "photo": null,
    "card_name": null,
@@ -29296,7 +29642,9 @@
     "Portland, Oregon",
     "Richland, Washington",
     "Kennewick, Washington",
-    "Sunset Memorial Gardens, Richland"
+    "Sunset Memorial Gardens, Richland",
+    "Brentwood, Multnomah County, Oregon",
+    "Vancouver, Clark County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -29316,12 +29664,17 @@
     "Find a Grave, memorial 143034118 (Marrion R. Walker, Sunset Memorial Gardens, Richland)",
     "Missouri State Archives, Missouri Death Certificates, 1910–1975, certificate 33843 (Roma E. Wilkins, 21 Oct 1935, St. Louis County)",
     "Ancestry.com, 1920 United States Federal Census (St. Louis Ward 13, Missouri; Shenandoah; household of William Abernathy)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (Marrion R. Walker, born 26 Nov 1920 St. Louis, parents Hershel H. Hinds and Florence C. Goodenough; ark 1:1:6KW5-TWBR)",
+    "The Oregonian (Portland), 22 Jun 1970, obituary of Florence C. Bird (via FamilySearch / GenealogyBank, ark 1:1:Q5Q4-GBJ3)",
+    "FamilySearch, United States Social Security Death Index (Marrion R. Walker, 26 Nov 1920 – 20 Mar 2001, Benton County, Washington)",
+    "FamilySearch, United States Census, 1940 (Election Precinct 437 Brentwood, Multnomah County, Oregon; ED 26-58, sheet 8A, line 7; household of Andrew F. Bird; ark 1:1:VRTC-B3T)"
    ],
    "notes": [
     "Born 26 Nov 1920 in St. Louis, Missouri, daughter of Hershel Hinds and Florence C. Goodenough (Social Security record, which lists her as Marrion Roma Dolan in 1942 and Marrion Roma Walker from 1951). She died on 20 Mar 2001 in Kennewick, aged 80, and was buried at Sunset Memorial Gardens, Richland (Washington death index; Find a Grave; an obituary indexed for 21 Mar 2001).",
     "Married Robert (Sheldon) Joseph Dolan at Vancouver, Washington, on 9 Jun 1937, when she was 18; the record names her parents as Hershel and Florence Hinds. Their daughter was Mary. After Sheldon died in 1942 she married John W. Walker, born about 1916 in Colorado; in 1950 they lived at 316 Goethals, Richland, with Mary P., Roma F. and Betty A. Walker. She lived in Kennewick in 1993.",
-    "UNPROVEN alternative: Ed Simons's Ancestry tree names her mother as Roma Eloise Abernathy, father unknown, citing only a community tree; her Social Security record and 1937 marriage record name Hershel Hinds and Florence (Goodenough) Hinds. Roma was real: born 27 Jun 1902 at Perryville, Missouri, daughter of William H. Abernathy and Effie Cashion, she was 17 and single at home on Shenandoah Avenue, St. Louis, in January 1920, married John J. Wilkins, and died at Overland, St. Louis County, on 21 Oct 1935 (1920 census; Missouri death certificate 33843). Marrion was born in St. Louis in Nov 1920, and her middle name is Roma, which fits Roma as a birth mother and the Hinds couple as the parents who raised her. Not yet checked: Marrion's 1920 St. Louis birth certificate and her Social Security application (SS-5)."
+    "Her mother is settled: her own Social Security application of July 1942, indexed in the NUMIDENT files, gives her birth as 26 Nov 1920 at St. Louis to Hershel H. Hinds and Florence C. Goodenough, and the Oregonian obituary of Florence C. Bird (22 Jun 1970) lists \"Mrs John Walker\" among Florence's children, beside Elmer Whitney, Harrell Whitney and Harriet Andrews. In 1940 the Birds lived in the same Brentwood election precinct (437) as Marrion and Sheldon Dolan. Ed Simons's tree names her mother as Roma Eloise Abernathy from a community tree; Roma was real (born 27 Jun 1902 at Perryville, Missouri, daughter of William H. Abernathy and Effie Cashion; at home on Shenandoah Avenue, St. Louis, in January 1920; married John J. Wilkins; died at Overland, St. Louis County, 21 Oct 1935; Missouri death certificate 33843), but nothing now connects her to Marrion beyond the shared name. Her birth certificate (St. Louis, 1920, not online) would confirm which surname she was born under.",
+    "Her father is less settled than her mother. Florence was the wife of William H. Whitney Jr. from March 1910 and still in his household in January 1920, ten months before Marrion's birth, and did not marry a Hinds until 23 Oct 1923 (Lee Herschell Hinds, St. Louis). Either Hershel Hinds was her birth father, or she was born a Whitney and took the Hinds name after 1923; her 1937 marriage record and 1942 Social Security application both name Hinds. Her half-siblings through Florence are Albert Earl, Elmer and Harrell Whitney and Harriet (Andrews)."
    ]
   },
   {
@@ -36643,7 +36996,8 @@
     "Ancestry.com, 1900 United States Federal Census (Fallston, Harford County, Maryland; ED 147, sheet 9, dwelling 164)",
     "Ancestry.com, Pennsylvania, U.S., Arriving Passenger and Crew Lists, 1798-1962 (ship Phoenician, Philadelphia, 30 Jul 1884; NARA T840, roll 5)",
     "Find a Grave, memorial 272356009 (Emily Mariam Lynn Quinn Cook, Saint John's Cemetery, Fork, Baltimore County)",
-    "Ancestry.com, Ireland, Select Births and Baptisms, 1620-1911 (Emily Lynn, born 9 Jan 1868, Galgorm, County Antrim; FHL film 101160)"
+    "Ancestry.com, Ireland, Select Births and Baptisms, 1620-1911 (Emily Lynn, born 9 Jan 1868, Galgorm, County Antrim; FHL film 101160)",
+    "FamilySearch, Ireland Civil Registration, 1845-1913 (Emily Lynn, born 9 Jan 1868, Ballywatermoy, Ahoghill, Ballymena registration district, County Antrim; parents John Lynn and Charlotte Montgomery; ark 1:1:QL34-9G74)"
    ],
    "notes": [
     "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her.",
@@ -36652,7 +37006,8 @@
     "In 1900, at Fallston, Harford County, she was 31, born Feb 1869 in Ireland to parents both born in Ireland, married 11 years, and the mother of six children, five of them living; she could read, write and speak English (1900 census).",
     "Inferred: the Emily Lynn, 15, born in Ireland, who sailed from Glasgow and Moville on the Phoenician and landed at Philadelphia on 30 Jul 1884 (passenger list). No relatives are listed with her.",
     "Buried at Saint John's Cemetery, Fork, Baltimore County, like her first husband Bernard; her second husband was Ernest P. Cook, who died in 1943 (Find a Grave).",
-    "UNPROVEN: the Quinn Family Tree names her parents as John Joseph Lynn (1834–1892) and Charlotte Ann Montgomery (1842–1906), of Galgorm and Ballymena, County Antrim, from a baptism index entry for an Emily Lynn born 9 Jan 1868 at Galgorm to John Lynn and Charlotte Montgomery. Her own records give Feb 1869, and nothing yet links that baptism to her; her daughter Charlotte Ann's name fits. The same tree also attaches a second Emily Lynn, born 24 Feb 1869 in County Antrim to Robert Lynn and Mary Ann Hanna, whom another tree has marrying Thomas George Stevenson in Ireland in 1890. Her 1937 Maryland death certificate, which should name her parents, would settle it."
+    "UNPROVEN: the Quinn Family Tree names her parents as John Joseph Lynn (1834–1892) and Charlotte Ann Montgomery (1842–1906), of Galgorm and Ballymena, County Antrim, from a baptism index entry for an Emily Lynn born 9 Jan 1868 at Galgorm to John Lynn and Charlotte Montgomery. Her own records give Feb 1869, and nothing yet links that baptism to her; her daughter Charlotte Ann's name fits. The same tree also attaches a second Emily Lynn, born 24 Feb 1869 in County Antrim to Robert Lynn and Mary Ann Hanna, whom another tree has marrying Thomas George Stevenson in Ireland in 1890. Her 1937 Maryland death certificate, which should name her parents, would settle it.",
+    "The Galgorm baptism has a matching civil registration: Emily Lynn, born 9 Jan 1868 at Ballywatermoy, Ahoghill, in the Ballymena district, County Antrim, to John Lynn and Charlotte Montgomery (Ireland civil registration). It remains UNPROVEN that this is our Emily; her 1937 Maryland death certificate is still the record to find."
    ]
   },
   {
@@ -42245,6 +42600,63 @@
    ]
   },
   {
+   "id": "noyes_forest",
+   "name": "Forest Noyes",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_bertha"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_noyes_forest+simons_bertha"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Burlington, Skagit County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
+   ],
+   "notes": [
+    "Married Bertha Simons at Burlington, Skagit County, on 2 Nov 1902; son of George Noyes and Lottie Smith (Washington county marriages)."
+   ]
+  },
+  {
    "id": "oberholtzer_elizabeth",
    "name": "Elizabeth Oberholtzer",
    "aliases": [],
@@ -44470,7 +44882,8 @@
    "name": "Dorothy Douthit Pfander (Wheeler, Howard)",
    "aliases": [
     "Dorothy Wheeler",
-    "Dorothy Howard"
+    "Dorothy Howard",
+    "Dorothy D. Pfander"
    ],
    "photo": "images/pfander_dorothy_douthit.jpg",
    "card_name": null,
@@ -44482,13 +44895,81 @@
     "dorothy-douthit-howard"
    ],
    "birth": {
-    "text": "1899",
+    "text": "14 Nov 1899",
     "year": 1899,
     "qualifier": null
    },
    "death": {
-    "text": "1993",
+    "text": "1 May 1993",
     "year": 1993,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "pfander_joseph_v",
+   "mother": "douthit_mary_c",
+   "parents": [
+    "douthit_mary_c",
+    "pfander_joseph_v"
+   ],
+   "spouses": [
+    "wheeler_melvin"
+   ],
+   "children": [
+    "wheeler_dorothy_ann",
+    "wheeler_marjorie"
+   ],
+   "siblings": [],
+   "families": [
+    "F_pfander_dorothy_douthit+wheeler_melvin"
+   ],
+   "parent_family": "F_douthit_mary_c+pfander_joseph_v",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Lincoln Township (Coin), Page County, Iowa",
+    "Duarte, Los Angeles County, California"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "FamilySearch, Iowa, County Births, 1880-1935 (Dorothy D. Pfander, 14 Nov 1899, Lincoln Township, Page County; arks 1:1:V461-KS9, XV6F-P52)",
+    "FamilySearch, United States Census, 1900 (Lincoln Township, Page County, Iowa; household of Joseph V. Pfander; ark 1:1:M9LQ-SX1)",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (Dorothy Douthit Pfander, born 14 Nov 1899 Coin, Page County, Iowa, died 1 May 1993; parents Joseph V. Pfander and Mary C. Douthit; ark 1:1:6K44-3612)"
+   ],
+   "notes": [
+    "Mother of Dorothy Ann and Marjorie Wheeler; wife of Melvin Wheeler. A photo caption in Bill Allen’s document names her \"Dorothy Douthit (Pfander) (Wheeler) Howard\", which suggests a later marriage to a Howard.",
+    "Born 14 Nov 1899 in Lincoln Township (Coin), Page County, Iowa, daughter of Joseph V. Pfander and Mary C. Douthit (Iowa county birth register; 1900 census, in which she is five months old with sisters Eva, Bessie and Nellie B. and brother Allen V.). Her Social Security file gives the same parents and her death on 1 May 1993; the FamilySearch tree places the death at Duarte, California."
+   ]
+  },
+  {
+   "id": "pfander_joseph_v",
+   "name": "Joseph V. Pfander",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "Jul 1855",
+    "year": 1855,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
     "qualifier": null
    },
    "living": false,
@@ -44501,21 +44982,22 @@
    "mother": null,
    "parents": [],
    "spouses": [
-    "wheeler_melvin"
+    "douthit_mary_c"
    ],
    "children": [
-    "wheeler_dorothy_ann",
-    "wheeler_marjorie"
+    "pfander_dorothy_douthit"
    ],
    "siblings": [],
    "families": [
-    "F_pfander_dorothy_douthit+wheeler_melvin"
+    "F_douthit_mary_c+pfander_joseph_v"
    ],
    "parent_family": null,
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Lincoln Township, Page County, Iowa"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -44525,10 +45007,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "FamilySearch, United States Census, 1900 (Lincoln Township, Page County, Iowa; household of Joseph V. Pfander; ark 1:1:M9LQ-SX1)",
+    "FamilySearch, Iowa, County Births, 1880-1935 (Dorothy D. Pfander, 14 Nov 1899, Lincoln Township, Page County; arks 1:1:V461-KS9, XV6F-P52)",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (Dorothy Douthit Pfander, born 14 Nov 1899 Coin, Page County, Iowa, died 1 May 1993; parents Joseph V. Pfander and Mary C. Douthit; ark 1:1:6K44-3612)"
    ],
    "notes": [
-    "Mother of Dorothy Ann and Marjorie Wheeler; wife of Melvin Wheeler. A photo caption in Bill Allen’s document names her \"Dorothy Douthit (Pfander) (Wheeler) Howard\", which suggests a later marriage to a Howard."
+    "Born Jul 1855 in Iowa; farmer at Lincoln Township, Page County, in 1900 with wife Mary C., married about 1880, and children Eva, Bessie, Allen V., Nellie B. and Dorothy D. (1900 census). UNPROVEN, from the FamilySearch tree: son of Abraham and Elizabeth Pfander."
    ]
   },
   {
@@ -52388,7 +52872,8 @@
     "Custer, Whatcom County, Washington",
     "Coventry, Summit County, Ohio",
     "Richland Township, DeKalb County, Indiana",
-    "Northwest Township, Williams County, Ohio"
+    "Northwest Township, Williams County, Ohio",
+    "Skagit County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -52423,7 +52908,8 @@
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
     "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
-    "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)"
+    "Ancestry.com, 1900 United States Federal Census (Covert, Van Buren County, Michigan; ED 138, sheets 12A–12B, dwelling 259)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
    ],
    "notes": [
     "Birthplace Ohio (1900 and 1910 censuses).",
@@ -52434,7 +52920,8 @@
     "CORRECTION: born 9 May 1850 in Ohio. He is an infant in the 1850 census of Coventry, Summit County, Ohio (taken as of 1 June 1850), so Find a Grave's 9 May 1851 is a year late; the 1900 census gives May 1852.",
     "He married Harriet \"Hattie\" Michel about 1875 (Michigan marriage records, cited in the Ancestry tree); their first child, Gertrude Nellie, was born in Minnesota in 1879.",
     "Son of Henry Simons, born in England, and Mary, born in Ohio, who married Henry as Mary Marsh. Born in Ohio and raised in DeKalb County, Indiana (1860); with his parents in Williams County, Ohio, in 1870. This explains the censuses' English-born father and the Indiana birthplace on his son Ray's draft card.",
-    "Grandparents of Raymond Zell Simons (born 1897), their daughter Gertrude's son, whom they raised as their own; the 1900 census lists him as their son (Michigan birth registers)."
+    "Grandparents of Raymond Zell Simons (born 1897), their daughter Gertrude's son, whom they raised as their own; the 1900 census lists him as their son (Michigan birth registers).",
+    "The family had reached Washington by the autumn of 1902, when daughter Bertha married Forest Noyes at Burlington, Skagit County, naming her parents as Aaron Simons and Hattie Mickles (Washington county marriages)."
    ]
   },
   {
@@ -52914,10 +53401,11 @@
   },
   {
    "id": "simons_bertha",
-   "name": "Bertha Simons (Harrington)",
+   "name": "Bertha Simons (Noyes, Harrington)",
    "aliases": [
     "Bertha Simons",
-    "Bertha Harrington"
+    "Bertha Harrington",
+    "Bertha Noyes"
    ],
    "photo": null,
    "card_name": null,
@@ -52948,7 +53436,8 @@
     "simons_harriet_hattie"
    ],
    "spouses": [
-    "harrington_harry_h"
+    "harrington_harry_h",
+    "noyes_forest"
    ],
    "children": [],
    "siblings": [
@@ -52957,7 +53446,8 @@
     "simons_lola"
    ],
    "families": [
-    "F_harrington_harry_h+simons_bertha"
+    "F_harrington_harry_h+simons_bertha",
+    "F_noyes_forest+simons_bertha"
    ],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
    "connected": true,
@@ -52968,7 +53458,8 @@
     "Covert Township, Van Buren County, Michigan",
     "Umatilla County, Oregon",
     "South Haven, Van Buren County, Michigan",
-    "King County, Washington"
+    "King County, Washington",
+    "Burlington, Skagit County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -52985,13 +53476,15 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Ancestry.com, 1920 United States Federal Census",
     "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
    ],
    "notes": [
     "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth.",
     "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
     "UNPROVEN, from Ed Simons's tree: died 24 Sep 1940 in King County, Washington. Not found in the death index under Simons or Harrington.",
-    "Ed Simons's tree gives her birthplace as South Haven, Michigan (March 1887), and her death as 24 Sep 1940 in King County."
+    "Ed Simons's tree gives her birthplace as South Haven, Michigan (March 1887), and her death as 24 Sep 1940 in King County.",
+    "Married first Forest Noyes at Burlington, Skagit County, Washington, on 2 Nov 1902 (licence 22 Oct), aged 16, born 1886; the record names her parents Aaron Simons and Hattie Mickles and his parents George Noyes and Lottie Smith (Washington county marriages). This is the earliest record of the family in Washington. Her later husband was Harry H. Harrington."
    ]
   },
   {
@@ -54651,7 +55144,8 @@
     "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
     "FamilySearch, Washington, Death Certificates, 1907-1960 (Hattie Davison; parents Mathias Michel and Barbara Eby)",
     "FamilySearch, Washington, County Marriages, 1855-2008 (Hattie Michels Simons; parents Mathias Michels and Barbera Eby)",
-    "Ancestry.com, 1870 United States Federal Census (Bangor, Van Buren County, Michigan, post office South Haven; household of Mathias Michaels)"
+    "Ancestry.com, 1870 United States Federal Census (Bangor, Van Buren County, Michigan, post office South Haven; household of Mathias Michaels)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
    ],
    "notes": [
     "Birth date Dec 1858 newly established — previously excluded as nickname-only. Mother of Raymond Zell Simons.",
@@ -54667,7 +55161,8 @@
     "Her own parents are not yet known. John Howard Adams said Irma's Ancestry trees contain \"a couple of errors\", not yet specified. [Family research emails, email 46]",
     "In 1900 at Covert, Van Buren County, Michigan, aged 41 (born Dec 1858 in Canada), married 25 years, she was the mother of 6 children, 5 of them living; her father was born in Germany and her mother in Pennsylvania (1900 census). The five living would be Gertrude, Ettie, Lola, Bertha and Raymond.",
     "Grandparents of Raymond Zell Simons (born 1897), their daughter Gertrude's son, whom they raised as their own; the 1900 census lists him as their son (Michigan birth registers).",
-    "Daughter of Mathias Michel and Barbara Eby: her Washington death certificate (as Hattie Davison) and her Washington marriage record (as Hattie Michels Simons) name them, and in 1870 she was Harriet, 11, in their household at Bangor, Van Buren County, Michigan."
+    "Daughter of Mathias Michel and Barbara Eby: her Washington death certificate (as Hattie Davison) and her Washington marriage record (as Hattie Michels Simons) name them, and in 1870 she was Harriet, 11, in their household at Bangor, Van Buren County, Michigan.",
+    "Named as Hattie Mickles, mother of the bride, at Bertha's marriage to Forest Noyes at Burlington, Skagit County, on 2 Nov 1902 (Washington county marriages)."
    ]
   },
   {
@@ -64867,6 +65362,251 @@
    ]
   },
   {
+   "id": "whitney_albert_earl",
+   "name": "Albert Earl Whitney",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1910",
+    "year": 1910,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "whitney_william_henry_jr",
+   "mother": "goodenough_florence_c",
+   "parents": [
+    "goodenough_florence_c",
+    "whitney_william_henry_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "whitney_elmer_m",
+    "whitney_harrell"
+   ],
+   "families": [],
+   "parent_family": "F_goodenough_florence_c+whitney_william_henry_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Louis, Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1920 (St. Louis Ward 27, Missouri; household of William H. Whitney)",
+    "The Oregonian (Portland), 22 Jun 1970, obituary of Florence C. Bird (via FamilySearch / GenealogyBank, ark 1:1:Q5Q4-GBJ3)"
+   ],
+   "notes": [
+    "Son of William H. Whitney Jr. and Florence C. Goodenough; aged 9 in St. Louis Ward 27 in 1920. A San Francisco County record names his parents as William Whitney and Florence Clara Goodenough."
+   ]
+  },
+  {
+   "id": "whitney_elmer_m",
+   "name": "Elmer M. Whitney",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1911",
+    "year": 1911,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "whitney_william_henry_jr",
+   "mother": "goodenough_florence_c",
+   "parents": [
+    "goodenough_florence_c",
+    "whitney_william_henry_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "whitney_albert_earl",
+    "whitney_harrell"
+   ],
+   "families": [],
+   "parent_family": "F_goodenough_florence_c+whitney_william_henry_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Louis, Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1920 (St. Louis Ward 27, Missouri; household of William H. Whitney)",
+    "The Oregonian (Portland), 22 Jun 1970, obituary of Florence C. Bird (via FamilySearch / GenealogyBank, ark 1:1:Q5Q4-GBJ3)"
+   ],
+   "notes": [
+    "Son of William H. Whitney Jr. and Florence C. Goodenough; aged 8 in St. Louis Ward 27 in 1920, with his mother and stepfather Andrew F. Bird in Multnomah County in 1950, and named first among her children in her 1970 obituary."
+   ]
+  },
+  {
+   "id": "whitney_harrell",
+   "name": "Harrell Whitney",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1915",
+    "year": 1915,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "whitney_william_henry_jr",
+   "mother": "goodenough_florence_c",
+   "parents": [
+    "goodenough_florence_c",
+    "whitney_william_henry_jr"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "whitney_albert_earl",
+    "whitney_elmer_m"
+   ],
+   "families": [],
+   "parent_family": "F_goodenough_florence_c+whitney_william_henry_jr",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Louis, Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1920 (St. Louis Ward 27, Missouri; household of William H. Whitney)",
+    "The Oregonian (Portland), 22 Jun 1970, obituary of Florence C. Bird (via FamilySearch / GenealogyBank, ark 1:1:Q5Q4-GBJ3)"
+   ],
+   "notes": [
+    "Son of William H. Whitney Jr. and Florence C. Goodenough; Harrel, aged 4, in St. Louis Ward 27 in 1920; \"Harrell\" in his mother's 1970 obituary."
+   ]
+  },
+  {
+   "id": "whitney_william_henry_jr",
+   "name": "William Henry Whitney Jr.",
+   "aliases": [
+    "Wm. Whitney Jr."
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1890",
+    "year": 1890,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1970",
+    "year": 1970,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "goodenough_florence_c"
+   ],
+   "children": [
+    "whitney_albert_earl",
+    "whitney_elmer_m",
+    "whitney_harrell"
+   ],
+   "siblings": [],
+   "families": [
+    "F_goodenough_florence_c+whitney_william_henry_jr"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Louis, Missouri"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Missouri, Marriages, 1750-1920 (Florence C. Goodenough and Wm. Whitney Jr., St. Louis, 31 Mar 1910; ark 1:1:HQGT-TH6Z; licence 29 Mar 1910 in Missouri, County Marriage, Naturalization, and Court Records)",
+    "FamilySearch, United States Census, 1920 (St. Louis Ward 27, Missouri; household of William H. Whitney)",
+    "FamilySearch Family Tree, Florence Clara Goodenough (LHDT-6PY), William Johnston Goodenough (L4WY-DPS), Eliza E. Hazzard (L4WY-D5S) and Lee Herschel Hinds (G9YG-XHN); a shared tree, used as a guide only"
+   ],
+   "notes": [
+    "Married Florence C. Goodenough at St. Louis on 31 Mar 1910; head of the household in St. Louis Ward 27 in 1920 with Florence and sons Albert, Elmer and Harrel. Dates 1890–1970 from the FamilySearch tree only."
+   ]
+  },
+  {
    "id": "wideman_rodney",
    "name": "Rodney Dean Wideman",
    "aliases": [
@@ -67722,6 +68462,15 @@
    "marriage": null
   },
   {
+   "id": "F_bird_andrew_francis+goodenough_florence_c",
+   "partners": [
+    "bird_andrew_francis",
+    "goodenough_florence_c"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
    "id": "F_borton_ruth_trilby+forester_glenn_c",
    "partners": [
     "borton_ruth_trilby",
@@ -68274,6 +69023,17 @@
    "marriage": "20 Jul 1800, Prince George’s County, MD"
   },
   {
+   "id": "F_douthit_mary_c+pfander_joseph_v",
+   "partners": [
+    "douthit_mary_c",
+    "pfander_joseph_v"
+   ],
+   "children": [
+    "pfander_dorothy_douthit"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_eby_barbara_ann+michel_mathias",
    "partners": [
     "eby_barbara_ann",
@@ -68581,6 +69341,16 @@
    "marriage": null
   },
   {
+   "id": "F_goodenough_florence_c",
+   "partners": [
+    "goodenough_florence_c"
+   ],
+   "children": [
+    "andrews_harriet"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_goodenough_florence_c+hinds_hershel",
    "partners": [
     "goodenough_florence_c",
@@ -68588,6 +69358,30 @@
    ],
    "children": [
     "hinds_marrion_roma"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_goodenough_florence_c+whitney_william_henry_jr",
+   "partners": [
+    "goodenough_florence_c",
+    "whitney_william_henry_jr"
+   ],
+   "children": [
+    "whitney_albert_earl",
+    "whitney_elmer_m",
+    "whitney_harrell"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_goodenough_william_johnston+hazzard_eliza_e",
+   "partners": [
+    "goodenough_william_johnston",
+    "hazzard_eliza_e"
+   ],
+   "children": [
+    "goodenough_florence_c"
    ],
    "marriage": null
   },
@@ -69683,6 +70477,15 @@
    "children": [
     "quinn_bernard"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_noyes_forest+simons_bertha",
+   "partners": [
+    "noyes_forest",
+    "simons_bertha"
+   ],
+   "children": [],
    "marriage": null
   },
   {

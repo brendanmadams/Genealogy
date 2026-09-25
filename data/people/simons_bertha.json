@@ -1,6 +1,6 @@
 {
   "id": "simons_bertha",
-  "name": "Bertha Simons (Harrington)",
+  "name": "Bertha Simons (Noyes, Harrington)",
   "birth": "Mar 1887",
   "death": "",
   "personality": [],
@@ -18,31 +18,38 @@
     "father": "simons_aaron",
     "siblings": [],
     "spouse": "harrington_harry_h",
-    "children": []
+    "children": [],
+    "_extra_spouses": [
+      "noyes_forest"
+    ]
   },
   "locations": [
     "Michigan",
     "Covert Township, Van Buren County, Michigan",
     "Umatilla County, Oregon",
     "South Haven, Van Buren County, Michigan",
-    "King County, Washington"
+    "King County, Washington",
+    "Burlington, Skagit County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Ancestry.com, 1920 United States Federal Census",
     "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
   ],
   "notes": [
     "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth.",
     "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
     "UNPROVEN, from Ed Simons's tree: died 24 Sep 1940 in King County, Washington. Not found in the death index under Simons or Harrington.",
-    "Ed Simons's tree gives her birthplace as South Haven, Michigan (March 1887), and her death as 24 Sep 1940 in King County."
+    "Ed Simons's tree gives her birthplace as South Haven, Michigan (March 1887), and her death as 24 Sep 1940 in King County.",
+    "Married first Forest Noyes at Burlington, Skagit County, Washington, on 2 Nov 1902 (licence 22 Oct), aged 16, born 1886; the record names her parents Aaron Simons and Hattie Mickles and his parents George Noyes and Lottie Smith (Washington county marriages). This is the earliest record of the family in Washington. Her later husband was Harry H. Harrington."
   ],
   "aliases": [
     "Bertha Simons",
-    "Bertha Harrington"
+    "Bertha Harrington",
+    "Bertha Noyes"
   ],
   "sex": "F"
 }

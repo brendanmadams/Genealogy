@@ -1,8 +1,8 @@
 {
   "id": "pfander_dorothy_douthit",
   "name": "Dorothy Douthit Pfander (Wheeler, Howard)",
-  "birth": "1899",
-  "death": "1993",
+  "birth": "14 Nov 1899",
+  "death": "1 May 1993",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -12,8 +12,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "douthit_mary_c",
+    "father": "pfander_joseph_v",
     "siblings": [],
     "spouse": "wheeler_melvin",
     "children": [
@@ -21,16 +21,24 @@
       "wheeler_marjorie"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Lincoln Township (Coin), Page County, Iowa",
+    "Duarte, Los Angeles County, California"
+  ],
   "sources": [
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "FamilySearch, Iowa, County Births, 1880-1935 (Dorothy D. Pfander, 14 Nov 1899, Lincoln Township, Page County; arks 1:1:V461-KS9, XV6F-P52)",
+    "FamilySearch, United States Census, 1900 (Lincoln Township, Page County, Iowa; household of Joseph V. Pfander; ark 1:1:M9LQ-SX1)",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (Dorothy Douthit Pfander, born 14 Nov 1899 Coin, Page County, Iowa, died 1 May 1993; parents Joseph V. Pfander and Mary C. Douthit; ark 1:1:6K44-3612)"
   ],
   "notes": [
-    "Mother of Dorothy Ann and Marjorie Wheeler; wife of Melvin Wheeler. A photo caption in Bill Allen’s document names her \"Dorothy Douthit (Pfander) (Wheeler) Howard\", which suggests a later marriage to a Howard."
+    "Mother of Dorothy Ann and Marjorie Wheeler; wife of Melvin Wheeler. A photo caption in Bill Allen’s document names her \"Dorothy Douthit (Pfander) (Wheeler) Howard\", which suggests a later marriage to a Howard.",
+    "Born 14 Nov 1899 in Lincoln Township (Coin), Page County, Iowa, daughter of Joseph V. Pfander and Mary C. Douthit (Iowa county birth register; 1900 census, in which she is five months old with sisters Eva, Bessie and Nellie B. and brother Allen V.). Her Social Security file gives the same parents and her death on 1 May 1993; the FamilySearch tree places the death at Duarte, California."
   ],
   "aliases": [
     "Dorothy Wheeler",
-    "Dorothy Howard"
+    "Dorothy Howard",
+    "Dorothy D. Pfander"
   ],
   "sex": "F"
 }

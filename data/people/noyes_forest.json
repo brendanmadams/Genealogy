@@ -1,0 +1,32 @@
+{
+  "id": "noyes_forest",
+  "name": "Forest Noyes",
+  "sex": "M",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "simons_bertha",
+    "children": []
+  },
+  "locations": [
+    "Burlington, Skagit County, Washington"
+  ],
+  "sources": [
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
+  ],
+  "notes": [
+    "Married Bertha Simons at Burlington, Skagit County, on 2 Nov 1902; son of George Noyes and Lottie Smith (Washington county marriages)."
+  ],
+  "aliases": []
+}
