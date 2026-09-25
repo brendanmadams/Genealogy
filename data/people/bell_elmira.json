@@ -1,8 +1,8 @@
 {
   "id": "bell_elmira",
-  "name": "Elmira “Ella” Bell",
+  "name": "Elmira \"Ella\" Flaherty (Bell)",
   "sex": "F",
-  "birth": "abt 1858",
+  "birth": "Jun 1857",
   "death": "",
   "personality": [],
   "roles": [],
@@ -13,26 +13,39 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "flaherty_margaret",
+    "father": "flaherty_thomas",
     "siblings": [],
     "spouse": "bell_william_h",
     "children": [
-      "emma_bell_mckeldin"
+      "emma_bell_mckeldin",
+      "bell_charles_alexander",
+      "bell_william_ambrose"
     ]
   },
   "locations": [
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "18th Ward, Baltimore, Maryland"
   ],
   "sources": [
     "Ancestry.com, 1900 United States Federal Census",
-    "Ancestry.com, 1920 United States Federal Census"
+    "Ancestry.com, 1920 United States Federal Census",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007: Emma Virginia McKeldin, born 13 Aug 1891 Baltimore (ark 1:1:6K9T-21YR); Charles Alexander Bell, born 25 May 1881 (1:1:6K4J-2SHC); William Ambrose Bell, born 24 Jan 1889 (1:1:6K4J-GSGD); each naming the parents William H. Bell and Elmira / Ella Flaherty (spelled Flaharty, Flagharty, Flaherty)",
+    "FamilySearch, United States Census, 1880 (Baltimore, 18th Ward, precinct 6; household of William H. Bell, blacksmith; ark 1:1:MNQD-SLT)",
+    "FamilySearch, United States Census, 1870 (Baltimore; household of Thomas Fleharty, 46; ark 1:1:MN3W-JYB)",
+    "FamilySearch, United States Census, 1860 (18th Ward, Baltimore City; household of Thos. Fleeharty, 32; ark 1:1:M69F-68H)",
+    "FamilySearch, United States Census, 1900 (Baltimore city Ward 22, precinct 5, ED 283, sheet 7A; household of William Bell; ark 1:1:M3KP-XCG)",
+    "FamilySearch Family Tree, William Henry Bell (LBP5-ZNF), Almira Fluharty (LRGQ-9J8), Jehu A. Bell (9WVZ-VC6), Sarah Elizabeth Collins (9WVZ-VCG), Margaret Flaherty (GSST-JHW) and Thos. Fleeharty (G3HR-HGJ); a shared tree, used as a guide only"
   ],
   "notes": [
-    "Mother of Emma Virginia Bell (McKeldin). Elmira in the 1900 census (aged 42) and Ella in 1920 (aged 62), born in Maryland. Her birth surname is not recorded; Margaret Clayhardy, 73, lived with the family in 1900 as William Bell's mother-in-law, which suggests Elmira was born a Clayhardy (not confirmed)."
+    "Mother of Emma Virginia Bell (McKeldin). Elmira in the 1900 census (aged 42) and Ella in 1920 (aged 62), born in Maryland. Her maiden name was Flaherty: the Social Security applications of her children Charles Alexander, William Ambrose and Emma Virginia give their mother as Elmira or Ella Flaherty (spelled Flaharty and Flagharty as well). Margaret \"Clayhardy\", 73, the mother-in-law in William Bell's 1900 household, is her mother Margaret Flaherty, mis-indexed.",
+    "Born June 1857 in Maryland (the FamilySearch tree, from the censuses), daughter of Thomas and Margaret Flaherty of Baltimore's 18th ward: Almira, 3, in 1860 with Thos. and Margaret Fleeharty, and 13 in 1870 with Thomas and Margaret Fleharty, her sister Mary M. and brother Charles. Her brother Charles, 14, lived with her and William in 1880. Her death is not yet found; she was alive in January 1920."
   ],
   "aliases": [
     "Ella Bell",
-    "Elmira Bell"
+    "Elmira Bell",
+    "Almira Flaherty",
+    "Elmira Flaherty",
+    "Almira Fleeharty"
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "id": "bell_jehu_a",
+  "name": "Jehu A. \"John\" Bell",
+  "sex": "M",
+  "birth": "19 Oct 1820",
+  "death": "6 Oct 1899",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "collins_sarah_elizabeth",
+    "children": [
+      "bell_william_h"
+    ]
+  },
+  "locations": [
+    "18th Ward, Baltimore, Maryland",
+    "Loudon Park Cemetery, Baltimore"
+  ],
+  "sources": [
+    "FamilySearch, United States Census, 1870 (Baltimore, ward 18; household of John Bell, 48; ark 1:1:MN34-QDG)",
+    "FamilySearch, United States Census, 1880 (Baltimore; household of Jehu A. Bell, 59; ark 1:1:MNQ8-1WK)",
+    "FamilySearch, Maryland, Baltimore, Loudon Park Cemetery, Cemetery Records, 1853-1986 (Jehu A. Bell, born 1820, buried 7 Oct 1899; ark 1:1:QRJT-Z4N2)",
+    "FamilySearch Family Tree, William Henry Bell (LBP5-ZNF), Almira Fluharty (LRGQ-9J8), Jehu A. Bell (9WVZ-VC6), Sarah Elizabeth Collins (9WVZ-VCG), Margaret Flaherty (GSST-JHW) and Thos. Fleeharty (G3HR-HGJ); a shared tree, used as a guide only"
+  ],
+  "notes": [
+    "Inferred: father of William Henry Bell. John Bell, 48, born in Maryland, headed the 18th-ward household in 1870 in which William H., 16, lived with Sarah, 39, and four younger boys (1870 census); the same family appears in 1880 as Jehu A. Bell, 59, with Sarah E. and sons Charles, George and Jehu A. (1880 census). The FamilySearch tree gives his birth as 19 Oct 1820 at Baltimore and his death as 6 Oct 1899 there; a Jehu A. Bell, born 1820, was buried at Loudon Park Cemetery on 7 Oct 1899 (cemetery records)."
+  ],
+  "aliases": [
+    "John Bell"
+  ]
+}

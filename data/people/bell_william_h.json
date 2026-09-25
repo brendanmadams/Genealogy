@@ -1,8 +1,8 @@
 {
   "id": "bell_william_h",
-  "name": "William H. Bell",
+  "name": "William Henry Bell",
   "sex": "M",
-  "birth": "abt 1854",
+  "birth": "May 1854",
   "death": "",
   "personality": [],
   "roles": [],
@@ -13,24 +13,40 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "collins_sarah_elizabeth",
+    "father": "bell_jehu_a",
     "siblings": [],
     "spouse": "bell_elmira",
     "children": [
-      "emma_bell_mckeldin"
+      "emma_bell_mckeldin",
+      "bell_charles_alexander",
+      "bell_william_ambrose"
     ]
   },
   "locations": [
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "18th Ward, Baltimore, Maryland",
+    "1118 Cleveland Street, Baltimore (1900)",
+    "1143 Carroll Street, Baltimore (1920)"
   ],
   "sources": [
     "Ancestry.com, 1900 United States Federal Census",
-    "Ancestry.com, 1920 United States Federal Census"
+    "Ancestry.com, 1920 United States Federal Census",
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007: Emma Virginia McKeldin, born 13 Aug 1891 Baltimore (ark 1:1:6K9T-21YR); Charles Alexander Bell, born 25 May 1881 (1:1:6K4J-2SHC); William Ambrose Bell, born 24 Jan 1889 (1:1:6K4J-GSGD); each naming the parents William H. Bell and Elmira / Ella Flaherty (spelled Flaharty, Flagharty, Flaherty)",
+    "FamilySearch, United States Census, 1880 (Baltimore, 18th Ward, precinct 6; household of William H. Bell, blacksmith; ark 1:1:MNQD-SLT)",
+    "FamilySearch, United States Census, 1870 (Baltimore, ward 18; household of John Bell, 48; ark 1:1:MN34-QDG)",
+    "FamilySearch, United States Census, 1900 (Baltimore city Ward 22, precinct 5, ED 283, sheet 7A; household of William Bell; ark 1:1:M3KP-XCG)",
+    "FamilySearch Family Tree, William Henry Bell (LBP5-ZNF), Almira Fluharty (LRGQ-9J8), Jehu A. Bell (9WVZ-VC6), Sarah Elizabeth Collins (9WVZ-VCG), Margaret Flaherty (GSST-JHW) and Thos. Fleeharty (G3HR-HGJ); a shared tree, used as a guide only"
   ],
   "notes": [
     "Father of Emma Virginia Bell (McKeldin). Born about 1854 in Maryland; living with Emma and Charles McKeldin at 1143 Carroll Street in 1920, aged 66.",
-    "Children in the 1900 census at 1118 Cleveland Street, Baltimore: Sadie (Stahler, b. abt 1877), Charles A. (abt 1881), Margaret (abt 1888), William (abt 1889), Emma (Aug 1891), Carrie V. (abt 1894) and Annie (abt 1899)."
+    "Children in the 1900 census at 1118 Cleveland Street, Baltimore: Sadie (Stahler, b. abt 1877), Charles A. (abt 1881), Margaret (abt 1888), William (abt 1889), Emma (Aug 1891), Carrie V. (abt 1894) and Annie (abt 1899).",
+    "Born May 1854 in Maryland (1900 census; the FamilySearch tree gives 25 May 1855), son of John (Jehu A.) Bell and Sarah. In 1870, aged 16, he was at home in Baltimore's 18th ward with John, 48, Sarah, 39, brothers Thomas, John, Charles and George W., and Catharine Bell, 76, presumably his grandmother (1870 census).",
+    "A blacksmith in 1880, aged 26, in the 18th ward with his wife Elmira, 22, daughter Sarah E., 3, and Elmira's brother Charles Flaharty, 14 (1880 census). Married about 1876: the 1900 census gives 24 years married, both parents born in Maryland.",
+    "His wife's maiden name was Flaherty: the Social Security applications of their children Charles Alexander (born 25 May 1881), William Ambrose (24 Jan 1889) and Emma Virginia (13 Aug 1891) all name their parents as William H. Bell and Elmira or Ella Flaherty, variously spelled. Alive in January 1920, aged 66, with Emma and Charles McKeldin. The FamilySearch tree gives his death as 22 Feb 1921 in Maryland, from a Find a Grave entry not yet seen; a William H. Bell, 71, buried at Loudon Park on 18 Nov 1921 is probably someone else."
   ],
-  "aliases": []
+  "aliases": [
+    "William H. Bell",
+    "William Bell"
+  ]
 }
