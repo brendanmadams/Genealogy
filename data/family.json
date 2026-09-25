@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-25T21:50:25.250Z",
-  "people": 974,
-  "family_members": 925,
+  "generated": "2026-09-25T22:26:36.086Z",
+  "people": 988,
+  "family_members": 939,
   "dna_matches": 49,
-  "connected_people": 924,
-  "families": 337,
+  "connected_people": 938,
+  "families": 338,
   "branches": [
    "adams",
    "hamilton",
@@ -9389,6 +9389,83 @@
    ]
   },
   {
+   "id": "ball_clinton_c",
+   "name": "Clinton C. Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1826",
+    "year": 1826,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1920",
+    "year": 1920,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Son of William and Nancy (Tate) Ball, born 1826, twin of Milton; married Matilda Long in Hawkins County on 18 Nov 1851; one of the heirs in 1875 (County Court minutes; Find a Grave; Bonnie Ball)."
+   ]
+  },
+  {
    "id": "ball_david",
    "name": "David Tate Ball",
    "aliases": [
@@ -9447,7 +9524,21 @@
     "ball_margaret",
     "ball_catharine"
    ],
-   "siblings": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
    "families": [
     "F_ball_david+ball_graden"
    ],
@@ -9459,7 +9550,8 @@
     "McMinn County, Tennessee",
     "Roane County, Tennessee",
     "Hawkins County, Tennessee",
-    "Meigs County, Tennessee"
+    "Meigs County, Tennessee",
+    "District 8, Grainger County, Tennessee"
    ],
    "personality": [],
    "roles": [],
@@ -9481,7 +9573,9 @@
     "Ancestry.com, 1830 United States Federal Census (Hawkins County, Tennessee; William Ball)",
     "Find a Grave, memorial 101804658 (William Ball, 1775–1871, Ball Cemetery, Hawkins County)",
     "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
-    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)"
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "FamilySearch, United States Census, 1880 (District 8, Grainger County, Tennessee; David Ball, 66, farm labourer, with Drady C., 64, and Nancy R., 39; ark 1:1:MDW7-MJ5)"
    ],
    "notes": [
     "Father of Ellen Rogers (Ball) McPhail, as named on her 1934 Washington death record.",
@@ -9489,9 +9583,87 @@
     "The Kulp-Ritchey-Dorsett tree gives his full name as David Tate Ball, born 25 Dec 1813 in Hawkins County, Tennessee (the censuses put his birth in 1812–1814), and his death as 18 Mar 1886 at Rogersville, Roane County. The middle name Tate, his mother's reputed surname, was given to Ellen's son John Tate McPhail.",
     "His marriage bond of 21 Dec 1833 was given with Wm. Breeden as his surety, and he signed it with his mark. In 1880 his father's birthplace is given as Virginia and his mother's as Tennessee.",
     "Lead: the 1830 census of Hawkins County, Tennessee, lists a William Ball with a household of 12, including a man aged 50–59, a woman aged 30–39 and three boys aged 15–19, one of whom could be David (then about 16). It does not fit the tree's William Ball (born 1784, died 1826) and is not proved to be David's family.",
-    "Inferred: son of William Ball (about 1775–1871) of Hawkins County and Nancy Tate. He was born in Hawkins County in 1813, his middle name matches Nancy Tate's maiden name (and passed to his grandson John Tate McPhail), and William's 1830 household held a boy of his age; but neither Find a Grave nor Bonnie Ball's 1961 genealogy lists him among William's children. His parents' parents, Moses Ball and Mary Ann Hardin and Edward Tate and Sarah McMullan, come from the Kulp-Ritchey-Dorsett tree.",
+    "Proven son of William Ball Sr. (about 1775–1871) of Hawkins County. When William's land on Buck Creek was partitioned after his death, the County Court at Rogersville on 6 Sep 1875 declared the heirs at law of \"Wm Ball Sr, decd\" to be Mary Barnard (wife of Zadock Barnard), Moses Ball, Milton Ball, Nancy Bailey formerly Ball, George Ball, L. B. Ball, Sibby Bradley (wife of John K. Bradley), Clinton Ball, Sarah Barnard formerly Ball, David Ball, and the defendants Hardin Ball (the administrator), E. T. Ball and the unknown heirs of Wm Ball Jr., deceased, each entitled by descent to an equal undivided share. David, then living away from Hawkins County, signed the heirs' agreement of 23 Aug 1875 by his agent S. H. Ball (County Court minutes). His mother was William's wife Nancy Tate: he was born in 1813, within their marriage, and carried her surname and her brother David Tate's name.",
     "Rogersville, given by the tree as his place of death, is the seat of Hawkins County, not Roane County; he was living in District 8, Roane County, in 1880.",
-    "Caution: the Find a Grave memorials of William and Nancy (Tate) Ball list thirteen children and do not include him. The inference that he was their son rests on his 1813 birth in Hawkins County, the boy of his age in William's 1830 household, and the name Tate, which was Nancy's surname and her brother David Tate's name."
+    "The Find a Grave memorials of William and Nancy (Tate) Ball, and Bonnie Ball's 1961 genealogy, list William's children without him; the 1875 court record shows they simply missed him, as he had left the county by 1840.",
+    "In 1880 he was a farm labourer, aged 66, in District 8 of Grainger County (not Roane), with Drady C., 64, and their daughter Nancy R., 39; his father is given as born in Virginia and his mother in Tennessee (1880 census as indexed by FamilySearch). Grainger County adjoins Hawkins."
+   ]
+  },
+  {
+   "id": "ball_edward_tate",
+   "name": "Edward Tate \"Ned\" Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "18 Jul 1810",
+    "year": 1810,
+    "qualifier": null
+   },
+   "death": {
+    "text": "3 May 1878",
+    "year": 1878,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 189661237 (Edward Tate Ball, 1810–1878)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Son of William and Nancy (Tate) Ball, born 18 Jul 1810 in Hawkins County; married Mahala \"Ella\" Bussell there in 1840; a defendant, as E. T. Ball, in the 1875 partition of his father's land; in Hawkins County in every census to 1870; died 3 May 1878 (Find a Grave; County Court minutes; Bonnie Ball, who gives about 1806)."
    ]
   },
   {
@@ -9687,6 +9859,83 @@
    ]
   },
   {
+   "id": "ball_george_w_1827",
+   "name": "George W. Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1827",
+    "year": 1827,
+    "qualifier": null
+   },
+   "death": {
+    "text": "aft 1860",
+    "year": 1860,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Son of William and Nancy (Tate) Ball, born 1827; married Elizabeth Light on 29 Oct 1848; signed the heirs' agreement of 1875 as G. W. F. Ball (County Court minutes; Find a Grave; Bonnie Ball)."
+   ]
+  },
+  {
    "id": "ball_graden",
    "name": "Draden Catherine “Drady” Davis (Ball)",
    "aliases": [
@@ -9796,6 +10045,83 @@
    ]
   },
   {
+   "id": "ball_harden",
+   "name": "Harden Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1818",
+    "year": 1818,
+    "qualifier": null
+   },
+   "death": {
+    "text": "aft 1880",
+    "year": 1880,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Son of William and Nancy (Tate) Ball, born 1818; administrator of his father's estate, whose exceptions to the clerk's account were settled by the heirs' agreement of 23 Aug 1875 for a thirteenth share of the land; his father, 95, lived in his household in 1870 (County Court minutes; 1870 census; Find a Grave). Bonnie Ball gives his wives as a McNeese and Sibby Miller."
+   ]
+  },
+  {
    "id": "ball_john_stafford",
    "name": "John Ball of Stafford County",
    "aliases": [],
@@ -9866,6 +10192,83 @@
     "Died 1722 in Stafford County, Virginia; his will names his wife Winifred and his sons James, John, Moses and George (Bonnie Ball's 1961 genealogy; the 2005 Arlington Historical Society review). The earliest proven ancestor of the Fairfax and Hawkins County Balls; his own parents are unknown. A James Ball brought to Westmoreland County in 1654 has been proposed as his father, unproven.",
     "Not of Mary Ball Washington's family. Her line is the Lancaster County Balls: Col. William Ball of Millenbeck (about 1615–1680), his son Col. Joseph Ball (1649–1711) of Epping Forest, and Joseph's daughter Mary, who married Augustine Washington on 6 Mar 1730. John Ball of Stafford belongs to a different family, which The Ball Family of the Potomac traces to a James Ball who came to Westmoreland County in 1654 (UNPROVEN here; the book's claim). The Ball surname Y-DNA project keeps the two apart: fourteen tested descendants of \"John Ball, b. 1670, Stafford/Fairfax Co., VA\" form one subgroup in haplogroup R-U106, while the descendants of \"Col William Ball, Lancaster Co., VA\" form another in haplogroup I-M253. Two haplogroups means two unrelated male lines, so no genealogy that joins them can be right. The older claim that John was a son of Richard Ball (1645–1677), Col. Joseph's brother, has no record behind it and is contradicted by the DNA.",
     "Pages 47–52 of Ed Simons's deck (Colonial Families of the United States; Ancestral Records and Portraits, p. 420; a typescript Ball genealogy tracing the Lancaster Balls to Rev. Richard Ball of Northampton and six brothers on the ship Planter in 1635) all describe the Lancaster County family and George Washington's descent from it. They are accurate for that family but do not mention John Ball of Stafford or his descendants; the Barkham and Northampton descent itself \"has never been substantiated by reference to documentary evidence\" (maryballwashington.com)."
+   ]
+  },
+  {
+   "id": "ball_lewis_b",
+   "name": "Rev. Lewis B. Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "17 Feb 1824",
+    "year": 1824,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1898",
+    "year": 1898,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Son of William and Nancy (Tate) Ball, born 17 Feb 1824; married Rebecca Jackson; one of the complainants in the 1875 partition suit (County Court minutes; Find a Grave; Bonnie Ball)."
    ]
   },
   {
@@ -10093,6 +10496,235 @@
    ]
   },
   {
+   "id": "ball_mary_barnard",
+   "name": "Mary Ball (Barnard)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)"
+   ],
+   "notes": [
+    "Daughter of William and Nancy (Tate) Ball; wife of Zadock Barnard, who brought the 1875 bill for partition of her father's land (County Court minutes)."
+   ]
+  },
+  {
+   "id": "ball_milton_edward",
+   "name": "Milton Edward Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1826",
+    "year": 1826,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1912",
+    "year": 1912,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Son of William and Nancy (Tate) Ball, born 1826, twin of Clinton; married Louisa McCarroll on 20 Dec 1849; signed the heirs' agreement of 1875 as M. E. Ball (County Court minutes; Find a Grave; Bonnie Ball)."
+   ]
+  },
+  {
+   "id": "ball_moses_1820",
+   "name": "Moses Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1820",
+    "year": 1820,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)"
+   ],
+   "notes": [
+    "Son of William and Nancy (Tate) Ball, born 1820; one of the heirs in 1875 (County Court minutes; Find a Grave)."
+   ]
+  },
+  {
    "id": "ball_moses_jr",
    "name": "Moses Ball Jr.",
    "aliases": [],
@@ -10244,6 +10876,83 @@
    ]
   },
   {
+   "id": "ball_nancy_bailey",
+   "name": "Nancy Ball (Bailey)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1815",
+    "year": 1815,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1905",
+    "year": 1905,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Daughter of William and Nancy (Tate) Ball, born 1815, twin of Sabilla; married Andrew Bailey; \"Nancy Bailey formerly Ball\" among the heirs in 1875 (County Court minutes; Find a Grave; Bonnie Ball)."
+   ]
+  },
+  {
    "id": "ball_nancy_rebecca",
    "name": "Nancy Rebecca Ball",
    "aliases": [],
@@ -10321,6 +11030,83 @@
    ],
    "notes": [
     "Child of David Tate Ball and Draden (Davis) Ball; a sister of Ellen Rogers (Ball) McPhail. Born Mar 1841; aged 10 in 1850. Unmarried, she lived with her parents in 1860–1880 and with her mother and brother George in McMinn County in 1900. The tree gives her death as after 1910."
+   ]
+  },
+  {
+   "id": "ball_sabilla_bradley",
+   "name": "Sabilla \"Sibby\" Ball (Bradley)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1815",
+    "year": 1815,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1906",
+    "year": 1906,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Daughter of William and Nancy (Tate) Ball, born 1815, twin of Nancy; wife of John K. Bradley, with whom she signed the heirs' agreement of 1875 (County Court minutes; Find a Grave; Bonnie Ball)."
    ]
   },
   {
@@ -10470,6 +11256,158 @@
    ]
   },
   {
+   "id": "ball_sarah_barnard",
+   "name": "Sarah Ball (Barnard)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)"
+   ],
+   "notes": [
+    "Daughter of William and Nancy (Tate) Ball; \"Sarah Barnard formerly Ball\" among the heirs in 1875 (County Court minutes)."
+   ]
+  },
+  {
+   "id": "ball_tabitha",
+   "name": "Tabitha Ball (Smith)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1802",
+    "year": 1802,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Eldest child of William and Nancy (Tate) Ball, born 1802; married T. J. Smith (Find a Grave; Bonnie Ball). Not named among the heirs in 1875, so probably dead by then."
+   ]
+  },
+  {
    "id": "ball_thomas_t",
    "name": "Thomas T. Ball",
    "aliases": [],
@@ -10583,11 +11521,26 @@
     "tate_nancy"
    ],
    "children": [
-    "ball_david"
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard",
+    "ball_william_jr"
    ],
    "siblings": [],
    "families": [
-    "F_ball_william_1784+tate_nancy"
+    "F_ball_william_1784+tate_nancy",
+    "F_ball_william_1784"
    ],
    "parent_family": "F_ball_moses_jr+hardin_mary_ann",
    "connected": true,
@@ -10599,7 +11552,8 @@
     "Fairfax County, Virginia",
     "District 16, Hawkins County, Tennessee",
     "Van Hill, Hawkins County, Tennessee",
-    "Ball Cemetery, Hawkins County, Tennessee"
+    "Ball Cemetery, Hawkins County, Tennessee",
+    "Buck Creek, 16th Civil District, Hawkins County, Tennessee"
    ],
    "personality": [],
    "roles": [],
@@ -10619,14 +11573,16 @@
     "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
     "Hawkins County, Tennessee, will abstracts (Moses Ball, will dated 13 Dec 1831)",
     "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
-    "Ed Simons, \"Simons Family Trees and Genealogy\" (slide deck, Sep 2026), pp. 41–52"
+    "Ed Simons, \"Simons Family Trees and Genealogy\" (slide deck, Sep 2026), pp. 41–52",
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
    ],
    "notes": [
     "No Hawkins County probate for a William Ball and no marriage record of a William Ball and Nancy Tate has been found on Ancestry.com. The 1880 census gives David Ball's father's birthplace as Virginia.",
     "CORRECTION: born about 1775 and died 27 Feb 1871, not 1784–1826. He is in the Hawkins County censuses of 1830 (aged 50–59), 1840 (60–69), 1850 (75, a farmer with real estate of $400, unable to read or write) and 1870 (95, retired, in the household of his son Harden at Van Hill), and Find a Grave records his death at Van Hill on 27 Feb 1871 and his burial in the Ball Cemetery. The 1850 census gives his birthplace as Maryland and the 1870 census Virginia; Bonnie Ball's 1961 genealogy says Fairfax County or Alexandria.",
     "Married Nancy Tate about 1801 (Find a Grave; the Kulp-Ritchey-Dorsett tree), and later Patience. Children named by Find a Grave and the censuses include Tabitha (Smith, 1802), Mary, Sarah, the twins Nancy (Bailey) and Sabilla (Bradley, 1815), Harden (1818), Moses (1820), Rev. Lewis B. (1824), the twins Clinton C. and Milton E. (1826), George W. (1827) and William S.; Bonnie Ball also lists Edward Tate (about 1806), Nancy (about 1808) and a William Jr. who died in Roane County. Neither list includes David Tate Ball, so David's place as his son rests on the evidence on David's record.",
     "Inferred: son of Moses Ball Jr. and Mary Ann Hardin. Moses's 1831 Hawkins County will names a \"Wm\", Bonnie Ball's genealogy lists William, husband of Nancy Tate, among Moses's children, William named sons Harden and Moses, and his brother John Wesley Ball Sr. (1789–1862) also came from Fairfax County to Hawkins County.",
-    "Find a Grave's memorials for William (101804658) and Nancy (125432952) name thirteen children, Tabitha, Mary, Sarah, Edward Tate \"Ned\" (1810), the twins Nancy and Sabilla (1815), Harden (1818), Moses (1820), Lewis B. (1824), the twins Clinton C. and Milton Edward (1826), George W. (1827) and William Solomon (1830s), and say Nancy bore \"more than a dozen\". David (born 1813) is not among them, so his place in this family rests on the census and the Tate name, not on the memorials; see his record."
+    "His heirs, as the County Court declared them on 6 Sep 1875 when his land on Buck Creek in the 16th Civil District (adjoining S. H. Ball and Nancy Lucas) was partitioned: Mary (Barnard), Moses, Milton, Nancy (Bailey), George, Lewis B., Sibby (Bradley), Clinton, Sarah (Barnard), David, Hardin, E. T. (Edward Tate) and the unknown heirs of William Jr., deceased, thirteen shares in all; Hardin, the administrator, had disputed the clerk's account of his administration and settled for a thirteenth share (County Court minutes). Find a Grave and Bonnie Ball's genealogy also name Tabitha (Smith, born 1802) and a William Solomon Ball who died in 1862, neither of whom appears in the suit."
    ]
   },
   {
@@ -10700,6 +11656,143 @@
    ],
    "notes": [
     "Child of David Tate Ball and Draden (Davis) Ball; a brother of Ellen Rogers (Ball) McPhail. Born 20 Oct 1834 in Meigs County, Tennessee; aged 17 in 1850. Died 5 Dec 1906 at Wapanucka, Johnston County, Oklahoma, and buried at Rose Hill Cemetery there; his wife was Ann, and Find a Grave links sons Thomas Jefferson, Edward John, Landon Ceirn Haynes and John D. Ball."
+   ]
+  },
+  {
+   "id": "ball_william_jr",
+   "name": "William Ball Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "bef 1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "ball_william_1784",
+   "mother": null,
+   "parents": [
+    "ball_william_1784"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_ball_william_1784",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Hawkins County, Tennessee, County Court Minutes, April 1874–December 1877, pp. 248–251 (Monday 6 Sep 1875: Zadock Barnard and others v. Harden Ball and others, bill for partition, and In the matter of Hardin Ball, administrator, v. the heirs of Wm Ball; the heirs' agreement of 23 Aug 1875); FamilySearch images 3:1:3QHV-63CD-V8LW and 3:1:3QHV-63CD-VZH7",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Son of William Ball Sr.; dead by 1875, when his heirs, \"whose names and residences are unknown\", were made defendants in the partition of his father's land (County Court minutes). Bonnie Ball says he died in Roane County, where David also lived; possibly the same man as the William Solomon Ball of Find a Grave."
+   ]
+  },
+  {
+   "id": "ball_william_solomon",
+   "name": "William Solomon Ball",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1830",
+    "year": 1830,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "1862",
+    "year": 1862,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": true,
+   "father": "ball_william_1784",
+   "mother": "tate_nancy",
+   "parents": [
+    "ball_william_1784",
+    "tate_nancy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
+   ],
+   "families": [],
+   "parent_family": "F_ball_william_1784+tate_nancy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawkins County, Tennessee"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+   ],
+   "notes": [
+    "Given by Find a Grave as a son of William and Nancy (Tate) Ball, a private who died in 1862 (UNPROVEN: no record seen). The 1875 suit names instead the unknown heirs of a William Ball Jr., deceased, whom Bonnie Ball says died in Roane County; whether these are one man or two is not settled."
    ]
   },
   {
@@ -66589,7 +67682,20 @@
     "ball_william_1784"
    ],
    "children": [
-    "ball_david"
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
    ],
    "siblings": [],
    "families": [
@@ -66619,7 +67725,8 @@
    "notes": [
     "UNPROVEN: known only from the Kulp-Ritchey-Dorsett Family Tree (Irma Kulp Zacher), which cites other member trees. Born 1788 and died 1850 in Hawkins County, Tennessee; daughter of Edward Tate and Sarah McMullan. Mother of David Tate Ball.",
     "Married William Ball about 1801; Find a Grave gives her death only as the 1840s, and Bonnie Ball's genealogy names her as his second wife, after a first wife surnamed Alim (or similar).",
-    "Find a Grave gives her dates as 1788–1840 and names a brother, David Tate, who \"moved west\"; if David Tate Ball was her son, he carried her brother's name as well as her surname."
+    "Find a Grave gives her dates as 1788–1840 and names a brother, David Tate, who \"moved west\"; if David Tate Ball was her son, he carried her brother's name as well as her surname.",
+    "Find a Grave gives her parents as Edward Tate, born 1755 in Botetourt County, Virginia, and Sarah McMullen, a family that settled in Greene County, Tennessee, and later moved west; her siblings Edward (born 1790), Catherine, Gersham, Carey, David, Jane and Robert; and her death in the 1840s at New Canton, Hawkins County (UNPROVEN: the memorial cites no records)."
    ]
   },
   {
@@ -74256,13 +75363,36 @@
    "marriage": null
   },
   {
+   "id": "F_ball_william_1784",
+   "partners": [
+    "ball_william_1784"
+   ],
+   "children": [
+    "ball_william_jr"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_ball_william_1784+tate_nancy",
    "partners": [
     "ball_william_1784",
     "tate_nancy"
    ],
    "children": [
-    "ball_david"
+    "ball_tabitha",
+    "ball_edward_tate",
+    "ball_david",
+    "ball_nancy_bailey",
+    "ball_sabilla_bradley",
+    "ball_harden",
+    "ball_moses_1820",
+    "ball_lewis_b",
+    "ball_clinton_c",
+    "ball_milton_edward",
+    "ball_george_w_1827",
+    "ball_william_solomon",
+    "ball_mary_barnard",
+    "ball_sarah_barnard"
    ],
    "marriage": null
   },

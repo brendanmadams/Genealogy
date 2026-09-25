@@ -1,0 +1,33 @@
+{
+  "id": "ball_tabitha",
+  "name": "Tabitha Ball (Smith)",
+  "sex": "F",
+  "birth": "1802",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "tate_nancy",
+    "father": "ball_william_1784",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Hawkins County, Tennessee"
+  ],
+  "sources": [
+    "Find a Grave, memorial 125432952 (Nancy Tate Ball, 1788–1840, Ball Cemetery, Hawkins County)",
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961), entry 33, William Ball, and his children 110–119 (Internet Archive)"
+  ],
+  "notes": [
+    "Eldest child of William and Nancy (Tate) Ball, born 1802; married T. J. Smith (Find a Grave; Bonnie Ball). Not named among the heirs in 1875, so probably dead by then."
+  ],
+  "aliases": []
+}
