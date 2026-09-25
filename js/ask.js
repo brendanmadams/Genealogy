@@ -139,6 +139,16 @@ const KIN = { parent: 'up', parents: 'up', father: 'up', fathers: 'up', mother: 
 const FEM = /^(mothers?|daughters?|aunts?|nieces?|sisters?)$/, MASC = /^(fathers?|sons?|uncles?|nephews?|brothers?)$/;
 const KIN_RE = /\b((?:great\s*-?\s*|\d+\s*x\s*great\s*-?\s*)*)(grand\s*-?\s*)?(parents?|fathers?|mothers?|children|kids?|sons?|daughters?|aunts?|uncles?|nieces?|nephews?|siblings?|brothers?|sisters?)\b/g;
 
+/** "great grandfather" → "great-grandfather(s)", singular for one person, plural otherwise. */
+function kinPhrase(phrase, count) {
+  const PL = { child: 'children', children: 'children', kid: 'kids' }, SG = { children: 'child', kids: 'kid' };
+  return phrase.split(' and ').map(part => {
+    const t = part.replace(/(\d+)\s*x\s*great\s*-?\s*/g, '$1× great-').replace(/great\s*-?\s*(?=great|grand)/g, 'great-').replace(/grand\s*-?\s*/g, 'grand');
+    // the kin word itself, not a trailing "removed": "first cousins once removed"
+    return t.replace(/(cousin|parent|father|mother|child(?:ren)?|kid|son|daughter|aunt|uncle|niece|nephew|sibling|brother|sister)s?\b/, w => count === 1 ? (SG[w] || w.replace(/s$/, '')) : (PL[w] || (/s$/.test(w) ? w : w + 's')));
+  }).join(count === 1 ? ' or ' : ' and ');
+}
+
 function relRequest(n) {
   const c = n.match(/\b(first|second|third|fourth|fifth|sixth|1st|2nd|3rd|4th|5th|6th)?\s*cousins?(?:\s+(once|twice|thrice|three times|four times)\s+removed)?\b/);
   if (c) {
@@ -275,10 +285,10 @@ function localAnswer(D, names, q, sel, meId) {
     const found = relativesOf(D, p, req.pairs);
     let ids = [...found.keys()].filter(id => !req.sex || who(id).sex === req.sex);
     ids = byBirth(ids.map(who)).map(x => x.id);
-    if (!ids.length) return { html: `${youNote}<p>No ${esc(req.phrase)} of ${you ? 'yours' : `<strong>${nm}</strong>`} are recorded.</p>`, people: you ? [] : [p.id] };
+    if (!ids.length) return { html: `${youNote}<p>No ${esc(kinPhrase(req.phrase, 2))} of ${you ? 'yours' : `<strong>${nm}</strong>`} are recorded.</p>`, people: you ? [] : [p.id] };
     const halves = ids.filter(id => found.get(id)).length;
     const shown = ids.slice(0, 60);
-    return { html: `${youNote}<p>${has} <strong>${ids.length}</strong> recorded ${esc(req.phrase)}${halves ? ` (${halves} of them half relations)` : ''}${ids.length > shown.length ? `; the first ${shown.length} by birth` : ''}:</p>`, people: shown, list: true };
+    return { html: `${youNote}<p>${has} <strong>${ids.length}</strong> recorded ${esc(kinPhrase(req.phrase, ids.length))}${halves ? ` (${halves} of them half relations)` : ''}${ids.length > shown.length ? `; the first ${shown.length} by birth` : ''}:</p>`, people: shown, list: true };
   }
   return null;
 }
