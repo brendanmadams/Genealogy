@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-09-25T17:38:37.567Z",
-  "people": 947,
-  "family_members": 898,
+  "generated": "2026-09-25T17:45:48.082Z",
+  "people": 949,
+  "family_members": 900,
   "dna_matches": 49,
-  "connected_people": 898,
+  "connected_people": 900,
   "families": 326,
   "branches": [
    "adams",
@@ -29278,7 +29278,9 @@
     "walker_john_william"
    ],
    "children": [
-    "simons_mary"
+    "simons_mary",
+    "walker_roma_florence",
+    "walker_betty_ann"
    ],
    "siblings": [],
    "families": [
@@ -63312,6 +63314,67 @@
    ]
   },
   {
+   "id": "walker_betty_ann",
+   "name": "Betty Ann Walker",
+   "aliases": [
+    "Betty A. Walker"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "walker_john_william",
+   "mother": "hinds_marrion_roma",
+   "parents": [
+    "hinds_marrion_roma",
+    "walker_john_william"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "walker_roma_florence"
+   ],
+   "families": [],
+   "parent_family": "F_hinds_marrion_roma+walker_john_william",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Richland, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Aged 4 in the 1950 census at Richland. Ed Simons's tree names her husbands as George Coomes and Otho Walter Eaton."
+   ]
+  },
+  {
    "id": "walker_john_william",
    "name": "John William Walker",
    "aliases": [
@@ -63343,7 +63406,10 @@
    "spouses": [
     "hinds_marrion_roma"
    ],
-   "children": [],
+   "children": [
+    "walker_roma_florence",
+    "walker_betty_ann"
+   ],
    "siblings": [],
    "families": [
     "F_hinds_marrion_roma+walker_john_william"
@@ -63376,6 +63442,71 @@
    "notes": [
     "Born 29 Dec 1915 in Colorado; died 22 Dec 1975 at Spokane (Washington death records). Son of William Edgar \"Ed\" Walker (died 1916, Pueblo, Colorado) and Ester Lydia Green (1896–1970): his 1940 Washington marriage record names his parents as Ed and Esther Walker, and in 1940 he lived in Portland as the stepson of Audry R. Bishop, whose wife was Esther (1940 census; Ed Simons's tree).",
     "Married Carolyn E. Taylor (Clark County, Washington, application 18 Nov 1940), and later Marrion Roma (Hinds) Dolan, widow of Sheldon Dolan. In 1950 they lived at 316 Goethals, Richland, with her daughter Mary P. and their daughters Roma F. and Betty A. Walker (1950 census). Stepfather of Mary Patricia (Walker) Simons, who took his surname."
+   ]
+  },
+  {
+   "id": "walker_roma_florence",
+   "name": "Roma Florence Walker (Hathaway)",
+   "aliases": [
+    "Roma F. Walker"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "5 Sep 1943",
+    "year": 1943,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": "walker_john_william",
+   "mother": "hinds_marrion_roma",
+   "parents": [
+    "hinds_marrion_roma",
+    "walker_john_william"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "walker_betty_ann"
+   ],
+   "families": [],
+   "parent_family": "F_hinds_marrion_roma+walker_john_william",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Bend, Deschutes County, Oregon",
+    "Richland, Washington",
+    "Kennewick, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Roma Florence Walker and Paul Carleton Hathaway, Franklin County, 1962)",
+    "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Kennewick, 1961)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Born 5 Sep 1943 (Washington marriage records); Ed Simons's tree gives the place as Bend, Oregon. Aged 6 in the 1950 census at Richland; in the 1961 Kennewick High School yearbook; married Paul Carleton Hathaway in Franklin County in May 1962. Ed Simons's tree also names a husband Theodore Walters."
    ]
   },
   {
@@ -68944,7 +69075,10 @@
     "hinds_marrion_roma",
     "walker_john_william"
    ],
-   "children": [],
+   "children": [
+    "walker_roma_florence",
+    "walker_betty_ann"
+   ],
    "marriage": null
   },
   {

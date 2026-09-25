@@ -1,0 +1,35 @@
+{
+  "id": "walker_betty_ann",
+  "name": "Betty Ann Walker",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "hinds_marrion_roma",
+    "father": "walker_john_william",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Richland, Washington"
+  ],
+  "sources": [
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+  ],
+  "notes": [
+    "Aged 4 in the 1950 census at Richland. Ed Simons's tree names her husbands as George Coomes and Otho Walter Eaton."
+  ],
+  "aliases": [
+    "Betty A. Walker"
+  ]
+}
