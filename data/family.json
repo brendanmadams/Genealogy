@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-25T22:39:04.686Z",
+  "generated": "2026-09-25T22:41:54.636Z",
   "people": 988,
   "family_members": 939,
   "dna_matches": 49,
@@ -72411,16 +72411,18 @@
   },
   {
    "id": "wilkins_john_j",
-   "name": "John J. Wilkins",
-   "aliases": [],
+   "name": "John Julien Wilkins Sr.",
+   "aliases": [
+    "John J. Wilkins"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "abt 1900",
+    "text": "2 Mar 1900",
     "year": 1900,
-    "qualifier": "about"
+    "qualifier": null
    },
    "death": {
     "text": "",
@@ -72458,7 +72460,9 @@
    "priority": "normal",
    "locations": [
     "Central Township, St. Louis County, Missouri",
-    "Normandy Township, St. Louis County, Missouri"
+    "Normandy Township, St. Louis County, Missouri",
+    "Kirkwood, St. Louis County, Missouri",
+    "Overland, St. Louis County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -72471,10 +72475,13 @@
    "sources": [
     "FamilySearch, United States Census, 1930 (Central Township, St. Louis County, Missouri; household of John Wilkins, 30; ark 1:1:XHNB-RCC)",
     "FamilySearch, United States Census, 1940 (Normandy Township, St. Louis County, Missouri; household of John J. Wilkins with sons Pierre R. and John J.; ark 1:1:K7WD-SLY)",
-    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (John Julien Wilkins Jr., born 21 Sep 1923 Kirkwood, died 17 Dec 1994, ark 1:1:6KW4-SFL4; Pierre Robert Wilkins, born 14 Oct 1932 St. Louis, died 6 Oct 1998, ark 1:1:6KWW-R3B4; parents John J. Wilkins and Roma Abernathy)"
+    "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (John Julien Wilkins Jr., born 21 Sep 1923 Kirkwood, died 17 Dec 1994, ark 1:1:6KW4-SFL4; Pierre Robert Wilkins, born 14 Oct 1932 St. Louis, died 6 Oct 1998, ark 1:1:6KWW-R3B4; parents John J. Wilkins and Roma Abernathy)",
+    "FamilySearch, United States World War I Draft Registration Cards, 1917-1918 (John Julien Wilkins, born 2 Mar 1900, St. Louis; ark 1:1:W4Y4-7D3Z)",
+    "FamilySearch, Missouri World War II Draft Registration Cards, 1940-1945 (John Julien Wilkins, born 2 Mar 1900 Kirkwood, registered 15 Feb 1942 at Overland, ark 1:1:QLX1-BGM4; John Julien Wilkins Jr., born 21 Sep 1923 Kirkwood, registered 30 Jun 1942 at Overland, ark 1:1:QLX1-V992)"
    ],
    "notes": [
-    "Husband of Roma Eloise Abernathy. Born about 1900 in Missouri to Missouri-born parents; head of the household in Central Township, St. Louis County, in 1930 with Roma, 27, and John J., 6, and in Normandy Township in 1940, widowed, with sons Pierre R. and John J. (1930 and 1940 censuses)."
+    "Husband of Roma Eloise Abernathy. Born about 1900 in Missouri to Missouri-born parents; head of the household in Central Township, St. Louis County, in 1930 with Roma, 27, and John J., 6, and in Normandy Township in 1940, widowed, with sons Pierre R. and John J. (1930 and 1940 censuses).",
+    "Born 2 Mar 1900 at Kirkwood, Missouri; registered for the draft in St. Louis in 1917–18 and again at Overland on 15 Feb 1942 (draft registration cards)."
    ]
   },
   {
@@ -72523,7 +72530,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Kirkwood, St. Louis County, Missouri"
+    "Kirkwood, St. Louis County, Missouri",
+    "Palm Harbor, Pinellas County, Florida"
    ],
    "personality": [],
    "roles": [],
@@ -72536,10 +72544,13 @@
    "sources": [
     "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (John Julien Wilkins Jr., born 21 Sep 1923 Kirkwood, died 17 Dec 1994, ark 1:1:6KW4-SFL4; Pierre Robert Wilkins, born 14 Oct 1932 St. Louis, died 6 Oct 1998, ark 1:1:6KWW-R3B4; parents John J. Wilkins and Roma Abernathy)",
     "FamilySearch, United States Census, 1930 (Central Township, St. Louis County, Missouri; household of John Wilkins, 30; ark 1:1:XHNB-RCC)",
-    "FamilySearch, United States Census, 1940 (Normandy Township, St. Louis County, Missouri; household of John J. Wilkins with sons Pierre R. and John J.; ark 1:1:K7WD-SLY)"
+    "FamilySearch, United States Census, 1940 (Normandy Township, St. Louis County, Missouri; household of John J. Wilkins with sons Pierre R. and John J.; ark 1:1:K7WD-SLY)",
+    "FamilySearch, Missouri World War II Draft Registration Cards, 1940-1945 (John Julien Wilkins, born 2 Mar 1900 Kirkwood, registered 15 Feb 1942 at Overland, ark 1:1:QLX1-BGM4; John Julien Wilkins Jr., born 21 Sep 1923 Kirkwood, registered 30 Jun 1942 at Overland, ark 1:1:QLX1-V992)",
+    "Find a Grave index (John Julien Wilkins, 21 Sep 1923 – 17 Dec 1994, Curlew Hills Memory Gardens, Palm Harbor, Pinellas County, Florida; via FamilySearch ark 1:1:6MLR-XH2M)"
    ],
    "notes": [
-    "Born 21 Sep 1923 at Kirkwood, Missouri, son of John J. Wilkins and Roma Abernathy; died 17 Dec 1994 (Social Security file). Half-brother of Marrion (Hinds) Walker through Roma."
+    "Born 21 Sep 1923 at Kirkwood, Missouri, son of John J. Wilkins and Roma Abernathy; died 17 Dec 1994 (Social Security file). Half-brother of Marrion (Hinds) Walker through Roma.",
+    "Registered for the draft at Overland, Missouri, on 30 Jun 1942; buried at Curlew Hills Memory Gardens, Palm Harbor, Florida (draft registration card; Find a Grave)."
    ]
   },
   {
@@ -72604,7 +72615,9 @@
   {
    "id": "wilkins_pierre_robert",
    "name": "Pierre Robert Wilkins",
-   "aliases": [],
+   "aliases": [
+    "Pierre R. Wilkins"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -72647,7 +72660,9 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "St. Louis, Missouri"
+    "St. Louis, Missouri",
+    "Brooklyn, New York",
+    "Staten Island, New York"
    ],
    "personality": [],
    "roles": [],
@@ -72659,10 +72674,13 @@
    "career": [],
    "sources": [
     "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (John Julien Wilkins Jr., born 21 Sep 1923 Kirkwood, died 17 Dec 1994, ark 1:1:6KW4-SFL4; Pierre Robert Wilkins, born 14 Oct 1932 St. Louis, died 6 Oct 1998, ark 1:1:6KWW-R3B4; parents John J. Wilkins and Roma Abernathy)",
-    "FamilySearch, United States Census, 1940 (Normandy Township, St. Louis County, Missouri; household of John J. Wilkins with sons Pierre R. and John J.; ark 1:1:K7WD-SLY)"
+    "FamilySearch, United States Census, 1940 (Normandy Township, St. Louis County, Missouri; household of John J. Wilkins with sons Pierre R. and John J.; ark 1:1:K7WD-SLY)",
+    "FamilySearch, United States Public Records, 1970-2009 (Pierre R. Wilkins, born 14 Oct 1932, New York City 1993, Brooklyn 2001, Staten Island 2005–2009)",
+    "FamilySearch, United States Social Security Death Index (Pierre Wilkins, 14 Oct 1932 – 6 Oct 1998, Brooklyn, New York)"
    ],
    "notes": [
-    "Born 14 Oct 1932 at St. Louis, son of John J. Wilkins and Roma Abernathy; died 6 Oct 1998 (Social Security file). Half-brother of Marrion (Hinds) Walker through Roma."
+    "Born 14 Oct 1932 at St. Louis, son of John J. Wilkins and Roma Abernathy; died 6 Oct 1998 (Social Security file). Half-brother of Marrion (Hinds) Walker through Roma.",
+    "Lived in New York City from at least 1993, at Brooklyn in 2001 and Staten Island 2005–2009 (public-records index); died 6 Oct 1998 at Brooklyn (Social Security death index; the later public-record entries are stale listings)."
    ]
   },
   {
