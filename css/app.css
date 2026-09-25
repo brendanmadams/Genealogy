@@ -145,6 +145,10 @@ body.has-panel #main { grid-template-columns: var(--sidebar-w) 1fr var(--panel-w
 .card .name.small { font-size: 11.5px; }
 .card .dates { fill: var(--text-2); font-size: 11px; }
 .card .tag { fill: var(--muted); font-size: 9.5px; text-transform: uppercase; letter-spacing: .08em; }
+.card .flag { fill: var(--card); stroke: var(--warn-line); stroke-width: 1.4; }
+.card .flag-mark { fill: var(--warn-ink); font-size: 10px; font-weight: 700; }
+.chip-flag { display: inline-block; margin-left: 5px; width: 13px; height: 13px; line-height: 12px; text-align: center; border-radius: 50%; border: 1.3px solid var(--warn-line); color: var(--warn-ink); font-size: 9.5px; font-weight: 700; vertical-align: 1px; }
+.legend .flag { display: inline-block; width: 11px; height: 11px; line-height: 10px; text-align: center; border-radius: 50%; border: 1.2px solid var(--warn-line); color: var(--warn-ink); font-size: 8.5px; font-weight: 700; margin-right: 6px; vertical-align: middle; }
 .card .living { fill: var(--good); }
 .card .living.assumed { fill: none; stroke: var(--good); stroke-width: 1.3; }
 .legend .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--good); margin-right: 6px; vertical-align: middle; }

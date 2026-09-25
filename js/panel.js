@@ -51,7 +51,7 @@ export function renderPanel(container, D, p, rel = {}) {
   const branch = D.branch(p);
   const chip = (q, extra = '') => {
     const span = lifespan(q, { short: true });
-    return `<button class="chip" data-id="${q.id}" style="--branch:${D.color(q)}"><span class="chip-name">${esc(displayName(q))}</span>${span ? `<span class="chip-sub">${esc(span)}</span>` : ''}${extra ? `<span class="chip-sub">${esc(extra)}</span>` : ''}</button>`;
+    return `<button class="chip" data-id="${q.id}" style="--branch:${D.color(q)}"><span class="chip-name">${esc(displayName(q))}${q.unproven ? '<span class="chip-flag" title="Contains unproven information">?</span>' : ''}</span>${span ? `<span class="chip-sub">${esc(span)}</span>` : ''}${extra ? `<span class="chip-sub">${esc(extra)}</span>` : ''}</button>`;
   };
   const section = (title, body) => body ? `<section class="sec"><h3>${title}</h3>${body}</section>` : '';
   const items = (arr, cls = '') => arr?.length ? `<ul class="${cls}">${arr.map(x => `<li>${esc(typeof x === 'string' ? x : (x.event || x.description || x.story || x.text || JSON.stringify(x)))}</li>`).join('')}</ul>` : '';
@@ -92,6 +92,7 @@ export function renderPanel(container, D, p, rel = {}) {
           <span class="badge branch">${esc(branch.label)}${p.branch_by_marriage ? ' · by marriage' : ''}</span>
           ${lines.map(l => `<span class="badge line">${esc(l)}</span>`).join('')}
           ${p.dna_match ? '<span class="badge dna" title="Known only from a 23andMe match list; relationship unconfirmed">DNA match · low priority</span>' : (p.connected ? '' : '<span class="badge warn">not yet connected</span>')}
+          ${p.unproven ? '<span class="badge warn" title="A note on this record marks a claim as UNPROVEN">contains unproven information</span>' : ''}
         </div>
         ${p.aliases?.length ? `<div class="aliases">Also: ${p.aliases.map(esc).join(', ')}</div>` : ''}
       </div>

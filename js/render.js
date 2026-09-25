@@ -200,17 +200,28 @@ export class Renderer {
     const a = fitText(l1, MAXW, size), b = l2 ? fitText(l2, MAXW, size) : null;
     g.appendChild(el('text', { class: 'name', x: 66, y: l2 ? 26 : 36, style: `font-size:${size}px` }, a.text));
     if (b) g.appendChild(el('text', { class: 'name', x: 66, y: 43, style: `font-size:${size}px` }, b.text));
-    const span = lifespan(p);
+    // Pedigree (Ahnentafel) or descendant number, bottom-right; very long
+    // descendant numbers keep their tail. The dates share that line, so they
+    // are compacted ("abt" → "c.", then years only) when they would run into it.
+    let numW = 0;
+    if (n.ahnen || n.number) {
+      const num = String(n.ahnen || n.number);
+      const shown = num.length > 11 ? '…' + num.slice(-10) : num;
+      g.appendChild(el('text', { class: 'ahnen', x: CARD.w - 8, y: CARD.h - 8, 'text-anchor': 'end' }, shown));
+      g.querySelector('title').textContent += ` · no. ${num}`;
+      numW = textWidth(shown, 10) + 8;
+    }
+    const spanW = CARD.w - 66 - 8 - numW;
+    const span = [lifespan(p), lifespan(p).replace(/\b(abt|bef|aft|c\.) /g, (m, q) => ({ abt: 'c.', bef: '<', aft: '>' }[q] || q)), lifespan(p, { short: true })]
+      .find(s => textWidth(s, 11) <= spanW) || lifespan(p, { short: true });
     if (span) g.appendChild(el('text', { class: 'dates', x: 66, y: l2 ? 59 : 54 }, span));
     if (n.half) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'half'));
     else if (p.adopted && n.role !== 'focus') g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'adopted'));
-    if (n.ahnen || n.number) {
-      // bottom-right, clear of the name; very long descendant numbers keep their tail
-      const num = String(n.ahnen || n.number);
-      const shown = num.length > 11 ? '…' + num.slice(-10) : num;
-      const t = el('text', { class: 'ahnen', x: CARD.w - 8, y: CARD.h - 8, 'text-anchor': 'end' }, shown);
-      g.appendChild(t);
-      g.querySelector('title').textContent += ` · no. ${num}`;
+    if (p.unproven) {
+      // amber "?" on the portrait: the record carries a claim marked UNPROVEN
+      g.appendChild(el('circle', { class: 'flag', cx: cx + 15, cy: cy + 15, r: 6.5 }));
+      g.appendChild(el('text', { class: 'flag-mark', x: cx + 15, y: cy + 18.5, 'text-anchor': 'middle' }, '?'));
+      g.querySelector('title').textContent += ' · contains unproven information';
     }
     if (n.role === 'repeat') g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: CARD.h - 8, 'text-anchor': 'end' }, `same as ${n.repeatOf}`));
     if (n.more) {

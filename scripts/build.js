@@ -297,6 +297,7 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     branch_by_marriage: pb ? pb.byMarriage : false,
     lineages: [...lineages.get(p.id)].sort(),
     adopted: p.relationships?.adopted === true,
+    unproven: (p.notes || []).some(n => /\bUNPROVEN\b/.test(n)),   // a note marks a claim as unproven
     father: r.father || null,
     mother: r.mother || null,
     parents: [...parentsOf.get(p.id)].sort(),

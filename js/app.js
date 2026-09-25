@@ -127,7 +127,7 @@ function showLanding() {
   sidebar.setFocus(null);
   document.title = 'Adams · McKeldin Family Tree';
   const recent = store.get().map(id => D.person(id)).filter(Boolean);
-  const chip = p => `<button class="chip" data-id="${p.id}" style="--branch:${D.color(p)}"><span class="chip-name">${esc(displayName(p))}</span>${lifespan(p, { short: true }) ? `<span class="chip-sub">${esc(lifespan(p, { short: true }))}</span>` : ''}</button>`;
+  const chip = p => `<button class="chip" data-id="${p.id}" style="--branch:${D.color(p)}"><span class="chip-name">${esc(displayName(p))}${p.unproven ? '<span class="chip-flag" title="Contains unproven information">?</span>' : ''}</span>${lifespan(p, { short: true }) ? `<span class="chip-sub">${esc(lifespan(p, { short: true }))}</span>` : ''}</button>`;
   const lines = [...D.branches.values()].filter(b => b.roots?.length).map(b => {
     const roots = byBirth(b.roots.map(id => D.person(id)).filter(Boolean));
     const first = roots[0];

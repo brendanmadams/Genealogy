@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-25T20:11:47.086Z",
+  "generated": "2026-09-25T20:19:59.955Z",
   "people": 967,
   "family_members": 918,
   "dna_matches": 49,
@@ -174,6 +174,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -282,6 +283,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -381,6 +383,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -506,6 +509,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_w_1857",
    "mother": "davis_carrie_a",
    "parents": [
@@ -579,6 +583,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_joseph_pierre_jose2",
    "mother": "pugh_susan",
    "parents": [
@@ -644,6 +649,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_frank_1879",
    "mother": "brannan_katherine_a",
    "parents": [
@@ -715,6 +721,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -806,6 +813,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_presley",
    "mother": "adams_fran",
    "parents": [
@@ -870,6 +878,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_frank_1879",
    "mother": "brannan_katherine_a",
    "parents": [
@@ -936,6 +945,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -1011,6 +1021,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_caleb_martin",
    "mother": "gosnell_louise_a",
    "parents": [
@@ -1086,6 +1097,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_2",
    "mother": "trumbo_serena_marie",
    "parents": [
@@ -1192,6 +1204,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_joseph_pierre_jose2",
    "mother": "pugh_susan",
    "parents": [
@@ -1256,6 +1269,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_james_casper",
    "mother": "kaempfer_adela",
    "parents": [
@@ -1324,6 +1338,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_w_1857",
    "mother": "davis_carrie_a",
    "parents": [
@@ -1384,6 +1399,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_washington",
    "mother": "konitzer_christiana",
    "parents": [
@@ -1446,6 +1462,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -1517,6 +1534,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_ralph_l",
    "mother": null,
    "parents": [
@@ -1577,6 +1595,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_frank_melbourne",
    "mother": "kendall_estella_l",
    "parents": [
@@ -1638,6 +1657,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_frank_1879",
    "mother": "brannan_katherine_a",
    "parents": [
@@ -1702,6 +1722,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -1786,6 +1807,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_frank_1879",
    "mother": "brannan_katherine_a",
    "parents": [
@@ -1855,6 +1877,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_james_casper",
    "mother": "kaempfer_adela",
    "parents": [
@@ -1931,6 +1954,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -2002,6 +2026,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_presley",
    "mother": "adams_fran",
    "parents": [
@@ -2060,6 +2085,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -2120,6 +2146,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_w_1857",
    "mother": "davis_carrie_a",
    "parents": [
@@ -2180,6 +2207,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -2261,6 +2289,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -2488,6 +2517,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -2642,6 +2672,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_washington",
    "mother": "konitzer_christiana",
    "parents": [
@@ -2726,6 +2757,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -2803,6 +2835,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -2875,6 +2908,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -2966,6 +3000,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_w_1857",
    "mother": "davis_carrie_a",
    "parents": [
@@ -3030,6 +3065,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -3115,6 +3151,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_washington",
    "mother": "konitzer_christiana",
    "parents": [
@@ -3177,6 +3214,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "ashby_unknown",
    "parents": [
@@ -3251,6 +3289,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -3323,6 +3362,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -3419,6 +3459,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_frank_1879",
    "mother": "brannan_katherine_a",
    "parents": [
@@ -3490,6 +3531,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -3637,6 +3679,7 @@
     "adams"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -3814,6 +3857,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -3948,6 +3992,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4008,6 +4053,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -4076,6 +4122,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -4160,6 +4207,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -4231,6 +4279,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_ralph_l",
    "mother": "brandt_pauline",
    "parents": [
@@ -4294,6 +4343,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_joseph_pierre_jose2",
    "mother": "pugh_susan",
    "parents": [
@@ -4360,6 +4410,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_washington",
    "mother": "konitzer_christiana",
    "parents": [
@@ -4433,6 +4484,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -4514,6 +4566,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -4602,6 +4655,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_frank_melbourne",
    "mother": "kendall_estella_l",
    "parents": [
@@ -4663,6 +4717,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_james_casper",
    "mother": "kaempfer_adela",
    "parents": [
@@ -4738,6 +4793,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -4819,6 +4875,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -4879,6 +4936,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -4965,6 +5023,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -5040,6 +5099,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -5123,6 +5183,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_2",
    "mother": "trumbo_serena_marie",
    "parents": [
@@ -5218,6 +5279,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_henry_a",
    "mother": null,
    "parents": [
@@ -5289,6 +5351,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_w_1857",
    "mother": "davis_carrie_a",
    "parents": [
@@ -5360,6 +5423,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_james_casper",
    "mother": "kaempfer_adela",
    "parents": [
@@ -5432,6 +5496,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_presley",
    "mother": "adams_fran",
    "parents": [
@@ -5499,6 +5564,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -5568,6 +5634,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_jose_pierre",
    "mother": "hamilton_elizabeth_eliza",
    "parents": [
@@ -5637,6 +5704,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_1",
    "mother": "lane_cynthia",
    "parents": [
@@ -5725,6 +5793,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_john_wesley",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -5794,6 +5863,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_alexander_william_col",
    "mother": "martin_mary_louisa",
    "parents": [
@@ -5868,6 +5938,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ivo_john_obad",
    "mother": "camille_remy",
    "parents": [
@@ -5936,6 +6007,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -6020,6 +6092,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_ralph_kenneth",
    "mother": "whitman_zella_campbell",
    "parents": [
@@ -6080,6 +6153,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_anthony",
    "mother": "fonshill_susan_bethany",
    "parents": [
@@ -6157,6 +6231,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -6253,6 +6328,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -6330,6 +6406,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_marion_lafayette",
    "mother": "jiskra_florence_rose",
    "parents": [
@@ -6396,6 +6473,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_ralph_kenneth",
    "mother": "smith_irene_louisa",
    "parents": [
@@ -6461,6 +6539,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -6548,6 +6627,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_philip",
    "mother": "anthony_esther_jane",
    "parents": [
@@ -6677,6 +6757,7 @@
     "allen"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_philemon",
    "mother": "spring_juliaetta",
    "parents": [
@@ -6781,6 +6862,7 @@
     "allen"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -6852,6 +6934,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -6962,6 +7045,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_leroy_gaylord",
    "mother": "eberhart_gladys",
    "parents": [
@@ -7040,6 +7124,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_anthony",
    "mother": "fonshill_susan_bethany",
    "parents": [
@@ -7118,6 +7203,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -7190,6 +7276,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -7262,6 +7349,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_ralph_kenneth",
    "mother": "smith_irene_louisa",
    "parents": [
@@ -7333,6 +7421,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -7422,6 +7511,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_philip",
    "mother": "anthony_esther_jane",
    "parents": [
@@ -7503,6 +7593,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -7590,6 +7681,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -7691,6 +7783,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_ralph_kenneth",
    "mother": "smith_irene_louisa",
    "parents": [
@@ -7759,6 +7852,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -7846,6 +7940,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -7930,6 +8025,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_julius",
    "mother": "adams_alberta",
    "parents": [
@@ -8000,6 +8096,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_leroy_gaylord",
    "mother": "eberhart_gladys",
    "parents": [
@@ -8066,6 +8163,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "allen_george_homer",
    "mother": "wheeler_dorothy_ann",
    "parents": [
@@ -8164,6 +8262,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "goodenough_florence_c",
    "parents": [
@@ -8217,6 +8316,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8280,6 +8380,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "anthony_homer_gideon",
    "mother": "shoush_anna_elizabeth",
    "parents": [
@@ -8357,6 +8458,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8414,6 +8516,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8475,6 +8578,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8529,6 +8633,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -8593,6 +8698,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "baker_walter",
    "mother": "hamilton_magdalena",
    "parents": [
@@ -8648,6 +8754,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -8723,6 +8830,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_william_1784",
    "mother": "tate_nancy",
    "parents": [
@@ -8826,6 +8934,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -8927,6 +9036,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9010,6 +9120,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": "davis_samuel_g",
    "mother": "rogers_rebecca",
    "parents": [
@@ -9100,6 +9211,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -9165,6 +9277,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9234,6 +9347,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9304,6 +9418,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9371,6 +9486,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_moses_sr",
    "mother": "brashears_ann",
    "parents": [
@@ -9438,6 +9554,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_john_stafford",
    "mother": "winifred_ball",
    "parents": [
@@ -9509,6 +9626,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9580,6 +9698,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9648,6 +9767,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9717,6 +9837,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9784,6 +9905,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_moses_jr",
    "mother": "hardin_mary_ann",
    "parents": [
@@ -9863,6 +9985,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ball_david",
    "mother": "ball_graden",
    "parents": [
@@ -9929,6 +10052,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -9991,6 +10115,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "charles_buckey_mckeldin",
    "mother": "emily_schrieffer_mckeldin",
    "parents": [
@@ -10412,6 +10537,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -10478,6 +10604,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "bascom_john_l",
    "mother": "hamilton_mary_a",
    "parents": [
@@ -10541,6 +10668,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "bell_william_h",
    "mother": "bell_elmira",
    "parents": [
@@ -10610,6 +10738,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "flaherty_thomas",
    "mother": "flaherty_margaret",
    "parents": [
@@ -10685,6 +10814,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -10748,6 +10878,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "bell_william_h",
    "mother": "bell_elmira",
    "parents": [
@@ -10814,6 +10945,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "bell_jehu_a",
    "mother": "collins_sarah_elizabeth",
    "parents": [
@@ -10895,6 +11027,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stan_husband_of_janine_simons",
    "mother": "simons_janine",
    "parents": [
@@ -10956,6 +11089,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stan_husband_of_janine_simons",
    "mother": "simons_janine",
    "parents": [
@@ -11018,6 +11152,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -11174,6 +11309,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11245,6 +11381,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "billingslea_harold_emerson",
    "mother": "allen_bernice",
    "parents": [
@@ -11311,6 +11448,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "billingslea_harold_emerson",
    "mother": "allen_bernice",
    "parents": [
@@ -11382,6 +11520,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11451,6 +11590,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "billingslea_harold_emerson",
    "mother": "allen_bernice",
    "parents": [
@@ -11515,6 +11655,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "billingslea_harold_emerson",
    "mother": "allen_bernice",
    "parents": [
@@ -11580,6 +11721,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11636,6 +11778,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11696,6 +11839,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11758,6 +11902,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11822,6 +11967,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11879,6 +12025,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -11936,6 +12083,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12003,6 +12151,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12073,6 +12222,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "john_howard_adams",
    "mother": "barbara_mckeldin_adams",
    "parents": [
@@ -12195,6 +12345,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "john_howard_adams",
    "mother": "barbara_mckeldin_adams",
    "parents": [
@@ -12307,6 +12458,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12368,6 +12520,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12448,6 +12601,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "buckley_david",
    "mother": "buckley_margaret",
    "parents": [
@@ -12547,6 +12701,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12622,6 +12777,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12686,6 +12842,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -12751,6 +12908,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_zell",
    "mother": "busey_rose_lee",
    "parents": [
@@ -12810,6 +12968,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_gordon",
    "mother": "larsen_helen_laverne",
    "parents": [
@@ -12872,6 +13031,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_zell",
    "mother": "busey_rose_lee",
    "parents": [
@@ -12949,6 +13109,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13010,6 +13171,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_gordon",
    "mother": "larsen_helen_laverne",
    "parents": [
@@ -13068,6 +13230,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13127,6 +13290,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_zell",
    "mother": "busey_grace",
    "parents": [
@@ -13183,6 +13347,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_gordon",
    "mother": "larsen_helen_laverne",
    "parents": [
@@ -13246,6 +13411,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_zell",
    "mother": "busey_rose_lee",
    "parents": [
@@ -13304,6 +13470,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13367,6 +13534,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13432,6 +13600,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_gordon",
    "mother": "larsen_helen_laverne",
    "parents": [
@@ -13497,6 +13666,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "busey_matt",
    "mother": "simons_lola",
    "parents": [
@@ -13586,6 +13756,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13643,6 +13814,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "kulp_reta_may",
    "parents": [
@@ -13707,6 +13879,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "michael_remy",
    "mother": "gertrude_adams_remy",
    "parents": [
@@ -13782,6 +13955,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -13849,6 +14023,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -13964,6 +14139,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "chuck_mckeldin",
    "mother": "michelle_mckeldin",
    "parents": [
@@ -14027,6 +14203,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14100,6 +14277,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "charters_john_dixon",
    "mother": "allen_frances_rosetta",
    "parents": [
@@ -14157,6 +14335,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14214,6 +14393,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14274,6 +14454,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "childs_thomas",
    "mother": "adams_edith_v",
    "parents": [
@@ -14335,6 +14516,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "childs_thomas",
    "mother": "adams_edith_v",
    "parents": [
@@ -14400,6 +14582,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14481,6 +14664,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "j_michael_mckeldin",
    "mother": "shelly_mckeldin",
    "parents": [
@@ -14545,6 +14729,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "michael_remy",
    "mother": "gertrude_adams_remy",
    "parents": [
@@ -14617,6 +14802,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "charles_buckey_mckeldin",
    "mother": "emily_schrieffer_mckeldin",
    "parents": [
@@ -14731,6 +14917,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14788,6 +14975,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "clark_ephraim",
    "mother": "vantine_mary_frances",
    "parents": [
@@ -14863,6 +15051,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -14932,6 +15121,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "clark_wallace_bowlingreen",
    "mother": "adams_gertrude_1881",
    "parents": [
@@ -15001,6 +15191,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15075,6 +15266,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15140,6 +15332,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15203,6 +15396,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15264,6 +15458,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15325,6 +15520,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15390,6 +15586,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15447,6 +15644,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15501,6 +15699,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15564,6 +15763,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -15624,6 +15824,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "louis_russell_smith",
    "mother": "genevieve_mildred_smith",
    "parents": [
@@ -15699,6 +15900,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "bill_daphne_wells",
    "mother": "wells_daphne",
    "parents": [
@@ -15762,6 +15964,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "bill_daphne_wells",
    "mother": "wells_daphne",
    "parents": [
@@ -15825,6 +16028,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "bill_daphne_wells",
    "mother": "wells_daphne",
    "parents": [
@@ -15889,6 +16093,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "bill_daphne_wells",
    "mother": "wells_daphne",
    "parents": [
@@ -15952,6 +16157,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "bill_daphne_wells",
    "mother": "wells_daphne",
    "parents": [
@@ -16015,6 +16221,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "bill_daphne_wells",
    "mother": "wells_daphne",
    "parents": [
@@ -16078,6 +16285,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16147,6 +16355,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16209,6 +16418,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "dawson_john",
    "mother": "rogers_sylvia",
    "parents": [
@@ -16280,6 +16490,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "dawson_curtis",
    "mother": "clevenger_leah",
    "parents": [
@@ -16345,6 +16556,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16409,6 +16621,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "dawson_john",
    "mother": "rogers_sylvia",
    "parents": [
@@ -16480,6 +16693,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16551,6 +16765,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "decker_clyde",
    "mother": "decker_merle",
    "parents": [
@@ -16623,6 +16838,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "decker_clyde",
    "mother": "decker_merle",
    "parents": [
@@ -16689,6 +16905,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "decker_peter",
    "mother": "simons_olive_catherine",
    "parents": [
@@ -16769,6 +16986,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16831,6 +17049,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -16894,6 +17113,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "decker_peter",
    "mother": "simons_olive_catherine",
    "parents": [
@@ -16968,6 +17188,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17028,6 +17249,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17102,6 +17324,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "denzlein_karl",
    "mother": "popp_margaretha",
    "parents": [
@@ -17176,6 +17399,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17237,6 +17461,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17300,6 +17525,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": "dolan_thomas",
    "mother": "dowling_ellen",
    "parents": [
@@ -17371,6 +17597,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "dolan_joseph_martin",
    "mother": "smith_may",
    "parents": [
@@ -17440,6 +17667,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17503,6 +17731,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17557,6 +17786,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17612,6 +17842,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17669,6 +17900,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17728,6 +17960,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17791,6 +18024,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17856,6 +18090,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17917,6 +18152,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -17971,6 +18207,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18028,6 +18265,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18099,6 +18337,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": "eby_george_w",
    "mother": "nafcher_elizabeth",
    "parents": [
@@ -18166,6 +18405,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18230,6 +18470,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "geoffrey_louis_adams",
    "mother": "nicole_adawn_della_selva",
    "parents": [
@@ -18302,6 +18543,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "schriefer_george_goode",
    "mother": "ethel_quinn_schriefer",
    "parents": [
@@ -18419,6 +18661,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "bell_william_h",
    "mother": "bell_elmira",
    "parents": [
@@ -18518,6 +18761,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18585,6 +18829,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -18676,6 +18921,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -18774,6 +19020,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18841,6 +19088,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "falde_randy",
    "mother": "olson_kris",
    "parents": [
@@ -18905,6 +19153,7 @@
     "falde"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -18968,6 +19217,7 @@
     "falde"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "falde_roger",
    "mother": "falde_mary",
    "parents": [
@@ -19033,6 +19283,7 @@
     "falde"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "falde_roger",
    "mother": "falde_mary",
    "parents": [
@@ -19091,6 +19342,7 @@
     "falde"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19152,6 +19404,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19212,6 +19465,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19278,6 +19532,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19339,6 +19594,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19400,6 +19656,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19462,6 +19719,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "forester_glenn_c",
    "mother": "borton_ruth_trilby",
    "parents": [
@@ -19536,6 +19794,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "forester_stephen_s",
    "mother": "simons_ann_1854",
    "parents": [
@@ -19615,6 +19874,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "forester_glenn_c",
    "mother": "borton_ruth_trilby",
    "parents": [
@@ -19687,6 +19947,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "forester_charles_elmer",
    "mother": "burch_etta",
    "parents": [
@@ -19764,6 +20025,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "forester_charles_elmer",
    "mother": "burch_etta",
    "parents": [
@@ -19833,6 +20095,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "forester_ivan_duane",
    "mother": "munger_vera",
    "parents": [
@@ -19893,6 +20156,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -19953,6 +20217,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -20014,6 +20279,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "geoffrey_louis_adams",
    "mother": "nicole_adawn_della_selva",
    "parents": [
@@ -20072,6 +20338,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -20126,6 +20393,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -20189,6 +20457,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "fryman_homer",
    "mother": "spicer_daisy",
    "parents": [
@@ -20250,6 +20519,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "fryman_homer",
    "mother": "spicer_daisy",
    "parents": [
@@ -20316,6 +20586,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "fryman_joel",
    "mother": "simons_mary_jane",
    "parents": [
@@ -20386,6 +20657,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -20450,6 +20722,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "fryman_rex_32317802",
    "mother": "hopkins_allie",
    "parents": [
@@ -20506,6 +20779,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "fryman_william_j",
    "mother": "hubbard_lena",
    "parents": [
@@ -20575,6 +20849,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "fryman_joel",
    "mother": "simons_mary_jane",
    "parents": [
@@ -20645,6 +20920,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "fryman_joel",
    "mother": "simons_mary_jane",
    "parents": [
@@ -20721,6 +20997,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ivo_john_obad",
    "mother": "camille_remy",
    "parents": [
@@ -20792,6 +21069,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -20882,6 +21160,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "brendan_mckeldin_adams",
    "mother": "megan_marie_adams",
    "parents": [
@@ -20965,6 +21244,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -21038,6 +21318,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -21098,6 +21379,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -21162,6 +21444,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_jr",
    "mother": "cynthia_gail_smith",
    "parents": [
@@ -21242,6 +21525,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -21311,6 +21595,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_jr",
    "mother": "cynthia_gail_smith",
    "parents": [
@@ -21400,6 +21685,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_sr",
    "mother": "beryl_simons_adams",
    "parents": [
@@ -21513,6 +21799,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "adams_george_francis_2",
    "mother": "trumbo_serena_marie",
    "parents": [
@@ -21701,6 +21988,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_sr",
    "mother": "beryl_simons_adams",
    "parents": [
@@ -21809,6 +22097,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -21872,6 +22161,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -21928,6 +22218,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "gilden_unknown",
    "mother": "quinn_pat",
    "parents": [
@@ -21987,6 +22278,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "gilden_unknown",
    "mother": "quinn_pat",
    "parents": [
@@ -22046,6 +22338,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "gilden_unknown",
    "mother": "quinn_pat",
    "parents": [
@@ -22103,6 +22396,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -22167,6 +22461,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "gill_stephen_augusta",
    "mother": "adams_harriet_josephine",
    "parents": [
@@ -22232,6 +22527,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -22325,6 +22621,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "gill_stephen_augusta",
    "mother": "adams_harriet_josephine",
    "parents": [
@@ -22392,6 +22689,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -22452,6 +22750,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "goodenough_william_johnston",
    "mother": "hazzard_eliza_e",
    "parents": [
@@ -22543,6 +22842,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -22609,6 +22909,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "goodman_craig",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -22680,6 +22981,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -22743,6 +23045,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -22815,6 +23118,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "green_william_l",
    "mother": "adams_myrtle_anna",
    "parents": [
@@ -22873,6 +23177,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -22934,6 +23239,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "grief_michael",
    "mother": "vinzel_cunigunda",
    "parents": [
@@ -23021,6 +23327,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23098,6 +23405,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "grinnell_willard",
    "mother": "hanks_mary",
    "parents": [
@@ -23177,6 +23485,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23236,6 +23545,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23298,6 +23608,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "groves_dan_harvey",
    "mother": "simons_gertrude_nellie",
    "parents": [
@@ -23369,6 +23680,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23426,6 +23738,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23489,6 +23802,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23548,6 +23862,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23609,6 +23924,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -23683,6 +23999,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_thomas_w",
    "mother": "meeks_mary_ann",
    "parents": [
@@ -23754,6 +24071,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_samuel_f",
    "mother": "rieker_mary_elizabeth",
    "parents": [
@@ -23810,6 +24128,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -23876,6 +24195,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_a_1830",
    "mother": "irwin_emeline",
    "parents": [
@@ -23947,6 +24267,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -24011,6 +24332,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_thomas_w",
    "mother": "meeks_mary_ann",
    "parents": [
@@ -24077,6 +24399,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -24139,6 +24462,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "murdoch_barbara",
    "parents": [
@@ -24199,6 +24523,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -24271,6 +24596,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_a_1830",
    "mother": "irwin_emeline",
    "parents": [
@@ -24336,6 +24662,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_alexander",
    "mother": "philpott_eleanor",
    "parents": [
@@ -24416,6 +24743,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_alexander",
    "mother": "philpott_eleanor",
    "parents": [
@@ -24490,6 +24818,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -24610,6 +24939,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -24675,6 +25005,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
    "parents": [
@@ -24740,6 +25071,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_a_1830",
    "mother": "irwin_emeline",
    "parents": [
@@ -24805,6 +25137,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_thomas_w",
    "mother": "meeks_mary_ann",
    "parents": [
@@ -24875,6 +25208,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_samuel_f",
    "mother": "rieker_mary_elizabeth",
    "parents": [
@@ -24935,6 +25269,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -25059,6 +25394,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -25125,6 +25461,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_a_1830",
    "mother": "irwin_emeline",
    "parents": [
@@ -25192,6 +25529,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_george_w",
    "mother": "hamilton_ann",
    "parents": [
@@ -25252,6 +25590,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_gavin_d1814",
    "mother": "douglas_elizabeth",
    "parents": [
@@ -25310,6 +25649,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -25393,6 +25733,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_alexander",
    "mother": "philpott_eleanor",
    "parents": [
@@ -25476,6 +25817,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -25544,6 +25886,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_george_w",
    "mother": "hamilton_ann",
    "parents": [
@@ -25606,6 +25949,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -25679,6 +26023,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_kype_1611",
    "mother": "hamilton_isobel_kypchapel",
    "parents": [
@@ -25748,6 +26093,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
    "parents": [
@@ -25819,6 +26165,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -25917,6 +26264,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -25981,6 +26329,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_alexander",
    "mother": "philpott_eleanor",
    "parents": [
@@ -26061,6 +26410,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "murdoch_barbara",
    "parents": [
@@ -26123,6 +26473,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_kype_1611",
    "mother": "hamilton_isobel_kypchapel",
    "parents": [
@@ -26182,6 +26533,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
    "parents": [
@@ -26247,6 +26599,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_jr",
    "mother": "hamilton_catherine",
    "parents": [
@@ -26303,6 +26656,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_kype_1611",
    "mother": "hamilton_isobel_kypchapel",
    "parents": [
@@ -26362,6 +26716,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -26428,6 +26783,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_samuel_f",
    "mother": "rieker_mary_elizabeth",
    "parents": [
@@ -26488,6 +26844,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -26550,6 +26907,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -26619,6 +26977,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -26687,6 +27046,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
    "parents": [
@@ -26750,6 +27110,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -26814,6 +27175,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_gavin_kype_1649",
    "mother": "hamilton_abigail",
    "parents": [
@@ -26873,6 +27235,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
    "parents": [
@@ -26936,6 +27299,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -27006,6 +27370,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_alexander",
    "mother": "philpott_eleanor",
    "parents": [
@@ -27068,6 +27433,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -27152,6 +27518,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_thomas_w",
    "mother": null,
    "parents": [
@@ -27214,6 +27581,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -27299,6 +27667,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -27363,6 +27732,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_gavin_kype_1670",
    "mother": null,
    "parents": [
@@ -27474,6 +27844,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_gavin_kype_1649",
    "mother": "hamilton_abigail",
    "parents": [
@@ -27549,6 +27920,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_a_1830",
    "mother": "irwin_emeline",
    "parents": [
@@ -27612,6 +27984,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "hamilton_john_west_kype",
    "mother": "cleland_jean",
    "parents": [
@@ -27675,6 +28048,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "bascom_john_l",
    "mother": "hamilton_mary_a",
    "parents": [
@@ -27741,6 +28115,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_samuel_f",
    "mother": "rieker_mary_elizabeth",
    "parents": [
@@ -27801,6 +28176,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -27872,6 +28248,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -27937,6 +28314,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "young_jacobina",
    "parents": [
@@ -28005,6 +28383,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_thomas_w",
    "mother": "meeks_mary_ann",
    "parents": [
@@ -28076,6 +28455,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_jr",
    "mother": "hamilton_catherine",
    "parents": [
@@ -28138,6 +28518,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_thomas_w",
    "mother": "meeks_mary_ann",
    "parents": [
@@ -28211,6 +28592,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_a_1830",
    "mother": "irwin_emeline",
    "parents": [
@@ -28274,6 +28656,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_thomas_w",
    "mother": "meeks_mary_ann",
    "parents": [
@@ -28351,6 +28734,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_george_w",
    "mother": "hamilton_ann",
    "parents": [
@@ -28425,6 +28809,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis_l",
    "mother": "deane_elizabeth_phebe",
    "parents": [
@@ -28491,6 +28876,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_george_w",
    "mother": "hamilton_ann",
    "parents": [
@@ -28551,6 +28937,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_a_1830",
    "mother": "irwin_emeline",
    "parents": [
@@ -28612,6 +28999,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -28682,6 +29070,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_francis",
    "mother": "hamilton_susan",
    "parents": [
@@ -28753,6 +29142,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "murdoch_barbara",
    "parents": [
@@ -28816,6 +29206,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_alexander",
    "mother": "philpott_eleanor",
    "parents": [
@@ -28896,6 +29287,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "hamilton_john_of_kype",
    "mother": "murdoch_barbara",
    "parents": [
@@ -28961,6 +29353,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29029,6 +29422,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29088,6 +29482,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29151,6 +29546,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29210,6 +29606,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29273,6 +29670,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29333,6 +29731,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29390,6 +29789,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29445,6 +29845,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29501,6 +29902,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29562,6 +29964,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29619,6 +30022,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29673,6 +30077,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29735,6 +30140,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "henley_austin",
    "mother": "henley_kayla",
    "parents": [
@@ -29796,6 +30202,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_ed",
    "mother": "simons_kim",
    "parents": [
@@ -29867,6 +30274,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "henley_austin",
    "mother": "henley_kayla",
    "parents": [
@@ -29921,6 +30329,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -29977,6 +30386,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30045,6 +30455,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "hinds_hershel",
    "mother": "goodenough_florence_c",
    "parents": [
@@ -30133,6 +30544,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30193,6 +30605,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30254,6 +30667,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30320,6 +30734,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30377,6 +30792,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30438,6 +30854,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30505,6 +30922,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30569,6 +30987,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "holter_duane",
    "mother": "rhinehart_janet",
    "parents": [
@@ -30629,6 +31048,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "holter_duane",
    "mother": "rhinehart_janet",
    "parents": [
@@ -30687,6 +31107,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30748,6 +31169,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "house_harry",
    "mother": "hamilton_alice_g",
    "parents": [
@@ -30804,6 +31226,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30866,6 +31289,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "house_harry",
    "mother": "hamilton_alice_g",
    "parents": [
@@ -30924,6 +31348,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -30983,6 +31408,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31042,6 +31468,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31101,6 +31528,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31166,6 +31594,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31225,6 +31654,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31291,6 +31721,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31348,6 +31779,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31419,6 +31851,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "charles_buckey_mckeldin",
    "mother": "margaret_peggy_mckeldin",
    "parents": [
@@ -31508,6 +31941,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jacob_richard",
    "mother": "paul_ruth",
    "parents": [
@@ -31569,6 +32003,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jacob_martin_152475179",
    "mother": "rogers_mary",
    "parents": [
@@ -31637,6 +32072,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jacob_thomas",
    "mother": null,
    "parents": [
@@ -31692,6 +32128,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31755,6 +32192,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jacob_martin_152475179",
    "mother": "rogers_mary",
    "parents": [
@@ -31829,6 +32267,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jacob_martin_152475179",
    "mother": "rogers_mary",
    "parents": [
@@ -31892,6 +32331,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -31958,6 +32398,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jarboe_james",
    "mother": "hamilton_eliza_c",
    "parents": [
@@ -32017,6 +32458,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -32077,6 +32519,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jarboe_james",
    "mother": "hamilton_eliza_c",
    "parents": [
@@ -32136,6 +32579,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "j_michael_mckeldin",
    "mother": "shelly_mckeldin",
    "parents": [
@@ -32199,6 +32643,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "chuck_mckeldin",
    "mother": "michelle_mckeldin",
    "parents": [
@@ -32261,6 +32706,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -32335,6 +32781,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_sr",
    "mother": "beryl_simons_adams",
    "parents": [
@@ -32713,6 +33160,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -32782,6 +33230,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jones_reeves_h",
    "mother": "adams_mary_susan",
    "parents": [
@@ -32846,6 +33295,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jorgensen_dan",
    "mother": "goodman_amber",
    "parents": [
@@ -32905,6 +33355,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -32967,6 +33418,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "jorgensen_dan",
    "mother": "goodman_amber",
    "parents": [
@@ -33026,6 +33478,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "kaempfer_anton",
    "mother": "pieritz_wilhelmina",
    "parents": [
@@ -33109,6 +33562,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33168,6 +33622,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33227,6 +33682,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33296,6 +33752,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33353,6 +33810,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33415,6 +33873,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kenoyer_james_fredrick",
    "mother": "kulp_dorothy_belle",
    "parents": [
@@ -33478,6 +33937,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kenoyer_james_fredrick",
    "mother": "kulp_dorothy_belle",
    "parents": [
@@ -33543,6 +34003,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33612,6 +34073,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kenoyer_james_fredrick",
    "mother": "kulp_dorothy_belle",
    "parents": [
@@ -33676,6 +34138,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33736,6 +34199,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kenoyer_james_fredrick",
    "mother": "kulp_dorothy_belle",
    "parents": [
@@ -33798,6 +34262,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33853,6 +34318,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33909,6 +34375,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -33974,6 +34441,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -34032,6 +34500,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -34115,6 +34584,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -34187,6 +34657,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kolb_peter",
    "mother": "oberholtzer_elizabeth",
    "parents": [
@@ -34246,6 +34717,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kolb_peter",
    "mother": "oberholtzer_elizabeth",
    "parents": [
@@ -34305,6 +34777,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kolb_dielman_edward",
    "mother": "schumacher_agnes",
    "parents": [
@@ -34379,6 +34852,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kolb_peter",
    "mother": "oberholtzer_elizabeth",
    "parents": [
@@ -34452,6 +34926,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kolb_henry",
    "mother": "fretz_barbara",
    "parents": [
@@ -34523,6 +34998,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -34593,6 +35069,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kolb_jacob_oberholtzer",
    "mother": "clemens_mary_bachman",
    "parents": [
@@ -34664,6 +35141,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -34742,6 +35220,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -34821,6 +35300,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_spencer_ritchey",
    "mother": null,
    "parents": [
@@ -34882,6 +35362,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_spencer_ritchey",
    "mother": null,
    "parents": [
@@ -34945,6 +35426,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -35038,6 +35520,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -35145,6 +35628,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -35226,6 +35710,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -35324,6 +35809,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_nardin_ira",
    "mother": "kulp_nellie",
    "parents": [
@@ -35384,6 +35870,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_abraham_clemens",
    "mother": null,
    "parents": [
@@ -35459,6 +35946,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_michael_nicholas",
    "mother": "vancel_sarah",
    "parents": [
@@ -35521,6 +36009,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_michael_nicholas",
    "mother": "vancel_sarah",
    "parents": [
@@ -35582,6 +36071,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_elmer_spencer",
    "mother": "ritchey_amy",
    "parents": [
@@ -35673,6 +36163,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_michael_nicholas",
    "mother": "vancel_sarah",
    "parents": [
@@ -35783,6 +36274,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -35862,6 +36354,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_michael_nicholas",
    "mother": "vancel_sarah",
    "parents": [
@@ -35922,6 +36415,7 @@
     "kulp"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_ephraim",
    "mother": "confer_maria_catharina",
    "parents": [
@@ -36021,6 +36515,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -36108,6 +36603,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -36174,6 +36670,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -36261,6 +36758,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "kulp_john_jacob",
    "mother": "mcphail_mary_emily",
    "parents": [
@@ -36341,6 +36839,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "kulp_elmer_spencer",
    "mother": "ritchey_amy",
    "parents": [
@@ -36415,6 +36914,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "rogers_arlene",
    "parents": [
@@ -36475,6 +36975,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "rogers_arlene",
    "parents": [
@@ -36535,6 +37036,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "lane_john_s",
    "mother": null,
    "parents": [
@@ -36625,6 +37127,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -36694,6 +37197,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -36753,6 +37257,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -36823,6 +37328,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "brian_john_adams",
    "mother": "michelle_ellis_adams",
    "parents": [
@@ -36896,6 +37402,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -36959,6 +37466,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37016,6 +37524,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37075,6 +37584,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37132,6 +37642,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37196,6 +37707,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "rogers_minnie",
    "parents": [
@@ -37253,6 +37765,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37310,6 +37823,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37376,6 +37890,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": true,
    "father": "lynn_john_joseph",
    "mother": "montgomery_charlotte_ann",
    "parents": [
@@ -37470,6 +37985,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37531,6 +38047,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37592,6 +38109,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mann_rolla_w",
    "mother": "mann_f_iona",
    "parents": [
@@ -37646,6 +38164,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37713,6 +38232,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mann_james_m",
    "mother": "hamilton_nancy_jane",
    "parents": [
@@ -37773,6 +38293,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mann_james_m",
    "mother": "hamilton_nancy_jane",
    "parents": [
@@ -37839,6 +38360,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -37908,6 +38430,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -38007,6 +38530,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -38062,6 +38586,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -38121,6 +38646,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "martin_kaleb",
    "mother": "devaw_louisa_woods",
    "parents": [
@@ -38208,6 +38734,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -38271,6 +38798,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -38338,6 +38866,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "ivo_john_obad",
    "mother": "susan_obad",
    "parents": [
@@ -38395,6 +38924,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -38453,6 +38983,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -38520,6 +39051,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -38579,6 +39111,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -38657,6 +39190,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -38755,6 +39289,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_theodore_roosevelt",
    "mother": "manzer_honolulu_claire",
    "parents": [
@@ -38815,6 +39350,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -38880,6 +39416,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_joseph",
    "mother": "sinclair_mary",
    "parents": [
@@ -38962,6 +39499,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -39027,6 +39565,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -39092,6 +39631,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -39170,6 +39710,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -39238,6 +39779,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -39349,6 +39891,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_john",
    "mother": null,
    "parents": [
@@ -39408,6 +39951,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -39479,6 +40023,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -39555,6 +40100,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -39620,6 +40166,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -39698,6 +40245,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -39765,6 +40313,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -39841,6 +40390,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -39912,6 +40462,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -39977,6 +40528,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -40048,6 +40600,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -40113,6 +40666,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -40178,6 +40732,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_theodore_roosevelt",
    "mother": "manzer_honolulu_claire",
    "parents": [
@@ -40240,6 +40795,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -40379,6 +40935,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -40453,6 +41010,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_james_alfred",
    "mother": "grief_dorothea",
    "parents": [
@@ -40536,6 +41094,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_charles_i",
    "mother": "emma_bell_mckeldin",
    "parents": [
@@ -40603,6 +41162,7 @@
     "mckeldin"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mckeldin_edward_hazelton",
    "mother": "selbe_sophia",
    "parents": [
@@ -40669,6 +41229,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_tate",
    "mother": null,
    "parents": [
@@ -40732,6 +41293,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
    "parents": [
@@ -40800,6 +41362,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_tate",
    "mother": null,
    "parents": [
@@ -40857,6 +41420,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -40921,6 +41485,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_elder",
    "mother": "newman_susannah",
    "parents": [
@@ -41003,6 +41568,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -41073,6 +41639,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
    "parents": [
@@ -41152,6 +41719,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
    "parents": [
@@ -41252,6 +41820,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
    "parents": [
@@ -41325,6 +41894,7 @@
     "mcphail"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "mcphail_john_belle",
    "mother": "ball_ellen_rogers",
    "parents": [
@@ -41390,6 +41960,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -41456,6 +42027,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -41520,6 +42092,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "falde_randy",
    "mother": "olson_kris",
    "parents": [
@@ -41604,6 +42177,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "merithew_harold_romeyn",
    "mother": "decker_cleda_marie",
    "parents": [
@@ -41670,6 +42244,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -41734,6 +42309,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "merithew_harold_romeyn",
    "mother": "decker_cleda_marie",
    "parents": [
@@ -41796,6 +42372,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "merithew_harold_romeyn",
    "mother": "decker_cleda_marie",
    "parents": [
@@ -41859,6 +42436,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "merithew_harold_romeyn",
    "mother": "decker_cleda_marie",
    "parents": [
@@ -41923,6 +42501,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42007,6 +42586,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42072,6 +42652,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42142,6 +42723,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42203,6 +42785,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42257,6 +42840,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42311,6 +42895,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42365,6 +42950,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42419,6 +43005,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42484,6 +43071,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42544,6 +43132,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42602,6 +43191,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "odell_louise",
    "parents": [
@@ -42655,6 +43245,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42714,6 +43305,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42776,6 +43368,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42837,6 +43430,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42894,6 +43488,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -42951,6 +43546,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43009,6 +43605,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43071,6 +43668,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43130,6 +43728,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43195,6 +43794,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "odell_ralph",
    "mother": "wells_rosemary",
    "parents": [
@@ -43253,6 +43853,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43315,6 +43916,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43373,6 +43975,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43436,6 +44039,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_thomas_mikkel_elder",
    "mother": "olson_clara",
    "parents": [
@@ -43502,6 +44106,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -43562,6 +44167,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_carroll",
    "mother": "olson_wilma",
    "parents": [
@@ -43621,6 +44227,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_carroll",
    "mother": "olson_wilma",
    "parents": [
@@ -43680,6 +44287,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_carroll",
    "mother": "olson_wilma",
    "parents": [
@@ -43739,6 +44347,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rosgen_john",
    "mother": "olson_kari",
    "parents": [
@@ -43795,6 +44404,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_tom",
    "mother": "olson_bonnie",
    "parents": [
@@ -43862,6 +44472,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_tom_umpa",
    "mother": "dickpeddie_rosemary",
    "parents": [
@@ -43930,6 +44541,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_nels",
    "mother": "kirk_faith",
    "parents": [
@@ -43984,6 +44596,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_tom",
    "mother": "olson_bonnie",
    "parents": [
@@ -44047,6 +44660,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_unknown_father",
    "mother": null,
    "parents": [
@@ -44104,6 +44718,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_tom_umpa",
    "mother": "dickpeddie_rosemary",
    "parents": [
@@ -44167,6 +44782,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_unknown_father",
    "mother": null,
    "parents": [
@@ -44233,6 +44849,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_tom_umpa",
    "mother": "dickpeddie_rosemary",
    "parents": [
@@ -44305,6 +44922,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_thomas_mikkel_elder",
    "mother": "olson_clara",
    "parents": [
@@ -44378,6 +44996,7 @@
     "olson"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "olson_tom",
    "mother": "olson_bonnie",
    "parents": [
@@ -44441,6 +45060,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -44497,6 +45117,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -44570,6 +45191,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "brendan_mckeldin_adams",
    "mother": "megan_marie_adams",
    "parents": [
@@ -44641,6 +45263,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -44703,6 +45326,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "oxenger_richard",
    "mother": "forester_betty_joyce",
    "parents": [
@@ -44761,6 +45385,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "oxenger_richard",
    "mother": "forester_betty_joyce",
    "parents": [
@@ -44817,6 +45442,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -44879,6 +45505,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -44938,6 +45565,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -44996,6 +45624,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45055,6 +45684,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45114,6 +45744,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45175,6 +45806,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "pence_kary",
    "mother": "rogers_orpha",
    "parents": [
@@ -45234,6 +45866,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45292,6 +45925,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45360,6 +45994,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "pfander_joseph_v",
    "mother": "douthit_mary_c",
    "parents": [
@@ -45428,6 +46063,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45492,6 +46128,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45551,6 +46188,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45621,6 +46259,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45678,6 +46317,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45741,6 +46381,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45808,6 +46449,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45864,6 +46506,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45926,6 +46569,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -45986,6 +46630,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "pugh_alexander",
    "mother": null,
    "parents": [
@@ -46055,6 +46700,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -46113,6 +46759,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -46178,6 +46825,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -46250,6 +46898,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quin_james_mcgeer",
    "mother": "mooney_sarah",
    "parents": [
@@ -46338,6 +46987,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -46404,6 +47054,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -46478,6 +47129,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -46577,6 +47229,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_jr",
    "mother": "hogan_joan_patricia",
    "parents": [
@@ -46639,6 +47292,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_jr",
    "mother": "hogan_joan_patricia",
    "parents": [
@@ -46703,6 +47357,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -46820,6 +47475,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -46911,6 +47567,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -46979,6 +47636,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -47047,6 +47705,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47172,6 +47831,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_jr",
    "mother": "hogan_joan_patricia",
    "parents": [
@@ -47237,6 +47897,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_joseph",
    "mother": "quinn_marie_ellinghaus",
    "parents": [
@@ -47329,6 +47990,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_bernard",
    "mother": "lynn_emily_mariam",
    "parents": [
@@ -47397,6 +48059,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "quinn_john_jr",
    "mother": "hogan_joan_patricia",
    "parents": [
@@ -47457,6 +48120,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47511,6 +48175,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47568,6 +48233,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47627,6 +48293,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47689,6 +48356,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47743,6 +48411,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47799,6 +48468,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "revty_walter_g",
    "mother": "quinn_pat",
    "parents": [
@@ -47857,6 +48527,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "revty_walter_g",
    "mother": "quinn_pat",
    "parents": [
@@ -47913,6 +48584,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -47984,6 +48656,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rhinehart_les",
    "mother": "simons_elaine_deretha",
    "parents": [
@@ -48060,6 +48733,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rhinehart_les",
    "mother": "simons_elaine_deretha",
    "parents": [
@@ -48138,6 +48812,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48212,6 +48887,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48269,6 +48945,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48334,6 +49011,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48395,6 +49073,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rhinehart_jerry",
    "mother": null,
    "parents": [
@@ -48451,6 +49130,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48512,6 +49192,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48590,6 +49271,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48651,6 +49333,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_harris",
    "mother": "gibson_sarah",
    "parents": [
@@ -48720,6 +49403,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_harris",
    "mother": "gibson_sarah",
    "parents": [
@@ -48784,6 +49468,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_edwin",
    "mother": "lazenby_grace",
    "parents": [
@@ -48843,6 +49528,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -48910,6 +49596,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_charles_t",
    "mother": "simons_sarah_1844",
    "parents": [
@@ -48981,6 +49668,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_charles_t",
    "mother": "simons_sarah_1844",
    "parents": [
@@ -49065,6 +49753,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_edwin",
    "mother": "lazenby_grace",
    "parents": [
@@ -49129,6 +49818,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_edwin",
    "mother": "crummay_eva",
    "parents": [
@@ -49202,6 +49892,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_charles_t",
    "mother": "simons_sarah_1844",
    "parents": [
@@ -49266,6 +49957,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_harris",
    "mother": "gibson_sarah",
    "parents": [
@@ -49336,6 +50028,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_edwin",
    "mother": "lazenby_grace",
    "parents": [
@@ -49412,6 +50105,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_sanford",
    "mother": "hovarter_sarah",
    "parents": [
@@ -49476,6 +50170,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_harris",
    "mother": "gibson_sarah",
    "parents": [
@@ -49552,6 +50247,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_charles_t",
    "mother": "simons_sarah_1844",
    "parents": [
@@ -49628,6 +50324,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_edwin",
    "mother": "lazenby_grace",
    "parents": [
@@ -49700,6 +50397,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -49762,6 +50460,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_edwin",
    "mother": "lazenby_grace",
    "parents": [
@@ -49832,6 +50531,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_edwin",
    "mother": "crummay_eva",
    "parents": [
@@ -49893,6 +50593,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_charles_t",
    "mother": "simons_sarah_1844",
    "parents": [
@@ -49968,6 +50669,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_charles_t",
    "mother": "simons_sarah_1844",
    "parents": [
@@ -50044,6 +50746,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rogers_harris",
    "mother": "gibson_sarah",
    "parents": [
@@ -50116,6 +50819,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rohr_william",
    "mother": "rogers_pauline",
    "parents": [
@@ -50174,6 +50878,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -50235,6 +50940,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -50292,6 +50998,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -50357,6 +51064,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -50421,6 +51129,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -50483,6 +51192,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -50548,6 +51258,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -50613,6 +51324,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -50678,6 +51390,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -50743,6 +51456,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -50808,6 +51522,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -50873,6 +51588,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -50938,6 +51654,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -51001,6 +51718,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -51070,6 +51788,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "ryan_rudolph",
    "mother": "hamilton_eleanor",
    "parents": [
@@ -51140,6 +51859,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -51204,6 +51924,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sawyer_benjamin_jr",
    "mother": "groves_dorothy_helen",
    "parents": [
@@ -51279,6 +52000,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sawyer_benjamin_iii",
    "mother": null,
    "parents": [
@@ -51337,6 +52059,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -51398,6 +52121,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sawyer_benjamin_iii",
    "mother": null,
    "parents": [
@@ -51454,6 +52178,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -51511,6 +52236,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sawyer_benjamin_iii",
    "mother": null,
    "parents": [
@@ -51569,6 +52295,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -51630,6 +52357,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -51687,6 +52415,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -51749,6 +52478,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "schlasberger_joseph",
    "mother": "schruefer_margaretha",
    "parents": [
@@ -51837,6 +52567,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "schriefer_bartholomew",
    "mother": "denzlein_margaret",
    "parents": [
@@ -51939,6 +52670,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "schriefer_george_goode",
    "mother": "ethel_quinn_schriefer",
    "parents": [
@@ -52000,6 +52732,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -52067,6 +52800,7 @@
     "schriefer"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "schriefer_george_goode",
    "mother": "ethel_quinn_schriefer",
    "parents": [
@@ -52133,6 +52867,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -52192,6 +52927,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -52257,6 +52993,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "scott_howard_e",
    "mother": "billingslea_frances_fern",
    "parents": [
@@ -52314,6 +53051,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -52381,6 +53119,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -52435,6 +53174,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -52504,6 +53244,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "seavy_jack_frederick",
    "mother": "allen_margaret_jeanice",
    "parents": [
@@ -52572,6 +53313,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "seavy_jack_frederick",
    "mother": "allen_margaret_jeanice",
    "parents": [
@@ -52640,6 +53382,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "seavy_jack_frederick",
    "mother": "allen_margaret_jeanice",
    "parents": [
@@ -52707,6 +53450,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "seeley_frank_pierce",
    "mother": "adams_minnie_f",
    "parents": [
@@ -52770,6 +53514,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "seeley_frank_pierce",
    "mother": "adams_minnie_f",
    "parents": [
@@ -52836,6 +53581,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "seeley_frank_pierce",
    "mother": "adams_minnie_f",
    "parents": [
@@ -52899,6 +53645,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -52965,6 +53712,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -53033,6 +53781,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -53092,6 +53841,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -53152,6 +53902,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "shoush_william",
    "mother": "willoughby_susanna",
    "parents": [
@@ -53220,6 +53971,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -53283,6 +54035,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -53400,6 +54153,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_george_a",
    "mother": "mcclain_sophronia",
    "parents": [
@@ -53467,6 +54221,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_billy",
    "mother": null,
    "parents": [
@@ -53535,6 +54290,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_glen",
    "mother": "simons_mary",
    "parents": [
@@ -53612,6 +54368,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -53695,6 +54452,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_george_a",
    "mother": "mcclain_sophronia",
    "parents": [
@@ -53759,6 +54517,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_rodney",
    "mother": "simons_pamela",
    "parents": [
@@ -53818,6 +54577,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_carl_ray",
    "mother": null,
    "parents": [
@@ -53882,6 +54642,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_aaron",
    "mother": "simons_harriet_hattie",
    "parents": [
@@ -53977,6 +54738,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -54043,6 +54805,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_orval_keith",
    "mother": "simons_irene",
    "parents": [
@@ -54115,6 +54878,7 @@
     "simons"
    ],
    "adopted": true,
+   "unproven": false,
    "father": "simons_raymond_elmer",
    "mother": "hardy_wilma",
    "parents": [
@@ -54181,6 +54945,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_donald",
    "mother": null,
    "parents": [
@@ -54240,6 +55005,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_elmer_henry",
    "mother": "isenhower_edna",
    "parents": [
@@ -54311,6 +55077,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_elmer_henry",
    "mother": "isenhower_edna",
    "parents": [
@@ -54383,6 +55150,7 @@
     "simons"
    ],
    "adopted": true,
+   "unproven": false,
    "father": "simons_raymond_elmer",
    "mother": "hardy_wilma",
    "parents": [
@@ -54448,6 +55216,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_conway",
    "mother": "vanhoose_thelma",
    "parents": [
@@ -54506,6 +55275,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_elmer_henry",
    "mother": "isenhower_edna",
    "parents": [
@@ -54583,6 +55353,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_elmer_henry",
    "mother": "isenhower_edna",
    "parents": [
@@ -54658,6 +55429,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_glen",
    "mother": "simons_mary",
    "parents": [
@@ -54734,6 +55506,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -54842,6 +55615,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_richard",
    "mother": "turnipseed_mary_a",
    "parents": [
@@ -54917,6 +55691,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_leroy_scott",
    "mother": null,
    "parents": [
@@ -54974,6 +55749,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_aaron",
    "mother": "simons_harriet_hattie",
    "parents": [
@@ -55046,6 +55822,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -55142,6 +55919,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_aaron",
    "mother": "simons_harriet_hattie",
    "parents": [
@@ -55233,6 +56011,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -55334,6 +56113,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_richard",
    "mother": "vanfossen_mary_ellen",
    "parents": [
@@ -55400,6 +56180,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_george_a",
    "mother": "mcclain_sophronia",
    "parents": [
@@ -55465,6 +56246,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -55550,6 +56332,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "michel_mathias",
    "mother": "eby_barbara_ann",
    "parents": [
@@ -55658,6 +56441,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -55752,6 +56536,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -55843,6 +56628,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -55913,6 +56699,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -55988,6 +56775,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_orval_keith",
    "mother": "simons_irene",
    "parents": [
@@ -56064,6 +56852,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_les",
    "mother": "simons_lenore",
    "parents": [
@@ -56126,6 +56915,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_ed",
    "mother": "simons_kim",
    "parents": [
@@ -56192,6 +56982,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -56263,6 +57054,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_elmer_henry",
    "mother": "isenhower_edna",
    "parents": [
@@ -56334,6 +57126,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -56395,6 +57188,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -56455,6 +57249,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_richard",
    "mother": "turnipseed_mary_a",
    "parents": [
@@ -56533,6 +57328,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_orval_keith",
    "mother": "simons_irene",
    "parents": [
@@ -56610,6 +57406,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_les",
    "mother": "simons_lenore",
    "parents": [
@@ -56673,6 +57470,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_aaron",
    "mother": "simons_harriet_hattie",
    "parents": [
@@ -56764,6 +57562,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -56828,6 +57627,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_donald",
    "mother": "ratkowski_teresa",
    "parents": [
@@ -56895,6 +57695,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "dolan_sheldon_joseph",
    "mother": "hinds_marrion_roma",
    "parents": [
@@ -56977,6 +57778,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": null,
    "parents": [
@@ -57050,6 +57852,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_elmer_henry",
    "mother": "isenhower_edna",
    "parents": [
@@ -57112,6 +57915,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_george_a",
    "mother": "mcclain_sophronia",
    "parents": [
@@ -57174,6 +57978,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -57247,6 +58052,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -57338,6 +58144,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -57428,6 +58235,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -57487,6 +58295,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -57552,6 +58361,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -57643,6 +58453,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": "simons_gertrude_nellie",
    "parents": [
@@ -57792,6 +58603,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_raymond_zell",
    "mother": "kulp_dradie_ellen",
    "parents": [
@@ -57858,6 +58670,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -57957,6 +58770,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_orval_keith",
    "mother": "simons_irene",
    "parents": [
@@ -58040,6 +58854,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -58108,6 +58923,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_henry",
    "mother": "wagner_mary",
    "parents": [
@@ -58204,6 +59020,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -58278,6 +59095,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_carl_ray",
    "mother": null,
    "parents": [
@@ -58341,6 +59159,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "simons_howard",
    "mother": "simons_nancy",
    "parents": [
@@ -58413,6 +59232,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -58470,6 +59290,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -58529,6 +59350,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -58586,6 +59408,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -58642,6 +59465,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "smith_thomas",
    "mother": "hampton_nellie_frances",
    "parents": [
@@ -58708,6 +59532,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -58762,6 +59587,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -58835,6 +59661,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": "smith_thomas",
    "mother": "hampton_nellie_frances",
    "parents": [
@@ -58905,6 +59732,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -58968,6 +59796,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59026,6 +59855,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59087,6 +59917,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "snyder_james",
    "mother": "swift_muriel",
    "parents": [
@@ -59148,6 +59979,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59207,6 +60039,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sparks_william_h_h",
    "mother": "hamilton_phebe_ann",
    "parents": [
@@ -59270,6 +60103,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sparks_william_h_h",
    "mother": "hamilton_phebe_ann",
    "parents": [
@@ -59333,6 +60167,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sparks_william_h_h",
    "mother": "hamilton_phebe_ann",
    "parents": [
@@ -59396,6 +60231,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sparks_william_h_h",
    "mother": "hamilton_phebe_ann",
    "parents": [
@@ -59459,6 +60295,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sparks_william_h_h",
    "mother": "hamilton_phebe_ann",
    "parents": [
@@ -59522,6 +60359,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sparks_william_h_h",
    "mother": "hamilton_phebe_ann",
    "parents": [
@@ -59585,6 +60423,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "sparks_william_h_h",
    "mother": "hamilton_phebe_ann",
    "parents": [
@@ -59646,6 +60485,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59717,6 +60557,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59779,6 +60620,7 @@
     "allen"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59838,6 +60680,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59894,6 +60737,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -59954,6 +60798,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60019,6 +60864,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "stang_bernard_sr",
    "mother": "stang_catherine",
    "parents": [
@@ -60093,6 +60939,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60152,6 +60999,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60211,6 +61059,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60267,6 +61116,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stang_mark",
    "mother": "perusek_dawn",
    "parents": [
@@ -60321,6 +61171,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60380,6 +61231,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stang_bern",
    "mother": "quinn_joan",
    "parents": [
@@ -60452,6 +61304,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stang_john_quinn",
    "mother": "gayhardt_darlene",
    "parents": [
@@ -60512,6 +61365,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stang_john_quinn",
    "mother": "gayhardt_darlene",
    "parents": [
@@ -60570,6 +61424,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stang_mark",
    "mother": "perusek_dawn",
    "parents": [
@@ -60626,6 +61481,7 @@
     "quinn"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "stang_bern",
    "mother": "quinn_joan",
    "parents": [
@@ -60693,6 +61549,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60750,6 +61607,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60804,6 +61662,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60859,6 +61718,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60917,6 +61777,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -60976,6 +61837,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "swan_lewis",
    "mother": null,
    "parents": [
@@ -61039,6 +61901,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -61132,6 +61995,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swan_lewis",
    "mother": "adams_magdalena",
    "parents": [
@@ -61196,6 +62060,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "swan_lewis",
    "mother": null,
    "parents": [
@@ -61258,6 +62123,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -61317,6 +62183,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_lowell",
    "mother": "defenbaugh_grace",
    "parents": [
@@ -61379,6 +62246,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -61442,6 +62310,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_rudolph",
    "mother": "kimble_sarah",
    "parents": [
@@ -61516,6 +62385,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_lowell",
    "mother": "defenbaugh_grace",
    "parents": [
@@ -61577,6 +62447,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_rudolph",
    "mother": "kimble_sarah",
    "parents": [
@@ -61646,6 +62517,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_rudolph",
    "mother": "kimble_sarah",
    "parents": [
@@ -61721,6 +62593,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_rudolph",
    "mother": "kimble_sarah",
    "parents": [
@@ -61792,6 +62665,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_rudolph",
    "mother": "kimble_sarah",
    "parents": [
@@ -61862,6 +62736,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "swift_frank",
    "mother": "fryman_sarah",
    "parents": [
@@ -61931,6 +62806,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -62000,6 +62876,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "george_francis_adams_iv",
    "mother": "anne_marie_bainbridge",
    "parents": [
@@ -62060,6 +62937,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -62117,6 +62995,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "thompson_james",
    "mother": "swift_hazel",
    "parents": [
@@ -62183,6 +63062,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -62245,6 +63125,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "thompson_james",
    "mother": "swift_hazel",
    "parents": [
@@ -62301,6 +63182,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -62357,6 +63239,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -62416,6 +63299,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "trumbo_presley_neville",
    "mother": "buckley_hannah_louise",
    "parents": [
@@ -62484,6 +63368,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "trumbo_presley_neville",
    "mother": "buckley_hannah_louise",
    "parents": [
@@ -62554,6 +63439,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "trumbo_presley_neville",
    "mother": "buckley_hannah_louise",
    "parents": [
@@ -62632,6 +63518,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "trumbo_presley_neville",
    "mother": "buckley_hannah_louise",
    "parents": [
@@ -62700,6 +63587,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "trumbo_presley_neville",
    "mother": "buckley_hannah_louise",
    "parents": [
@@ -62771,6 +63659,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "trumbo_presley_neville_1788",
    "mother": "holmes_susannah",
    "parents": [
@@ -62874,6 +63763,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -62957,6 +63847,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "trumbo_presley_neville",
    "mother": "buckley_hannah_louise",
    "parents": [
@@ -63085,6 +63976,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -63149,6 +64041,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -63214,6 +64107,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -63277,6 +64171,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "urbach_phillip_l",
    "mother": "adams_myrtle_anna",
    "parents": [
@@ -63353,6 +64248,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "urbach_phillip_l",
    "mother": "adams_myrtle_anna",
    "parents": [
@@ -63416,6 +64312,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "urbach_charles_phillip",
    "mother": "owens_ruth_eva",
    "parents": [
@@ -63475,6 +64372,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -63544,6 +64442,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "urbach_charles_phillip",
    "mother": "owens_ruth_eva",
    "parents": [
@@ -63608,6 +64507,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "urbach_phillip_l",
    "mother": "adams_myrtle_anna",
    "parents": [
@@ -63672,6 +64572,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -63740,6 +64641,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": "vancel_valentine",
    "mother": "karnes_elizabeth_rebecca",
    "parents": [
@@ -63816,6 +64718,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -63878,6 +64781,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -63940,6 +64844,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64003,6 +64908,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "van_tine_abraham",
    "mother": "crook_mary",
    "parents": [
@@ -64089,6 +64995,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64155,6 +65062,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64212,6 +65120,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64276,6 +65185,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64357,6 +65267,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "walker_john_william",
    "mother": "hinds_marrion_roma",
    "parents": [
@@ -64418,6 +65329,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64488,6 +65400,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "walker_john_william",
    "mother": "hinds_marrion_roma",
    "parents": [
@@ -64551,6 +65464,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64608,6 +65522,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64663,6 +65578,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64717,6 +65633,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64773,6 +65690,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64830,6 +65748,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64894,6 +65813,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -64975,6 +65895,7 @@
     "trumbo"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "wells_arthur",
    "mother": "trumbo_serena_marie",
    "parents": [
@@ -65051,6 +65972,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wells_arthur",
    "mother": null,
    "parents": [
@@ -65122,6 +66044,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_d_a",
    "mother": "grinnell_serepta_mary",
    "parents": [
@@ -65188,6 +66111,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -65261,6 +66185,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_d_a",
    "mother": "grinnell_serepta_mary",
    "parents": [
@@ -65334,6 +66259,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_melvin",
    "mother": "pfander_dorothy_douthit",
    "parents": [
@@ -65427,6 +66353,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_d_a",
    "mother": "grinnell_serepta_mary",
    "parents": [
@@ -65492,6 +66419,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_d_a",
    "mother": "grinnell_serepta_mary",
    "parents": [
@@ -65557,6 +66485,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_d_a",
    "mother": "grinnell_serepta_mary",
    "parents": [
@@ -65627,6 +66556,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_melvin",
    "mother": "pfander_dorothy_douthit",
    "parents": [
@@ -65700,6 +66630,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_d_a",
    "mother": "grinnell_serepta_mary",
    "parents": [
@@ -65777,6 +66708,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "wheeler_d_a",
    "mother": "grinnell_serepta_mary",
    "parents": [
@@ -65840,6 +66772,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -65908,6 +66841,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "whitney_william_henry_jr",
    "mother": "goodenough_florence_c",
    "parents": [
@@ -65968,6 +66902,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "whitney_william_henry_jr",
    "mother": "goodenough_florence_c",
    "parents": [
@@ -66028,6 +66963,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "whitney_william_henry_jr",
    "mother": "goodenough_florence_c",
    "parents": [
@@ -66090,6 +67026,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66157,6 +67094,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "rogers_lou",
    "parents": [
@@ -66211,6 +67149,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66267,6 +67206,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66328,6 +67268,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66385,6 +67326,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66440,6 +67382,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66498,6 +67441,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66553,6 +67497,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66609,6 +67554,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "worman_henry_149398173",
    "mother": "dawson_lurl",
    "parents": [
@@ -66670,6 +67616,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "worman_henry_149398173",
    "mother": "dawson_lurl",
    "parents": [
@@ -66739,6 +67686,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66804,6 +67752,7 @@
     "simons"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "worman_henry_149398173",
    "mother": "dawson_lurl",
    "parents": [
@@ -66873,6 +67822,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -66930,6 +67880,7 @@
     "hamilton"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "wright_ralph_w",
    "mother": "adams_alice_christiana",
    "parents": [
@@ -66986,6 +67937,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -67043,6 +67995,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -67097,6 +68050,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": "young_john",
    "mother": "simpson_mary",
    "parents": [
@@ -67173,6 +68127,7 @@
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -67232,6 +68187,7 @@
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -67293,6 +68249,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rotter_richard",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -67359,6 +68316,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rotter_richard",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -67423,6 +68381,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": null,
    "parents": [],
@@ -67491,6 +68450,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "zacher_kenneth_donald",
    "mother": null,
    "parents": [
@@ -67551,6 +68511,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rotter_richard",
    "mother": "zacher_kimberly_lynn",
    "parents": [
@@ -67617,6 +68578,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "zacher_donald_adam",
    "mother": "kulp_irmagene",
    "parents": [
@@ -67690,6 +68652,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "zacher_donald_adam",
    "mother": "kulp_irmagene",
    "parents": [
@@ -67776,6 +68739,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "zacher_donald_adam",
    "mother": "kulp_irmagene",
    "parents": [
@@ -67856,6 +68820,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "zacher_kippy_amy",
    "parents": [
@@ -67918,6 +68883,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": null,
    "mother": "zacher_kippy_amy",
    "parents": [
@@ -67980,6 +68946,7 @@
     "zacher"
    ],
    "adopted": false,
+   "unproven": false,
    "father": "rotter_richard",
    "mother": "zacher_kimberly_lynn",
    "parents": [
