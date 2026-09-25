@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-24T23:50:32.446Z",
-  "people": 930,
-  "family_members": 881,
+  "generated": "2026-09-25T00:00:18.119Z",
+  "people": 932,
+  "family_members": 883,
   "dna_matches": 49,
-  "connected_people": 881,
-  "families": 317,
+  "connected_people": 883,
+  "families": 318,
   "branches": [
    "adams",
    "hamilton",
@@ -9964,7 +9964,7 @@
     "She reflects on the environmental changes in her lifetime. She wants to be remembered as someone who improved the lives of others, and for her roles in her family and community, as wife, mother, grandmother and educator."
    ],
    "risk_events": [
-    "Her mother died on 24 Oct 1950, when Barbara was two and a half; she and Chuck went to live at their maternal grandmother's house. After Ethel died on 12 Apr 1952 they moved in with Ethel's brother John Joseph Quinn and his wife Marie Ellinghaus-Quinn on Nicklas Avenue, whose four children were Margaret 'Peggy' (in nursing school), Joan (a telephone operator), and the teenagers John and Pat. Since her mother died so young, and men were not allowed in the delivery room, she grew up hearing no stories about her own birth.",
+    "Her mother died on 24 Oct 1950, when Barbara was two and a half; she and Chuck went to live at their maternal grandmother's house. After Ethel died on 9 Apr 1952 they moved in with Ethel's brother John Joseph Quinn and his wife Marie Ellinghaus-Quinn on Nicklas Avenue, whose four children were Margaret 'Peggy' (in nursing school), Joan (a telephone operator), and the teenagers John and Pat. Since her mother died so young, and men were not allowed in the delivery room, she grew up hearing no stories about her own birth.",
     "The insurance feud: Emily's first husband, Jack Poleman, a naval aviator shot down on D-Day, left a policy naming Emily as beneficiary. Before marrying Buckey she redirected it to her brothers Kenneth and George Schriefer Jr. and never changed it back; after she died in 1950 her brothers took the money, which caused Buckey's lifelong falling-out with his brothers-in-law (memoir pp. 13-14).",
     "As a child she almost bled to death, and rode home from the park with her coat soaked in blood.",
     "Beeville, Texas: the unfinished house they fixed up had wildlife and limited utilities, and she cooked on a one-burner hot plate; she says they survived Hurricane Camille there (see Research notes).",
@@ -9978,7 +9978,7 @@
     "Born 12 Feb 1948 in Baltimore, Maryland, on Abraham Lincoln's birthday; she walked at seven months.",
     "1950, 24 Oct: Her mother, Emily (Schriefer) McKeldin, died, when Barbara was two and a half.",
     "1951, 12 May: Her maternal grandfather, George 'Goode' Schriefer, died.",
-    "1952, 12 Apr: Her maternal grandmother, Ethel (Quinn) Schriefer, died; Barbara and Chuck moved to the Quinn household on Nicklas Avenue.",
+    "1952, 9 Apr: Her maternal grandmother, Ethel (Quinn) Schriefer, died; Barbara and Chuck moved to the Quinn household on Nicklas Avenue.",
     "About 1962: Graduated from eighth grade at St. Dominic's and started at Mercy High School.",
     "1963, 22 Nov: Heard of President Kennedy's assassination in class, as a Mercy High sophomore.",
     "About 1966: Graduated from Mercy High School, took her first job, at Hochschild Kohn, that summer, and started at Towson State College (a timeline gives 1967 for Towson).",
@@ -10099,6 +10099,7 @@
    "notes": [
     "Daughter of Charles 'Buckey' McKeldin and Emily Schriefer McKeldin, and granddaughter of Emma Bell McKeldin. Siblings: Charles 'Chuck' McKeldin Jr. (full) and J. Michael 'Mike' McKeldin (half). Her stepmother, Margaret Quinn, is 'Granny'.",
     "Emily Schriefer's death date, 24 Oct 1950, is confirmed by the memoir (p. 13).",
+    "CORRECTION: her grandmother Ethel (Quinn) Schriefer died on 9 Apr 1952, per her death notice (Baltimore Sun, 10 Apr 1952), not on 12 Apr as the memoir timeline gave.",
     "CORRECTION CONFIRMED: the Miss Maryland 1968 and Miss World USA 1969 titles belong to Paulette Reck, Barbara's Mercy High School classmate, not to Barbara (corrected in the timeline, 18 Apr 2026).",
     "Mercy High dates: she was already a sophomore when JFK was shot in November 1963, so she started as a freshman around fall 1962. 9 Feb 1964 was the Sunday the Beatles appeared on the Ed Sullivan Show; George Harrison and John Lennon visited Mercy High later that week. [Barbara McKeldin Adams, A Memoir, text line 771]",
     "Barbara probably started at Towson State in fall 1966: she was in the Mercy High class that were sophomores in 1963-64, and she got her first job the summer before college. A timeline gives 1967. [Barbara McKeldin Adams, A Memoir, text line 824]",
@@ -35939,7 +35940,8 @@
    "name": "Emily Mariam Lynn (Quinn, Cook)",
    "aliases": [
     "Emily M. Quinn",
-    "Emily Cook"
+    "Emily Cook",
+    "Emily Lynn"
    ],
    "photo": null,
    "card_name": null,
@@ -35949,7 +35951,7 @@
     "census-1930-baltimore-schriefer"
    ],
    "birth": {
-    "text": "1869",
+    "text": "Feb 1869",
     "year": 1869,
     "qualifier": null
    },
@@ -35966,9 +35968,12 @@
     "quinn"
    ],
    "adopted": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "lynn_john_joseph",
+   "mother": "montgomery_charlotte_ann",
+   "parents": [
+    "lynn_john_joseph",
+    "montgomery_charlotte_ann"
+   ],
    "spouses": [
     "quinn_bernard"
    ],
@@ -35986,14 +35991,17 @@
    "families": [
     "F_lynn_emily_mariam+quinn_bernard"
    ],
-   "parent_family": null,
+   "parent_family": "F_lynn_john_joseph+montgomery_charlotte_ann",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Ireland",
     "Harford County, Maryland",
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "Philadelphia, Pennsylvania (arrived 1884)",
+    "Fallston, Harford County, Maryland",
+    "Saint John's Cemetery, Fork, Baltimore County, Maryland"
    ],
    "personality": [],
    "roles": [],
@@ -36009,11 +36017,84 @@
     "Ancestry.com, 1910 United States Federal Census",
     "Ancestry.com, 1930 United States Federal Census",
     "Find a Grave, memorial 222563596",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "The Baltimore County Union (Towson), 6 Jul 1889, p. 3, \"Orange Blossoms for Seventeen\" (marriage licenses issued in June 1889); via Newspapers.com",
+    "Ancestry.com, 1900 United States Federal Census (Fallston, Harford County, Maryland; ED 147, sheet 9, dwelling 164)",
+    "Ancestry.com, Pennsylvania, U.S., Arriving Passenger and Crew Lists, 1798-1962 (ship Phoenician, Philadelphia, 30 Jul 1884; NARA T840, roll 5)",
+    "Find a Grave, memorial 272356009 (Emily Mariam Lynn Quinn Cook, Saint John's Cemetery, Fork, Baltimore County)",
+    "Ancestry.com, Ireland, Select Births and Baptisms, 1620-1911 (Emily Lynn, born 9 Jan 1868, Galgorm, County Antrim; FHL film 101160)"
    ],
    "notes": [
     "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her.",
-    "Died 24 Sep 1937 in Baltimore County (Quinn Family Tree on Ancestry)."
+    "Died 24 Sep 1937 in Baltimore County (Quinn Family Tree on Ancestry).",
+    "Her maiden name is confirmed by the Baltimore County marriage licenses issued in June 1889, which list \"Bernard Quinn to Emily Lynn\" (Baltimore County Union, 6 Jul 1889). The member tree gives the wedding as 6 Aug 1889 at St. John's Catholic Church, Hydes, Baltimore County, and records an adult christening for her there the same day, which would mean she became a Catholic at her marriage.",
+    "In 1900, at Fallston, Harford County, she was 31, born Feb 1869 in Ireland to parents both born in Ireland, married 11 years, and the mother of six children, five of them living; she could read, write and speak English (1900 census).",
+    "Inferred: the Emily Lynn, 15, born in Ireland, who sailed from Glasgow and Moville on the Phoenician and landed at Philadelphia on 30 Jul 1884 (passenger list). No relatives are listed with her.",
+    "Buried at Saint John's Cemetery, Fork, Baltimore County, like her first husband Bernard; her second husband was Ernest P. Cook, who died in 1943 (Find a Grave).",
+    "UNPROVEN: the Quinn Family Tree names her parents as John Joseph Lynn (1834–1892) and Charlotte Ann Montgomery (1842–1906), of Galgorm and Ballymena, County Antrim, from a baptism index entry for an Emily Lynn born 9 Jan 1868 at Galgorm to John Lynn and Charlotte Montgomery. Her own records give Feb 1869, and nothing yet links that baptism to her; her daughter Charlotte Ann's name fits. The same tree also attaches a second Emily Lynn, born 24 Feb 1869 in County Antrim to Robert Lynn and Mary Ann Hanna, whom another tree has marrying Thomas George Stevenson in Ireland in 1890. Her 1937 Maryland death certificate, which should name her parents, would settle it."
+   ]
+  },
+  {
+   "id": "lynn_john_joseph",
+   "name": "John Joseph Lynn",
+   "aliases": [
+    "John Lynn"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1834",
+    "year": 1834,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Mar 1892",
+    "year": 1892,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "montgomery_charlotte_ann"
+   ],
+   "children": [
+    "lynn_emily_mariam"
+   ],
+   "siblings": [],
+   "families": [
+    "F_lynn_john_joseph+montgomery_charlotte_ann"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Galgorm, County Antrim, Ireland",
+    "Ballymena, County Antrim, Ireland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Ireland, Select Births and Baptisms, 1620-1911 (Emily Lynn, born 9 Jan 1868, Galgorm, County Antrim; FHL film 101160)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "UNPROVEN, from the Quinn Family Tree: born 1834 at Galgorm, County Antrim; died 5 Mar 1892 at Ballymena. Named as the father of Emily Lynn, born 9 Jan 1868 at Galgorm (baptism index), whom the tree identifies with Emily Mariam Lynn (Quinn, Cook); that link is not yet proven."
    ]
   },
   {
@@ -40874,6 +40955,68 @@
    ],
    "notes": [
     "Second spouse of George Homer Allen (m. 22 Nov 1972, Las Vegas, NV)."
+   ]
+  },
+  {
+   "id": "montgomery_charlotte_ann",
+   "name": "Charlotte Ann Montgomery (Lynn)",
+   "aliases": [
+    "Charlotte Lynn"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1842",
+    "year": 1842,
+    "qualifier": null
+   },
+   "death": {
+    "text": "4 Feb 1906",
+    "year": 1906,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "lynn_john_joseph"
+   ],
+   "children": [
+    "lynn_emily_mariam"
+   ],
+   "siblings": [],
+   "families": [
+    "F_lynn_john_joseph+montgomery_charlotte_ann"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ballymena, County Antrim, Ireland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Ireland, Select Births and Baptisms, 1620-1911 (Emily Lynn, born 9 Jan 1868, Galgorm, County Antrim; FHL film 101160)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "UNPROVEN, from the Quinn Family Tree: born 1842 at Ballymena, County Antrim; died there on 4 Feb 1906, aged 64. Named as the mother of Emily Lynn, born 9 Jan 1868 at Galgorm (baptism index), whom the tree identifies with Emily Mariam Lynn (Quinn, Cook); that link is not yet proven. The tree thinks the family was Protestant."
    ]
   },
   {
@@ -68019,6 +68162,17 @@
     "quinn_margaret_agatha"
    ],
    "marriage": "6 Aug 1889"
+  },
+  {
+   "id": "F_lynn_john_joseph+montgomery_charlotte_ann",
+   "partners": [
+    "lynn_john_joseph",
+    "montgomery_charlotte_ann"
+   ],
+   "children": [
+    "lynn_emily_mariam"
+   ],
+   "marriage": null
   },
   {
    "id": "F_mann_f_iona+mann_rolla_w",

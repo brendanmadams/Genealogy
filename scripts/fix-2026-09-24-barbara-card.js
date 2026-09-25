@@ -45,7 +45,7 @@ p.milestones = [
   "Born 12 Feb 1948 in Baltimore, Maryland, on Abraham Lincoln's birthday; she walked at seven months.",
   "1950, 24 Oct: Her mother, Emily (Schriefer) McKeldin, died, when Barbara was two and a half.",
   "1951, 12 May: Her maternal grandfather, George 'Goode' Schriefer, died.",
-  "1952, 12 Apr: Her maternal grandmother, Ethel (Quinn) Schriefer, died; Barbara and Chuck moved to the Quinn household on Nicklas Avenue.",
+  "1952, 9 Apr: Her maternal grandmother, Ethel (Quinn) Schriefer, died; Barbara and Chuck moved to the Quinn household on Nicklas Avenue.",
   "About 1962: Graduated from eighth grade at St. Dominic's and started at Mercy High School.",
   "1963, 22 Nov: Heard of President Kennedy's assassination in class, as a Mercy High sophomore.",
   "About 1966: Graduated from Mercy High School, took her first job, at Hochschild Kohn, that summer, and started at Towson State College (a timeline gives 1967 for Towson).",
@@ -122,7 +122,7 @@ p.career = [
 ];
 
 p.risk_events = [
-  "Her mother died on 24 Oct 1950, when Barbara was two and a half; she and Chuck went to live at their maternal grandmother's house. After Ethel died on 12 Apr 1952 they moved in with Ethel's brother John Joseph Quinn and his wife Marie Ellinghaus-Quinn on Nicklas Avenue, whose four children were Margaret 'Peggy' (in nursing school), Joan (a telephone operator), and the teenagers John and Pat. Since her mother died so young, and men were not allowed in the delivery room, she grew up hearing no stories about her own birth.",
+  "Her mother died on 24 Oct 1950, when Barbara was two and a half; she and Chuck went to live at their maternal grandmother's house. After Ethel died on 9 Apr 1952 they moved in with Ethel's brother John Joseph Quinn and his wife Marie Ellinghaus-Quinn on Nicklas Avenue, whose four children were Margaret 'Peggy' (in nursing school), Joan (a telephone operator), and the teenagers John and Pat. Since her mother died so young, and men were not allowed in the delivery room, she grew up hearing no stories about her own birth.",
   "The insurance feud: Emily's first husband, Jack Poleman, a naval aviator shot down on D-Day, left a policy naming Emily as beneficiary. Before marrying Buckey she redirected it to her brothers Kenneth and George Schriefer Jr. and never changed it back; after she died in 1950 her brothers took the money, which caused Buckey's lifelong falling-out with his brothers-in-law (memoir pp. 13-14).",
   "As a child she almost bled to death, and rode home from the park with her coat soaked in blood.",
   "Beeville, Texas: the unfinished house they fixed up had wildlife and limited utilities, and she cooked on a one-burner hot plate; she says they survived Hurricane Camille there (see Research notes).",
@@ -191,6 +191,7 @@ p.notable_stories = [
 p.notes = [
   "Daughter of Charles 'Buckey' McKeldin and Emily Schriefer McKeldin, and granddaughter of Emma Bell McKeldin. Siblings: Charles 'Chuck' McKeldin Jr. (full) and J. Michael 'Mike' McKeldin (half). Her stepmother, Margaret Quinn, is 'Granny'.",
   "Emily Schriefer's death date, 24 Oct 1950, is confirmed by the memoir (p. 13).",
+  "CORRECTION: her grandmother Ethel (Quinn) Schriefer died on 9 Apr 1952, per her death notice (Baltimore Sun, 10 Apr 1952), not on 12 Apr as the memoir timeline gave.",
   "CORRECTION CONFIRMED: the Miss Maryland 1968 and Miss World USA 1969 titles belong to Paulette Reck, Barbara's Mercy High School classmate, not to Barbara (corrected in the timeline, 18 Apr 2026).",
   "Mercy High dates: she was already a sophomore when JFK was shot in November 1963, so she started as a freshman around fall 1962. 9 Feb 1964 was the Sunday the Beatles appeared on the Ed Sullivan Show; George Harrison and John Lennon visited Mercy High later that week. [Barbara McKeldin Adams, A Memoir, text line 771]",
   "Barbara probably started at Towson State in fall 1966: she was in the Mercy High class that were sophomores in 1963-64, and she got her first job the summer before college. A timeline gives 1967. [Barbara McKeldin Adams, A Memoir, text line 824]",

@@ -2,7 +2,7 @@
   "id": "lynn_emily_mariam",
   "name": "Emily Mariam Lynn (Quinn, Cook)",
   "sex": "F",
-  "birth": "1869",
+  "birth": "Feb 1869",
   "death": "24 Sep 1937",
   "personality": [],
   "roles": [],
@@ -15,8 +15,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "montgomery_charlotte_ann",
+    "father": "lynn_john_joseph",
     "siblings": [],
     "spouse": "quinn_bernard",
     "children": [
@@ -33,20 +33,34 @@
   "locations": [
     "Ireland",
     "Harford County, Maryland",
-    "Baltimore, Maryland"
+    "Baltimore, Maryland",
+    "Philadelphia, Pennsylvania (arrived 1884)",
+    "Fallston, Harford County, Maryland",
+    "Saint John's Cemetery, Fork, Baltimore County, Maryland"
   ],
   "sources": [
     "Ancestry.com, 1910 United States Federal Census",
     "Ancestry.com, 1930 United States Federal Census",
     "Find a Grave, memorial 222563596",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "The Baltimore County Union (Towson), 6 Jul 1889, p. 3, \"Orange Blossoms for Seventeen\" (marriage licenses issued in June 1889); via Newspapers.com",
+    "Ancestry.com, 1900 United States Federal Census (Fallston, Harford County, Maryland; ED 147, sheet 9, dwelling 164)",
+    "Ancestry.com, Pennsylvania, U.S., Arriving Passenger and Crew Lists, 1798-1962 (ship Phoenician, Philadelphia, 30 Jul 1884; NARA T840, roll 5)",
+    "Find a Grave, memorial 272356009 (Emily Mariam Lynn Quinn Cook, Saint John's Cemetery, Fork, Baltimore County)",
+    "Ancestry.com, Ireland, Select Births and Baptisms, 1620-1911 (Emily Lynn, born 9 Jan 1868, Galgorm, County Antrim; FHL film 101160)"
   ],
   "notes": [
     "Born in Ireland; wife of Bernard Quinn in 1910 (aged 39). After his death in 1913 she married Earnest Cook; in 1930 they lived with her daughter Ethel and son-in-law George Schriefer on Barclay Street, Baltimore. Her granddaughter Emily Margaret Schriefer was likely named for her.",
-    "Died 24 Sep 1937 in Baltimore County (Quinn Family Tree on Ancestry)."
+    "Died 24 Sep 1937 in Baltimore County (Quinn Family Tree on Ancestry).",
+    "Her maiden name is confirmed by the Baltimore County marriage licenses issued in June 1889, which list \"Bernard Quinn to Emily Lynn\" (Baltimore County Union, 6 Jul 1889). The member tree gives the wedding as 6 Aug 1889 at St. John's Catholic Church, Hydes, Baltimore County, and records an adult christening for her there the same day, which would mean she became a Catholic at her marriage.",
+    "In 1900, at Fallston, Harford County, she was 31, born Feb 1869 in Ireland to parents both born in Ireland, married 11 years, and the mother of six children, five of them living; she could read, write and speak English (1900 census).",
+    "Inferred: the Emily Lynn, 15, born in Ireland, who sailed from Glasgow and Moville on the Phoenician and landed at Philadelphia on 30 Jul 1884 (passenger list). No relatives are listed with her.",
+    "Buried at Saint John's Cemetery, Fork, Baltimore County, like her first husband Bernard; her second husband was Ernest P. Cook, who died in 1943 (Find a Grave).",
+    "UNPROVEN: the Quinn Family Tree names her parents as John Joseph Lynn (1834–1892) and Charlotte Ann Montgomery (1842–1906), of Galgorm and Ballymena, County Antrim, from a baptism index entry for an Emily Lynn born 9 Jan 1868 at Galgorm to John Lynn and Charlotte Montgomery. Her own records give Feb 1869, and nothing yet links that baptism to her; her daughter Charlotte Ann's name fits. The same tree also attaches a second Emily Lynn, born 24 Feb 1869 in County Antrim to Robert Lynn and Mary Ann Hanna, whom another tree has marrying Thomas George Stevenson in Ireland in 1890. Her 1937 Maryland death certificate, which should name her parents, would settle it."
   ],
   "aliases": [
     "Emily M. Quinn",
-    "Emily Cook"
+    "Emily Cook",
+    "Emily Lynn"
   ]
 }
