@@ -26,7 +26,8 @@ export function descendantDepth(D, p, seen = new Set()) {
   if (!p || seen.has(p.id)) return 0;
   seen.add(p.id);
   let d = 0;
-  for (const c of D.children(p)) d = Math.max(d, 1 + descendantDepth(D, c, seen));
+  const kids = [...D.children(p), ...(p.birth_children || []).map(id => D.person(id)).filter(Boolean)];
+  for (const c of kids) d = Math.max(d, 1 + descendantDepth(D, c, seen));
   seen.delete(p.id);
   return d;
 }
@@ -115,7 +116,7 @@ export function layoutDescendants(D, focus, maxGen = 3) {
       links.push({ type: 'branch', from, to: g.kids, lane: i, lanes: groups.length, dashed: !!g.fam.birth });
     });
 
-    if (!expand) n.more = D.children(p).length > 0;
+    if (!expand) n.more = D.children(p).length > 0 || (p.birth_children || []).length > 0;
     return { node: n, top, bottom: cursor };
   }
 
