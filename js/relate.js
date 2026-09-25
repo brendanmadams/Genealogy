@@ -105,7 +105,7 @@ export function bloodDistance(D, aId, bId) {
 export function relate(D, aId, bId) {
   if (aId === bId) return { kind: 'self', text: 'the same person', path: [aId], ancestors: [] };
   const direct = blood(D, aId, bId);
-  if (direct) return { kind: 'blood', text: direct.words, path: direct.path, ancestors: direct.ancestors };
+  if (direct) return { kind: 'blood', text: direct.words, path: shown(D, direct.path), raw: direct.path, ancestors: direct.ancestors };
 
   const aP = partners(D, aId), bP = partners(D, bId), sB = sexOf(D, bId);
   if (aP.includes(bId)) return { kind: 'marriage', text: spouseWord(D, aId, bId), path: [aId, bId], ancestors: [] };
@@ -140,13 +140,18 @@ export function relate(D, aId, bId) {
   }
   if (options.length) {
     const o = options.sort((x, y) => x.score - y.score)[0];
-    return { kind: 'marriage', text: o.text, path: o.path, ancestors: o.ancestors };
+    return { kind: 'marriage', text: o.text, path: shown(D, o.path), raw: o.path, ancestors: o.ancestors };
   }
   // anything else: shortest path over parent, child and spouse links, told step by step
   // ("step-grandparent’s niece or nephew")
   const path = linkPath(D, aId, bId);
   if (!path) return { kind: 'none', text: 'no recorded relationship', path: [], ancestors: [] };
-  return { kind: 'marriage', text: describePath(D, path), path, ancestors: [] };
+  return { kind: 'marriage', text: describePath(D, path), path: shown(D, path), raw: path, ancestors: [] };
+}
+
+/** The chain as shown: siblings side by side, without the parent the route passes through to join them. */
+function shown(D, path) {
+  return path.filter((x, i) => { const kids = D.person(x)?.children || []; return !(i > 0 && i < path.length - 1 && kids.includes(path[i - 1]) && kids.includes(path[i + 1])); });
 }
 
 /** A chain of parent, child and spouse links, told step by step: "brother’s wife’s grandniece". */
@@ -213,7 +218,7 @@ export function otherRoutes(D, aId, bId, max = 2, primary = relate(D, aId, bId))
   if (primary.kind === 'self' || primary.kind === 'none' || primary.path.length < 3) return [];
   // a direct line (grandparent, great-grandchild) needs no side routes
   if (primary.kind === 'blood' && (primary.ancestors.includes(aId) || primary.ancestors.includes(bId))) return [];
-  const main = primary.path, seen = new Set([marriagesOn(D, main)]), out = [];
+  const main = primary.raw || primary.path, seen = new Set([marriagesOn(D, main)]), out = [];
   for (let i = 1; i < main.length - 1; i++) {
     const v = main[i], avoid = new Set([v]);
     const kids = D.person(v)?.children || [];
@@ -223,7 +228,7 @@ export function otherRoutes(D, aId, bId, max = 2, primary = relate(D, aId, bId))
     const key = marriagesOn(D, path);
     if (!key || seen.has(key)) continue;           // blood-only, or the same marriages again
     seen.add(key);
-    out.push({ text: describePath(D, path), path });
+    out.push({ text: describePath(D, path), path: shown(D, path) });
   }
   return out.sort((x, y) => x.path.length - y.path.length).slice(0, max);
 }
