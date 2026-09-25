@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-25T18:06:27.458Z",
-  "people": 960,
-  "family_members": 911,
+  "generated": "2026-09-25T19:57:12.847Z",
+  "people": 961,
+  "family_members": 912,
   "dna_matches": 49,
-  "connected_people": 911,
-  "families": 332,
+  "connected_people": 912,
+  "families": 333,
   "branches": [
    "adams",
    "hamilton",
@@ -2313,7 +2313,8 @@
     "Harpers Ferry, WV",
     "Denver area, Colorado",
     "near Keytesville, Chariton County, Missouri",
-    "Harpers Ferry, Virginia (now West Virginia)"
+    "Harpers Ferry, Virginia (now West Virginia)",
+    "Chariton, Chariton County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -2371,7 +2372,8 @@
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
     "Family letters in Bill Allen’s family document",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Obituary of George Francis Adams, Castle Rock Journal (Castle Rock, Douglas County, Colorado), 12 Aug 1896, p. 4"
+    "Obituary of George Francis Adams, Castle Rock Journal (Castle Rock, Douglas County, Colorado), 12 Aug 1896, p. 4",
+    "FamilySearch, Missouri, County Marriage, Naturalization, and Court Records, 1800-1991 (George F. Adams and Miss Cinthia Lane, Chariton County, 14 Jan 1841, page 64; ark 1:1:WPWL-1VPZ)"
    ],
    "notes": [
     "Siblings listed: Alexander Washington, Magdalena (Margaret), Mary (twin), Harriet Josephine, Susan (twin), and Ursula (twin)",
@@ -2441,7 +2443,7 @@
     "Open question: Which Francis Hamilton wrote the will leaving money to the adolescent George Francis Adams (#1) (email 20)? He is called Eliza's brother and a foundry owner at Harpers Ferry. The tree's Francis Hamilton Jr. died in 1821 when George was about 5, and Francis Alexander Hamilton (d. 1830) is recorded as Gavin's son, not Eliza's brother. [Family research emails, email 20]",
     "Open question: Email 35 gives George Francis Adams (#1)'s birth year as 1817; the tree has 11 May 1816. [Family research emails, email 35, 11]",
     "Open question: Emails 33 and 47: John W. Adams's death certificate gives George F. Adams (#1)'s birthplace as Ohio. The family says it was Harpers Ferry, West Virginia (then Virginia), and believes the informant, Alberta Allen, was guessing. [Family research emails, email 33, 47]",
-    "Open question: no marriage record has been found for George F. Adams (#1) and Cynthia Lane. Their Missouri home is only thought to be Marion, MO, and it is unknown whether Jos. moved to Missouri with them. [Family research emails, email 20]",
+    "Married 14 Jan 1841 in Chariton County, Missouri, recorded as George F. Adams and Miss Cinthia Lane on page 64 of the county register (Missouri county marriage records). This answers the family emails' open question about the marriage record, and fits Bill Allen's view that George reached Chariton County in late 1840 or early 1841; their home was Chariton County, not Marion.",
     "Open question: Email 20 goes straight from George I to George II, 'our grandpa', born in Missouri. Email 38 and the tree put John Wesley Adams between them, making George II a grandson of George I. George II's Missouri birthplace is not confirmed. [Family research emails, email 20, 38]",
     "His obituary, signed \"A Friend\", says he was born in Jefferson County, Virginia; his parents went west in 1833; he went back to Virginia in 1834 and returned to Missouri the same year; fought in the Black Hawk War (printed 1835), enlisted under General Price and Colonel Watson to drive the Mormons from Missouri (printed 1836), and later against the Mexicans to capture Santa Fe; served in the Confederate army under Generals Price, Van Dorn and Magruder; was a large landowner who lived 42 years in Chariton County, Missouri, came to Colorado in 1878 and lived there until his death; his wife died in 1863; he raised his children himself and left four sons and four daughters. [Obituary of George Francis Adams, Castle Rock Journal (Castle Rock, Douglas County, Colorado), 12 Aug 1896, p. 4]",
     "CORRECTION 2026-09-23: Birth changed from 11 May 1816 to 17 May 1816. The clean scan of his 1896 obituary (Ref.pdf) reads \"May 17, 1816\"; 11 May came from the OCR reading of a poorer copy of the same obituary in Bill Allen's document. Decision by Brendan Adams. [Obituary of George Francis Adams, Castle Rock Journal (Castle Rock, Douglas County, Colorado), 12 Aug 1896, p. 4]"
@@ -3148,7 +3150,10 @@
   {
    "id": "adams_henry_a",
    "name": "Henry A Adams",
-   "aliases": [],
+   "aliases": [
+    "Harry Ashby Adams",
+    "Harry A. Adams"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -3159,8 +3164,8 @@
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "28 Jan 1926",
+    "year": 1926,
     "qualifier": null
    },
    "living": false,
@@ -3194,7 +3199,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Chariton County, MO"
+    "Chariton County, MO",
+    "Los Angeles, California"
    ],
    "personality": [],
    "roles": [],
@@ -3209,11 +3215,13 @@
    "career": [],
    "sources": [
     "adams_family_doc_ocr_v1",
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "FamilySearch, California, County Birth and Death Records, 1800-1994 (Harry Ashby Adams, aged 58, died 28 Jan 1926 Los Angeles, document 984; parents Alexander Adams and — Ashby; ark 1:1:QGNM-68Y1)"
    ],
    "notes": [
     "Son of Col. Alexander William Adams and first wife Unknown Ashby (who died c.1868 after childbirth). Source: Adams Family Doc.",
-    "CORRECTION 2026-09-22: Mother set to ashby_unknown by inference (born Jan 1868, before her death in 1868 and before his father's 1871 remarriage)."
+    "CORRECTION 2026-09-22: Mother set to ashby_unknown by inference (born Jan 1868, before her death in 1868 and before his father's 1871 remarriage).",
+    "Inferred: he is the Harry Ashby Adams, aged 58, who died at Los Angeles on 28 Jan 1926, son of Alexander Adams and a mother whose surname is given as Ashby (California county death records, document 984, which also names an Augusta Adams). The age fits his birth in January 1868, and the middle name Ashby confirms his mother's family. Harry is the usual short form of Henry."
    ]
   },
   {
@@ -8435,10 +8443,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "martin_mary_louisa notes: \"first wife Unknown Ashby died 1868\""
+    "martin_mary_louisa notes: \"first wife Unknown Ashby died 1868\"",
+    "FamilySearch, California, County Birth and Death Records, 1800-1994 (Harry Ashby Adams, aged 58, died 28 Jan 1926 Los Angeles, document 984; parents Alexander Adams and — Ashby; ark 1:1:QGNM-68Y1)"
    ],
    "notes": [
-    "CORRECTION 2026-09-22: Stub record created so the first marriage of Col. Alexander William Adams can be represented. Given name unknown. Henry A. Adams (b. Jan 1868) is attributed to her by inference: born before her death in 1868 and before the Colonel's 1871 marriage to Mary Louisa Martin."
+    "CORRECTION 2026-09-22: Stub record created so the first marriage of Col. Alexander William Adams can be represented. Given name unknown. Henry A. Adams (b. Jan 1868) is attributed to her by inference: born before her death in 1868 and before the Colonel's 1871 marriage to Mary Louisa Martin.",
+    "Her surname is confirmed by her son's 1926 Los Angeles death record, which names him Harry Ashby Adams, son of Alexander Adams and an Ashby (California county death records). Her given name is still unknown."
    ]
   },
   {
@@ -28871,10 +28881,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, 1920 United States Federal Census"
+    "Ancestry.com, 1920 United States Federal Census",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Harry H. Harrington and Bertha E. Noyes, Mount Vernon, Skagit County, 24 Oct 1914; ark 1:1:QPMJ-8L4S)",
+    "FamilySearch Family Tree, Bertha E. Simons (LXWM-ZQF), Forest Clifford Noyes (LZLP-2TR) and Harry Henry Harrington (LZ5R-CC4); a shared tree, used as a guide only"
    ],
    "notes": [
-    "Aged 33 in the 1920 census, Precinct 12, Umatilla County, Oregon, with his wife Bertha (33) and her nephew Zell Busey (14). Inferred husband of Bertha Simons."
+    "Aged 33 in the 1920 census, Precinct 12, Umatilla County, Oregon, with his wife Bertha (33) and her nephew Zell Busey (14). Inferred husband of Bertha Simons.",
+    "Married Bertha E. Noyes at Mount Vernon, Skagit County, on 24 Oct 1914 (Washington county marriages), which confirms the 1920 census identification. The FamilySearch tree calls him Harry Henry Harrington, 1887–1959, from a shared tree only."
    ]
   },
   {
@@ -36133,7 +36146,8 @@
    "locations": [
     "Kentucky",
     "Chariton County, MO",
-    "Missouri"
+    "Missouri",
+    "Chariton, Chariton County, Missouri"
    ],
    "personality": [],
    "roles": [],
@@ -36156,7 +36170,8 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
     "Further Research on the Family and Descendants of Joseph P. and Elizabeth (Hamilton) Adams, William W. Allen (February 2012)",
     "Family letters in Bill Allen’s family document",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "FamilySearch, Missouri, County Marriage, Naturalization, and Court Records, 1800-1991 (George F. Adams and Miss Cinthia Lane, Chariton County, 14 Jan 1841, page 64; ark 1:1:WPWL-1VPZ)"
    ],
    "notes": [
     "John Lane = Cynthia Lane's father confirmed. Already in canonical as 'Daughter of John S. Lane' — consistent.",
@@ -36164,7 +36179,7 @@
     "DPBR: mother of four sons and four daughters, all living in 1898. [Bill Allen, Further Research, 2012, line 6958]",
     "Sources disagree: A biographical record says she died in Missouri in 1861; her husband’s obituary implies 1863. [Bill Allen, line 6956]",
     "Open question: The marriage record of George Francis Adams #1 and Cynthia Lane indexes the groom as 'George T.' and misspells Cynthia; the date and place of the marriage are not given in the email text [Family research emails, email 18]",
-    "Open question: no marriage record has been found for George F. Adams (#1) and Cynthia Lane. Their Missouri home is only thought to be Marion, MO, and it is unknown whether Jos. moved to Missouri with them. [Family research emails, email 20]"
+    "Married 14 Jan 1841 in Chariton County, Missouri, recorded as George F. Adams and Miss Cinthia Lane on page 64 of the county register (Missouri county marriage records). This answers the family emails' open question about the marriage record, and fits Bill Allen's view that George reached Chariton County in late 1840 or early 1841; their home was Chariton County, not Marion. She was about 17."
    ]
   },
   {
@@ -37814,7 +37829,8 @@
    "id": "masters_charles_f",
    "name": "Charles F. Masters",
    "aliases": [
-    "Frank C. Masters"
+    "Frank C. Masters",
+    "Charles Frank Masters"
    ],
    "photo": null,
    "card_name": null,
@@ -37853,7 +37869,8 @@
    "priority": "normal",
    "locations": [
     "South Haven, Michigan",
-    "Sacramento, California"
+    "Sacramento, California",
+    "Berrien County, Michigan"
    ],
    "personality": [],
    "roles": [],
@@ -37869,11 +37886,13 @@
     "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
     "Ancestry.com, 1900 United States Federal Census (South Haven, Van Buren County, Michigan; Frank C. Masters, son of Richard F. and Sarah)",
     "Ancestry.com, California, U.S., Death Index, 1905-1939 (Charles F. Masters, 18 May 1928, Sacramento)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Michigan, County Marriages, 1820-1941 (Charles Frank Masters, 23, and Nellie Gertrude Simons, 19, Berrien County, 12 Sep 1898, page 279; parents Richard F. Masters and Sarah A. Prescott; Aron Simons and Hattie Michels; ark 1:1:VN24-M3B)"
    ],
    "notes": [
     "First husband of Gertrude Nellie Simons; they divorced on 17 Dec 1901. The 1900 census lists him as Frank C. Masters, living with his parents at South Haven, Michigan.",
-    "Born Mar 1875 in Michigan, son of Richard F. and Sarah Masters, with whom he lived at South Haven in 1900; died 18 May 1928 at Sacramento, aged 53 (1900 census; California death index). Ed Simons's tree gives 17 Mar 1875 at Watertown, Clinton County, and names him as Raymond Zell Simons's father (UNPROVEN); Raymond's birth register names a \"Ray Simonds\", born in Chicago."
+    "Born Mar 1875 in Michigan, son of Richard F. and Sarah Masters, with whom he lived at South Haven in 1900; died 18 May 1928 at Sacramento, aged 53 (1900 census; California death index). Ed Simons's tree gives 17 Mar 1875 at Watertown, Clinton County, and names him as Raymond Zell Simons's father (UNPROVEN); Raymond's birth register names a \"Ray Simonds\", born in Chicago.",
+    "The Berrien County marriage register (12 Sep 1898, page 279) gives him as Charles Frank Masters, 23, son of Richard F. Masters and Sarah A. Prescott, marrying Nellie Gertrude Simons, 19, daughter of Aron Simons and Hattie Michels (Michigan county marriages)."
    ]
   },
   {
@@ -42602,7 +42621,9 @@
   {
    "id": "noyes_forest",
    "name": "Forest Noyes",
-   "aliases": [],
+   "aliases": [
+    "Forest Clifford Noyes"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -42650,10 +42671,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)",
+    "FamilySearch Family Tree, Bertha E. Simons (LXWM-ZQF), Forest Clifford Noyes (LZLP-2TR) and Harry Henry Harrington (LZ5R-CC4); a shared tree, used as a guide only"
    ],
    "notes": [
-    "Married Bertha Simons at Burlington, Skagit County, on 2 Nov 1902; son of George Noyes and Lottie Smith (Washington county marriages)."
+    "Married Bertha Simons at Burlington, Skagit County, on 2 Nov 1902; son of George Noyes and Lottie Smith (Washington county marriages).",
+    "The FamilySearch tree gives him as Forest Clifford Noyes, 1882–1939, from a shared tree only. Bertha remarried in 1914."
    ]
   },
   {
@@ -53401,24 +53424,27 @@
   },
   {
    "id": "simons_bertha",
-   "name": "Bertha Simons (Noyes, Harrington)",
+   "name": "Bertha E. Simons (Noyes, Harrington, Stuart)",
    "aliases": [
     "Bertha Simons",
     "Bertha Harrington",
-    "Bertha Noyes"
+    "Bertha Noyes",
+    "Bertha E. Simons",
+    "Bertha E. Noyes",
+    "Bertha Stuart"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "Mar 1887",
-    "year": 1887,
+    "text": "4 Mar 1886",
+    "year": 1886,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "24 Sep 1940",
+    "year": 1940,
     "qualifier": null
    },
    "living": false,
@@ -53437,7 +53463,8 @@
    ],
    "spouses": [
     "harrington_harry_h",
-    "noyes_forest"
+    "noyes_forest",
+    "stuart_alfred_a"
    ],
    "children": [],
    "siblings": [
@@ -53447,7 +53474,8 @@
    ],
    "families": [
     "F_harrington_harry_h+simons_bertha",
-    "F_noyes_forest+simons_bertha"
+    "F_noyes_forest+simons_bertha",
+    "F_simons_bertha+stuart_alfred_a"
    ],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
    "connected": true,
@@ -53459,7 +53487,9 @@
     "Umatilla County, Oregon",
     "South Haven, Van Buren County, Michigan",
     "King County, Washington",
-    "Burlington, Skagit County, Washington"
+    "Burlington, Skagit County, Washington",
+    "Mount Vernon, Skagit County, Washington",
+    "Seattle, King County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -53477,14 +53507,19 @@
     "Ancestry.com, 1920 United States Federal Census",
     "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
-    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)",
+    "FamilySearch, Washington, Deaths and Burials, 1810-1960 (Bertha Stuart, died 24 Sep 1940 Seattle, buried 27 Sep 1940; born 4 Mar 1886 Michigan; parents Arron Simons and Hattie Michels; husband Alfred A. Stuart; ark 1:1:HVC6-Z6T2)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Harry H. Harrington and Bertha E. Noyes, Mount Vernon, Skagit County, 24 Oct 1914; ark 1:1:QPMJ-8L4S)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Alfred A. Stuart and Bertha E. Simons, King County, 26 Jan 1933; arks 1:1:QPMV-4G1Y, QPMV-FLHJ)",
+    "FamilySearch Family Tree, Bertha E. Simons (LXWM-ZQF), Forest Clifford Noyes (LZLP-2TR) and Harry Henry Harrington (LZ5R-CC4); a shared tree, used as a guide only"
    ],
    "notes": [
     "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth.",
     "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
-    "UNPROVEN, from Ed Simons's tree: died 24 Sep 1940 in King County, Washington. Not found in the death index under Simons or Harrington.",
+    "Died 24 Sep 1940 at Seattle, aged 54, as Bertha Stuart, housewife, wife of Alfred A. Stuart, and was buried there on 27 Sep; the record gives her birth as 4 Mar 1886 in Michigan and her parents as Arron Simons, born in Ohio, and Hattie Michels, born in Canada (Washington deaths and burials). This confirms the date in Ed Simons's tree, which she was missing from the death index under Simons and Harrington because she died under her third married name. The 1900 census had her birth as Mar 1887.",
     "Ed Simons's tree gives her birthplace as South Haven, Michigan (March 1887), and her death as 24 Sep 1940 in King County.",
-    "Married first Forest Noyes at Burlington, Skagit County, Washington, on 2 Nov 1902 (licence 22 Oct), aged 16, born 1886; the record names her parents Aaron Simons and Hattie Mickles and his parents George Noyes and Lottie Smith (Washington county marriages). This is the earliest record of the family in Washington. Her later husband was Harry H. Harrington."
+    "Married first Forest Noyes at Burlington, Skagit County, Washington, on 2 Nov 1902 (licence 22 Oct), aged 16, born 1886; the record names her parents Aaron Simons and Hattie Mickles and his parents George Noyes and Lottie Smith (Washington county marriages). This is the earliest record of the family in Washington. Her later husband was Harry H. Harrington.",
+    "Married three times in Washington: Forest Noyes at Burlington, Skagit County, 2 Nov 1902; Harry H. Harrington at Mount Vernon, Skagit County, 24 Oct 1914, as Bertha E. Noyes; and Alfred A. Stuart in King County, 26 Jan 1933, under her maiden name (Washington county marriages)."
    ]
   },
   {
@@ -54652,7 +54687,8 @@
    "name": "Gertrude Nellie Simons (Masters, Groves)",
    "aliases": [
     "Nellie G. Simons",
-    "Gertrude Groves"
+    "Gertrude Groves",
+    "Nellie Gertrude Simons"
    ],
    "photo": null,
    "card_name": [
@@ -54729,12 +54765,14 @@
     "Find a Grave, memorial 14101134 (via Ancestry.com, U.S., Find a Grave Index)",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
     "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
-    "FamilySearch, Michigan, County Births, 1867-1917 (Ray Simonds, 14 June 1897, South Haven, Van Buren County)"
+    "FamilySearch, Michigan, County Births, 1867-1917 (Ray Simonds, 14 June 1897, South Haven, Van Buren County)",
+    "FamilySearch, Michigan, County Marriages, 1820-1941 (Charles Frank Masters, 23, and Nellie Gertrude Simons, 19, Berrien County, 12 Sep 1898, page 279; parents Richard F. Masters and Sarah A. Prescott; Aron Simons and Hattie Michels; ark 1:1:VN24-M3B)"
    ],
    "notes": [
     "Born 16 May 1879 in Minnesota, the eldest child of Aaron and Hattie Simons; died 18 Jun 1947 at Winlock, Lewis County, Washington.",
     "Married Charles F. Masters on 12 Sep 1898 at Benton Harbor, Michigan (divorced 17 Dec 1901), then Daniel Harvey \"Dan\" Groves on 8 Sep 1906 at North Yakima, Washington; the 1906 return calls it her first marriage.",
-    "Mother of Raymond Zell Simons, born 14 Jun 1897 at South Haven, when she was 18 and unmarried: the Michigan state and Van Buren County birth registers record him as Ray, son of Gertrude Simonds, born in Minnesota, of Covert. Her parents, Aaron and Harriet Simons, raised him as their son. The registers name the father as \"Ray Simonds\", born in Chicago; he is not identified."
+    "Mother of Raymond Zell Simons, born 14 Jun 1897 at South Haven, when she was 18 and unmarried: the Michigan state and Van Buren County birth registers record him as Ray, son of Gertrude Simonds, born in Minnesota, of Covert. Her parents, Aaron and Harriet Simons, raised him as their son. The registers name the father as \"Ray Simonds\", born in Chicago; he is not identified.",
+    "The Berrien County marriage register (12 Sep 1898, page 279) gives her as Nellie Gertrude Simons, 19, daughter of Aron Simons and Hattie Michels, marrying Charles Frank Masters, 23 (Michigan county marriages)."
    ]
   },
   {
@@ -60369,6 +60407,64 @@
     "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
    ],
    "notes": []
+  },
+  {
+   "id": "stuart_alfred_a",
+   "name": "Alfred A. Stuart",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "spouses": [
+    "simons_bertha"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_simons_bertha+stuart_alfred_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Seattle, King County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Alfred A. Stuart and Bertha E. Simons, King County, 26 Jan 1933; arks 1:1:QPMV-4G1Y, QPMV-FLHJ)",
+    "FamilySearch, Washington, Deaths and Burials, 1810-1960 (Bertha Stuart, died 24 Sep 1940 Seattle, buried 27 Sep 1940; born 4 Mar 1886 Michigan; parents Arron Simons and Hattie Michels; husband Alfred A. Stuart; ark 1:1:HVC6-Z6T2)"
+   ],
+   "notes": [
+    "Married Bertha E. Simons in King County on 26 Jan 1933; her husband at her death in Seattle in 1940 (Washington county marriages; Washington deaths and burials). A marriage of an Alfred A. Stuart to Marie B. Rothwell in King County on 23 Jun 1920 may be his earlier one; not confirmed."
+   ]
   },
   {
    "id": "susan_obad",
@@ -70888,6 +70984,15 @@
     "simons_lola",
     "simons_bertha"
    ],
+   "marriage": null
+  },
+  {
+   "id": "F_simons_bertha+stuart_alfred_a",
+   "partners": [
+    "simons_bertha",
+    "stuart_alfred_a"
+   ],
+   "children": [],
    "marriage": null
   },
   {

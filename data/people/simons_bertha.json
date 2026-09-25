@@ -1,8 +1,8 @@
 {
   "id": "simons_bertha",
-  "name": "Bertha Simons (Noyes, Harrington)",
-  "birth": "Mar 1887",
-  "death": "",
+  "name": "Bertha E. Simons (Noyes, Harrington, Stuart)",
+  "birth": "4 Mar 1886",
+  "death": "24 Sep 1940",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -20,7 +20,8 @@
     "spouse": "harrington_harry_h",
     "children": [],
     "_extra_spouses": [
-      "noyes_forest"
+      "noyes_forest",
+      "stuart_alfred_a"
     ]
   },
   "locations": [
@@ -29,7 +30,9 @@
     "Umatilla County, Oregon",
     "South Haven, Van Buren County, Michigan",
     "King County, Washington",
-    "Burlington, Skagit County, Washington"
+    "Burlington, Skagit County, Washington",
+    "Mount Vernon, Skagit County, Washington",
+    "Seattle, King County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22; named in Raymond Zell Simons's record (\"Siblings listed: Ettie, Lola, Bertha\")",
@@ -37,19 +40,27 @@
     "Ancestry.com, 1920 United States Federal Census",
     "FamilySearch, Michigan, Births, 1867-1902, Van Buren County, item 1, p. 358, no. 4556 (Ray Simonds, 14 Jun 1897, South Haven), with the register images (film 004207534, images 474 and 476)",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
-    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)"
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Forest Noyes and Bertha Simons, Burlington, Skagit County, 2 Nov 1902; licence 22 Oct 1902; arks 1:1:QPMN-B457, QPMR-C8GR)",
+    "FamilySearch, Washington, Deaths and Burials, 1810-1960 (Bertha Stuart, died 24 Sep 1940 Seattle, buried 27 Sep 1940; born 4 Mar 1886 Michigan; parents Arron Simons and Hattie Michels; husband Alfred A. Stuart; ark 1:1:HVC6-Z6T2)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Harry H. Harrington and Bertha E. Noyes, Mount Vernon, Skagit County, 24 Oct 1914; ark 1:1:QPMJ-8L4S)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Alfred A. Stuart and Bertha E. Simons, King County, 26 Jan 1933; arks 1:1:QPMV-4G1Y, QPMV-FLHJ)",
+    "FamilySearch Family Tree, Bertha E. Simons (LXWM-ZQF), Forest Clifford Noyes (LZLP-2TR) and Harry Henry Harrington (LZ5R-CC4); a shared tree, used as a guide only"
   ],
   "notes": [
     "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth.",
     "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
-    "UNPROVEN, from Ed Simons's tree: died 24 Sep 1940 in King County, Washington. Not found in the death index under Simons or Harrington.",
+    "Died 24 Sep 1940 at Seattle, aged 54, as Bertha Stuart, housewife, wife of Alfred A. Stuart, and was buried there on 27 Sep; the record gives her birth as 4 Mar 1886 in Michigan and her parents as Arron Simons, born in Ohio, and Hattie Michels, born in Canada (Washington deaths and burials). This confirms the date in Ed Simons's tree, which she was missing from the death index under Simons and Harrington because she died under her third married name. The 1900 census had her birth as Mar 1887.",
     "Ed Simons's tree gives her birthplace as South Haven, Michigan (March 1887), and her death as 24 Sep 1940 in King County.",
-    "Married first Forest Noyes at Burlington, Skagit County, Washington, on 2 Nov 1902 (licence 22 Oct), aged 16, born 1886; the record names her parents Aaron Simons and Hattie Mickles and his parents George Noyes and Lottie Smith (Washington county marriages). This is the earliest record of the family in Washington. Her later husband was Harry H. Harrington."
+    "Married first Forest Noyes at Burlington, Skagit County, Washington, on 2 Nov 1902 (licence 22 Oct), aged 16, born 1886; the record names her parents Aaron Simons and Hattie Mickles and his parents George Noyes and Lottie Smith (Washington county marriages). This is the earliest record of the family in Washington. Her later husband was Harry H. Harrington.",
+    "Married three times in Washington: Forest Noyes at Burlington, Skagit County, 2 Nov 1902; Harry H. Harrington at Mount Vernon, Skagit County, 24 Oct 1914, as Bertha E. Noyes; and Alfred A. Stuart in King County, 26 Jan 1933, under her maiden name (Washington county marriages)."
   ],
   "aliases": [
     "Bertha Simons",
     "Bertha Harrington",
-    "Bertha Noyes"
+    "Bertha Noyes",
+    "Bertha E. Simons",
+    "Bertha E. Noyes",
+    "Bertha Stuart"
   ],
   "sex": "F"
 }

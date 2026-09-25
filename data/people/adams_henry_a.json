@@ -2,7 +2,7 @@
   "id": "adams_henry_a",
   "name": "Henry A Adams",
   "birth": "January 1868",
-  "death": "",
+  "death": "28 Jan 1926",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -24,16 +24,22 @@
     ]
   },
   "locations": [
-    "Chariton County, MO"
+    "Chariton County, MO",
+    "Los Angeles, California"
   ],
   "sources": [
     "adams_family_doc_ocr_v1",
-    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
+    "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)",
+    "FamilySearch, California, County Birth and Death Records, 1800-1994 (Harry Ashby Adams, aged 58, died 28 Jan 1926 Los Angeles, document 984; parents Alexander Adams and — Ashby; ark 1:1:QGNM-68Y1)"
   ],
   "notes": [
     "Son of Col. Alexander William Adams and first wife Unknown Ashby (who died c.1868 after childbirth). Source: Adams Family Doc.",
-    "CORRECTION 2026-09-22: Mother set to ashby_unknown by inference (born Jan 1868, before her death in 1868 and before his father's 1871 remarriage)."
+    "CORRECTION 2026-09-22: Mother set to ashby_unknown by inference (born Jan 1868, before her death in 1868 and before his father's 1871 remarriage).",
+    "Inferred: he is the Harry Ashby Adams, aged 58, who died at Los Angeles on 28 Jan 1926, son of Alexander Adams and a mother whose surname is given as Ashby (California county death records, document 984, which also names an Augusta Adams). The age fits his birth in January 1868, and the middle name Ashby confirms his mother's family. Harry is the usual short form of Henry."
   ],
-  "aliases": [],
+  "aliases": [
+    "Harry Ashby Adams",
+    "Harry A. Adams"
+  ],
   "sex": "M"
 }
