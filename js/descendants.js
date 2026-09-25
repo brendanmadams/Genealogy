@@ -49,7 +49,9 @@ export function layoutDescendants(D, focus, maxGen = 3) {
     const fams = D.partnerFamilies(p);
     const withPartner = fams.filter(f => f.partners.length === 2);
     const solo = fams.filter(f => f.partners.length === 1 && f.children.length);
-    return [...withPartner, ...solo];
+    // children given up for adoption hang from the birth parent on a dashed line
+    const birth = p.birth_children?.length ? [{ id: `birth-${p.id}`, partners: [p.id], children: p.birth_children, birth: true }] : [];
+    return [...withPartner, ...solo, ...birth];
   }
 
   function place(p, gen, number) {
@@ -79,6 +81,7 @@ export function layoutDescendants(D, focus, maxGen = 3) {
         const kids = byBirth(f.children.map(id => D.person(id)).filter(Boolean));
         if (!kids.length) continue;
         const kidNodes = kids.map(k => place(k, gen + 1, `${number}.${++childNo}`).node);
+        if (f.birth) kidNodes.forEach(k => { k.birthChild = true; });
         groups.push({ fam: f, kids: kidNodes });
       }
     }
@@ -109,7 +112,7 @@ export function layoutDescendants(D, focus, maxGen = 3) {
     groups.forEach((g, i) => {
       const src = tagNodes.get(g.fam.id);
       const from = src ? { x: src.x + src.w / 2, y: src.y } : { x: x + CARD.w / 2, y: n.y };
-      links.push({ type: 'branch', from, to: g.kids, lane: i, lanes: groups.length });
+      links.push({ type: 'branch', from, to: g.kids, lane: i, lanes: groups.length, dashed: !!g.fam.birth });
     });
 
     if (!expand) n.more = D.children(p).length > 0;

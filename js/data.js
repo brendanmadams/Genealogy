@@ -36,18 +36,38 @@ export function indexFamily(F) {
     parents(p) { return (p.parents || []).map(id => people.get(id)).filter(Boolean); },
     /** Full siblings from the same family, plus half siblings via either parent. */
     siblings(p) {
-      const full = (p.siblings || []).map(id => people.get(id)).filter(Boolean);
-      const seen = new Set([p.id, ...full.map(s => s.id)]);
-      const half = [];
+      // A sibling reached through a parent who adopted either of them is an
+      // adoptive sibling, not blood; blood half siblings of an adopted person
+      // come through the birth parents instead.
+      const viaAdoption = (s, parId) => (p.adopted && (p.parents || []).includes(parId)) || (s.adopted && (s.parents || []).includes(parId));
+      const full = [], adoptive = [], half = [];
+      const seen = new Set([p.id]);
+      for (const id of p.siblings || []) {
+        const s = people.get(id); if (!s) continue;
+        seen.add(id);
+        (p.adopted || s.adopted ? adoptive : full).push(s);
+      }
       for (const parId of p.parents || []) {
         const par = people.get(parId);
         for (const fid of par?.families || []) {
           for (const cid of families.get(fid)?.children || []) {
-            if (!seen.has(cid)) { seen.add(cid); half.push(people.get(cid)); }
+            const s = people.get(cid);
+            if (!s || seen.has(cid)) continue;
+            seen.add(cid);
+            (viaAdoption(s, parId) ? adoptive : half).push(s);
           }
         }
       }
-      return { full: byBirth(full), half: byBirth(half.filter(Boolean)) };
+      for (const bpId of p.birth_parents || []) {
+        const bp = people.get(bpId);
+        for (const cid of [...(bp?.children || []), ...(bp?.birth_children || [])]) {
+          const s = people.get(cid);
+          if (!s || seen.has(cid)) continue;
+          seen.add(cid);
+          half.push(s);
+        }
+      }
+      return { full: byBirth(full), half: byBirth(half), adoptive: byBirth(adoptive) };
     },
     children(p) { return byBirth((p.children || []).map(id => people.get(id)).filter(Boolean)); },
 

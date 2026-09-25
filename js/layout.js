@@ -50,14 +50,17 @@ export function layoutFocus(D, focus) {
   }
 
   const sibs = D.siblings(focus);
-  const sibList = [...sibs.full.map(s => [s, false]), ...sibs.half.map(s => [s, true])];
+  // Blood half siblings through a birth parent are not on this chart (the birth
+  // parent is not drawn); the details panel lists them.
+  const onChart = s => !(focus.adopted && !(s.parents || []).some(id => (focus.parents || []).includes(id)));
+  const sibList = [...sibs.full.map(s => [s, false, false]), ...(sibs.adoptive || []).map(s => [s, true, true]), ...sibs.half.filter(onChart).map(s => [s, true, false])];
   // Siblings sit to the left of the focus, oldest first.
   const sibNodes = [];
   let leftX = 0;
   for (let i = sibList.length - 1; i >= 0; i--) {
-    const [s, half] = sibList[i];
+    const [s, half, adoptive] = sibList[i];
     leftX -= CARD.w + GAP.sib;
-    sibNodes.unshift(place(s, leftX, 0, 'sibling', { half }));
+    sibNodes.unshift(place(s, leftX, 0, 'sibling', { half, adoptive }));
   }
 
   // ── Children and grandchildren ────────────────────────────────────────────
@@ -105,7 +108,10 @@ export function layoutFocus(D, focus) {
     }
     if (childNodes.length) {
       const sp = D.partnerIn(b.fam, focus);
-      const from = sp ? { x: (fNode.x + nodes.get(sp.id).x) / 2, y: 0, couple: true } : { x: fNode.x, y: 0 };
+      // drop from the gap beside that spouse (where its marriage label sits), so a
+      // second marriage's children never seem to hang from the first spouse
+      const spNode = sp ? nodes.get(sp.id) : null;
+      const from = spNode ? { x: spNode.x - CARD.w / 2 - GAP.couple / 2, y: 0, couple: true } : { x: fNode.x, y: 0 };
       links.push(descent(from, childNodes));
     }
   }

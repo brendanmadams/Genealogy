@@ -100,7 +100,7 @@ export class Renderer {
       const ys = [l.from.y, ...l.to.map(t => t.y)];
       let d = `M${l.from.x},${l.from.y} H${xm} M${xm},${Math.min(...ys)} V${Math.max(...ys)}`;
       for (const t of l.to) d += ` M${xm},${t.y} H${childL}`;
-      this.linkLayer.appendChild(el('path', { class: 'descent', d }));
+      this.linkLayer.appendChild(el('path', { class: 'descent' + (l.dashed ? ' dashed' : ''), d }));
       return;
     }
     if (l.type === 'elbow') {
@@ -217,9 +217,10 @@ export class Renderer {
     if (span) g.appendChild(el('text', { class: 'dates', x: 66, y: l2 ? 59 : 54 }, span));
     // top-right tag; it moves left of the living dot when the card has one
     const tagX = CARD.w - 8 - (p.living_status ? 12 : 0);
-    if (n.half) g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, 'half'));
+    if (n.adoptive) g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, 'adoptive'));
+    else if (n.half) g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, 'half'));
     else if (n.birth) g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, `birth ${n.birth}`));
-    else if (p.adopted && n.role !== 'focus') g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, 'adopted'));
+    else if (p.adopted) g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, n.birthChild ? 'adopted out' : 'adopted'));
     if (p.unproven) {
       // amber "?" on the portrait: the record carries a claim marked UNPROVEN
       g.appendChild(el('circle', { class: 'flag', cx: cx + 15, cy: cy + 15, r: 6.5 }));
