@@ -215,9 +215,11 @@ export class Renderer {
     const span = [lifespan(p), lifespan(p).replace(/\b(abt|bef|aft|c\.) /g, (m, q) => ({ abt: 'c.', bef: '<', aft: '>' }[q] || q)), lifespan(p, { short: true })]
       .find(s => textWidth(s, 11) <= spanW) || lifespan(p, { short: true });
     if (span) g.appendChild(el('text', { class: 'dates', x: 66, y: l2 ? 59 : 54 }, span));
-    if (n.half) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'half'));
-    else if (n.birth) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, `birth ${n.birth}`));
-    else if (p.adopted && n.role !== 'focus') g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'adopted'));
+    // top-right tag; it moves left of the living dot when the card has one
+    const tagX = CARD.w - 8 - (p.living_status ? 12 : 0);
+    if (n.half) g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, 'half'));
+    else if (n.birth) g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, `birth ${n.birth}`));
+    else if (p.adopted && n.role !== 'focus') g.appendChild(el('text', { class: 'tag', x: tagX, y: 14, 'text-anchor': 'end' }, 'adopted'));
     if (p.unproven) {
       // amber "?" on the portrait: the record carries a claim marked UNPROVEN
       g.appendChild(el('circle', { class: 'flag', cx: cx + 15, cy: cy + 15, r: 6.5 }));
