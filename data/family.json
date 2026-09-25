@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-25T02:37:22.349Z",
+  "generated": "2026-09-25T02:37:53.636Z",
   "people": 934,
   "family_members": 885,
   "dna_matches": 49,
   "connected_people": 885,
-  "families": 319,
+  "families": 318,
   "branches": [
    "adams",
    "hamilton",
@@ -28538,9 +28538,10 @@
    ],
    "adopted": false,
    "father": "simons_ed",
-   "mother": null,
+   "mother": "simons_kim",
    "parents": [
-    "simons_ed"
+    "simons_ed",
+    "simons_kim"
    ],
    "spouses": [
     "henley_austin"
@@ -28555,7 +28556,7 @@
    "families": [
     "F_henley_austin+henley_kayla"
    ],
-   "parent_family": "F_simons_ed",
+   "parent_family": "F_simons_ed+simons_kim",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -28569,7 +28570,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Sharon Simons, via Brendan Adams, 2026-09-24"
+    "Sharon Simons, via Brendan Adams, 2026-09-24",
+    "Brendan Adams, 2026-09-24"
    ],
    "notes": []
   },
@@ -52947,8 +52949,7 @@
     "simons_ann"
    ],
    "families": [
-    "F_simons_ed+simons_kim",
-    "F_simons_ed"
+    "F_simons_ed+simons_kim"
    ],
    "parent_family": "F_simons_glen+simons_mary",
    "connected": true,
@@ -54355,9 +54356,10 @@
    ],
    "adopted": false,
    "father": "simons_ed",
-   "mother": null,
+   "mother": "simons_kim",
    "parents": [
-    "simons_ed"
+    "simons_ed",
+    "simons_kim"
    ],
    "spouses": [],
    "children": [],
@@ -54365,7 +54367,7 @@
     "henley_kayla"
    ],
    "families": [],
-   "parent_family": "F_simons_ed",
+   "parent_family": "F_simons_ed+simons_kim",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -54560,7 +54562,10 @@
    "spouses": [
     "simons_ed"
    ],
-   "children": [],
+   "children": [
+    "henley_kayla",
+    "simons_john"
+   ],
    "siblings": [],
    "families": [
     "F_simons_ed+simons_kim"
@@ -68899,23 +68904,15 @@
    "marriage": "1951"
   },
   {
-   "id": "F_simons_ed",
-   "partners": [
-    "simons_ed"
-   ],
-   "children": [
-    "henley_kayla",
-    "simons_john"
-   ],
-   "marriage": null
-  },
-  {
    "id": "F_simons_ed+simons_kim",
    "partners": [
     "simons_ed",
     "simons_kim"
    ],
-   "children": [],
+   "children": [
+    "henley_kayla",
+    "simons_john"
+   ],
    "marriage": null
   },
   {
