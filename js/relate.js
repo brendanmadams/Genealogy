@@ -35,7 +35,7 @@ function ancestors(D, id) {
   let frontier = [id];
   for (let d = 1; frontier.length && d < 60; d++) {
     const next = [];
-    for (const x of frontier) for (const par of D.person(x)?.parents || []) {
+    for (const x of frontier) for (const par of [...(D.person(x)?.parents || []), ...(D.person(x)?.birth_parents || [])]) {
       if (!out.has(par) && D.person(par)) { out.set(par, { dist: d, via: x }); next.push(par); }
     }
     frontier = next;
@@ -176,7 +176,7 @@ function describePath(D, path) {
   return parts.map(([w, id]) => genderize(w, sexOf(D, id))).join('’s ');
 }
 
-const linked = (D, x) => { const p = D.person(x); return [...(p.parents || []), ...(p.children || []), ...partners(D, x)]; };
+const linked = (D, x) => { const p = D.person(x); return [...(p.parents || []), ...(p.birth_parents || []), ...(p.children || []), ...(p.birth_children || []), ...partners(D, x)]; };
 
 /** Shortest chain from A to B, never through a person in `avoid` or a link in `cut` ("x|y"). */
 function linkPath(D, aId, bId, avoid = null, cut = null) {

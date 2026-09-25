@@ -216,6 +216,7 @@ export class Renderer {
       .find(s => textWidth(s, 11) <= spanW) || lifespan(p, { short: true });
     if (span) g.appendChild(el('text', { class: 'dates', x: 66, y: l2 ? 59 : 54 }, span));
     if (n.half) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'half'));
+    else if (n.birth) g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, `birth ${n.birth}`));
     else if (p.adopted && n.role !== 'focus') g.appendChild(el('text', { class: 'tag', x: CARD.w - 8, y: 14, 'text-anchor': 'end' }, 'adopted'));
     if (p.unproven) {
       // amber "?" on the portrait: the record carries a claim marked UNPROVEN

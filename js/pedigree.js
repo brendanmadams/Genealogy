@@ -32,6 +32,9 @@ export function ancestorDepth(D, p, seen = new Set()) {
 
 /** [father, mother] in chart order; either may be null. */
 function parentSlots(D, p) {
+  // An adopted person's pedigree follows the blood line: birth parents when
+  // any are recorded (the family view shows the adoptive parents).
+  if (p.birth_parents?.length) return [p.birth_father ? D.person(p.birth_father) : null, p.birth_mother ? D.person(p.birth_mother) : null];
   const father = p.father ? D.person(p.father) : null;
   const mother = p.mother ? D.person(p.mother) : null;
   // Parents known only from a `children` list have no father/mother slot:
@@ -52,12 +55,13 @@ export function layoutPedigree(D, focus, maxGen = 4) {
   let cursor = 0;                    // next free vertical slot (in units)
   let deepest = 0;
 
-  function place(p, gen, ahnen, slotName) {
+  function place(p, gen, ahnen, slotName, birth = false) {
     const x = gen * COL;
+    const who = (birth ? 'Birth ' : '') + slotName;
     if (!p) {
       // unknown parent placeholder
       const y = (cursor++ + 0.5) * UNIT;
-      const n = { id: `unknown-${ahnen}`, x, y, role: 'unknown', gen, ahnen, label: slotName === 'father' ? 'Father unknown' : 'Mother unknown' };
+      const n = { id: `unknown-${ahnen}`, x, y, role: 'unknown', gen, ahnen, label: `${who[0].toUpperCase()}${who.slice(1)} unknown` };
       nodes.push(n);
       return n;
     }
@@ -72,18 +76,20 @@ export function layoutPedigree(D, focus, maxGen = 4) {
     const slots = gen < maxGen ? parentSlots(D, p) : [null, null];
     const anyKnown = slots.some(Boolean);
     const n = { id: p.id, x, y: 0, role: gen === 0 ? 'focus' : 'ancestor', gen, ahnen };
+    if (birth) n.birth = slotName;          // a birth parent of the adopted person below
     placed.set(p.id, n);
     nodes.push(n);
     if (anyKnown) {
+      const viaBirth = !!p.birth_parents?.length;
       const kids = [
-        place(slots[0], gen + 1, ahnen * 2, 'father'),
-        place(slots[1], gen + 1, ahnen * 2 + 1, 'mother'),
+        place(slots[0], gen + 1, ahnen * 2, 'father', viaBirth),
+        place(slots[1], gen + 1, ahnen * 2 + 1, 'mother', viaBirth),
       ];
       n.y = (kids[0].y + kids[1].y) / 2;
       links.push({ type: 'elbow', from: n, to: kids });
     } else {
       n.y = (cursor++ + 0.5) * UNIT;
-      n.more = gen === maxGen && D.parents(p).length > 0;   // ancestors beyond the cut
+      n.more = gen === maxGen && (D.parents(p).length > 0 || !!p.birth_parents?.length);   // ancestors beyond the cut
     }
     return n;
   }

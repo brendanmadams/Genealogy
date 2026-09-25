@@ -56,13 +56,15 @@ for (const p of people.values()) {
   const spouses = [...new Set([...list(r.spouse), ...list(r._extra_spouses)])];
   rel.set(p.id, {
     father: str(r.father), mother: str(r.mother),
+    // birth parents of an adopted person; father/mother are then the adoptive parents
+    birth_father: str(r.birth_father), birth_mother: str(r.birth_mother),
     spouses, children: list(r.children), siblings: list(r.siblings),
   });
 }
 
 // Drop references to people who do not exist (and report them).
 for (const [id, r] of rel) {
-  for (const k of ['father', 'mother']) {
+  for (const k of ['father', 'mother', 'birth_father', 'birth_mother']) {
     if (r[k] && !people.has(r[k])) { err(`${id}.${k} -> "${r[k]}" does not exist`); r[k] = ''; }
     if (r[k] === id) { err(`${id}.${k} refers to self`); r[k] = ''; }
   }
@@ -267,6 +269,14 @@ if (fs.existsSync(MEDIA_CFG_PATH)) {
 
 const connectedIds = new Set();
 for (const f of families.values()) for (const id of [...f.partners, ...f.children]) connectedIds.add(id);
+// birth parents of adopted people (a blood link outside the family units)
+const birthChildren = new Map();
+for (const [id, r] of rel) for (const bp of [r.birth_father, r.birth_mother]) {
+  if (!bp) continue;
+  if (!birthChildren.has(bp)) birthChildren.set(bp, []);
+  birthChildren.get(bp).push(id);
+  connectedIds.add(id); connectedIds.add(bp);
+}
 
 // sex is optional ("F", "M" or absent); warn if it contradicts a mother/father link
 for (const p of people.values()) {
@@ -301,6 +311,10 @@ const outPeople = [...people.values()].sort((a, b) => a.id.localeCompare(b.id)).
     father: r.father || null,
     mother: r.mother || null,
     parents: [...parentsOf.get(p.id)].sort(),
+    birth_father: r.birth_father || null,
+    birth_mother: r.birth_mother || null,
+    birth_parents: [r.birth_father, r.birth_mother].filter(Boolean),
+    birth_children: (birthChildren.get(p.id) || []).sort(),
     spouses: r.spouses,
     children,
     siblings,                      // full siblings (same parent set)

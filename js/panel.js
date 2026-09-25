@@ -60,6 +60,14 @@ export function renderPanel(container, D, p, rel = {}) {
   // family
   const parents = D.parents(p);
   const sibs = D.siblings(p);
+  const byId = ids => (ids || []).map(id => D.person(id)).filter(Boolean);
+  const birthParents = byId(p.birth_parents);
+  const birthChildren = byBirth(byId(p.birth_children));
+  // a parent's other partners, and a partner's children by someone else
+  const parentIds = new Set(parents.map(q => q.id));
+  const stepParents = [...new Set(parents.flatMap(q => q.spouses || []))].filter(id => !parentIds.has(id) && id !== p.id).map(id => D.person(id)).filter(Boolean);
+  const own = new Set(p.children || []);
+  const stepChildren = byBirth([...new Set((p.spouses || []).flatMap(id => D.person(id)?.children || []))].filter(id => !own.has(id)).map(id => D.person(id)).filter(Boolean));
   // several marriages: number them in order (marriage year, else the eldest
   // child's birth, else the order in the record) so each block is clear on its own
   const fams = D.partnerFamilies(p);
@@ -101,7 +109,7 @@ export function renderPanel(container, D, p, rel = {}) {
     <div class="panel-body">
       ${relatedBox(D, p, rel)}
       ${section('Vitals', `<dl class="vitals"><dt>Born</dt><dd>${born}</dd><dt>Died</dt><dd>${died}</dd>${p.locations?.length ? `<dt>Places</dt><dd>${p.locations.map(esc).join(' · ')}</dd>` : ''}</dl>`)}
-      ${section('Family', group(p.adopted ? 'Adoptive parents' : 'Parents', parents.map(q => chip(q))) + partnerBlocks + group('Siblings', sibs.full.map(q => chip(q))) + group('Half siblings', sibs.half.map(q => chip(q))) || '<p class="muted">No relationships recorded yet.</p>')}
+      ${section('Family', group(p.adopted ? 'Adoptive parents' : 'Parents', parents.map(q => chip(q))) + group('Birth parents', birthParents.map(q => chip(q))) + group('Step-parents', stepParents.map(q => chip(q))) + partnerBlocks + group('Birth children, raised by others', birthChildren.map(q => chip(q))) + group('Stepchildren', stepChildren.map(q => chip(q))) + group('Siblings', sibs.full.map(q => chip(q))) + group('Half siblings', sibs.half.map(q => chip(q))) || '<p class="muted">No relationships recorded yet.</p>')}
       ${section('Photos &amp; documents', gallery(D, p))}
       ${section('Milestones', items(p.milestones, 'timeline'))}
       ${section('Stories &amp; memories', items(p.notable_stories, 'stories'))}
