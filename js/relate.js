@@ -146,6 +146,11 @@ export function relate(D, aId, bId) {
   // ("step-grandparent’s niece or nephew")
   const path = linkPath(D, aId, bId);
   if (!path) return { kind: 'none', text: 'no recorded relationship', path: [], ancestors: [] };
+  return { kind: 'marriage', text: describePath(D, path), path, ancestors: [] };
+}
+
+/** A chain of parent, child and spouse links, told step by step: "brother’s wife’s grandniece". */
+function describePath(D, path) {
   const parts = [];                  // [neutral word, the person it describes]
   let start = 0;
   for (let i = 1; i <= path.length; i++) {
@@ -163,18 +168,20 @@ export function relate(D, aId, bId) {
     const t = parts[0][0] === 'step-parent' ? 'stepsibling' : parts[0][0].replace(/grandparent$/, 'aunt or uncle');
     parts.splice(0, 2, [t, parts[1][1]]);
   }
-  return { kind: 'marriage', text: parts.map(([w, id]) => genderize(w, sexOf(D, id))).join('’s '), path, ancestors: [] };
+  return parts.map(([w, id]) => genderize(w, sexOf(D, id))).join('’s ');
 }
 
-function linkPath(D, aId, bId) {
+const linked = (D, x) => { const p = D.person(x); return [...(p.parents || []), ...(p.children || []), ...partners(D, x)]; };
+
+/** Shortest chain from A to B, never through a person in `avoid` or a link in `cut` ("x|y"). */
+function linkPath(D, aId, bId, avoid = null, cut = null) {
   const prev = new Map([[aId, null]]);
   let q = [aId];
   while (q.length) {
     const next = [];
     for (const x of q) {
-      const p = D.person(x);
-      for (const y of [...(p.parents || []), ...(p.children || []), ...partners(D, x)]) {
-        if (prev.has(y) || !D.person(y)) continue;
+      for (const y of linked(D, x)) {
+        if (prev.has(y) || !D.person(y) || avoid?.has(y) || cut?.has(`${x}|${y}`)) continue;
         prev.set(y, x);
         if (y === bId) { const out = []; for (let z = y; z; z = prev.get(z)) out.unshift(z); return out; }
         next.push(y);
@@ -183,6 +190,42 @@ function linkPath(D, aId, bId) {
     q = next;
   }
   return null;
+}
+
+/** The marriages a chain crosses, as a key: two chains that cross the same ones are the same route. */
+function marriagesOn(D, path) {
+  const hops = [];
+  for (let i = 1; i < path.length; i++) {
+    const [x, y] = [path[i - 1], path[i]];
+    if (partners(D, x).includes(y) && !(D.person(y).parents || []).includes(x) && !(D.person(x).parents || []).includes(y)) hops.push([x, y].sort().join('~'));
+  }
+  return hops.sort().join(',');
+}
+
+/**
+ * Other routes between A and B besides the closest one (relate's), e.g. a
+ * second family marriage: [{ text, path }], B described relative to A, at most
+ * `max`, shortest first. Each skips one person on the closest route (with the
+ * other half of a couple when the route turns at them), and must cross a
+ * different set of marriages.
+ */
+export function otherRoutes(D, aId, bId, max = 2, primary = relate(D, aId, bId)) {
+  if (primary.kind === 'self' || primary.kind === 'none' || primary.path.length < 3) return [];
+  // a direct line (grandparent, great-grandchild) needs no side routes
+  if (primary.kind === 'blood' && (primary.ancestors.includes(aId) || primary.ancestors.includes(bId))) return [];
+  const main = primary.path, seen = new Set([marriagesOn(D, main)]), out = [];
+  for (let i = 1; i < main.length - 1; i++) {
+    const v = main[i], avoid = new Set([v]);
+    const kids = D.person(v)?.children || [];
+    if (kids.includes(main[i - 1]) && kids.includes(main[i + 1])) partners(D, v).forEach(x => avoid.add(x));
+    const path = linkPath(D, aId, bId, avoid);
+    if (!path || path.length > 16) continue;
+    const key = marriagesOn(D, path);
+    if (!key || seen.has(key)) continue;           // blood-only, or the same marriages again
+    seen.add(key);
+    out.push({ text: describePath(D, path), path });
+  }
+  return out.sort((x, y) => x.path.length - y.path.length).slice(0, max);
 }
 
 /** "a first cousin" / "an aunt or uncle" / "the spouse" — for sentences. */

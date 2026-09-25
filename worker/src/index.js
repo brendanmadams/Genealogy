@@ -130,6 +130,7 @@ Rules:
 - Whenever you mention a person, put their id in square brackets right after the name, e.g. "Ellen Rogers Ball [ball_ellen_rogers]".
 - Anything the records call UNPROVEN, "Inferred" or "Lead" must stay labelled as unproven in your answer.
 - For people marked living, give only names and relationships.
+- The records may begin with "Recorded connections", worked out from the family tree: the relationship between the people asked about and the route of people it runs through, closest first, with any other route (through a different marriage) marked "also". For questions about how people are related or connected, rely on these and mention every route listed.
 - Be concise: at most about 200 words. Plain text only: short paragraphs, "- " for list items, **bold** sparingly. No headings or tables.`;
 
 async function handleAsk(request, env, reply) {

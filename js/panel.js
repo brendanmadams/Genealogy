@@ -1,6 +1,6 @@
 // The details panel for the focus person.
 import { lifespan, byBirth, initials as initialsOf, displayName } from './data.js';
-import { relate } from './relate.js';
+import { relate, otherRoutes } from './relate.js';
 import { suggestEnabled } from './suggest.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -36,7 +36,9 @@ function relatedBox(D, p, { me, other }) {
       : `<strong>${esc(displayName(p))}</strong> is ${whose} <strong>${esc(r.text)}</strong>.`;
     const path = r.path.length > 1 ? `<div class="rel-path">${r.path.map(id => D.person(id)).filter(Boolean).map(q => chipOf(q, r.ancestors.includes(q.id) ? ' rel-anc' : '')).join('<span class="rel-arrow">›</span>')}</div>` : '';
     const shared = r.ancestors.length ? `<div class="rel-note muted">Nearest shared ancestor${r.ancestors.length > 1 ? 's' : ''}: ${r.ancestors.map(id => esc(displayName(D.person(id)))).join(' and ')}</div>` : '';
-    body = `<p class="rel-sentence">${sentence}</p>${path}${shared}${other ? `<button class="link-btn" id="rel-clear">${me && me !== p.id ? 'Back to how they relate to you' : 'Clear comparison'}</button>` : ''}`;
+    // other routes, through a different marriage: "also your 2× great-uncle’s wife’s grandniece"
+    const alts = otherRoutes(D, withId, p.id, 2, r).map(x => `<p class="rel-sentence rel-also">Also ${whose} <strong>${esc(x.text)}</strong>:</p><div class="rel-path">${x.path.map(id => D.person(id)).filter(Boolean).map(q => chipOf(q)).join('<span class="rel-arrow">›</span>')}</div>`).join('');
+    body = `<p class="rel-sentence">${sentence}</p>${path}${shared}${alts}${other ? `<button class="link-btn" id="rel-clear">${me && me !== p.id ? 'Back to how they relate to you' : 'Clear comparison'}</button>` : ''}`;
   } else if (me === p.id) body = `<p class="rel-sentence">This is you. Open anyone else to see how they are related to you.</p>`;
   else body = `<p class="rel-sentence muted">Pick someone to compare with, or mark who you are and every page will say how that person is related to you.</p>`;
   const meCtl = me === p.id

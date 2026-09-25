@@ -6,7 +6,7 @@
 //    sees only the records for the current selection (the chart on screen)
 //    plus anyone named in the question, and must answer from them alone.
 import { displayName, lifespan, byBirth } from './data.js';
-import { relate, bloodDistance } from './relate.js';
+import { relate, bloodDistance, otherRoutes } from './relate.js';
 import { ASK } from './config.js';
 import { suggestEnabled } from './suggest.js';
 
@@ -196,7 +196,9 @@ function localAnswer(D, names, q, sel, meId) {
       const sentence = r.kind === 'none'
         ? `No relationship between <strong>${esc(displayName(who(a)))}</strong> and <strong>${b === meId ? 'you' : esc(displayName(who(b)))}</strong> is recorded yet.`
         : `<strong>${esc(displayName(who(a)))}</strong> is ${bName} <strong>${esc(r.text)}</strong>.`;
-      return { html: `<p>${sentence}</p>`, people: r.path, path: r.path.length > 1, ancestors: r.ancestors };
+      // other routes through a different marriage ("also Serena’s brother’s wife’s grandniece")
+      const alts = otherRoutes(D, b, a, 2, r).map(x => ({ html: `Also ${bName} <strong>${esc(x.text)}</strong>:`, path: x.path }));
+      return { html: `<p>${sentence}</p>`, people: r.path, path: r.path.length > 1, ancestors: r.ancestors, alts };
     }
   }
 
@@ -382,7 +384,17 @@ function buildContext(D, sel, named, extra = []) {
     if (used + block.length > CONTEXT_CHARS && lines.length) break;
     lines.push(block); used += block.length + 2;
   }
-  return { text: lines.join('\n\n'), count: lines.length, total: order.length };
+  // how the named people are connected, every route (the closest and any through another marriage)
+  const links = [];
+  for (let i = 0; i < Math.min(named.length, 3); i++) for (let j = i + 1; j < Math.min(named.length, 3); j++) {
+    const [x, y] = [named[i], named[j]], r = relate(D, x, y);
+    if (r.kind === 'none' || r.kind === 'self') continue;
+    const route = path => path.map(ref).filter(Boolean).join(' > ');
+    links.push(`${ref(y)} is ${ref(x)}'s ${r.text} (route: ${route(r.path)})`,
+      ...otherRoutes(D, x, y, 2, r).map(o => `  also: ${ref(y)} is ${ref(x)}'s ${o.text} (route: ${route(o.path)})`));
+  }
+  const head = links.length ? `Recorded connections between the people asked about:\n${links.join('\n')}\n\n` : '';
+  return { text: head + lines.join('\n\n'), count: lines.length, total: order.length };
 }
 
 // ── The box and the answer card ──────────────────────────────────────────────
@@ -457,7 +469,8 @@ export class Ask {
       const chips = (local.people || []).map(id => this.chip(id, local.highlight?.has(id) ? ' rel-anc' : '')).join(local.path ? '<span class="rel-arrow">›</span>' : '');
       const shared = local.ancestors?.length ? `<p class="muted">Nearest shared ancestor${local.ancestors.length > 1 ? 's' : ''}: ${local.ancestors.map(id => esc(displayName(this.D.person(id)))).join(' and ')}</p>` : '';
       const more = askEnabled() && local.people?.length ? `<button class="link-btn ask-ai">Ask the AI for more detail</button>` : '';
-      this.frame(this.q, `<div class="ask-answer exact">${local.html}</div>${chips ? `<div class="chips${local.path ? ' rel-path' : ''}">${chips}</div>` : ''}${shared}${local.after || ''}<p class="ask-foot muted"><span class="ask-badge">From the records</span> ${more}</p>`);
+      const alts = (local.alts || []).map(x => `<p class="ask-also">${x.html}</p><div class="chips rel-path">${x.path.map(id => this.chip(id)).join('<span class="rel-arrow">›</span>')}</div>`).join('');
+      this.frame(this.q, `<div class="ask-answer exact">${local.html}</div>${chips ? `<div class="chips${local.path ? ' rel-path' : ''}">${chips}</div>` : ''}${shared}${alts}${local.after || ''}<p class="ask-foot muted"><span class="ask-badge">From the records</span> ${more}</p>`);
     } else if (askEnabled()) {
       this.askAI();
     } else {

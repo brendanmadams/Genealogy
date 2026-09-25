@@ -451,3 +451,5 @@ body[data-view="ancestors"] .legend, body[data-view="descendants"] .legend { dis
   .search { min-width: 0; }
   .hbtn { padding: 0 10px; }
 }
+.rel-also { margin-top: 12px; font-size: 13px; }
+.ask-also { margin: 4px 0 0; color: var(--text-2); }
