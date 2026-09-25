@@ -2,7 +2,7 @@
   "id": "ball_john_stafford",
   "name": "John Ball of Stafford County",
   "sex": "M",
-  "birth": "",
+  "birth": "abt 1670",
   "death": "1722",
   "personality": [],
   "roles": [],
@@ -22,16 +22,22 @@
     ]
   },
   "locations": [
-    "Stafford County, Virginia"
+    "Stafford County, Virginia",
+    "Overwharton Parish, Stafford County, Virginia"
   ],
   "sources": [
     "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
     "Arlington Historical Society, review of Doris and George Ball, \"The Ball Family of the Potomac 1654–2004\" (2005)",
-    "Steven Perkins, \"More bad genealogy on the Washington-Ball connection\" (scpgen.blogspot.com, 2012), and the Ball surname Y-DNA project at FamilyTreeDNA"
+    "Steven Perkins, \"More bad genealogy on the Washington-Ball connection\" (scpgen.blogspot.com, 2012), and the Ball surname Y-DNA project at FamilyTreeDNA",
+    "FamilyTreeDNA, Ball Surname Y-DNA Study, public results (checked 25 Sep 2026): subgroup 00894 \"John Ball, b. 1670, Stafford/Fairfax Co., VA\", haplogroup R-M269 > U106; subgroup 00401 \"Col William Ball, Lancaster Co., VA\", haplogroup I-M253",
+    "Doris LeClerc Ball and George Ball, \"The Ball Family of the Potomac, 1654–2004\" (2004), as summarised on Find a Grave and Geni",
+    "Ed Simons, \"Simons Family Trees and Genealogy\" (slide deck, Sep 2026), pp. 41–52",
+    "maryballwashington.com, \"The English ancestry of George Washington's mother, Mary Ball\" (monographs on the Balls of Berkshire, Northamptonshire and Virginia)"
   ],
   "notes": [
     "Died 1722 in Stafford County, Virginia; his will names his wife Winifred and his sons James, John, Moses and George (Bonnie Ball's 1961 genealogy; the 2005 Arlington Historical Society review). The earliest proven ancestor of the Fairfax and Hawkins County Balls; his own parents are unknown. A James Ball brought to Westmoreland County in 1654 has been proposed as his father, unproven.",
-    "The claim that he was a son of Richard Ball (1645–1677), brother of Mary Ball Washington's father Col. Joseph Ball, has no record behind it, and Y-DNA testing places his descendants and the Lancaster County Balls in unrelated paternal lines (haplogroups R1b and I)."
+    "Not of Mary Ball Washington's family. Her line is the Lancaster County Balls: Col. William Ball of Millenbeck (about 1615–1680), his son Col. Joseph Ball (1649–1711) of Epping Forest, and Joseph's daughter Mary, who married Augustine Washington on 6 Mar 1730. John Ball of Stafford belongs to a different family, which The Ball Family of the Potomac traces to a James Ball who came to Westmoreland County in 1654 (UNPROVEN here; the book's claim). The Ball surname Y-DNA project keeps the two apart: fourteen tested descendants of \"John Ball, b. 1670, Stafford/Fairfax Co., VA\" form one subgroup in haplogroup R-U106, while the descendants of \"Col William Ball, Lancaster Co., VA\" form another in haplogroup I-M253. Two haplogroups means two unrelated male lines, so no genealogy that joins them can be right. The older claim that John was a son of Richard Ball (1645–1677), Col. Joseph's brother, has no record behind it and is contradicted by the DNA.",
+    "Pages 47–52 of Ed Simons's deck (Colonial Families of the United States; Ancestral Records and Portraits, p. 420; a typescript Ball genealogy tracing the Lancaster Balls to Rev. Richard Ball of Northampton and six brothers on the ship Planter in 1635) all describe the Lancaster County family and George Washington's descent from it. They are accurate for that family but do not mention John Ball of Stafford or his descendants; the Barkham and Northampton descent itself \"has never been substantiated by reference to documentary evidence\" (maryballwashington.com)."
   ],
   "aliases": []
 }

@@ -2,8 +2,8 @@
   "id": "brashears_ann",
   "name": "Ann \"Nancy\" Brashears (Ball)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "26 Sep 1729",
+  "death": "30 Nov 1816",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -21,15 +21,22 @@
       "ball_moses_jr"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Brashear's Meadow, Prince George's County, Maryland",
+    "Arlington, Virginia"
+  ],
   "sources": [
     "Find a Grave, memorial 35458870 (Moses Ball Jr., 1748–1831, Ball Cemetery, Hawkins County)",
-    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)"
+    "Bonnie Ball, \"The Balls of Fairfax and Stafford in Virginia\" (1961)",
+    "Charles Brashear, \"A Brashear(s) Family History\", vol. 2 (1999), as reproduced in Ed Simons's deck",
+    "Ed Simons, \"Simons Family Trees and Genealogy\" (slide deck, Sep 2026), pp. 41–52"
   ],
   "notes": [
-    "Wife of Moses Ball Sr. and mother of Moses Ball Jr., as Find a Grave and Bonnie Ball's genealogy give her; her surname is also spelled Brashers."
+    "Wife of Moses Ball Sr. and mother of Moses Ball Jr., as Find a Grave and Bonnie Ball's genealogy give her; her surname is also spelled Brashers.",
+    "Born 26 Sep 1729 at Brashear's Meadow, Prince George's County, Maryland, daughter of Robert Brashear and Charity Dowell; died 30 Nov 1816 and probably buried in an unmarked grave beside Moses Ball at Arlington (Charles Brashear, A Brashear(s) Family History, vol. 2, 1999; UNPROVEN here, from that compilation)."
   ],
   "aliases": [
-    "Ann Nancy Brashers"
+    "Ann Nancy Brashers",
+    "Ann Brashear"
   ]
 }
