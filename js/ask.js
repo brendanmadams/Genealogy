@@ -366,20 +366,16 @@ function buildContext(D, sel, named, extra = []) {
   let used = 0;
   for (const [i, id] of order.entries()) {
     const p = D.person(id);
-    const living = p.living_status === 'living' || p.living_status === 'assumed';
     const partners = D.partnerFamilies(p).map(f => D.partnerIn(f, p)).filter(Boolean);
     const sib = D.siblings(p);
     const parts = [`[${p.id}] ${displayName(p)}${p.name !== displayName(p) ? ` (full name: ${p.name})` : ''}`];
-    if (living) parts.push('living (only names and relationships are shared)');
-    else {
-      if (p.aliases?.length) parts.push(`also known as: ${p.aliases.join('; ')}`);
-      parts.push(`born: ${p.birth?.text || 'not recorded'}`, `died: ${p.death?.text || 'not recorded'}`);
-    }
+    if (p.aliases?.length) parts.push(`also known as: ${p.aliases.join('; ')}`);
+    parts.push(`born: ${p.birth?.text || 'not recorded'}`, `died: ${p.death?.text || (p.living_status ? 'living' : 'not recorded')}`);
     if (p.dna_match) parts.push('known only from a DNA match list; relationship unconfirmed');
     const fam = [['parents', D.parents(p)], ['spouses/partners', partners], ['siblings', [...sib.full, ...sib.half]], ['children', D.children(p)]]
       .filter(([, a]) => a.length).map(([k, a]) => `${k}: ${listOf(a)}`);
     parts.push(...fam);
-    if (!living) {
+    {
       if (p.locations?.length) parts.push(`places: ${p.locations.join('; ')}`);
       const cap = i < Math.max(3, named.length + 1) ? 2400 : 700;
       const extra = [

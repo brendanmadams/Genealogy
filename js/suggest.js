@@ -103,7 +103,6 @@ export class Suggest {
             <label class="sg-check"><input type="radio" name="new_status" value="living" /> Yes</label>
             <label class="sg-check"><input type="radio" name="new_status" value="unsure" checked /> Not sure</label>
           </div>
-          <p class="muted sg-living-note" hidden>For living relatives the site records only names and how they are related, so there is no need for dates or addresses.</p>
           <div class="sg-dates">
             <label>Born <span class="muted">(year or date, roughly is fine)</span> <input name="new_born" maxlength="60" /></label>
             <label>Died <input name="new_died" maxlength="60" /></label>
@@ -117,7 +116,7 @@ export class Suggest {
         <label>How do you know?
           <textarea name="source" rows="2" maxlength="2000" placeholder="A certificate, obituary, family Bible, your own memory…"></textarea>
         </label>
-        <p class="muted sg-note">For living relatives please leave out birth dates, addresses and health details.</p>
+        <p class="muted sg-note">Please leave out addresses and health details.</p>
 
         <label>Photos or documents <span class="muted">(optional, up to 3; JPEG, PNG, WebP, GIF or PDF, 8 MB each)</span>
           <input type="file" name="files" multiple accept="image/jpeg,image/png,image/webp,image/gif,application/pdf" />
@@ -184,13 +183,10 @@ export class Suggest {
     const form = this.el.querySelector('form');
     if (!form) return;
     const relative = form.kind.value === 'relative';
-    const living = form.querySelector('[name=new_status]:checked')?.value === 'living';
     const nm = this.person ? displayName(this.person) : null;
     this.el.querySelector('.sg-relative').hidden = !relative;
     this.el.querySelector('.sg-rel-select').hidden = !this.person;
     if (nm) this.el.querySelector('.sg-rel-who').textContent = nm;
-    this.el.querySelector('.sg-dates').hidden = living;
-    this.el.querySelector('.sg-living-note').hidden = !living;
     this.el.querySelector('.sg-details-label').textContent = relative
       ? (this.person ? 'Anything else about them?' : 'How do they fit into the family?')
       : 'What should change?';
@@ -222,7 +218,6 @@ export class Suggest {
       if (String(data.get('new_name')).trim().length < 2) return this.status('Please give the missing relative’s name.', true);
       if (!this.person && String(data.get('details')).trim().length < 10) return this.status('Please say how they fit into the family.', true);
       if (!this.person) data.delete('new_relation');
-      if (data.get('new_status') === 'living') ['new_born', 'new_died', 'new_place'].forEach(k => data.delete(k));
     } else {
       ['new_name', 'new_relation', 'new_status', 'new_born', 'new_died', 'new_place'].forEach(k => data.delete(k));
       if (String(data.get('details')).trim().length < 10) return this.status('Please describe the change in a sentence or two.', true);

@@ -52,8 +52,6 @@ export default {
       new_status: NEW_STATUS[field('new_status')] ? field('new_status') : 'unsure',
       new_born: field('new_born'), new_died: field('new_died'), new_place: field('new_place'),
     };
-    // living people: names and relationships only, whatever the browser sent
-    if (s.new_status === 'living') s.new_born = s.new_died = s.new_place = '';
     if (kind === 'relative') {
       if (s.new_name.length < 2) return reply(400, { ok: false, error: 'Please give the missing relative’s name.' });
       if (!s.person_id && s.details.length < 10) return reply(400, { ok: false, error: 'Please say how they fit into the family.' });
@@ -129,7 +127,6 @@ Rules:
 - Use only facts stated in the records. If they do not answer the question, say plainly what is and is not recorded. Never guess, and never fill gaps from general knowledge.
 - Whenever you mention a person, put their id in square brackets right after the name, e.g. "Ellen Rogers Ball [ball_ellen_rogers]".
 - Anything the records call UNPROVEN, "Inferred" or "Lead" must stay labelled as unproven in your answer.
-- For people marked living, give only names and relationships.
 - The records may begin with "Recorded connections", worked out from the family tree: the relationship between the people asked about and the route of people it runs through, closest first, with any other route (through a different marriage) marked "also". For questions about how people are related or connected, rely on these and mention every route listed.
 - Be concise: at most about 200 words. Plain text only: short paragraphs, "- " for list items, **bold** sparingly. No headings or tables.`;
 

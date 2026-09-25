@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-25T17:30:52.461Z",
+  "generated": "2026-09-25T17:38:37.567Z",
   "people": 947,
   "family_members": 898,
   "dna_matches": 49,
@@ -29006,8 +29006,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1 Dec 1984",
+    "year": 1984,
     "qualifier": null
    },
    "death": {
@@ -29015,8 +29015,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -29048,7 +29048,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Tacoma, Pierce County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -29062,7 +29064,9 @@
     "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
-   "notes": []
+   "notes": [
+    "Born 1 Dec 1984 at Tacoma (Ed Simons's tree)."
+   ]
   },
   {
    "id": "henley_kayliah",
@@ -52573,8 +52577,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "5 Feb 1964",
+    "year": 1964,
     "qualifier": null
    },
    "death": {
@@ -52582,8 +52586,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -52609,7 +52613,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Washington"
+    "Washington",
+    "Kennewick, Benton County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -52630,7 +52635,8 @@
    ],
    "notes": [
     "Parent: Glen Simons.",
-    "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect."
+    "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect.",
+    "Born 5 Feb 1964 at Kennewick (Ed Simons's tree)."
    ]
   },
   {
@@ -53676,8 +53682,8 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "30 Apr 1960",
+    "year": 1960,
     "qualifier": null
    },
    "death": {
@@ -53685,8 +53691,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -53718,7 +53724,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Kennewick, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -53734,7 +53742,8 @@
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "Listed among the Simons family researchers in the Adams direct-line notes."
+    "Listed among the Simons family researchers in the Adams direct-line notes.",
+    "Born 30 Apr 1960 at Kennewick (Ed Simons's tree)."
    ]
   },
   {
@@ -55136,8 +55145,8 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "16 Jun 1987",
+    "year": 1987,
     "qualifier": null
    },
    "death": {
@@ -55145,8 +55154,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -55171,7 +55180,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Tacoma, Pierce County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -55184,7 +55195,9 @@
     "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
-   "notes": []
+   "notes": [
+    "Born 16 Jun 1987 at Tacoma (Ed Simons's tree)."
+   ]
   },
   {
    "id": "simons_judy",
@@ -55344,8 +55357,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "11 Dec 1959",
+    "year": 1959,
     "qualifier": null
    },
    "death": {
@@ -55353,8 +55366,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -55377,7 +55390,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Seattle, King County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -55390,7 +55405,9 @@
     "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
-   "notes": []
+   "notes": [
+    "Born 11 Dec 1959 at Seattle (Ed Simons's tree)."
+   ]
   },
   {
    "id": "simons_lenore",
@@ -55901,8 +55918,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "27 Feb 1939",
+    "year": 1939,
     "qualifier": null
    },
    "death": {
@@ -55910,8 +55927,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -55937,7 +55954,12 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Portland, Oregon",
+    "Brentwood, Multnomah County, Oregon",
+    "Richland, Washington",
+    "Kennewick, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -55953,12 +55975,15 @@
     "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
     "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
     "Ancestry.com, 1940 United States Federal Census (Brentwood, Multnomah County, Oregon; ED 26-58, sheets 7B–8A)",
-    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)"
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Glen E. Simons and Mary Patricia Walker, 1958)"
    ],
    "notes": [
     "Wife of Glen Simons.",
     "Married on 27 Jul 1958 at Kennewick, Benton County, Washington, by Rev. H. H. Underwood, a Methodist minister, under a license issued by the Franklin County auditor on 7 Jul 1958; witnesses Orvel K. Simons (Glen's brother Orval) and Jane Hudson. Glen, of Franklin County, signed \"Glen Erwin Simons\"; Mary Patricia Walker was of Benton County (Franklin County marriage certificate no. 9306).",
-    "Inferred: the daughter of Sheldon Joseph Dolan and Marrion Roma Hinds. In 1940 the Dolans had a daughter Mary in Portland, Oregon; Sheldon died in 1942, Marrion married John W. Walker, and in 1950 Mary P. Walker lived in Richland, Washington, with Marrion, her stepfather John W. Walker and her half-sisters Roma F. and Betty A. Walker. She married as Mary Patricia Walker, her stepfather's surname."
+    "Inferred: the daughter of Sheldon Joseph Dolan and Marrion Roma Hinds. In 1940 the Dolans had a daughter Mary in Portland, Oregon; Sheldon died in 1942, Marrion married John W. Walker, and in 1950 Mary P. Walker lived in Richland, Washington, with Marrion, her stepfather John W. Walker and her half-sisters Roma F. and Betty A. Walker. She married as Mary Patricia Walker, her stepfather's surname.",
+    "Born 27 Feb 1939 at Portland, Oregon (Ed Simons's tree); she was 19 at her marriage in July 1958 (Washington marriage records), a year old in the 1940 census at Brentwood, and 11 in the 1950 census at Richland."
    ]
   },
   {

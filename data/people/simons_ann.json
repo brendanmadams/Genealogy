@@ -1,7 +1,7 @@
 {
   "id": "simons_ann",
   "name": "Ann Elizabeth Simons",
-  "birth": "",
+  "birth": "5 Feb 1964",
   "death": "",
   "personality": [],
   "roles": [],
@@ -22,7 +22,8 @@
     "children": []
   },
   "locations": [
-    "Washington"
+    "Washington",
+    "Kennewick, Benton County, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -32,7 +33,8 @@
   ],
   "notes": [
     "Parent: Glen Simons.",
-    "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect."
+    "True relationship: 1C1R via Glen Simons (Beryl's brother). 23&Me label of 2C is incorrect.",
+    "Born 5 Feb 1964 at Kennewick (Ed Simons's tree)."
   ],
   "sex": "F",
   "aliases": [

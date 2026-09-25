@@ -2,7 +2,7 @@
   "id": "henley_kayla",
   "name": "Kayla Ann Simons (Henley)",
   "sex": "F",
-  "birth": "",
+  "birth": "1 Dec 1984",
   "death": "",
   "personality": [],
   "roles": [],
@@ -22,13 +22,17 @@
       "henley_elizabeth"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Tacoma, Pierce County, Washington"
+  ],
   "sources": [
     "Sharon Simons, via Brendan Adams, 2026-09-24",
     "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
-  "notes": [],
+  "notes": [
+    "Born 1 Dec 1984 at Tacoma (Ed Simons's tree)."
+  ],
   "aliases": [
     "Kayla Henley",
     "Kayla Simons"

@@ -63,8 +63,8 @@ New suggestions arrive as issues in `Genealogy-submissions`, labelled
 `pending` (GitHub can email you about each one; see *Watch → All activity*).
 Change the label to `approved`, `rejected` or `needs-source`, and ask Claude
 to apply the approved ones. Each approved batch becomes a dated fix script and
-commit in this repo, following the usual rules: sourced changes only, UNPROVEN
-where not proved, and names and relationships only for living people. Close
+commit in this repo, following the usual rules: sourced changes only and UNPROVEN
+where not proved. Close
 the issue once the change is live.
 
 Photos and documents: publish one only when the sender took it or has the
@@ -84,8 +84,7 @@ box. The site answers exact questions itself (how two people are related,
 parents, children, siblings, spouses, cousins, dates, places, "who was born
 in …" lists) without calling the Worker. Everything else is sent to `/ask`
 with only the records for the chart on screen, plus anyone named in the
-question: about 24,000 characters at most, with living people reduced to
-names and relationships.
+question: about 24,000 characters at most.
 
 - Model: `@cf/google/gemma-4-26b-a4b-it` on Workers AI, with its "thinking"
   step turned off. The instructions are fixed in the Worker, so a page cannot

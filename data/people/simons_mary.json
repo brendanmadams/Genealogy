@@ -1,7 +1,7 @@
 {
   "id": "simons_mary",
   "name": "Mary Patricia Walker (Simons)",
-  "birth": "",
+  "birth": "27 Feb 1939",
   "death": "",
   "personality": [],
   "roles": [],
@@ -23,18 +23,26 @@
       "simons_ann"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Portland, Oregon",
+    "Brentwood, Multnomah County, Oregon",
+    "Richland, Washington",
+    "Kennewick, Washington"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
     "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
     "Ancestry.com, 1940 United States Federal Census (Brentwood, Multnomah County, Oregon; ED 26-58, sheets 7B–8A)",
-    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)"
+    "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Glen E. Simons and Mary Patricia Walker, 1958)"
   ],
   "notes": [
     "Wife of Glen Simons.",
     "Married on 27 Jul 1958 at Kennewick, Benton County, Washington, by Rev. H. H. Underwood, a Methodist minister, under a license issued by the Franklin County auditor on 7 Jul 1958; witnesses Orvel K. Simons (Glen's brother Orval) and Jane Hudson. Glen, of Franklin County, signed \"Glen Erwin Simons\"; Mary Patricia Walker was of Benton County (Franklin County marriage certificate no. 9306).",
-    "Inferred: the daughter of Sheldon Joseph Dolan and Marrion Roma Hinds. In 1940 the Dolans had a daughter Mary in Portland, Oregon; Sheldon died in 1942, Marrion married John W. Walker, and in 1950 Mary P. Walker lived in Richland, Washington, with Marrion, her stepfather John W. Walker and her half-sisters Roma F. and Betty A. Walker. She married as Mary Patricia Walker, her stepfather's surname."
+    "Inferred: the daughter of Sheldon Joseph Dolan and Marrion Roma Hinds. In 1940 the Dolans had a daughter Mary in Portland, Oregon; Sheldon died in 1942, Marrion married John W. Walker, and in 1950 Mary P. Walker lived in Richland, Washington, with Marrion, her stepfather John W. Walker and her half-sisters Roma F. and Betty A. Walker. She married as Mary Patricia Walker, her stepfather's surname.",
+    "Born 27 Feb 1939 at Portland, Oregon (Ed Simons's tree); she was 19 at her marriage in July 1958 (Washington marriage records), a year old in the 1940 census at Brentwood, and 11 in the 1950 census at Richland."
   ],
   "aliases": [
     "Mary Simons",

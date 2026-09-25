@@ -2,7 +2,7 @@
   "id": "simons_john",
   "name": "John Glen Simons",
   "sex": "M",
-  "birth": "",
+  "birth": "16 Jun 1987",
   "death": "",
   "personality": [],
   "roles": [],
@@ -19,12 +19,16 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Tacoma, Pierce County, Washington"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
-  "notes": [],
+  "notes": [
+    "Born 16 Jun 1987 at Tacoma (Ed Simons's tree)."
+  ],
   "aliases": [
     "John Simons"
   ]

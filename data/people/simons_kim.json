@@ -2,7 +2,7 @@
   "id": "simons_kim",
   "name": "Kimberly Kay Alberts (Simons)",
   "sex": "F",
-  "birth": "",
+  "birth": "11 Dec 1959",
   "death": "",
   "personality": [],
   "roles": [],
@@ -22,12 +22,16 @@
       "simons_john"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Seattle, King County, Washington"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-24",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
-  "notes": [],
+  "notes": [
+    "Born 11 Dec 1959 at Seattle (Ed Simons's tree)."
+  ],
   "aliases": [
     "Kim Simons"
   ]
