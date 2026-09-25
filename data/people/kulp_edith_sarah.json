@@ -23,7 +23,9 @@
   },
   "locations": [
     "Delta Township, Whatcom County, Washington",
-    "Lynden, Whatcom County, Washington"
+    "Lynden, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Spokane, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -34,7 +36,8 @@
   "notes": [
     "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Died 11 Sep 1968 at Spokane as Edith Smith (Washington death records). Born 6 Jun 1899 at Blaine (Ed Simons's tree)."
+    "Died 11 Sep 1968 at Spokane as Edith Smith (Washington death records). Born 6 Jun 1899 at Blaine (Ed Simons's tree).",
+    "Born at Blaine (Ed Simons's tree); died at Spokane (Washington death records)."
   ],
   "sex": "F",
   "aliases": []

@@ -19,18 +19,23 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Indiana"
+  ],
   "sources": [
     "Ancestry.com, 1850 United States Federal Census (Coventry, Summit County, Ohio; NARA M432, roll 732, page 87b)",
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons"
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; household of Henry Simons)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
     "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1870.",
     "Called \"Emma\" in the text of her father Henry Simons's will (1889), which left her five dollars, and indexed as Harriet Emma. Her married name and later life are not yet found.",
-    "She was not among the next of kin living in Ohio who were notified when the will was proved in 1890, so she probably lived elsewhere by then (or had died). Searches of the Indiana and Ohio county marriage indexes, including DeKalb and Williams counties, found no certain match, under either Harriet or Emma."
+    "She was not among the next of kin living in Ohio who were notified when the will was proved in 1890, so she probably lived elsewhere by then (or had died). Searches of the Indiana and Ohio county marriage indexes, including DeKalb and Williams counties, found no certain match, under either Harriet or Emma.",
+    "Born in Indiana (1870 census, in the household of Henry Simons at Northwest, Williams County, Ohio)."
   ],
   "aliases": [
     "Harriet E. Simons",

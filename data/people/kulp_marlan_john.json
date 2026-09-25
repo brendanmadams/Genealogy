@@ -23,7 +23,9 @@
   },
   "locations": [
     "Delta Township, Whatcom County, Washington",
-    "Whatcom County, Washington"
+    "Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Spokane, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -33,7 +35,8 @@
   ],
   "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Born 13 Jun 1901; died 21 Jan 1974 at Spokane (Washington death records). Ed Simons's tree gives 16 Jun 1901 at Blaine."
+    "Born 13 Jun 1901; died 21 Jan 1974 at Spokane (Washington death records). Ed Simons's tree gives 16 Jun 1901 at Blaine.",
+    "Born at Blaine (Ed Simons's tree); died at Spokane (Washington death records)."
   ],
   "sex": "M",
   "aliases": []

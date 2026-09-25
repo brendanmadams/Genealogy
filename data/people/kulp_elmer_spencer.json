@@ -36,18 +36,21 @@
     "Lynden, WA",
     "Pasco, WA",
     "Delta Township, Whatcom County, Washington",
-    "Delta, Whatcom County, Washington"
+    "Delta, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
     "adams_family_doc_ocr_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
     "Spouse corrected to ritchey_amy (was erroneously self-referencing).",
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
     "Elmer, Amy, and the Burk and Simons households belonged to the Delta Grange (a farmers' association, not a church). [Family research emails, email 48]",
-    "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
+    "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]",
+    "Born at Blaine (Ed Simons's tree)."
   ],
   "sex": "M"
 }

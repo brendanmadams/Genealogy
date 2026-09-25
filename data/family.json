@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-09-25T17:24:13.793Z",
+  "generated": "2026-09-25T17:30:52.461Z",
   "people": 947,
   "family_members": 898,
   "dna_matches": 49,
@@ -2526,7 +2526,8 @@
     "Roseburg, OR",
     "Denver, Colorado",
     "Douglas County, Oregon",
-    "Chariton County, Missouri"
+    "Chariton County, Missouri",
+    "Oakland, Douglas County, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -2573,7 +2574,8 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "1920 U.S. census, Douglas County, Oregon, household 51, sheet 9 (FamilySearch index, accessed 2 Apr 2013)",
     "Ancestry.com, Oregon, U.S., Death Index, 1898-2008",
-    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Siblings listed: Alberta, Myrtle Anna, Charles W., Mary Susan, Gertrude, William W.",
@@ -2607,7 +2609,8 @@
     "The Oregon death index records his death on 7 Feb 1920 in Douglas County, which settles the date; Trudy's 1918 was mistaken.",
     "On his children's birth certificates he is a druggist or pharmacist, born in Missouri: at Roseburg in 1910 (aged 33) and 1916, and at Sutherlin in 1912 (aged 35).",
     "Born 24 Aug 1876 in Chariton County, Missouri; registered for the WWI draft in 1917 at Sutherlin as a druggist in his own business; died 7 Feb 1920 at Oakland, Douglas County, and buried at Valley View Cemetery, Sutherlin (Turner / Harvey Family Tree, citing Find a Grave memorial 83796381, with photographs of his headstone, \"George F. Adams 1876–1920\").",
-    "His grave at Valley View Cemetery, Sutherlin, has a flat marker, \"George F. Adams, 1876–1920\", beside an upright ADAMS stone, and an iron United Spanish War Veterans marker, \"U.S.W.V. 1898\"."
+    "His grave at Valley View Cemetery, Sutherlin, has a flat marker, \"George F. Adams, 1876–1920\", beside an upright ADAMS stone, and an iron United Spanish War Veterans marker, \"U.S.W.V. 1898\".",
+    "Ed Simons's tree gives his place of death as Oakland, Douglas County, Oregon."
    ]
   },
   {
@@ -8999,13 +9002,15 @@
     "Ancestry.com, 1880 United States Federal Census (District 8, Roane County, Tennessee)",
     "Ancestry.com, 1900 United States Federal Census (Civil District 2, McMinn County, Tennessee)",
     "Ancestry.com, Tennessee, U.S., Death Records, 1908-1965 (Thomas T. Ball, McMinn County, 1924, certificate 195)",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "CORRECTION 2026-09-24: Her name was Draden (Drady) Catherine, born Davis, not \"Graden\" (a misreading in the 1860 census index). She married David Ball as \"Drary Davis\" on 21 Dec 1833 in Roane County, Tennessee, and her son Thomas T. Ball's 1924 death certificate gives his mother's maiden name as Davis. She appears as Dorden (34) in 1850, Graden (46) in 1860, \"Grodon\" in 1870, Drady C. in 1880, and Drady Ball, born Jan 1816, in 1900, living in McMinn County with her children Nancy R. and George W. She is the source of the Draden/Dradie names among Ellen's descendants.",
     "The Kulp-Ritchey-Dorsett tree gives her birth as 18 Jan 1816 and her death as 12 Mar 1908 at Athens, McMinn County, aged 92.",
     "UNPROVEN: the Kulp-Ritchey-Dorsett tree names her parents as Samuel G. Davis (1778–1848, born in Virginia, died in McMinn or Meigs County) and Rebecca Rogers (\"Rebecca Ball Rogers\", 1785–1830). Ellen's middle name, Rogers, would come from this grandmother. The tree cites only other member trees; no will or probate for Samuel G. Davis has been found.",
-    "In 1880 both of her parents' birthplaces are given as Virginia; in 1900 her father's is Tennessee and her mother's Virginia. In 1900, a widow of 84 in McMinn County, she was the mother of 11 children, 9 of them living."
+    "In 1880 both of her parents' birthplaces are given as Virginia; in 1900 her father's is Tennessee and her mother's Virginia. In 1900, a widow of 84 in McMinn County, she was the mother of 11 children, 9 of them living.",
+    "Ed Simons's tree gives her birth as 18 Jan 1816."
    ]
   },
   {
@@ -16909,7 +16914,8 @@
    "priority": "normal",
    "locations": [
     "Portland, Oregon",
-    "Mount Calvary Cemetery, Portland"
+    "Mount Calvary Cemetery, Portland",
+    "Cedar Mill, Washington County, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -17043,7 +17049,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "County Dublin, Ireland",
+    "Multnomah County, Oregon"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -17054,7 +17063,8 @@
    "career": [],
    "sources": [
     "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)",
-    "Ancestry.com, U.S., Find a Grave Index, 1600s-Current"
+    "Ancestry.com, U.S., Find a Grave Index, 1600s-Current",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "UNPROVEN, from Find a Grave family links; not yet checked against a record. Father of Joseph Martin Dolan (born 1882 in Portland) and of Thomas J. (1880–1965), Sadie L. (Davis, 1886–1972) and Annie C. (Beberness, 1887–1945).",
@@ -17327,7 +17337,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "County Cork, Ireland",
+    "Multnomah County, Oregon"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -17338,7 +17351,8 @@
    "career": [],
    "sources": [
     "Find a Grave, memorial 134589927 (Joseph Martin Dolan, Mount Calvary Cemetery, Portland)",
-    "Ancestry.com, U.S., Find a Grave Index, 1600s-Current"
+    "Ancestry.com, U.S., Find a Grave Index, 1600s-Current",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "UNPROVEN, from Find a Grave family links; not yet checked against a record. Mother of Joseph Martin Dolan, born 1882 in Portland.",
@@ -20940,7 +20954,8 @@
     "Europe",
     "Olympia, Washington",
     "southern Puget Sound, WA",
-    "Roseburg, Douglas County, Oregon"
+    "Roseburg, Douglas County, Oregon",
+    "Tacoma, Pierce County, Washington"
    ],
    "personality": [
     "Did not bring his work home",
@@ -21025,7 +21040,9 @@
     "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Oregon State Archives)",
     "Ancestry.com, 1930 United States Federal Census (Burlingame, San Mateo County, California)",
     "Find a Grave, memorial 239144218 (George Francis Adams, 1916–1980)",
-    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)"
+    "Ancestry.com, public member tree \"Turner / Harvey Family Tree\" (tree 67006345)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Referenced in Brendan McKeldin Adams: Paternal grandparents are Beryl Adams and George Francis Adams II",
@@ -21040,7 +21057,8 @@
     "CORRECTION 2026-09-24: His Oregon birth certificate (no. 25) records George Francis Adams, born 10 Mar 1916 at Mercy Hospital, Roseburg, the third child of George Francis Adams, druggist, and Serena Trumbo, of Sutherlin. The given name was added by a supplemental report on 25 Mar 1916, so he was named George Francis two weeks after birth, not renamed after his father's death. No certificate exists for an Edward G. Adams. The \"Edward G. Adams\", aged 3, in the 1920 census is the only young son in the household, and in 1930 he appears as George F., 14, stepson of Arthur T. Wells, with Presley and Edith, so \"Edward G.\" looks like the enumerator's error or a family name.",
     "His father died on 7 Feb 1920 (Oregon death index), when George was nearly 4, not in 1918 when he was 2.",
     "He died on 11 Oct 1980 at Tacoma, Washington (Find a Grave, memorial 239144218).",
-    "The Turner / Harvey Family Tree lists him as \"Edward George Adams\", born 12 Mar 1916, following the 1920 census; his birth certificate gives George Francis Adams, born 10 Mar 1916."
+    "The Turner / Harvey Family Tree lists him as \"Edward George Adams\", born 12 Mar 1916, following the 1920 census; his birth certificate gives George Francis Adams, born 10 Mar 1916.",
+    "Died 11 Oct 1980 at Tacoma, Pierce County (Washington death records)."
    ]
   },
   {
@@ -32376,7 +32394,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Clyde, Cloud County, Kansas"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -33802,7 +33822,9 @@
    "priority": "normal",
    "locations": [
     "Towamencin, Montgomery County, PA",
-    "Lycoming, PA"
+    "Lycoming, PA",
+    "Kulpsville, Montgomery County, Pennsylvania",
+    "Linden, Lycoming County, Pennsylvania"
    ],
    "personality": [],
    "roles": [],
@@ -33816,10 +33838,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "Son of Jacob Oberholtzer Kolb. Father of Ephraim Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage."
+    "Son of Jacob Oberholtzer Kolb. Father of Ephraim Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage.",
+    "Ed Simons's tree gives his birthplace as Kulpsville, Montgomery County, and his place of death as Linden, Lycoming County, Pennsylvania."
    ]
   },
   {
@@ -33952,7 +33976,8 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Albion, Washington"
+    "Albion, Washington",
+    "Colville, Stevens County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -33974,7 +33999,8 @@
    "notes": [
     "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Died 27 Oct 2000 in Stevens County as Audrey R. Hedrick (Washington death records). Born 8 Dec 1918 at Albion (Ed Simons's tree)."
+    "Died 27 Oct 2000 in Stevens County as Audrey R. Hedrick (Washington death records). Born 8 Dec 1918 at Albion (Ed Simons's tree).",
+    "Died in Stevens County (Washington death records); Ed Simons's tree gives the place as Colville."
    ]
   },
   {
@@ -34163,7 +34189,9 @@
    "priority": "normal",
    "locations": [
     "Albion cemetery, Albion, Washington",
-    "Whatcom County, Washington"
+    "Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Pasco, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -34186,7 +34214,8 @@
    ],
    "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Born 24 May 1912; died 9 Oct 1991 at Pasco as Dorothy Belle Hooper (Washington death records)."
+    "Born 24 May 1912; died 9 Oct 1991 at Pasco as Dorothy Belle Hooper (Washington death records).",
+    "Born at Blaine (Ed Simons's tree); died at Pasco (Washington death records)."
    ]
   },
   {
@@ -34260,7 +34289,8 @@
     "Pasco, WA",
     "Whatcom County, Washington",
     "Milton, Oregon",
-    "Richland then Pasco, Washington"
+    "Richland then Pasco, Washington",
+    "Blaine, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -34284,14 +34314,17 @@
    "sources": [
     "consolidated_research_digest_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Siblings listed: Edith Sarah, Marlan John, Nardin Ira, Reta May, Elmer Spencer, Dorothy Belle, Ruth Zenith, Alton Roger, Audrey Rebecca",
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
     "Dradie was named in a line of several Dradie/Drady/Draden relatives, including her mother's sister Draden McPhail Dunbar. [Family research emails, email 49]",
     "Unconfirmed: Family members disagree whether the first seven Kulp children were born at Delta Township, Blaine or Lynden; Irma believed they were born on the Kulp homestead on Burk Road. [Family research emails, email 48]",
-    "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]"
+    "Open question: How far did Dradie, Edith, Marlan, Dorothy and Ruth Kulp get in school? Irma asks John to share anything he knows [Family research emails, email 48]",
+    "Died 12 Sep 1978 at Pasco (Washington death records). Ed Simons's tree gives her birthplace as Blaine, Whatcom County."
    ]
   },
   {
@@ -34347,7 +34380,9 @@
    "priority": "normal",
    "locations": [
     "Delta Township, Whatcom County, Washington",
-    "Lynden, Whatcom County, Washington"
+    "Lynden, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Spokane, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -34369,7 +34404,8 @@
    "notes": [
     "CORRECTION 2026-09-22: Father filled in from kulp_john_jacob, who lists this child. Mother left unknown.",
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Died 11 Sep 1968 at Spokane as Edith Smith (Washington death records). Born 6 Jun 1899 at Blaine (Ed Simons's tree)."
+    "Died 11 Sep 1968 at Spokane as Edith Smith (Washington death records). Born 6 Jun 1899 at Blaine (Ed Simons's tree).",
+    "Born at Blaine (Ed Simons's tree); died at Spokane (Washington death records)."
    ]
   },
   {
@@ -34434,7 +34470,8 @@
     "Lynden, WA",
     "Pasco, WA",
     "Delta Township, Whatcom County, Washington",
-    "Delta, Whatcom County, Washington"
+    "Delta, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -34458,13 +34495,15 @@
    "sources": [
     "consolidated_research_digest_v1",
     "adams_family_doc_ocr_v1",
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Spouse corrected to ritchey_amy (was erroneously self-referencing).",
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
     "Elmer, Amy, and the Burk and Simons households belonged to the Delta Grange (a farmers' association, not a church). [Family research emails, email 48]",
-    "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]"
+    "Open question: The Kulp lineage numbering in email 23 skips 8 and uses 9 twice (John Jacob Kulp and Elmer Spencer Kulp). The generation numbers are not reliable. [Family research emails, email 23]",
+    "Born at Blaine (Ed Simons's tree)."
    ]
   },
   {
@@ -34979,7 +35018,9 @@
    "priority": "normal",
    "locations": [
     "Delta Township, Whatcom County, Washington",
-    "Whatcom County, Washington"
+    "Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Spokane, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -35000,7 +35041,8 @@
    ],
    "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Born 13 Jun 1901; died 21 Jan 1974 at Spokane (Washington death records). Ed Simons's tree gives 16 Jun 1901 at Blaine."
+    "Born 13 Jun 1901; died 21 Jan 1974 at Spokane (Washington death records). Ed Simons's tree gives 16 Jun 1901 at Blaine.",
+    "Born at Blaine (Ed Simons's tree); died at Spokane (Washington death records)."
    ]
   },
   {
@@ -35221,7 +35263,8 @@
    "locations": [
     "Delta Township, Whatcom County, Washington",
     "Albion cemetery, Albion, Washington",
-    "Whatcom County, Washington"
+    "Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -35244,7 +35287,8 @@
    "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
     "Unconfirmed: Irma believes Nardin graduated from Albion High School. [Family research emails, email 48]",
-    "Died 4 Oct 1960 in Whitman County, aged about 56 (Washington death records). Born 8 Feb 1904 at Blaine (Ed Simons's tree)."
+    "Died 4 Oct 1960 in Whitman County, aged about 56 (Washington death records). Born 8 Feb 1904 at Blaine (Ed Simons's tree).",
+    "Born at Blaine (Ed Simons's tree)."
    ]
   },
   {
@@ -35369,7 +35413,9 @@
    "priority": "normal",
    "locations": [
     "Delta Township, Whatcom County, Washington",
-    "Whatcom County, Washington"
+    "Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Spokane, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -35393,7 +35439,8 @@
    ],
    "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Born 20 May 1906; died 28 Jun 1989 at Spokane as Reta May Koenig (Washington death records)."
+    "Born 20 May 1906; died 28 Jun 1989 at Spokane as Reta May Koenig (Washington death records).",
+    "Born at Blaine (Ed Simons's tree); died at Spokane (Washington death records)."
    ]
   },
   {
@@ -40166,7 +40213,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Cumberland County, North Carolina",
+    "McMinn County, Tennessee"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -40177,11 +40227,13 @@
    "career": [],
    "sources": [
     "Ancestry.com, Washington, U.S., Death Records, 1907–2017, and Select Death Index, 1907–1960",
-    "Find a Grave, memorial 6749130 (via Ancestry.com, U.S., Find a Grave Index)"
+    "Find a Grave, memorial 6749130 (via Ancestry.com, U.S., Find a Grave Index)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Father of John Belle McPhail, named on his son's 1925 death record.",
-    "Find a Grave lists his other children as Byrd Newman McPhail (1833–1893), William Dugald McPhail (1838–1900), Mary Rebecca McPhail Gudger (1840–1924) and Daniel Percell McPhail (1847–1928)."
+    "Find a Grave lists his other children as Byrd Newman McPhail (1833–1893), William Dugald McPhail (1838–1900), Mary Rebecca McPhail Gudger (1840–1924) and Daniel Percell McPhail (1847–1928).",
+    "Ed Simons's tree gives John David McPhail's birth as about 1805 in Cumberland County, North Carolina, and his death as before 1870 in McMinn County, Tennessee."
    ]
   },
   {
@@ -47167,7 +47219,8 @@
    "locations": [
     "Washington",
     "Pasco, Washington",
-    "Gladstone, Oregon"
+    "Gladstone, Oregon",
+    "Lynden, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -47185,12 +47238,14 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\"",
     "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Husband of Elaine Deretha Simons.",
     "Leslie Bernard Rinehart (1913–1988), per the Kulp-Ritchey-Dorsett Family Tree on Ancestry. \"Le Ley Rinehart\", 27, in the 1940 census, living with Elaine and their children Jerry and Janet Lee in his father-in-law Ray Simons's household near Richland.",
-    "Born 27 May 1913 in Washington; died 9 Jul 1988 at Gladstone, Oregon. His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988."
+    "Born 27 May 1913 in Washington; died 9 Jul 1988 at Gladstone, Oregon. His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988.",
+    "Born at Lynden (Ed Simons's tree)."
    ]
   },
   {
@@ -52903,7 +52958,9 @@
    "locations": [
     "Michigan",
     "Covert Township, Van Buren County, Michigan",
-    "Umatilla County, Oregon"
+    "Umatilla County, Oregon",
+    "South Haven, Van Buren County, Michigan",
+    "King County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -52925,7 +52982,8 @@
    "notes": [
     "Sister of Raymond Zell Simons. Inferred: she is the Bertha Harrington, 33, wife of Harry H. Harrington, in Precinct 12, Umatilla County, Oregon, in 1920, with their nephew Zell Busey, 14, the son of her sister Lola. Her age matches her 1887 birth.",
     "Aunt of Raymond Zell Simons, her sister Gertrude's son, who was raised in the household as a brother (Michigan birth registers; 1900 census).",
-    "UNPROVEN, from Ed Simons's tree: died 24 Sep 1940 in King County, Washington. Not found in the death index under Simons or Harrington."
+    "UNPROVEN, from Ed Simons's tree: died 24 Sep 1940 in King County, Washington. Not found in the death index under Simons or Harrington.",
+    "Ed Simons's tree gives her birthplace as South Haven, Michigan (March 1887), and her death as 24 Sep 1940 in King County."
    ]
   },
   {
@@ -53970,7 +54028,8 @@
    "priority": "normal",
    "locations": [
     "Michigan",
-    "Covert Township, Van Buren County, Michigan"
+    "Covert Township, Van Buren County, Michigan",
+    "Olympia, Thurston County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -54236,7 +54295,8 @@
    "locations": [
     "Washington",
     "Bonney Lake, Washington",
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Bellingham, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -54458,7 +54518,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Indiana"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -54472,12 +54534,15 @@
     "Ancestry.com, 1860 United States Federal Census (Richland, DeKalb County, Indiana; NARA M653, roll 254, page 242)",
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons"
+    "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
+    "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; household of Henry Simons)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1870.",
     "Called \"Emma\" in the text of her father Henry Simons's will (1889), which left her five dollars, and indexed as Harriet Emma. Her married name and later life are not yet found.",
-    "She was not among the next of kin living in Ohio who were notified when the will was proved in 1890, so she probably lived elsewhere by then (or had died). Searches of the Indiana and Ohio county marriage indexes, including DeKalb and Williams counties, found no certain match, under either Harriet or Emma."
+    "She was not among the next of kin living in Ohio who were notified when the will was proved in 1890, so she probably lived elsewhere by then (or had died). Searches of the Indiana and Ohio county marriage indexes, including DeKalb and Williams counties, found no certain match, under either Harriet or Emma.",
+    "Born in Indiana (1870 census, in the household of Henry Simons at Northwest, Williams County, Ohio)."
    ]
   },
   {
@@ -54702,7 +54767,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "Sep 1973",
+    "text": "8 Sep 1973",
     "year": 1973,
     "qualifier": null
    },
@@ -54749,7 +54814,8 @@
    "priority": "normal",
    "locations": [
     "Lynden, Whatcom County, Washington",
-    "Delta, Whatcom County, Washington"
+    "Delta, Whatcom County, Washington",
+    "Kennewick, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -54770,11 +54836,14 @@
    "sources": [
     "adams_direct_line_summary_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Known as Howard; legal name Byron Daniel Simons. Beryl's favorite brother. Previously referenced in prior sources as 'Byron Daniel Howard Simons.'",
-    "His nephew John Howard Adams got his middle name from him and was fond of him. [John Howard Adams, A Memoir, text line 682]"
+    "His nephew John Howard Adams got his middle name from him and was fond of him. [John Howard Adams, A Memoir, text line 682]",
+    "Died 8 Sep 1973, as Byron D. Simons (Washington death records); Ed Simons's tree gives the place as Kennewick and his full name as Byron Daniel \"Howard\" Simons."
    ]
   },
   {
@@ -56315,7 +56384,8 @@
    "locations": [
     "Lynden, Whatcom County, Washington",
     "Spokane, Spokane County, Washington",
-    "Delta, Whatcom County, Washington"
+    "Delta, Whatcom County, Washington",
+    "Bellingham, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -56336,12 +56406,15 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
     "Washington State Archives, Digital Archives, Department of Health, Marriage Index, 1969-2022",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Brother of Beryl Simons Adams.",
     "Open question: an Orvel K. Simons married Ruth E. Bates (born Connor) on 12 Mar 1977 in Franklin County (Department of Health marriage index). If this is Orval, he and Irene had divorced before his death in 1979.",
-    "A witness, as Orvel K. Simons, at the wedding of his brother Glen and Mary Patricia Walker at Kennewick on 27 Jul 1958 (Franklin County marriage certificate no. 9306)."
+    "A witness, as Orvel K. Simons, at the wedding of his brother Glen and Mary Patricia Walker at Kennewick on 27 Jul 1958 (Franklin County marriage certificate no. 9306).",
+    "Born 30 Oct 1929 and died 21 Jul 1979 at Spokane (Washington death records, as Orvel K. Simons). Ed Simons's tree gives his birthplace as Bellingham."
    ]
   },
   {
@@ -56525,7 +56598,8 @@
    "locations": [
     "Lynden, Whatcom County, Washington",
     "Delta, Whatcom County, Washington",
-    "Pasco, Washington"
+    "Pasco, Washington",
+    "Blaine, Whatcom County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -56543,11 +56617,14 @@
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue.",
-    "Married Wilma K. Hardy on 30 Aug 1947 in Franklin County and Beatrice \"Bette\" Jones on 10 Nov 1969 at Pasco. Died 26 Apr 1994 at Pasco; buried at Kennewick (Kulp-Ritchey-Dorsett Family Tree)."
+    "Married Wilma K. Hardy on 30 Aug 1947 in Franklin County and Beatrice \"Bette\" Jones on 10 Nov 1969 at Pasco. Died 26 Apr 1994 at Pasco; buried at Kennewick (Kulp-Ritchey-Dorsett Family Tree).",
+    "Born 17 Oct 1921 and died 26 Apr 1994 at Pasco (Washington death records). Ed Simons's tree gives his birthplace as Blaine."
    ]
   },
   {
@@ -56828,7 +56905,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Indiana"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -56849,12 +56928,15 @@
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
     "Find a Grave, memorial 78651501 (Henry Simons, Billingstown Cemetery)",
     "Ancestry.com, Ohio, U.S., Wills and Probate Records (Williams County will records, vol. 5–6, 1889–1897): will of Henry Simons",
-    "Find a Grave, memorial 66385846"
+    "Find a Grave, memorial 66385846",
+    "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; household of Henry Simons)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Child of Henry and Mary Simons; brother or sister of Aaron Simons. Born in Indiana; aged 8 in 1860 and 17 in 1870. The tree gives his death as 5 Jul 1921 at Fremont, Steuben County, Indiana.",
     "Married first Mary Ellen VanFossen in 1875 (later divorced; daughter Della \"Hallah\" M.); second Mary A. Turnipseed on 23 Aug 1880 in Wabash County, Indiana (sons LeRoy Scott and Elmer Henry); third Minnie Belle (Purdy) Adams on 28 Sep 1912 at Coldwater, Michigan. Buried at Fremont, Steuben County, Indiana.",
-    "His father's will (1889) left thirty acres of section 15, Northwest Township, Williams County, to his wife Mary A. Simons, and five dollars to Richard."
+    "His father's will (1889) left thirty acres of section 15, Northwest Township, Williams County, to his wife Mary A. Simons, and five dollars to Richard.",
+    "Born in Indiana (1870 census, in the household of Henry Simons at Northwest, Williams County, Ohio)."
    ]
   },
   {
@@ -62638,7 +62720,8 @@
    "priority": "normal",
    "locations": [
     "Illinois",
-    "Pennsylvania"
+    "Pennsylvania",
+    "Holton, Jackson County, Kansas"
    ],
    "personality": [],
    "roles": [],
@@ -62705,7 +62788,10 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Pennsylvania",
+    "Big Muddy, Union County, Illinois"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -63190,12 +63276,14 @@
     "Ancestry.com, 1870 United States Federal Census (Northwest, Williams County, Ohio; NARA M593, roll 1282, page 145A)",
     "Ancestry.com, Summit County, Ohio, U.S., Marriage Records, 1840–1980 (Vol. A–C), and Ohio, U.S., County Marriage Records",
     "Ancestry.com, public member tree \"A miscellaneous research tree\" (tree 62391298)",
-    "Find a Grave, memorial 29778599"
+    "Find a Grave, memorial 29778599",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
     "Born in Ohio about 1817–18 (aged 32 in 1850, 43 in 1860, 53 in 1870); the Ancestry trees give 30 Jan 1818, and her death as 25 Dec 1889 in Williams County, Ohio.",
     "She married Henry Symons as \"Mary Marsh\" on 24 Apr 1845 in Summit County, Ohio. Find a Grave and the family trees give her birth surname as Wagner or Wagoner, so she was probably a widow, Mrs. Marsh, when she married Henry; no record found so far shows the Wagner name or a first husband.",
-    "Mary Jane Simons Fryman's 1919 death certificate names her mother as Elizabeth Marsh, born in Ohio. With the 1845 marriage record's \"Mary Marsh\", this suggests Marsh may have been her birth surname rather than a first husband's, or that Henry had an earlier wife; the Wagner name appears only on Find a Grave and in trees."
+    "Mary Jane Simons Fryman's 1919 death certificate names her mother as Elizabeth Marsh, born in Ohio. With the 1845 marriage record's \"Mary Marsh\", this suggests Marsh may have been her birth surname rather than a first husband's, or that Henry had an earlier wife; the Wagner name appears only on Find a Grave and in trees.",
+    "Ed Simons's tree gives her birth as 30 Jan 1818 in Ohio, as Mary Wagoner."
    ]
   },
   {

@@ -30,7 +30,9 @@
   },
   "locations": [
     "Albion cemetery, Albion, Washington",
-    "Whatcom County, Washington"
+    "Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Pasco, Washington"
   ],
   "sources": [
     "consolidated_research_digest_v1",
@@ -40,7 +42,8 @@
   ],
   "notes": [
     "CORRECTION 2026-09-22: Mother set to mcphail_mary_emily, the only recorded wife of John Jacob Kulp (m. 15 Aug 1897; she d. 1931); confirmed by Brendan Adams.",
-    "Born 24 May 1912; died 9 Oct 1991 at Pasco as Dorothy Belle Hooper (Washington death records)."
+    "Born 24 May 1912; died 9 Oct 1991 at Pasco as Dorothy Belle Hooper (Washington death records).",
+    "Born at Blaine (Ed Simons's tree); died at Pasco (Washington death records)."
   ],
   "sex": "F",
   "aliases": [

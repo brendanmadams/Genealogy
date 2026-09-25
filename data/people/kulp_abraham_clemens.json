@@ -25,13 +25,17 @@
   },
   "locations": [
     "Towamencin, Montgomery County, PA",
-    "Lycoming, PA"
+    "Lycoming, PA",
+    "Kulpsville, Montgomery County, Pennsylvania",
+    "Linden, Lycoming County, Pennsylvania"
   ],
   "sources": [
-    "adams_family_doc_ocr_v1"
+    "adams_family_doc_ocr_v1",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
-    "Son of Jacob Oberholtzer Kolb. Father of Ephraim Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage."
+    "Son of Jacob Oberholtzer Kolb. Father of Ephraim Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage.",
+    "Ed Simons's tree gives his birthplace as Kulpsville, Montgomery County, and his place of death as Linden, Lycoming County, Pennsylvania."
   ],
   "sex": "M"
 }
