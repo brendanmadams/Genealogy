@@ -1,6 +1,6 @@
 {
   "id": "simons_orval_keith",
-  "name": "Orval Keith Simons",
+  "name": "Orvel Keith Simons",
   "birth": "30 Oct 1929",
   "death": "21 Jul 1979",
   "personality": [],
@@ -9,9 +9,11 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Born 30 Oct 1929, Lynden, Whatcom Co, Washington",
     "Died 21 Jul 1979, Spokane, Spokane Co, Washington",
-    "Married Bessie Irene Cantrell (m. 1951)"
+    "Married Bessie Irene Cantrell (m. 8 Jul 1951, Pasco, Franklin County, Washington; again 23 Aug 1969; div. 8 Feb 1977)",
+    "Born 30 Oct 1929, Blaine, Whatcom County, Washington",
+    "Married Norma (Flemmer) Albertson (m. 5 May 1966, Kootenai County, Idaho; div. 15 Aug 1969)",
+    "Married Ruth (Connor) Bates (m. 12 Mar 1977, Franklin County, Washington)"
   ],
   "education": [
     "Orval Simons was an elementary school student of Amy Kulp and Alice Burk."
@@ -27,13 +29,19 @@
       "simons_rodney",
       "simons_janine",
       "simons_billy"
+    ],
+    "_extra_spouses": [
+      "flemmer_norma_jean",
+      "connor_ruth_e"
     ]
   },
   "locations": [
-    "Lynden, Whatcom County, Washington",
     "Spokane, Spokane County, Washington",
     "Delta, Whatcom County, Washington",
-    "Bellingham, Whatcom County, Washington"
+    "Bellingham, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Richland, Benton County, Washington",
+    "Pasco, Franklin County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
@@ -42,14 +50,20 @@
     "Washington State Archives, Digital Archives, Department of Health, Marriage Index, 1969-2022",
     "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
     "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington County Birth Registers, 1873-1965 (Orval Keith Simons, parents Raymond Zell Simons and Dradie Kulp; ark 1:1:6C3G-GRZM); United States Social Security NUMIDENT (Orvel Keith Simons, born 30 Oct 1929 Blaine, Whatcom County; parents Raymond Z. Simons and Dradie E. Kulp; ark 1:1:6KW1-M6GJ)",
+    "FamilySearch, United States Census, 1930 (Delta, Whatcom County; ark 1:1:XCQF-YPM), 1940 (Richland precinct, Benton County; ark 1:1:K99X-7R3) and 1950 (Franklin County, with Ray Z., Dradie E. and Glen E. Simons; ark 1:1:6X1C-KCKS)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Orvel Keith Simons, 22, born 30 Oct 1929, and Bessie Irene Cantrell, 8 Jul 1951, Pasco; Orvel K. Simons and Bessie Irene Simons, application 18 Aug 1969, married 23 Aug 1969, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Orvel K. Simons and Norma Albertson, 5 May 1966, Kootenai County, certificate 5808); FamilySearch, Washington Divorce Index, 1969-2014 (from Norma J. Flemmer, 15 Aug 1969, Franklin County, no children; from Bessie I. Cantrell, 8 Feb 1977, Franklin County, two children) and Washington Marriage Index (Orvel K. Simons and Ruth Connor Bates, 12 Mar 1977, Franklin County)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Orvel Keith Simons, 49, died 21 Jul 1979 Spokane; certificate 16904; parents Ray Z. Simons and Dradie Culp; spouse Ruth Connor; residence Franklin County); FamilySearch, Washington County Death Registers (ark 1:1:6FTY-1BYW); Find a Grave, memorial 73189932 (Desert Lawn Memorial Park, Kennewick, Glendale block 2, lot 82, space 2)"
   ],
   "notes": [
     "Brother of Beryl Simons Adams.",
-    "Open question: an Orvel K. Simons married Ruth E. Bates (born Connor) on 12 Mar 1977 in Franklin County (Department of Health marriage index). If this is Orval, he and Irene had divorced before his death in 1979.",
     "A witness, as Orvel K. Simons, at the wedding of his brother Glen and Mary Patricia Walker at Kennewick on 27 Jul 1958 (Franklin County marriage certificate no. 9306).",
-    "Born 30 Oct 1929 and died 21 Jul 1979 at Spokane (Washington death records, as Orvel K. Simons). Ed Simons's tree gives his birthplace as Bellingham."
+    "Born 30 Oct 1929 at Blaine, Whatcom County (Social Security record; the county register spells him Orval, every later record Orvel); with his parents at Delta in 1930, near Richland in 1940 and in Franklin County in 1950 (censuses). Married Bessie Irene Cantrell at Pasco on 8 Jul 1951; married Norma Albertson, born Flemmer, in Kootenai County, Idaho, on 5 May 1966 and divorced her in Franklin County on 15 Aug 1969; remarried Irene there on 23 Aug 1969 and was divorced from her, with two children, on 8 Feb 1977; married Ruth Connor Bates in Franklin County on 12 Mar 1977. Died 21 Jul 1979 at Spokane, aged 49, his widow Ruth Connor, and is buried at Desert Lawn Memorial Park, Kennewick, Glendale block 2 (marriage and divorce records; death record; Find a Grave)."
   ],
-  "aliases": [],
+  "aliases": [
+    "Orval Keith Simons",
+    "Orvel K. Simons"
+  ],
   "sex": "M"
 }

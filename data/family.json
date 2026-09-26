@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-26T13:54:14.404Z",
-  "people": 1037,
-  "family_members": 990,
+  "generated": "2026-09-26T14:49:10.847Z",
+  "people": 1049,
+  "family_members": 1002,
   "dna_matches": 47,
-  "connected_people": 989,
-  "families": 360,
+  "connected_people": 1001,
+  "families": 367,
   "branches": [
    "adams",
    "hamilton",
@@ -13121,15 +13121,15 @@
   },
   {
    "id": "bensussen_michael",
-   "name": "Michael Bensussen",
+   "name": "Michael T. Bensussen",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "May 1986",
+    "year": 1986,
     "qualifier": null
    },
    "death": {
@@ -13137,8 +13137,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -13168,7 +13168,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Richland, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -13178,7 +13180,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Janine S. Bensussen, born 13 Feb 1953; Kennewick 1985, Westminster, Colorado 1995, Pasco 1996, Denver 1998–2001 with Stanley J., Richland 2002); Washington, U.S., Marriage Records, 1854-2013 (licence 1 Sep 1983, Benton County) and Marriage Index, 1969-2017 (Janine C. Simons and Stanley J. Bensussen, 4 Sep 1983, King County); U.S., Index to Public Records, 1994-2019 (Michael T. Bensussen, born May 1986, and Simon D. Bensussen, born Sep 1989, Richland 2015–20)"
    ],
    "notes": [
     "Son of Stan and Janine (Simons) Bensussen; grandson of Orvel and Irene Simons.",
@@ -13187,15 +13190,15 @@
   },
   {
    "id": "bensussen_simon",
-   "name": "Simon Bensussen",
+   "name": "Simon D. Bensussen",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "Sep 1989",
+    "year": 1989,
     "qualifier": null
    },
    "death": {
@@ -13203,8 +13206,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -13234,7 +13237,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Richland, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -13244,7 +13249,8 @@
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Janine S. Bensussen, born 13 Feb 1953; Kennewick 1985, Westminster, Colorado 1995, Pasco 1996, Denver 1998–2001 with Stanley J., Richland 2002); Washington, U.S., Marriage Records, 1854-2013 (licence 1 Sep 1983, Benton County) and Marriage Index, 1969-2017 (Janine C. Simons and Stanley J. Bensussen, 4 Sep 1983, King County); U.S., Index to Public Records, 1994-2019 (Michael T. Bensussen, born May 1986, and Simon D. Bensussen, born Sep 1989, Richland 2015–20)"
    ],
    "notes": [
     "Son of Stan and Janine (Simons) Bensussen; grandson of Orvel and Irene Simons."
@@ -13977,6 +13983,71 @@
    ],
    "notes": [
     "Born in New York (1940 census, aged 64, so about 1876; the FamilySearch tree gives 1879 and a death in 1956). Married Florence C. (Goodenough) Hinds at Vancouver, Washington, on 8 Jun 1933 (the tree); head of the household in Election Precinct 437 Brentwood, Multnomah County, in 1940, and in Multnomah County in 1950."
+   ]
+  },
+  {
+   "id": "blust_theresa",
+   "name": "Theresa Blust (Jones)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "jones_harry_l"
+   ],
+   "children": [
+    "jones_wilma_k"
+   ],
+   "siblings": [],
+   "families": [
+    "F_blust_theresa+jones_harry_l"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Dawes County, Nebraska"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Nebraska, U.S., Birth Index, 1912-2004 (Wilma K. Jones, 30 Mar 1924, Dawes County; father Harry Jones; delayed certificate 45150); U.S., Social Security Applications and Claims Index (Wilma Jones, born 30 Mar 1924 Chadron, Nebraska; parents Harry L. Jones and Theresa Blust; named Wilma Jones Sep 1941, Wilma Hardy Feb 1947, Wilma Simons Oct 1948); 1940 United States Federal Census (Wilma Jones, 16, niece of Clyde G. and Martha Shilton, Crawford, Dawes County)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Wilma K. Simons, also Jones, 65, died 9 Aug 1989 Pasco; certificate 9-22577; born 30 Mar 1924 Nebraska; parents Harry Jones and Theresa Blust; spouse none); U.S. Social Security Death Index (died 10 Aug 1989); U.S., Newspapers.com Obituary Index (Tri-City Herald, 12 Aug 1989); Find a Grave, memorial 8775322 (Wilma K. \"Billie\" Jones Simons, 30 Mar 1924 – 10 Aug 1989, Desert Lawn Memorial Park, Kennewick, Parkhurst section, \"beloved mother and grandmother\")"
+   ],
+   "notes": [
+    "Mother of Wilma K. Jones, named on her Social Security application and her 1989 death record."
    ]
   },
   {
@@ -16287,6 +16358,139 @@
    ]
   },
   {
+   "id": "cantrell_houston_brown",
+   "name": "Houston Brown Cantrell",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "24 Jun 1915",
+    "year": 1915,
+    "qualifier": null
+   },
+   "death": {
+    "text": "24 Sep 1984",
+    "year": 1984,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "fleming_hallie_evelyn"
+   ],
+   "children": [
+    "simons_irene"
+   ],
+   "siblings": [],
+   "families": [
+    "F_cantrell_houston_brown+fleming_hallie_evelyn"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "DeKalb County, Tennessee",
+    "Murray County, Georgia"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Hallie Evelyn Fleming (m. abt 1931, Tennessee)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1940 (Bessie I. Cantrell, 7, born Tennessee, with parents Houston B. and Hallie E. Cantrell and sisters Nettie C. and Geneva H., Civil District 21, DeKalb County, Tennessee; ark 1:1:K44G-6PD) and 1950 (Bessie J. Cantrell, born 1933 Tennessee, in the Franklin County, Washington, household of her stepfather Ray Owens and mother Hallie E. Owens, with Nettie C. Cantrell and half-siblings Jackie J., Geneva H., Gloria E. and Ronnie R. Owens; ark 1:1:6X14-ZJYF)",
+    "Find a Grave, memorial 184321757 (Bessie Irene Cantrell Simons, 4 Nov 1932 Rock Island, Warren County, Tennessee – 10 Oct 2017 Richland; Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary; Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, 11 Oct 2017); Find a Grave, memorials 25111955 (Houston Brown Cantrell, 24 Jun 1915 – 24 Sep 1984, Dewberry Baptist Church Cemetery, Murray County, Georgia) and 78570887 (Hallie Evelyn Fleming Freeland, 8 Oct 1915 Tennessee – 21 Sep 1982 Yakima, Tahoma Cemetery)"
+   ],
+   "notes": [
+    "Irene's father, born 24 Jun 1915, son of Henry Ezra Cantrell (1892–1974) and Minnie Lea Roller; married Hallie Fleming about 1931 and was with her and their daughters Bessie, Nettie and Geneva in DeKalb County, Tennessee, in 1940; separated from Hallie by 1950; died 24 Sep 1984 in Murray County, Georgia, and is buried at Dewberry Baptist Church Cemetery there (1940 census; Find a Grave; Georgia death index)."
+   ]
+  },
+  {
+   "id": "carlson_amelia",
+   "name": "Amelia Carlson (Rinehart)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "rinehart_john_a"
+   ],
+   "children": [
+    "rhinehart_les"
+   ],
+   "siblings": [],
+   "families": [
+    "F_carlson_amelia+rinehart_john_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Lynden, Whatcom County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Birth Records, 1907-1920 (Leslie Bernard Rinehart, 27 May 1913, Lynden, Whatcom County; parents John A. Rinehart and Amelia Carlson; certificate 8798)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Rinehart, 22, born Lynden, son of John and Amelia Rinehart, and Elaine Simons, born Milton, Oregon; 10 Sep 1935, Skagit County; ref. nwskgmr10557)"
+   ],
+   "notes": [
+    "Mother of Leslie Bernard Rinehart, named as Amelia Carlson on his 1913 birth certificate and Amelia Rinehart on his 1935 marriage record (state birth record; county marriage record)."
+   ]
+  },
+  {
    "id": "cashion_effie_emily",
    "name": "Effie Emily Cashion (Abernathy)",
    "aliases": [
@@ -18078,6 +18282,69 @@
     "Wife of Ephraim Kulp. Source: Irmagene Kulp Zacher, Kulp Family Lineage.",
     "Open question: Maria Catharina Confer's entry reads 'm. Maria Catharina Confer, Somerset, PA'. It is unclear whether Somerset is her origin or the marriage place [Family research emails, email 23]",
     "UNPROVEN, from Ed Simons's Ancestry tree: born 1810 in Pennsylvania; died Feb 1860 at Lower Salford, Montgomery County, Pennsylvania."
+   ]
+  },
+  {
+   "id": "connor_ruth_e",
+   "name": "Ruth E. Connor (Bates, Simons)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_orval_keith"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_connor_ruth_e+simons_orval_keith"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Orvel Keith Simons (m. 12 Mar 1977, Franklin County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Orvel Keith Simons, 22, born 30 Oct 1929, and Bessie Irene Cantrell, 8 Jul 1951, Pasco; Orvel K. Simons and Bessie Irene Simons, application 18 Aug 1969, married 23 Aug 1969, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Orvel K. Simons and Norma Albertson, 5 May 1966, Kootenai County, certificate 5808); FamilySearch, Washington Divorce Index, 1969-2014 (from Norma J. Flemmer, 15 Aug 1969, Franklin County, no children; from Bessie I. Cantrell, 8 Feb 1977, Franklin County, two children) and Washington Marriage Index (Orvel K. Simons and Ruth Connor Bates, 12 Mar 1977, Franklin County)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Orvel Keith Simons, 49, died 21 Jul 1979 Spokane; certificate 16904; parents Ray Z. Simons and Dradie Culp; spouse Ruth Connor; residence Franklin County); FamilySearch, Washington County Death Registers (ark 1:1:6FTY-1BYW); Find a Grave, memorial 73189932 (Desert Lawn Memorial Park, Kennewick, Glendale block 2, lot 82, space 2)"
+   ],
+   "notes": [
+    "Fourth wife of Orvel Keith Simons: as Ruth E. Bates she married him in Franklin County on 12 Mar 1977 and was his widow at his death in 1979, when the death record names her Ruth Connor (marriage index; death record)."
    ]
   },
   {
@@ -22956,6 +23223,140 @@
    ],
    "notes": [
     "Father of Elmira (Bell). Head of an 18th-ward household in 1860 (Thos. Fleeharty, 32, born in Maryland, with Margaret, 32, Emma and Francis Pheobus, 13 and 8, Almira, 3, Mary, 1, and Wm. Chambers, 55) and in 1870 (Thomas Fleharty, 46, with Margaret, 43, Almira, 13, Mary M., 11, and Charles, 5). The censuses put his birth at 1824–1828. Dead by 1900, when Margaret was living with the Bells as a widow; his death is not yet found."
+   ]
+  },
+  {
+   "id": "fleming_hallie_evelyn",
+   "name": "Hallie Evelyn Fleming (Cantrell, Owens, Freeland)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "8 Oct 1915",
+    "year": 1915,
+    "qualifier": null
+   },
+   "death": {
+    "text": "21 Sep 1982",
+    "year": 1982,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "cantrell_houston_brown"
+   ],
+   "children": [
+    "simons_irene"
+   ],
+   "siblings": [],
+   "families": [
+    "F_cantrell_houston_brown+fleming_hallie_evelyn"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Tennessee",
+    "Franklin County, Washington",
+    "Yakima, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Houston Brown Cantrell (m. abt 1931, Tennessee)",
+    "Married Ray Owens (by 1950, Washington)",
+    "Married John Freeland (m. 1960)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1940 (Bessie I. Cantrell, 7, born Tennessee, with parents Houston B. and Hallie E. Cantrell and sisters Nettie C. and Geneva H., Civil District 21, DeKalb County, Tennessee; ark 1:1:K44G-6PD) and 1950 (Bessie J. Cantrell, born 1933 Tennessee, in the Franklin County, Washington, household of her stepfather Ray Owens and mother Hallie E. Owens, with Nettie C. Cantrell and half-siblings Jackie J., Geneva H., Gloria E. and Ronnie R. Owens; ark 1:1:6X14-ZJYF)",
+    "Find a Grave, memorial 184321757 (Bessie Irene Cantrell Simons, 4 Nov 1932 Rock Island, Warren County, Tennessee – 10 Oct 2017 Richland; Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary; Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, 11 Oct 2017); Find a Grave, memorials 25111955 (Houston Brown Cantrell, 24 Jun 1915 – 24 Sep 1984, Dewberry Baptist Church Cemetery, Murray County, Georgia) and 78570887 (Hallie Evelyn Fleming Freeland, 8 Oct 1915 Tennessee – 21 Sep 1982 Yakima, Tahoma Cemetery)"
+   ],
+   "notes": [
+    "Irene's mother, born 8 Oct 1915 in Tennessee, daughter of William Elihue Fleming (1883–1947) and Emma Jane DeLong (1887–1963); wife of Houston Cantrell in 1940, of Ray Owens in Franklin County, Washington, in 1950, with four Owens children, and from 1960 of John Freeland (1911–1983); died 21 Sep 1982 at Yakima and is buried at Tahoma Cemetery there (censuses; Find a Grave)."
+   ]
+  },
+  {
+   "id": "flemmer_norma_jean",
+   "name": "Norma Jean Flemmer (Albertson, Simons, Knight)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1934",
+    "year": 1934,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2022",
+    "year": 2022,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_orval_keith"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_flemmer_norma_jean+simons_orval_keith"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Orvel Keith Simons (m. 5 May 1966, Kootenai County, Idaho; div. 15 Aug 1969)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Orvel Keith Simons, 22, born 30 Oct 1929, and Bessie Irene Cantrell, 8 Jul 1951, Pasco; Orvel K. Simons and Bessie Irene Simons, application 18 Aug 1969, married 23 Aug 1969, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Orvel K. Simons and Norma Albertson, 5 May 1966, Kootenai County, certificate 5808); FamilySearch, Washington Divorce Index, 1969-2014 (from Norma J. Flemmer, 15 Aug 1969, Franklin County, no children; from Bessie I. Cantrell, 8 Feb 1977, Franklin County, two children) and Washington Marriage Index (Orvel K. Simons and Ruth Connor Bates, 12 Mar 1977, Franklin County)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Orvel Keith Simons, 49, died 21 Jul 1979 Spokane; certificate 16904; parents Ray Z. Simons and Dradie Culp; spouse Ruth Connor; residence Franklin County); FamilySearch, Washington County Death Registers (ark 1:1:6FTY-1BYW); Find a Grave, memorial 73189932 (Desert Lawn Memorial Park, Kennewick, Glendale block 2, lot 82, space 2)"
+   ],
+   "notes": [
+    "Second wife of Orvel Keith Simons: as Norma Albertson she married him in Kootenai County, Idaho, on 5 May 1966; divorced, as Norma J. Flemmer, in Franklin County on 15 Aug 1969, no children (Idaho marriage record; divorce index). Later Mrs Knight, 1934–2022 (Find a Grave)."
    ]
   },
   {
@@ -33535,76 +33936,6 @@
    ]
   },
   {
-   "id": "hardy_wilma",
-   "name": "Wilma K. Hardy (Simons)",
-   "aliases": [
-    "Wilma Simons"
-   ],
-   "photo": null,
-   "card_name": null,
-   "sex": "F",
-   "media": [],
-   "birth": {
-    "text": "30 Mar 1924",
-    "year": 1924,
-    "qualifier": null
-   },
-   "death": {
-    "text": "10 Aug 1989",
-    "year": 1989,
-    "qualifier": null
-   },
-   "living": false,
-   "living_status": null,
-   "branch": "simons",
-   "branch_by_marriage": true,
-   "lineages": [],
-   "adopted": false,
-   "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "birth_father": null,
-   "birth_mother": null,
-   "birth_parents": [],
-   "birth_children": [],
-   "spouses": [
-    "simons_raymond_elmer"
-   ],
-   "children": [
-    "simons_carl_ray",
-    "simons_debra_sue"
-   ],
-   "siblings": [],
-   "families": [
-    "F_hardy_wilma+simons_raymond_elmer"
-   ],
-   "parent_family": null,
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [
-    "Chadron, Dawes County, Nebraska",
-    "Franklin County, Washington"
-   ],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [
-    "Married Raymond Elmer Simons (m. 30 Aug 1947)"
-   ],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
-   ],
-   "notes": [
-    "Born 30 Mar 1924 at Chadron, Nebraska; married Elmer Simons on 30 Aug 1947 in Franklin County, Washington; died 10 Aug 1989 in Franklin County (Kulp-Ritchey-Dorsett Family Tree). She and Elmer adopted Carl Ray (1954) and Debra Sue; Carl Ray's 2025 obituary names his parents as Wilma and Elmer."
-   ]
-  },
-  {
    "id": "harrington_harry_h",
    "name": "Harry H. Harrington",
    "aliases": [],
@@ -34431,6 +34762,68 @@
    ]
   },
   {
+   "id": "hickman_terri_lee",
+   "name": "Terri Lee Hickman (Simons)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_les"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hickman_terri_lee+simons_les"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Leslie Orvel Simons (m. 2 May 1976, Pasco, Franklin County, Washington; div. 5 Sep 1985)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Orvel Simons, 21, born 2 Mar 1955, and Terri Lee Hickman, 2 May 1976, Pasco; Leslie O. Simons, 33, born Connell, and Lenore Elaine Peha, 16 Jul 1988, King County); Washington, U.S., Divorce Records, 1968-2017 (from Terry L. Simons, 5 Sep 1985, Benton County, no children, husband filed); U.S., Newspapers.com Marriage Index (1976, parent Orvel Simons, of Kennewick); Washington, U.S., Marriage Index, 1969-2017 (Leslie M. Simons and Paul J. Addis, 12 Nov 2016, King County); public-records indexes (Kennewick; Kent 1995; Everett 2020)"
+   ],
+   "notes": [
+    "First wife of Leslie Orvel Simons: married at Pasco 2 May 1976, divorced in Benton County 5 Sep 1985, no children (county marriage record; divorce index)."
+   ]
+  },
+  {
    "id": "hinds_hershel",
    "name": "Hershel Hinds",
    "aliases": [
@@ -34670,6 +35063,77 @@
    "notes": [
     "Wife of Wright Kenoyer. Irma saw her death notice in about 2010 (not confirmed). [Family research emails, email 25]",
     "Open question: Is Christopher Hittle (from the Hughes Ancestry tree) related to Alice (Hittle) Kenoyer, wife of Wright Kenoyer? [Family research emails, email 25]"
+   ]
+  },
+  {
+   "id": "hoey_judith_lynn",
+   "name": "Judith Lynn Hoey (Simons)",
+   "aliases": [
+    "Judy Simons"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "27 Dec 1957",
+    "year": 1957,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_carl_ray"
+   ],
+   "children": [
+    "simons_shawn"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hoey_judith_lynn+simons_carl_ray"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ohio",
+    "Pasco, Franklin County, Washington",
+    "Urbana, Champaign County, Ohio"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Carl Ray Simons (m. 9 Jun 1984, Pasco, Franklin County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 and Marriage Index, 1969-2017 (Carl R. Simons and Patricia A. Sheedy, 26 Mar 1972, Pasco; Carl Simons, 30, born 18 May 1954, and Judith L. Hoey, born 27 Dec 1959, 9 Jun 1984, Pasco); Washington, U.S., Divorce Records, 1968-2017 (Carl R. and Patricia A. Simons, 7 Apr 1975, Franklin County); Ohio, U.S., Birth Index (Judith Hoey, 27 Dec 1957); U.S., Index to Public Records, 1994-2019 (Judith L. Simons, née Hoey, born Dec 1957, Urbana, Ohio 2013–20)"
+   ],
+   "notes": [
+    "Born 27 Dec 1957 in Ohio (Ohio birth index; the 1984 marriage record says 1959); married Carl Ray Simons at Pasco on 9 Jun 1984; mother of Shawn Michael Simons, born 1988 (Ed Simons's tree); \"his partner Judy Simons\" in Carl's 2025 obituary; of Urbana, Ohio, 2013–20 (public-records index)."
    ]
   },
   {
@@ -35078,15 +35542,17 @@
   },
   {
    "id": "holter_duane",
-   "name": "Duane Holter",
-   "aliases": [],
+   "name": "Leslie Duane Holter",
+   "aliases": [
+    "Duane Holter"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "27 Nov 1937",
+    "year": 1937,
     "qualifier": null
    },
    "death": {
@@ -35094,13 +35560,13 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
-   "unproven": false,
+   "unproven": true,
    "father": null,
    "mother": null,
    "parents": [],
@@ -35124,34 +35590,42 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Priest River, Idaho"
+    "Priest River, Idaho",
+    "Algona, North Dakota",
+    "Pasco, Franklin County, Washington",
+    "Gladstone, Clackamas County, Oregon",
+    "Coeur d'Alene, Kootenai County, Idaho"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Janet Lee Rinehart (m. 30 Jun 1957, Pasco, Franklin County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Janet Lee Rinehart, 19, born 30 Jun 1938, and Leslie D. Holter, 30 Jun 1957, Pasco); U.S., Newspapers.com Marriage Index (Leslie Duane Holter, son of Neil Holter)",
+    "Ancestry.com, U.S., Korean War Era Draft Cards, 1948-1959 (Leslie Duane Holter, born 27 Nov 1937 Algona, North Dakota, of Pasco; relative Neil Holter); U.S., Evangelical Lutheran Church in America Church Records (baptism 5 May 1938, Valley City, North Dakota); public-records indexes (Gladstone, Oregon; Spokane Valley; Sequim 1993–96; Priest River and Coeur d'Alene, Idaho, 2010–20)"
    ],
    "notes": [
-    "Husband of Janet (Rinehart) Holter. [Family research emails, email 27]"
+    "Born 27 Nov 1937 at Algona, North Dakota, son of Neil Holter, and baptised at Valley City on 5 May 1938; of Pasco when he married Janet Lee Rinehart there on 30 Jun 1957; later of Gladstone, Oregon, Spokane Valley, Sequim, Priest River and Coeur d'Alene, Idaho (draft card; church register; marriage record; public-records indexes). UNPROVEN: a member tree gives his death as 31 May 2022; no record or obituary has been found. [Family research emails, email 27]"
    ]
   },
   {
    "id": "holter_jana",
-   "name": "Jana Holter",
+   "name": "Jana K. Holter (Marvin, Wells)",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "Dec 1958",
+    "year": 1958,
     "qualifier": null
    },
    "death": {
@@ -35159,8 +35633,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -35190,33 +35664,43 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Spokane, Washington",
+    "Priest River, Bonner County, Idaho",
+    "Coeur d'Alene, Kootenai County, Idaho"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Ronald C. Marvin (m. 26 Aug 1978, Spokane, Washington; div. 19 Jun 1985)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Ancestry.com, U.S., School Yearbooks (Jana Holter, Spokane, 1975); Washington, U.S., Marriage Index, 1969-2017 (Jana K. Holter and Ronald C. Marvin, 26 Aug 1978, Spokane); Washington, U.S., Divorce Records, 1968-2017 (Jana K. Marvin from Ronald C. Marvin, 19 Jun 1985, Spokane County); U.S., Index to Public Records, 1994-2019 (Jana K. Holter Wells, born Dec 1958, Oldtown, Priest River and Coeur d'Alene, Idaho)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
    ],
    "notes": [
-    "Grandchild of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a child of Janet (Rinehart) and Duane Holter."
+    "Daughter of Duane and Janet (Rinehart) Holter, born December 1958; at school in Spokane in 1975; married Ronald C. Marvin at Spokane on 26 Aug 1978 and divorced him in Spokane County on 19 Jun 1985; later used the name Wells, living at Oldtown, Priest River and Coeur d'Alene, Idaho (yearbook; marriage and divorce indexes; public-records index). The granddaughter Jana Holter of Elaine's 2011 obituary."
    ]
   },
   {
    "id": "holter_jeff",
-   "name": "Jeff Holter",
-   "aliases": [],
+   "name": "Jeffrey Duane Holter",
+   "aliases": [
+    "Jeff Holter"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "21 Feb 1960",
+    "year": 1960,
     "qualifier": null
    },
    "death": {
@@ -35224,8 +35708,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -35255,20 +35739,27 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Oregon City, Clackamas County, Oregon",
+    "Spokane, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Grace Catherine Wadlington (m. 31 Jul 1999, Clallam County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Jeffrey Duane Holter, born 21 Feb 1960); Washington, U.S., Marriage Records, 1854-2013 (Jeffrey D. Holter, 39, born Oregon City, and Grace Catherine Wadlington, application 7 Jul 1999, Clallam County) and Marriage Index, 1969-2017 (31 Jul 1999, Clallam County); U.S., Index to Public Records, 1994-2019 (Spokane and Spokane Valley 2005–20)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
    ],
    "notes": [
-    "Grandchild of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a child of Janet (Rinehart) and Duane Holter."
+    "Son of Duane and Janet (Rinehart) Holter, born 21 Feb 1960 at Oregon City; married Grace Catherine Wadlington in Clallam County on 31 Jul 1999, aged 39; of Spokane and Spokane Valley (marriage records; public-records index). The grandson Jeff Holter of Elaine's 2011 obituary."
    ]
   },
   {
@@ -37435,6 +37926,140 @@
    ]
   },
   {
+   "id": "johnson_claudine_p",
+   "name": "Claudine P. Johnson (Rinehart)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "rhinehart_jerry"
+   ],
+   "children": [
+    "rinehart_david_james",
+    "rinehart_martin"
+   ],
+   "siblings": [],
+   "families": [
+    "F_johnson_claudine_p+rhinehart_jerry"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Pasco, Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Jerry Allen Rinehart (m. 3 Nov 1957, Pasco, Franklin County, Washington; div. 12 Sep 1969)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Jerry A. Rinehart, 21, born 15 Oct 1936, and Claudine P. Johnson, 3 Nov 1957, Pasco); Washington, U.S., Divorce Records, 1968-2017 (12 Sep 1969, Franklin County; and from Linda R. Rinehart, née Wilson, 29 Aug 2005, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Jerry A. Rinehart and Linda R. Wilson, 17 Nov 1973, Kootenai County, certificate 00010704); U.S., Newspapers.com Marriage Index (Spokane Daily Chronicle, 20 Nov 1973)",
+    "FamilySearch, Washington Death Certificates, 1907-1960 (David James Rinehart, infant, died 13 Nov 1958 at Pasco; father Jerry A. Rinehart, mother Claudine P. Johnson; ark 1:1:N31J-HDQ)"
+   ],
+   "notes": [
+    "First wife of Jerry Allen Rinehart: married at Pasco 3 Nov 1957, divorced in Franklin County 12 Sep 1969; mother of David James, who died in infancy in 1958, and probably of Martin (marriage record; divorce index; death certificate)."
+   ]
+  },
+  {
+   "id": "jones_harry_l",
+   "name": "Harry L. Jones",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "blust_theresa"
+   ],
+   "children": [
+    "jones_wilma_k"
+   ],
+   "siblings": [],
+   "families": [
+    "F_blust_theresa+jones_harry_l"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Dawes County, Nebraska"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Nebraska, U.S., Birth Index, 1912-2004 (Wilma K. Jones, 30 Mar 1924, Dawes County; father Harry Jones; delayed certificate 45150); U.S., Social Security Applications and Claims Index (Wilma Jones, born 30 Mar 1924 Chadron, Nebraska; parents Harry L. Jones and Theresa Blust; named Wilma Jones Sep 1941, Wilma Hardy Feb 1947, Wilma Simons Oct 1948); 1940 United States Federal Census (Wilma Jones, 16, niece of Clyde G. and Martha Shilton, Crawford, Dawes County)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Raymond E. Simons, 25, born Bellingham, and Wilma Hardy, 23, born Crawford, Nebraska; 30 Aug 1947, Franklin County; ref. CE311-2-0-24); U.S., Newspapers.com Marriage Index (Crawford Tribune, Nebraska, 26 Sep 1947: Mrs Wilma Hardy of Pasco, daughter of Harry L. Jones, married Raymond E. Simons)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Wilma K. Simons, also Jones, 65, died 9 Aug 1989 Pasco; certificate 9-22577; born 30 Mar 1924 Nebraska; parents Harry Jones and Theresa Blust; spouse none); U.S. Social Security Death Index (died 10 Aug 1989); U.S., Newspapers.com Obituary Index (Tri-City Herald, 12 Aug 1989); Find a Grave, memorial 8775322 (Wilma K. \"Billie\" Jones Simons, 30 Mar 1924 – 10 Aug 1989, Desert Lawn Memorial Park, Kennewick, Parkhurst section, \"beloved mother and grandmother\")"
+   ],
+   "notes": [
+    "Father of Wilma K. Jones, named on her delayed Nebraska birth certificate, her Social Security application, the 1947 Crawford Tribune wedding notice and her death record."
+   ]
+  },
+  {
    "id": "jones_reeves_h",
    "name": "Reeves H. Jones",
    "aliases": [],
@@ -37571,6 +38196,89 @@
    ],
    "notes": [
     "No record that she ever married [Bill Allen, Descendants of Jose Pierre Adams, line 4651]"
+   ]
+  },
+  {
+   "id": "jones_wilma_k",
+   "name": "Wilma K. Jones (Hardy, Simons)",
+   "aliases": [
+    "Wilma Simons",
+    "Billie Simons",
+    "Wilma K. Hardy"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "30 Mar 1924",
+    "year": 1924,
+    "qualifier": null
+   },
+   "death": {
+    "text": "9 Aug 1989",
+    "year": 1989,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "jones_harry_l",
+   "mother": "blust_theresa",
+   "parents": [
+    "blust_theresa",
+    "jones_harry_l"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_raymond_elmer"
+   ],
+   "children": [
+    "simons_carl_ray",
+    "simons_debra_sue"
+   ],
+   "siblings": [],
+   "families": [
+    "F_jones_wilma_k+simons_raymond_elmer"
+   ],
+   "parent_family": "F_blust_theresa+jones_harry_l",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chadron, Dawes County, Nebraska",
+    "Franklin County, Washington",
+    "Crawford, Dawes County, Nebraska",
+    "Pasco, Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Raymond Elmer Simons (m. 30 Aug 1947, Franklin County, Washington; div. 14 May 1969)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Nebraska, U.S., Birth Index, 1912-2004 (Wilma K. Jones, 30 Mar 1924, Dawes County; father Harry Jones; delayed certificate 45150); U.S., Social Security Applications and Claims Index (Wilma Jones, born 30 Mar 1924 Chadron, Nebraska; parents Harry L. Jones and Theresa Blust; named Wilma Jones Sep 1941, Wilma Hardy Feb 1947, Wilma Simons Oct 1948); 1940 United States Federal Census (Wilma Jones, 16, niece of Clyde G. and Martha Shilton, Crawford, Dawes County)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Raymond E. Simons, 25, born Bellingham, and Wilma Hardy, 23, born Crawford, Nebraska; 30 Aug 1947, Franklin County; ref. CE311-2-0-24); U.S., Newspapers.com Marriage Index (Crawford Tribune, Nebraska, 26 Sep 1947: Mrs Wilma Hardy of Pasco, daughter of Harry L. Jones, married Raymond E. Simons)",
+    "Ancestry.com, 1950 United States Federal Census (Franklin County, Washington, ED 11-7: Raymond E. Simons, 28, railroad fireman, with Wilma, 25, born Nebraska)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Raymond E. Simons and Wilma J. Simons, 14 May 1969, Franklin County, two children, wife filed)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Wilma K. Simons, also Jones, 65, died 9 Aug 1989 Pasco; certificate 9-22577; born 30 Mar 1924 Nebraska; parents Harry Jones and Theresa Blust; spouse none); U.S. Social Security Death Index (died 10 Aug 1989); U.S., Newspapers.com Obituary Index (Tri-City Herald, 12 Aug 1989); Find a Grave, memorial 8775322 (Wilma K. \"Billie\" Jones Simons, 30 Mar 1924 – 10 Aug 1989, Desert Lawn Memorial Park, Kennewick, Parkhurst section, \"beloved mother and grandmother\")"
+   ],
+   "notes": [
+    "Born 30 Mar 1924 in Dawes County (Chadron), Nebraska, daughter of Harry L. Jones and Theresa Blust; at 16 living with her uncle and aunt Clyde and Martha Shilton at Crawford (birth index; Social Security records; 1940 census). Known as Billie. She was Mrs Hardy by February 1947, a first marriage of which no record has been found, and as Wilma Hardy, 23, married Elmer Simons in Franklin County on 30 Aug 1947. With him she adopted Carl Ray (1954) and Debra Sue (1956); she divorced him on 14 May 1969. Died at Pasco on 9 Aug 1989 (state death certificate 9-22577; the Social Security index and her stone say 10 Aug), aged 65, unmarried, and is buried at Desert Lawn Memorial Park, Kennewick, \"beloved mother and grandmother\" (marriage record; divorce index; death record; Find a Grave). Carl Ray's 2025 obituary names his parents as Wilma and Elmer."
    ]
   },
   {
@@ -55382,22 +56090,23 @@
   },
   {
    "id": "rhinehart_janet",
-   "name": "Janet Lee “Jan” Rinehart (Holter)",
+   "name": "Janet Lee Rinehart (Holter)",
    "aliases": [
     "Janet Rinehart",
     "Janet Rhinehart",
     "Jan Holter",
     "Janet Rhinehart (Holter)",
     "Janet Rinehart (Holter)",
-    "Janet Lee Rinehart"
+    "Janet Lee Rinehart",
+    "Janet Holter"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "30 Jun 1938",
+    "year": 1938,
     "qualifier": null
    },
    "death": {
@@ -55405,8 +56114,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -55444,24 +56153,32 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Coeur d'Alene, Idaho"
+    "Coeur d'Alene, Idaho",
+    "Kahlotus, Franklin County, Washington",
+    "Pasco, Franklin County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Leslie Duane Holter (m. 30 Jun 1957, Pasco, Franklin County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)",
     "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
-    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)"
+    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, 1940 United States Federal Census (Kahlotus, Franklin County, Washington, ED 11-6, sheet 3A: Lester Rinehart, 27, farm labourer, with Elaine, 23, Jerry, 3, and Janet Lee, 2)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Janet Lee Rinehart, 19, born 30 Jun 1938, and Leslie D. Holter, 30 Jun 1957, Pasco); U.S., Newspapers.com Marriage Index (Leslie Duane Holter, son of Neil Holter)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
    ],
    "notes": [
-    "Daughter of Les and Elaine (Simons) Rinehart; \"Janet Lee\" in the 1940 census."
+    "Daughter of Les and Elaine (Simons) Rinehart, born 30 Jun 1938 (Bellingham, by Ed Simons's tree); \"Janet Lee\", 2, at Kahlotus in 1940; married Leslie Duane Holter at Pasco on her nineteenth birthday, 30 Jun 1957 (census; county marriage record). Mother of Jana and Jeff; of Coeur d'Alene, Idaho, in later years."
    ]
   },
   {
@@ -55508,17 +56225,19 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "rinehart_linda"
+    "rinehart_linda",
+    "johnson_claudine_p"
    ],
    "children": [
+    "rinehart_david_james",
     "rinehart_martin"
    ],
    "siblings": [
     "rhinehart_janet"
    ],
    "families": [
-    "F_rhinehart_jerry+rinehart_linda",
-    "F_rhinehart_jerry"
+    "F_johnson_claudine_p+rhinehart_jerry",
+    "F_rhinehart_jerry+rinehart_linda"
    ],
    "parent_family": "F_rhinehart_les+simons_elaine_deretha",
    "connected": true,
@@ -55526,7 +56245,8 @@
    "priority": "normal",
    "locations": [
     "Mount Vernon, Washington",
-    "Pasco, Washington"
+    "Pasco, Washington",
+    "Kahlotus, Franklin County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -55534,26 +56254,35 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington",
+    "Married Claudine P. Johnson (m. 3 Nov 1957, Pasco, Franklin County, Washington; div. 12 Sep 1969)",
+    "Married Linda R. Wilson (m. 17 Nov 1973, Kootenai County, Idaho; div. 29 Aug 2005)"
    ],
    "education": [],
    "career": [
-    "Diesel mechanic, truck driver and landscape contractor; U.S. military veteran."
+    "Diesel mechanic, truck driver and landscape contractor; U.S. military veteran.",
+    "Diesel mechanic, truck driver and landscape contractor (obituary)."
    ],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Find a Grave, memorial 281162175 (Jerry Allen Rinehart, Desert Lawn Memorial Park, Kennewick)",
     "Obituary of Jerry Allen Rinehart, Tri-City Herald, 23 Jun 2016",
     "Ancestry.com, Washington, U.S., Death Records, 1907–2017",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, 1940 United States Federal Census (Kahlotus, Franklin County, Washington, ED 11-6, sheet 3A: Lester Rinehart, 27, farm labourer, with Elaine, 23, Jerry, 3, and Janet Lee, 2)",
+    "Ancestry.com, U.S., Korean War Era Draft Cards, 1948-1959 (Jerry Allen Rinehart, born 15 Oct 1936 Mount Vernon, of Pasco; relative Mrs Elaine Rinehart); Washington, U.S., Death Records, 1907-2017 (Jerry A. Rinehart, 79, Jun 2016, Franklin County); Department of Veterans Affairs BIRLS Death File (15 Oct 1936 – 21 Jun 2016); Find a Grave, memorial 281162175 (Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 23 Jun 2016",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Jerry A. Rinehart, 21, born 15 Oct 1936, and Claudine P. Johnson, 3 Nov 1957, Pasco); Washington, U.S., Divorce Records, 1968-2017 (12 Sep 1969, Franklin County; and from Linda R. Rinehart, née Wilson, 29 Aug 2005, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Jerry A. Rinehart and Linda R. Wilson, 17 Nov 1973, Kootenai County, certificate 00010704); U.S., Newspapers.com Marriage Index (Spokane Daily Chronicle, 20 Nov 1973)",
+    "FamilySearch, Washington Death Certificates, 1907-1960 (David James Rinehart, infant, died 13 Nov 1958 at Pasco; father Jerry A. Rinehart, mother Claudine P. Johnson; ark 1:1:N31J-HDQ)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
    ],
    "notes": [
-    "Born 15 Oct 1936 at Mount Vernon, Washington (the Kulp-Ritchey-Dorsett tree gives 1937); in the Tri-Cities from 1938. Died 21 Jun 2016 at Pasco. His Korean War-era draft registration names his mother, Mrs. Elaine Rinehart. His 2016 obituary does not name his children; his mother's 2011 obituary names a grandson, Martin Rinehart."
+    "Born 15 Oct 1936 at Mount Vernon, Washington; three years old at Kahlotus in 1940; in the Tri-Cities from 1938, and registered for the draft at Pasco in the 1950s naming his mother, Mrs Elaine Rinehart (census; draft card). Married Claudine P. Johnson at Pasco on 3 Nov 1957, aged 21; their infant son David James died at Pasco on 13 Nov 1958, the grandson who predeceased Elaine; divorced in Franklin County on 12 Sep 1969. Married Linda R. Wilson in Kootenai County, Idaho, on 17 Nov 1973, and divorced her in Franklin County on 29 Aug 2005 (marriage and divorce records; death certificate). A retired diesel mechanic, truck driver and landscape contractor, he died at home in Pasco on 21 Jun 2016, aged 79, a veteran, and was buried at Desert Lawn Memorial Park, Kennewick (Washington death record; Tri-City Herald, 23 Jun 2016; Find a Grave)."
    ]
   },
   {
    "id": "rhinehart_les",
-   "name": "Leslie Bernard “Les” Rinehart",
+   "name": "Leslie Bernard Rinehart",
    "aliases": [
     "Les Rhinehart",
     "Les Rinehart",
@@ -55580,9 +56309,12 @@
    "lineages": [],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "rinehart_john_a",
+   "mother": "carlson_amelia",
+   "parents": [
+    "carlson_amelia",
+    "rinehart_john_a"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -55598,15 +56330,15 @@
    "families": [
     "F_rhinehart_les+simons_elaine_deretha"
    ],
-   "parent_family": null,
+   "parent_family": "F_carlson_amelia+rinehart_john_a",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Washington",
     "Pasco, Washington",
     "Gladstone, Oregon",
-    "Lynden, Whatcom County, Washington"
+    "Lynden, Whatcom County, Washington",
+    "Kahlotus, Franklin County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -55614,24 +56346,30 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Elaine Deretha Simons (m. 10 Sep 1935)",
+    "Married Elaine Dereatha Simons (m. 10 Sep 1935, Skagit County, Washington)",
     "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Farm labourer at Kahlotus (1940); with the Washington State Park Committee when he registered for the draft in October 1940."
+   ],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\"",
     "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Birth Records, 1907-1920 (Leslie Bernard Rinehart, 27 May 1913, Lynden, Whatcom County; parents John A. Rinehart and Amelia Carlson; certificate 8798)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Rinehart, 22, born Lynden, son of John and Amelia Rinehart, and Elaine Simons, born Milton, Oregon; 10 Sep 1935, Skagit County; ref. nwskgmr10557)",
+    "Ancestry.com, 1940 United States Federal Census (Kahlotus, Franklin County, Washington, ED 11-6, sheet 3A: Lester Rinehart, 27, farm labourer, with Elaine, 23, Jerry, 3, and Janet Lee, 2)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Leslie Bernard Rinehart, 27, registered 16 Oct 1940 at Pasco; employer Washington State Park Committee; 5 ft 11 in, 170 lb, brown hair, blue eyes; next of kin his wife Elaine Doretha Rinehart)",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008 (Leslie B. Rinehart, born 27 May 1913, died 9 Jul 1988, Clackamas County; spouse Elaine); U.S., Newspapers.com Obituary Index (Tri-City Herald, 12 Jul 1988); Find a Grave, memorial 80541885 (Desert Lawn Memorial Park, Kennewick)"
    ],
    "notes": [
     "Husband of Elaine Deretha Simons.",
-    "Leslie Bernard Rinehart (1913–1988), per the Kulp-Ritchey-Dorsett Family Tree on Ancestry. \"Le Ley Rinehart\", 27, in the 1940 census, living with Elaine and their children Jerry and Janet Lee in his father-in-law Ray Simons's household near Richland.",
-    "Born 27 May 1913 in Washington; died 9 Jul 1988 at Gladstone, Oregon. His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988.",
-    "Born at Lynden (Ed Simons's tree)."
+    "Born 27 May 1913 at Lynden, Whatcom County, son of John A. Rinehart and Amelia Carlson (state birth certificate 8798); married Elaine Simons in Skagit County on 10 Sep 1935; died 9 Jul 1988 at Gladstone, Clackamas County, Oregon, aged 75, and was buried at Desert Lawn Memorial Park, Kennewick (Oregon death index; Tri-City Herald, 12 Jul 1988; Find a Grave). His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988.",
+    "\"Le Ley Rinehart\", 27, in the 1940 census near Richland, in his father-in-law Ray Simons's household with Elaine and the children, and, as Lester, 27, a farm labourer on a rented farm at Kahlotus, Franklin County, in the same census; 5 ft 11 in, brown hair and blue eyes on his draft card (census; WWII draft card)."
    ]
   },
   {
@@ -55767,8 +56505,141 @@
    ]
   },
   {
+   "id": "rinehart_david_james",
+   "name": "David James Rinehart",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1958",
+    "year": 1958,
+    "qualifier": null
+   },
+   "death": {
+    "text": "13 Nov 1958",
+    "year": 1958,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "unproven": false,
+   "father": "rhinehart_jerry",
+   "mother": "johnson_claudine_p",
+   "parents": [
+    "johnson_claudine_p",
+    "rhinehart_jerry"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "rinehart_martin"
+   ],
+   "families": [],
+   "parent_family": "F_johnson_claudine_p+rhinehart_jerry",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Pasco, Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Washington Death Certificates, 1907-1960 (David James Rinehart, infant, died 13 Nov 1958 at Pasco; father Jerry A. Rinehart, mother Claudine P. Johnson; ark 1:1:N31J-HDQ)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
+   ],
+   "notes": [
+    "Infant son of Jerry A. Rinehart and Claudine P. Johnson, died at Pasco on 13 Nov 1958 (Washington death certificate); the grandson who predeceased Elaine, per her 2011 obituary."
+   ]
+  },
+  {
+   "id": "rinehart_john_a",
+   "name": "John A. Rinehart",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "carlson_amelia"
+   ],
+   "children": [
+    "rhinehart_les"
+   ],
+   "siblings": [],
+   "families": [
+    "F_carlson_amelia+rinehart_john_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Lynden, Whatcom County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Birth Records, 1907-1920 (Leslie Bernard Rinehart, 27 May 1913, Lynden, Whatcom County; parents John A. Rinehart and Amelia Carlson; certificate 8798)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Rinehart, 22, born Lynden, son of John and Amelia Rinehart, and Elaine Simons, born Milton, Oregon; 10 Sep 1935, Skagit County; ref. nwskgmr10557)"
+   ],
+   "notes": [
+    "Father of Leslie Bernard Rinehart, named on his son's 1913 birth certificate and 1935 marriage record; of Lynden (state birth record; county marriage record)."
+   ]
+  },
+  {
    "id": "rinehart_linda",
-   "name": "Linda Rinehart",
+   "name": "Linda R. Wilson (Rinehart)",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -55818,27 +56689,30 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Jerry Allen Rinehart (m. 17 Nov 1973, Kootenai County, Idaho; div. 29 Aug 2005)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Jerry A. Rinehart, 21, born 15 Oct 1936, and Claudine P. Johnson, 3 Nov 1957, Pasco); Washington, U.S., Divorce Records, 1968-2017 (12 Sep 1969, Franklin County; and from Linda R. Rinehart, née Wilson, 29 Aug 2005, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Jerry A. Rinehart and Linda R. Wilson, 17 Nov 1973, Kootenai County, certificate 00010704); U.S., Newspapers.com Marriage Index (Spokane Daily Chronicle, 20 Nov 1973)"
    ],
    "notes": [
-    "Wife of Jerry Rinehart. [Family research emails, email 27]"
+    "Second wife of Jerry Rinehart: married in Kootenai County, Idaho, on 17 Nov 1973 (Spokane Daily Chronicle, 20 Nov 1973), divorced in Franklin County on 29 Aug 2005 (Idaho marriage record; Washington divorce index); still named as his wife by Irma Zacher in 2011 [Family research emails, email 27]."
    ]
   },
   {
    "id": "rinehart_martin",
-   "name": "Martin Rinehart",
+   "name": "Martin Allen Rinehart",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "Nov 1963",
+    "year": 1963,
     "qualifier": null
    },
    "death": {
@@ -55846,8 +56720,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -55858,8 +56732,9 @@
    "adopted": false,
    "unproven": false,
    "father": "rhinehart_jerry",
-   "mother": null,
+   "mother": "johnson_claudine_p",
    "parents": [
+    "johnson_claudine_p",
     "rhinehart_jerry"
    ],
    "birth_father": null,
@@ -55868,26 +56743,35 @@
    "birth_children": [],
    "spouses": [],
    "children": [],
-   "siblings": [],
+   "siblings": [
+    "rinehart_david_james"
+   ],
    "families": [],
-   "parent_family": "F_rhinehart_jerry",
+   "parent_family": "F_johnson_claudine_p+rhinehart_jerry",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Pasco, Franklin County, Washington",
+    "Everson, Whatcom County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Marta Johnston (m. 27 Jul 1991, Whatcom County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Martin Allen Rinehart, 27, born Pasco, and Marta Johnston, 27 Jul 1991, Whatcom County; ref. nwwtcmcv91b_166); U.S., Index to Public Records, 1994-2019 (Martin A. Rinehart, born Nov 1963, Everson, Washington 1995–2020)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
    ],
    "notes": [
-    "Grandson of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a son of Jerry Rinehart, her only son."
+    "Son of Jerry Rinehart, born at Pasco in November 1963, during Jerry's marriage to Claudine Johnson, so Inferred: her son; married Marta Johnston in Whatcom County on 27 Jul 1991, aged 27, and has lived at Everson, Whatcom County, since the 1990s (county marriage record; public-records index). The grandson Martin Rinehart of Elaine's 2011 obituary."
    ]
   },
   {
@@ -61621,8 +62505,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "Nov 1992",
+    "year": 1992,
     "qualifier": null
    },
    "death": {
@@ -61630,8 +62514,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -61658,7 +62542,11 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "West Richland, Benton County, Washington",
+    "Richland, Benton County, Washington",
+    "Pasco, Franklin County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -61676,10 +62564,11 @@
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
     "family_data_v1",
     "adams_dna_linkage_v1",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
    ],
    "notes": [
-    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons.",
+    "Daughter of Billy Simons, born November 1992; granddaughter of Orvel and Irene Simons. Her mother is not established: Billy's 1991 and 2003 divorce records list no children, and Yvette, his wife from 2017, is a stepmother (public-records index; divorce records). Of West Richland, Richland and Pasco 2007–20.",
     "Amanda Marie Simons applied to marry Christopher Bradley Knight on 28 Sep 2018 in Franklin County. She is the \"Amanda Knight\" in Brendan's 23andMe match list, a great-niece of Glen Simons."
    ]
   },
@@ -62028,9 +62917,7 @@
    "birth_children": [],
    "spouses": [],
    "children": [],
-   "siblings": [
-    "simons_shawn"
-   ],
+   "siblings": [],
    "families": [],
    "parent_family": "F_simons_carl_ray",
    "connected": true,
@@ -62159,23 +63046,24 @@
   },
   {
    "id": "simons_betty",
-   "name": "Beatrice Lee “Bette” Jones (Barton, Simons)",
+   "name": "Beatrice Lee Jones (Barton, Simons)",
    "aliases": [
     "Betty Simons",
     "Bette Simons",
-    "Beatrice Lee Jones Barton"
+    "Beatrice Lee Jones Barton",
+    "Bette L. Barton"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1921",
+    "text": "1 Dec 1921",
     "year": 1921,
     "qualifier": null
    },
    "death": {
-    "text": "1995",
+    "text": "12 Feb 1995",
     "year": 1995,
     "qualifier": null
    },
@@ -62205,24 +63093,32 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Dayton, Columbia County, Washington",
+    "Tucannon, Columbia County, Washington",
+    "Pasco, Franklin County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Raymond Elmer Simons (m. 10 Nov 1969)"
+    "Married Raymond Elmer Simons (m. 10 Nov 1969, Pasco, Franklin County, Washington)",
+    "Married Gerard Barton (m. 1940, Walla Walla, Washington)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 and Marriage Index, 1969-2017 (Raymond E. Simons, 48, born 17 Oct 1921, and Bette L. Barton, 10 Nov 1969, Pasco); U.S., Newspapers.com Marriage Index (Tri-City Herald, 16 Nov 1969)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Beatrice Lee Simons, 73, born 1 Dec 1921 Dayton, Columbia County; parents Henry Jones and Minnie Julian; died 12 Feb 1995 Pasco; certificate 5-02182; spouse Raymond Elmer Simons); U.S., Newspapers.com Obituary Index (Tri-City Herald, 15 Feb 1995: Bette L. Simons, formerly of Tucannon; married Gerard Barton at Walla Walla in 1940; children Jari Ann, James, Gary, Ronnie and Maxine; siblings Doris Brown, Bill and Eugene Jones); Find a Grave, memorial 177413265 (Desert Lawn Memorial Park, Kennewick)"
    ],
    "notes": [
-    "Beatrice Lee \"Bette\" Jones (1921–1995), earlier Mrs. Barton, was Elmer Simons's second wife: they married on 10 Nov 1969 at Pasco, and the tree records a second marriage about 1980 (Kulp-Ritchey-Dorsett Family Tree). His first wife was Wilma K. Hardy.",
+    "Born 1 Dec 1921 at Dayton, Columbia County, daughter of Henry Jones and Minnie Julian; married Gerard Barton at Walla Walla in 1940 and had Jari Ann, James, Gary, Ronnie and Maxine; formerly of Tucannon. As Bette L. Barton she married Elmer Simons at Pasco on 10 Nov 1969. Died 12 Feb 1995 at Pasco, aged 73, and is buried at Desert Lawn Memorial Park, Kennewick (Washington death record; marriage records; Tri-City Herald, 15 Feb 1995; Find a Grave). Not related to Elmer's first wife, Wilma Jones.",
     "CORRECTION 2026-09-24: Carl Ray and Debra Sue were adopted by Elmer and his first wife, Wilma (Hardy); Bette was their stepmother. Carl Ray's 2025 obituary names his parents as Wilma and Elmer, and the tree dates Elmer's marriage to Bette to 1969."
    ]
   },
@@ -62230,15 +63126,16 @@
    "id": "simons_billy",
    "name": "Billy Michael Simons",
    "aliases": [
-    "Billy Simons"
+    "Billy Simons",
+    "Billie Michael Simons"
    ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "10 Dec 1961",
+    "year": 1961,
     "qualifier": null
    },
    "death": {
@@ -62246,8 +63143,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -62272,9 +63169,9 @@
     "simons_amanda"
    ],
    "siblings": [
-    "simons_rodney",
+    "simons_janine",
     "simons_les",
-    "simons_janine"
+    "simons_rodney"
    ],
    "families": [
     "F_simons_billy"
@@ -62283,26 +63180,34 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "West Richland, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married LeAnn Robin Collins (m. 2000)",
-    "Married Yvette Lavon Johnson (m. 2017)"
+    "Married LeAnn Robin Collins (m. 17 Jun 2000, Benton County, Washington; div. 13 Feb 2003)",
+    "Married Yvette Lavon Johnson (m. 22 Sep 2017, Lincoln County, Washington)",
+    "Married Kimberly Littrell (m. abt Apr 1990; div. 23 Aug 1991, Benton County, Washington)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
     "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Billy Simons of Pasco and Kimberly Littrell, The Spokesman-Review, 4 Apr 1990); Washington, U.S., Divorce Records, 1968-2017 (Billy M. Simons from Kimberly L. Simons, 23 Aug 1991, Benton County, no children; from Leeann R. Simons, 13 Feb 2003, Benton County, no children); Washington, U.S., Marriage Index, 1969-2017 (Billy M. Simons and Leeann R. Collins, 17 Jun 2000, Benton County; Billy M. Simons and Yvette L. Johnson, 22 Sep 2017, Lincoln County)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
    ],
    "notes": [
     "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda.",
-    "Billy Michael Simons married LeAnn Robin Collins in Benton County (certificate recorded 23 Jun 2000) and applied to marry Yvette Lavon Johnson there on 3 Aug 2017."
+    "Born 10 Dec 1961, the youngest of Orvel and Irene's four children. Married Kimberly Littrell about April 1990, while of Pasco, and divorced her in Benton County on 23 Aug 1991; married LeAnn Robin Collins in Benton County on 17 Jun 2000 and divorced her there on 13 Feb 2003; married Yvette Lavon Johnson in Lincoln County on 22 Sep 2017. Both divorce records say no children, so the mother of his daughter Amanda, born in November 1992, is not established by them (Spokesman-Review notice; state marriage and divorce indexes; public-records index). Of West Richland from 2010."
    ]
   },
   {
@@ -62335,47 +63240,63 @@
    "adopted": true,
    "unproven": false,
    "father": "simons_raymond_elmer",
-   "mother": "hardy_wilma",
+   "mother": "jones_wilma_k",
    "parents": [
-    "hardy_wilma",
+    "jones_wilma_k",
     "simons_raymond_elmer"
    ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
    "birth_children": [],
-   "spouses": [],
+   "spouses": [
+    "hoey_judith_lynn"
+   ],
    "children": [
-    "simons_ashley",
-    "simons_shawn"
+    "simons_shawn",
+    "simons_ashley"
    ],
    "siblings": [
     "simons_debra_sue"
    ],
    "families": [
+    "F_hoey_judith_lynn+simons_carl_ray",
     "F_simons_carl_ray"
    ],
-   "parent_family": "F_hardy_wilma+simons_raymond_elmer",
+   "parent_family": "F_jones_wilma_k+simons_raymond_elmer",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Yakima, Washington",
+    "Pasco, Franklin County, Washington",
+    "Richland, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
-   "education": [],
+   "milestones": [
+    "Married Patricia Ann Sheedy (m. 26 Mar 1972, Pasco, Franklin County, Washington; div. 7 Apr 1975)",
+    "Married Judith Lynn Hoey (m. 9 Jun 1984, Pasco, Franklin County, Washington)"
+   ],
+   "education": [
+    "Pasco High School, 1971 (yearbook, Ed Simons's tree)."
+   ],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 and Marriage Index, 1969-2017 (Carl R. Simons and Patricia A. Sheedy, 26 Mar 1972, Pasco; Carl Simons, 30, born 18 May 1954, and Judith L. Hoey, born 27 Dec 1959, 9 Jun 1984, Pasco); Washington, U.S., Divorce Records, 1968-2017 (Carl R. and Patricia A. Simons, 7 Apr 1975, Franklin County); Ohio, U.S., Birth Index (Judith Hoey, 27 Dec 1957); U.S., Index to Public Records, 1994-2019 (Judith L. Simons, née Hoey, born Dec 1957, Urbana, Ohio 2013–20)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
    ],
    "notes": [
     "Adopted by Elmer and Wilma (Hardy) Simons; Elmer's second wife, Bette, was a stepmother.",
-    "Born 18 May 1954; grew up in Washington and died 7 Aug 2025. He loved motorcycles, music and the boat races on the Columbia River. His partner was Judy Simons; his children are Ashley and Shawn Simons. His obituary names his parents as Wilma and Elmer Simons, and says his sister Deborah died before him."
+    "Born 18 May 1954; grew up in Washington and died 7 Aug 2025. He loved motorcycles, music and the boat races on the Columbia River. His partner was Judy Simons; his children are Ashley and Shawn Simons. His obituary names his parents as Wilma and Elmer Simons, and says his sister Deborah died before him.",
+    "Born 18 May 1954 at Yakima, by Ed Simons's tree. Probably him: a Carl R. Simons married Patricia Ann Sheedy at Pasco on 26 Mar 1972 (the index mistypes his birth year as 1958) and divorced her in Franklin County on 7 Apr 1975. He married Judith Lynn Hoey, born in Ohio on 27 Dec 1957 (the marriage record says 1959), at Pasco on 9 Jun 1984, aged 30; she is the Judy Simons of his 2025 obituary (county marriage records; divorce index; public-records index)."
    ]
   },
   {
@@ -62595,21 +63516,23 @@
   },
   {
    "id": "simons_debra_sue",
-   "name": "Debra Sue Simons",
-   "aliases": [],
+   "name": "Debra Sue Simons (Wooten)",
+   "aliases": [
+    "Debra Wooten"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "21 May 1956",
+    "year": 1956,
     "qualifier": null
    },
    "death": {
-    "text": "before 2025",
-    "year": 2025,
-    "qualifier": "before"
+    "text": "16 Nov 2021",
+    "year": 2021,
+    "qualifier": null
    },
    "living": false,
    "living_status": null,
@@ -62623,9 +63546,9 @@
    "adopted": true,
    "unproven": false,
    "father": "simons_raymond_elmer",
-   "mother": "hardy_wilma",
+   "mother": "jones_wilma_k",
    "parents": [
-    "hardy_wilma",
+    "jones_wilma_k",
     "simons_raymond_elmer"
    ],
    "birth_father": null,
@@ -62638,29 +63561,36 @@
     "simons_carl_ray"
    ],
    "families": [],
-   "parent_family": "F_hardy_wilma+simons_raymond_elmer",
+   "parent_family": "F_jones_wilma_k+simons_raymond_elmer",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Seattle, Washington",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Patrick G. Wooten (div. 13 Jun 1998, Benton County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and Index to Public Records, 1994-2019 (Debra Sue Simons, also Wooten, born 21 May 1956; Spokane; Pasco 1983–2018); Washington, U.S., Divorce Records, 1968-2017 (Debra S. Wooten, née Simons, from Patrick G. Wooten, 13 Jun 1998, Benton County, no children); U.S., Newspapers.com Obituary Index (Debra Sue Simons, 65, of Kennewick, born Seattle, died 16 Nov 2021; Tri-City Herald, 19 Nov 2021)"
    ],
    "notes": [
     "Adopted by Elmer and Wilma (Hardy) Simons; Elmer's second wife, Bette, was a stepmother.",
-    "Her brother Carl Ray's 2025 obituary says she died before him.",
-    "Probably her: Debra Sue Simons applied to marry Michael D. Miller in Benton County on 14 Dec 2001."
+    "Born 21 May 1956 at Seattle (Ed Simons's tree; public-records index); married Patrick G. Wooten, and divorced him in Benton County on 13 Jun 1998, no children; of Pasco 1983–2018; died 16 Nov 2021, of Kennewick, aged 65 (divorce index; Tri-City Herald, 19 Nov 2021). A Debra Sue Simons applied to marry Michael D. Miller in Benton County on 14 Dec 2001, probably her. Her brother Carl Ray's 2025 obituary says she died before him."
    ]
   },
   {
@@ -62968,10 +63898,12 @@
   },
   {
    "id": "simons_elaine_deretha",
-   "name": "Elaine Deretha Simons (Rinehart, Upham)",
+   "name": "Elaine Dereatha Simons (Rinehart, Upham)",
    "aliases": [
     "Elaine Deretha Simons (Rhinehart)",
-    "Elaine Upham"
+    "Elaine Upham",
+    "Elaine Deretha Simons",
+    "Elaine Doretha Rinehart"
    ],
    "photo": null,
    "card_name": null,
@@ -63033,14 +63965,13 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Milton, Oregon",
     "Lynden, Whatcom County, Washington",
     "Desert Lawn Memorial Park, Kennewick, Washington",
-    "Whatcom County, Washington",
-    "Lynden, Washington",
     "Burlington, Skagit County, Washington",
     "Pasco, Washington",
-    "Gladstone, Oregon"
+    "Gladstone, Oregon",
+    "Milton (Milton-Freewater), Umatilla County, Oregon",
+    "Kahlotus, Franklin County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -63050,12 +63981,11 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Born Jan 1918, Milton, Oregon",
+    "Born 20 Jan 1918, Milton, Umatilla County, Oregon",
     "Died 11 Aug 2011",
     "Buried: Elaine's graveside service was at Desert Lawn Memorial Park in Kennewick on 19 August 2011.",
-    "Born Milton, Oregon",
-    "Married William Clifford Upham (m. 21 Jun 1991)",
-    "Married Leslie Bernard “Les” Rinehart (m. 10 Sep 1935)"
+    "Married William Clifford Upham (m. 21 Jun 1991, Clackamas County, Oregon)",
+    "Married Leslie Bernard Rinehart (m. 10 Sep 1935, Skagit County, Washington)"
    ],
    "education": [
     "Elaine was an elementary school student of Amy Kulp and Alice Burk and was remembered as an excellent student.",
@@ -63071,15 +64001,22 @@
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\"",
     "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)",
     "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (Elaine Dereatha Simons, 20 Jan 1918, Milton, Umatilla County)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Rinehart, 22, born Lynden, son of John and Amelia Rinehart, and Elaine Simons, born Milton, Oregon; 10 Sep 1935, Skagit County; ref. nwskgmr10557)",
+    "Ancestry.com, 1940 United States Federal Census (Kahlotus, Franklin County, Washington, ED 11-6, sheet 3A: Lester Rinehart, 27, farm labourer, with Elaine, 23, Jerry, 3, and Janet Lee, 2)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Leslie Bernard Rinehart, 27, registered 16 Oct 1940 at Pasco; employer Washington State Park Committee; 5 ft 11 in, 170 lb, brown hair, blue eyes; next of kin his wife Elaine Doretha Rinehart)",
+    "Ancestry.com, Oregon, U.S., Marriage Indexes, 1906-2009 (William C. Upham and Elaine D. Simonds [Rinehart], 21 Jun 1991, Clackamas County)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
    ],
    "notes": [
     "Sister of Beryl Simons Adams; married Les Rinehart.",
     "A funeral service for Elaine was held 17 August 2011 at Holman, Hankins, Bowker & Waud Funeral Home in Oregon City. [Family research emails, email 27]",
     "CORRECTION 2026-09-23: Added her later husband, William \"Bill\" Upham of Gladstone, Oregon, named in Irma's note about her services. [Family research emails, email 27]",
     "Her birth is recorded in the Oregon state birth records, with parents Raymond Zell Simons (aged 20) and Dradie Ellen Kulp. The 1940 census and her Find a Grave memorial spell her married name Rinehart.",
-    "Born 20 Jan 1918 at Milton, Oregon, and married William Upham on 21 Jun 1991 in Clackamas County; died 11 Aug 2011 at Gladstone, Oregon (Kulp-Ritchey-Dorsett Family Tree on Ancestry).",
-    "She married Leslie Bernard Rinehart on 10 Sep 1935 at Burlington, Skagit County, Washington (Kulp-Ritchey-Dorsett Family Tree), and was married to him until his death in 1988. They lived in Pasco for many years before moving to Gladstone, Oregon, in 1958.",
+    "Born 20 Jan 1918 at Milton (now Milton-Freewater), Umatilla County, Oregon (state birth record); married William Clifford Upham in Clackamas County on 21 Jun 1991 (Oregon marriage index); died at home at Gladstone on 11 Aug 2011, aged 93, and was buried beside Les at Desert Lawn Memorial Park, Kennewick, on 19 Aug (obituary; Find a Grave).",
+    "She married Leslie Bernard Rinehart, 22, of Lynden, in Skagit County on 10 Sep 1935, aged 17 (county marriage record). In April 1940 they were on a rented farm at Kahlotus, Franklin County, with Jerry, 3, and Janet Lee, 2 (the same year's enumeration near Richland lists them in her father's household as well), and in October 1940 Les registered for the draft at Pasco naming her as next of kin. They lived in Pasco for many years and moved to Gladstone, Oregon, in 1958; he died in 1988 (census; draft card; obituary).",
     "Her 2011 obituary: born at Milton, Oregon, to Ray and Dradie Simons; graduated from Lynden High School. Active for many years with the Gladstone Historical Society, the Oregon City Elks Ladies Auxiliary, the Gladstone Senior Center and the Gladstone Chautauqua Festival, and \"Fairest of the Fair\" at the 1988 Clackamas County Fair. She loved family, playing the piano, music and needlework.",
     "Survived by her son Jerry Rinehart, daughter Janet \"Jan\" Holter, stepdaughters Diane Angelo and Janet Upham, brother Glen Simons, three grandchildren (Jana Holter, Jeff Holter and Martin Rinehart), 11 great-grandchildren and 7 great-great-grandchildren. Preceded in death by her first husband, a grandson, her parents, three brothers and two sisters."
    ]
@@ -64184,9 +65121,12 @@
    "lineages": [],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "cantrell_houston_brown",
+   "mother": "fleming_hallie_evelyn",
+   "parents": [
+    "cantrell_houston_brown",
+    "fleming_hallie_evelyn"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -64195,22 +65135,24 @@
     "simons_orval_keith"
    ],
    "children": [
-    "simons_rodney",
-    "simons_les",
     "simons_janine",
+    "simons_les",
+    "simons_rodney",
     "simons_billy"
    ],
    "siblings": [],
    "families": [
     "F_simons_irene+simons_orval_keith"
    ],
-   "parent_family": null,
+   "parent_family": "F_cantrell_houston_brown+fleming_hallie_evelyn",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
     "Rock Island, Tennessee",
-    "Pasco, Washington"
+    "Pasco, Washington",
+    "DeKalb County, Tennessee",
+    "Richland, Benton County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -64218,16 +65160,20 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Orvel Keith Simons (m. 1951)"
+    "Married Orvel Keith Simons (m. 8 Jul 1951, Pasco, Franklin County, Washington; again 23 Aug 1969; div. 8 Feb 1977)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1940 (Bessie I. Cantrell, 7, born Tennessee, with parents Houston B. and Hallie E. Cantrell and sisters Nettie C. and Geneva H., Civil District 21, DeKalb County, Tennessee; ark 1:1:K44G-6PD) and 1950 (Bessie J. Cantrell, born 1933 Tennessee, in the Franklin County, Washington, household of her stepfather Ray Owens and mother Hallie E. Owens, with Nettie C. Cantrell and half-siblings Jackie J., Geneva H., Gloria E. and Ronnie R. Owens; ark 1:1:6X14-ZJYF)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Orvel Keith Simons, 22, born 30 Oct 1929, and Bessie Irene Cantrell, 8 Jul 1951, Pasco; Orvel K. Simons and Bessie Irene Simons, application 18 Aug 1969, married 23 Aug 1969, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Orvel K. Simons and Norma Albertson, 5 May 1966, Kootenai County, certificate 5808); FamilySearch, Washington Divorce Index, 1969-2014 (from Norma J. Flemmer, 15 Aug 1969, Franklin County, no children; from Bessie I. Cantrell, 8 Feb 1977, Franklin County, two children) and Washington Marriage Index (Orvel K. Simons and Ruth Connor Bates, 12 Mar 1977, Franklin County)",
+    "Find a Grave, memorial 184321757 (Bessie Irene Cantrell Simons, 4 Nov 1932 Rock Island, Warren County, Tennessee – 10 Oct 2017 Richland; Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary; Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, 11 Oct 2017); Find a Grave, memorials 25111955 (Houston Brown Cantrell, 24 Jun 1915 – 24 Sep 1984, Dewberry Baptist Church Cemetery, Murray County, Georgia) and 78570887 (Hallie Evelyn Fleming Freeland, 8 Oct 1915 Tennessee – 21 Sep 1982 Yakima, Tahoma Cemetery)"
    ],
    "notes": [
-    "Born Bessie Irene Cantrell on 4 Nov 1932 at Rock Island, Tennessee, the eldest of three daughters of Hallie and Houston Cantrell; the family moved to Washington in 1942. She married her high school sweetheart Orvel Keith Simons in 1951 and raised their four children, Janine, Les, Rod and Billy, after his death in 1979. Known to her grandchildren as \"Gam\". She died 10 Oct 2017, a long-time Pasco resident."
+    "Born Bessie Irene Cantrell on 4 Nov 1932 at Rock Island, Warren County, Tennessee, the eldest of the three daughters of Houston Brown Cantrell and Hallie Evelyn Fleming; seven years old with them in DeKalb County in 1940; the family moved to Washington in 1942, and in 1950 she was in Franklin County in the household of her mother and stepfather Ray Owens with her sister Nettie and four Owens half-siblings (censuses; obituary). She married her high-school sweetheart Orvel Keith Simons at Pasco on 8 Jul 1951, and again on 23 Aug 1969 after his second marriage; they divorced in 1977, and after his death in 1979 she raised their four children, Janine, Les, Rod and Billy. Known to her grandchildren as \"Gam\". She died 10 Oct 2017 at Richland, a long-time Pasco resident, aged 84, and is buried at Desert Lawn Memorial Park, Kennewick (marriage and divorce records; Tri-City Herald obituary; Find a Grave)."
    ]
   },
   {
@@ -64309,7 +65255,7 @@
   },
   {
    "id": "simons_janine",
-   "name": "Janine Simons (Bensussen)",
+   "name": "Janine Christine Simons (Bensussen)",
    "aliases": [
     "Janine Simons",
     "Janine Bensussen"
@@ -64319,8 +65265,8 @@
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "13 Feb 1953",
+    "year": 1953,
     "qualifier": null
    },
    "death": {
@@ -64328,8 +65274,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -64353,12 +65299,12 @@
     "stan_husband_of_janine_simons"
    ],
    "children": [
-    "bensussen_simon",
-    "bensussen_michael"
+    "bensussen_michael",
+    "bensussen_simon"
    ],
    "siblings": [
-    "simons_rodney",
     "simons_les",
+    "simons_rodney",
     "simons_billy"
    ],
    "families": [
@@ -64369,7 +65315,11 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Richland, Washington"
+    "Richland, Washington",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Denver, Colorado",
+    "Richland, Benton County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -64377,18 +65327,21 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Stanley James Bensussen (m. 4 Sep 1983)"
+    "Married Stanley James Bensussen (m. 4 Sep 1983, King County, Washington)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Janine S. Bensussen, born 13 Feb 1953; Kennewick 1985, Westminster, Colorado 1995, Pasco 1996, Denver 1998–2001 with Stanley J., Richland 2002); Washington, U.S., Marriage Records, 1854-2013 (licence 1 Sep 1983, Benton County) and Marriage Index, 1969-2017 (Janine C. Simons and Stanley J. Bensussen, 4 Sep 1983, King County); U.S., Index to Public Records, 1994-2019 (Michael T. Bensussen, born May 1986, and Simon D. Bensussen, born Sep 1989, Richland 2015–20)",
+    "Find a Grave, memorial 184321757 (Bessie Irene Cantrell Simons, 4 Nov 1932 Rock Island, Warren County, Tennessee – 10 Oct 2017 Richland; Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary; Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, 11 Oct 2017); Find a Grave, memorials 25111955 (Houston Brown Cantrell, 24 Jun 1915 – 24 Sep 1984, Dewberry Baptist Church Cemetery, Murray County, Georgia) and 78570887 (Hallie Evelyn Fleming Freeland, 8 Oct 1915 Tennessee – 21 Sep 1982 Yakima, Tahoma Cemetery)"
    ],
    "notes": [
     "Married Stan Bensussen.",
-    "She married Stanley James Bensussen on 4 Sep 1983 in Benton County."
+    "Born 13 Feb 1953 at Pasco (public-records index; Ed Simons's tree says 15 Feb), the eldest of Orvel and Irene's children. Married Stanley James Bensussen in King County on 4 Sep 1983, on a Benton County licence of 1 Sep; they lived in Colorado in the 1990s and at Richland from 2002 (county marriage record; state index; public-records index). Mother of Michael, born May 1986, and Simon, born September 1989."
    ]
   },
   {
@@ -64410,7 +65363,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -64777,7 +65730,7 @@
   },
   {
    "id": "simons_lenore",
-   "name": "Lenore Simons",
+   "name": "Lenore Elaine Peha (Simons)",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -64794,7 +65747,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -64828,14 +65781,17 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Leslie Orvel Simons (m. 16 Jul 1988, King County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams, 2026-09-22"
+    "Brendan Adams, 2026-09-22",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Orvel Simons, 21, born 2 Mar 1955, and Terri Lee Hickman, 2 May 1976, Pasco; Leslie O. Simons, 33, born Connell, and Lenore Elaine Peha, 16 Jul 1988, King County); Washington, U.S., Divorce Records, 1968-2017 (from Terry L. Simons, 5 Sep 1985, Benton County, no children, husband filed); U.S., Newspapers.com Marriage Index (1976, parent Orvel Simons, of Kennewick); Washington, U.S., Marriage Index, 1969-2017 (Leslie M. Simons and Paul J. Addis, 12 Nov 2016, King County); public-records indexes (Kennewick; Kent 1995; Everett 2020)"
    ],
    "notes": [
-    "Wife of Les Simons. Maiden name not recorded."
+    "Married Leslie Orvel Simons in King County on 16 Jul 1988 (county marriage record); mother of Jessica and Leslie."
    ]
   },
   {
@@ -64919,7 +65875,7 @@
   },
   {
    "id": "simons_les",
-   "name": "Leslie Orvel “Les” Simons",
+   "name": "Leslie Orvel Simons",
    "aliases": [
     "Les Simons"
    ],
@@ -64928,8 +65884,8 @@
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "2 Mar 1955",
+    "year": 1955,
     "qualifier": null
    },
    "death": {
@@ -64937,8 +65893,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -64959,18 +65915,20 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "simons_lenore"
+    "simons_lenore",
+    "hickman_terri_lee"
    ],
    "children": [
     "simons_jessica_irene",
     "simons_leslie"
    ],
    "siblings": [
-    "simons_rodney",
     "simons_janine",
+    "simons_rodney",
     "simons_billy"
    ],
    "families": [
+    "F_hickman_terri_lee+simons_les",
     "F_simons_lenore+simons_les"
    ],
    "parent_family": "F_simons_irene+simons_orval_keith",
@@ -64978,7 +65936,10 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Kent, Washington"
+    "Kent, Washington",
+    "Connell, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Everett, Snohomish County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -64986,22 +65947,26 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Terri Lee Hickman (m. 1976)"
+    "Married Terri Lee Hickman (m. 2 May 1976, Pasco, Franklin County, Washington; div. 5 Sep 1985)",
+    "Married Lenore Elaine Peha (m. 16 Jul 1988, King County, Washington)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Orvel Simons, 21, born 2 Mar 1955, and Terri Lee Hickman, 2 May 1976, Pasco; Leslie O. Simons, 33, born Connell, and Lenore Elaine Peha, 16 Jul 1988, King County); Washington, U.S., Divorce Records, 1968-2017 (from Terry L. Simons, 5 Sep 1985, Benton County, no children, husband filed); U.S., Newspapers.com Marriage Index (1976, parent Orvel Simons, of Kennewick); Washington, U.S., Marriage Index, 1969-2017 (Leslie M. Simons and Paul J. Addis, 12 Nov 2016, King County); public-records indexes (Kennewick; Kent 1995; Everett 2020)",
+    "Find a Grave, memorial 184321757 (Bessie Irene Cantrell Simons, 4 Nov 1932 Rock Island, Warren County, Tennessee – 10 Oct 2017 Richland; Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary; Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, 11 Oct 2017); Find a Grave, memorials 25111955 (Houston Brown Cantrell, 24 Jun 1915 – 24 Sep 1984, Dewberry Baptist Church Cemetery, Murray County, Georgia) and 78570887 (Hallie Evelyn Fleming Freeland, 8 Oct 1915 Tennessee – 21 Sep 1982 Yakima, Tahoma Cemetery)"
    ],
    "notes": [
-    "Leslie Orvel Simons married Terri Lee Hickman in Franklin County (certificate recorded 4 May 1976), before his marriage to Lenore."
+    "Born 2 Mar 1955 at Connell, Franklin County (Ed Simons's tree says 1954; his marriage records and the public-records index say 1955). Married Terri Lee Hickman at Pasco on 2 May 1976, aged 21, and divorced her in Benton County on 5 Sep 1985, no children; married Lenore Elaine Peha in King County on 16 Jul 1988. Of Kent in the 1990s and Everett by 2020; \"big brother\" Les of Kent in Rod's 2017 obituary (county marriage records; divorce index; public-records indexes)."
    ]
   },
   {
    "id": "simons_leslie",
-   "name": "Leslie Simons (Addis)",
+   "name": "Leslie M. Simons (Addis)",
    "aliases": [
     "Leslie Addis"
    ],
@@ -65020,7 +65985,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -65056,14 +66021,18 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Paul J. Addis (m. 12 Nov 2016, King County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Orvel Simons, 21, born 2 Mar 1955, and Terri Lee Hickman, 2 May 1976, Pasco; Leslie O. Simons, 33, born Connell, and Lenore Elaine Peha, 16 Jul 1988, King County); Washington, U.S., Divorce Records, 1968-2017 (from Terry L. Simons, 5 Sep 1985, Benton County, no children, husband filed); U.S., Newspapers.com Marriage Index (1976, parent Orvel Simons, of Kennewick); Washington, U.S., Marriage Index, 1969-2017 (Leslie M. Simons and Paul J. Addis, 12 Nov 2016, King County); public-records indexes (Kennewick; Kent 1995; Everett 2020)",
+    "Find a Grave, memorial 184321757 (Bessie Irene Cantrell Simons, 4 Nov 1932 Rock Island, Warren County, Tennessee – 10 Oct 2017 Richland; Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary; Ancestry.com, U.S., Newspapers.com Obituary Index (Tri-City Herald, 11 Oct 2017); Find a Grave, memorials 25111955 (Houston Brown Cantrell, 24 Jun 1915 – 24 Sep 1984, Dewberry Baptist Church Cemetery, Murray County, Georgia) and 78570887 (Hallie Evelyn Fleming Freeland, 8 Oct 1915 Tennessee – 21 Sep 1982 Yakima, Tahoma Cemetery)"
    ],
    "notes": [
-    "Daughter of Les and Lenore Simons; married Paul Addis."
+    "Daughter of Les and Lenore Simons; married Paul J. Addis in King County on 12 Nov 2016 (state marriage index; her grandmother Irene's 2017 obituary)."
    ]
   },
   {
@@ -65817,8 +66786,11 @@
   },
   {
    "id": "simons_orval_keith",
-   "name": "Orval Keith Simons",
-   "aliases": [],
+   "name": "Orvel Keith Simons",
+   "aliases": [
+    "Orval Keith Simons",
+    "Orvel K. Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -65855,12 +66827,14 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "simons_irene"
+    "simons_irene",
+    "flemmer_norma_jean",
+    "connor_ruth_e"
    ],
    "children": [
-    "simons_rodney",
-    "simons_les",
     "simons_janine",
+    "simons_les",
+    "simons_rodney",
     "simons_billy"
    ],
    "siblings": [
@@ -65872,6 +66846,8 @@
     "simons_glen"
    ],
    "families": [
+    "F_connor_ruth_e+simons_orval_keith",
+    "F_flemmer_norma_jean+simons_orval_keith",
     "F_simons_irene+simons_orval_keith"
    ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
@@ -65879,10 +66855,12 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Lynden, Whatcom County, Washington",
     "Spokane, Spokane County, Washington",
     "Delta, Whatcom County, Washington",
-    "Bellingham, Whatcom County, Washington"
+    "Bellingham, Whatcom County, Washington",
+    "Blaine, Whatcom County, Washington",
+    "Richland, Benton County, Washington",
+    "Pasco, Franklin County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -65890,9 +66868,11 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Born 30 Oct 1929, Lynden, Whatcom Co, Washington",
     "Died 21 Jul 1979, Spokane, Spokane Co, Washington",
-    "Married Bessie Irene Cantrell (m. 1951)"
+    "Married Bessie Irene Cantrell (m. 8 Jul 1951, Pasco, Franklin County, Washington; again 23 Aug 1969; div. 8 Feb 1977)",
+    "Born 30 Oct 1929, Blaine, Whatcom County, Washington",
+    "Married Norma (Flemmer) Albertson (m. 5 May 1966, Kootenai County, Idaho; div. 15 Aug 1969)",
+    "Married Ruth (Connor) Bates (m. 12 Mar 1977, Franklin County, Washington)"
    ],
    "education": [
     "Orval Simons was an elementary school student of Amy Kulp and Alice Burk."
@@ -65905,19 +66885,24 @@
     "Washington State Archives, Digital Archives, Department of Health, Marriage Index, 1969-2022",
     "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, certificate 9306 (Glen E. Simons and Mary Patricia Walker, 27 Jul 1958)",
     "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington County Birth Registers, 1873-1965 (Orval Keith Simons, parents Raymond Zell Simons and Dradie Kulp; ark 1:1:6C3G-GRZM); United States Social Security NUMIDENT (Orvel Keith Simons, born 30 Oct 1929 Blaine, Whatcom County; parents Raymond Z. Simons and Dradie E. Kulp; ark 1:1:6KW1-M6GJ)",
+    "FamilySearch, United States Census, 1930 (Delta, Whatcom County; ark 1:1:XCQF-YPM), 1940 (Richland precinct, Benton County; ark 1:1:K99X-7R3) and 1950 (Franklin County, with Ray Z., Dradie E. and Glen E. Simons; ark 1:1:6X1C-KCKS)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Orvel Keith Simons, 22, born 30 Oct 1929, and Bessie Irene Cantrell, 8 Jul 1951, Pasco; Orvel K. Simons and Bessie Irene Simons, application 18 Aug 1969, married 23 Aug 1969, Franklin County); Idaho, U.S., Marriage Records, 1863-1974 (Orvel K. Simons and Norma Albertson, 5 May 1966, Kootenai County, certificate 5808); FamilySearch, Washington Divorce Index, 1969-2014 (from Norma J. Flemmer, 15 Aug 1969, Franklin County, no children; from Bessie I. Cantrell, 8 Feb 1977, Franklin County, two children) and Washington Marriage Index (Orvel K. Simons and Ruth Connor Bates, 12 Mar 1977, Franklin County)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Orvel Keith Simons, 49, died 21 Jul 1979 Spokane; certificate 16904; parents Ray Z. Simons and Dradie Culp; spouse Ruth Connor; residence Franklin County); FamilySearch, Washington County Death Registers (ark 1:1:6FTY-1BYW); Find a Grave, memorial 73189932 (Desert Lawn Memorial Park, Kennewick, Glendale block 2, lot 82, space 2)"
    ],
    "notes": [
     "Brother of Beryl Simons Adams.",
-    "Open question: an Orvel K. Simons married Ruth E. Bates (born Connor) on 12 Mar 1977 in Franklin County (Department of Health marriage index). If this is Orval, he and Irene had divorced before his death in 1979.",
     "A witness, as Orvel K. Simons, at the wedding of his brother Glen and Mary Patricia Walker at Kennewick on 27 Jul 1958 (Franklin County marriage certificate no. 9306).",
-    "Born 30 Oct 1929 and died 21 Jul 1979 at Spokane (Washington death records, as Orvel K. Simons). Ed Simons's tree gives his birthplace as Bellingham."
+    "Born 30 Oct 1929 at Blaine, Whatcom County (Social Security record; the county register spells him Orval, every later record Orvel); with his parents at Delta in 1930, near Richland in 1940 and in Franklin County in 1950 (censuses). Married Bessie Irene Cantrell at Pasco on 8 Jul 1951; married Norma Albertson, born Flemmer, in Kootenai County, Idaho, on 5 May 1966 and divorced her in Franklin County on 15 Aug 1969; remarried Irene there on 23 Aug 1969 and was divorced from her, with two children, on 8 Feb 1977; married Ruth Connor Bates in Franklin County on 12 Mar 1977. Died 21 Jul 1979 at Spokane, aged 49, his widow Ruth Connor, and is buried at Desert Lawn Memorial Park, Kennewick, Glendale block 2 (marriage and divorce records; death record; Find a Grave)."
    ]
   },
   {
    "id": "simons_pamela",
-   "name": "Pamela “Pam” Simons",
-   "aliases": [],
+   "name": "Pamela R. Penny (Simons)",
+   "aliases": [
+    "Pam Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
@@ -65966,14 +66951,17 @@
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Rodney Keith Simons (m. 29 Aug 1998, King County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
+    "Ancestry.com, Washington, U.S., Marriage Index, 1969-2017 (Rodney K. Simons and Pamela R. Penny, 29 Aug 1998, King County)"
    ],
    "notes": [
-    "Wife of Rod Simons; her birth surname is not recorded."
+    "Married Rodney Keith Simons in King County, Washington, on 29 Aug 1998 (state marriage index); \"Pam\" in his 2017 obituary; mother of Anna Bess."
    ]
   },
   {
@@ -66058,7 +67046,8 @@
    "id": "simons_raymond_elmer",
    "name": "Raymond Elmer Simons",
    "aliases": [
-    "Elmer"
+    "Elmer",
+    "Elmer Simons"
    ],
    "photo": null,
    "card_name": null,
@@ -66096,7 +67085,7 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "hardy_wilma",
+    "jones_wilma_k",
     "simons_betty"
    ],
    "children": [
@@ -66112,7 +67101,7 @@
     "simons_glen"
    ],
    "families": [
-    "F_hardy_wilma+simons_raymond_elmer",
+    "F_jones_wilma_k+simons_raymond_elmer",
     "F_simons_betty+simons_raymond_elmer"
    ],
    "parent_family": "F_kulp_dradie_ellen+simons_raymond_zell",
@@ -66123,7 +67112,8 @@
     "Lynden, Whatcom County, Washington",
     "Delta, Whatcom County, Washington",
     "Pasco, Washington",
-    "Blaine, Whatcom County, Washington"
+    "Blaine, Whatcom County, Washington",
+    "Pasco, Franklin County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -66131,24 +67121,34 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Born 17 Oct 1921, Lynden, Whatcom Co, Washington",
-    "Married Wilma K. Hardy (m. 30 Aug 1947)",
-    "Married Beatrice Lee “Bette” Jones (m. 10 Nov 1969)"
+    "Married Wilma K. (Jones) Hardy (m. 30 Aug 1947, Franklin County, Washington; div. 14 May 1969)",
+    "Married Beatrice Lee \"Bette\" (Jones) Barton (m. 10 Nov 1969, Pasco, Franklin County, Washington)",
+    "Military: enlisted in the Army at Spokane on 20 Jul 1944 as a private; sprained an ankle on a work detail in February 1945; discharged 13 Nov 1946.",
+    "Born 17 Oct 1921, Blaine, Whatcom County, Washington"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Northern Pacific Railway: locomotive fireman (1942–50)."
+   ],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
     "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Raymond Elmer Simons, born 17 Oct 1921 Blaine, Whatcom County; parents Raymond Z. Simons and Dradie E. Kulp; applied Nov 1940)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Raymond Elmer Simons, 20, registered 14 Feb 1942 at Pasco; employer Northern Pacific Railway; 5 ft 10 in, 165 lb, brown hair, blue eyes; next of kin his sister Elaine Rinehart); U.S., World War II Army Enlistment Records, 1938-1946 (enlisted 20 Jul 1944 at Spokane, private, locomotive fireman, four years of high school, service no. 39470405); Department of Veterans Affairs BIRLS Death File (discharged 13 Nov 1946)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Raymond E. Simons, 25, born Bellingham, and Wilma Hardy, 23, born Crawford, Nebraska; 30 Aug 1947, Franklin County; ref. CE311-2-0-24); U.S., Newspapers.com Marriage Index (Crawford Tribune, Nebraska, 26 Sep 1947: Mrs Wilma Hardy of Pasco, daughter of Harry L. Jones, married Raymond E. Simons)",
+    "Ancestry.com, 1950 United States Federal Census (Franklin County, Washington, ED 11-7: Raymond E. Simons, 28, railroad fireman, with Wilma, 25, born Nebraska)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Raymond E. Simons and Wilma J. Simons, 14 May 1969, Franklin County, two children, wife filed)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 and Marriage Index, 1969-2017 (Raymond E. Simons, 48, born 17 Oct 1921, and Bette L. Barton, 10 Nov 1969, Pasco); U.S., Newspapers.com Marriage Index (Tri-City Herald, 16 Nov 1969)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Raymond Elmer Simons, 72, died 26 Apr 1994 Pasco; certificate 4-08852; parents Ray Z. Simons and Dradie Kulp; spouse Bette L. Jones); U.S., Newspapers.com Obituary Index (Tri-City Herald, 28 Apr 1994); Find a Grave, memorial 73189439 (Desert Lawn Memorial Park, Kennewick, Glendale block 2, lot 88, space 4; veteran)"
    ],
    "notes": [
     "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue.",
-    "Married Wilma K. Hardy on 30 Aug 1947 in Franklin County and Beatrice \"Bette\" Jones on 10 Nov 1969 at Pasco. Died 26 Apr 1994 at Pasco; buried at Kennewick (Kulp-Ritchey-Dorsett Family Tree).",
-    "Born 17 Oct 1921 and died 26 Apr 1994 at Pasco (Washington death records). Ed Simons's tree gives his birthplace as Blaine."
+    "Married Mrs Wilma K. Hardy, born Jones, of Pasco, in Franklin County on 30 Aug 1947; a railroad fireman in 1950; she divorced him on 14 May 1969, with two children, and on 10 Nov 1969 at Pasco he married Bette L. Barton, born Jones, a widow or divorcee of Tucannon (county marriage records; 1950 census; divorce index; Tri-City Herald, 16 Nov 1969).",
+    "Born 17 Oct 1921 at Blaine, Whatcom County (Social Security application; his death record and draft card say Bellingham); a Northern Pacific fireman at Pasco when he registered for the draft on 14 Feb 1942, naming his sister Elaine; served in the Army 1944–46. Died 26 Apr 1994 at Pasco, aged 72 (certificate 4-08852), and is buried at Desert Lawn Memorial Park, Kennewick, Glendale block 2 (Social Security index; draft card; enlistment record; Washington death record; Find a Grave)."
    ]
   },
   {
@@ -66362,22 +67362,25 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Milton, Oregon"
+    "Odessa, Lincoln County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Born and died 19 Sep 1916, Odessa, Lincoln County, Washington"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "FamilySearch, Washington Death Certificates, 1907-1960 (female infant Simons, born 1916, died 19 Sep 1916 at Odessa, Lincoln County; father Ray Simons, mother Dradie Kulp; certificate 113; ark 1:1:N3L5-VXJ); Washington County Death Registers, 1881-1979 (ark 1:1:6F6X-7ZR8); Washington County Birth Registers, 1873-1965 (female Simons, born 19 Sep 1916, parents Ray Simons and Dradie Kulp; ark 1:1:Z1NG-ZZ3Z)"
    ],
    "notes": [
-    "First child of Ray and Dradie (Kulp) Simons; born and died on 19 Sep 1916 at Milton (Kulp-Ritchey-Dorsett Family Tree). She is the second sister who, with Beryl, predeceased Elaine, according to Elaine's 2011 obituary."
+    "First child of Ray and Dradie (Kulp) Simons, born and died on 19 Sep 1916 at Odessa, Lincoln County, Washington: the county birth register, county death register and state death certificate (no. 113) all record an unnamed female infant of Ray Simons and Dradie Kulp. The name Rhea Dradie and the Milton birthplace come from family trees (Kulp-Ritchey-Dorsett; Ed Simons), not from the records. She is the second sister who, with Beryl, predeceased Elaine, according to Elaine's 2011 obituary."
    ]
   },
   {
@@ -66481,7 +67484,7 @@
   },
   {
    "id": "simons_rodney",
-   "name": "Rodney Keith “Rod” Simons",
+   "name": "Rodney Keith Simons",
    "aliases": [
     "Rodney Simons",
     "Rod Simons"
@@ -66528,8 +67531,8 @@
     "simons_anna_bess"
    ],
    "siblings": [
-    "simons_les",
     "simons_janine",
+    "simons_les",
     "simons_billy"
    ],
    "families": [
@@ -66542,7 +67545,10 @@
    "locations": [
     "Pasco, Washington",
     "Minneapolis, Minnesota",
-    "Fort Myers, Florida"
+    "Fort Myers, Florida",
+    "Pasco, Franklin County, Washington",
+    "Tacoma, Washington",
+    "Boise, Idaho"
    ],
    "personality": [],
    "roles": [],
@@ -66550,7 +67556,8 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
+    "Buried at Desert Lawn Memorial Park, Kennewick, Washington",
+    "Married Pamela R. Penny (m. 29 Aug 1998, King County, Washington)"
    ],
    "education": [
     "Washington State University."
@@ -66561,10 +67568,14 @@
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
-    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)"
+    "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Index, 1969-2017 (Rodney K. Simons and Pamela R. Penny, 29 Aug 1998, King County)",
+    "Find a Grave, memorial 176738188 (Rodney Keith Simons, 30 Jun 1960 Pasco – 20 Feb 2017 Fort Myers, Florida; Desert Lawn Memorial Park, Kennewick; parents Orvel Keith Simons and Bessie Irene Cantrell), via the Ancestry.com Find a Grave index; U.S., Newspapers.com Obituary Index (The News Tribune, Tacoma, 28 Feb 2017); U.S., Obituary Collection (Legacy.com)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
    ],
    "notes": [
-    "Born 30 Jun 1960; grew up in the Tri-Cities and studied at Washington State University, where he found radio and then sports broadcasting. He died 20 Feb 2017 at Fort Myers, Florida, aged 56, and was buried at Desert Lawn Memorial Park, Kennewick, where his grandparents Ray and Dradie Simons lie. His wife is Pam (Pamela), and their daughter Anna Bess \"Annie\" Simons."
+    "Born 30 Jun 1960 at Pasco; grew up in the Tri-Cities and studied at Washington State University, where he found radio and then sports broadcasting; lived at Tacoma, Boise and, from 2007, Minneapolis. He married Pamela R. Penny in King County on 29 Aug 1998. He died 20 Feb 2017 at Fort Myers, Florida, aged 56; a Rosary was said at Mueller's Tri-Cities Funeral Home on 27 Feb and a funeral Mass at St. Patrick's, Pasco, on 28 Feb, and he was buried at Desert Lawn Memorial Park, Kennewick, where his grandparents Ray and Dradie Simons lie. Survived by his wife Pam, daughter Annie, mother Irene, sister Janine Bensussen of Richland and brothers Les, of Kent, and Billy (marriage index; Find a Grave; obituary, The News Tribune, 28 Feb 2017; public-records indexes)."
    ]
   },
   {
@@ -66867,15 +67878,15 @@
   },
   {
    "id": "simons_shawn",
-   "name": "Shawn Simons",
+   "name": "Shawn Michael Simons",
    "aliases": [],
    "photo": null,
    "card_name": null,
-   "sex": null,
+   "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1988",
+    "year": 1988,
     "qualifier": null
    },
    "death": {
@@ -66883,8 +67894,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -66895,8 +67906,9 @@
    "adopted": false,
    "unproven": false,
    "father": "simons_carl_ray",
-   "mother": null,
+   "mother": "hoey_judith_lynn",
    "parents": [
+    "hoey_judith_lynn",
     "simons_carl_ray"
    ],
    "birth_father": null,
@@ -66905,11 +67917,9 @@
    "birth_children": [],
    "spouses": [],
    "children": [],
-   "siblings": [
-    "simons_ashley"
-   ],
+   "siblings": [],
    "families": [],
-   "parent_family": "F_simons_carl_ray",
+   "parent_family": "F_hoey_judith_lynn+simons_carl_ray",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -66924,10 +67934,11 @@
    "career": [],
    "sources": [
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
    ],
    "notes": [
-    "Child of Carl Ray Simons; grandchild of Elmer Simons.",
+    "Son of Carl Ray Simons and Judith Lynn Hoey, born 1988 (Ed Simons's tree); grandson of Elmer Simons.",
     "Probably him: Shawn R. Simons applied to marry Emily Black in Benton County on 13 Jul 1999."
    ]
   },
@@ -68724,7 +69735,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -68741,8 +69752,8 @@
     "simons_janine"
    ],
    "children": [
-    "bensussen_simon",
-    "bensussen_michael"
+    "bensussen_michael",
+    "bensussen_simon"
    ],
    "siblings": [],
    "families": [
@@ -68759,14 +69770,15 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Janine Simons (m. 4 Sep 1983)"
+    "Married Janine Christine Simons (m. 4 Sep 1983, King County, Washington)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Janine S. Bensussen, born 13 Feb 1953; Kennewick 1985, Westminster, Colorado 1995, Pasco 1996, Denver 1998–2001 with Stanley J., Richland 2002); Washington, U.S., Marriage Records, 1854-2013 (licence 1 Sep 1983, Benton County) and Marriage Index, 1969-2017 (Janine C. Simons and Stanley J. Bensussen, 4 Sep 1983, King County); U.S., Index to Public Records, 1994-2019 (Michael T. Bensussen, born May 1986, and Simon D. Bensussen, born Sep 1989, Richland 2015–20)"
    ],
    "notes": [
     "Husband of Janine (Simons) Bensussen."
@@ -72211,7 +73223,8 @@
    "priority": "normal",
    "locations": [
     "Gladstone, Oregon",
-    "Portland, Oregon"
+    "Portland, Oregon",
+    "River View Cemetery, Portland, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -72219,7 +73232,7 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Elaine (Simons) Rinehart (m. 1991)"
+    "Married Elaine (Simons) Rinehart (m. 21 Jun 1991, Clackamas County, Oregon)"
    ],
    "education": [],
    "career": [
@@ -72227,11 +73240,13 @@
    ],
    "sources": [
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)"
+    "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)",
+    "Ancestry.com, Oregon, U.S., State Births, 1842-1924 (William Clifford Upham, 8 Jul 1919, Portland); Find a Grave, memorial 171899864 (William Clifford \"Bill\" Upham, 1919–2016, S/Sgt US Army, River View Cemetery, Portland, section 125, lot 19, grave 4; parents Cecil Henry Upham 1889–1949 and Julia Anne Johnson 1891–1980; wives Marie Maxine Smith 1922–1968, Virginia Beth DuBois Rounds 1922–1988, Elaine Simons Rinehart)",
+    "Ancestry.com, Oregon, U.S., Marriage Indexes, 1906-2009 (William C. Upham and Elaine D. Simonds [Rinehart], 21 Jun 1991, Clackamas County)"
    ],
    "notes": [
     "Husband of Elaine Simons at her death in 2011; living in Gladstone, Oregon. [Family research emails, email 27]",
-    "Born 8 Jul 1919 in Portland; died 5 Oct 2016, aged 97. He married Marie Maxine Smith in 1947 (two daughters), Virginia Rounds in 1977, and Elaine Rinehart in 1991.",
+    "Born 8 Jul 1919 at Portland, son of Cecil Henry Upham (1889–1949) and Julia Anne Johnson (1891–1980); a staff sergeant in the Army in WWII; married Marie Maxine Smith (1922–1968) in 1948, two daughters, Virginia Beth DuBois Rounds (1922–1988) in 1977, and Elaine Rinehart in Clackamas County on 21 Jun 1991; died 5 Oct 2016, aged 97, and was buried at River View Cemetery, Portland (Oregon birth record; Oregon marriage index; Find a Grave).",
     "His 2016 obituary also names two stepdaughters, Debbie Groom and Jan Holter. Jan is Elaine's daughter; Debbie is not named in Elaine's 2011 obituary, so she was probably a daughter of his second wife, Virginia Rounds. Elaine's obituary names his daughters as Diane Angelo and Janet Upham."
    ]
   },
@@ -79459,6 +80474,17 @@
    "marriage": null
   },
   {
+   "id": "F_blust_theresa+jones_harry_l",
+   "partners": [
+    "blust_theresa",
+    "jones_harry_l"
+   ],
+   "children": [
+    "jones_wilma_k"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_borton_ruth_trilby+forester_glenn_c",
    "partners": [
     "borton_ruth_trilby",
@@ -79635,6 +80661,28 @@
    "marriage": "18 Aug 2006"
   },
   {
+   "id": "F_cantrell_houston_brown+fleming_hallie_evelyn",
+   "partners": [
+    "cantrell_houston_brown",
+    "fleming_hallie_evelyn"
+   ],
+   "children": [
+    "simons_irene"
+   ],
+   "marriage": "abt 1931, Tennessee"
+  },
+  {
+   "id": "F_carlson_amelia+rinehart_john_a",
+   "partners": [
+    "carlson_amelia",
+    "rinehart_john_a"
+   ],
+   "children": [
+    "rhinehart_les"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_charles_buckey_mckeldin+emily_schrieffer_mckeldin",
    "partners": [
     "charles_buckey_mckeldin",
@@ -79737,6 +80785,15 @@
     "kulp_michael_nicholas"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_connor_ruth_e+simons_orval_keith",
+   "partners": [
+    "connor_ruth_e",
+    "simons_orval_keith"
+   ],
+   "children": [],
+   "marriage": "12 Mar 1977, Franklin County, Washington"
   },
   {
    "id": "F_cox_loren_wayne+forester_dorothy_jean",
@@ -80226,6 +81283,15 @@
     "bell_elmira"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_flemmer_norma_jean+simons_orval_keith",
+   "partners": [
+    "flemmer_norma_jean",
+    "simons_orval_keith"
+   ],
+   "children": [],
+   "marriage": "5 May 1966, Kootenai County, Idaho; div. 15 Aug 1969"
   },
   {
    "id": "F_forester_betty_joyce+oxenger_richard",
@@ -80896,18 +81962,6 @@
    "marriage": "1935"
   },
   {
-   "id": "F_hardy_wilma+simons_raymond_elmer",
-   "partners": [
-    "hardy_wilma",
-    "simons_raymond_elmer"
-   ],
-   "children": [
-    "simons_carl_ray",
-    "simons_debra_sue"
-   ],
-   "marriage": "30 Aug 1947"
-  },
-  {
    "id": "F_harrington_harry_h+simons_bertha",
    "partners": [
     "harrington_harry_h",
@@ -80947,6 +82001,15 @@
    "marriage": null
   },
   {
+   "id": "F_hickman_terri_lee+simons_les",
+   "partners": [
+    "hickman_terri_lee",
+    "simons_les"
+   ],
+   "children": [],
+   "marriage": "2 May 1976, Pasco, Franklin County, Washington; div. 5 Sep 1985"
+  },
+  {
    "id": "F_hinds_marrion_roma+walker_john_william",
    "partners": [
     "hinds_marrion_roma",
@@ -80966,6 +82029,17 @@
    ],
    "children": [],
    "marriage": null
+  },
+  {
+   "id": "F_hoey_judith_lynn+simons_carl_ray",
+   "partners": [
+    "hoey_judith_lynn",
+    "simons_carl_ray"
+   ],
+   "children": [
+    "simons_shawn"
+   ],
+   "marriage": "9 Jun 1984, Pasco, Franklin County, Washington"
   },
   {
    "id": "F_hofman_karl_d+simons_sharon",
@@ -81020,7 +82094,7 @@
     "holter_jana",
     "holter_jeff"
    ],
-   "marriage": null
+   "marriage": "30 Jun 1957, Pasco, Franklin County, Washington"
   },
   {
    "id": "F_hovarter_sarah+rogers_sanford",
@@ -81141,6 +82215,30 @@
     "jacob_martin"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_johnson_claudine_p+rhinehart_jerry",
+   "partners": [
+    "johnson_claudine_p",
+    "rhinehart_jerry"
+   ],
+   "children": [
+    "rinehart_david_james",
+    "rinehart_martin"
+   ],
+   "marriage": "3 Nov 1957, Pasco, Franklin County, Washington; div. 12 Sep 1969"
+  },
+  {
+   "id": "F_jones_wilma_k+simons_raymond_elmer",
+   "partners": [
+    "jones_wilma_k",
+    "simons_raymond_elmer"
+   ],
+   "children": [
+    "simons_carl_ray",
+    "simons_debra_sue"
+   ],
+   "marriage": "30 Aug 1947, Franklin County, Washington; div. 14 May 1969"
   },
   {
    "id": "F_kaempfer_anton+pieritz_wilhelmina",
@@ -81935,23 +83033,13 @@
    "marriage": null
   },
   {
-   "id": "F_rhinehart_jerry",
-   "partners": [
-    "rhinehart_jerry"
-   ],
-   "children": [
-    "rinehart_martin"
-   ],
-   "marriage": null
-  },
-  {
    "id": "F_rhinehart_jerry+rinehart_linda",
    "partners": [
     "rhinehart_jerry",
     "rinehart_linda"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "17 Nov 1973, Kootenai County, Idaho; div. 29 Aug 2005"
   },
   {
    "id": "F_rhinehart_les+simons_elaine_deretha",
@@ -81963,7 +83051,7 @@
     "rhinehart_jerry",
     "rhinehart_janet"
    ],
-   "marriage": "10 Sep 1935"
+   "marriage": "10 Sep 1935, Skagit County, Washington"
   },
   {
    "id": "F_rogers_arlene",
@@ -82139,7 +83227,7 @@
     "simons_raymond_elmer"
    ],
    "children": [],
-   "marriage": "10 Nov 1969"
+   "marriage": "10 Nov 1969, Pasco, Franklin County, Washington"
   },
   {
    "id": "F_simons_billy",
@@ -82157,8 +83245,7 @@
     "simons_carl_ray"
    ],
    "children": [
-    "simons_ashley",
-    "simons_shawn"
+    "simons_ashley"
    ],
    "marriage": null
   },
@@ -82220,7 +83307,7 @@
     "upham_william"
    ],
    "children": [],
-   "marriage": "21 Jun 1991"
+   "marriage": "21 Jun 1991, Clackamas County, Oregon"
   },
   {
    "id": "F_simons_glen+simons_mary",
@@ -82284,12 +83371,12 @@
     "simons_orval_keith"
    ],
    "children": [
-    "simons_rodney",
-    "simons_les",
     "simons_janine",
+    "simons_les",
+    "simons_rodney",
     "simons_billy"
    ],
-   "marriage": "1951"
+   "marriage": "8 Jul 1951, Pasco, Franklin County, Washington; again 23 Aug 1969; div. 8 Feb 1977"
   },
   {
    "id": "F_simons_janine+stan_husband_of_janine_simons",
@@ -82298,10 +83385,10 @@
     "stan_husband_of_janine_simons"
    ],
    "children": [
-    "bensussen_simon",
-    "bensussen_michael"
+    "bensussen_michael",
+    "bensussen_simon"
    ],
-   "marriage": "4 Sep 1983"
+   "marriage": "4 Sep 1983, King County, Washington"
   },
   {
    "id": "F_simons_lenore+simons_les",
@@ -82313,7 +83400,7 @@
     "simons_jessica_irene",
     "simons_leslie"
    ],
-   "marriage": "1976"
+   "marriage": "16 Jul 1988, King County, Washington"
   },
   {
    "id": "F_simons_leroy_scott",
@@ -82343,7 +83430,7 @@
    "children": [
     "simons_anna_bess"
    ],
-   "marriage": null
+   "marriage": "29 Aug 1998, King County, Washington"
   },
   {
    "id": "F_simons_penny+simons_steve",

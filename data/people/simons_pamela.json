@@ -1,6 +1,6 @@
 {
   "id": "simons_pamela",
-  "name": "Pamela “Pam” Simons",
+  "name": "Pamela R. Penny (Simons)",
   "sex": "F",
   "birth": "",
   "death": "",
@@ -9,7 +9,9 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Rodney Keith Simons (m. 29 Aug 1998, King County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -23,10 +25,13 @@
   },
   "locations": [],
   "sources": [
-    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017"
+    "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
+    "Ancestry.com, Washington, U.S., Marriage Index, 1969-2017 (Rodney K. Simons and Pamela R. Penny, 29 Aug 1998, King County)"
   ],
   "notes": [
-    "Wife of Rod Simons; her birth surname is not recorded."
+    "Married Rodney Keith Simons in King County, Washington, on 29 Aug 1998 (state marriage index); \"Pam\" in his 2017 obituary; mother of Anna Bess."
   ],
-  "aliases": []
+  "aliases": [
+    "Pam Simons"
+  ]
 }

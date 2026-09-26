@@ -1,6 +1,7 @@
 {
-  "id": "simons_lenore",
-  "name": "Lenore Elaine Peha (Simons)",
+  "id": "hickman_terri_lee",
+  "name": "Terri Lee Hickman (Simons)",
+  "sex": "F",
   "birth": "",
   "death": "",
   "personality": [],
@@ -9,7 +10,7 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Leslie Orvel Simons (m. 16 Jul 1988, King County, Washington)"
+    "Married Leslie Orvel Simons (m. 2 May 1976, Pasco, Franklin County, Washington; div. 5 Sep 1985)"
   ],
   "education": [],
   "career": [],
@@ -18,19 +19,14 @@
     "father": "",
     "siblings": [],
     "spouse": "simons_les",
-    "children": [
-      "simons_jessica_irene",
-      "simons_leslie"
-    ]
+    "children": []
   },
   "locations": [],
   "sources": [
-    "Brendan Adams, 2026-09-22",
     "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Orvel Simons, 21, born 2 Mar 1955, and Terri Lee Hickman, 2 May 1976, Pasco; Leslie O. Simons, 33, born Connell, and Lenore Elaine Peha, 16 Jul 1988, King County); Washington, U.S., Divorce Records, 1968-2017 (from Terry L. Simons, 5 Sep 1985, Benton County, no children, husband filed); U.S., Newspapers.com Marriage Index (1976, parent Orvel Simons, of Kennewick); Washington, U.S., Marriage Index, 1969-2017 (Leslie M. Simons and Paul J. Addis, 12 Nov 2016, King County); public-records indexes (Kennewick; Kent 1995; Everett 2020)"
   ],
   "notes": [
-    "Married Leslie Orvel Simons in King County on 16 Jul 1988 (county marriage record); mother of Jessica and Leslie."
+    "First wife of Leslie Orvel Simons: married at Pasco 2 May 1976, divorced in Benton County 5 Sep 1985, no children (county marriage record; divorce index)."
   ],
-  "aliases": [],
-  "sex": "F"
+  "aliases": []
 }

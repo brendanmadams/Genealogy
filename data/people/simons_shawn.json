@@ -1,7 +1,7 @@
 {
   "id": "simons_shawn",
-  "name": "Shawn Simons",
-  "birth": "",
+  "name": "Shawn Michael Simons",
+  "birth": "1988",
   "death": "",
   "personality": [],
   "roles": [],
@@ -12,7 +12,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "hoey_judith_lynn",
     "father": "simons_carl_ray",
     "siblings": [],
     "spouse": "",
@@ -21,11 +21,13 @@
   "locations": [],
   "sources": [
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
   ],
   "notes": [
-    "Child of Carl Ray Simons; grandchild of Elmer Simons.",
+    "Son of Carl Ray Simons and Judith Lynn Hoey, born 1988 (Ed Simons's tree); grandson of Elmer Simons.",
     "Probably him: Shawn R. Simons applied to marry Emily Black in Benton County on 13 Jul 1999."
   ],
-  "aliases": []
+  "aliases": [],
+  "sex": "M"
 }

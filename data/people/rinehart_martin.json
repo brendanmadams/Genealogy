@@ -1,30 +1,37 @@
 {
   "id": "rinehart_martin",
-  "name": "Martin Rinehart",
+  "name": "Martin Allen Rinehart",
   "sex": "M",
-  "birth": "",
+  "birth": "Nov 1963",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Marta Johnston (m. 27 Jul 1991, Whatcom County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
+    "mother": "johnson_claudine_p",
     "father": "rhinehart_jerry",
     "siblings": [],
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Pasco, Franklin County, Washington",
+    "Everson, Whatcom County, Washington"
+  ],
   "sources": [
-    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Martin Allen Rinehart, 27, born Pasco, and Marta Johnston, 27 Jul 1991, Whatcom County; ref. nwwtcmcv91b_166); U.S., Index to Public Records, 1994-2019 (Martin A. Rinehart, born Nov 1963, Everson, Washington 1995–2020)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
   ],
   "notes": [
-    "Grandson of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a son of Jerry Rinehart, her only son."
+    "Son of Jerry Rinehart, born at Pasco in November 1963, during Jerry's marriage to Claudine Johnson, so Inferred: her son; married Marta Johnston in Whatcom County on 27 Jul 1991, aged 27, and has lived at Everson, Whatcom County, since the 1990s (county marriage record; public-records index). The grandson Martin Rinehart of Elaine's 2011 obituary."
   ],
   "aliases": []
 }

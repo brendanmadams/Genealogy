@@ -1,36 +1,45 @@
 {
   "id": "simons_debra_sue",
-  "name": "Debra Sue Simons",
-  "birth": "",
-  "death": "before 2025",
+  "name": "Debra Sue Simons (Wooten)",
+  "birth": "21 May 1956",
+  "death": "16 Nov 2021",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Patrick G. Wooten (div. 13 Jun 1998, Benton County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "hardy_wilma",
+    "mother": "jones_wilma_k",
     "father": "simons_raymond_elmer",
     "siblings": [],
     "spouse": "",
     "children": [],
     "adopted": true
   },
-  "locations": [],
+  "locations": [
+    "Seattle, Washington",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and Index to Public Records, 1994-2019 (Debra Sue Simons, also Wooten, born 21 May 1956; Spokane; Pasco 1983–2018); Washington, U.S., Divorce Records, 1968-2017 (Debra S. Wooten, née Simons, from Patrick G. Wooten, 13 Jun 1998, Benton County, no children); U.S., Newspapers.com Obituary Index (Debra Sue Simons, 65, of Kennewick, born Seattle, died 16 Nov 2021; Tri-City Herald, 19 Nov 2021)"
   ],
   "notes": [
     "Adopted by Elmer and Wilma (Hardy) Simons; Elmer's second wife, Bette, was a stepmother.",
-    "Her brother Carl Ray's 2025 obituary says she died before him.",
-    "Probably her: Debra Sue Simons applied to marry Michael D. Miller in Benton County on 14 Dec 2001."
+    "Born 21 May 1956 at Seattle (Ed Simons's tree; public-records index); married Patrick G. Wooten, and divorced him in Benton County on 13 Jun 1998, no children; of Pasco 1983–2018; died 16 Nov 2021, of Kennewick, aged 65 (divorce index; Tri-City Herald, 19 Nov 2021). A Debra Sue Simons applied to marry Michael D. Miller in Benton County on 14 Dec 2001, probably her. Her brother Carl Ray's 2025 obituary says she died before him."
   ],
-  "aliases": [],
+  "aliases": [
+    "Debra Wooten"
+  ],
   "sex": "F"
 }

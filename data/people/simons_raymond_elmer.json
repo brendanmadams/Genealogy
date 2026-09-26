@@ -9,17 +9,20 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Born 17 Oct 1921, Lynden, Whatcom Co, Washington",
-    "Married Wilma K. Hardy (m. 30 Aug 1947)",
-    "Married Beatrice Lee “Bette” Jones (m. 10 Nov 1969)"
+    "Married Wilma K. (Jones) Hardy (m. 30 Aug 1947, Franklin County, Washington; div. 14 May 1969)",
+    "Married Beatrice Lee \"Bette\" (Jones) Barton (m. 10 Nov 1969, Pasco, Franklin County, Washington)",
+    "Military: enlisted in the Army at Spokane on 20 Jul 1944 as a private; sprained an ankle on a work detail in February 1945; discharged 13 Nov 1946.",
+    "Born 17 Oct 1921, Blaine, Whatcom County, Washington"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Northern Pacific Railway: locomotive fireman (1942–50)."
+  ],
   "relationships": {
     "mother": "kulp_dradie_ellen",
     "father": "simons_raymond_zell",
     "siblings": [],
-    "spouse": "hardy_wilma",
+    "spouse": "jones_wilma_k",
     "children": [
       "simons_carl_ray",
       "simons_debra_sue"
@@ -32,7 +35,8 @@
     "Lynden, Whatcom County, Washington",
     "Delta, Whatcom County, Washington",
     "Pasco, Washington",
-    "Blaine, Whatcom County, Washington"
+    "Blaine, Whatcom County, Washington",
+    "Pasco, Franklin County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
@@ -40,15 +44,23 @@
     "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, Desert Lawn Memorial Park, Kennewick)",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
     "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Social Security Applications and Claims Index, 1936-2007 (Raymond Elmer Simons, born 17 Oct 1921 Blaine, Whatcom County; parents Raymond Z. Simons and Dradie E. Kulp; applied Nov 1940)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Raymond Elmer Simons, 20, registered 14 Feb 1942 at Pasco; employer Northern Pacific Railway; 5 ft 10 in, 165 lb, brown hair, blue eyes; next of kin his sister Elaine Rinehart); U.S., World War II Army Enlistment Records, 1938-1946 (enlisted 20 Jul 1944 at Spokane, private, locomotive fireman, four years of high school, service no. 39470405); Department of Veterans Affairs BIRLS Death File (discharged 13 Nov 1946)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Raymond E. Simons, 25, born Bellingham, and Wilma Hardy, 23, born Crawford, Nebraska; 30 Aug 1947, Franklin County; ref. CE311-2-0-24); U.S., Newspapers.com Marriage Index (Crawford Tribune, Nebraska, 26 Sep 1947: Mrs Wilma Hardy of Pasco, daughter of Harry L. Jones, married Raymond E. Simons)",
+    "Ancestry.com, 1950 United States Federal Census (Franklin County, Washington, ED 11-7: Raymond E. Simons, 28, railroad fireman, with Wilma, 25, born Nebraska)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Raymond E. Simons and Wilma J. Simons, 14 May 1969, Franklin County, two children, wife filed)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 and Marriage Index, 1969-2017 (Raymond E. Simons, 48, born 17 Oct 1921, and Bette L. Barton, 10 Nov 1969, Pasco); U.S., Newspapers.com Marriage Index (Tri-City Herald, 16 Nov 1969)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Raymond Elmer Simons, 72, died 26 Apr 1994 Pasco; certificate 4-08852; parents Ray Z. Simons and Dradie Kulp; spouse Bette L. Jones); U.S., Newspapers.com Obituary Index (Tri-City Herald, 28 Apr 1994); Find a Grave, memorial 73189439 (Desert Lawn Memorial Park, Kennewick, Glendale block 2, lot 88, space 4; veteran)"
   ],
   "notes": [
     "Brother of Beryl Simons Adams. Known as Elmer. He and his wife Betty adopted two children, Carl Ray and Debra Sue.",
-    "Married Wilma K. Hardy on 30 Aug 1947 in Franklin County and Beatrice \"Bette\" Jones on 10 Nov 1969 at Pasco. Died 26 Apr 1994 at Pasco; buried at Kennewick (Kulp-Ritchey-Dorsett Family Tree).",
-    "Born 17 Oct 1921 and died 26 Apr 1994 at Pasco (Washington death records). Ed Simons's tree gives his birthplace as Blaine."
+    "Married Mrs Wilma K. Hardy, born Jones, of Pasco, in Franklin County on 30 Aug 1947; a railroad fireman in 1950; she divorced him on 14 May 1969, with two children, and on 10 Nov 1969 at Pasco he married Bette L. Barton, born Jones, a widow or divorcee of Tucannon (county marriage records; 1950 census; divorce index; Tri-City Herald, 16 Nov 1969).",
+    "Born 17 Oct 1921 at Blaine, Whatcom County (Social Security application; his death record and draft card say Bellingham); a Northern Pacific fireman at Pasco when he registered for the draft on 14 Feb 1942, naming his sister Elaine; served in the Army 1944–46. Died 26 Apr 1994 at Pasco, aged 72 (certificate 4-08852), and is buried at Desert Lawn Memorial Park, Kennewick, Glendale block 2 (Social Security index; draft card; enlistment record; Washington death record; Find a Grave)."
   ],
   "aliases": [
-    "Elmer"
+    "Elmer",
+    "Elmer Simons"
   ],
   "sex": "M"
 }

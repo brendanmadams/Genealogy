@@ -1,14 +1,16 @@
 {
   "id": "rhinehart_janet",
-  "name": "Janet Lee “Jan” Rinehart (Holter)",
-  "birth": "",
+  "name": "Janet Lee Rinehart (Holter)",
+  "birth": "30 Jun 1938",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Leslie Duane Holter (m. 30 Jun 1957, Pasco, Franklin County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -24,16 +26,22 @@
     ]
   },
   "locations": [
-    "Coeur d'Alene, Idaho"
+    "Coeur d'Alene, Idaho",
+    "Kahlotus, Franklin County, Washington",
+    "Pasco, Franklin County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of William Clifford Upham, The Oregonian, 18 Oct 2016 (Legacy.com)",
     "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
-    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)"
+    "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, 1940 United States Federal Census (Kahlotus, Franklin County, Washington, ED 11-6, sheet 3A: Lester Rinehart, 27, farm labourer, with Elaine, 23, Jerry, 3, and Janet Lee, 2)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Janet Lee Rinehart, 19, born 30 Jun 1938, and Leslie D. Holter, 30 Jun 1957, Pasco); U.S., Newspapers.com Marriage Index (Leslie Duane Holter, son of Neil Holter)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
   ],
   "notes": [
-    "Daughter of Les and Elaine (Simons) Rinehart; \"Janet Lee\" in the 1940 census."
+    "Daughter of Les and Elaine (Simons) Rinehart, born 30 Jun 1938 (Bellingham, by Ed Simons's tree); \"Janet Lee\", 2, at Kahlotus in 1940; married Leslie Duane Holter at Pasco on her nineteenth birthday, 30 Jun 1957 (census; county marriage record). Mother of Jana and Jeff; of Coeur d'Alene, Idaho, in later years."
   ],
   "aliases": [
     "Janet Rinehart",
@@ -41,7 +49,8 @@
     "Jan Holter",
     "Janet Rhinehart (Holter)",
     "Janet Rinehart (Holter)",
-    "Janet Lee Rinehart"
+    "Janet Lee Rinehart",
+    "Janet Holter"
   ],
   "sex": "F"
 }

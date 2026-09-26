@@ -1,15 +1,17 @@
 {
   "id": "holter_jeff",
-  "name": "Jeff Holter",
+  "name": "Jeffrey Duane Holter",
   "sex": "M",
-  "birth": "",
+  "birth": "21 Feb 1960",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Grace Catherine Wadlington (m. 31 Jul 1999, Clallam County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -21,12 +23,19 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Oregon City, Clackamas County, Oregon",
+    "Spokane, Washington"
+  ],
   "sources": [
-    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Jeffrey Duane Holter, born 21 Feb 1960); Washington, U.S., Marriage Records, 1854-2013 (Jeffrey D. Holter, 39, born Oregon City, and Grace Catherine Wadlington, application 7 Jul 1999, Clallam County) and Marriage Index, 1969-2017 (31 Jul 1999, Clallam County); U.S., Index to Public Records, 1994-2019 (Spokane and Spokane Valley 2005–20)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
   ],
   "notes": [
-    "Grandchild of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a child of Janet (Rinehart) and Duane Holter."
+    "Son of Duane and Janet (Rinehart) Holter, born 21 Feb 1960 at Oregon City; married Grace Catherine Wadlington in Clallam County on 31 Jul 1999, aged 39; of Spokane and Spokane Valley (marriage records; public-records index). The grandson Jeff Holter of Elaine's 2011 obituary."
   ],
-  "aliases": []
+  "aliases": [
+    "Jeff Holter"
+  ]
 }

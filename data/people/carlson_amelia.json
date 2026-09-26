@@ -1,0 +1,35 @@
+{
+  "id": "carlson_amelia",
+  "name": "Amelia Carlson (Rinehart)",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "",
+    "father": "",
+    "siblings": [],
+    "spouse": "rinehart_john_a",
+    "children": [
+      "rhinehart_les"
+    ]
+  },
+  "locations": [
+    "Lynden, Whatcom County, Washington"
+  ],
+  "sources": [
+    "Ancestry.com, Washington, U.S., Birth Records, 1907-1920 (Leslie Bernard Rinehart, 27 May 1913, Lynden, Whatcom County; parents John A. Rinehart and Amelia Carlson; certificate 8798)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Rinehart, 22, born Lynden, son of John and Amelia Rinehart, and Elaine Simons, born Milton, Oregon; 10 Sep 1935, Skagit County; ref. nwskgmr10557)"
+  ],
+  "notes": [
+    "Mother of Leslie Bernard Rinehart, named as Amelia Carlson on his 1913 birth certificate and Amelia Rinehart on his 1935 marriage record (state birth record; county marriage record)."
+  ],
+  "aliases": []
+}

@@ -1,15 +1,16 @@
 {
   "id": "simons_betty",
-  "name": "Beatrice Lee “Bette” Jones (Barton, Simons)",
-  "birth": "1921",
-  "death": "1995",
+  "name": "Beatrice Lee Jones (Barton, Simons)",
+  "birth": "1 Dec 1921",
+  "death": "12 Feb 1995",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Raymond Elmer Simons (m. 10 Nov 1969)"
+    "Married Raymond Elmer Simons (m. 10 Nov 1969, Pasco, Franklin County, Washington)",
+    "Married Gerard Barton (m. 1940, Walla Walla, Washington)"
   ],
   "education": [],
   "career": [],
@@ -20,20 +21,28 @@
     "spouse": "simons_raymond_elmer",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Dayton, Columbia County, Washington",
+    "Tucannon, Columbia County, Washington",
+    "Pasco, Franklin County, Washington"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 and Marriage Index, 1969-2017 (Raymond E. Simons, 48, born 17 Oct 1921, and Bette L. Barton, 10 Nov 1969, Pasco); U.S., Newspapers.com Marriage Index (Tri-City Herald, 16 Nov 1969)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Beatrice Lee Simons, 73, born 1 Dec 1921 Dayton, Columbia County; parents Henry Jones and Minnie Julian; died 12 Feb 1995 Pasco; certificate 5-02182; spouse Raymond Elmer Simons); U.S., Newspapers.com Obituary Index (Tri-City Herald, 15 Feb 1995: Bette L. Simons, formerly of Tucannon; married Gerard Barton at Walla Walla in 1940; children Jari Ann, James, Gary, Ronnie and Maxine; siblings Doris Brown, Bill and Eugene Jones); Find a Grave, memorial 177413265 (Desert Lawn Memorial Park, Kennewick)"
   ],
   "notes": [
-    "Beatrice Lee \"Bette\" Jones (1921–1995), earlier Mrs. Barton, was Elmer Simons's second wife: they married on 10 Nov 1969 at Pasco, and the tree records a second marriage about 1980 (Kulp-Ritchey-Dorsett Family Tree). His first wife was Wilma K. Hardy.",
+    "Born 1 Dec 1921 at Dayton, Columbia County, daughter of Henry Jones and Minnie Julian; married Gerard Barton at Walla Walla in 1940 and had Jari Ann, James, Gary, Ronnie and Maxine; formerly of Tucannon. As Bette L. Barton she married Elmer Simons at Pasco on 10 Nov 1969. Died 12 Feb 1995 at Pasco, aged 73, and is buried at Desert Lawn Memorial Park, Kennewick (Washington death record; marriage records; Tri-City Herald, 15 Feb 1995; Find a Grave). Not related to Elmer's first wife, Wilma Jones.",
     "CORRECTION 2026-09-24: Carl Ray and Debra Sue were adopted by Elmer and his first wife, Wilma (Hardy); Bette was their stepmother. Carl Ray's 2025 obituary names his parents as Wilma and Elmer, and the tree dates Elmer's marriage to Bette to 1969."
   ],
   "aliases": [
     "Betty Simons",
     "Bette Simons",
-    "Beatrice Lee Jones Barton"
+    "Beatrice Lee Jones Barton",
+    "Bette L. Barton"
   ],
   "sex": "F"
 }

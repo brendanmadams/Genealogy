@@ -1,15 +1,17 @@
 {
   "id": "holter_jana",
-  "name": "Jana Holter",
+  "name": "Jana K. Holter (Marvin, Wells)",
   "sex": "F",
-  "birth": "",
+  "birth": "Dec 1958",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Ronald C. Marvin (m. 26 Aug 1978, Spokane, Washington; div. 19 Jun 1985)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -21,12 +23,18 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Spokane, Washington",
+    "Priest River, Bonner County, Idaho",
+    "Coeur d'Alene, Kootenai County, Idaho"
+  ],
   "sources": [
-    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)"
+    "Obituary of Elaine Upham, Tri-City Herald, 14 Aug 2011 (transcribed on Find a Grave, memorial 75368477)",
+    "Ancestry.com, U.S., School Yearbooks (Jana Holter, Spokane, 1975); Washington, U.S., Marriage Index, 1969-2017 (Jana K. Holter and Ronald C. Marvin, 26 Aug 1978, Spokane); Washington, U.S., Divorce Records, 1968-2017 (Jana K. Marvin from Ronald C. Marvin, 19 Jun 1985, Spokane County); U.S., Index to Public Records, 1994-2019 (Jana K. Holter Wells, born Dec 1958, Oldtown, Priest River and Coeur d'Alene, Idaho)",
+    "Find a Grave, memorial 75368477 (Elaine Simons Rinehart Upham, 20 Jan 1918 – 11 Aug 2011, Desert Lawn Memorial Park, Kennewick), with the Tri-City Herald obituary of 14 Aug 2011"
   ],
   "notes": [
-    "Grandchild of Elaine (Simons) Rinehart Upham, named in her 2011 obituary. Inferred: a child of Janet (Rinehart) and Duane Holter."
+    "Daughter of Duane and Janet (Rinehart) Holter, born December 1958; at school in Spokane in 1975; married Ronald C. Marvin at Spokane on 26 Aug 1978 and divorced him in Spokane County on 19 Jun 1985; later used the name Wells, living at Oldtown, Priest River and Coeur d'Alene, Idaho (yearbook; marriage and divorce indexes; public-records index). The granddaughter Jana Holter of Elaine's 2011 obituary."
   ],
   "aliases": []
 }

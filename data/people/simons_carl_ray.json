@@ -8,29 +8,42 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
-  "education": [],
+  "milestones": [
+    "Married Patricia Ann Sheedy (m. 26 Mar 1972, Pasco, Franklin County, Washington; div. 7 Apr 1975)",
+    "Married Judith Lynn Hoey (m. 9 Jun 1984, Pasco, Franklin County, Washington)"
+  ],
+  "education": [
+    "Pasco High School, 1971 (yearbook, Ed Simons's tree)."
+  ],
   "career": [],
   "relationships": {
-    "mother": "hardy_wilma",
+    "mother": "jones_wilma_k",
     "father": "simons_raymond_elmer",
     "siblings": [],
-    "spouse": "",
+    "spouse": "hoey_judith_lynn",
     "children": [
       "simons_ashley",
       "simons_shawn"
     ],
     "adopted": true
   },
-  "locations": [],
+  "locations": [
+    "Yakima, Washington",
+    "Pasco, Franklin County, Washington",
+    "Richland, Benton County, Washington"
+  ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Carl Ray Simons, Fisher-Cheney Funeral Home, Troy, Aug 2025",
-    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)"
+    "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 and Marriage Index, 1969-2017 (Carl R. Simons and Patricia A. Sheedy, 26 Mar 1972, Pasco; Carl Simons, 30, born 18 May 1954, and Judith L. Hoey, born 27 Dec 1959, 9 Jun 1984, Pasco); Washington, U.S., Divorce Records, 1968-2017 (Carl R. and Patricia A. Simons, 7 Apr 1975, Franklin County); Ohio, U.S., Birth Index (Judith Hoey, 27 Dec 1957); U.S., Index to Public Records, 1994-2019 (Judith L. Simons, née Hoey, born Dec 1957, Urbana, Ohio 2013–20)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
   ],
   "notes": [
     "Adopted by Elmer and Wilma (Hardy) Simons; Elmer's second wife, Bette, was a stepmother.",
-    "Born 18 May 1954; grew up in Washington and died 7 Aug 2025. He loved motorcycles, music and the boat races on the Columbia River. His partner was Judy Simons; his children are Ashley and Shawn Simons. His obituary names his parents as Wilma and Elmer Simons, and says his sister Deborah died before him."
+    "Born 18 May 1954; grew up in Washington and died 7 Aug 2025. He loved motorcycles, music and the boat races on the Columbia River. His partner was Judy Simons; his children are Ashley and Shawn Simons. His obituary names his parents as Wilma and Elmer Simons, and says his sister Deborah died before him.",
+    "Born 18 May 1954 at Yakima, by Ed Simons's tree. Probably him: a Carl R. Simons married Patricia Ann Sheedy at Pasco on 26 Mar 1972 (the index mistypes his birth year as 1958) and divorced her in Franklin County on 7 Apr 1975. He married Judith Lynn Hoey, born in Ohio on 27 Dec 1957 (the marriage record says 1959), at Pasco on 9 Jun 1984, aged 30; she is the Judy Simons of his 2025 obituary (county marriage records; divorce index; public-records index)."
   ],
   "aliases": [],
   "sex": "M"

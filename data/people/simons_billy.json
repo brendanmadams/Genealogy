@@ -2,7 +2,7 @@
   "id": "simons_billy",
   "name": "Billy Michael Simons",
   "sex": "M",
-  "birth": "",
+  "birth": "10 Dec 1961",
   "death": "",
   "personality": [],
   "roles": [],
@@ -10,8 +10,9 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married LeAnn Robin Collins (m. 2000)",
-    "Married Yvette Lavon Johnson (m. 2017)"
+    "Married LeAnn Robin Collins (m. 17 Jun 2000, Benton County, Washington; div. 13 Feb 2003)",
+    "Married Yvette Lavon Johnson (m. 22 Sep 2017, Lincoln County, Washington)",
+    "Married Kimberly Littrell (m. abt Apr 1990; div. 23 Aug 1991, Benton County, Washington)"
   ],
   "education": [],
   "career": [],
@@ -28,17 +29,25 @@
       "simons_amanda"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "West Richland, Benton County, Washington"
+  ],
   "sources": [
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
     "Obituary of Rodney Keith Simons, Mueller's Tri-Cities Funeral Home, Feb 2017",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Billy Simons of Pasco and Kimberly Littrell, The Spokesman-Review, 4 Apr 1990); Washington, U.S., Divorce Records, 1968-2017 (Billy M. Simons from Kimberly L. Simons, 23 Aug 1991, Benton County, no children; from Leeann R. Simons, 13 Feb 2003, Benton County, no children); Washington, U.S., Marriage Index, 1969-2017 (Billy M. Simons and Leeann R. Collins, 17 Jun 2000, Benton County; Billy M. Simons and Yvette L. Johnson, 22 Sep 2017, Lincoln County)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
   ],
   "notes": [
     "Son of Orvel and Irene Simons, of the Tri-Cities; his wife is Yvette, and they have a daughter, Amanda.",
-    "Billy Michael Simons married LeAnn Robin Collins in Benton County (certificate recorded 23 Jun 2000) and applied to marry Yvette Lavon Johnson there on 3 Aug 2017."
+    "Born 10 Dec 1961, the youngest of Orvel and Irene's four children. Married Kimberly Littrell about April 1990, while of Pasco, and divorced her in Benton County on 23 Aug 1991; married LeAnn Robin Collins in Benton County on 17 Jun 2000 and divorced her there on 13 Feb 2003; married Yvette Lavon Johnson in Lincoln County on 22 Sep 2017. Both divorce records say no children, so the mother of his daughter Amanda, born in November 1992, is not established by them (Spokesman-Review notice; state marriage and divorce indexes; public-records index). Of West Richland from 2010."
   ],
   "aliases": [
-    "Billy Simons"
+    "Billy Simons",
+    "Billie Michael Simons"
   ]
 }

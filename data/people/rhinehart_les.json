@@ -1,6 +1,6 @@
 {
   "id": "rhinehart_les",
-  "name": "Leslie Bernard “Les” Rinehart",
+  "name": "Leslie Bernard Rinehart",
   "birth": "27 May 1913",
   "death": "9 Jul 1988",
   "personality": [],
@@ -9,14 +9,16 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married Elaine Deretha Simons (m. 10 Sep 1935)",
+    "Married Elaine Dereatha Simons (m. 10 Sep 1935, Skagit County, Washington)",
     "Buried at Desert Lawn Memorial Park, Kennewick, Washington"
   ],
   "education": [],
-  "career": [],
+  "career": [
+    "Farm labourer at Kahlotus (1940); with the Washington State Park Committee when he registered for the draft in October 1940."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "carlson_amelia",
+    "father": "rinehart_john_a",
     "siblings": [],
     "spouse": "simons_elaine_deretha",
     "children": [
@@ -25,10 +27,10 @@
     ]
   },
   "locations": [
-    "Washington",
     "Pasco, Washington",
     "Gladstone, Oregon",
-    "Lynden, Whatcom County, Washington"
+    "Lynden, Whatcom County, Washington",
+    "Kahlotus, Franklin County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
@@ -36,13 +38,17 @@
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\"",
     "Find a Grave, memorial 80541885 (Leslie B. \"Les\" Rinehart, Desert Lawn Memorial Park, Kennewick)",
     "Ancestry.com, public member tree \"Kulp-Ritchey-Dorsett Family Tree\" (tree 4662169)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Birth Records, 1907-1920 (Leslie Bernard Rinehart, 27 May 1913, Lynden, Whatcom County; parents John A. Rinehart and Amelia Carlson; certificate 8798)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Leslie Rinehart, 22, born Lynden, son of John and Amelia Rinehart, and Elaine Simons, born Milton, Oregon; 10 Sep 1935, Skagit County; ref. nwskgmr10557)",
+    "Ancestry.com, 1940 United States Federal Census (Kahlotus, Franklin County, Washington, ED 11-6, sheet 3A: Lester Rinehart, 27, farm labourer, with Elaine, 23, Jerry, 3, and Janet Lee, 2)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Leslie Bernard Rinehart, 27, registered 16 Oct 1940 at Pasco; employer Washington State Park Committee; 5 ft 11 in, 170 lb, brown hair, blue eyes; next of kin his wife Elaine Doretha Rinehart)",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008 (Leslie B. Rinehart, born 27 May 1913, died 9 Jul 1988, Clackamas County; spouse Elaine); U.S., Newspapers.com Obituary Index (Tri-City Herald, 12 Jul 1988); Find a Grave, memorial 80541885 (Desert Lawn Memorial Park, Kennewick)"
   ],
   "notes": [
     "Husband of Elaine Deretha Simons.",
-    "Leslie Bernard Rinehart (1913–1988), per the Kulp-Ritchey-Dorsett Family Tree on Ancestry. \"Le Ley Rinehart\", 27, in the 1940 census, living with Elaine and their children Jerry and Janet Lee in his father-in-law Ray Simons's household near Richland.",
-    "Born 27 May 1913 in Washington; died 9 Jul 1988 at Gladstone, Oregon. His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988.",
-    "Born at Lynden (Ed Simons's tree)."
+    "Born 27 May 1913 at Lynden, Whatcom County, son of John A. Rinehart and Amelia Carlson (state birth certificate 8798); married Elaine Simons in Skagit County on 10 Sep 1935; died 9 Jul 1988 at Gladstone, Clackamas County, Oregon, aged 75, and was buried at Desert Lawn Memorial Park, Kennewick (Oregon death index; Tri-City Herald, 12 Jul 1988; Find a Grave). His Find a Grave memorial says he and Elaine had two children, Jerry and Janet (Holter), both living in 1988.",
+    "\"Le Ley Rinehart\", 27, in the 1940 census near Richland, in his father-in-law Ray Simons's household with Elaine and the children, and, as Lester, 27, a farm labourer on a rented farm at Kahlotus, Franklin County, in the same census; 5 ft 11 in, brown hair and blue eyes on his draft card (census; WWII draft card)."
   ],
   "aliases": [
     "Les Rhinehart",

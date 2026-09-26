@@ -2,7 +2,7 @@
   "id": "simons_amanda",
   "name": "Amanda Marie Simons (Knight)",
   "sex": "F",
-  "birth": "",
+  "birth": "Nov 1992",
   "death": "",
   "personality": [],
   "roles": [],
@@ -24,15 +24,20 @@
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "West Richland, Benton County, Washington",
+    "Richland, Benton County, Washington",
+    "Pasco, Franklin County, Washington"
+  ],
   "sources": [
     "Obituary of Irene Simons, Tri-City Herald, 15 Oct 2017 (Legacy.com)",
     "family_data_v1",
     "adams_dna_linkage_v1",
-    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026"
+    "Washington State Archives, Digital Archives, Franklin County Auditor, Marriage Records, 1889-2026",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
   ],
   "notes": [
-    "Daughter of Billy and Yvette Simons; granddaughter of Orvel and Irene Simons.",
+    "Daughter of Billy Simons, born November 1992; granddaughter of Orvel and Irene Simons. Her mother is not established: Billy's 1991 and 2003 divorce records list no children, and Yvette, his wife from 2017, is a stepmother (public-records index; divorce records). Of West Richland, Richland and Pasco 2007–20.",
     "Amanda Marie Simons applied to marry Christopher Bradley Knight on 28 Sep 2018 in Franklin County. She is the \"Amanda Knight\" in Brendan's 23andMe match list, a great-niece of Glen Simons."
   ],
   "aliases": [

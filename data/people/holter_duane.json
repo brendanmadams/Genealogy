@@ -1,14 +1,16 @@
 {
   "id": "holter_duane",
-  "name": "Duane Holter",
-  "birth": "",
+  "name": "Leslie Duane Holter",
+  "birth": "27 Nov 1937",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Janet Lee Rinehart (m. 30 Jun 1957, Pasco, Franklin County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -22,14 +24,22 @@
     ]
   },
   "locations": [
-    "Priest River, Idaho"
+    "Priest River, Idaho",
+    "Algona, North Dakota",
+    "Pasco, Franklin County, Washington",
+    "Gladstone, Clackamas County, Oregon",
+    "Coeur d'Alene, Kootenai County, Idaho"
   ],
   "sources": [
-    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)"
+    "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Janet Lee Rinehart, 19, born 30 Jun 1938, and Leslie D. Holter, 30 Jun 1957, Pasco); U.S., Newspapers.com Marriage Index (Leslie Duane Holter, son of Neil Holter)",
+    "Ancestry.com, U.S., Korean War Era Draft Cards, 1948-1959 (Leslie Duane Holter, born 27 Nov 1937 Algona, North Dakota, of Pasco; relative Neil Holter); U.S., Evangelical Lutheran Church in America Church Records (baptism 5 May 1938, Valley City, North Dakota); public-records indexes (Gladstone, Oregon; Spokane Valley; Sequim 1993–96; Priest River and Coeur d'Alene, Idaho, 2010–20)"
   ],
   "notes": [
-    "Husband of Janet (Rinehart) Holter. [Family research emails, email 27]"
+    "Born 27 Nov 1937 at Algona, North Dakota, son of Neil Holter, and baptised at Valley City on 5 May 1938; of Pasco when he married Janet Lee Rinehart there on 30 Jun 1957; later of Gladstone, Oregon, Spokane Valley, Sequim, Priest River and Coeur d'Alene, Idaho (draft card; church register; marriage record; public-records indexes). UNPROVEN: a member tree gives his death as 31 May 2022; no record or obituary has been found. [Family research emails, email 27]"
   ],
-  "aliases": [],
+  "aliases": [
+    "Duane Holter"
+  ],
   "sex": "M"
 }
