@@ -1,6 +1,6 @@
 {
-  "id": "rosgen_john",
-  "name": "John Rosgen",
+  "id": "roesgen_john",
+  "name": "John Roesgen",
   "birth": "3 Mar 1980",
   "death": "",
   "personality": [],
@@ -19,7 +19,7 @@
     "siblings": [],
     "spouse": "olson_kari",
     "children": [
-      "olson_eddy_orlando"
+      "roesgen_eddy_orlando"
     ]
   },
   "locations": [],
@@ -27,12 +27,9 @@
     "Brendan Adams (personal knowledge), 2026",
     "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)"
   ],
-  "notes": [
-    "The surname is spelled Roesgen in Umpa's 2025 obituary."
-  ],
+  "notes": [],
   "aliases": [
-    "John Rosegen",
-    "John Roesgen"
+    "John Rosegen"
   ],
   "sex": "M"
 }

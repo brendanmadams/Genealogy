@@ -1,6 +1,6 @@
 {
   "id": "olson_kari",
-  "name": "Kari Olson (Rosgen)",
+  "name": "Kari Olson (Roesgen)",
   "birth": "28 Oct 1981",
   "death": "",
   "personality": [],
@@ -9,7 +9,7 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [
-    "Married John Rosgen (m. 7 Jan 2012)"
+    "Married John Roesgen (m. 7 Jan 2012)"
   ],
   "education": [],
   "career": [],
@@ -17,9 +17,9 @@
     "mother": "olson_bonnie",
     "father": "olson_tom",
     "siblings": [],
-    "spouse": "rosgen_john",
+    "spouse": "roesgen_john",
     "children": [
-      "olson_eddy_orlando"
+      "roesgen_eddy_orlando"
     ]
   },
   "locations": [],
@@ -27,12 +27,7 @@
     "Brendan Adams (personal knowledge), 2026",
     "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)"
   ],
-  "notes": [
-    "The surname is spelled Roesgen in Umpa's 2025 obituary."
-  ],
-  "aliases": [
-    "Kari Rosgen",
-    "Kari Olson (Roesgen)"
-  ],
+  "notes": [],
+  "aliases": [],
   "sex": "F"
 }
