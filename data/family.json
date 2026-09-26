@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-09-25T23:08:46.058Z",
-  "people": 988,
-  "family_members": 939,
+  "generated": "2026-09-26T02:40:58.927Z",
+  "people": 991,
+  "family_members": 942,
   "dna_matches": 49,
-  "connected_people": 938,
+  "connected_people": 941,
   "families": 338,
   "branches": [
    "adams",
@@ -46866,16 +46866,20 @@
   },
   {
    "id": "mooney_sarah",
-   "name": "Sarah Mooney (Quin)",
-   "aliases": [],
+   "name": "Sarah Mooney (Quinn)",
+   "aliases": [
+    "Sarah Quinn",
+    "Sally Quin",
+    "Mrs. James Quinn"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "1826",
+    "text": "abt 1826",
     "year": 1826,
-    "qualifier": null
+    "qualifier": "about"
    },
    "death": {
     "text": "23 Jun 1890",
@@ -46900,7 +46904,10 @@
     "quin_james_mcgeer"
    ],
    "children": [
-    "quinn_bernard"
+    "quinn_ann_jane",
+    "quinn_bernard",
+    "quinn_elizabeth_jane",
+    "quinn_john_joseph_1858"
    ],
    "siblings": [],
    "families": [
@@ -46910,7 +46917,11 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "County Antrim, Ireland",
+    "Fallston, Harford County, Maryland",
+    "Saint John the Evangelist Cemetery, Hydes, Baltimore County, Maryland"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -46920,11 +46931,18 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "The Aegis and Intelligencer (Bel Air), 27 Jun 1890, death notice of Mrs. James Quinn (clipping on Find a Grave memorial 22191176)",
+    "Find a Grave, memorial 22191176 (Sarah Quinn, \"Age 64 Years, Native of County Antrim, Ireland\", Saint John the Evangelist Cemetery, Hydes)",
+    "FamilySearch, United States Census, 1880 (Fallston, Harford County, Maryland; James Quin, 57, labourer on farm, with Sarah, 54, Joseph, 21, and Barney, 27; ark 1:1:MNQG-LPP)",
+    "Ancestry.com, Ireland, Catholic Parish Registers, 1655-1915 (Rasharkin, diocese of Down and Connor, NLI microfilm 05476/04: baptism of Eliza Quinn, 20 Dec 1854, parents James Quinn and Sarah Mooney; and an unnamed child of — Quin and Sally Quin)",
+    "National Library of Ireland, Catholic parish registers: Rasharkin (Down and Connor), baptisms from 16 Aug 1848; microfilm 05502 is Newry (Dromore)",
+    "FamilySearch, Ireland Census, 1851 (Rasharkin parish, County Antrim, surviving fragment: Thomas Mooney, 55, linen weaver, married 1822, with Mary, 46, Hugh, 19, Margaret, 15, and Mary, 12; ark 1:1:QV9Y-71CW)"
    ],
    "notes": [
-    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
-    "The tree gives her death as 23 Jun 1890 at Hydes, Maryland."
+    "Proven mother of John Bernard Quinn, and her maiden name is proven: the Rasharkin parish register records the baptism of Eliza Quinn on 20 Dec 1854, daughter of James Quinn and Sarah Mooney. Her death notice in the Aegis (27 Jun 1890) says Mrs. James Quinn died on Monday morning [23 Jun 1890] at the residence of Dennis A. Bradley near Fallston, having been taken with convulsions the Saturday before \"while she was walking across the field on her way to the home of her son\"; buried at St. John's, Long Green, on the Wednesday; she left one son, Bernard Quinn, and two daughters, Mrs. Thomas Shannahan and Mrs. Dennis A. Bradley, all of Fallston; \"about 65 years of age\", \"an excellent nurse\" who gave her services freely to women rich and poor \"as a religious duty\". Her stone reads \"Age 64 Years, Native of County Antrim, Ireland\"; the notice calls her a native of County Derry, across the Bann from Rasharkin.",
+    "Born about 1826 (54 in 1880; 64 at death). The Quinn Family Tree's birth date of 26 Nov 1826 comes from a baptism on NLI microfilm 05502, which is the Newry registers in County Down, not Rasharkin, so it belongs to another Sarah Mooney; Rasharkin's own registers begin in 1848. Find a Grave's death date of 29 Jun 1890 is wrong: the notice printed on 27 Jun says she died on the Monday, 23 Jun.",
+    "UNPROVEN: the Quinn Family Tree gives her parents as Thomas Mooney (born 1796) and Mary, of Magheraboy townland, Rasharkin, married 1822. A Thomas Mooney, 55, linen weaver, married 1822, does appear in the surviving 1851 census fragment for Rasharkin with Mary, 46, Hugh, 19, Margaret, 15, and Mary, 12, but Sarah, married by then, is not in it, and nothing else connects her to that household; Griffith's Valuation lists some fifty Mooney holdings in the parish. Her parents are not known."
    ]
   },
   {
@@ -50725,16 +50743,19 @@
   },
   {
    "id": "quin_james_mcgeer",
-   "name": "James McGeer Quin",
-   "aliases": [],
+   "name": "James Quinn",
+   "aliases": [
+    "James Quin",
+    "James McGeer Quin"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "1823",
+    "text": "abt 1823",
     "year": 1823,
-    "qualifier": null
+    "qualifier": "about"
    },
    "death": {
     "text": "6 Mar 1898",
@@ -50759,7 +50780,10 @@
     "mooney_sarah"
    ],
    "children": [
-    "quinn_bernard"
+    "quinn_ann_jane",
+    "quinn_bernard",
+    "quinn_elizabeth_jane",
+    "quinn_john_joseph_1858"
    ],
    "siblings": [],
    "families": [
@@ -50771,7 +50795,10 @@
    "priority": "normal",
    "locations": [
     "County Antrim, Ireland",
-    "Fallston, Harford County, Maryland"
+    "Fallston, Harford County, Maryland",
+    "Rasharkin, County Antrim, Ireland",
+    "Bel Air, Harford County, Maryland",
+    "Saint John the Evangelist Cemetery, Hydes, Baltimore County, Maryland"
    ],
    "personality": [],
    "roles": [],
@@ -50782,11 +50809,18 @@
    "education": [],
    "career": [],
    "sources": [
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "The Aegis and Intelligencer (Bel Air), 11 Mar 1898, death notice of James Quinn (clipping on Find a Grave memorial 22191168)",
+    "Find a Grave, memorial 22191168 (James Quinn, d. 6 Mar 1898, \"75 Years Old, Native of County Antrim, Ireland\", Saint John the Evangelist Cemetery, Hydes, Baltimore County)",
+    "FamilySearch, United States Census, 1860 (3rd District, Bel Air, Harford County, Maryland; James Quinn, 36, born Ireland, in the household of Joseph Harlan; ark 1:1:M694-L1V)",
+    "FamilySearch, United States Census, 1870 (District 3, Harford County, Maryland; James Quin, 45, with Barney, 17, and John, 12, born Ireland, in the household of Joseph Harlan; ark 1:1:MN3F-2C8)",
+    "FamilySearch, United States Census, 1880 (Fallston, Harford County, Maryland; James Quin, 57, labourer on farm, with Sarah, 54, Joseph, 21, and Barney, 27; ark 1:1:MNQG-LPP)",
+    "Ancestry.com, Ireland, Catholic Parish Registers, 1655-1915 (Rasharkin, diocese of Down and Connor, NLI microfilm 05476/04: baptism of Eliza Quinn, 20 Dec 1854, parents James Quinn and Sarah Mooney; and an unnamed child of — Quin and Sally Quin)"
    ],
    "notes": [
-    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
-    "The tree gives his death as 6 Mar 1898 at Fallston, Harford County, and lists other children Ann Jane (1846–1912), Elizabeth Jane (1857–1903) and John Joseph (1858–1883)."
+    "Proven father of John Bernard Quinn. His death notice in the Aegis (11 Mar 1898) says he \"died at the home of his son Mr. Bernard Quinn, on Sunday, of pneumonia, aged seventy-five years\", survived by three children, Bernard Quinn, Mrs. Dennis A. Bradley and Mrs. Thomas Shannahan, and was buried at St. John's church, Long Green, Father Hauck officiating; the bearers were Richard and Dennis Shannahan, Frank Kearney, William Groves, John and Andrew Kelly. The 1870 and 1880 censuses have Barney (Bernard), born in Ireland about 1853, in his household. His gravestone at Hydes reads \"75 Years Old, Native of County Antrim, Ireland\".",
+    "Born about 1823 in County Antrim (aged 36 in 1860, 45 in 1870, 57 in 1880, 75 at death); the Quinn Family Tree gives Rasharkin, where his daughter Eliza was baptised in 1854. He came to Maryland ahead of his family: in 1860 he was a labourer, alone, in the household of Joseph Harlan near Bel Air, and in 1870 still with Harlan, in District 3, with his sons Barney, 17, and John, 12, newly arrived from Ireland; by 1880 he, Sarah and the boys were at Fallston. Children: Ann Jane (Bradley, about 1846–1912), John Bernard (1853–1913), Eliza (baptised Rasharkin 20 Dec 1854; probably the Elizabeth Jane, Mrs. Thomas Shannahan, 1857–1903, of the tree) and John Joseph (1858–1883).",
+    "UNPROVEN, and unlikely: the Quinn Family Tree makes him a son of a James Thomas Quinn Sr. (1793, Giant's Causeway – 1866) and Ann Ellen Stephenson of Belfast, and gives him the middle name McGeer from a supposed grandmother Mary McGeer. Its only records are other trees, a Belfast marriage of 1830 or 1836 (after James was born) and the civil death of a James Quinn at Gort, County Galway, in 1866, a different man a county away. His parents are not known."
    ]
   },
   {
@@ -50864,6 +50898,76 @@
    ]
   },
   {
+   "id": "quinn_ann_jane",
+   "name": "Ann Jane Quinn (Bradley)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1846",
+    "year": 1846,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "28 Jan 1912",
+    "year": 1912,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "quin_james_mcgeer",
+   "mother": "mooney_sarah",
+   "parents": [
+    "mooney_sarah",
+    "quin_james_mcgeer"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_bernard",
+    "quinn_elizabeth_jane",
+    "quinn_john_joseph_1858"
+   ],
+   "families": [],
+   "parent_family": "F_mooney_sarah+quin_james_mcgeer",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "County Antrim, Ireland",
+    "Fallston, Harford County, Maryland",
+    "Saint John the Evangelist Cemetery, Hydes, Baltimore County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 206242611 (Ann Jane Quinn Bradley, 1847–1912) and 22191188 (John Joseph Quinn, d. 15 Apr 1883, \"25 Years, 2 months, 14 days\")",
+    "The Aegis and Intelligencer (Bel Air), 11 Mar 1898, death notice of James Quinn (clipping on Find a Grave memorial 22191168)",
+    "The Aegis and Intelligencer (Bel Air), 27 Jun 1890, death notice of Mrs. James Quinn (clipping on Find a Grave memorial 22191176)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Eldest child of James and Sarah (Mooney) Quinn, born in Ireland about 1846 (the tree says July 1846 at Craigs, County Antrim); married Dennis A. Bradley (1841–1911); her mother died at the Bradley house near Fallston in 1890; died 28 Jan 1912 at Fallston. Find a Grave lists nine children, Annie (Towne), Katherine (Livingston), Andrew, Daniel, Bernard, Elizabeth (Lancaster), Sara (Martin), Susan (Madara) and John Joseph Bradley."
+   ]
+  },
+  {
    "id": "quinn_bernard",
    "name": "John Bernard Quinn",
    "aliases": [
@@ -50918,7 +51022,11 @@
     "ethel_quinn_schriefer",
     "quinn_margaret_agatha"
    ],
-   "siblings": [],
+   "siblings": [
+    "quinn_ann_jane",
+    "quinn_elizabeth_jane",
+    "quinn_john_joseph_1858"
+   ],
    "families": [
     "F_lynn_emily_mariam+quinn_bernard"
    ],
@@ -50950,13 +51058,18 @@
    "sources": [
     "Ancestry.com, 1910 United States Federal Census",
     "Find a Grave, memorial 222563596",
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "The Aegis and Intelligencer (Bel Air), 11 Mar 1898, death notice of James Quinn (clipping on Find a Grave memorial 22191168)",
+    "The Aegis and Intelligencer (Bel Air), 27 Jun 1890, death notice of Mrs. James Quinn (clipping on Find a Grave memorial 22191176)",
+    "FamilySearch, United States Census, 1870 (District 3, Harford County, Maryland; James Quin, 45, with Barney, 17, and John, 12, born Ireland, in the household of Joseph Harlan; ark 1:1:MN3F-2C8)",
+    "FamilySearch, United States Census, 1880 (Fallston, Harford County, Maryland; James Quin, 57, labourer on farm, with Sarah, 54, Joseph, 21, and Barney, 27; ark 1:1:MNQG-LPP)"
    ],
    "notes": [
     "Born in Ireland; \"Barnie Quin\", aged 58, in the 1910 census of District 3, Harford County, Maryland, with his wife Emily M. and children Agnes E. (14), John J. (12), Ethel E. (9) and Margaret A. (4).",
     "Children named on Find a Grave: Sarah Catherine \"Sally\" (Brady, 1889–1959), Charlotte Ann (Landreth, 1892–1971), John Joseph (1898–1956), Ethel E. (Schriefer, 1901–1952) and Margaret M. (Osborne, 1905–1946).",
     "Per the Quinn Family Tree on Ancestry (citing the 1870–1910 censuses): born Dec 1853 at Rasharkin, County Antrim; came to the United States in 1870; married Emily Mariam Lynn on 6 Aug 1889 at St John's Church, Hydes, Baltimore County; lived at Fallston, Harford County; died 14 Oct 1913 at Benson, Harford County. By 1910 he had fathered eight children, seven living. Find a Grave gives his birth year as 1852.",
-    "His children, per the tree: Sarah Catherine \"Sally\" (b. 22 Jun 1890), Charlotte Ann (3 Mar 1892), Mariam Ellen (Jan 1894), Agnes Emily (Sep 1895), James (May–Sep 1897), John Joseph (6 May 1898), Ethel Elizabeth (13 Nov 1900) and Margaret Agatha (15 Aug 1905)."
+    "His children, per the tree: Sarah Catherine \"Sally\" (b. 22 Jun 1890), Charlotte Ann (3 Mar 1892), Mariam Ellen (Jan 1894), Agnes Emily (Sep 1895), James (May–Sep 1897), John Joseph (6 May 1898), Ethel Elizabeth (13 Nov 1900) and Margaret Agatha (15 Aug 1905).",
+    "His parentage is proven by his parents' death notices: his mother died in June 1890 on her way across the fields to his home, and his father died at his home in March 1898 (the Aegis). He reached Maryland by 1870, when he was Barney, 17, with his father and brother John in Joseph Harlan's household in District 3, and was at Fallston with his parents in 1880, aged 27."
    ]
   },
   {
@@ -51030,6 +51143,77 @@
    ],
    "notes": [
     "Child of John Bernard Quinn and Emily Mariam Lynn, per the Quinn Family Tree on Ancestry."
+   ]
+  },
+  {
+   "id": "quinn_elizabeth_jane",
+   "name": "Elizabeth Jane Quinn (Shannahan)",
+   "aliases": [
+    "Eliza Quinn"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1854",
+    "year": 1854,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1903",
+    "year": 1903,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "quin_james_mcgeer",
+   "mother": "mooney_sarah",
+   "parents": [
+    "mooney_sarah",
+    "quin_james_mcgeer"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_ann_jane",
+    "quinn_bernard",
+    "quinn_john_joseph_1858"
+   ],
+   "families": [],
+   "parent_family": "F_mooney_sarah+quin_james_mcgeer",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Rasharkin, County Antrim, Ireland",
+    "Fallston, Harford County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "The Aegis and Intelligencer (Bel Air), 11 Mar 1898, death notice of James Quinn (clipping on Find a Grave memorial 22191168)",
+    "The Aegis and Intelligencer (Bel Air), 27 Jun 1890, death notice of Mrs. James Quinn (clipping on Find a Grave memorial 22191176)",
+    "Ancestry.com, Ireland, Catholic Parish Registers, 1655-1915 (Rasharkin, diocese of Down and Connor, NLI microfilm 05476/04: baptism of Eliza Quinn, 20 Dec 1854, parents James Quinn and Sarah Mooney; and an unnamed child of — Quin and Sally Quin)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Daughter of James and Sarah (Mooney) Quinn: probably the Eliza Quinn baptised at Rasharkin on 20 Dec 1854, and the \"Mrs. Thomas Shannahan\" of Fallston named as a surviving daughter in her mother's (1890) and father's (1898) death notices. The Quinn Family Tree calls her Elizabeth Jane, born Nov 1857, died 1903; the baptism suggests 1854."
    ]
   },
   {
@@ -51469,6 +51653,78 @@
     "CORRECTION 2026-09-22: Spouse reference marie_ellinghaus_quinn pointed at no record; changed to quinn_marie_ellinghaus.",
     "CORRECTION: born 6 May 1898 at Fallston, Harford County, and died Feb 1956 in Baltimore (Quinn Family Tree on Ancestry, citing the Social Security Death Index; Find a Grave 1898–1956; aged 12 in the 1910 census); the earlier abt 1900 / abt 1959 were estimates. Ethel's sister Margaret (b. 1905) was younger than him, so he was the youngest brother rather than the youngest sibling.",
     "Married Marie Ellinghaus on 25 May 1925 at St Ann's Church, Baltimore (Quinn Family Tree on Ancestry). Children: Margaret Frances \"Peggy\" (1927), Catherine Joan (1930), John Joseph Jr. (1934) and Patricia Marie \"Pat\" (1940)."
+   ]
+  },
+  {
+   "id": "quinn_john_joseph_1858",
+   "name": "John Joseph Quinn",
+   "aliases": [
+    "Joseph Quin"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1 Feb 1858",
+    "year": 1858,
+    "qualifier": null
+   },
+   "death": {
+    "text": "15 Apr 1883",
+    "year": 1883,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "quin_james_mcgeer",
+   "mother": "mooney_sarah",
+   "parents": [
+    "mooney_sarah",
+    "quin_james_mcgeer"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "quinn_ann_jane",
+    "quinn_bernard",
+    "quinn_elizabeth_jane"
+   ],
+   "families": [],
+   "parent_family": "F_mooney_sarah+quin_james_mcgeer",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "County Antrim, Ireland",
+    "Fallston, Harford County, Maryland",
+    "Saint John the Evangelist Cemetery, Hydes, Baltimore County, Maryland"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorial 206242611 (Ann Jane Quinn Bradley, 1847–1912) and 22191188 (John Joseph Quinn, d. 15 Apr 1883, \"25 Years, 2 months, 14 days\")",
+    "FamilySearch, United States Census, 1870 (District 3, Harford County, Maryland; James Quin, 45, with Barney, 17, and John, 12, born Ireland, in the household of Joseph Harlan; ark 1:1:MN3F-2C8)",
+    "FamilySearch, United States Census, 1880 (Fallston, Harford County, Maryland; James Quin, 57, labourer on farm, with Sarah, 54, Joseph, 21, and Barney, 27; ark 1:1:MNQG-LPP)",
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+   ],
+   "notes": [
+    "Son of James and Sarah (Mooney) Quinn, born in Ireland in 1858 (his stone gives his age at death as 25 years, 2 months, 14 days, so about 1 Feb 1858); John, 12, with his father and brother in 1870, and Joseph, 21, at Fallston in 1880; died 15 Apr 1883 and buried at Hydes, \"Native of County Antrim, Ireland\"."
    ]
   },
   {
@@ -77605,7 +77861,10 @@
     "quin_james_mcgeer"
    ],
    "children": [
-    "quinn_bernard"
+    "quinn_ann_jane",
+    "quinn_bernard",
+    "quinn_elizabeth_jane",
+    "quinn_john_joseph_1858"
    ],
    "marriage": null
   },

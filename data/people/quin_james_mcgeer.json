@@ -1,8 +1,8 @@
 {
   "id": "quin_james_mcgeer",
-  "name": "James McGeer Quin",
+  "name": "James Quinn",
   "sex": "M",
-  "birth": "1823",
+  "birth": "abt 1823",
   "death": "6 Mar 1898",
   "personality": [],
   "roles": [],
@@ -18,19 +18,35 @@
     "siblings": [],
     "spouse": "mooney_sarah",
     "children": [
-      "quinn_bernard"
+      "quinn_bernard",
+      "quinn_ann_jane",
+      "quinn_elizabeth_jane",
+      "quinn_john_joseph_1858"
     ]
   },
   "locations": [
     "County Antrim, Ireland",
-    "Fallston, Harford County, Maryland"
+    "Fallston, Harford County, Maryland",
+    "Rasharkin, County Antrim, Ireland",
+    "Bel Air, Harford County, Maryland",
+    "Saint John the Evangelist Cemetery, Hydes, Baltimore County, Maryland"
   ],
   "sources": [
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "The Aegis and Intelligencer (Bel Air), 11 Mar 1898, death notice of James Quinn (clipping on Find a Grave memorial 22191168)",
+    "Find a Grave, memorial 22191168 (James Quinn, d. 6 Mar 1898, \"75 Years Old, Native of County Antrim, Ireland\", Saint John the Evangelist Cemetery, Hydes, Baltimore County)",
+    "FamilySearch, United States Census, 1860 (3rd District, Bel Air, Harford County, Maryland; James Quinn, 36, born Ireland, in the household of Joseph Harlan; ark 1:1:M694-L1V)",
+    "FamilySearch, United States Census, 1870 (District 3, Harford County, Maryland; James Quin, 45, with Barney, 17, and John, 12, born Ireland, in the household of Joseph Harlan; ark 1:1:MN3F-2C8)",
+    "FamilySearch, United States Census, 1880 (Fallston, Harford County, Maryland; James Quin, 57, labourer on farm, with Sarah, 54, Joseph, 21, and Barney, 27; ark 1:1:MNQG-LPP)",
+    "Ancestry.com, Ireland, Catholic Parish Registers, 1655-1915 (Rasharkin, diocese of Down and Connor, NLI microfilm 05476/04: baptism of Eliza Quinn, 20 Dec 1854, parents James Quinn and Sarah Mooney; and an unnamed child of — Quin and Sally Quin)"
   ],
   "notes": [
-    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
-    "The tree gives his death as 6 Mar 1898 at Fallston, Harford County, and lists other children Ann Jane (1846–1912), Elizabeth Jane (1857–1903) and John Joseph (1858–1883)."
+    "Proven father of John Bernard Quinn. His death notice in the Aegis (11 Mar 1898) says he \"died at the home of his son Mr. Bernard Quinn, on Sunday, of pneumonia, aged seventy-five years\", survived by three children, Bernard Quinn, Mrs. Dennis A. Bradley and Mrs. Thomas Shannahan, and was buried at St. John's church, Long Green, Father Hauck officiating; the bearers were Richard and Dennis Shannahan, Frank Kearney, William Groves, John and Andrew Kelly. The 1870 and 1880 censuses have Barney (Bernard), born in Ireland about 1853, in his household. His gravestone at Hydes reads \"75 Years Old, Native of County Antrim, Ireland\".",
+    "Born about 1823 in County Antrim (aged 36 in 1860, 45 in 1870, 57 in 1880, 75 at death); the Quinn Family Tree gives Rasharkin, where his daughter Eliza was baptised in 1854. He came to Maryland ahead of his family: in 1860 he was a labourer, alone, in the household of Joseph Harlan near Bel Air, and in 1870 still with Harlan, in District 3, with his sons Barney, 17, and John, 12, newly arrived from Ireland; by 1880 he, Sarah and the boys were at Fallston. Children: Ann Jane (Bradley, about 1846–1912), John Bernard (1853–1913), Eliza (baptised Rasharkin 20 Dec 1854; probably the Elizabeth Jane, Mrs. Thomas Shannahan, 1857–1903, of the tree) and John Joseph (1858–1883).",
+    "UNPROVEN, and unlikely: the Quinn Family Tree makes him a son of a James Thomas Quinn Sr. (1793, Giant's Causeway – 1866) and Ann Ellen Stephenson of Belfast, and gives him the middle name McGeer from a supposed grandmother Mary McGeer. Its only records are other trees, a Belfast marriage of 1830 or 1836 (after James was born) and the civil death of a James Quinn at Gort, County Galway, in 1866, a different man a county away. His parents are not known."
   ],
-  "aliases": []
+  "aliases": [
+    "James Quin",
+    "James McGeer Quin"
+  ]
 }

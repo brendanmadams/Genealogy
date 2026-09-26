@@ -1,8 +1,8 @@
 {
   "id": "mooney_sarah",
-  "name": "Sarah Mooney (Quin)",
+  "name": "Sarah Mooney (Quinn)",
   "sex": "F",
-  "birth": "1826",
+  "birth": "abt 1826",
   "death": "23 Jun 1890",
   "personality": [],
   "roles": [],
@@ -18,16 +18,34 @@
     "siblings": [],
     "spouse": "quin_james_mcgeer",
     "children": [
-      "quinn_bernard"
+      "quinn_bernard",
+      "quinn_ann_jane",
+      "quinn_elizabeth_jane",
+      "quinn_john_joseph_1858"
     ]
   },
-  "locations": [],
+  "locations": [
+    "County Antrim, Ireland",
+    "Fallston, Harford County, Maryland",
+    "Saint John the Evangelist Cemetery, Hydes, Baltimore County, Maryland"
+  ],
   "sources": [
-    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)"
+    "Ancestry.com, public member tree \"Quinn Family Tree\" (tree 11167102)",
+    "The Aegis and Intelligencer (Bel Air), 27 Jun 1890, death notice of Mrs. James Quinn (clipping on Find a Grave memorial 22191176)",
+    "Find a Grave, memorial 22191176 (Sarah Quinn, \"Age 64 Years, Native of County Antrim, Ireland\", Saint John the Evangelist Cemetery, Hydes)",
+    "FamilySearch, United States Census, 1880 (Fallston, Harford County, Maryland; James Quin, 57, labourer on farm, with Sarah, 54, Joseph, 21, and Barney, 27; ark 1:1:MNQG-LPP)",
+    "Ancestry.com, Ireland, Catholic Parish Registers, 1655-1915 (Rasharkin, diocese of Down and Connor, NLI microfilm 05476/04: baptism of Eliza Quinn, 20 Dec 1854, parents James Quinn and Sarah Mooney; and an unnamed child of — Quin and Sally Quin)",
+    "National Library of Ireland, Catholic parish registers: Rasharkin (Down and Connor), baptisms from 16 Aug 1848; microfilm 05502 is Newry (Dromore)",
+    "FamilySearch, Ireland Census, 1851 (Rasharkin parish, County Antrim, surviving fragment: Thomas Mooney, 55, linen weaver, married 1822, with Mary, 46, Hugh, 19, Margaret, 15, and Mary, 12; ark 1:1:QV9Y-71CW)"
   ],
   "notes": [
-    "UNPROVEN: named as a parent of John Bernard Quinn in the Quinn Family Tree on Ancestry; not yet checked against a record.",
-    "The tree gives her death as 23 Jun 1890 at Hydes, Maryland."
+    "Proven mother of John Bernard Quinn, and her maiden name is proven: the Rasharkin parish register records the baptism of Eliza Quinn on 20 Dec 1854, daughter of James Quinn and Sarah Mooney. Her death notice in the Aegis (27 Jun 1890) says Mrs. James Quinn died on Monday morning [23 Jun 1890] at the residence of Dennis A. Bradley near Fallston, having been taken with convulsions the Saturday before \"while she was walking across the field on her way to the home of her son\"; buried at St. John's, Long Green, on the Wednesday; she left one son, Bernard Quinn, and two daughters, Mrs. Thomas Shannahan and Mrs. Dennis A. Bradley, all of Fallston; \"about 65 years of age\", \"an excellent nurse\" who gave her services freely to women rich and poor \"as a religious duty\". Her stone reads \"Age 64 Years, Native of County Antrim, Ireland\"; the notice calls her a native of County Derry, across the Bann from Rasharkin.",
+    "Born about 1826 (54 in 1880; 64 at death). The Quinn Family Tree's birth date of 26 Nov 1826 comes from a baptism on NLI microfilm 05502, which is the Newry registers in County Down, not Rasharkin, so it belongs to another Sarah Mooney; Rasharkin's own registers begin in 1848. Find a Grave's death date of 29 Jun 1890 is wrong: the notice printed on 27 Jun says she died on the Monday, 23 Jun.",
+    "UNPROVEN: the Quinn Family Tree gives her parents as Thomas Mooney (born 1796) and Mary, of Magheraboy townland, Rasharkin, married 1822. A Thomas Mooney, 55, linen weaver, married 1822, does appear in the surviving 1851 census fragment for Rasharkin with Mary, 46, Hugh, 19, Margaret, 15, and Mary, 12, but Sarah, married by then, is not in it, and nothing else connects her to that household; Griffith's Valuation lists some fifty Mooney holdings in the parish. Her parents are not known."
   ],
-  "aliases": []
+  "aliases": [
+    "Sarah Quinn",
+    "Sally Quin",
+    "Mrs. James Quinn"
+  ]
 }
