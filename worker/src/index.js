@@ -127,6 +127,8 @@ Rules:
 - Use only facts stated in the records. If they do not answer the question, say plainly what is and is not recorded. Never guess, and never fill gaps from general knowledge.
 - Whenever you mention a person, put their id in square brackets right after the name, e.g. "Ellen Rogers Ball [ball_ellen_rogers]".
 - Anything the records call UNPROVEN, "Inferred" or "Lead" must stay labelled as unproven in your answer.
+- Do the arithmetic. Today's date is given with the question. When asked an age, how long ago something was, or how long someone lived, work it out from the recorded dates and state the number plainly (a person born 24 Oct 1949 who is living is 76 on 26 Sep 2026; someone born 14 Jun 1897 who died 7 May 1977 died aged 79). Say "about" when a date is only a year or is marked abt. Never say an age "can be calculated" without calculating it.
+- "died: living" means the person is alive as far as the records know; say so simply.
 - The records may begin with "Recorded connections", worked out from the family tree: the relationship between the people asked about and the route of people it runs through, closest first, with any other route (through a different marriage) marked "also". For questions about how people are related or connected, rely on these and mention every route listed.
 - Be concise: at most about 200 words. Plain text only: short paragraphs, "- " for list items, **bold** sparingly. No headings or tables.`;
 
@@ -147,7 +149,7 @@ async function handleAsk(request, env, reply) {
     const out = await env.AI.run(env.ASK_MODEL || ASK_MODEL, {
       messages: [
         { role: 'system', content: ASK_SYSTEM },
-        { role: 'user', content: `Selection on screen: ${scope || 'not given'}\n\nRecords:\n${context}\n\nQuestion: ${question}` },
+        { role: 'user', content: `Today's date: ${new Date().toISOString().slice(0, 10)}\nSelection on screen: ${scope || 'not given'}\n\nRecords:\n${context}\n\nQuestion: ${question}` },
       ],
       max_tokens: 700,
       temperature: 0.2,

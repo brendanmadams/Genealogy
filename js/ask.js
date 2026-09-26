@@ -15,9 +15,46 @@ const norm = s => String(s ?? '').toLowerCase().normalize('NFKD').replace(/[̀-�
 const STOP = new Set('a an and are as at be by did do does for from had has have he her his how i in is it its me my of on or our she that the their them there they this to was we were what when where which who whom whose why with you your about any tell know anything much many please'.split(' '));
 const CONTEXT_CHARS = 24000;
 // words too common in the records to help find the right ones
-const SEARCH_STOP = new Set('family families time times people person life lived live living years year ever known records record side line spent'.split(' '));
+const SEARCH_STOP = new Set('family families time times people person life lived live living years year ever known records record side line spent old older age ages aged give gave get got made make new first last one two three day days month months ago still also later early late back home house went came come took take way well said says say used use since until own other another some most more before after into over under between through during again here where when why what who whom now then than very just only not but yes all both each every few such these those been being born died death dead name named called'.split(' '));
 
 export const askEnabled = () => Boolean(ASK.endpoint);
+
+// ── Ages ─────────────────────────────────────────────────────────────────────
+const MONTHS = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, sept: 8, oct: 9, nov: 10, dec: 11 };
+/** "24 Oct 1949" / "Oct 1949" / "abt 1670" → {y, m, d, about}; null when there is no year. */
+function calDate(text) {
+  const s = String(text || '');
+  const y = (s.match(/\b(1[5-9]\d\d|20\d\d)\b/) || [])[1];
+  if (!y) return null;
+  const mon = (s.match(/\b([A-Za-z]{3,9})\b/) || [])[1]?.slice(0, 4).toLowerCase().replace(/^sept$/, 'sept');
+  const m = mon ? MONTHS[mon] ?? MONTHS[mon.slice(0, 3)] : undefined;
+  const d = m !== undefined ? (s.match(/\b(\d{1,2})\b(?!\d)/) || [])[1] : undefined;
+  return { y: +y, m, d: d ? +d : undefined, about: /\b(abt|about|circa|c\.|before|after|between)\b|~|\d{4}\s*[-\/]\s*\d{2,4}/i.test(s) };
+}
+/** Whole years from a to b, and whether the figure is exact. */
+function yearsBetween(a, b) {
+  let n = b.y - a.y;
+  const exact = a.m !== undefined && a.d !== undefined && b.m !== undefined && b.d !== undefined && !a.about && !b.about;
+  if (a.m !== undefined && b.m !== undefined && (b.m < a.m || (b.m === a.m && a.d !== undefined && b.d !== undefined && b.d < a.d))) n -= 1;
+  return { n, exact };
+}
+/** Age today, or at death, straight from the record. */
+function ageAnswer(p, nm, today = new Date()) {
+  const b = calDate(p.birth?.text);
+  if (!b) return `<p>No birth date is recorded for <strong>${nm}</strong>, so an age cannot be worked out.</p>`;
+  const now = { y: today.getFullYear(), m: today.getMonth(), d: today.getDate() };
+  const born = `born <strong>${esc(p.birth.text)}</strong>`;
+  if (p.death?.text) {
+    const d = calDate(p.death.text);
+    if (!d) return `<p><strong>${nm}</strong> was ${born} and died <strong>${esc(p.death.text)}</strong>; the death date is not precise enough to give an age.</p>`;
+    const { n, exact } = yearsBetween(b, d);
+    const w = yearsBetween(b, now).n;
+    return `<p><strong>${nm}</strong> died <strong>${esc(p.death.text)}</strong> aged <strong>${exact ? '' : 'about '}${n}</strong> (${born}). ${p.sex === 'F' ? 'She' : p.sex === 'M' ? 'He' : 'They'} would be ${exact ? '' : 'about '}${w} today.</p>`;
+  }
+  const { n, exact } = yearsBetween(b, now);
+  const living = p.living_status ? 'is' : 'is, if living,';
+  return `<p><strong>${nm}</strong> ${living} <strong>${exact ? '' : 'about '}${n}</strong> years old (${born}).</p>`;
+}
 
 // ── Names ────────────────────────────────────────────────────────────────────
 function nameVariants(p) {
@@ -239,6 +276,10 @@ function localAnswer(D, names, q, sel, meId) {
   const nm = esc(displayName(p));
   const has = you ? 'You have' : `<strong>${nm}</strong> has`;
 
+  // how old is / was, age, how long did they live
+  if (/\bhow old\b|\byears old\b|\bage\b|\bhow long did\b.*\blive\b/.test(n) && !/\b(marry|married|marriage|wed|wedding)\b/.test(n)) {
+    return { html: `${youNote}${ageAnswer(p, nm)}`, people: [p.id] };
+  }
   // when did they marry
   if (/\bwhen\b/.test(n) && /\b(marry|married|marriage|wed|wedding)\b/.test(n)) {
     const fams = D.partnerFamilies(p).filter(f => D.partnerIn(f, p));
@@ -332,21 +373,23 @@ function placeList(D, sel, verb, prep, year, place) {
 
 // ── Plain search over the records, for "related records" ───────────────────
 function recordSearch(D, q, limit = 8, named = []) {
-  const terms = norm(q).split(' ').filter(t => t.length > 2 && !STOP.has(t) && !SEARCH_STOP.has(t));
+  // the words worth searching for: whole words of four letters or more that are not filler,
+  // and not the names of the people asked about (their records are already in hand)
+  const nameWords = new Set(named.flatMap(id => { const p = D.person(id); return p ? norm([p.name, ...(p.aliases || [])].join(' ')).split(' ') : []; }));
+  const terms = [...new Set(norm(q).split(' '))].filter(t => t.length > 2 && !STOP.has(t) && !SEARCH_STOP.has(t) && !nameWords.has(t));
   if (!terms.length) return [];
+  const tests = terms.map(t => ({ t, re: new RegExp(`\\b${t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(s|es)?\\b`) }));
   const out = [];
   for (const p of D.people.values()) {
     const fields = [...(p.milestones || []), ...(p.notable_stories || []), ...(p.notes || []), ...(p.career || []), ...(p.locations || [])].map(x => typeof x === 'string' ? x : JSON.stringify(x));
-    const name = norm([p.name, ...(p.aliases || [])].join(' '));
-    let score = 0, snippet = '';
-    for (const t of terms) {
-      // a name only counts when the question names that person ("Washington" is not Washington Baker)
-      if (named.includes(p.id) && name.includes(t)) score += 3;
-      const f = fields.find(x => norm(x).includes(t));
-      if (f) { score += 1; snippet ||= f; }
+    let score = 0, snippet = '', longest = 0;
+    for (const { t, re } of tests) {
+      const f = fields.find(x => re.test(norm(x)));
+      if (f) { score += 1; snippet ||= f; longest = Math.max(longest, t.length); }
     }
     if (p.dna_match) score -= 2;
-    if (score >= Math.min(2, terms.length)) out.push({ p, score, snippet });
+    // two matching words, or one distinctive word ("railroad", "Hanford"), not one short common one
+    if (score >= 2 || (score === 1 && (longest >= 7 || terms.length === 1))) out.push({ p, score, snippet });
   }
   return out.sort((a, b) => b.score - a.score).slice(0, limit);
 }
