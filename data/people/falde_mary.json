@@ -1,6 +1,6 @@
 {
   "id": "falde_mary",
-  "name": "Mary Kelley (Falde, Oden)",
+  "name": "Mary M. Kelley (Falde, Oden)",
   "birth": "17 Jun 1927",
   "death": "10 Dec 2018",
   "personality": [],
@@ -10,10 +10,12 @@
   "risk_events": [],
   "milestones": [],
   "education": [],
-  "career": [],
+  "career": [
+    "Taught school at Chatsworth; office manager at West Sioux High School until 1993; kept gift shops, Yei-Bichai's and, from 1974, Mary's Quilts and More."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "schafer_lucile",
+    "father": "kelley_william_joseph",
     "siblings": [],
     "spouse": "falde_roger",
     "children": [
@@ -24,17 +26,26 @@
       "oden_bugs"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Hawarden, Sioux County, Iowa",
+    "Chatsworth, Sioux County, Iowa",
+    "Apache Junction, Arizona",
+    "Grace Hill Cemetery, Hawarden"
+  ],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
   ],
   "notes": [
     "Mother of Randy and Robin Falde.",
-    "Married first Roger Falde, then “Bugs” Oden."
+    "Married first Roger Falde, then “Bugs” Oden.",
+    "Born 17 Jun 1927 at Hawarden, the second of the seven children of William Joseph Kelley and Lucile Schafer, and raised at Chatsworth; Hawarden High School 1944; married Roger Falde; the family farmed in South Dakota, moved to California in 1965 and returned to Hawarden a year later. After Roger's death she married an old friend, LaMoine \"Bugs\" Oden, at Sedona, Arizona, on 29 May 1999, and lived at Apache Junction until his death in 2016; returned to Iowa in April 2016 and died at Hawarden on 10 Dec 2018, aged 91 (Sioux City Journal; Find a Grave).",
+    "Her brothers and sisters: Kathleen Lucille \"Keke\" (O'Connor, 1925–2006), Jerome William (1929–1967), Patrick George (1931–1998), William James \"Bill\" (1936–2005), Patricia Marie (Blake, 1940–2000) and Michael, who survived her (Find a Grave; her obituary)."
   ],
   "aliases": [
     "Mary Oden",
-    "Mary Falde"
+    "Mary Falde",
+    "Mary Falde Oden"
   ],
   "sex": "F"
 }

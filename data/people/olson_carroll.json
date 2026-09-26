@@ -1,9 +1,9 @@
 {
   "id": "olson_carroll",
-  "name": "Carroll Olson",
+  "name": "Carroll Ronnie Olson",
   "sex": "M",
-  "birth": "",
-  "death": "",
+  "birth": "1933",
+  "death": "2015",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -23,12 +23,18 @@
       "olson_denise"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Emmetsburg, Palo Alto County, Iowa"
+  ],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)",
+    "FamilySearch, United States Census, 1950 (Emmetsburg, Palo Alto County, Iowa; Thomas M. Olsen, 55, born Iowa, with Clara B. and Carroll; ark 1:1:6F3K-RC8N)"
   ],
   "notes": [
-    "Son of Thomas Mikkel and Clara Olson; brother of Thomas Orlando \"Umpa\" Olson."
+    "Son of Thomas Mikkel and Clara Olson; brother of Thomas Orlando \"Umpa\" Olson.",
+    "Carroll Ronnie Olson, 1933–2015, at home in Emmetsburg in 1950 (Iowa delayed birth record; 1950 census; Find a Grave)."
   ],
   "aliases": []
 }

@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-26T02:40:58.927Z",
-  "people": 991,
-  "family_members": 942,
+  "generated": "2026-09-26T03:01:39.577Z",
+  "people": 1012,
+  "family_members": 963,
   "dna_matches": 49,
-  "connected_people": 941,
-  "families": 338,
+  "connected_people": 962,
+  "families": 348,
   "branches": [
    "adams",
    "hamilton",
@@ -14831,6 +14831,68 @@
    ]
   },
   {
+   "id": "burnight_margaret_maria",
+   "name": "Margaret Maria Burnight (Schafer)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1879",
+    "year": 1879,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1960",
+    "year": 1960,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "schafer_george_hulbert"
+   ],
+   "children": [
+    "schafer_lucile"
+   ],
+   "siblings": [],
+   "families": [
+    "F_burnight_margaret_maria+schafer_george_hulbert"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorials 127597135 (William Joseph Kelley, 7 Jan 1905 New York – 2 Jun 1955 Hawarden, with obituary) and 43013218 (Lucile Schafer Kelley Schimming, 13 Jan 1907 Akron, Iowa – 5 Mar 1967 Sioux City, with obituary), Grace Hill Cemetery, Hawarden"
+   ],
+   "notes": [
+    "Mother of Lucile (Kelley); 1879–1960 (Find a Grave)."
+   ]
+  },
+  {
    "id": "busey_ana_jean",
    "name": "Ana Jean Busey (Lewis)",
    "aliases": [
@@ -19725,18 +19787,89 @@
    ]
   },
   {
-   "id": "dickpeddie_rosemary",
-   "name": "Rosemary Dick-Peddie (Olson)",
+   "id": "dickpeddie_daisy",
+   "name": "Daisy Clara Jane Lockhart Dick-Peddie (Van Gorden)",
    "aliases": [
-    "Rosemary Olson"
+    "Daisy L. Dick-Peddie",
+    "Jane Daisy Clara Lockhart Dick-Peddie"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "5 Apr 1925",
-    "year": 1925,
+    "text": "Oct 1892",
+    "year": 1892,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1950",
+    "year": 1950,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "dickpeddie_william",
+   "mother": "mcgroarty_alice_barber",
+   "parents": [
+    "dickpeddie_william",
+    "mcgroarty_alice_barber"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "vangorden_harry_fletcher"
+   ],
+   "children": [
+    "vangorden_rosemary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dickpeddie_daisy+vangorden_harry_fletcher"
+   ],
+   "parent_family": "F_dickpeddie_william+mcgroarty_alice_barber",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Emmetsburg, Palo Alto County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Harry Fletcher Van Gordon, born 1894 Mahaska County, parents Cole R. Van Gordon and Elba Jane Lunt, and Jane Daisy Clara Lockhart Dick-Peddie, born 1894 Emmetsburg, parents William Dick-Peddie and Alice Barber McGrarty, Emmetsburg, 18 Jan 1923; ark 1:1:XJKH-3XK)",
+    "FamilySearch, United States Census, 1900 (Emmetsburg Township, Palo Alto County, Iowa; William Dick-Peddie, 41, born Scotland Mar 1859, married 14 years, with Alice B., 40, born Kentucky, and children Rose M., Daisy J. C., William S. and John W.; ark 1:1:M9L7-VQM)",
+    "Find a Grave, memorial 76008221 (Harry Fletcher Van Gorden, 25 May 1893 – 9 Mar 1930, Evergreen Cemetery, Emmetsburg)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)"
+   ],
+   "notes": [
+    "Born Oct 1892 at Emmetsburg, daughter of William Dick-Peddie, a Scot, and Alice Barber McGroarty (1900 census; Iowa birth register, as Daisy Clara Jane Locket Dick Peddie); married Harry Fletcher Van Gorden on 18 Jan 1923; widowed in 1930 with two small daughters; died 1950 (Find a Grave, via her husband's memorial). Her surname is the one the family remembered for Rosemary."
+   ]
+  },
+  {
+   "id": "dickpeddie_william",
+   "name": "William Dick-Peddie",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "Mar 1859",
+    "year": 1859,
     "qualifier": null
    },
    "death": {
@@ -19745,9 +19878,9 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": "assumed",
-   "branch": "olson",
-   "branch_by_marriage": true,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
    "unproven": false,
@@ -19759,37 +19892,37 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "olson_tom_umpa"
+    "mcgroarty_alice_barber"
    ],
    "children": [
-    "olson_tom",
-    "olson_kris",
-    "olson_sigrid"
+    "dickpeddie_daisy"
    ],
    "siblings": [],
    "families": [
-    "F_dickpeddie_rosemary+olson_tom_umpa"
+    "F_dickpeddie_william+mcgroarty_alice_barber"
    ],
    "parent_family": null,
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Scotland",
+    "Emmetsburg, Palo Alto County, Iowa"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [
-    "Married Thomas Orlando “Umpa” Olson (m. 6 Apr 1945)"
-   ],
+   "milestones": [],
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "FamilySearch, United States Census, 1900 (Emmetsburg Township, Palo Alto County, Iowa; William Dick-Peddie, 41, born Scotland Mar 1859, married 14 years, with Alice B., 40, born Kentucky, and children Rose M., Daisy J. C., William S. and John W.; ark 1:1:M9L7-VQM)",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Harry Fletcher Van Gordon, born 1894 Mahaska County, parents Cole R. Van Gordon and Elba Jane Lunt, and Jane Daisy Clara Lockhart Dick-Peddie, born 1894 Emmetsburg, parents William Dick-Peddie and Alice Barber McGrarty, Emmetsburg, 18 Jan 1923; ark 1:1:XJKH-3XK)"
    ],
    "notes": [
-    "Wife of Tom \"Umpa\" Olson; Megan Adams’s maternal grandmother."
+    "Born Mar 1859 in Scotland to Scottish parents; married Alice B. McGroarty about 1886; in Emmetsburg Township in 1900 with Rose M. (13), Daisy J. C. (8), William S. (4) and John W. (2) (1900 census). The double surname Dick-Peddie is Scottish, best known from the Edinburgh architects."
    ]
   },
   {
@@ -21101,6 +21234,71 @@
    ]
   },
   {
+   "id": "engebretson_berthine_marie",
+   "name": "Berthine Marie Engebretson (Falde)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1875",
+    "year": 1875,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1955",
+    "year": 1955,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "falde_meinik"
+   ],
+   "children": [
+    "falde_conrad"
+   ],
+   "siblings": [],
+   "families": [
+    "F_engebretson_berthine_marie+falde_meinik"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia Township, Union County, South Dakota"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1910 (Virginia Township, Union County, South Dakota; Minik Falde, 37, born Iowa to Norwegian parents, with Berthine M., 34, Belle D., 12, Conrad N., 10, and his mother Bertha Falde, 71, born Norway; ark 1:1:MPXR-L2Z)",
+    "Find a Grave, memorials 126466623 (Conrad N. Falde, 12 Nov 1899 – 15 Jan 1993, Grace Hill Cemetery, Hawarden), 126466658 (Gertrude Lillian Whalen Falde, 8 May 1900 – Jan 1982) and 229300345 (Meinik Falde, 5 Feb 1873 Allamakee County – 27 Feb 1945 Kenmore, Washington, Acacia Memorial Park, Lake Forest Park)"
+   ],
+   "notes": [
+    "Born 1875 in South Dakota; wife of Meinik Falde and mother of Belle Delia and Conrad (1910 census; Find a Grave)."
+   ]
+  },
+  {
    "id": "ernst_mary",
    "name": "Mary Elizabeth Ernst (Snyder)",
    "aliases": [
@@ -21490,7 +21688,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Aurora, Colorado"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -21502,19 +21702,95 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
    ],
    "notes": [
     "Son of Randy Falde and Kris Olson (Falde); brother of Megan Adams.",
-    "CORRECTION 2026-09-23: Death changed from \"deceased\" to \"12 Nov 2020\", per Brendan Adams."
+    "CORRECTION 2026-09-23: Death changed from \"deceased\" to \"12 Nov 2020\", per Brendan Adams.",
+    "Of Aurora, Colorado, in his grandmother Mary's 2018 obituary; his grandfather Umpa's 2025 obituary names him among those who died before him."
+   ]
+  },
+  {
+   "id": "falde_conrad",
+   "name": "Conrad N. Falde",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "12 Nov 1899",
+    "year": 1899,
+    "qualifier": null
+   },
+   "death": {
+    "text": "15 Jan 1993",
+    "year": 1993,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "falde_meinik",
+   "mother": "engebretson_berthine_marie",
+   "parents": [
+    "engebretson_berthine_marie",
+    "falde_meinik"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "whalen_gertrude_lillian"
+   ],
+   "children": [
+    "falde_roger"
+   ],
+   "siblings": [],
+   "families": [
+    "F_falde_conrad+whalen_gertrude_lillian"
+   ],
+   "parent_family": "F_engebretson_berthine_marie+falde_meinik",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Virginia Township, Union County, South Dakota",
+    "Hawarden, Sioux County, Iowa",
+    "Grace Hill Cemetery, Hawarden"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Conrad N. Falde and Gertrude Lillian Whalen, born 1900 Beresford, S.D., parents Harvey Whalen and Jessie McAninch, Hawarden, 17 Nov 1919; ark 1:1:XJZN-NX1)",
+    "FamilySearch, United States Census, 1910 (Virginia Township, Union County, South Dakota; Minik Falde, 37, born Iowa to Norwegian parents, with Berthine M., 34, Belle D., 12, Conrad N., 10, and his mother Bertha Falde, 71, born Norway; ark 1:1:MPXR-L2Z)",
+    "Find a Grave, memorials 126466623 (Conrad N. Falde, 12 Nov 1899 – 15 Jan 1993, Grace Hill Cemetery, Hawarden), 126466658 (Gertrude Lillian Whalen Falde, 8 May 1900 – Jan 1982) and 229300345 (Meinik Falde, 5 Feb 1873 Allamakee County – 27 Feb 1945 Kenmore, Washington, Acacia Memorial Park, Lake Forest Park)",
+    "Find a Grave, memorial 58761677 (Roger N. Falde, Grace Hill Cemetery, Hawarden, sec 3:905-4), with his 1992 obituary; FamilySearch NUMIDENT (Roger Norman Falde, born 19 Sep 1925 Hawarden, parents Conrad Falde and Gertrude Whalen; SSDI death 21 Sep 1992)"
+   ],
+   "notes": [
+    "Born 12 Nov 1899 in South Dakota, son of Meinik Falde and Berthine Engebretson; at school in Virginia Township, Union County, in 1913–14; married Gertrude Lillian Whalen at Hawarden on 17 Nov 1919; farming in Virginia Township in 1930 and 1940 with Gertrude and Roger; died 15 Jan 1993 at Hawarden and was buried at Grace Hill (marriage record; censuses; SSDI; Find a Grave). His sister was Belle Delia Falde (Thompson, 1897–1970)."
    ]
   },
   {
    "id": "falde_mary",
-   "name": "Mary Kelley (Falde, Oden)",
+   "name": "Mary M. Kelley (Falde, Oden)",
    "aliases": [
     "Mary Oden",
-    "Mary Falde"
+    "Mary Falde",
+    "Mary Falde Oden"
    ],
    "photo": null,
    "card_name": null,
@@ -21539,9 +21815,12 @@
    ],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "kelley_william_joseph",
+   "mother": "schafer_lucile",
+   "parents": [
+    "kelley_william_joseph",
+    "schafer_lucile"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -21559,11 +21838,91 @@
     "F_falde_mary+falde_roger",
     "F_falde_mary+oden_bugs"
    ],
+   "parent_family": "F_kelley_william_joseph+schafer_lucile",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawarden, Sioux County, Iowa",
+    "Chatsworth, Sioux County, Iowa",
+    "Apache Junction, Arizona",
+    "Grace Hill Cemetery, Hawarden"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Taught school at Chatsworth; office manager at West Sioux High School until 1993; kept gift shops, Yei-Bichai's and, from 1974, Mary's Quilts and More."
+   ],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
+   ],
+   "notes": [
+    "Mother of Randy and Robin Falde.",
+    "Married first Roger Falde, then “Bugs” Oden.",
+    "Born 17 Jun 1927 at Hawarden, the second of the seven children of William Joseph Kelley and Lucile Schafer, and raised at Chatsworth; Hawarden High School 1944; married Roger Falde; the family farmed in South Dakota, moved to California in 1965 and returned to Hawarden a year later. After Roger's death she married an old friend, LaMoine \"Bugs\" Oden, at Sedona, Arizona, on 29 May 1999, and lived at Apache Junction until his death in 2016; returned to Iowa in April 2016 and died at Hawarden on 10 Dec 2018, aged 91 (Sioux City Journal; Find a Grave).",
+    "Her brothers and sisters: Kathleen Lucille \"Keke\" (O'Connor, 1925–2006), Jerome William (1929–1967), Patrick George (1931–1998), William James \"Bill\" (1936–2005), Patricia Marie (Blake, 1940–2000) and Michael, who survived her (Find a Grave; her obituary)."
+   ]
+  },
+  {
+   "id": "falde_meinik",
+   "name": "Meinik Falde",
+   "aliases": [
+    "Minik Falde"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "5 Feb 1873",
+    "year": 1873,
+    "qualifier": null
+   },
+   "death": {
+    "text": "27 Feb 1945",
+    "year": 1945,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "engebretson_berthine_marie"
+   ],
+   "children": [
+    "falde_conrad"
+   ],
+   "siblings": [],
+   "families": [
+    "F_engebretson_berthine_marie+falde_meinik"
+   ],
    "parent_family": null,
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Allamakee County, Iowa",
+    "Virginia Township, Union County, South Dakota",
+    "Kenmore, King County, Washington",
+    "Acacia Memorial Park, Lake Forest Park, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -21573,11 +21932,11 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "FamilySearch, United States Census, 1910 (Virginia Township, Union County, South Dakota; Minik Falde, 37, born Iowa to Norwegian parents, with Berthine M., 34, Belle D., 12, Conrad N., 10, and his mother Bertha Falde, 71, born Norway; ark 1:1:MPXR-L2Z)",
+    "Find a Grave, memorials 126466623 (Conrad N. Falde, 12 Nov 1899 – 15 Jan 1993, Grace Hill Cemetery, Hawarden), 126466658 (Gertrude Lillian Whalen Falde, 8 May 1900 – Jan 1982) and 229300345 (Meinik Falde, 5 Feb 1873 Allamakee County – 27 Feb 1945 Kenmore, Washington, Acacia Memorial Park, Lake Forest Park)"
    ],
    "notes": [
-    "Mother of Randy and Robin Falde.",
-    "Married first Roger Falde, then “Bugs” Oden."
+    "Born 5 Feb 1873 in Allamakee County, Iowa, son of Nels Falde (1833–1890) and Berthe Johnson (born 1839), both from Norway; a farmer in Virginia Township, Union County, South Dakota, where his widowed mother, 71, lived with him in 1910; died 27 Feb 1945 at Kenmore, Washington, and was buried at Acacia Memorial Park, Lake Forest Park (1910 census; Find a Grave, which names his brothers Johan, 1859–1913, and Cornelius, 1866–1941)."
    ]
   },
   {
@@ -21634,7 +21993,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Alcester, Union County, South Dakota"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -21646,9 +22007,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
    ],
-   "notes": []
+   "notes": [
+    "Of Alcester, South Dakota, in his mother's 2018 obituary; his sister Robin of Chatsworth."
+   ]
   },
   {
    "id": "falde_robin",
@@ -21697,7 +22061,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Chatsworth, Sioux County, Iowa"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -21707,16 +22073,20 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
    ],
    "notes": [
-    "Sister of Randy Falde."
+    "Sister of Randy Falde.",
+    "Of Chatsworth, Iowa, in her mother's 2018 obituary."
    ]
   },
   {
    "id": "falde_roger",
-   "name": "Roger Falde",
-   "aliases": [],
+   "name": "Roger Norman Falde",
+   "aliases": [
+    "Roger N. Falde"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -21740,9 +22110,12 @@
    ],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "falde_conrad",
+   "mother": "whalen_gertrude_lillian",
+   "parents": [
+    "falde_conrad",
+    "whalen_gertrude_lillian"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -21758,11 +22131,15 @@
    "families": [
     "F_falde_mary+falde_roger"
    ],
-   "parent_family": null,
+   "parent_family": "F_falde_conrad+whalen_gertrude_lillian",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Virginia Township, Union County, South Dakota",
+    "Hawarden, Sioux County, Iowa",
+    "Grace Hill Cemetery, Hawarden"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -21770,12 +22147,17 @@
    "risk_events": [],
    "milestones": [],
    "education": [],
-   "career": [],
+   "career": [
+    "Farmed the family land west of Hawarden for twenty years; ran the \"Jolly Rogers\" restaurant, 1970–1976; worked at Hass Hillcrest Care Center for his last twelve years."
+   ],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Find a Grave, memorial 58761677 (Roger N. Falde, Grace Hill Cemetery, Hawarden, sec 3:905-4), with his 1992 obituary; FamilySearch NUMIDENT (Roger Norman Falde, born 19 Sep 1925 Hawarden, parents Conrad Falde and Gertrude Whalen; SSDI death 21 Sep 1992)",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
    ],
    "notes": [
-    "Husband of Mary Falde and father of Randy and Robin Falde."
+    "Husband of Mary Falde and father of Randy and Robin Falde.",
+    "Born 19 Sep 1925, in Virginia Township, Union County, South Dakota, by his obituary, at Hawarden by his Social Security application, son of Conrad N. Falde and Gertrude Whalen; finished high school in 1943; married Mary Kelley (his obituary says 17 Jun 1946, hers 1948); farmed west of Hawarden, lived briefly in California in 1965, then kept the Jolly Rogers restaurant; died 21 Sep 1992 at Hawarden Community Hospital, two days after his 67th birthday, and was buried at Grace Hill Cemetery."
    ]
   },
   {
@@ -36819,6 +37201,75 @@
    "notes": []
   },
   {
+   "id": "kallestad_kristi",
+   "name": "Kristi Nilsdatter Kallestad (Olson)",
+   "aliases": [
+    "Kristie Kallestad Olson"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1865",
+    "year": 1865,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1943",
+    "year": 1943,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "olson_ole_k"
+   ],
+   "children": [
+    "olson_nels_elder",
+    "olson_thomas_mikkel_elder"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kallestad_kristi+olson_ole_k"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Norway",
+    "Humboldt County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)"
+   ],
+   "notes": [
+    "Mother of Thomas Mikel Olson, named Krist Nilson Kallestad on his 1922 marriage record; 1865–1943 (Find a Grave). Kallestad is a Norwegian farm name."
+   ]
+  },
+  {
    "id": "karnes_elizabeth_rebecca",
    "name": "Elizabeth Rebecca Karnes (Vancel)",
    "aliases": [],
@@ -36880,6 +37331,207 @@
    ],
    "notes": [
     "UNPROVEN, from Ed Simons's Ancestry tree: mother of Sarah Vancel (Kulp); born 1829 in Pennsylvania, died 1 Mar 1885 at Clyde, Cloud County, Kansas. Not found in records yet."
+   ]
+  },
+  {
+   "id": "kelley_delia",
+   "name": "Delia (Kelley)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1869",
+    "year": 1869,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1954",
+    "year": 1954,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "kelley_michael_joseph"
+   ],
+   "children": [
+    "kelley_william_joseph"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kelley_delia+kelley_michael_joseph"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorials 127597135 (William Joseph Kelley, 7 Jan 1905 New York – 2 Jun 1955 Hawarden, with obituary) and 43013218 (Lucile Schafer Kelley Schimming, 13 Jan 1907 Akron, Iowa – 5 Mar 1967 Sioux City, with obituary), Grace Hill Cemetery, Hawarden"
+   ],
+   "notes": [
+    "Mother of William Joseph Kelley; 1869–1954; her birth surname is not yet recorded (Find a Grave)."
+   ]
+  },
+  {
+   "id": "kelley_michael_joseph",
+   "name": "Michael Joseph \"Mike\" Kelley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1863",
+    "year": 1863,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1944",
+    "year": 1944,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "kelley_delia"
+   ],
+   "children": [
+    "kelley_william_joseph"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kelley_delia+kelley_michael_joseph"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Hawarden, Sioux County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorials 127597135 (William Joseph Kelley, 7 Jan 1905 New York – 2 Jun 1955 Hawarden, with obituary) and 43013218 (Lucile Schafer Kelley Schimming, 13 Jan 1907 Akron, Iowa – 5 Mar 1967 Sioux City, with obituary), Grace Hill Cemetery, Hawarden"
+   ],
+   "notes": [
+    "Father of William Joseph Kelley; 1863–1944 (Find a Grave)."
+   ]
+  },
+  {
+   "id": "kelley_william_joseph",
+   "name": "William Joseph Kelley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "7 Jan 1905",
+    "year": 1905,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2 Jun 1955",
+    "year": 1955,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "kelley_michael_joseph",
+   "mother": "kelley_delia",
+   "parents": [
+    "kelley_delia",
+    "kelley_michael_joseph"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "schafer_lucile"
+   ],
+   "children": [
+    "falde_mary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kelley_william_joseph+schafer_lucile"
+   ],
+   "parent_family": "F_kelley_delia+kelley_michael_joseph",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "New York City",
+    "Hawarden, Sioux County, Iowa",
+    "Chatsworth, Sioux County, Iowa",
+    "Grace Hill Cemetery, Hawarden"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [
+    "Trinity High School; Creighton University."
+   ],
+   "career": [
+    "First National Bank, Hawarden, until 1930; general merchandise store and postmaster at Chatsworth; city assessor of Hawarden from 1947."
+   ],
+   "sources": [
+    "Find a Grave, memorials 127597135 (William Joseph Kelley, 7 Jan 1905 New York – 2 Jun 1955 Hawarden, with obituary) and 43013218 (Lucile Schafer Kelley Schimming, 13 Jan 1907 Akron, Iowa – 5 Mar 1967 Sioux City, with obituary), Grace Hill Cemetery, Hawarden",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
+   ],
+   "notes": [
+    "Born 7 Jan 1905 in New York City, the elder son of Michael Joseph Kelley and Delia; married Lucile Schafer in 1924; kept a store and the post office at Chatsworth from 1930, returned to Hawarden in 1947 as city assessor; a fourth-degree Knight of Columbus; died 2 Jun 1955 at Hawarden, aged 50 (obituary on Find a Grave). His brother was Thomas Paul Kelley (1911–1970)."
    ]
   },
   {
@@ -41318,6 +41970,69 @@
    ]
   },
   {
+   "id": "lunt_elba_jane",
+   "name": "Elba Jane Lunt (Van Gorden)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1873",
+    "year": 1873,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": true,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "vangorden_cole_rosecrane"
+   ],
+   "children": [
+    "vangorden_harry_fletcher"
+   ],
+   "siblings": [],
+   "families": [
+    "F_lunt_elba_jane+vangorden_cole_rosecrane"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Harry Fletcher Van Gordon, born 1894 Mahaska County, parents Cole R. Van Gordon and Elba Jane Lunt, and Jane Daisy Clara Lockhart Dick-Peddie, born 1894 Emmetsburg, parents William Dick-Peddie and Alice Barber McGrarty, Emmetsburg, 18 Jan 1923; ark 1:1:XJKH-3XK)",
+    "Find a Grave, memorial 76008221 (Harry Fletcher Van Gorden, 25 May 1893 – 9 Mar 1930, Evergreen Cemetery, Emmetsburg)"
+   ],
+   "notes": [
+    "Mother of Harry Fletcher Van Gorden, named on his 1923 marriage record; born 1873 and still living in 1958 (Find a Grave; UNPROVEN beyond the marriage record)."
+   ]
+  },
+  {
    "id": "lynn_emily_mariam",
    "name": "Emily Mariam Lynn (Quinn, Cook)",
    "aliases": [
@@ -42421,6 +43136,69 @@
    ]
   },
   {
+   "id": "mcaninch_jessie",
+   "name": "Jessie McAninch (Whalen)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1880",
+    "year": 1880,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1969",
+    "year": 1969,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "whalen_harley_andrew"
+   ],
+   "children": [
+    "whalen_gertrude_lillian"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mcaninch_jessie+whalen_harley_andrew"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Conrad N. Falde and Gertrude Lillian Whalen, born 1900 Beresford, S.D., parents Harvey Whalen and Jessie McAninch, Hawarden, 17 Nov 1919; ark 1:1:XJZN-NX1)",
+    "Find a Grave, memorials 126466623 (Conrad N. Falde, 12 Nov 1899 – 15 Jan 1993, Grace Hill Cemetery, Hawarden), 126466658 (Gertrude Lillian Whalen Falde, 8 May 1900 – Jan 1982) and 229300345 (Meinik Falde, 5 Feb 1873 Allamakee County – 27 Feb 1945 Kenmore, Washington, Acacia Memorial Park, Lake Forest Park)"
+   ],
+   "notes": [
+    "Mother of Gertrude (Falde); 1880–1969 (marriage record; Find a Grave)."
+   ]
+  },
+  {
    "id": "mcclain_karla",
    "name": "Karla McClain",
    "aliases": [],
@@ -42615,6 +43393,74 @@
    ],
    "notes": [
     "Son of John P. and Sarah J. (Hulse) McCoy."
+   ]
+  },
+  {
+   "id": "mcgroarty_alice_barber",
+   "name": "Alice Barber McGroarty (Dick-Peddie)",
+   "aliases": [
+    "Alice B. Dick-Peddie"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "abt 1860",
+    "year": 1860,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "dickpeddie_william"
+   ],
+   "children": [
+    "dickpeddie_daisy"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dickpeddie_william+mcgroarty_alice_barber"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kentucky",
+    "Emmetsburg, Palo Alto County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1900 (Emmetsburg Township, Palo Alto County, Iowa; William Dick-Peddie, 41, born Scotland Mar 1859, married 14 years, with Alice B., 40, born Kentucky, and children Rose M., Daisy J. C., William S. and John W.; ark 1:1:M9L7-VQM)",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Harry Fletcher Van Gordon, born 1894 Mahaska County, parents Cole R. Van Gordon and Elba Jane Lunt, and Jane Daisy Clara Lockhart Dick-Peddie, born 1894 Emmetsburg, parents William Dick-Peddie and Alice Barber McGrarty, Emmetsburg, 18 Jan 1923; ark 1:1:XJKH-3XK)"
+   ],
+   "notes": [
+    "Born about 1860 in Kentucky; wife of William Dick-Peddie and mother of Daisy (1900 census; her name from Daisy's 1923 marriage record, spelled McGrarty and McGroty in the indexes)."
    ]
   },
   {
@@ -47720,7 +48566,7 @@
   },
   {
    "id": "oden_bugs",
-   "name": "“Bugs” Oden",
+   "name": "LaMoine Frank \"Bugs\" Oden",
    "aliases": [],
    "photo": null,
    "card_name": null,
@@ -47762,7 +48608,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Apache Junction, Arizona"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -47772,10 +48620,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
    ],
    "notes": [
-    "Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992."
+    "Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992.",
+    "LaMoine Frank Oden, 1925–2016; married Mary (Kelley) Falde at Sedona on 29 May 1999 (Find a Grave, memorial 190745116)."
    ]
   },
   {
@@ -47849,20 +48699,20 @@
   },
   {
    "id": "olson_carroll",
-   "name": "Carroll Olson",
+   "name": "Carroll Ronnie Olson",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1933",
+    "year": 1933,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "2015",
+    "year": 2015,
     "qualifier": null
    },
    "living": false,
@@ -47902,7 +48752,9 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Emmetsburg, Palo Alto County, Iowa"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -47912,28 +48764,35 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)",
+    "FamilySearch, United States Census, 1950 (Emmetsburg, Palo Alto County, Iowa; Thomas M. Olsen, 55, born Iowa, with Clara B. and Carroll; ark 1:1:6F3K-RC8N)"
    ],
    "notes": [
-    "Son of Thomas Mikkel and Clara Olson; brother of Thomas Orlando \"Umpa\" Olson."
+    "Son of Thomas Mikkel and Clara Olson; brother of Thomas Orlando \"Umpa\" Olson.",
+    "Carroll Ronnie Olson, 1933–2015, at home in Emmetsburg in 1950 (Iowa delayed birth record; 1950 census; Find a Grave)."
    ]
   },
   {
    "id": "olson_clara",
-   "name": "Clara Olson",
-   "aliases": [],
+   "name": "Clara Bertine Ronning (Olson)",
+   "aliases": [
+    "Clara Rouning",
+    "Clara B. Olsen"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "8 Feb 1898",
+    "year": 1898,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "22 Jun 1970",
+    "year": 1970,
     "qualifier": null
    },
    "living": false,
@@ -47945,9 +48804,12 @@
    ],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "ronning_andrew_o",
+   "mother": "wold_sigrid_sarah",
+   "parents": [
+    "ronning_andrew_o",
+    "wold_sigrid_sarah"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -47963,11 +48825,16 @@
    "families": [
     "F_olson_clara+olson_thomas_mikkel_elder"
    ],
-   "parent_family": null,
+   "parent_family": "F_ronning_andrew_o+wold_sigrid_sarah",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Hendricks, Lincoln County, Minnesota",
+    "Brookings County, South Dakota",
+    "Emmetsburg, Palo Alto County, Iowa",
+    "Union Cemetery, Ottosen, Humboldt County, Iowa"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -47977,10 +48844,14 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)",
+    "FamilySearch, United States Census, 1950 (Emmetsburg, Palo Alto County, Iowa; Thomas M. Olsen, 55, born Iowa, with Clara B. and Carroll; ark 1:1:6F3K-RC8N)"
    ],
    "notes": [
-    "Wife of Thomas Mikkel Olson and mother of Thomas Orlando \"Umpa\" Olson and Carroll Olson; her birth surname is not recorded."
+    "Wife of Thomas Mikkel Olson and mother of Thomas Orlando \"Umpa\" Olson and Carroll Olson; her birth surname is not recorded.",
+    "Born 8 Feb 1898 at Hendricks, Minnesota (Find a Grave; the 1922 marriage record says Brookings County, South Dakota, just across the line), daughter of Andrew O. Ronning and Sigrid \"Sarah\" Wold; married Thomas Mikel Olson at Graettinger on 31 Mar 1922; died 22 Jun 1970 at Emmetsburg. Her siblings were Jeanette (Monson), Aubrey and Orcella (Ellis), and half-siblings Olai and Ida (Digre)."
    ]
   },
   {
@@ -48002,7 +48873,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "olson",
    "branch_by_marriage": false,
    "lineages": [
@@ -48066,7 +48937,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "olson",
    "branch_by_marriage": false,
    "lineages": [
@@ -48130,7 +49001,7 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "olson",
    "branch_by_marriage": false,
    "lineages": [
@@ -48178,7 +49049,9 @@
   {
    "id": "olson_eddy_orlando",
    "name": "Eddy Orlando Olson",
-   "aliases": [],
+   "aliases": [
+    "Eddy Orlando Olson"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -48230,15 +49103,19 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)"
    ],
-   "notes": []
+   "notes": [
+    "The surname is spelled Roesgen in Umpa's 2025 obituary."
+   ]
   },
   {
    "id": "olson_kari",
    "name": "Kari Olson (Rosgen)",
    "aliases": [
-    "Kari Rosgen"
+    "Kari Rosgen",
+    "Kari Olson (Roesgen)"
    ],
    "photo": null,
    "card_name": null,
@@ -48302,15 +49179,19 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)"
    ],
-   "notes": []
+   "notes": [
+    "The surname is spelled Roesgen in Umpa's 2025 obituary."
+   ]
   },
   {
    "id": "olson_kris",
    "name": "Kris Olson (Falde)",
    "aliases": [
-    "Kris Falde"
+    "Kris Falde",
+    "Kristine Falde"
    ],
    "photo": null,
    "card_name": null,
@@ -48336,10 +49217,10 @@
    "adopted": false,
    "unproven": false,
    "father": "olson_tom_umpa",
-   "mother": "dickpeddie_rosemary",
+   "mother": "vangorden_rosemary",
    "parents": [
-    "dickpeddie_rosemary",
-    "olson_tom_umpa"
+    "olson_tom_umpa",
+    "vangorden_rosemary"
    ],
    "birth_father": null,
    "birth_mother": null,
@@ -48359,7 +49240,7 @@
    "families": [
     "F_falde_randy+olson_kris"
    ],
-   "parent_family": "F_dickpeddie_rosemary+olson_tom_umpa",
+   "parent_family": "F_olson_tom_umpa+vangorden_rosemary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -48375,10 +49256,13 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)"
    ],
    "notes": [
-    "Megan Adams’s mother. Married and later divorced Randy Falde."
+    "Megan Adams’s mother. Married and later divorced Randy Falde.",
+    "Kristine in her parents' obituaries, of Thousand Oaks, California, in 2004."
    ]
   },
   {
@@ -48510,20 +49394,20 @@
   },
   {
    "id": "olson_nels_elder",
-   "name": "Nels Olson",
+   "name": "Nels John Olson",
    "aliases": [],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1892",
+    "year": 1892,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "1978",
+    "year": 1978,
     "qualifier": null
    },
    "living": false,
@@ -48535,10 +49419,11 @@
    ],
    "adopted": false,
    "unproven": false,
-   "father": "olson_unknown_father",
-   "mother": null,
+   "father": "olson_ole_k",
+   "mother": "kallestad_kristi",
    "parents": [
-    "olson_unknown_father"
+    "kallestad_kristi",
+    "olson_ole_k"
    ],
    "birth_father": null,
    "birth_mother": null,
@@ -48550,11 +49435,13 @@
     "olson_thomas_mikkel_elder"
    ],
    "families": [],
-   "parent_family": "F_olson_unknown_father",
+   "parent_family": "F_kallestad_kristi+olson_ole_k",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Humboldt County, Iowa"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -48564,10 +49451,82 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)"
    ],
    "notes": [
-    "Brother of Thomas Mikkel Olson (Umpa’s father). His great-great-nephew Nels Olson is named for him."
+    "Brother of Thomas Mikkel Olson (Umpa’s father). His great-great-nephew Nels Olson is named for him.",
+    "Nels John Olson, 1892–1978, son of Ole K. and Kristi (Kallestad) Olson (Find a Grave)."
+   ]
+  },
+  {
+   "id": "olson_ole_k",
+   "name": "Ole K. Olson",
+   "aliases": [
+    "Ole K. Nelson"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1863",
+    "year": 1863,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1932",
+    "year": 1932,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "kallestad_kristi"
+   ],
+   "children": [
+    "olson_nels_elder",
+    "olson_thomas_mikkel_elder"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kallestad_kristi+olson_ole_k"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Norway",
+    "Humboldt County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)"
+   ],
+   "notes": [
+    "Father of Thomas Mikel and Nels John Olson. Named Ole K. Nelson on his son's 1922 marriage record and Ole K. Olson on Find a Grave, 1863–1932: in the Norwegian way the children took Olson from his given name. Husband of Kristi Kallestad; their children, per Find a Grave, were Ole Andrew (1888–1951), Martha Elisabeth (Lillevik, 1890–1965), Nels John (1892–1978), Thomas Mikel (1894–1991), Bertha Sofia (Kallestad, 1897–1979), Rasmus Martin (1899–1965), Oskar Kristoffer (1904–1919), Klara M. (1906–1993) and Oliva Anetta (Lenz, 1912–1999)."
    ]
   },
   {
@@ -48598,10 +49557,10 @@
    "adopted": false,
    "unproven": false,
    "father": "olson_tom_umpa",
-   "mother": "dickpeddie_rosemary",
+   "mother": "vangorden_rosemary",
    "parents": [
-    "dickpeddie_rosemary",
-    "olson_tom_umpa"
+    "olson_tom_umpa",
+    "vangorden_rosemary"
    ],
    "birth_father": null,
    "birth_mother": null,
@@ -48618,11 +49577,13 @@
    "families": [
     "F_olson_sigrid+wood_chris"
    ],
-   "parent_family": "F_dickpeddie_rosemary+olson_tom_umpa",
+   "parent_family": "F_olson_tom_umpa+vangorden_rosemary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Albuquerque, New Mexico"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -48632,28 +49593,34 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)"
    ],
    "notes": [
-    "Her partner is Chris Wood; they have no children."
+    "Her partner is Chris Wood; they have no children.",
+    "Of Albuquerque, with her friend Chris Wood, in her mother's 2004 obituary."
    ]
   },
   {
    "id": "olson_thomas_mikkel_elder",
-   "name": "Thomas Mikkel Olson",
-   "aliases": [],
+   "name": "Thomas Mikel Olson",
+   "aliases": [
+    "Thomas M. Olsen",
+    "Thomas Mikal Olson"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "25 Jun 1894",
+    "year": 1894,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "8 Jun 1991",
+    "year": 1991,
     "qualifier": null
    },
    "living": false,
@@ -48665,10 +49632,11 @@
    ],
    "adopted": false,
    "unproven": false,
-   "father": "olson_unknown_father",
-   "mother": null,
+   "father": "olson_ole_k",
+   "mother": "kallestad_kristi",
    "parents": [
-    "olson_unknown_father"
+    "kallestad_kristi",
+    "olson_ole_k"
    ],
    "birth_father": null,
    "birth_mother": null,
@@ -48687,11 +49655,16 @@
    "families": [
     "F_olson_clara+olson_thomas_mikkel_elder"
    ],
-   "parent_family": "F_olson_unknown_father",
+   "parent_family": "F_kallestad_kristi+olson_ole_k",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Humboldt County, Iowa",
+    "Graettinger, Palo Alto County, Iowa",
+    "Emmetsburg, Palo Alto County, Iowa",
+    "Union Cemetery, Ottosen, Humboldt County, Iowa"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -48699,19 +49672,28 @@
    "risk_events": [],
    "milestones": [],
    "education": [],
-   "career": [],
+   "career": [
+    "U.S. Army, from 6 Nov 1918 (World War I)."
+   ],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "FamilySearch, United States World War I Draft Registration Cards (Thomas Mikel Olson, born 25 Jun 1894 Humboldt, Kossuth County, ark 1:1:7TCY-F4W2); Veterans Administration Master Index (service from 6 Nov 1918); Iowa World War I Bonus Applications",
+    "FamilySearch, United States Census, 1950 (Emmetsburg, Palo Alto County, Iowa; Thomas M. Olsen, 55, born Iowa, with Clara B. and Carroll; ark 1:1:6F3K-RC8N)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)"
    ],
    "notes": [
-    "Father of Thomas Orlando \"Umpa\" Olson and Carroll Olson; brother of Nels Olson. His great-grandson Thomas Mikkel \"Tommy\" Olson is named for him."
+    "Father of Thomas Orlando \"Umpa\" Olson and Carroll Olson; brother of Nels Olson. His great-grandson Thomas Mikkel \"Tommy\" Olson is named for him.",
+    "Born 25 Jun 1894 in Humboldt County, Iowa, son of Ole K. Olson (Nelson) and Kristi Kallestad, Norwegian immigrants; registered for the draft in Kossuth County in 1917–18 and served from 6 Nov 1918; married Clara Bertine Ronning at Graettinger on 31 Mar 1922; farming in Kossuth County in 1925 and living at Emmetsburg by 1950; died 8 Jun 1991 at Emmetsburg, aged 96, and was buried at Union Cemetery, Ottosen (marriage record; draft and veterans' records; censuses; Find a Grave)."
    ]
   },
   {
    "id": "olson_tom",
    "name": "Thomas William Olson",
    "aliases": [
-    "Tom Olson"
+    "Tom Olson",
+    "Thomas W. Olson"
    ],
    "photo": null,
    "card_name": null,
@@ -48737,10 +49719,10 @@
    "adopted": false,
    "unproven": false,
    "father": "olson_tom_umpa",
-   "mother": "dickpeddie_rosemary",
+   "mother": "vangorden_rosemary",
    "parents": [
-    "dickpeddie_rosemary",
-    "olson_tom_umpa"
+    "olson_tom_umpa",
+    "vangorden_rosemary"
    ],
    "birth_father": null,
    "birth_mother": null,
@@ -48761,11 +49743,13 @@
    "families": [
     "F_olson_bonnie+olson_tom"
    ],
-   "parent_family": "F_dickpeddie_rosemary+olson_tom_umpa",
+   "parent_family": "F_olson_tom_umpa+vangorden_rosemary",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Santa Fe, New Mexico"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -48777,18 +49761,23 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)"
    ],
    "notes": [
-    "Son of Tom \"Umpa\" Olson; brother of Kris and Sigrid."
+    "Son of Tom \"Umpa\" Olson; brother of Kris and Sigrid.",
+    "Thomas W. Olson of Santa Fe, with his wife Bonnie, in his mother's 2004 obituary."
    ]
   },
   {
    "id": "olson_tom_umpa",
-   "name": "Thomas Orlando Olson",
+   "name": "Thomas Orlando \"Umpa\" Olson",
    "aliases": [
     "Umpa",
-    "Tom Olson"
+    "Tom Olson",
+    "Tom O. Olson",
+    "Thomas Orlando Olsen"
    ],
    "photo": null,
    "card_name": null,
@@ -48800,12 +49789,12 @@
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "17 Jan 2025",
+    "year": 2025,
     "qualifier": null
    },
    "living": false,
-   "living_status": "assumed",
+   "living_status": null,
    "branch": "olson",
    "branch_by_marriage": false,
    "lineages": [
@@ -48824,7 +49813,7 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "dickpeddie_rosemary"
+    "vangorden_rosemary"
    ],
    "children": [
     "olson_tom",
@@ -48835,13 +49824,21 @@
     "olson_carroll"
    ],
    "families": [
-    "F_dickpeddie_rosemary+olson_tom_umpa"
+    "F_olson_tom_umpa+vangorden_rosemary"
    ],
    "parent_family": "F_olson_clara+olson_thomas_mikkel_elder",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Garfield Township, Kossuth County, Iowa",
+    "Ottosen, Humboldt County, Iowa",
+    "Rutland, Humboldt County, Iowa",
+    "Emmetsburg, Palo Alto County, Iowa",
+    "Albuquerque, New Mexico",
+    "Aurora, Colorado",
+    "Santa Fe National Cemetery, Santa Fe, New Mexico"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -48851,14 +49848,23 @@
     "Married Rosemary Dick-Peddie (m. 6 Apr 1945)"
    ],
    "education": [],
-   "career": [],
+   "career": [
+    "Technician Fifth Grade, U.S. Army, World War II (combat veteran).",
+    "Attorney in New Mexico, in water law, Native American law and federal contracts, representing Pueblos and Tribes; retired 1990, inactive status thereafter."
+   ],
    "sources": [
     "Brendan Adams (personal knowledge), 2026",
-    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)"
+    "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)",
+    "FamilySearch, Iowa Births and Stillbirths, 1921-1947 (Thomas Orlando Olsen, 10 Nov 1924, Garfield Township, Kossuth County, parents Thomas Olsen and Clara Rouning; ark 1:1:QPVC-3K39) and ELCA church records, Rutland, Iowa (baptism 21 Dec 1924; confirmation 3 Dec 1939)",
+    "FamilySearch, United States Census, 1950 (Emmetsburg, Palo Alto County, Iowa; Thomas M. Olsen, 55, born Iowa, with Clara B. and Carroll; ark 1:1:6F3K-RC8N)"
    ],
    "notes": [
     "Megan Adams’s maternal grandfather, called \"Umpa\". Father of Kris Olson (Falde), Tom Olson and Sigrid Olson.",
-    "He loved to drive and was saddened when he could no longer do so. [John Howard Adams, A Memoir, text line 3708]"
+    "He loved to drive and was saddened when he could no longer do so. [John Howard Adams, A Memoir, text line 3708]",
+    "Born 10 Nov 1924 in Garfield Township, Kossuth County, Iowa (the Ottosen neighbourhood), son of Thomas Mikel Olson and Clara Bertine Ronning; baptised at Rutland on 21 Dec 1924 and confirmed there on 3 Dec 1939 (Iowa birth register; Lutheran church records). Married his high-school sweetheart Rosemary Van Gorden of Emmetsburg (Brendan Adams gives 6 Apr 1945; her 2004 obituary and Find a Grave say 1946).",
+    "Celebrated his 100th birthday on 10 Nov 2024 with more than a hundred family and friends, and died peacefully at his home in Aurora, Colorado, on 17 Jan 2025 with his children present, \"a sound inquisitive mind, a clear memory, a sunny disposition, and a warm, caring heart\" to the end; buried at Santa Fe National Cemetery, section 18, site 928, beside Rosemary (Albuquerque Journal, 1 Feb 2025; Find a Grave). His obituary names his children Tom, Kristine Falde and Sigrid, his brother Carroll, grandchildren Brendan Falde, Megan Falde Adams, Nels Olson, Kari Olson Roesgen and Thomas M. \"Tommy\" Olson, and great-grandchildren Garrett and Owen Adams, Mirabelle Olson and Eddy Roesgen."
    ]
   },
   {
@@ -48932,67 +49938,6 @@
    ],
    "notes": [
     "Married and later divorced Megan; no children."
-   ]
-  },
-  {
-   "id": "olson_unknown_father",
-   "name": "(Unknown) Olson",
-   "aliases": [],
-   "photo": null,
-   "card_name": null,
-   "sex": "M",
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
-   "lineages": [],
-   "adopted": false,
-   "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "birth_father": null,
-   "birth_mother": null,
-   "birth_parents": [],
-   "birth_children": [],
-   "spouses": [],
-   "children": [
-    "olson_thomas_mikkel_elder",
-    "olson_nels_elder"
-   ],
-   "siblings": [],
-   "families": [
-    "F_olson_unknown_father"
-   ],
-   "parent_family": null,
-   "connected": true,
-   "dna_match": false,
-   "priority": "normal",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
-   ],
-   "notes": [
-    "Placeholder for the father of the brothers Thomas Mikkel Olson and Nels Olson, whose name is not recorded."
    ]
   },
   {
@@ -55395,10 +56340,81 @@
    ]
   },
   {
+   "id": "ronning_andrew_o",
+   "name": "Andrew O. Ronning",
+   "aliases": [
+    "Andrew O. Rouning",
+    "Andres O. Ronning"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1865",
+    "year": 1865,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1948",
+    "year": 1948,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "wold_sigrid_sarah"
+   ],
+   "children": [
+    "olson_clara"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ronning_andrew_o+wold_sigrid_sarah"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Norway",
+    "Brookings County, South Dakota",
+    "Hendricks, Lincoln County, Minnesota"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)"
+   ],
+   "notes": [
+    "Father of Clara (Olson); born 1865 in Norway, in Brookings County, Dakota Territory, in 1880 with his parents Ole A. and Elizabeth Ronning; died 1948 (marriage record; 1880 census; Find a Grave)."
+   ]
+  },
+  {
    "id": "rosgen_john",
    "name": "John Rosgen",
    "aliases": [
-    "John Rosegen"
+    "John Rosegen",
+    "John Roesgen"
    ],
    "photo": null,
    "card_name": null,
@@ -55454,9 +56470,12 @@
    "education": [],
    "career": [],
    "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)"
    ],
-   "notes": []
+   "notes": [
+    "The surname is spelled Roesgen in Umpa's 2025 obituary."
+   ]
   },
   {
    "id": "rotter_richard",
@@ -56831,6 +57850,143 @@
    ],
    "notes": [
     "Child of Benjamin Sebastian Sawyer III; grandchild of Dorothy (Groves) Sawyer. Of Ferndale, Washington, with her husband Scott (2014); her married surname is not given."
+   ]
+  },
+  {
+   "id": "schafer_george_hulbert",
+   "name": "George Hulbert Schafer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1877",
+    "year": 1877,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1949",
+    "year": 1949,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "burnight_margaret_maria"
+   ],
+   "children": [
+    "schafer_lucile"
+   ],
+   "siblings": [],
+   "families": [
+    "F_burnight_margaret_maria+schafer_george_hulbert"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Akron, Plymouth County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Find a Grave, memorials 127597135 (William Joseph Kelley, 7 Jan 1905 New York – 2 Jun 1955 Hawarden, with obituary) and 43013218 (Lucile Schafer Kelley Schimming, 13 Jan 1907 Akron, Iowa – 5 Mar 1967 Sioux City, with obituary), Grace Hill Cemetery, Hawarden"
+   ],
+   "notes": [
+    "Father of Lucile (Kelley); 1877–1949 (Find a Grave)."
+   ]
+  },
+  {
+   "id": "schafer_lucile",
+   "name": "Lucile Schafer (Kelley, Schimming)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "13 Jan 1907",
+    "year": 1907,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Mar 1967",
+    "year": 1967,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "schafer_george_hulbert",
+   "mother": "burnight_margaret_maria",
+   "parents": [
+    "burnight_margaret_maria",
+    "schafer_george_hulbert"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "kelley_william_joseph"
+   ],
+   "children": [
+    "falde_mary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_kelley_william_joseph+schafer_lucile"
+   ],
+   "parent_family": "F_burnight_margaret_maria+schafer_george_hulbert",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Akron, Plymouth County, Iowa",
+    "Chatsworth, Sioux County, Iowa",
+    "Hawarden, Sioux County, Iowa",
+    "Grace Hill Cemetery, Hawarden"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Practical nurse at Hawarden Hospital."
+   ],
+   "sources": [
+    "Find a Grave, memorials 127597135 (William Joseph Kelley, 7 Jan 1905 New York – 2 Jun 1955 Hawarden, with obituary) and 43013218 (Lucile Schafer Kelley Schimming, 13 Jan 1907 Akron, Iowa – 5 Mar 1967 Sioux City, with obituary), Grace Hill Cemetery, Hawarden",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
+   ],
+   "notes": [
+    "Born 13 Jan 1907 at Akron, Iowa, daughter of George Hulbert Schafer and Margaret Maria Burnight; married William Joseph Kelley in 1924 and, widowed, Otto Schimming (1911–1963) in 1961; a member of St. Mary's Guild and the Royal Neighbors; died 5 Mar 1967 at St. Joseph Hospital, Sioux City, leaving twenty grandchildren (obituary on Find a Grave). Her sister was Frances Aloysius Schafer (Easton, 1913–2006)."
    ]
   },
   {
@@ -70111,6 +71267,236 @@
    ]
   },
   {
+   "id": "vangorden_cole_rosecrane",
+   "name": "Cole Rosecrane Van Gorden",
+   "aliases": [
+    "C. R. Van Gorden"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1868",
+    "year": 1868,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1940",
+    "year": 1940,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": true,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "lunt_elba_jane"
+   ],
+   "children": [
+    "vangorden_harry_fletcher"
+   ],
+   "siblings": [],
+   "families": [
+    "F_lunt_elba_jane+vangorden_cole_rosecrane"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Mahaska County, Iowa"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Harry Fletcher Van Gordon, born 1894 Mahaska County, parents Cole R. Van Gordon and Elba Jane Lunt, and Jane Daisy Clara Lockhart Dick-Peddie, born 1894 Emmetsburg, parents William Dick-Peddie and Alice Barber McGrarty, Emmetsburg, 18 Jan 1923; ark 1:1:XJKH-3XK)",
+    "Find a Grave, memorial 76008221 (Harry Fletcher Van Gorden, 25 May 1893 – 9 Mar 1930, Evergreen Cemetery, Emmetsburg)"
+   ],
+   "notes": [
+    "Father of Harry Fletcher Van Gorden; 1868–1940, son of Philo Fletcher Van Gorden and Emily M. Rosekrans (Find a Grave; UNPROVEN beyond the marriage record that names him)."
+   ]
+  },
+  {
+   "id": "vangorden_harry_fletcher",
+   "name": "Harry Fletcher Van Gorden",
+   "aliases": [
+    "Harry F. Van Gordon"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "25 May 1893",
+    "year": 1893,
+    "qualifier": null
+   },
+   "death": {
+    "text": "9 Mar 1930",
+    "year": 1930,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "vangorden_cole_rosecrane",
+   "mother": "lunt_elba_jane",
+   "parents": [
+    "lunt_elba_jane",
+    "vangorden_cole_rosecrane"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "dickpeddie_daisy"
+   ],
+   "children": [
+    "vangorden_rosemary"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dickpeddie_daisy+vangorden_harry_fletcher"
+   ],
+   "parent_family": "F_lunt_elba_jane+vangorden_cole_rosecrane",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "New Sharon, Mahaska County, Iowa",
+    "Emmetsburg, Palo Alto County, Iowa",
+    "Fort Dodge, Webster County, Iowa",
+    "Evergreen Cemetery, Emmetsburg"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Harry Fletcher Van Gordon, born 1894 Mahaska County, parents Cole R. Van Gordon and Elba Jane Lunt, and Jane Daisy Clara Lockhart Dick-Peddie, born 1894 Emmetsburg, parents William Dick-Peddie and Alice Barber McGrarty, Emmetsburg, 18 Jan 1923; ark 1:1:XJKH-3XK)",
+    "Find a Grave, memorial 76008221 (Harry Fletcher Van Gorden, 25 May 1893 – 9 Mar 1930, Evergreen Cemetery, Emmetsburg)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)"
+   ],
+   "notes": [
+    "Born 25 May 1893 at New Sharon, Mahaska County, Iowa, son of Cole Rosecrane Van Gorden and Elba Jane Lunt; married Daisy Dick-Peddie at Emmetsburg on 18 Jan 1923; father of Rosemary (1925) and Alice Jane Ellen; died 9 Mar 1930 at Fort Dodge, aged 36, and was buried at Evergreen Cemetery, Emmetsburg (marriage record; Find a Grave, which names his grandparents Philo Fletcher Van Gorden and Emily M. Rosekrans)."
+   ]
+  },
+  {
+   "id": "vangorden_rosemary",
+   "name": "Rosemary Emily Van Gorden (Olson)",
+   "aliases": [
+    "Rosemary Olson",
+    "Rosemary Dick-Peddie",
+    "Rosemary Emilie Vangorden",
+    "Rose Mary Van Gorden"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "5 Apr 1925",
+    "year": 1925,
+    "qualifier": null
+   },
+   "death": {
+    "text": "7 Dec 2004",
+    "year": 2004,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "olson",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "vangorden_harry_fletcher",
+   "mother": "dickpeddie_daisy",
+   "parents": [
+    "dickpeddie_daisy",
+    "vangorden_harry_fletcher"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "olson_tom_umpa"
+   ],
+   "children": [
+    "olson_tom",
+    "olson_kris",
+    "olson_sigrid"
+   ],
+   "siblings": [],
+   "families": [
+    "F_olson_tom_umpa+vangorden_rosemary"
+   ],
+   "parent_family": "F_dickpeddie_daisy+vangorden_harry_fletcher",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Emmetsburg, Palo Alto County, Iowa",
+    "New York City (Manhattan Project)",
+    "Wright-Patterson Air Base, Dayton, Ohio",
+    "Albuquerque, New Mexico",
+    "Santa Fe National Cemetery, Santa Fe, New Mexico"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Thomas Orlando “Umpa” Olson (m. 6 Apr 1945)"
+   ],
+   "education": [
+    "University of Iowa and University of Minnesota; wartime degree in electrical engineering."
+   ],
+   "career": [
+    "Worked on the Manhattan Project in New York City, then on the first jet aircraft at Wright-Patterson Air Base, Dayton, Ohio."
+   ],
+   "sources": [
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Harry Fletcher Van Gordon, born 1894 Mahaska County, parents Cole R. Van Gordon and Elba Jane Lunt, and Jane Daisy Clara Lockhart Dick-Peddie, born 1894 Emmetsburg, parents William Dick-Peddie and Alice Barber McGrarty, Emmetsburg, 18 Jan 1923; ark 1:1:XJKH-3XK)",
+    "Find a Grave, memorial 76008221 (Harry Fletcher Van Gorden, 25 May 1893 – 9 Mar 1930, Evergreen Cemetery, Emmetsburg)"
+   ],
+   "notes": [
+    "Wife of Tom \"Umpa\" Olson; Megan Adams’s maternal grandmother.",
+    "Her maiden name was Van Gorden; Dick-Peddie, the name remembered in the family, was her mother's. Born 5 Apr 1925 at Emmetsburg, Iowa, daughter of Harry Fletcher Van Gorden and Daisy (Dick-Peddie) Van Gorden (Social Security application; Iowa birth register). Her father died when she was four. Her sister Alice Jane Ellen Van Gorden (Mehling) lived in New York City.",
+    "Died 7 Dec 2004; a memorial celebration was held at St. Mark's on the Mesa Episcopal Church, Albuquerque, on 11 Dec 2004; buried at Santa Fe National Cemetery. Her obituary names her husband Tom, children Thomas W. Olson and wife Bonnie of Santa Fe, Kristine Falde of Thousand Oaks and Sigrid Olson and friend Chris Wood of Albuquerque, grandchildren Brendan Falde, Megan Falde Adams and husband Brendan Adams, Nels, Kari and Thomas M. Olson, great-grandchild Garret Q. Adams, and her sister Alice Mehling (Albuquerque Journal, 11 Dec 2004)."
+   ]
+  },
+  {
    "id": "vanhoose_thelma",
    "name": "Thelma L. VanHoose (Simons, Sechler)",
    "aliases": [
@@ -71382,6 +72768,144 @@
     "Not a blood relative of Adams line. Step-sister of George Francis Adams Sr. Daughter of Arthur Wells.",
     "CORRECTION 2026-09-22: Mother is not Serena Marie Nevada Trumbo (confirmed by Brendan Adams): Rosemary was born about 1916 and Serena married Arthur Wells in 1929. Rosemary was Arthur's daughter from an earlier marriage, so she was a step-sister of George Francis Adams Sr. Her mother is not recorded.",
     "Named as Rosemary O'Dell, a sister of Presley Adams, in his 1987 obituary."
+   ]
+  },
+  {
+   "id": "whalen_gertrude_lillian",
+   "name": "Gertrude Lillian Whalen (Falde)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "8 May 1900",
+    "year": 1900,
+    "qualifier": null
+   },
+   "death": {
+    "text": "Jan 1982",
+    "year": 1982,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "whalen_harley_andrew",
+   "mother": "mcaninch_jessie",
+   "parents": [
+    "mcaninch_jessie",
+    "whalen_harley_andrew"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "falde_conrad"
+   ],
+   "children": [
+    "falde_roger"
+   ],
+   "siblings": [],
+   "families": [
+    "F_falde_conrad+whalen_gertrude_lillian"
+   ],
+   "parent_family": "F_mcaninch_jessie+whalen_harley_andrew",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Beresford, Union County, South Dakota",
+    "Hawarden, Sioux County, Iowa",
+    "Grace Hill Cemetery, Hawarden"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Conrad N. Falde and Gertrude Lillian Whalen, born 1900 Beresford, S.D., parents Harvey Whalen and Jessie McAninch, Hawarden, 17 Nov 1919; ark 1:1:XJZN-NX1)",
+    "Find a Grave, memorials 126466623 (Conrad N. Falde, 12 Nov 1899 – 15 Jan 1993, Grace Hill Cemetery, Hawarden), 126466658 (Gertrude Lillian Whalen Falde, 8 May 1900 – Jan 1982) and 229300345 (Meinik Falde, 5 Feb 1873 Allamakee County – 27 Feb 1945 Kenmore, Washington, Acacia Memorial Park, Lake Forest Park)",
+    "Find a Grave, memorial 58761677 (Roger N. Falde, Grace Hill Cemetery, Hawarden, sec 3:905-4), with his 1992 obituary; FamilySearch NUMIDENT (Roger Norman Falde, born 19 Sep 1925 Hawarden, parents Conrad Falde and Gertrude Whalen; SSDI death 21 Sep 1992)"
+   ],
+   "notes": [
+    "Born 8 May 1900 at Beresford, South Dakota, daughter of Harley (Harvey) Andrew Whalen and Jessie McAninch; married Conrad Falde at Hawarden on 17 Nov 1919; died Jan 1982 at Hawarden (marriage record; SSDI; Find a Grave)."
+   ]
+  },
+  {
+   "id": "whalen_harley_andrew",
+   "name": "Harley Andrew Whalen",
+   "aliases": [
+    "Harvey Whalen"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1878",
+    "year": 1878,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1911",
+    "year": 1911,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "mcaninch_jessie"
+   ],
+   "children": [
+    "whalen_gertrude_lillian"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mcaninch_jessie+whalen_harley_andrew"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Beresford, Union County, South Dakota"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Conrad N. Falde and Gertrude Lillian Whalen, born 1900 Beresford, S.D., parents Harvey Whalen and Jessie McAninch, Hawarden, 17 Nov 1919; ark 1:1:XJZN-NX1)",
+    "Find a Grave, memorials 126466623 (Conrad N. Falde, 12 Nov 1899 – 15 Jan 1993, Grace Hill Cemetery, Hawarden), 126466658 (Gertrude Lillian Whalen Falde, 8 May 1900 – Jan 1982) and 229300345 (Meinik Falde, 5 Feb 1873 Allamakee County – 27 Feb 1945 Kenmore, Washington, Acacia Memorial Park, Lake Forest Park)"
+   ],
+   "notes": [
+    "Father of Gertrude (Falde), named Harvey Whalen on her 1919 marriage record; 1878–1911 (Find a Grave)."
    ]
   },
   {
@@ -73145,6 +74669,71 @@
     "Wife of John Ball of Stafford County, named in his 1722 will.",
     "The Ball Family of the Potomac gives her maiden name as Williams, of Overwharton Parish, Stafford County (UNPROVEN here; the book's statement).",
     "Executrix of her husband's will, 1722; as \"Winifred Ball, widow\" sold 106 acres on Dogue Run to George Mason on 18 Jan 1723/24; married secondly Benjamin Lawrence, by whom she had Priscilla Lawrence, born 27 Dec 1728 (recorded in Moses Ball's Bible), and as Winifred Lawrence leased 30 acres with Moses Ball to John West on 15 Jan 1741 (King's notes). Her maiden name Williams is Bonnie Ball's claim; King found the Charles County deed she cited does not prove it, and thought William Williams, who patented 881 acres on Dogue Run in 1694 and died intestate in Stafford in 1703, \"conceivable\" as her father, no more."
+   ]
+  },
+  {
+   "id": "wold_sigrid_sarah",
+   "name": "Sigrid \"Sarah\" Wold (Ronning)",
+   "aliases": [
+    "Sarah Wald"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "1877",
+    "year": 1877,
+    "qualifier": null
+   },
+   "death": {
+    "text": "1961",
+    "year": 1961,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "ronning_andrew_o"
+   ],
+   "children": [
+    "olson_clara"
+   ],
+   "siblings": [],
+   "families": [
+    "F_ronning_andrew_o+wold_sigrid_sarah"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)"
+   ],
+   "notes": [
+    "Mother of Clara (Olson), named Sarah Wald on Clara's 1922 marriage record; 1877–1961 (Find a Grave), Andrew Ronning's second wife."
    ]
   },
   {
@@ -75941,6 +77530,17 @@
    "marriage": "abt 1927"
   },
   {
+   "id": "F_burnight_margaret_maria+schafer_george_hulbert",
+   "partners": [
+    "burnight_margaret_maria",
+    "schafer_george_hulbert"
+   ],
+   "children": [
+    "schafer_lucile"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_busey_gordon+larsen_helen_laverne",
    "partners": [
     "busey_gordon",
@@ -76332,17 +77932,26 @@
    "marriage": null
   },
   {
-   "id": "F_dickpeddie_rosemary+olson_tom_umpa",
+   "id": "F_dickpeddie_daisy+vangorden_harry_fletcher",
    "partners": [
-    "dickpeddie_rosemary",
-    "olson_tom_umpa"
+    "dickpeddie_daisy",
+    "vangorden_harry_fletcher"
    ],
    "children": [
-    "olson_tom",
-    "olson_kris",
-    "olson_sigrid"
+    "vangorden_rosemary"
    ],
-   "marriage": "6 Apr 1945"
+   "marriage": null
+  },
+  {
+   "id": "F_dickpeddie_william+mcgroarty_alice_barber",
+   "partners": [
+    "dickpeddie_william",
+    "mcgroarty_alice_barber"
+   ],
+   "children": [
+    "dickpeddie_daisy"
+   ],
+   "marriage": null
   },
   {
    "id": "F_dolan_joseph_martin+smith_may",
@@ -76456,6 +78065,17 @@
    "marriage": null
   },
   {
+   "id": "F_engebretson_berthine_marie+falde_meinik",
+   "partners": [
+    "engebretson_berthine_marie",
+    "falde_meinik"
+   ],
+   "children": [
+    "falde_conrad"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_ernst_mary+snyder_ken",
    "partners": [
     "ernst_mary",
@@ -76485,6 +78105,17 @@
     "schriefer_george_jr"
    ],
    "marriage": "12 Jul 1920"
+  },
+  {
+   "id": "F_falde_conrad+whalen_gertrude_lillian",
+   "partners": [
+    "falde_conrad",
+    "whalen_gertrude_lillian"
+   ],
+   "children": [
+    "falde_roger"
+   ],
+   "marriage": null
   },
   {
    "id": "F_falde_mary+falde_roger",
@@ -77448,6 +79079,18 @@
    "marriage": null
   },
   {
+   "id": "F_kallestad_kristi+olson_ole_k",
+   "partners": [
+    "kallestad_kristi",
+    "olson_ole_k"
+   ],
+   "children": [
+    "olson_nels_elder",
+    "olson_thomas_mikkel_elder"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_karnes_elizabeth_rebecca+vancel_valentine",
    "partners": [
     "karnes_elizabeth_rebecca",
@@ -77455,6 +79098,28 @@
    ],
    "children": [
     "vancel_sarah"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_kelley_delia+kelley_michael_joseph",
+   "partners": [
+    "kelley_delia",
+    "kelley_michael_joseph"
+   ],
+   "children": [
+    "kelley_william_joseph"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_kelley_william_joseph+schafer_lucile",
+   "partners": [
+    "kelley_william_joseph",
+    "schafer_lucile"
+   ],
+   "children": [
+    "falde_mary"
    ],
    "marriage": null
   },
@@ -77702,6 +79367,17 @@
    "marriage": "1950"
   },
   {
+   "id": "F_lunt_elba_jane+vangorden_cole_rosecrane",
+   "partners": [
+    "lunt_elba_jane",
+    "vangorden_cole_rosecrane"
+   ],
+   "children": [
+    "vangorden_harry_fletcher"
+   ],
+   "marriage": null
+  },
+  {
    "id": "F_lynn_emily_mariam+quinn_bernard",
    "partners": [
     "lynn_emily_mariam",
@@ -77761,6 +79437,17 @@
    ],
    "children": [],
    "marriage": "12 Sep 1898"
+  },
+  {
+   "id": "F_mcaninch_jessie+whalen_harley_andrew",
+   "partners": [
+    "mcaninch_jessie",
+    "whalen_harley_andrew"
+   ],
+   "children": [
+    "whalen_gertrude_lillian"
+   ],
+   "marriage": null
   },
   {
    "id": "F_mcclain_sophronia+simons_george_a",
@@ -77958,15 +79645,17 @@
    "partnered": true
   },
   {
-   "id": "F_olson_unknown_father",
+   "id": "F_olson_tom_umpa+vangorden_rosemary",
    "partners": [
-    "olson_unknown_father"
+    "olson_tom_umpa",
+    "vangorden_rosemary"
    ],
    "children": [
-    "olson_thomas_mikkel_elder",
-    "olson_nels_elder"
+    "olson_tom",
+    "olson_kris",
+    "olson_sigrid"
    ],
-   "marriage": null
+   "marriage": "6 Apr 1945"
   },
   {
    "id": "F_owens_ruth_eva+urbach_charles_phillip",
@@ -78198,6 +79887,17 @@
    ],
    "children": [],
    "marriage": "1965"
+  },
+  {
+   "id": "F_ronning_andrew_o+wold_sigrid_sarah",
+   "partners": [
+    "ronning_andrew_o",
+    "wold_sigrid_sarah"
+   ],
+   "children": [
+    "olson_clara"
+   ],
+   "marriage": null
   },
   {
    "id": "F_rotter_richard+zacher_kimberly_lynn",

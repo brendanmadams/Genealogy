@@ -1,9 +1,9 @@
 {
   "id": "olson_thomas_mikkel_elder",
-  "name": "Thomas Mikkel Olson",
+  "name": "Thomas Mikel Olson",
   "sex": "M",
-  "birth": "",
-  "death": "",
+  "birth": "25 Jun 1894",
+  "death": "8 Jun 1991",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -11,10 +11,12 @@
   "risk_events": [],
   "milestones": [],
   "education": [],
-  "career": [],
+  "career": [
+    "U.S. Army, from 6 Nov 1918 (World War I)."
+  ],
   "relationships": {
-    "mother": "",
-    "father": "olson_unknown_father",
+    "mother": "kallestad_kristi",
+    "father": "olson_ole_k",
     "siblings": [
       "olson_nels_elder"
     ],
@@ -24,12 +26,26 @@
       "olson_carroll"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Humboldt County, Iowa",
+    "Graettinger, Palo Alto County, Iowa",
+    "Emmetsburg, Palo Alto County, Iowa",
+    "Union Cemetery, Ottosen, Humboldt County, Iowa"
+  ],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "FamilySearch, United States World War I Draft Registration Cards (Thomas Mikel Olson, born 25 Jun 1894 Humboldt, Kossuth County, ark 1:1:7TCY-F4W2); Veterans Administration Master Index (service from 6 Nov 1918); Iowa World War I Bonus Applications",
+    "FamilySearch, United States Census, 1950 (Emmetsburg, Palo Alto County, Iowa; Thomas M. Olsen, 55, born Iowa, with Clara B. and Carroll; ark 1:1:6F3K-RC8N)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)"
   ],
   "notes": [
-    "Father of Thomas Orlando \"Umpa\" Olson and Carroll Olson; brother of Nels Olson. His great-grandson Thomas Mikkel \"Tommy\" Olson is named for him."
+    "Father of Thomas Orlando \"Umpa\" Olson and Carroll Olson; brother of Nels Olson. His great-grandson Thomas Mikkel \"Tommy\" Olson is named for him.",
+    "Born 25 Jun 1894 in Humboldt County, Iowa, son of Ole K. Olson (Nelson) and Kristi Kallestad, Norwegian immigrants; registered for the draft in Kossuth County in 1917–18 and served from 6 Nov 1918; married Clara Bertine Ronning at Graettinger on 31 Mar 1922; farming in Kossuth County in 1925 and living at Emmetsburg by 1950; died 8 Jun 1991 at Emmetsburg, aged 96, and was buried at Union Cemetery, Ottosen (marriage record; draft and veterans' records; censuses; Find a Grave)."
   ],
-  "aliases": []
+  "aliases": [
+    "Thomas M. Olsen",
+    "Thomas Mikal Olson"
+  ]
 }

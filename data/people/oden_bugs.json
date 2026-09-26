@@ -1,6 +1,6 @@
 {
   "id": "oden_bugs",
-  "name": "“Bugs” Oden",
+  "name": "LaMoine Frank \"Bugs\" Oden",
   "birth": "23 Dec 1925",
   "death": "26 Feb 2016",
   "personality": [],
@@ -18,12 +18,16 @@
     "spouse": "falde_mary",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Apache Junction, Arizona"
+  ],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Mary (Kelley) Falde Oden, Sioux City Journal, Dec 2018, and Find a Grave, memorial 195276916 (Grace Hill Cemetery, Hawarden, map 3 block 905 lot 4)"
   ],
   "notes": [
-    "Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992."
+    "Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992.",
+    "LaMoine Frank Oden, 1925–2016; married Mary (Kelley) Falde at Sedona on 29 May 1999 (Find a Grave, memorial 190745116)."
   ],
   "aliases": [],
   "sex": "M"

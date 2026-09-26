@@ -14,7 +14,7 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "dickpeddie_rosemary",
+    "mother": "vangorden_rosemary",
     "father": "olson_tom_umpa",
     "siblings": [],
     "spouse": "olson_bonnie",
@@ -24,15 +24,21 @@
       "olson_tommy"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Santa Fe, New Mexico"
+  ],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Obituary of Thomas O. \"Tom\" Olson, Albuquerque Journal, 1 Feb 2025 (indexed by GenealogyBank via FamilySearch); Find a Grave, memorial 283628648 (Thomas Orlando Olson, TEC 5 US Army, World War II, Santa Fe National Cemetery, section 18 site 928)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004; Find a Grave index (Santa Fe National Cemetery); FamilySearch NUMIDENT (Rosemary Emilie Vangorden, born 5 Apr 1925 Emmetsburg, parents Harry F. Vangorden and Daisy L. Dick Peddie; ark 1:1:6K7Y-SPJ3)"
   ],
   "notes": [
-    "Son of Tom \"Umpa\" Olson; brother of Kris and Sigrid."
+    "Son of Tom \"Umpa\" Olson; brother of Kris and Sigrid.",
+    "Thomas W. Olson of Santa Fe, with his wife Bonnie, in his mother's 2004 obituary."
   ],
   "aliases": [
-    "Tom Olson"
+    "Tom Olson",
+    "Thomas W. Olson"
   ],
   "sex": "M"
 }

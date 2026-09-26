@@ -1,9 +1,9 @@
 {
   "id": "olson_nels_elder",
-  "name": "Nels Olson",
+  "name": "Nels John Olson",
   "sex": "M",
-  "birth": "",
-  "death": "",
+  "birth": "1892",
+  "death": "1978",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -13,20 +13,24 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "olson_unknown_father",
+    "mother": "kallestad_kristi",
+    "father": "olson_ole_k",
     "siblings": [
       "olson_thomas_mikkel_elder"
     ],
     "spouse": "",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Humboldt County, Iowa"
+  ],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)"
   ],
   "notes": [
-    "Brother of Thomas Mikkel Olson (Umpa’s father). His great-great-nephew Nels Olson is named for him."
+    "Brother of Thomas Mikkel Olson (Umpa’s father). His great-great-nephew Nels Olson is named for him.",
+    "Nels John Olson, 1892–1978, son of Ole K. and Kristi (Kallestad) Olson (Find a Grave)."
   ],
   "aliases": []
 }

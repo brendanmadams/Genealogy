@@ -1,9 +1,9 @@
 {
   "id": "olson_clara",
-  "name": "Clara Olson",
+  "name": "Clara Bertine Ronning (Olson)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "8 Feb 1898",
+  "death": "22 Jun 1970",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
@@ -13,8 +13,8 @@
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "wold_sigrid_sarah",
+    "father": "ronning_andrew_o",
     "siblings": [],
     "spouse": "olson_thomas_mikkel_elder",
     "children": [
@@ -22,12 +22,24 @@
       "olson_carroll"
     ]
   },
-  "locations": [],
+  "locations": [
+    "Hendricks, Lincoln County, Minnesota",
+    "Brookings County, South Dakota",
+    "Emmetsburg, Palo Alto County, Iowa",
+    "Union Cemetery, Ottosen, Humboldt County, Iowa"
+  ],
   "sources": [
-    "Brendan Adams (personal knowledge), 2026"
+    "Brendan Adams (personal knowledge), 2026",
+    "FamilySearch, Iowa County Marriages, 1838-1934 (Thomas Mikal Olson, 27, born Humboldt, and Clara Bertine Rouning, 24, born Brookings County, S.D., Graettinger, Palo Alto County, 31 Mar 1922; his parents Ole K. Nelson and Kristi Nilson Kallestad, hers Andrew O. Rouning and Sarah Wald; ark 1:1:XJKH-SL9)",
+    "Find a Grave, memorial 97722038 (Thomas Mikel Olson, 25 Jun 1894 – 8 Jun 1991, Union Cemetery, Ottosen, Humboldt County) and 98630699 (Clara B. Ronning Olson, 8 Feb 1898 – 22 Jun 1970)",
+    "FamilySearch, United States Census, 1950 (Emmetsburg, Palo Alto County, Iowa; Thomas M. Olsen, 55, born Iowa, with Clara B. and Carroll; ark 1:1:6F3K-RC8N)"
   ],
   "notes": [
-    "Wife of Thomas Mikkel Olson and mother of Thomas Orlando \"Umpa\" Olson and Carroll Olson; her birth surname is not recorded."
+    "Wife of Thomas Mikkel Olson and mother of Thomas Orlando \"Umpa\" Olson and Carroll Olson; her birth surname is not recorded.",
+    "Born 8 Feb 1898 at Hendricks, Minnesota (Find a Grave; the 1922 marriage record says Brookings County, South Dakota, just across the line), daughter of Andrew O. Ronning and Sigrid \"Sarah\" Wold; married Thomas Mikel Olson at Graettinger on 31 Mar 1922; died 22 Jun 1970 at Emmetsburg. Her siblings were Jeanette (Monson), Aubrey and Orcella (Ellis), and half-siblings Olai and Ida (Digre)."
   ],
-  "aliases": []
+  "aliases": [
+    "Clara Rouning",
+    "Clara B. Olsen"
+  ]
 }
