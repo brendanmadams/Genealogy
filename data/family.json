@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-26T03:18:23.845Z",
-  "people": 1012,
-  "family_members": 963,
+  "generated": "2026-09-26T03:24:10.511Z",
+  "people": 1015,
+  "family_members": 966,
   "dna_matches": 49,
-  "connected_people": 962,
-  "families": 348,
+  "connected_people": 965,
+  "families": 349,
   "branches": [
    "adams",
    "hamilton",
@@ -19828,6 +19828,7 @@
     "vangorden_harry_fletcher"
    ],
    "children": [
+    "vangorden_alice_jane",
     "vangorden_rosemary"
    ],
    "siblings": [],
@@ -46694,6 +46695,149 @@
    ]
   },
   {
+   "id": "mehling_harold",
+   "name": "Harold Mehling",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "22 Mar 1923",
+    "year": 1923,
+    "qualifier": null
+   },
+   "death": {
+    "text": "3 Oct 2005",
+    "year": 2005,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "vangorden_alice_jane"
+   ],
+   "children": [
+    "mehling_rod"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mehling_harold+vangorden_alice_jane"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Chicago, Illinois",
+    "Los Angeles, California",
+    "Queens Village, Queens, New York",
+    "New York City"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Newspaper journalist (1950) and author: The Scandalous Scamps: A Gallery of American Rogues (1959), The Most of Everything: The Story of Miami Beach (1960), Assumption of Guilt, among others."
+   ],
+   "sources": [
+    "FamilySearch, Illinois, Cook County Birth Certificates (Harold Mehling, 22 Mar 1923 Chicago, parents Richard R. Mehling and Ida Heifetz; registered 10 Jul 1942); 1940 census, Belvedere, Los Angeles County; NUMIDENT and SSDI (died 3 Oct 2005, New York City)",
+    "FamilySearch, United States Census, 1950 (Queens Village, Queens, New York; Harold Mehling, 27, born Illinois, journalist, newspaper, with Alice, 26, born Iowa, and Richard R., 1, born Iowa; ED 41-698; ark 1:1:6XYS-T6BP)",
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Mrs. Alice Van Gorden [Mehling]: of 10 Avenue Trudaine, Paris; researcher for Time magazine; edited for Vogue magazine; mother Daisy Van Gorden; spouse Harold Mehling; marriage in New York), citing the Globe-Gazette, Mason City, Iowa, 10 Feb 1948, p. 11",
+    "Library and bookseller catalogues: Harold Mehling, The Scandalous Scamps: A Gallery of American Rogues (Holt, 1959), The Most of Everything: The Story of Miami Beach (1960), Assumption of Guilt"
+   ],
+   "notes": [
+    "Born 22 Mar 1923 in Chicago, son of Richard R. Mehling and Ida (or Edith) Heifetz; in Los Angeles with his parents and siblings Myra and Eugene in 1940; married Alice Van Gorden of Emmetsburg, Iowa, then of Paris, in 1948; a journalist in Queens in 1950 and later a writer of popular non-fiction; died 3 Oct 2005 in New York City (Cook County birth certificate; censuses; marriage index; Social Security records; library catalogues)."
+   ]
+  },
+  {
+   "id": "mehling_rod",
+   "name": "Richard R. \"Rod\" Mehling",
+   "aliases": [
+    "Rod Mehling"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "Aug 1948",
+    "year": 1948,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "mehling_harold",
+   "mother": "vangorden_alice_jane",
+   "parents": [
+    "mehling_harold",
+    "vangorden_alice_jane"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_mehling_harold+vangorden_alice_jane",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Iowa",
+    "Ossining, Westchester County, New York",
+    "Santa Fe, New Mexico"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [
+    "Ossining High School, 1966; University of Wisconsin–Madison, history, 1973."
+   ],
+   "career": [
+    "Teacher, Mandela International Magnet School, Santa Fe."
+   ],
+   "sources": [
+    "FamilySearch, United States Census, 1950 (Queens Village, Queens, New York; Harold Mehling, 27, born Illinois, journalist, newspaper, with Alice, 26, born Iowa, and Richard R., 1, born Iowa; ED 41-698; ark 1:1:6XYS-T6BP)",
+    "Public profiles (Ossining High School class of 1966; University of Wisconsin–Madison, history, 1973; teacher, Mandela International Magnet School, Santa Fe) and public-records index (Rod Mehling, born Aug 1948, Santa Fe 2004)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004 (sister Alice Mehling of New York City)"
+   ],
+   "notes": [
+    "Son of Harold Mehling and Alice Van Gorden, born in Iowa about August 1948 (one year old in Queens in April 1950; public-records index), and named Richard for his grandfather Richard R. Mehling; grew up at Ossining, New York; a long-time teacher in Santa Fe, where he was living by 2004, the year of his aunt Rosemary's death (1950 census; public profiles)."
+   ]
+  },
+  {
    "id": "merithew_gay_marie",
    "name": "Gay Marie Merithew (Collier, Garrick, Sipple, Forsythe)",
    "aliases": [],
@@ -71257,6 +71401,93 @@
    ]
   },
   {
+   "id": "vangorden_alice_jane",
+   "name": "Alice Jane Ellen Van Gorden (Mehling)",
+   "aliases": [
+    "Alice Mehling",
+    "Alice V. Mehling",
+    "Alice Van Gorden"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "16 Nov 1923",
+    "year": 1923,
+    "qualifier": null
+   },
+   "death": {
+    "text": "26 Feb 2008",
+    "year": 2008,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "vangorden_harry_fletcher",
+   "mother": "dickpeddie_daisy",
+   "parents": [
+    "dickpeddie_daisy",
+    "vangorden_harry_fletcher"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "mehling_harold"
+   ],
+   "children": [
+    "mehling_rod"
+   ],
+   "siblings": [
+    "vangorden_rosemary"
+   ],
+   "families": [
+    "F_mehling_harold+vangorden_alice_jane"
+   ],
+   "parent_family": "F_dickpeddie_daisy+vangorden_harry_fletcher",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Emmetsburg, Palo Alto County, Iowa",
+    "10 Avenue Trudaine, Paris",
+    "Queens Village, Queens, New York",
+    "Ossining, Westchester County, New York",
+    "Maplewood, Essex County, New Jersey"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [
+    "Researcher for Time magazine in Paris, and an editor at Vogue, by 1948."
+   ],
+   "sources": [
+    "FamilySearch, Iowa Births and Stillbirths, 1921-1947 (Alice Jane Ellen Van Gorden, 16 Nov 1923, Emmetsburg, parents Harry Fletcher Van Gorden and Daisy L. Dick-Peddie; ark 1:1:QPZB-4CKR)",
+    "FamilySearch, United States Census, 1930 (Emmetsburg, Palo Alto County, Iowa; Alice Jane Van Gorden, 6, with her mother Daisy and sister Rose Mary; ark 1:1:XMV8-9TM)",
+    "Ancestry.com, U.S., Newspapers.com Marriage Index (Mrs. Alice Van Gorden [Mehling]: of 10 Avenue Trudaine, Paris; researcher for Time magazine; edited for Vogue magazine; mother Daisy Van Gorden; spouse Harold Mehling; marriage in New York), citing the Globe-Gazette, Mason City, Iowa, 10 Feb 1948, p. 11",
+    "Ancestry.com, New York Arriving Passenger and Crew Lists (Alice Van Gorden, 24, single, born 16 Nov 1923 Emmetsburg, Iowa, arrived New York from Cherbourg on the Mauretania, 24 May 1948; NARA T715 roll 7601)",
+    "FamilySearch, United States Census, 1950 (Queens Village, Queens, New York; Harold Mehling, 27, born Illinois, journalist, newspaper, with Alice, 26, born Iowa, and Richard R., 1, born Iowa; ED 41-698; ark 1:1:6XYS-T6BP)",
+    "FamilySearch, United States Social Security Death Index (Alice Mehling, 16 Nov 1923 – 26 Feb 2008, Essex County, New Jersey) and public-records indexes (Alice V. Mehling, Maplewood, New Jersey, 1974–2008)",
+    "Obituary of Rosemary Emily Van Gorden Olson, Albuquerque Journal, 11 Dec 2004 (sister Alice Mehling of New York City)"
+   ],
+   "notes": [
+    "Rosemary's younger sister, born 16 Nov 1923 at Emmetsburg, Iowa, the second daughter of Harry Fletcher Van Gorden and Daisy Dick-Peddie; six years old in 1930 in her widowed mother's household (Iowa birth register; 1930 census).",
+    "By early 1948 she was living at 10 Avenue Trudaine, Paris, a researcher for Time magazine who had also edited for Vogue, when the Mason City Globe-Gazette (10 Feb 1948) announced her marriage to Harold Mehling of New York; the index gives the wedding as 6 Oct 1948 in New York, which cannot be right for an announcement printed in February, so the date wants checking against the page. She sailed home from Cherbourg on the Mauretania, arriving in New York on 24 May 1948, entered as single (marriage index; passenger list).",
+    "In April 1950 she and Harold, a newspaper journalist, were at Queens Village with their son Richard R., one year old and born in Iowa; the family later lived at Ossining, New York, and from 1974 at Maplewood, New Jersey, where she died on 26 Feb 2008, aged 84 (1950 census; public-records and Social Security indexes). Her sister Rosemary's 2004 obituary names her as Alice Mehling of New York City."
+   ]
+  },
+  {
    "id": "vangorden_cole_rosecrane",
    "name": "Cole Rosecrane Van Gorden",
    "aliases": [
@@ -71364,6 +71595,7 @@
     "dickpeddie_daisy"
    ],
    "children": [
+    "vangorden_alice_jane",
     "vangorden_rosemary"
    ],
    "siblings": [],
@@ -71445,7 +71677,9 @@
     "olson_kris",
     "olson_sigrid"
    ],
-   "siblings": [],
+   "siblings": [
+    "vangorden_alice_jane"
+   ],
    "families": [
     "F_olson_tom_umpa+vangorden_rosemary"
    ],
@@ -77928,6 +78162,7 @@
     "vangorden_harry_fletcher"
    ],
    "children": [
+    "vangorden_alice_jane",
     "vangorden_rosemary"
    ],
    "marriage": null
@@ -79529,6 +79764,17 @@
     "olson_tommy"
    ],
    "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_mehling_harold+vangorden_alice_jane",
+   "partners": [
+    "mehling_harold",
+    "vangorden_alice_jane"
+   ],
+   "children": [
+    "mehling_rod"
+   ],
    "marriage": null
   },
   {
