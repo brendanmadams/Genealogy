@@ -1,14 +1,17 @@
 {
   "id": "simons_judy",
-  "name": "Judith “Judy” Simons (Doshier)",
-  "birth": "",
+  "name": "Judith Ann Simons (Arbogast, Armatrout, Doshier)",
+  "birth": "26 Oct 1957",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Steven Lawrence Arbogast (m. 21 Nov 1979, Kennewick, Benton County, Washington; div. 11 Dec 1980)",
+    "Married Jeffrey F. Armatrout (m. 28 May 1983, Benton County, Washington; div. 30 Aug 2002)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -16,24 +19,45 @@
     "father": "simons_howard",
     "siblings": [],
     "spouse": "doshier_doug",
-    "children": []
+    "children": [
+      "armatrout_chad_alan",
+      "armatrout_ryan_howard"
+    ],
+    "_extra_spouses": [
+      "arbogast_steven_lawrence",
+      "armatrout_jeffrey_f"
+    ]
   },
   "locations": [
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Columbia, South Carolina",
+    "Richland, Benton County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
     "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Judith A. Simons, 22, born Washington, application 16 Nov 1979, married Steven L. Arbogast 21 Nov 1979, Kennewick; ref. cebenmarcert0014564) and Washington, U.S., Marriage Index, 1969-2017 (Judith A. Arbogast, née Simons, and Jeffrey F. Armatrout, 28 May 1983, Benton County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Judith A. Arbogast, née Simons, from Steven L. Arbogast, 11 Dec 1980, Benton County, no children, husband filed; Judith A. Armatrout, née Simons, from Jeffrey F. Armatrout, 30 Aug 2002, Benton County, two children)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019 (Judith A. Armatrout / Judith A. Doshier, born 26 Oct 1957: Kennewick 1992–94 and 1997–2018, Columbia, South Carolina 1986–2006, Barto, Pennsylvania, Richland 2019–20; 21804 S. Oak Street, Kennewick, shared with Douglas A. Doshier) and Phone and Address Directories, 1993-2002 (Judith and Jeffrey Armatrout, 4208 S. Neel Court, Kennewick, 1997–2002)",
+    "Ancestry.com, Washington, U.S., Newspapers.com Stories and Events Index (Judy Doshier, Tri-City Herald, 29 Jul 2008)",
+    "Ancestry.com, California Birth Index, 1905-1995 (Chad Alan Armatrout, 2 Jul 1984, Santa Barbara County, mother's maiden name Simons); Washington, U.S., Marriage Index, 1969-2017 (Chad A. Armatrout and Jana R. Manis, 12 Sep 2010, Benton County); public-records indexes (Kennewick 2005–20)",
+    "adams_dna_linkage_v1"
   ],
   "notes": [
-    "Probably her: Judith A. Simons married Steven L. Arbogast on 21 Nov 1979 in Benton County, and, as Judith A. Arbogast, Jeffrey F. Armatrout in 1983, also in Benton County (county marriage certificates). Neither record names her parents.",
-    "Lead: Ryan Howard Armatrout (married in Benton County, 2011) and Chad Alan Armatrout (married there in 2010) may be her sons with Jeffrey Armatrout; Ryan's middle name would honour her father, Howard. Not confirmed."
+    "Born 26 Oct 1957 at Pasco, the youngest of Howard and Nancy's five children (Ed Simons's tree; public-records index). Married Steven Lawrence Arbogast at Kennewick on 21 Nov 1979, aged 22, and divorced him in Benton County on 11 Dec 1980; married Jeffrey F. Armatrout in Benton County on 28 May 1983 and divorced him there on 30 Aug 2002, with two children (county marriage records; state marriage and divorce indexes).",
+    "With Jeffrey she lived in California (Chad was born in Santa Barbara County in 1984), Columbia, South Carolina, and Kennewick, at 4208 S. Neel Court from the 1990s. By July 2008 she was using the name Doshier, and she shared Douglas A. Doshier's Kennewick address; no marriage record has been found, though her mother's 2012 obituary calls them Judith and Doug Doshier (public-records and newspaper indexes; obituary).",
+    "DNA: she shares 4.23% with Brendan Adams on 23andMe, a first cousin once removed, and 28.44% with her uncle Glen Simons, which fits."
   ],
   "aliases": [
     "Judy Simons",
-    "Judith Doshier"
+    "Judith Doshier",
+    "Judith A. Armatrout",
+    "Judith Simons-Armatrout"
   ],
   "sex": "F"
 }

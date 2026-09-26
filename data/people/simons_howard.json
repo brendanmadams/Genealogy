@@ -1,6 +1,6 @@
 {
   "id": "simons_howard",
-  "name": "Howard Simons",
+  "name": "Byron Daniel Simons",
   "birth": "25 Dec 1925",
   "death": "8 Sep 1973",
   "personality": [],
@@ -12,8 +12,9 @@
   "risk_events": [],
   "milestones": [
     "Born 25 Dec 1925, Lynden, Whatcom Co, Washington",
-    "Died Sep 1973",
-    "Military: Howard enlisted in the military service, and only then learned that his legal name was Byron Daniel."
+    "Died 8 Sep 1973, Union County, Oregon",
+    "Military: Howard enlisted in the military service, and only then learned that his legal name was Byron Daniel.",
+    "Married Nancy Ann Mineer (m. 10 May 1947, Pasco, Franklin County, Washington)"
   ],
   "education": [
     "Howard Simons was an elementary school student of Amy Kulp and Alice Burk."
@@ -28,29 +29,42 @@
     ],
     "spouse": "simons_nancy",
     "children": [
+      "simons_sharon",
       "simons_steve",
       "simons_lynn",
       "simons_sandy",
-      "simons_sharon",
       "simons_judy"
     ]
   },
   "locations": [
     "Lynden, Whatcom County, Washington",
     "Delta, Whatcom County, Washington",
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Custer, Whatcom County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Union County, Oregon"
   ],
   "sources": [
     "adams_direct_line_summary_v1",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
     "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Byron D. Simons, 21, and Nancy A. Mineer, 17, of Pekin, Illinois, mother Frances Mineer; licence 7 May 1947, married 10 May 1947, Pasco, Franklin County; arks 1:1:QPMP-D9PZ, QP9M-PX3S, QPMP-JTGC) and Ancestry.com, Washington, U.S., Marriage Records, 1854-2013",
+    "FamilySearch, United States Census, 1950 (Kennewick, Benton County, Washington; Byron D. and Nancy A. Simons with Sharon D. and Steven H.; ark 1:1:6X12-28HQ)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Byron Daniel Simons, b. 25 Dec 1925 \"Auster\" [Custer], Washington; residence Pasco, Franklin County; relative Ray Z. Simons)",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008 (Byron Dan Simons, 47, b. Dec 1925, d. 8 Sep 1973 Union County; spouse Nancy; certificate 73-15406); Washington, U.S., Death Records, 1907-2017 (Byron D. Simons, 8 Sep 1973); U.S., Headstone Applications for Military Veterans, 1861-1985 and Department of Veterans Affairs BIRLS Death File (25 Dec 1925 – 8 Sep 1973); Find a Grave index (born Custer, Whatcom County; died Union County, Oregon)"
   ],
   "notes": [
     "Known as Howard; legal name Byron Daniel Simons. Beryl's favorite brother. Previously referenced in prior sources as 'Byron Daniel Howard Simons.'",
     "His nephew John Howard Adams got his middle name from him and was fond of him. [John Howard Adams, A Memoir, text line 682]",
-    "Died 8 Sep 1973, as Byron D. Simons (Washington death records); Ed Simons's tree gives the place as Kennewick and his full name as Byron Daniel \"Howard\" Simons."
+    "Died 8 Sep 1973, aged 47: the Oregon death index records the death in Union County, Oregon (certificate 73-15406, spouse Nancy), Washington also indexed it, and Ed Simons's tree places it at Kennewick; a veteran, with a military headstone (Oregon and Washington death indexes; headstone application; Find a Grave).",
+    "His WWII draft card and Find a Grave give his birthplace as Custer, Whatcom County, rather than Lynden. Married Nancy Ann Mineer, 17, at Pasco on 10 May 1947 (licence 7 May), and was at Kennewick with her, Sharon and Steven in April 1950 (county marriage record; 1950 census)."
   ],
-  "sex": "M"
+  "sex": "M",
+  "aliases": [
+    "Howard Simons",
+    "Byron D. Simons",
+    "Byron Daniel \"Howard\" Simons"
+  ]
 }

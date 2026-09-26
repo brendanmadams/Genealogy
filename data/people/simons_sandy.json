@@ -1,14 +1,16 @@
 {
   "id": "simons_sandy",
-  "name": "Sandy Simons (Warner)",
-  "birth": "",
+  "name": "Sandra Lee Simons (Warner)",
+  "birth": "6 Dec 1955",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Marc George Warner (m. 2 Jun 1979, Kennewick, Benton County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -19,16 +21,25 @@
     "children": []
   },
   "locations": [
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Vancouver, Clark County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sandra Lee Simons, 23, born Pasco, and Marc George Warner, 25, born Richland; application 22 May 1979, Whatcom County, married 2 Jun 1979, recorded 8 Jun 1979, ref. nwwtcmcv79_416) and Washington, U.S., Marriage Index, 1969-2017 (2 Jun 1979, Benton County); U.S., Newspapers.com Marriage Index (Tri-City Herald, 8 Jul 1979: Sandra Lee Simons and Marc Warner of Bellingham, married 2 Jun 1979, Kennewick; Bellingham Herald, 1 Jun 1979)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Sandra L. Simons, born 6 Dec 1955, 3921 W. 2nd Avenue, Kennewick) and U.S., Index to Public Records, 1994-2019 (Sandra Lee and Marc G. Warner: Vancouver, Washington 1981–2000; Kennewick from 1990)"
   ],
-  "notes": [],
+  "notes": [
+    "Born 6 Dec 1955 at Pasco, the fourth of Howard and Nancy's five children (Ed Simons's tree; public-records index). Married Marc George Warner of Bellingham on 2 Jun 1979; the licence was taken out in Whatcom County on 22 May and the Tri-City Herald reported the wedding at Kennewick (county marriage records; marriage index; newspaper index). They lived at Vancouver, Washington, in the 1980s and 1990s and then at Kennewick, where they were in 2012 (public-records indexes; her mother's obituary)."
+  ],
   "aliases": [
     "Sandy Simons",
-    "Sandy Warner"
+    "Sandy Warner",
+    "Sandra Lee Warner"
   ],
   "sex": "F"
 }

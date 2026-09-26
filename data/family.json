@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-26T13:44:47.154Z",
-  "people": 1015,
-  "family_members": 966,
-  "dna_matches": 49,
-  "connected_people": 965,
-  "families": 348,
+  "generated": "2026-09-26T13:54:14.404Z",
+  "people": 1037,
+  "family_members": 990,
+  "dna_matches": 47,
+  "connected_people": 989,
+  "families": 360,
   "branches": [
    "adams",
    "hamilton",
@@ -9060,6 +9060,285 @@
    ],
    "notes": [
     "Father of Esther Jane Anthony."
+   ]
+  },
+  {
+   "id": "arbogast_steven_lawrence",
+   "name": "Steven Lawrence Arbogast",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "15 Jul 1958",
+    "year": 1958,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_judy"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_arbogast_steven_lawrence+simons_judy"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kennewick, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Judith Ann Simons (m. 21 Nov 1979, Kennewick, Benton County, Washington; div. 11 Dec 1980)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Judith A. Simons, 22, born Washington, application 16 Nov 1979, married Steven L. Arbogast 21 Nov 1979, Kennewick; ref. cebenmarcert0014564) and Washington, U.S., Marriage Index, 1969-2017 (Judith A. Arbogast, née Simons, and Jeffrey F. Armatrout, 28 May 1983, Benton County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Judith A. Arbogast, née Simons, from Steven L. Arbogast, 11 Dec 1980, Benton County, no children, husband filed; Judith A. Armatrout, née Simons, from Jeffrey F. Armatrout, 30 Aug 2002, Benton County, two children)"
+   ],
+   "notes": [
+    "First husband of Judith Ann Simons: married at Kennewick 21 Nov 1979, divorced in Benton County 11 Dec 1980, no children (county marriage record; divorce index). Born 15 Jul 1958 (Ed Simons's tree; public-records index)."
+   ]
+  },
+  {
+   "id": "armatrout_chad_alan",
+   "name": "Chad Alan Armatrout",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "2 Jul 1984",
+    "year": 1984,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "unproven": false,
+   "father": "armatrout_jeffrey_f",
+   "mother": "simons_judy",
+   "parents": [
+    "armatrout_jeffrey_f",
+    "simons_judy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "armatrout_ryan_howard"
+   ],
+   "families": [],
+   "parent_family": "F_armatrout_jeffrey_f+simons_judy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Santa Barbara County, California",
+    "Kennewick, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Jana R. Manis (m. 12 Sep 2010, Benton County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, California Birth Index, 1905-1995 (Chad Alan Armatrout, 2 Jul 1984, Santa Barbara County, mother's maiden name Simons); Washington, U.S., Marriage Index, 1969-2017 (Chad A. Armatrout and Jana R. Manis, 12 Sep 2010, Benton County); public-records indexes (Kennewick 2005–20)"
+   ],
+   "notes": [
+    "Born 2 Jul 1984 in Santa Barbara County, California, to Jeffrey Armatrout and Judith, née Simons (California birth index); of Kennewick, where he married Jana R. Manis on 12 Sep 2010 (marriage index)."
+   ]
+  },
+  {
+   "id": "armatrout_jeffrey_f",
+   "name": "Jeffrey F. Armatrout",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "11 Feb 1957",
+    "year": 1957,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_judy"
+   ],
+   "children": [
+    "armatrout_chad_alan",
+    "armatrout_ryan_howard"
+   ],
+   "siblings": [],
+   "families": [
+    "F_armatrout_jeffrey_f+simons_judy"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kennewick, Benton County, Washington",
+    "Columbia, South Carolina",
+    "Pasco, Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Judith Ann Simons (m. 28 May 1983, Benton County, Washington; div. 30 Aug 2002)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Judith A. Simons, 22, born Washington, application 16 Nov 1979, married Steven L. Arbogast 21 Nov 1979, Kennewick; ref. cebenmarcert0014564) and Washington, U.S., Marriage Index, 1969-2017 (Judith A. Arbogast, née Simons, and Jeffrey F. Armatrout, 28 May 1983, Benton County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Judith A. Arbogast, née Simons, from Steven L. Arbogast, 11 Dec 1980, Benton County, no children, husband filed; Judith A. Armatrout, née Simons, from Jeffrey F. Armatrout, 30 Aug 2002, Benton County, two children)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019 (Judith A. Armatrout / Judith A. Doshier, born 26 Oct 1957: Kennewick 1992–94 and 1997–2018, Columbia, South Carolina 1986–2006, Barto, Pennsylvania, Richland 2019–20; 21804 S. Oak Street, Kennewick, shared with Douglas A. Doshier) and Phone and Address Directories, 1993-2002 (Judith and Jeffrey Armatrout, 4208 S. Neel Court, Kennewick, 1997–2002)"
+   ],
+   "notes": [
+    "Second husband of Judith Ann Simons: married in Benton County 28 May 1983, divorced there 30 Aug 2002, two children, Chad and Ryan (marriage and divorce indexes). Born 11 Feb 1957; in the 1975 Norfolk, Virginia, yearbook as Jeffrey Fred Armatrout; lived at Barto, Pennsylvania, Madison, Alabama, and Columbia, South Carolina, in the early 1990s, then Kennewick and Pasco; married again in Benton County in 2005 and 2012 (public-records, yearbook and marriage indexes)."
+   ]
+  },
+  {
+   "id": "armatrout_ryan_howard",
+   "name": "Ryan Howard Armatrout",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "3 Jun 1986",
+    "year": 1986,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "unproven": false,
+   "father": "armatrout_jeffrey_f",
+   "mother": "simons_judy",
+   "parents": [
+    "armatrout_jeffrey_f",
+    "simons_judy"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "armatrout_chad_alan"
+   ],
+   "families": [],
+   "parent_family": "F_armatrout_jeffrey_f+simons_judy",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kennewick, Benton County, Washington",
+    "Richland, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Errika H. McPeak (m. 19 Mar 2011, Benton County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Ryan Howard Armatrout, born 3 Jun 1986, at 4208 S. Neel Court, Kennewick) and Index to Public Records, 1994-2019 (Kennewick and Richland 2013–20); Washington, U.S., Marriage Index, 1969-2017 (Ryan H. Armatrout and Errika H. McPeak, 19 Mar 2011, Benton County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Judith A. Arbogast, née Simons, from Steven L. Arbogast, 11 Dec 1980, Benton County, no children, husband filed; Judith A. Armatrout, née Simons, from Jeffrey F. Armatrout, 30 Aug 2002, Benton County, two children)"
+   ],
+   "notes": [
+    "Inferred: born 3 Jun 1986, probably at Columbia, South Carolina, where his parents then lived; the second of Judith and Jeffrey Armatrout's two children, listed at his mother's Kennewick address and named Howard for her father (public-records index; divorce record). Married Errika H. McPeak in Benton County on 19 Mar 2011 (marriage index)."
    ]
   },
   {
@@ -18134,6 +18413,76 @@
    ]
   },
   {
+   "id": "dale_sarah_elizabeth",
+   "name": "Sarah Elizabeth Dale (Mineer)",
+   "aliases": [
+    "Lizzie Mineer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "10 Dec 1867",
+    "year": 1867,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Jul 1951",
+    "year": 1951,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": true,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "mineer_maxwell_taylor"
+   ],
+   "children": [
+    "mineer_nelson_hobart"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dale_sarah_elizabeth+mineer_maxwell_taylor"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Lewis County, Kentucky",
+    "Dix Township, Ford County, Illinois"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1900 (Magisterial District 6, Lewis County, Kentucky; \"Mox\" Mineer, b. Oct 1863, m. 1884, with Sarah E. and children Lettie M., Artie J., Nelson H., Mowdie F., George E., Gracie and Andrew T.; ark 1:1:M9HF-GXX; Ancestry roll 538, p. 5, ED 87)",
+    "FamilySearch, United States Census, 1910 (Dix Township, Ford County, Illinois; Nelson H. Mineer, 12, b. Kentucky, with his mother Lizzie and siblings Gracie M., G. E., Amos E., Maudie, Robert Q., Andrew T., Littie M., John W. and Lawrence; ark 1:1:MKHC-G11)",
+    "Ancestry.com, Washington, U.S., Death Records, 1883-1960 and Select Death Index, 1907-1960 (Nelson Hobart Mineer, d. 11 Feb 1959 Richland, Benton County; parents Max Mineer and Sarah Elizabeth Dale); FamilySearch, Washington, County Death Registers (ark 1:1:6FJZ-MKJN); Newspapers.com obituary index (residence 1324 Haupt, Richland)"
+   ],
+   "notes": [
+    "Born 10 Dec 1867 in Lewis County, Kentucky, and married Maxwell Taylor Mineer in 1884; the mother of at least eleven children, seven of them with her in Lewis County in 1900 and nine with her, as Lizzie, at Dix Township, Ford County, Illinois, in 1910 (censuses). Named as Sarah Elizabeth Dale on her son Nelson's 1959 death record. Died 10 Jul 1951 (Ed Simons's tree). UNPROVEN: the tree gives her parents as George W. Dale (1848–1912, Epworth and Tollesboro, Lewis County) and Mary Frances Swartz (1847–1923, born Carlisle, Nicholas County, died Paxton, Illinois); no record has been checked."
+   ]
+  },
+  {
    "id": "daphne_arthur",
    "name": "Arthur Miller",
    "aliases": [],
@@ -19787,6 +20136,208 @@
    ]
   },
   {
+   "id": "dickens_leif_jeann",
+   "name": "Leif Jeann Dickens",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": null,
+   "media": [],
+   "birth": {
+    "text": "27 Apr 2001",
+    "year": 2001,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "unproven": false,
+   "father": "dickens_michael_robert",
+   "mother": "dundon_rhonda",
+   "parents": [
+    "dickens_michael_robert",
+    "dundon_rhonda"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "dickens_samantha_grace"
+   ],
+   "families": [],
+   "parent_family": "F_dickens_michael_robert+dundon_rhonda",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Spokane, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Elder child of Michael Dickens and Rhonda Jean Dundon, born 27 Apr 2001 at Spokane (Ed Simons's tree; the 2005 divorce index counts two children)."
+   ]
+  },
+  {
+   "id": "dickens_michael_robert",
+   "name": "Michael Robert Dickens",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "3 Dec 1965",
+    "year": 1965,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "dundon_rhonda"
+   ],
+   "children": [
+    "dickens_leif_jeann",
+    "dickens_samantha_grace"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dickens_michael_robert+dundon_rhonda"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Spokane, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Rhonda Jean Dundon (m. 20 Feb 2000, Las Vegas, Clark County, Nevada; div. 23 Nov 2005)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Rhonda J. Dundon, born 2 Feb 1969, Spokane) and Index to Public Records, 1994-2019 (Rhonda Jean Dundon / Rhonda J. Dickens, Spokane 2002–20); Nevada, U.S., Marriage Index, 1956-2005 (Rhonda Jean Dundon and Michael Robert Dickens, 20 Feb 2000, Clark County, book 229, p. D157949); Washington, U.S., Divorce Records, 1968-2017 (Rhonda J. Dickens, née Dundon, and Michael R. Dickens, 23 Nov 2005, Spokane County, two children, wife filed)"
+   ],
+   "notes": [
+    "Married Rhonda Jean Dundon at Las Vegas on 20 Feb 2000; divorced in Spokane County 23 Nov 2005, two children (Nevada marriage index; Washington divorce index). Born 3 Dec 1965; Ed Simons's tree names his parents as Robert Freeman Dickens and Tamara Lee McCallum and gives his middle name as Roberts."
+   ]
+  },
+  {
+   "id": "dickens_samantha_grace",
+   "name": "Samantha Grace Dickens",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "5 Dec 2003",
+    "year": 2003,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": false,
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
+   "adopted": false,
+   "unproven": false,
+   "father": "dickens_michael_robert",
+   "mother": "dundon_rhonda",
+   "parents": [
+    "dickens_michael_robert",
+    "dundon_rhonda"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "dickens_leif_jeann"
+   ],
+   "families": [],
+   "parent_family": "F_dickens_michael_robert+dundon_rhonda",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Spokane, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Younger child of Michael Dickens and Rhonda Jean Dundon, born 5 Dec 2003 at Spokane (Ed Simons's tree; the 2005 divorce index counts two children)."
+   ]
+  },
+  {
    "id": "dickpeddie_daisy",
    "name": "Daisy Clara Jane Lockhart Dick-Peddie (Van Gorden)",
    "aliases": [
@@ -20207,15 +20758,17 @@
   },
   {
    "id": "doshier_doug",
-   "name": "Doug Doshier",
-   "aliases": [],
+   "name": "Douglas Alan Doshier",
+   "aliases": [
+    "Doug Doshier"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "19 Apr 1963",
+    "year": 1963,
     "qualifier": null
    },
    "death": {
@@ -20223,8 +20776,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -20249,82 +20802,27 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "West Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Angela Mae Fisher (m. 4 Feb 1989, Benton County, Washington; div. 4 Mar 2004)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and Index to Public Records, 1994-2019 (Douglas Alan Doshier, born 19 Apr 1963; West Richland 1993–2006, 21804 S. Oak Street, Kennewick 2004–19, East Wenatchee 2019–20, Pasco 2020); Washington, U.S., Marriage Records, 1854-2013 and Marriage Index (Douglas Alan Doshier and Angela Mae Fisher, 4 Feb 1989, Benton County); Washington, U.S., Divorce Records, 1968-2017 (4 Mar 2004, Benton County, two children)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019 (Judith A. Armatrout / Judith A. Doshier, born 26 Oct 1957: Kennewick 1992–94 and 1997–2018, Columbia, South Carolina 1986–2006, Barto, Pennsylvania, Richland 2019–20; 21804 S. Oak Street, Kennewick, shared with Douglas A. Doshier) and Phone and Address Directories, 1993-2002 (Judith and Jeffrey Armatrout, 4208 S. Neel Court, Kennewick, 1997–2002)"
    ],
    "notes": [
-    "Husband of Judith (Simons) Doshier, of Kennewick (2012)."
-   ]
-  },
-  {
-   "id": "doshier_judith",
-   "name": "Judith Doshier",
-   "aliases": [],
-   "photo": null,
-   "card_name": null,
-   "sex": null,
-   "media": [],
-   "birth": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "death": {
-    "text": "",
-    "year": null,
-    "qualifier": null
-   },
-   "living": false,
-   "living_status": null,
-   "branch": "other",
-   "branch_by_marriage": false,
-   "lineages": [],
-   "adopted": false,
-   "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
-   "birth_father": null,
-   "birth_mother": null,
-   "birth_parents": [],
-   "birth_children": [],
-   "spouses": [],
-   "children": [],
-   "siblings": [],
-   "families": [],
-   "parent_family": null,
-   "connected": false,
-   "dna_match": true,
-   "priority": "low",
-   "locations": [],
-   "personality": [],
-   "roles": [],
-   "childhood_experience": [],
-   "notable_stories": [
-    "DNA match: 4.23% shared. Glen's niece; 1C1R Simons side",
-    "DNA match: 4.23% shared DNA. Simons branch. 23&Me label: 1C1R. Glen's niece (28.44% with Glen). Glen's sibling's daughter. True relationship to Brendan: 1C1R."
-   ],
-   "risk_events": [],
-   "milestones": [],
-   "education": [],
-   "career": [],
-   "sources": [
-    "family_data_v1",
-    "adams_dna_linkage_v1"
-   ],
-   "notes": [
-    "DNA profile only. Simons branch — Glen Simons' niece, 1C1R.",
-    "Simons branch. True relationship: 1C1R.",
-    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+    "Judith Simons's partner, \"Doug\" in her mother's 2012 obituary; born 19 Apr 1963; married Angela Mae Fisher in Benton County on 4 Feb 1989 and divorced her there on 4 Mar 2004, with two children; lived at West Richland and, from 2004, at the Kennewick address Judith also used, then East Wenatchee and Pasco (marriage and divorce indexes; public-records index). No record of a marriage to Judith has been found in the Washington index to 2017."
    ]
   },
   {
@@ -20597,15 +21095,19 @@
   },
   {
    "id": "dundon_rhonda",
-   "name": "Rhonda Dundon",
-   "aliases": [],
+   "name": "Rhonda Jean Simons (Dundon, Dickens)",
+   "aliases": [
+    "Rhonda Dundon",
+    "Rhonda Jean Dundon",
+    "Rhonda J. Dickens"
+   ],
    "photo": null,
    "card_name": null,
-   "sex": null,
+   "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "2 Feb 1969",
+    "year": 1969,
     "qualifier": null
    },
    "death": {
@@ -20613,29 +21115,46 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
-   "branch": "other",
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
    "branch_by_marriage": false,
-   "lineages": [],
+   "lineages": [
+    "kulp",
+    "mcphail",
+    "simons"
+   ],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "simons_steve",
+   "mother": "oldridge_catherine_ann",
+   "parents": [
+    "oldridge_catherine_ann",
+    "simons_steve"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
    "birth_children": [],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "dickens_michael_robert"
+   ],
+   "children": [
+    "dickens_leif_jeann",
+    "dickens_samantha_grace"
+   ],
    "siblings": [],
-   "families": [],
-   "parent_family": null,
-   "connected": false,
-   "dna_match": true,
-   "priority": "low",
-   "locations": [],
+   "families": [
+    "F_dickens_michael_robert+dundon_rhonda"
+   ],
+   "parent_family": "F_oldridge_catherine_ann+simons_steve",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kennewick, Benton County, Washington",
+    "Spokane, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
@@ -20643,15 +21162,20 @@
     "DNA match: 2.67% shared DNA. Simons branch. 23&Me label: 2C. Great-niece of Glen Simons (12.47% with Glen)."
    ],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Michael Robert Dickens (m. 20 Feb 2000, Las Vegas, Clark County, Nevada; div. 23 Nov 2005)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "adams_dna_linkage_v1"
+    "adams_dna_linkage_v1",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Steve H. Simons and Catherine A. Simons, née Oldridge, 14 May 1971, Franklin County, one child, wife filed)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Rhonda J. Dundon, born 2 Feb 1969, Spokane) and Index to Public Records, 1994-2019 (Rhonda Jean Dundon / Rhonda J. Dickens, Spokane 2002–20); Nevada, U.S., Marriage Index, 1956-2005 (Rhonda Jean Dundon and Michael Robert Dickens, 20 Feb 2000, Clark County, book 229, p. D157949); Washington, U.S., Divorce Records, 1968-2017 (Rhonda J. Dickens, née Dundon, and Michael R. Dickens, 23 Nov 2005, Spokane County, two children, wife filed)"
    ],
    "notes": [
-    "DNA match #6 on Simons branch.",
-    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+    "Daughter of Steven Howard Simons and Catherine Ann Oldridge, born 2 Feb 1969 (at Kennewick, by Ed Simons's tree), the one child of their marriage; raised under her mother's later surname Dundon, which she used until her marriage (divorce index; public-records index). Married Michael Robert Dickens at Las Vegas on 20 Feb 2000 and divorced him in Spokane County on 23 Nov 2005, with two children; of Spokane (Nevada marriage index; Washington divorce index).",
+    "DNA: she shares 2.67% with Brendan Adams on 23andMe, a second cousin, and 12.47% with her great-uncle Glen Simons, which fits."
    ]
   },
   {
@@ -21640,6 +22164,74 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
+  },
+  {
+   "id": "ezelle_glenn_dean_jr",
+   "name": "Glenn Dean Ezelle Jr.",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "Jul 1951",
+    "year": 1951,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_sharon"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_ezelle_glenn_dean_jr+simons_sharon"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Encino, Los Angeles County, California",
+    "Pasco, Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Sharon Dee Simons (m. 10 May 1975, Kennewick, Benton County, Washington)"
+   ],
+   "education": [],
+   "career": [
+    "North Coast Electric (1975)."
+   ],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sharon Dee Hofman, 27, born 20 Aug 1947, and Glenn Dean Ezelle, 10 May 1975, licence Franklin County) and Washington, U.S., Marriage Index, 1969-2017 (10 May 1975, Benton County); U.S., Newspapers.com Marriage Index (Tri-City Herald, 13 Apr 1975 engagement: Glenn Ezelle Jr., North Coast Electric, son of Glenn Ezelle and Jerry West; 1 Jun 1975 wedding: Sharon Hofman, daughter of B. H. Simons, of Pendleton, siblings Steve, Lynn and Sandra); U.S., Newspapers.com Birth Index (Glenn Dean Ezelle Jr., born Jul 1951, Encino, Van Nuys News, 9 Aug 1951)"
+   ],
+   "notes": [
+    "Sharon Simons's second husband: born July 1951 at Encino, California, son of Glenn Dean Ezelle (1924–1980) and Jerry West; with North Coast Electric when they married at Kennewick on 10 May 1975; of Pasco (birth index; marriage records; Tri-City Herald). No divorce found in the Washington index; she was Sharon Hofman again by 1994."
+   ]
   },
   {
    "id": "falde_brendan",
@@ -33078,6 +33670,70 @@
    ]
   },
   {
+   "id": "harris_james_g",
+   "name": "James G. Harris",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_sharon"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_harris_james_g+simons_sharon"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Sharon Dee Simons (m. 23 Jul 1994, Benton County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Index, 1969-2017 (Sharon D. Hofman, née Simons, and Jas. G. Harris, 23 Jul 1994, Benton County)"
+   ],
+   "notes": [
+    "Sharon Simons's third husband, \"Jas. G. Harris\" in the state index; married in Benton County 23 Jul 1994 (marriage index). Not otherwise identified."
+   ]
+  },
+  {
    "id": "hart_clarence",
    "name": "Clarence Freeman Hart",
    "aliases": [],
@@ -34078,6 +34734,73 @@
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": []
+  },
+  {
+   "id": "hofman_karl_d",
+   "name": "Karl D. Hofman",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "abt 1947",
+    "year": 1947,
+    "qualifier": "about"
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_sharon"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_hofman_karl_d+simons_sharon"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kennewick, Benton County, Washington",
+    "Vancouver, Clark County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Sharon Dee Simons (m. 22 Mar 1965, Lewiston, Nez Perce County, Idaho; div. 19 Oct 1970)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Sharon Dee Simons, Kennewick High School, 1963–65; senior, gown committee, 1965)",
+    "Ancestry.com, Idaho, U.S., Marriage Records, 1863-1974 (Sharon Dee Simons and Karl D. Hofman, 22 Mar 1965, Nez Perce County, certificate 2299); U.S., Newspapers.com Marriage Index (Tri-City Herald, 25 Apr 1965: Sharon Simons, daughter of Howard Simons, married Karl Hofman at Lewiston); Washington, U.S., Divorce Records, 1968-2017 (Sharon D. Hofman, née Simons, from Karl D. Hofman, 19 Oct 1970, Clark County, one child, wife filed)"
+   ],
+   "notes": [
+    "Sharon Simons's first husband and Kennewick High School classmate (yearbooks 1963–64); married at Lewiston, Idaho, 22 Mar 1965; divorced in Clark County 19 Oct 1970, one child; later of Vancouver, Washington (Idaho marriage record; divorce index; directories)."
+   ]
   },
   {
    "id": "hogan_joan_patricia",
@@ -47723,6 +48446,396 @@
    ]
   },
   {
+   "id": "mineer_dale_a",
+   "name": "Dale A. Mineer",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "5 Mar 1933",
+    "year": 1933,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Aug 1970",
+    "year": 1970,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "mineer_nelson_hobart",
+   "mother": "worley_frances_lenora",
+   "parents": [
+    "mineer_nelson_hobart",
+    "worley_frances_lenora"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "mineer_lyle_hobart",
+    "simons_nancy",
+    "mineer_maragen_maxine"
+   ],
+   "families": [],
+   "parent_family": "F_mineer_nelson_hobart+worley_frances_lenora",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Urbana, Champaign County, Illinois",
+    "Richland, Benton County, Washington",
+    "Grant County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married M. Carolyn Fultz (m. 31 Dec 1953, Franklin County, Washington)",
+    "Married Arlene I. Deery (m. 12 Oct 1968, Franklin County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1940 (Urbana Township, Champaign County, Illinois, ED 10-79, sheet 17B; Hobart Mineer, 43, b. Kentucky, with Frances, 32, Lyle, 12, Nancy Ann, 10, Dale, 9, and Marajen, 5, all born Illinois, same house in 1935; ark 1:1:KWWD-H8P)",
+    "FamilySearch, United States Census, 1950 (Richland, Benton County, Washington, ED 3-2; Nelson H. Mineer, 52, b. Illinois [sic], separated, carpenter, maintenance, with Dale A., 17, b. Illinois, and Gerald K., 1; ark 1:1:6X1C-YVP3)",
+    "FamilySearch: United States Census, 1950 (Dale A. Mineer, 17, b. Illinois, with his father Nelson H., Richland; ark 1:1:6X1C-YVP9); Washington, County Death Registers, 1881-1979 (Dale A. Mineer, b. 1933, d. 10 Aug 1970, Grant County; ark 1:1:6F5M-786L); Social Security Death Index (5 Mar 1933 – Aug 1970, Benton County); BillionGraves index (Resthaven Cemetery, Richland). Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Dale A. Mineer, b. 5 Mar 1933, and M. Carolyn Fultz, 31 Dec 1953, Franklin County; Dale A. Mineer and Arlene I. Deery, licence 17 Sep 1968, married 12 Oct 1968, Franklin County)"
+   ],
+   "notes": [
+    "Nancy's younger brother, born 5 Mar 1933 in Illinois; nine at Urbana Township in 1940 and seventeen in his father's household at Richland in 1950 (censuses; Social Security index). Married M. Carolyn Fultz in Franklin County on 31 Dec 1953 and Arlene I. Deery there on 12 Oct 1968 (county marriage records). He died on 10 Aug 1970 in Grant County, Washington, aged 37, and is buried at Resthaven Cemetery, Richland (county death register; BillionGraves)."
+   ]
+  },
+  {
+   "id": "mineer_lyle_hobart",
+   "name": "Lyle Hobart Mineer",
+   "aliases": [
+    "Lyle H. Mineer Sr."
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "1 Jul 1927",
+    "year": 1927,
+    "qualifier": null
+   },
+   "death": {
+    "text": "20 Feb 2013",
+    "year": 2013,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "mineer_nelson_hobart",
+   "mother": "worley_frances_lenora",
+   "parents": [
+    "mineer_nelson_hobart",
+    "worley_frances_lenora"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "simons_nancy",
+    "mineer_dale_a",
+    "mineer_maragen_maxine"
+   ],
+   "families": [],
+   "parent_family": "F_mineer_nelson_hobart+worley_frances_lenora",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Champaign, Illinois",
+    "Urbana, Champaign County, Illinois",
+    "Richland, Benton County, Washington",
+    "Benton City, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Dorothy E. Hadsel (m. 31 Dec 1955, Franklin County, Washington)",
+    "Married Linda Sue Gibb (m. 24 Sep 1983, Benton County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1940 (Urbana Township, Champaign County, Illinois, ED 10-79, sheet 17B; Hobart Mineer, 43, b. Kentucky, with Frances, 32, Lyle, 12, Nancy Ann, 10, Dale, 9, and Marajen, 5, all born Illinois, same house in 1935; ark 1:1:KWWD-H8P)",
+    "FamilySearch: Washington, World War II Draft Registration Cards (Lyle H. Mineer, b. 1 Jul 1927 Champaign, Illinois, registered 2 Jul 1945 Richland; ark 1:1:QPCR-S2HV); U.S. World War II Army Enlistment Records (enlisted 20 Sep 1945 Spokane); Social Security Death Index (1 Jul 1927 – 20 Feb 2013). Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Lyle H. Mineer, b. 1 Jul 1927, and Dorothy E. Hadsel, 31 Dec 1955, Franklin County; Lyle Hobart Mineer and Linda Sue Gibb, Benton County) and Washington, U.S., Marriage Index, 1969-2017 (24 Sep 1983, Benton County); Washington, U.S., Death Records, 1907-2017 (Lyle H. Mineer, d. 20 Feb 2013, Benton County)",
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019"
+   ],
+   "notes": [
+    "Nancy's elder brother, born 1 Jul 1927 at Champaign, Illinois; twelve at Urbana Township in 1940; registered for the draft at Richland on 2 Jul 1945, the day after his eighteenth birthday, and enlisted in the Army at Spokane on 20 Sep 1945 (census; draft and enlistment records).",
+    "Married Dorothy E. Hadsel in Franklin County on 31 Dec 1955 (Ed Simons's tree calls her Dorothy Elizabeth \"Betty\" Kenoyer, presumably her maiden name), and later Linda Sue Gibb in Benton County, in 1983 by the state index (county marriage records; marriage index). Lived at Richland and Benton City; \"Lyle Mineer of Richland\" in his sister's 2012 obituary. He died on 20 Feb 2013, aged 85 (Washington death record; Social Security index). His son and grandson carry his name as Lyle H. Mineer Jr. and III."
+   ]
+  },
+  {
+   "id": "mineer_maragen_maxine",
+   "name": "Maragen Maxine Mineer (Wright)",
+   "aliases": [
+    "Marajen Mineer",
+    "Maragen M. Wright"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "27 Jun 1935",
+    "year": 1935,
+    "qualifier": null
+   },
+   "death": {
+    "text": "2 Sep 2021",
+    "year": 2021,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "mineer_nelson_hobart",
+   "mother": "worley_frances_lenora",
+   "parents": [
+    "mineer_nelson_hobart",
+    "worley_frances_lenora"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "mineer_lyle_hobart",
+    "simons_nancy",
+    "mineer_dale_a"
+   ],
+   "families": [],
+   "parent_family": "F_mineer_nelson_hobart+worley_frances_lenora",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Urbana, Champaign County, Illinois",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, United States Census, 1940 (Urbana Township, Champaign County, Illinois, ED 10-79, sheet 17B; Hobart Mineer, 43, b. Kentucky, with Frances, 32, Lyle, 12, Nancy Ann, 10, Dale, 9, and Marajen, 5, all born Illinois, same house in 1935; ark 1:1:KWWD-H8P)",
+    "FamilySearch, United States Census, 1950 (Franklin County, Washington; Frances Mineer, 40, b. Illinois, divorced, farmer, head, with Marajan M., 14; ark 1:1:6X1Z-C1WV)",
+    "FamilySearch, United States Census, 1940 (Marajen Mineer, 5, Urbana Township; ark 1:1:KWWD-H8R) and 1950 (Marajan M. Mineer, 14, with her mother Frances, Franklin County, Washington); Ancestry.com, Find a Grave index (Maragen Maxine Wright, 27 Jun 1935 Urbana, Champaign County, Illinois – 2 Sep 2021 Kennewick), Newspapers.com obituary index, public-records indexes (Kennewick; Snohomish 1992–94; Reseda, California 1982) and Washington, U.S., Divorce Records, 1968-2017 (Maragen M. Wright, 11 Jan 1982, Franklin County)",
+    "Find a Grave, memorial 11087804 (Nelson Hobart Mineer, 9 Jun 1897 – 11 Feb 1959, Resthaven Cemetery, Richland; parents Maxwell Taylor and Sarah Elizabeth Mineer; spouse Frances Lenora; children Dale A. Mineer, Maragen Maxine Wright, Nancy Ann Simons), via the Ancestry.com Find a Grave index"
+   ],
+   "notes": [
+    "Nancy's younger sister, born 27 Jun 1935 at Urbana, Illinois (spelled Marajen in the censuses); five at Urbana Township in 1940 and fourteen with her divorced mother on the farm in Franklin County in 1950. As Maragen M. Wright she divorced in Franklin County on 11 Jan 1982 and lived at Reseda, California (1982), Snohomish (1992–94) and Kennewick, where she died on 2 Sep 2021, aged 86 (censuses; divorce index; public-records and obituary indexes; Find a Grave). Her husband Wright has not been identified."
+   ]
+  },
+  {
+   "id": "mineer_maxwell_taylor",
+   "name": "Maxwell Taylor Mineer",
+   "aliases": [
+    "Max Mineer",
+    "Mox Mineer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "28 Oct 1862",
+    "year": 1862,
+    "qualifier": null
+   },
+   "death": {
+    "text": "25 Feb 1955",
+    "year": 1955,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "dale_sarah_elizabeth"
+   ],
+   "children": [
+    "mineer_nelson_hobart"
+   ],
+   "siblings": [],
+   "families": [
+    "F_dale_sarah_elizabeth+mineer_maxwell_taylor"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Esculapia, Lewis County, Kentucky",
+    "Vanceburg, Lewis County, Kentucky"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Sarah Elizabeth Dale (m. 1884, Kentucky)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1900 (Magisterial District 6, Lewis County, Kentucky; \"Mox\" Mineer, b. Oct 1863, m. 1884, with Sarah E. and children Lettie M., Artie J., Nelson H., Mowdie F., George E., Gracie and Andrew T.; ark 1:1:M9HF-GXX; Ancestry roll 538, p. 5, ED 87)",
+    "FamilySearch, Kentucky Deaths, 1911-1967 (Maxwell Taylor Mineer, b. 1863, d. 25 Feb 1955 Vanceburg, Lewis County; parents Jesse Mineer and Jane Drake; ark 1:1:NS73-92B) and Find a Grave index (28 Oct 1862 – 25 Feb 1955, Lewis County)"
+   ],
+   "notes": [
+    "Born 28 Oct 1862 in Lewis County, Kentucky (Esculapia, by Ed Simons's tree), son of Jesse Mineer and Jane Drake; married Sarah Elizabeth Dale in 1884 and in 1900 was farming in Magisterial District 6, Lewis County, with seven children (1900 census; Kentucky death certificate). By 1910 his wife and children were in Ford County, Illinois, while he is not found with them; he died at Vanceburg, Lewis County, on 25 Feb 1955, aged 92 (census; death record; Find a Grave)."
+   ]
+  },
+  {
+   "id": "mineer_nelson_hobart",
+   "name": "Nelson Hobart Mineer",
+   "aliases": [
+    "Hobart Mineer",
+    "Mickey Mineer"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "9 Jun 1897",
+    "year": 1897,
+    "qualifier": null
+   },
+   "death": {
+    "text": "11 Feb 1959",
+    "year": 1959,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "mineer_maxwell_taylor",
+   "mother": "dale_sarah_elizabeth",
+   "parents": [
+    "dale_sarah_elizabeth",
+    "mineer_maxwell_taylor"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "worley_frances_lenora",
+    "roper_cecil_a"
+   ],
+   "children": [
+    "mineer_lyle_hobart",
+    "simons_nancy",
+    "mineer_dale_a",
+    "mineer_maragen_maxine"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mineer_nelson_hobart+worley_frances_lenora",
+    "F_mineer_nelson_hobart+roper_cecil_a"
+   ],
+   "parent_family": "F_dale_sarah_elizabeth+mineer_maxwell_taylor",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Burtonsville, Lewis County, Kentucky",
+    "Dix Township, Ford County, Illinois",
+    "Urbana, Champaign County, Illinois",
+    "Richland, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Frances Lenora Worley (m. abt 1926, Illinois)",
+    "Married Cecil A. Roper (m. 31 Dec 1950, Franklin County, Washington)"
+   ],
+   "education": [],
+   "career": [
+    "Carpenter, maintenance (1950); employed by the Corps of Engineers at the Southwestern Proving Ground when he registered for the draft in 1942."
+   ],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1900 (Magisterial District 6, Lewis County, Kentucky; \"Mox\" Mineer, b. Oct 1863, m. 1884, with Sarah E. and children Lettie M., Artie J., Nelson H., Mowdie F., George E., Gracie and Andrew T.; ark 1:1:M9HF-GXX; Ancestry roll 538, p. 5, ED 87)",
+    "FamilySearch, United States Census, 1910 (Dix Township, Ford County, Illinois; Nelson H. Mineer, 12, b. Kentucky, with his mother Lizzie and siblings Gracie M., G. E., Amos E., Maudie, Robert Q., Andrew T., Littie M., John W. and Lawrence; ark 1:1:MKHC-G11)",
+    "Ancestry.com, U.S., World War I Draft Registration Cards, 1917-1918 (Nelson Hobert Mineor, b. 9 Jun 1897 Kentucky, Ford County, Illinois; relative Lizzie Mineer)",
+    "FamilySearch, United States Census, 1940 (Urbana Township, Champaign County, Illinois, ED 10-79, sheet 17B; Hobart Mineer, 43, b. Kentucky, with Frances, 32, Lyle, 12, Nancy Ann, 10, Dale, 9, and Marajen, 5, all born Illinois, same house in 1935; ark 1:1:KWWD-H8P)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Nelson Hobart Mineer, 44, b. 9 Jun 1897 Burtonsville, Kentucky; registered 16 Feb 1942 at Urbana, Champaign County, Illinois; employer Corps of Engineers, Southwestern Proving Ground; next of kin Nancy Ann Mineer; 5 ft 5 in, 135 lb, brown hair and eyes; NARA St. Louis, RG 147, box 1228)",
+    "FamilySearch, United States Census, 1950 (Richland, Benton County, Washington, ED 3-2; Nelson H. Mineer, 52, b. Illinois [sic], separated, carpenter, maintenance, with Dale A., 17, b. Illinois, and Gerald K., 1; ark 1:1:6X1C-YVP3)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Nelson H. Mineer, b. 1897, and Cecil A. Roper; licence 23 Dec 1950, married 31 Dec 1950, Franklin County; arks 1:1:QPM5-RR7L, QPMT-Q6B7)",
+    "Ancestry.com, Washington, U.S., Death Records, 1883-1960 and Select Death Index, 1907-1960 (Nelson Hobart Mineer, d. 11 Feb 1959 Richland, Benton County; parents Max Mineer and Sarah Elizabeth Dale); FamilySearch, Washington, County Death Registers (ark 1:1:6FJZ-MKJN); Newspapers.com obituary index (residence 1324 Haupt, Richland)",
+    "Find a Grave, memorial 11087804 (Nelson Hobart Mineer, 9 Jun 1897 – 11 Feb 1959, Resthaven Cemetery, Richland; parents Maxwell Taylor and Sarah Elizabeth Mineer; spouse Frances Lenora; children Dale A. Mineer, Maragen Maxine Wright, Nancy Ann Simons), via the Ancestry.com Find a Grave index"
+   ],
+   "notes": [
+    "Born 9 Jun 1897 at Burtonsville, Lewis County, Kentucky, the third of the children of Maxwell Taylor Mineer and Sarah Elizabeth \"Lizzie\" Dale; in his parents' household in Magisterial District 6, Lewis County, in 1900 and, aged 12, in his mother's at Dix Township, Ford County, Illinois, in 1910; he registered for the WWI draft in Ford County, naming his mother Lizzie (censuses; draft card). Known in the family as Hobart, and as \"Mickey\" in Ed Simons's tree.",
+    "Married Frances Lenora Worley about 1926 (their son Lyle was born in July 1927); the family was at Urbana Township, Champaign County, in 1940, and he registered for the WWII draft at Urbana on 16 Feb 1942, aged 44, naming his daughter Nancy Ann, not his wife, as next of kin (1940 census; draft card). The family moved to Richland for the Hanford project in 1943 (Nancy's obituary).",
+    "By April 1950 he was separated, a maintenance carpenter at Richland with his son Dale, 17, and a one-year-old Gerald K. Mineer in the house; Frances was divorced and farming in Franklin County. He married Cecil A. Roper in Franklin County on 31 Dec 1950 (1950 census; county marriage record). He died at Richland on 11 Feb 1959, of 1324 Haupt Avenue, and is buried at Resthaven Cemetery, Richland (death record; Find a Grave)."
+   ]
+  },
+  {
    "id": "modine_suzzanne",
    "name": "Suzzanne Modine",
    "aliases": [],
@@ -47994,6 +49107,72 @@
    ],
    "notes": [
     "Son of Louise Morgan, the daughter of Rosemary Wells."
+   ]
+  },
+  {
+   "id": "mullet_iona",
+   "name": "Iona Mullet (Parker)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "parker_ray_vivian"
+   ],
+   "children": [
+    "simons_penny"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mullet_iona+parker_ray_vivian"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kennewick, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Ray Vivian Parker (m. 13 May 1955, Kennewick, Benton County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Penny M. Simons, born 23 Mar 1958, Pasco); U.S., Newspapers.com Obituary Index (Ray V. Parker, born Ogden, Utah, died 5 Mar 2008, Tri-City Herald, 13 Mar 2008: parents John and Ruby Parker, children Ruby Keck and Penny Simons); Washington, U.S., Death Records, 1907-2017 (Ray V. Parker, 77, 5 Mar 2008, Benton County); Washington, U.S., Marriage Records, 1854-2013 (Ray Parker, 24, born 11 Oct 1930, and Iona Mullet, 13 May 1955, Kennewick)"
+   ],
+   "notes": [
+    "Married Ray Parker at Kennewick on 13 May 1955 (county marriage record); Inferred: Penny's mother, since Penny was born at Kennewick in 1958 and Ray's obituary names his wife by a garbled form of her name."
    ]
   },
   {
@@ -48773,6 +49952,81 @@
    "notes": [
     "Second husband of Mary Falde, whom she married after Roger Falde’s death in 1992.",
     "LaMoine Frank Oden, 1925–2016; married Mary (Kelley) Falde at Sedona on 29 May 1999 (Find a Grave, memorial 190745116)."
+   ]
+  },
+  {
+   "id": "oldridge_catherine_ann",
+   "name": "Catherine Ann Oldridge (Simons, Dundon, Carlson)",
+   "aliases": [
+    "Catherine A. Dundon",
+    "Catherine A. Carlson",
+    "Kathy Dundon"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "11 Nov 1949",
+    "year": 1949,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": true,
+   "living_status": "living",
+   "branch": "simons",
+   "branch_by_marriage": true,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "simons_steve"
+   ],
+   "children": [
+    "dundon_rhonda"
+   ],
+   "siblings": [],
+   "families": [
+    "F_oldridge_catherine_ann+simons_steve"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Walla Walla, Washington",
+    "Kennewick, Benton County, Washington",
+    "Pasco, Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Steven Howard Simons (m. 4 Oct 1968, Kennewick, Benton County, Washington; div. 14 May 1971)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Steven Simons, 18, born Richland, and Catherine Oldridge, 18, born Walla Walla, 11 Nov 1949; application 27 Sep 1968, married 4 Oct 1968, Kennewick, recorded Franklin County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Steve H. Simons and Catherine A. Simons, née Oldridge, 14 May 1971, Franklin County, one child, wife filed)",
+    "Ancestry.com, U.S., Index to Public Records, 1994-2019 (Catherine A. Carlson, also Catherine A. Dundon, born Nov 1949; Kennewick 1976–97, Pasco 1997–2020) and Public Records Index, 1950-1993 (Catherine Dundon, Pasco)"
+   ],
+   "notes": [
+    "Born 11 Nov 1949 at Walla Walla; a Kennewick High School student in 1968, when she married Steven Simons at Kennewick on 4 Oct, aged 18; mother of Rhonda Jean, born 1969; divorced 14 May 1971 (marriage record; yearbook; divorce index). She later used the surnames Dundon, by 1976, and Carlson, living at Kennewick and Pasco; the Dundon marriage is not in the Washington indexes (public-records index). Rhonda carried the Dundon name from childhood."
    ]
   },
   {
@@ -50493,6 +51747,140 @@
     "Descendants of Jose Pierre Adams, compiled by William W. \"Bill\" Allen (2 April 2011 edition)"
    ],
    "notes": []
+  },
+  {
+   "id": "parker_ray_vivian",
+   "name": "Ray Vivian Parker",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "11 Oct 1930",
+    "year": 1930,
+    "qualifier": null
+   },
+   "death": {
+    "text": "5 Mar 2008",
+    "year": 2008,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "mullet_iona"
+   ],
+   "children": [
+    "simons_penny"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mullet_iona+parker_ray_vivian"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Ogden, Weber County, Utah",
+    "Kennewick, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Iona Mullet (m. 13 May 1955, Kennewick, Benton County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Penny M. Simons, born 23 Mar 1958, Pasco); U.S., Newspapers.com Obituary Index (Ray V. Parker, born Ogden, Utah, died 5 Mar 2008, Tri-City Herald, 13 Mar 2008: parents John and Ruby Parker, children Ruby Keck and Penny Simons); Washington, U.S., Death Records, 1907-2017 (Ray V. Parker, 77, 5 Mar 2008, Benton County); Washington, U.S., Marriage Records, 1854-2013 (Ray Parker, 24, born 11 Oct 1930, and Iona Mullet, 13 May 1955, Kennewick)"
+   ],
+   "notes": [
+    "Penny's father: born 11 Oct 1930 at Ogden, Utah, son of John and Ruby Parker; married Iona Mullet at Kennewick on 13 May 1955; died 5 Mar 2008 in Benton County, aged 77, survived by daughters Ruby Keck and Penny Simons (marriage record; death record; Tri-City Herald obituary, 13 Mar 2008)."
+   ]
+  },
+  {
+   "id": "parsons_bessie_may",
+   "name": "Bessie May Parsons (Worley)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "12 Apr 1887",
+    "year": 1887,
+    "qualifier": null
+   },
+   "death": {
+    "text": "6 May 1974",
+    "year": 1974,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": true,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "worley_cecil_oran"
+   ],
+   "children": [
+    "worley_frances_lenora"
+   ],
+   "siblings": [],
+   "families": [
+    "F_parsons_bessie_may+worley_cecil_oran"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Monticello, Piatt County, Illinois",
+    "Kerr Township, Champaign County, Illinois",
+    "Gibson City, Ford County, Illinois"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1910 (Kerr Township, Champaign County, Illinois; Francis L. Worley, b. 1907, with parents Cecil O. and Bessie M. Worley; ark 1:1:MKH4-LGV)"
+   ],
+   "notes": [
+    "Frances's mother; at Kerr Township, Champaign County, in 1910 as Bessie M. Worley (1910 census). Ed Simons's tree gives her birth as 12 Apr 1887 at Monticello, Piatt County, and death as 6 May 1974 at Gibson City, Ford County, Illinois; UNPROVEN beyond the census."
+   ]
   },
   {
    "id": "parsons_stephen",
@@ -56615,6 +58003,68 @@
    ]
   },
   {
+   "id": "roper_cecil_a",
+   "name": "Cecil A. Roper (Mineer)",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "mineer_nelson_hobart"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_mineer_nelson_hobart+roper_cecil_a"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Nelson Hobart Mineer (m. 31 Dec 1950, Franklin County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Nelson H. Mineer, b. 1897, and Cecil A. Roper; licence 23 Dec 1950, married 31 Dec 1950, Franklin County; arks 1:1:QPM5-RR7L, QPMT-Q6B7)"
+   ],
+   "notes": [
+    "Second wife of Nelson Hobart Mineer; licence 23 Dec 1950, married 31 Dec 1950, Franklin County, Washington (county marriage record). Nothing else found."
+   ]
+  },
+  {
    "id": "rotter_richard",
    "name": "Richard Rotter",
    "aliases": [],
@@ -62598,8 +64048,12 @@
   },
   {
    "id": "simons_howard",
-   "name": "Howard Simons",
-   "aliases": [],
+   "name": "Byron Daniel Simons",
+   "aliases": [
+    "Howard Simons",
+    "Byron D. Simons",
+    "Byron Daniel \"Howard\" Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
@@ -62639,10 +64093,10 @@
     "simons_nancy"
    ],
    "children": [
+    "simons_sharon",
     "simons_steve",
     "simons_lynn",
     "simons_sandy",
-    "simons_sharon",
     "simons_judy"
    ],
    "siblings": [
@@ -62663,7 +64117,10 @@
    "locations": [
     "Lynden, Whatcom County, Washington",
     "Delta, Whatcom County, Washington",
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Custer, Whatcom County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Union County, Oregon"
    ],
    "personality": [],
    "roles": [],
@@ -62674,8 +64131,9 @@
    "risk_events": [],
    "milestones": [
     "Born 25 Dec 1925, Lynden, Whatcom Co, Washington",
-    "Died Sep 1973",
-    "Military: Howard enlisted in the military service, and only then learned that his legal name was Byron Daniel."
+    "Died 8 Sep 1973, Union County, Oregon",
+    "Military: Howard enlisted in the military service, and only then learned that his legal name was Byron Daniel.",
+    "Married Nancy Ann Mineer (m. 10 May 1947, Pasco, Franklin County, Washington)"
    ],
    "education": [
     "Howard Simons was an elementary school student of Amy Kulp and Alice Burk."
@@ -62686,12 +64144,17 @@
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
     "Ancestry.com, Washington, U.S., Death Records, 1907-2017",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Byron D. Simons, 21, and Nancy A. Mineer, 17, of Pekin, Illinois, mother Frances Mineer; licence 7 May 1947, married 10 May 1947, Pasco, Franklin County; arks 1:1:QPMP-D9PZ, QP9M-PX3S, QPMP-JTGC) and Ancestry.com, Washington, U.S., Marriage Records, 1854-2013",
+    "FamilySearch, United States Census, 1950 (Kennewick, Benton County, Washington; Byron D. and Nancy A. Simons with Sharon D. and Steven H.; ark 1:1:6X12-28HQ)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Byron Daniel Simons, b. 25 Dec 1925 \"Auster\" [Custer], Washington; residence Pasco, Franklin County; relative Ray Z. Simons)",
+    "Ancestry.com, Oregon, U.S., Death Index, 1898-2008 (Byron Dan Simons, 47, b. Dec 1925, d. 8 Sep 1973 Union County; spouse Nancy; certificate 73-15406); Washington, U.S., Death Records, 1907-2017 (Byron D. Simons, 8 Sep 1973); U.S., Headstone Applications for Military Veterans, 1861-1985 and Department of Veterans Affairs BIRLS Death File (25 Dec 1925 – 8 Sep 1973); Find a Grave index (born Custer, Whatcom County; died Union County, Oregon)"
    ],
    "notes": [
     "Known as Howard; legal name Byron Daniel Simons. Beryl's favorite brother. Previously referenced in prior sources as 'Byron Daniel Howard Simons.'",
     "His nephew John Howard Adams got his middle name from him and was fond of him. [John Howard Adams, A Memoir, text line 682]",
-    "Died 8 Sep 1973, as Byron D. Simons (Washington death records); Ed Simons's tree gives the place as Kennewick and his full name as Byron Daniel \"Howard\" Simons."
+    "Died 8 Sep 1973, aged 47: the Oregon death index records the death in Union County, Oregon (certificate 73-15406, spouse Nancy), Washington also indexed it, and Ed Simons's tree places it at Kennewick; a veteran, with a military headstone (Oregon and Washington death indexes; headstone application; Find a Grave).",
+    "His WWII draft card and Find a Grave give his birthplace as Custer, Whatcom County, rather than Lynden. Married Nancy Ann Mineer, 17, at Pasco on 10 May 1947 (licence 7 May), and was at Kennewick with her, Sharon and Steven in April 1950 (county marriage record; 1950 census)."
    ]
   },
   {
@@ -63065,18 +64528,20 @@
   },
   {
    "id": "simons_judy",
-   "name": "Judith “Judy” Simons (Doshier)",
+   "name": "Judith Ann Simons (Arbogast, Armatrout, Doshier)",
    "aliases": [
     "Judy Simons",
-    "Judith Doshier"
+    "Judith Doshier",
+    "Judith A. Armatrout",
+    "Judith Simons-Armatrout"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "26 Oct 1957",
+    "year": 1957,
     "qualifier": null
    },
    "death": {
@@ -63084,8 +64549,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -63106,16 +64571,23 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "doshier_doug"
+    "doshier_doug",
+    "arbogast_steven_lawrence",
+    "armatrout_jeffrey_f"
    ],
-   "children": [],
+   "children": [
+    "armatrout_chad_alan",
+    "armatrout_ryan_howard"
+   ],
    "siblings": [
+    "simons_sharon",
     "simons_steve",
     "simons_lynn",
-    "simons_sandy",
-    "simons_sharon"
+    "simons_sandy"
    ],
    "families": [
+    "F_arbogast_steven_lawrence+simons_judy",
+    "F_armatrout_jeffrey_f+simons_judy",
     "F_doshier_doug+simons_judy"
    ],
    "parent_family": "F_simons_howard+simons_nancy",
@@ -63123,25 +64595,40 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Columbia, South Carolina",
+    "Richland, Benton County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Steven Lawrence Arbogast (m. 21 Nov 1979, Kennewick, Benton County, Washington; div. 11 Dec 1980)",
+    "Married Jeffrey F. Armatrout (m. 28 May 1983, Benton County, Washington; div. 30 Aug 2002)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
     "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Records, 1987-2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Judith A. Simons, 22, born Washington, application 16 Nov 1979, married Steven L. Arbogast 21 Nov 1979, Kennewick; ref. cebenmarcert0014564) and Washington, U.S., Marriage Index, 1969-2017 (Judith A. Arbogast, née Simons, and Jeffrey F. Armatrout, 28 May 1983, Benton County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Judith A. Arbogast, née Simons, from Steven L. Arbogast, 11 Dec 1980, Benton County, no children, husband filed; Judith A. Armatrout, née Simons, from Jeffrey F. Armatrout, 30 Aug 2002, Benton County, two children)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019 (Judith A. Armatrout / Judith A. Doshier, born 26 Oct 1957: Kennewick 1992–94 and 1997–2018, Columbia, South Carolina 1986–2006, Barto, Pennsylvania, Richland 2019–20; 21804 S. Oak Street, Kennewick, shared with Douglas A. Doshier) and Phone and Address Directories, 1993-2002 (Judith and Jeffrey Armatrout, 4208 S. Neel Court, Kennewick, 1997–2002)",
+    "Ancestry.com, Washington, U.S., Newspapers.com Stories and Events Index (Judy Doshier, Tri-City Herald, 29 Jul 2008)",
+    "Ancestry.com, California Birth Index, 1905-1995 (Chad Alan Armatrout, 2 Jul 1984, Santa Barbara County, mother's maiden name Simons); Washington, U.S., Marriage Index, 1969-2017 (Chad A. Armatrout and Jana R. Manis, 12 Sep 2010, Benton County); public-records indexes (Kennewick 2005–20)",
+    "adams_dna_linkage_v1"
    ],
    "notes": [
-    "Probably her: Judith A. Simons married Steven L. Arbogast on 21 Nov 1979 in Benton County, and, as Judith A. Arbogast, Jeffrey F. Armatrout in 1983, also in Benton County (county marriage certificates). Neither record names her parents.",
-    "Lead: Ryan Howard Armatrout (married in Benton County, 2011) and Chad Alan Armatrout (married there in 2010) may be her sons with Jeffrey Armatrout; Ryan's middle name would honour her father, Howard. Not confirmed."
+    "Born 26 Oct 1957 at Pasco, the youngest of Howard and Nancy's five children (Ed Simons's tree; public-records index). Married Steven Lawrence Arbogast at Kennewick on 21 Nov 1979, aged 22, and divorced him in Benton County on 11 Dec 1980; married Jeffrey F. Armatrout in Benton County on 28 May 1983 and divorced him there on 30 Aug 2002, with two children (county marriage records; state marriage and divorce indexes).",
+    "With Jeffrey she lived in California (Chad was born in Santa Barbara County in 1984), Columbia, South Carolina, and Kennewick, at 4208 S. Neel Court from the 1990s. By July 2008 she was using the name Doshier, and she shared Douglas A. Doshier's Kennewick address; no marriage record has been found, though her mother's 2012 obituary calls them Judith and Doug Doshier (public-records and newspaper indexes; obituary).",
+    "DNA: she shares 4.23% with Brendan Adams on 23andMe, a first cousin once removed, and 28.44% with her uncle Glen Simons, which fits."
    ]
   },
   {
@@ -63680,15 +65167,17 @@
   },
   {
    "id": "simons_lynn",
-   "name": "Lynn Simons",
-   "aliases": [],
+   "name": "Lynn Allen Simons",
+   "aliases": [
+    "Lynn Simons"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "13 May 1953",
+    "year": 1953,
     "qualifier": null
    },
    "death": {
@@ -63696,8 +65185,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -63720,9 +65209,9 @@
    "spouses": [],
    "children": [],
    "siblings": [
+    "simons_sharon",
     "simons_steve",
     "simons_sandy",
-    "simons_sharon",
     "simons_judy"
    ],
    "families": [],
@@ -63731,7 +65220,11 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Vancouver, Clark County, Washington",
+    "La Verne, Los Angeles County, California"
    ],
    "personality": [],
    "roles": [],
@@ -63739,13 +65232,20 @@
    "notable_stories": [],
    "risk_events": [],
    "milestones": [],
-   "education": [],
+   "education": [
+    "Kennewick High School (yearbooks 1969, 1970)."
+   ],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Lynn Allen Simons, born 13 May 1953; Vancouver, Washington 1993) and U.S., Index to Public Records, 1994-2019 (La Verne and Walnut, California 1995–2002; 3923 W. 2nd Avenue, Kennewick 2001–20); FamilySearch, United States Public Records (Kennewick 2000–08)",
+    "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Lynn Simons, Kennewick High School, 1969 and 1970)"
    ],
-   "notes": []
+   "notes": [
+    "Born 13 May 1953 at Richland, the third of Howard and Nancy's five children (Ed Simons's tree; public-records index). At Kennewick High School in 1969–70; lived at Vancouver, Washington, in 1993 and at La Verne and Walnut, California, from 1995 to 2002, then back at Kennewick, next door to his sister Sandy on W. 2nd Avenue, from 2001 (yearbooks; public-records indexes). No marriage or children found in the Washington indexes."
+   ]
   },
   {
    "id": "simons_margie",
@@ -64122,9 +65622,12 @@
   },
   {
    "id": "simons_nancy",
-   "name": "Nancy A. Simons",
+   "name": "Nancy Ann Mineer (Simons)",
    "aliases": [
-    "Nancy Simons"
+    "Nancy Simons",
+    "Nancy A. Simons",
+    "Nancy Ann Simons",
+    "Nancy A. Mineer"
    ],
    "photo": null,
    "card_name": null,
@@ -64136,7 +65639,7 @@
     "qualifier": null
    },
    "death": {
-    "text": "Nov 2012",
+    "text": "17 Nov 2012",
     "year": 2012,
     "qualifier": null
    },
@@ -64147,9 +65650,12 @@
    "lineages": [],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "mineer_nelson_hobart",
+   "mother": "worley_frances_lenora",
+   "parents": [
+    "mineer_nelson_hobart",
+    "worley_frances_lenora"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -64158,42 +65664,59 @@
     "simons_howard"
    ],
    "children": [
+    "simons_sharon",
     "simons_steve",
     "simons_lynn",
     "simons_sandy",
-    "simons_sharon",
     "simons_judy"
    ],
-   "siblings": [],
+   "siblings": [
+    "mineer_lyle_hobart",
+    "mineer_dale_a",
+    "mineer_maragen_maxine"
+   ],
    "families": [
     "F_simons_howard+simons_nancy"
    ],
-   "parent_family": null,
+   "parent_family": "F_mineer_nelson_hobart+worley_frances_lenora",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Illinois",
     "Pasco, Washington",
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Urbana, Champaign County, Illinois",
+    "Richland, Benton County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Byron D. \"Howard\" Simons (m. 10 May 1947, Pasco, Franklin County, Washington)"
+   ],
    "education": [],
    "career": [
     "Life insurance agent from 1973 until she retired in 2008; the first woman president of the Washington State Association of Life Underwriters."
    ],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1940 (Urbana Township, Champaign County, Illinois, ED 10-79, sheet 17B; Hobart Mineer, 43, b. Kentucky, with Frances, 32, Lyle, 12, Nancy Ann, 10, Dale, 9, and Marajen, 5, all born Illinois, same house in 1935; ark 1:1:KWWD-H8P)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Nelson Hobart Mineer, 44, b. 9 Jun 1897 Burtonsville, Kentucky; registered 16 Feb 1942 at Urbana, Champaign County, Illinois; employer Corps of Engineers, Southwestern Proving Ground; next of kin Nancy Ann Mineer; 5 ft 5 in, 135 lb, brown hair and eyes; NARA St. Louis, RG 147, box 1228)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Byron D. Simons, 21, and Nancy A. Mineer, 17, of Pekin, Illinois, mother Frances Mineer; licence 7 May 1947, married 10 May 1947, Pasco, Franklin County; arks 1:1:QPMP-D9PZ, QP9M-PX3S, QPMP-JTGC) and Ancestry.com, Washington, U.S., Marriage Records, 1854-2013",
+    "FamilySearch, United States Census, 1950 (Kennewick, Benton County, Washington; Byron D. and Nancy A. Simons with Sharon D. and Steven H.; ark 1:1:6X12-28HQ)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Nancy A. Simons, abt 1929, d. 17 Nov 2012, Benton County); U.S., Obituary Collection (Nancy A. Simons, born Urbana, Illinois, died 17 Nov 2012 Richland, of Kennewick); Find a Grave index (Nancy Ann Simons, 14 Oct 1929 – 17 Nov 2012)",
+    "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Nancy Mineer, Richland, Washington, 1946)",
+    "Find a Grave, memorial 11087804 (Nelson Hobart Mineer, 9 Jun 1897 – 11 Feb 1959, Resthaven Cemetery, Richland; parents Maxwell Taylor and Sarah Elizabeth Mineer; spouse Frances Lenora; children Dale A. Mineer, Maragen Maxine Wright, Nancy Ann Simons), via the Ancestry.com Find a Grave index"
    ],
    "notes": [
-    "Wife of Howard (Byron Daniel) Simons. Born 14 Oct 1929 in Illinois; her family came to the Tri-Cities in 1943 with the Hanford project. She and Howard farmed raw land north of Pasco for ten years and moved to Kennewick in 1960. She died in Nov 2012. Her brother was Lyle Mineer of Richland, so her birth surname was probably Mineer.",
-    "At her death she had 11 grandchildren and 9 great-grandchildren, not named in her obituary."
+    "Born 14 Oct 1929 in Illinois, the second of the four children of Nelson Hobart Mineer and Frances Lenora Worley; her obituary and death notices say Urbana, her 1947 marriage record Pekin, and Ed Simons's tree \"plaria\" (Peoria), all Illinois. She was ten in her parents' household at Urbana Township, Champaign County, in 1940, and was the next of kin her father named when he registered for the draft at Urbana in February 1942 (1940 census; WWII draft card).",
+    "At her death she had 11 grandchildren and 9 great-grandchildren, not named in her obituary.",
+    "Her family came to the Tri-Cities in 1943 with the Hanford project; she was at Richland (Columbia) High School in 1946 (yearbook), and on 10 May 1947 at Pasco, aged 17, she married Byron D. \"Howard\" Simons, 21, the licence naming her mother Frances Mineer (county marriage records; obituary). She and Howard farmed raw land north of Pasco for ten years and moved to Kennewick in 1960; in April 1950 they were at Kennewick with Sharon and Steven (1950 census).",
+    "She died on 17 Nov 2012 at Richland, of Kennewick, aged 83 (Washington death record; obituary; Find a Grave)."
    ]
   },
   {
@@ -64455,17 +65978,18 @@
   },
   {
    "id": "simons_penny",
-   "name": "Penny M. Parker (Simons)",
+   "name": "Penny Marie Parker (Simons)",
    "aliases": [
-    "Penny Simons"
+    "Penny Simons",
+    "Penny M. Simons"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "23 Mar 1958",
+    "year": 1958,
     "qualifier": null
    },
    "death": {
@@ -64473,16 +65997,19 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
    "adopted": false,
    "unproven": false,
-   "father": null,
-   "mother": null,
-   "parents": [],
+   "father": "parker_ray_vivian",
+   "mother": "mullet_iona",
+   "parents": [
+    "mullet_iona",
+    "parker_ray_vivian"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -64495,28 +66022,36 @@
    "families": [
     "F_simons_penny+simons_steve"
    ],
-   "parent_family": null,
+   "parent_family": "F_mullet_iona+parker_ray_vivian",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Kennewick, Benton County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Issaquah, King County, Washington",
+    "Sequim, Clallam County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
    "milestones": [
-    "Married Steve H. Simons (m. 31 Dec 1977)"
+    "Married Steven Howard Simons (m. 31 Dec 1977, Kennewick, Benton County, Washington)"
    ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Steve H. Simons, 28, born Richland, and Penny M. Parker; application 23 Dec 1977, married 31 Dec 1977, Kennewick; ref. cebenmarcert0013847) and Washington, U.S., Marriage Index, 1969-2017; U.S., Newspapers.com Marriage Index (Tri-City Herald, 15 Jan 1978: Steve Howard Simons of Kennewick, carpenter, son of Nancy Simons, and Penny Marie Parker of Kennewick, daughter of Ray Parker)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Penny M. Simons, born 23 Mar 1958, Pasco); U.S., Newspapers.com Obituary Index (Ray V. Parker, born Ogden, Utah, died 5 Mar 2008, Tri-City Herald, 13 Mar 2008: parents John and Ruby Parker, children Ruby Keck and Penny Simons); Washington, U.S., Death Records, 1907-2017 (Ray V. Parker, 77, 5 Mar 2008, Benton County); Washington, U.S., Marriage Records, 1854-2013 (Ray Parker, 24, born 11 Oct 1930, and Iona Mullet, 13 May 1955, Kennewick)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and Index to Public Records, 1994-2019 (Steve H. Simons Sr., born 24 Oct 1949: 704 N. 43rd Way, Pasco, with Penny M. Simons; Issaquah 1987–2005; 4138 E. Sequim Bay Road, Sequim 2004–20)"
    ],
    "notes": [
-    "Wife of Steve Simons.",
-    "Born Penny M. Parker; she married Steve H. Simons on 31 Dec 1977 in Benton County, Washington."
+    "Born 23 Mar 1958 at Kennewick, daughter of Ray Vivian Parker and Iona Mullet; working at the Persian Palace, Kennewick, when she married Steve Howard Simons there on 31 Dec 1977 (Tri-City Herald, 15 Jan 1978; county marriage record; her father's 2008 obituary). With Steve at Pasco, Issaquah and Sequim (public-records indexes)."
    ]
   },
   {
@@ -65034,18 +66569,19 @@
   },
   {
    "id": "simons_sandy",
-   "name": "Sandy Simons (Warner)",
+   "name": "Sandra Lee Simons (Warner)",
    "aliases": [
     "Sandy Simons",
-    "Sandy Warner"
+    "Sandy Warner",
+    "Sandra Lee Warner"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "6 Dec 1955",
+    "year": 1955,
     "qualifier": null
    },
    "death": {
@@ -65053,8 +66589,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -65079,9 +66615,9 @@
    ],
    "children": [],
    "siblings": [
+    "simons_sharon",
     "simons_steve",
     "simons_lynn",
-    "simons_sharon",
     "simons_judy"
    ],
    "families": [
@@ -65092,21 +66628,31 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Vancouver, Clark County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Marc George Warner (m. 2 Jun 1979, Kennewick, Benton County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sandra Lee Simons, 23, born Pasco, and Marc George Warner, 25, born Richland; application 22 May 1979, Whatcom County, married 2 Jun 1979, recorded 8 Jun 1979, ref. nwwtcmcv79_416) and Washington, U.S., Marriage Index, 1969-2017 (2 Jun 1979, Benton County); U.S., Newspapers.com Marriage Index (Tri-City Herald, 8 Jul 1979: Sandra Lee Simons and Marc Warner of Bellingham, married 2 Jun 1979, Kennewick; Bellingham Herald, 1 Jun 1979)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Sandra L. Simons, born 6 Dec 1955, 3921 W. 2nd Avenue, Kennewick) and U.S., Index to Public Records, 1994-2019 (Sandra Lee and Marc G. Warner: Vancouver, Washington 1981–2000; Kennewick from 1990)"
    ],
-   "notes": []
+   "notes": [
+    "Born 6 Dec 1955 at Pasco, the fourth of Howard and Nancy's five children (Ed Simons's tree; public-records index). Married Marc George Warner of Bellingham on 2 Jun 1979; the licence was taken out in Whatcom County on 22 May and the Tri-City Herald reported the wedding at Kennewick (county marriage records; marriage index; newspaper index). They lived at Vancouver, Washington, in the 1980s and 1990s and then at Kennewick, where they were in 2012 (public-records indexes; her mother's obituary)."
+   ]
   },
   {
    "id": "simons_sarah_1844",
@@ -65208,18 +66754,22 @@
   },
   {
    "id": "simons_sharon",
-   "name": "Sharon Simons (Thompson)",
+   "name": "Sharon Dee Simons (Hofman, Ezelle, Harris, Thompson)",
    "aliases": [
     "Sharon Simons",
-    "Sharon Thompson"
+    "Sharon Thompson",
+    "Sharon Hofman",
+    "Sharon Ezelle",
+    "Sharon Harris",
+    "Sharon D. Thompson"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "20 Aug 1947",
+    "year": 1947,
     "qualifier": null
    },
    "death": {
@@ -65227,8 +66777,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -65249,7 +66799,10 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "thompson_alan"
+    "thompson_alan",
+    "hofman_karl_d",
+    "ezelle_glenn_dean_jr",
+    "harris_james_g"
    ],
    "children": [],
    "siblings": [
@@ -65259,6 +66812,9 @@
     "simons_judy"
    ],
    "families": [
+    "F_ezelle_glenn_dean_jr+simons_sharon",
+    "F_harris_james_g+simons_sharon",
+    "F_hofman_karl_d+simons_sharon",
     "F_simons_sharon+thompson_alan"
    ],
    "parent_family": "F_simons_howard+simons_nancy",
@@ -65266,26 +66822,47 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Camas, Washington"
+    "Camas, Washington",
+    "Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Pendleton, Umatilla County, Oregon",
+    "Lake Oswego, Clackamas County, Oregon",
+    "Vancouver, Clark County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
-   "education": [],
+   "milestones": [
+    "Married Karl D. Hofman (m. 22 Mar 1965, Lewiston, Nez Perce County, Idaho; div. 19 Oct 1970)",
+    "Married Glenn Dean Ezelle Jr. (m. 10 May 1975, Kennewick, Benton County, Washington)",
+    "Married James G. Harris (m. 23 Jul 1994, Benton County, Washington)",
+    "Married Alan R. Thompson (m. 22 May 2004, Clark County, Washington)"
+   ],
+   "education": [
+    "Kennewick High School, class of 1965 (yearbooks 1963–65)."
+   ],
    "career": [],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "Family research emails, 2011–2013 (John and Barbara Adams with Irma Kulp Zacher, George F. Adams, Bill Allen and others)",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1950 (Kennewick, Benton County, Washington; Byron D. and Nancy A. Simons with Sharon D. and Steven H.; ark 1:1:6X12-28HQ)",
+    "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Sharon Dee Simons, Kennewick High School, 1963–65; senior, gown committee, 1965)",
+    "Ancestry.com, Idaho, U.S., Marriage Records, 1863-1974 (Sharon Dee Simons and Karl D. Hofman, 22 Mar 1965, Nez Perce County, certificate 2299); U.S., Newspapers.com Marriage Index (Tri-City Herald, 25 Apr 1965: Sharon Simons, daughter of Howard Simons, married Karl Hofman at Lewiston); Washington, U.S., Divorce Records, 1968-2017 (Sharon D. Hofman, née Simons, from Karl D. Hofman, 19 Oct 1970, Clark County, one child, wife filed)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sharon Dee Hofman, 27, born 20 Aug 1947, and Glenn Dean Ezelle, 10 May 1975, licence Franklin County) and Washington, U.S., Marriage Index, 1969-2017 (10 May 1975, Benton County); U.S., Newspapers.com Marriage Index (Tri-City Herald, 13 Apr 1975 engagement: Glenn Ezelle Jr., North Coast Electric, son of Glenn Ezelle and Jerry West; 1 Jun 1975 wedding: Sharon Hofman, daughter of B. H. Simons, of Pendleton, siblings Steve, Lynn and Sandra); U.S., Newspapers.com Birth Index (Glenn Dean Ezelle Jr., born Jul 1951, Encino, Van Nuys News, 9 Aug 1951)",
+    "Ancestry.com, Washington, U.S., Marriage Index, 1969-2017 (Sharon D. Hofman, née Simons, and Jas. G. Harris, 23 Jul 1994, Benton County)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sharon D. Harris, 56, born 20 Aug 1947 Richland, and Alan R. Thompson, born 8 Sep 1947 Astoria, Oregon; application 13 May 2004, Clark County) and Washington, U.S., Marriage Index, 1969-2017 (22 May 2004, Clark County); U.S., Newspapers.com Marriage Index (The Columbian, 15 May 2004: Sharon D. Harris, 56, of Vancouver, and Alan R. Thompson of Camas)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Sharon Ezelle, born 20 Aug 1947, Pasco; Sharon D. Hofman, Bend and Portland, Oregon, 1993) and U.S., Index to Public Records, 1994-2019 (Sharon D. Thompson, also Ezelle and Harris: Lake Oswego, Oregon 1982–2000; Vancouver 1999–2005; 24407 NE 14th Street, Camas 1991–2020; Alan R. Thompson, Camas 1991–2020)"
    ],
    "notes": [
     "Listed among the Simons family researchers in the Adams direct-line notes. Not the same person as Barbara McKeldin Adams's cousin Sharon.",
-    "Unconfirmed: Sharon Simons uses the married surname Thompson and planned to visit Nancy in the Tri-Cities in 2011. [Family research emails, email 43]",
-    "Unconfirmed: Sharon, apparently a Simons cousin, writes under the married surname Thompson and calls Elaine Simons her aunt. [Family research emails, email 34]",
-    "Lead: a Sharon L. Simons married Forrest C. Gill in 1973 in Clark County, where Camas is; not confirmed as her."
+    "Born 20 Aug 1947 at Richland, the eldest of Howard and Nancy's five children; two years old with them at Kennewick in April 1950; at Kennewick High School 1963–65 (Ed Simons's tree; 1950 census; yearbooks).",
+    "Married four times: Karl D. Hofman, a Kennewick classmate, at Lewiston, Idaho, on 22 Mar 1965, divorced in Clark County on 19 Oct 1970 with one child; Glenn Dean Ezelle Jr. on 10 May 1975 at Kennewick, when she was living at Pendleton, Oregon; James G. Harris in Benton County on 23 Jul 1994; and Alan R. Thompson, born 8 Sep 1947 at Astoria, Oregon, in Clark County on 22 May 2004 (Idaho and Washington marriage records; divorce index; Tri-City Herald and Columbian notices). She lived at Lake Oswego, Oregon, from 1982 and at Camas, Washington, with Alan Thompson from 2004; \"Sharon Thompson (Alan) of Camas\" in her mother's 2012 obituary (public-records indexes). The Hofman child has not been identified.",
+    "She corresponded with John and Barbara Adams in 2011–13 as Sharon Thompson, calling Elaine Simons her aunt, and planned to visit Nancy in the Tri-Cities in 2011 [Family research emails, emails 34 and 43]."
    ]
   },
   {
@@ -65356,17 +66933,19 @@
   },
   {
    "id": "simons_steve",
-   "name": "Steve Simons",
+   "name": "Steven Howard Simons",
    "aliases": [
-    "Steve H. Simons"
+    "Steve H. Simons",
+    "Steve Simons",
+    "Steve H. Simons Sr."
    ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "24 Oct 1949",
+    "year": 1949,
     "qualifier": null
    },
    "death": {
@@ -65374,8 +66953,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": "assumed",
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": false,
    "lineages": [
@@ -65396,16 +66975,20 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [
-    "simons_penny"
+    "simons_penny",
+    "oldridge_catherine_ann"
    ],
-   "children": [],
+   "children": [
+    "dundon_rhonda"
+   ],
    "siblings": [
+    "simons_sharon",
     "simons_lynn",
     "simons_sandy",
-    "simons_sharon",
     "simons_judy"
    ],
    "families": [
+    "F_oldridge_catherine_ann+simons_steve",
     "F_simons_penny+simons_steve"
    ],
    "parent_family": "F_simons_howard+simons_nancy",
@@ -65413,7 +66996,12 @@
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Sequim, Washington"
+    "Sequim, Washington",
+    "Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Issaquah, King County, Washington",
+    "Sequim, Clallam County, Washington"
    ],
    "personality": [],
    "roles": [],
@@ -65423,18 +67011,32 @@
    ],
    "risk_events": [],
    "milestones": [
-    "Married Penny M. Parker (m. 31 Dec 1977)"
+    "Married Penny Marie Parker (m. 31 Dec 1977, Kennewick, Benton County, Washington)",
+    "Married Catherine Ann Oldridge (m. 4 Oct 1968, Kennewick, Benton County, Washington; div. 14 May 1971)"
    ],
-   "education": [],
-   "career": [],
+   "education": [
+    "Kennewick High School, 1967 (yearbook, Ed Simons's tree)."
+   ],
+   "career": [
+    "Carpenter (1978)."
+   ],
    "sources": [
     "Brendan Adams, 2026-09-22",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
     "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Newspapers.com Birth Index, 1800s-2005 (son born to Byron Simons, 24 Oct 1949, Tri-City Herald, 27 Oct 1949)",
+    "FamilySearch, United States Census, 1950 (Kennewick, Benton County, Washington; Byron D. and Nancy A. Simons with Sharon D. and Steven H.; ark 1:1:6X12-28HQ)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Steven Simons, 18, born Richland, and Catherine Oldridge, 18, born Walla Walla, 11 Nov 1949; application 27 Sep 1968, married 4 Oct 1968, Kennewick, recorded Franklin County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Steve H. Simons and Catherine A. Simons, née Oldridge, 14 May 1971, Franklin County, one child, wife filed)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Steve H. Simons, 28, born Richland, and Penny M. Parker; application 23 Dec 1977, married 31 Dec 1977, Kennewick; ref. cebenmarcert0013847) and Washington, U.S., Marriage Index, 1969-2017; U.S., Newspapers.com Marriage Index (Tri-City Herald, 15 Jan 1978: Steve Howard Simons of Kennewick, carpenter, son of Nancy Simons, and Penny Marie Parker of Kennewick, daughter of Ray Parker)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and Index to Public Records, 1994-2019 (Steve H. Simons Sr., born 24 Oct 1949: 704 N. 43rd Way, Pasco, with Penny M. Simons; Issaquah 1987–2005; 4138 E. Sequim Bay Road, Sequim 2004–20)"
    ],
    "notes": [
-    "Cousin of John Howard Adams; his memoir recalls Steve driving a pickup at age 9 or 10. Listed among the Simons family researchers in the Adams direct-line notes."
+    "Cousin of John Howard Adams; his memoir recalls Steve driving a pickup at age 9 or 10. Listed among the Simons family researchers in the Adams direct-line notes.",
+    "Born 24 Oct 1949 at Richland, the second child and elder son of Howard and Nancy; his birth was announced in the Tri-City Herald on 27 Oct 1949, and he was at Kennewick with his parents and sister Sharon in April 1950 (birth index; 1950 census).",
+    "Married Catherine Ann Oldridge, both 18, at Kennewick on 4 Oct 1968; their daughter Rhonda Jean was born on 2 Feb 1969; Catherine filed for divorce in Franklin County, granted 14 May 1971 (county marriage record; divorce index). Married Penny Marie Parker at Kennewick on 31 Dec 1977, when he was a carpenter of Kennewick; they lived at Pasco, then Issaquah from 1987, and at Sequim from 2004 (marriage records; Tri-City Herald, 15 Jan 1978; public-records indexes)."
    ]
   },
   {
@@ -69392,15 +70994,17 @@
   },
   {
    "id": "thompson_alan",
-   "name": "Alan Thompson",
-   "aliases": [],
+   "name": "Alan R. Thompson",
+   "aliases": [
+    "Alan Thompson"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "8 Sep 1947",
+    "year": 1947,
     "qualifier": null
    },
    "death": {
@@ -69408,8 +71012,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -69434,20 +71038,27 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Astoria, Clatsop County, Oregon",
+    "Camas, Clark County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Sharon Dee Simons (m. 22 May 2004, Clark County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sharon D. Harris, 56, born 20 Aug 1947 Richland, and Alan R. Thompson, born 8 Sep 1947 Astoria, Oregon; application 13 May 2004, Clark County) and Washington, U.S., Marriage Index, 1969-2017 (22 May 2004, Clark County); U.S., Newspapers.com Marriage Index (The Columbian, 15 May 2004: Sharon D. Harris, 56, of Vancouver, and Alan R. Thompson of Camas)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Sharon Ezelle, born 20 Aug 1947, Pasco; Sharon D. Hofman, Bend and Portland, Oregon, 1993) and U.S., Index to Public Records, 1994-2019 (Sharon D. Thompson, also Ezelle and Harris: Lake Oswego, Oregon 1982–2000; Vancouver 1999–2005; 24407 NE 14th Street, Camas 1991–2020; Alan R. Thompson, Camas 1991–2020)"
    ],
    "notes": [
-    "Husband of Sharon (Simons) Thompson, of Camas, Washington (2012)."
+    "Born 8 Sep 1947 at Astoria, Oregon; of Camas, Washington, from 1991, where he married Sharon D. Harris, née Simons, on 22 May 2004 in Clark County (marriage record; The Columbian, 15 May 2004; public-records index); \"Alan\" in Nancy Simons's 2012 obituary."
    ]
   },
   {
@@ -72447,15 +74058,17 @@
   },
   {
    "id": "warner_marc",
-   "name": "Marc Warner",
-   "aliases": [],
+   "name": "Marc George Warner",
+   "aliases": [
+    "Marc Warner"
+   ],
    "photo": null,
    "card_name": null,
    "sex": "M",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "1 Dec 1954",
+    "year": 1954,
     "qualifier": null
    },
    "death": {
@@ -72463,8 +74076,8 @@
     "year": null,
     "qualifier": null
    },
-   "living": false,
-   "living_status": null,
+   "living": true,
+   "living_status": "living",
    "branch": "simons",
    "branch_by_marriage": true,
    "lineages": [],
@@ -72489,20 +74102,30 @@
    "connected": true,
    "dna_match": false,
    "priority": "normal",
-   "locations": [],
+   "locations": [
+    "Richland, Benton County, Washington",
+    "Bellingham, Whatcom County, Washington",
+    "Vancouver, Clark County, Washington",
+    "Kennewick, Benton County, Washington"
+   ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Sandra Lee Simons (m. 2 Jun 1979, Kennewick, Benton County, Washington)"
+   ],
    "education": [],
    "career": [],
    "sources": [
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sandra Lee Simons, 23, born Pasco, and Marc George Warner, 25, born Richland; application 22 May 1979, Whatcom County, married 2 Jun 1979, recorded 8 Jun 1979, ref. nwwtcmcv79_416) and Washington, U.S., Marriage Index, 1969-2017 (2 Jun 1979, Benton County); U.S., Newspapers.com Marriage Index (Tri-City Herald, 8 Jul 1979: Sandra Lee Simons and Marc Warner of Bellingham, married 2 Jun 1979, Kennewick; Bellingham Herald, 1 Jun 1979)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Sandra L. Simons, born 6 Dec 1955, 3921 W. 2nd Avenue, Kennewick) and U.S., Index to Public Records, 1994-2019 (Sandra Lee and Marc G. Warner: Vancouver, Washington 1981–2000; Kennewick from 1990)",
+    "FamilySearch, United States Public Records, 1970-2009 (Marc George Warner, born 1 Dec 1954; ark 1:1:2M8X-2WC) and United States Obituary Records, 2014-2023 (Bernadine \"Bernie\" Warner, 2 Jan 1921 – 22 Jan 2021, Kennewick; Tri-City Herald, 27 Jan 2021; survivors include Marc and Sandy Warner)"
    ],
    "notes": [
-    "Husband of Sandy (Simons) Warner, of Kennewick (2012)."
+    "Born 1 Dec 1954 at Richland, son of Keith Warner and Bernadine \"Bernie\" Warner (1921–2021, of Kennewick); a motel manager at Bellingham when he married Sandra Lee Simons on 2 Jun 1979; of Vancouver, Washington, and then Kennewick (marriage records; public-records index; his mother's obituary)."
    ]
   },
   {
@@ -75083,6 +76706,159 @@
    ]
   },
   {
+   "id": "worley_cecil_oran",
+   "name": "Cecil Oran Worley",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "23 Jan 1888",
+    "year": 1888,
+    "qualifier": null
+   },
+   "death": {
+    "text": "16 Dec 1943",
+    "year": 1943,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": true,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "parsons_bessie_may"
+   ],
+   "children": [
+    "worley_frances_lenora"
+   ],
+   "siblings": [],
+   "families": [
+    "F_parsons_bessie_may+worley_cecil_oran"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "St. Joseph, Champaign County, Illinois",
+    "Kerr Township, Champaign County, Illinois",
+    "Button, Ford County, Illinois"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1910 (Kerr Township, Champaign County, Illinois; Francis L. Worley, b. 1907, with parents Cecil O. and Bessie M. Worley; ark 1:1:MKH4-LGV)"
+   ],
+   "notes": [
+    "Frances's father; at Kerr Township, Champaign County, Illinois, in 1910 with his wife Bessie M. and daughter Francis L. (1910 census). Ed Simons's tree gives his birth as 23 Jan 1888 at St. Joseph, Champaign County, and death as 16 Dec 1943 at Button, Ford County, and his parents as Urias Grant Worley (1865–1930, born Tippecanoe, Indiana) and Lenora \"Nora\" Haley (1867–1940, of Champaign); UNPROVEN beyond the census."
+   ]
+  },
+  {
+   "id": "worley_frances_lenora",
+   "name": "Frances Lenora Worley (Mineer)",
+   "aliases": [
+    "Frances L. Mineer",
+    "Frances Lenore Worley"
+   ],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "16 Jul 1907",
+    "year": 1907,
+    "qualifier": null
+   },
+   "death": {
+    "text": "10 Mar 1989",
+    "year": 1989,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": null,
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "worley_cecil_oran",
+   "mother": "parsons_bessie_may",
+   "parents": [
+    "parsons_bessie_may",
+    "worley_cecil_oran"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "mineer_nelson_hobart"
+   ],
+   "children": [
+    "mineer_lyle_hobart",
+    "simons_nancy",
+    "mineer_dale_a",
+    "mineer_maragen_maxine"
+   ],
+   "siblings": [],
+   "families": [
+    "F_mineer_nelson_hobart+worley_frances_lenora"
+   ],
+   "parent_family": "F_parsons_bessie_may+worley_cecil_oran",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kerr Township, Champaign County, Illinois",
+    "Urbana, Champaign County, Illinois",
+    "Pasco, Franklin County, Washington",
+    "Kennewick, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Nelson Hobart Mineer (m. abt 1926, Illinois)"
+   ],
+   "education": [],
+   "career": [
+    "Farmer, Franklin County, Washington (1950)."
+   ],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1910 (Kerr Township, Champaign County, Illinois; Francis L. Worley, b. 1907, with parents Cecil O. and Bessie M. Worley; ark 1:1:MKH4-LGV)",
+    "FamilySearch, United States Census, 1940 (Urbana Township, Champaign County, Illinois, ED 10-79, sheet 17B; Hobart Mineer, 43, b. Kentucky, with Frances, 32, Lyle, 12, Nancy Ann, 10, Dale, 9, and Marajen, 5, all born Illinois, same house in 1935; ark 1:1:KWWD-H8P)",
+    "FamilySearch, United States Census, 1950 (Franklin County, Washington; Frances Mineer, 40, b. Illinois, divorced, farmer, head, with Marajan M., 14; ark 1:1:6X1Z-C1WV)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Frances L. Mineer, abt 1908, d. 10 Mar 1989 Kennewick, resident of Pasco, Franklin County); U.S. Social Security Death Index (16 Jul 1907 – Mar 1989); Newspapers.com obituary index (born Urbana, Illinois)",
+    "Find a Grave, memorial 280643628 (Frances Lenora Mineer, née Worley, 16 Jul 1907 Illinois – 10 Mar 1989 Kennewick, Desert Lawn Memorial Park, Kennewick), via the Ancestry.com Find a Grave index"
+   ],
+   "notes": [
+    "Born 16 Jul 1907 in Illinois (Urbana, by her obituary), daughter of Cecil Oran Worley and Bessie May Parsons, with whom she was at Kerr Township, Champaign County, in 1910 (census; Social Security index). Married Nelson Hobart Mineer about 1926 and had Lyle, Nancy, Dale and Maragen; at Urbana Township in 1940.",
+    "Divorced by April 1950, when she was farming in Franklin County, Washington, with her daughter Marajen, 14 (1950 census). She died at Kennewick on 10 Mar 1989, a resident of Pasco, aged 81, and is buried at Desert Lawn Memorial Park, Kennewick (Washington death record; Find a Grave)."
+   ]
+  },
+  {
    "id": "worman_curtis",
    "name": "Curtis Worman",
    "aliases": [],
@@ -77406,6 +79182,27 @@
    "marriage": null
   },
   {
+   "id": "F_arbogast_steven_lawrence+simons_judy",
+   "partners": [
+    "arbogast_steven_lawrence",
+    "simons_judy"
+   ],
+   "children": [],
+   "marriage": "21 Nov 1979, Kennewick, Benton County, Washington; div. 11 Dec 1980"
+  },
+  {
+   "id": "F_armatrout_jeffrey_f+simons_judy",
+   "partners": [
+    "armatrout_jeffrey_f",
+    "simons_judy"
+   ],
+   "children": [
+    "armatrout_chad_alan",
+    "armatrout_ryan_howard"
+   ],
+   "marriage": "28 May 1983, Benton County, Washington; div. 30 Aug 2002"
+  },
+  {
    "id": "F_baker_walter+hamilton_jacobina",
    "partners": [
     "baker_walter",
@@ -77986,6 +79783,17 @@
    "marriage": "17 Jun 1972"
   },
   {
+   "id": "F_dale_sarah_elizabeth+mineer_maxwell_taylor",
+   "partners": [
+    "dale_sarah_elizabeth",
+    "mineer_maxwell_taylor"
+   ],
+   "children": [
+    "mineer_nelson_hobart"
+   ],
+   "marriage": "1884, Kentucky"
+  },
+  {
    "id": "F_davis_samuel_g+rogers_rebecca",
    "partners": [
     "davis_samuel_g",
@@ -78159,6 +79967,18 @@
    "marriage": null
   },
   {
+   "id": "F_dickens_michael_robert+dundon_rhonda",
+   "partners": [
+    "dickens_michael_robert",
+    "dundon_rhonda"
+   ],
+   "children": [
+    "dickens_leif_jeann",
+    "dickens_samantha_grace"
+   ],
+   "marriage": "20 Feb 2000, Las Vegas, Clark County, Nevada; div. 23 Nov 2005"
+  },
+  {
    "id": "F_dickpeddie_daisy+vangorden_harry_fletcher",
    "partners": [
     "dickpeddie_daisy",
@@ -78221,7 +80041,7 @@
     "simons_judy"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "4 Feb 1989, Benton County, Washington; div. 4 Mar 2004"
   },
   {
    "id": "F_douglas_elizabeth+hamilton_gavin_d1814",
@@ -78333,6 +80153,15 @@
     "schriefer_george_jr"
    ],
    "marriage": "12 Jul 1920"
+  },
+  {
+   "id": "F_ezelle_glenn_dean_jr+simons_sharon",
+   "partners": [
+    "ezelle_glenn_dean_jr",
+    "simons_sharon"
+   ],
+   "children": [],
+   "marriage": "10 May 1975, Kennewick, Benton County, Washington"
   },
   {
    "id": "F_falde_conrad+whalen_gertrude_lillian",
@@ -79088,6 +80917,15 @@
    "marriage": null
   },
   {
+   "id": "F_harris_james_g+simons_sharon",
+   "partners": [
+    "harris_james_g",
+    "simons_sharon"
+   ],
+   "children": [],
+   "marriage": "23 Jul 1994, Benton County, Washington"
+  },
+  {
    "id": "F_hart_clarence+rogers_merl",
    "partners": [
     "hart_clarence",
@@ -79128,6 +80966,15 @@
    ],
    "children": [],
    "marriage": null
+  },
+  {
+   "id": "F_hofman_karl_d+simons_sharon",
+   "partners": [
+    "hofman_karl_d",
+    "simons_sharon"
+   ],
+   "children": [],
+   "marriage": "22 Mar 1965, Lewiston, Nez Perce County, Idaho; div. 19 Oct 1970"
   },
   {
    "id": "F_hogan_joan_patricia+quinn_john_jr",
@@ -79783,6 +81630,29 @@
    "marriage": null
   },
   {
+   "id": "F_mineer_nelson_hobart+roper_cecil_a",
+   "partners": [
+    "mineer_nelson_hobart",
+    "roper_cecil_a"
+   ],
+   "children": [],
+   "marriage": "31 Dec 1950, Franklin County, Washington"
+  },
+  {
+   "id": "F_mineer_nelson_hobart+worley_frances_lenora",
+   "partners": [
+    "mineer_nelson_hobart",
+    "worley_frances_lenora"
+   ],
+   "children": [
+    "mineer_lyle_hobart",
+    "simons_nancy",
+    "mineer_dale_a",
+    "mineer_maragen_maxine"
+   ],
+   "marriage": "abt 1926, Illinois"
+  },
+  {
    "id": "F_mooney_sarah+quin_james_mcgeer",
    "partners": [
     "mooney_sarah",
@@ -79795,6 +81665,17 @@
     "quinn_john_joseph_1858"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_mullet_iona+parker_ray_vivian",
+   "partners": [
+    "mullet_iona",
+    "parker_ray_vivian"
+   ],
+   "children": [
+    "simons_penny"
+   ],
+   "marriage": "13 May 1955, Kennewick, Benton County, Washington"
   },
   {
    "id": "F_noyes_forest+simons_bertha",
@@ -79825,6 +81706,17 @@
     "odell_louise"
    ],
    "marriage": null
+  },
+  {
+   "id": "F_oldridge_catherine_ann+simons_steve",
+   "partners": [
+    "oldridge_catherine_ann",
+    "simons_steve"
+   ],
+   "children": [
+    "dundon_rhonda"
+   ],
+   "marriage": "4 Oct 1968, Kennewick, Benton County, Washington; div. 14 May 1971"
   },
   {
    "id": "F_olson_bonnie+olson_tom",
@@ -79909,6 +81801,17 @@
     "urbach_phillip_owen"
    ],
    "marriage": "16 May 1921"
+  },
+  {
+   "id": "F_parsons_bessie_may+worley_cecil_oran",
+   "partners": [
+    "parsons_bessie_may",
+    "worley_cecil_oran"
+   ],
+   "children": [
+    "worley_frances_lenora"
+   ],
+   "marriage": null
   },
   {
    "id": "F_parsons_stephen+simons_olive_catherine",
@@ -80366,13 +82269,13 @@
     "simons_nancy"
    ],
    "children": [
+    "simons_sharon",
     "simons_steve",
     "simons_lynn",
     "simons_sandy",
-    "simons_sharon",
     "simons_judy"
    ],
-   "marriage": null
+   "marriage": "10 May 1947, Pasco, Franklin County, Washington"
   },
   {
    "id": "F_simons_irene+simons_orval_keith",
@@ -80449,7 +82352,7 @@
     "simons_steve"
    ],
    "children": [],
-   "marriage": "31 Dec 1977"
+   "marriage": "31 Dec 1977, Kennewick, Benton County, Washington"
   },
   {
    "id": "F_simons_richard+turnipseed_mary_a",
@@ -80481,7 +82384,7 @@
     "warner_marc"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "2 Jun 1979, Kennewick, Benton County, Washington"
   },
   {
    "id": "F_simons_sharon+thompson_alan",
@@ -80490,7 +82393,7 @@
     "thompson_alan"
    ],
    "children": [],
-   "marriage": null
+   "marriage": "22 May 2004, Clark County, Washington"
   },
   {
    "id": "F_simpson_mary+young_john",

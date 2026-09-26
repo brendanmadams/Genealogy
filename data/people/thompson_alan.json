@@ -1,15 +1,17 @@
 {
   "id": "thompson_alan",
-  "name": "Alan Thompson",
+  "name": "Alan R. Thompson",
   "sex": "M",
-  "birth": "",
+  "birth": "8 Sep 1947",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Sharon Dee Simons (m. 22 May 2004, Clark County, Washington)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -19,12 +21,19 @@
     "spouse": "simons_sharon",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "Astoria, Clatsop County, Oregon",
+    "Camas, Clark County, Washington"
+  ],
   "sources": [
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Sharon D. Harris, 56, born 20 Aug 1947 Richland, and Alan R. Thompson, born 8 Sep 1947 Astoria, Oregon; application 13 May 2004, Clark County) and Washington, U.S., Marriage Index, 1969-2017 (22 May 2004, Clark County); U.S., Newspapers.com Marriage Index (The Columbian, 15 May 2004: Sharon D. Harris, 56, of Vancouver, and Alan R. Thompson of Camas)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Sharon Ezelle, born 20 Aug 1947, Pasco; Sharon D. Hofman, Bend and Portland, Oregon, 1993) and U.S., Index to Public Records, 1994-2019 (Sharon D. Thompson, also Ezelle and Harris: Lake Oswego, Oregon 1982–2000; Vancouver 1999–2005; 24407 NE 14th Street, Camas 1991–2020; Alan R. Thompson, Camas 1991–2020)"
   ],
   "notes": [
-    "Husband of Sharon (Simons) Thompson, of Camas, Washington (2012)."
+    "Born 8 Sep 1947 at Astoria, Oregon; of Camas, Washington, from 1991, where he married Sharon D. Harris, née Simons, on 22 May 2004 in Clark County (marriage record; The Columbian, 15 May 2004; public-records index); \"Alan\" in Nancy Simons's 2012 obituary."
   ],
-  "aliases": []
+  "aliases": [
+    "Alan Thompson"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "simons_lynn",
-  "name": "Lynn Simons",
-  "birth": "",
+  "name": "Lynn Allen Simons",
+  "birth": "13 May 1953",
   "death": "",
   "personality": [],
   "roles": [],
@@ -9,7 +9,9 @@
   "notable_stories": [],
   "risk_events": [],
   "milestones": [],
-  "education": [],
+  "education": [
+    "Kennewick High School (yearbooks 1969, 1970)."
+  ],
   "career": [],
   "relationships": {
     "mother": "simons_nancy",
@@ -19,13 +21,24 @@
     "children": []
   },
   "locations": [
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Vancouver, Clark County, Washington",
+    "La Verne, Los Angeles County, California"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Lynn Allen Simons, born 13 May 1953; Vancouver, Washington 1993) and U.S., Index to Public Records, 1994-2019 (La Verne and Walnut, California 1995–2002; 3923 W. 2nd Avenue, Kennewick 2001–20); FamilySearch, United States Public Records (Kennewick 2000–08)",
+    "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Lynn Simons, Kennewick High School, 1969 and 1970)"
   ],
-  "notes": [],
-  "aliases": [],
+  "notes": [
+    "Born 13 May 1953 at Richland, the third of Howard and Nancy's five children (Ed Simons's tree; public-records index). At Kennewick High School in 1969–70; lived at Vancouver, Washington, in 1993 and at La Verne and Walnut, California, from 1995 to 2002, then back at Kennewick, next door to his sister Sandy on W. 2nd Avenue, from 2001 (yearbooks; public-records indexes). No marriage or children found in the Washington indexes."
+  ],
+  "aliases": [
+    "Lynn Simons"
+  ],
   "sex": "M"
 }

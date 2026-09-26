@@ -1,15 +1,17 @@
 {
   "id": "doshier_doug",
-  "name": "Doug Doshier",
+  "name": "Douglas Alan Doshier",
   "sex": "M",
-  "birth": "",
+  "birth": "19 Apr 1963",
   "death": "",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Angela Mae Fisher (m. 4 Feb 1989, Benton County, Washington; div. 4 Mar 2004)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
@@ -19,12 +21,19 @@
     "spouse": "simons_judy",
     "children": []
   },
-  "locations": [],
+  "locations": [
+    "West Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington"
+  ],
   "sources": [
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and Index to Public Records, 1994-2019 (Douglas Alan Doshier, born 19 Apr 1963; West Richland 1993–2006, 21804 S. Oak Street, Kennewick 2004–19, East Wenatchee 2019–20, Pasco 2020); Washington, U.S., Marriage Records, 1854-2013 and Marriage Index (Douglas Alan Doshier and Angela Mae Fisher, 4 Feb 1989, Benton County); Washington, U.S., Divorce Records, 1968-2017 (4 Mar 2004, Benton County, two children)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and U.S., Index to Public Records, 1994-2019 (Judith A. Armatrout / Judith A. Doshier, born 26 Oct 1957: Kennewick 1992–94 and 1997–2018, Columbia, South Carolina 1986–2006, Barto, Pennsylvania, Richland 2019–20; 21804 S. Oak Street, Kennewick, shared with Douglas A. Doshier) and Phone and Address Directories, 1993-2002 (Judith and Jeffrey Armatrout, 4208 S. Neel Court, Kennewick, 1997–2002)"
   ],
   "notes": [
-    "Husband of Judith (Simons) Doshier, of Kennewick (2012)."
+    "Judith Simons's partner, \"Doug\" in her mother's 2012 obituary; born 19 Apr 1963; married Angela Mae Fisher in Benton County on 4 Feb 1989 and divorced her there on 4 Mar 2004, with two children; lived at West Richland and, from 2004, at the Kennewick address Judith also used, then East Wenatchee and Pasco (marriage and divorce indexes; public-records index). No record of a marriage to Judith has been found in the Washington index to 2017."
   ],
-  "aliases": []
+  "aliases": [
+    "Doug Doshier"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "dundon_rhonda",
-  "name": "Rhonda Dundon",
-  "birth": "",
+  "name": "Rhonda Jean Simons (Dundon, Dickens)",
+  "birth": "2 Feb 1969",
   "death": "",
   "personality": [],
   "roles": [],
@@ -10,24 +10,39 @@
     "DNA match: 2.67% shared DNA. Simons branch. 23&Me label: 2C. Great-niece of Glen Simons (12.47% with Glen)."
   ],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Michael Robert Dickens (m. 20 Feb 2000, Las Vegas, Clark County, Nevada; div. 23 Nov 2005)"
+  ],
   "education": [],
   "career": [],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "oldridge_catherine_ann",
+    "father": "simons_steve",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "dickens_michael_robert",
+    "children": [
+      "dickens_leif_jeann",
+      "dickens_samantha_grace"
+    ]
   },
-  "locations": [],
+  "locations": [
+    "Kennewick, Benton County, Washington",
+    "Spokane, Washington"
+  ],
   "sources": [
-    "adams_dna_linkage_v1"
+    "adams_dna_linkage_v1",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Steve H. Simons and Catherine A. Simons, née Oldridge, 14 May 1971, Franklin County, one child, wife filed)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 (Rhonda J. Dundon, born 2 Feb 1969, Spokane) and Index to Public Records, 1994-2019 (Rhonda Jean Dundon / Rhonda J. Dickens, Spokane 2002–20); Nevada, U.S., Marriage Index, 1956-2005 (Rhonda Jean Dundon and Michael Robert Dickens, 20 Feb 2000, Clark County, book 229, p. D157949); Washington, U.S., Divorce Records, 1968-2017 (Rhonda J. Dickens, née Dundon, and Michael R. Dickens, 23 Nov 2005, Spokane County, two children, wife filed)"
   ],
   "notes": [
-    "DNA match #6 on Simons branch.",
-    "CORRECTION 2026-09-22: Marked as a low-priority DNA match. Known only from a 23andMe match list; relationship unconfirmed."
+    "Daughter of Steven Howard Simons and Catherine Ann Oldridge, born 2 Feb 1969 (at Kennewick, by Ed Simons's tree), the one child of their marriage; raised under her mother's later surname Dundon, which she used until her marriage (divorce index; public-records index). Married Michael Robert Dickens at Las Vegas on 20 Feb 2000 and divorced him in Spokane County on 23 Nov 2005, with two children; of Spokane (Nevada marriage index; Washington divorce index).",
+    "DNA: she shares 2.67% with Brendan Adams on 23andMe, a second cousin, and 12.47% with her great-uncle Glen Simons, which fits."
   ],
-  "record_type": "dna_match",
-  "priority": "low"
+  "aliases": [
+    "Rhonda Dundon",
+    "Rhonda Jean Dundon",
+    "Rhonda J. Dickens"
+  ],
+  "sex": "F"
 }

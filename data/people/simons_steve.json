@@ -1,7 +1,7 @@
 {
   "id": "simons_steve",
-  "name": "Steve Simons",
-  "birth": "",
+  "name": "Steven Howard Simons",
+  "birth": "24 Oct 1949",
   "death": "",
   "personality": [],
   "roles": [],
@@ -11,31 +11,57 @@
   ],
   "risk_events": [],
   "milestones": [
-    "Married Penny M. Parker (m. 31 Dec 1977)"
+    "Married Penny Marie Parker (m. 31 Dec 1977, Kennewick, Benton County, Washington)",
+    "Married Catherine Ann Oldridge (m. 4 Oct 1968, Kennewick, Benton County, Washington; div. 14 May 1971)"
   ],
-  "education": [],
-  "career": [],
+  "education": [
+    "Kennewick High School, 1967 (yearbook, Ed Simons's tree)."
+  ],
+  "career": [
+    "Carpenter (1978)."
+  ],
   "relationships": {
     "mother": "simons_nancy",
     "father": "simons_howard",
     "siblings": [],
     "spouse": "simons_penny",
-    "children": []
+    "children": [
+      "dundon_rhonda"
+    ],
+    "_extra_spouses": [
+      "oldridge_catherine_ann"
+    ]
   },
   "locations": [
-    "Sequim, Washington"
+    "Sequim, Washington",
+    "Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Issaquah, King County, Washington",
+    "Sequim, Clallam County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
     "John Howard Adams, \"John Howard Adams - A Memoir\" (privately printed)",
     "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
-    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995"
+    "Washington State Archives, Digital Archives, Benton County Auditor, Marriage Certificates, 1905-1995",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ancestry.com, U.S., Newspapers.com Birth Index, 1800s-2005 (son born to Byron Simons, 24 Oct 1949, Tri-City Herald, 27 Oct 1949)",
+    "FamilySearch, United States Census, 1950 (Kennewick, Benton County, Washington; Byron D. and Nancy A. Simons with Sharon D. and Steven H.; ark 1:1:6X12-28HQ)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Steven Simons, 18, born Richland, and Catherine Oldridge, 18, born Walla Walla, 11 Nov 1949; application 27 Sep 1968, married 4 Oct 1968, Kennewick, recorded Franklin County)",
+    "Ancestry.com, Washington, U.S., Divorce Records, 1968-2017 (Steve H. Simons and Catherine A. Simons, née Oldridge, 14 May 1971, Franklin County, one child, wife filed)",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Steve H. Simons, 28, born Richland, and Penny M. Parker; application 23 Dec 1977, married 31 Dec 1977, Kennewick; ref. cebenmarcert0013847) and Washington, U.S., Marriage Index, 1969-2017; U.S., Newspapers.com Marriage Index (Tri-City Herald, 15 Jan 1978: Steve Howard Simons of Kennewick, carpenter, son of Nancy Simons, and Penny Marie Parker of Kennewick, daughter of Ray Parker)",
+    "Ancestry.com, U.S., Public Records Index, 1950-1993 and Index to Public Records, 1994-2019 (Steve H. Simons Sr., born 24 Oct 1949: 704 N. 43rd Way, Pasco, with Penny M. Simons; Issaquah 1987–2005; 4138 E. Sequim Bay Road, Sequim 2004–20)"
   ],
   "notes": [
-    "Cousin of John Howard Adams; his memoir recalls Steve driving a pickup at age 9 or 10. Listed among the Simons family researchers in the Adams direct-line notes."
+    "Cousin of John Howard Adams; his memoir recalls Steve driving a pickup at age 9 or 10. Listed among the Simons family researchers in the Adams direct-line notes.",
+    "Born 24 Oct 1949 at Richland, the second child and elder son of Howard and Nancy; his birth was announced in the Tri-City Herald on 27 Oct 1949, and he was at Kennewick with his parents and sister Sharon in April 1950 (birth index; 1950 census).",
+    "Married Catherine Ann Oldridge, both 18, at Kennewick on 4 Oct 1968; their daughter Rhonda Jean was born on 2 Feb 1969; Catherine filed for divorce in Franklin County, granted 14 May 1971 (county marriage record; divorce index). Married Penny Marie Parker at Kennewick on 31 Dec 1977, when he was a carpenter of Kennewick; they lived at Pasco, then Issaquah from 1987, and at Sequim from 2004 (marriage records; Tri-City Herald, 15 Jan 1978; public-records indexes)."
   ],
   "aliases": [
-    "Steve H. Simons"
+    "Steve H. Simons",
+    "Steve Simons",
+    "Steve H. Simons Sr."
   ],
   "sex": "M"
 }

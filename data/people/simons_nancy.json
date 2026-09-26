@@ -1,46 +1,62 @@
 {
   "id": "simons_nancy",
-  "name": "Nancy A. Simons",
+  "name": "Nancy Ann Mineer (Simons)",
   "birth": "14 Oct 1929",
-  "death": "Nov 2012",
+  "death": "17 Nov 2012",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Byron D. \"Howard\" Simons (m. 10 May 1947, Pasco, Franklin County, Washington)"
+  ],
   "education": [],
   "career": [
     "Life insurance agent from 1973 until she retired in 2008; the first woman president of the Washington State Association of Life Underwriters."
   ],
   "relationships": {
-    "mother": "",
-    "father": "",
+    "mother": "worley_frances_lenora",
+    "father": "mineer_nelson_hobart",
     "siblings": [],
     "spouse": "simons_howard",
     "children": [
+      "simons_sharon",
       "simons_steve",
       "simons_lynn",
       "simons_sandy",
-      "simons_sharon",
       "simons_judy"
     ]
   },
   "locations": [
-    "Illinois",
     "Pasco, Washington",
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Urbana, Champaign County, Illinois",
+    "Richland, Benton County, Washington"
   ],
   "sources": [
     "Brendan Adams, 2026-09-22",
-    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)"
+    "Obituary of Nancy A. Simons, Tri-City Herald, 20 Nov 2012 (Legacy.com)",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, United States Census, 1940 (Urbana Township, Champaign County, Illinois, ED 10-79, sheet 17B; Hobart Mineer, 43, b. Kentucky, with Frances, 32, Lyle, 12, Nancy Ann, 10, Dale, 9, and Marajen, 5, all born Illinois, same house in 1935; ark 1:1:KWWD-H8P)",
+    "Ancestry.com, U.S., World War II Draft Cards Young Men, 1940-1947 (Nelson Hobart Mineer, 44, b. 9 Jun 1897 Burtonsville, Kentucky; registered 16 Feb 1942 at Urbana, Champaign County, Illinois; employer Corps of Engineers, Southwestern Proving Ground; next of kin Nancy Ann Mineer; 5 ft 5 in, 135 lb, brown hair and eyes; NARA St. Louis, RG 147, box 1228)",
+    "FamilySearch, Washington, County Marriages, 1855-2008 (Byron D. Simons, 21, and Nancy A. Mineer, 17, of Pekin, Illinois, mother Frances Mineer; licence 7 May 1947, married 10 May 1947, Pasco, Franklin County; arks 1:1:QPMP-D9PZ, QP9M-PX3S, QPMP-JTGC) and Ancestry.com, Washington, U.S., Marriage Records, 1854-2013",
+    "FamilySearch, United States Census, 1950 (Kennewick, Benton County, Washington; Byron D. and Nancy A. Simons with Sharon D. and Steven H.; ark 1:1:6X12-28HQ)",
+    "Ancestry.com, Washington, U.S., Death Records, 1907-2017 (Nancy A. Simons, abt 1929, d. 17 Nov 2012, Benton County); U.S., Obituary Collection (Nancy A. Simons, born Urbana, Illinois, died 17 Nov 2012 Richland, of Kennewick); Find a Grave index (Nancy Ann Simons, 14 Oct 1929 – 17 Nov 2012)",
+    "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Nancy Mineer, Richland, Washington, 1946)",
+    "Find a Grave, memorial 11087804 (Nelson Hobart Mineer, 9 Jun 1897 – 11 Feb 1959, Resthaven Cemetery, Richland; parents Maxwell Taylor and Sarah Elizabeth Mineer; spouse Frances Lenora; children Dale A. Mineer, Maragen Maxine Wright, Nancy Ann Simons), via the Ancestry.com Find a Grave index"
   ],
   "notes": [
-    "Wife of Howard (Byron Daniel) Simons. Born 14 Oct 1929 in Illinois; her family came to the Tri-Cities in 1943 with the Hanford project. She and Howard farmed raw land north of Pasco for ten years and moved to Kennewick in 1960. She died in Nov 2012. Her brother was Lyle Mineer of Richland, so her birth surname was probably Mineer.",
-    "At her death she had 11 grandchildren and 9 great-grandchildren, not named in her obituary."
+    "Born 14 Oct 1929 in Illinois, the second of the four children of Nelson Hobart Mineer and Frances Lenora Worley; her obituary and death notices say Urbana, her 1947 marriage record Pekin, and Ed Simons's tree \"plaria\" (Peoria), all Illinois. She was ten in her parents' household at Urbana Township, Champaign County, in 1940, and was the next of kin her father named when he registered for the draft at Urbana in February 1942 (1940 census; WWII draft card).",
+    "At her death she had 11 grandchildren and 9 great-grandchildren, not named in her obituary.",
+    "Her family came to the Tri-Cities in 1943 with the Hanford project; she was at Richland (Columbia) High School in 1946 (yearbook), and on 10 May 1947 at Pasco, aged 17, she married Byron D. \"Howard\" Simons, 21, the licence naming her mother Frances Mineer (county marriage records; obituary). She and Howard farmed raw land north of Pasco for ten years and moved to Kennewick in 1960; in April 1950 they were at Kennewick with Sharon and Steven (1950 census).",
+    "She died on 17 Nov 2012 at Richland, of Kennewick, aged 83 (Washington death record; obituary; Find a Grave)."
   ],
   "aliases": [
-    "Nancy Simons"
+    "Nancy Simons",
+    "Nancy A. Simons",
+    "Nancy Ann Simons",
+    "Nancy A. Mineer"
   ],
   "sex": "F"
 }

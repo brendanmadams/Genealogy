@@ -1,0 +1,32 @@
+{
+  "id": "dickens_samantha_grace",
+  "name": "Samantha Grace Dickens",
+  "sex": "F",
+  "birth": "5 Dec 2003",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "dundon_rhonda",
+    "father": "dickens_michael_robert",
+    "siblings": [],
+    "spouse": "",
+    "children": []
+  },
+  "locations": [
+    "Spokane, Washington"
+  ],
+  "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+  ],
+  "notes": [
+    "Younger child of Michael Dickens and Rhonda Jean Dundon, born 5 Dec 2003 at Spokane (Ed Simons's tree; the 2005 divorce index counts two children)."
+  ],
+  "aliases": []
+}
