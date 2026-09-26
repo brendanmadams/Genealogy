@@ -1,0 +1,31 @@
+{
+  "id": "eaton_mary_jane",
+  "name": "Mary Jane Eaton",
+  "sex": "F",
+  "birth": "",
+  "death": "",
+  "personality": [],
+  "roles": [],
+  "childhood_experience": [],
+  "notable_stories": [],
+  "risk_events": [],
+  "milestones": [],
+  "education": [],
+  "career": [],
+  "relationships": {
+    "mother": "walker_betty_ann",
+    "father": "eaton_otho_walter",
+    "siblings": [],
+    "spouse": "",
+    "children": [],
+    "adopted": true
+  },
+  "locations": [],
+  "sources": [
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026"
+  ],
+  "notes": [
+    "Adopted daughter of Betty Ann Walker and her first husband, Otho Walter Eaton; her birth family and the surname she uses are not known, and Eaton is assumed from the adoption (Ed Simons, 2026)."
+  ],
+  "aliases": []
+}

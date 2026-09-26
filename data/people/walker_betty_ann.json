@@ -1,35 +1,54 @@
 {
   "id": "walker_betty_ann",
-  "name": "Betty Ann Walker",
+  "name": "Betty Ann Walker (Eaton, Coomes)",
   "sex": "F",
-  "birth": "",
-  "death": "",
+  "birth": "11 Jun 1945",
+  "death": "28 Nov 2011",
   "personality": [],
   "roles": [],
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Otho Walter Eaton (div. 13 Feb 1970, Franklin County, Washington)",
+    "Married George Coomes"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "hinds_marrion_roma",
     "father": "walker_john_william",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "eaton_otho_walter",
+    "children": [
+      "eaton_mary_jane"
+    ],
+    "_extra_spouses": [
+      "coomes_george"
+    ]
   },
   "locations": [
-    "Richland, Washington"
+    "Richland, Washington",
+    "Portland, Oregon",
+    "Richland, Benton County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Burbank, Walla Walla County, Washington",
+    "Kennewick, Benton County, Washington"
   ],
   "sources": [
     "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026",
+    "FamilySearch, Washington Divorce Index, 1969-2014 (Betty A. Walker and Otho W. Eaton, 13 Feb 1970, Franklin County; ark 1:1:QLC7-WHPS)",
+    "FamilySearch, Washington Death Index, 1965-2014 (Betty A. Coomes, born 1945, died 28 Nov 2011, Benton County; ark 1:1:QLWS-6F8W); Ancestry.com, Washington, U.S., Death Records, 1907-2017 (resident of Walla Walla County) and Obituary Daily Times index (Betty Ann Coomes, née Walker, born Portland, died Kennewick, 2011); U.S., Public Records Index (Betty A. Coomes, born 11 Jun 1945; Pasco 1993, Burbank, Walla Walla County 1998–2020)"
   ],
   "notes": [
-    "Aged 4 in the 1950 census at Richland. Ed Simons's tree names her husbands as George Coomes and Otho Walter Eaton."
+    "Born 11 Jun 1945 at Portland, Oregon (public-records index; Ed Simons's tree); aged 4 in the 1950 census at Richland. Married first Otho Walter Eaton, whom she divorced in Franklin County on 13 Feb 1970, and then George Coomes; lived at Pasco and Burbank; died 28 Nov 2011 at Kennewick, aged 66, as Betty A. Coomes (divorce index; death index; obituary index).",
+    "She had no children of her own; she and her first husband adopted a daughter, Mary Jane (Ed Simons, 2026)."
   ],
   "aliases": [
-    "Betty A. Walker"
+    "Betty A. Walker",
+    "Betty Coomes",
+    "Betty Eaton"
   ]
 }

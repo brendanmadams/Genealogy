@@ -1,6 +1,6 @@
 {
   "id": "walker_roma_florence",
-  "name": "Roma Florence Walker (Hathaway)",
+  "name": "Roma Florence Walker (Hathaway, Walters)",
   "sex": "F",
   "birth": "5 Sep 1943",
   "death": "",
@@ -9,33 +9,49 @@
   "childhood_experience": [],
   "notable_stories": [],
   "risk_events": [],
-  "milestones": [],
+  "milestones": [
+    "Married Paul Carleton Hathaway (m. May 1962, Franklin County, Washington)",
+    "Married Theodore \"Ted\" Walters"
+  ],
   "education": [],
   "career": [],
   "relationships": {
     "mother": "hinds_marrion_roma",
     "father": "walker_john_william",
     "siblings": [],
-    "spouse": "",
-    "children": []
+    "spouse": "hathaway_paul_carleton",
+    "children": [
+      "hathaway_amy",
+      "hathaway_lisa"
+    ],
+    "_extra_spouses": [
+      "walters_theodore"
+    ]
   },
   "locations": [
     "Bend, Deschutes County, Oregon",
     "Richland, Washington",
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington"
   ],
   "sources": [
     "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
     "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Roma Florence Walker and Paul Carleton Hathaway, Franklin County, 1962)",
     "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Kennewick, 1961)",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
-    "Ed Simons, family account of Marrion's adoption, relayed by Brendan Adams, 25 Sep 2026"
+    "Ed Simons, family account of Marrion's adoption, relayed by Brendan Adams, 25 Sep 2026",
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Roma Florence Walker, born 5 Sep 1943, and Paul Carleton Hathaway, Franklin County, May 1962)"
   ],
   "notes": [
-    "Born 5 Sep 1943 (Washington marriage records); Ed Simons's tree gives the place as Bend, Oregon. Aged 6 in the 1950 census at Richland; in the 1961 Kennewick High School yearbook; married Paul Carleton Hathaway in Franklin County in May 1962. Ed Simons's tree also names a husband Theodore Walters.",
-    "Named Roma Florence for her mother's birth mother, Roma Eloise Abernathy, and adoptive mother, Florence (Goodenough) Hinds (family account, 2026)."
+    "Born 5 Sep 1943 (Washington marriage records); Ed Simons's tree gives the place as Bend, Oregon. Aged 6 in the 1950 census at Richland; in the 1961 Kennewick High School yearbook; married Paul Carleton Hathaway in Franklin County in May 1962.",
+    "Named Roma Florence for her mother's birth mother, Roma Eloise Abernathy, and adoptive mother, Florence (Goodenough) Hinds (family account, 2026).",
+    "Married Paul Carleton Hathaway in Franklin County in May 1962 and had two daughters, Amy and Lisa; now married to Theodore \"Ted\" Walters, and living at Kennewick. Ed Simons, her nephew, is close to her and her daughters (Ed Simons, 2026; county marriage record)."
   ],
   "aliases": [
-    "Roma F. Walker"
+    "Roma F. Walker",
+    "Roma Hathaway",
+    "Roma Walters"
   ]
 }

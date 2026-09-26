@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-26T21:23:01.569Z",
-  "people": 1049,
-  "family_members": 1002,
+  "generated": "2026-09-26T21:50:03.039Z",
+  "people": 1056,
+  "family_members": 1009,
   "dna_matches": 47,
-  "connected_people": 1002,
-  "families": 368,
+  "connected_people": 1009,
+  "families": 372,
   "branches": [
    "adams",
    "hamilton",
@@ -18351,6 +18351,72 @@
    ]
   },
   {
+   "id": "coomes_george",
+   "name": "George Coomes",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "walker_betty_ann"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_coomes_george+walker_betty_ann"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Burbank, Walla Walla County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Betty Ann Walker"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington Death Index, 1965-2014 (Betty A. Coomes, born 1945, died 28 Nov 2011, Benton County; ark 1:1:QLWS-6F8W); Ancestry.com, Washington, U.S., Death Records, 1907-2017 (resident of Walla Walla County) and Obituary Daily Times index (Betty Ann Coomes, née Walker, born Portland, died Kennewick, 2011); U.S., Public Records Index (Betty A. Coomes, born 11 Jun 1945; Pasco 1993, Burbank, Walla Walla County 1998–2020)",
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026"
+   ],
+   "notes": [
+    "Second husband of Betty Ann Walker, who died as Betty A. Coomes in 2011 (Ed Simons's tree; death index)."
+   ]
+  },
+  {
    "id": "cox_loren_wayne",
    "name": "Loren Wayne Cox",
    "aliases": [],
@@ -21509,6 +21575,133 @@
     "Descendants of Jose Pierre Adams (compiled by William W. \"Bill\" Allen, Nov 2010)"
    ],
    "notes": []
+  },
+  {
+   "id": "eaton_mary_jane",
+   "name": "Mary Jane Eaton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": true,
+   "unproven": false,
+   "father": "eaton_otho_walter",
+   "mother": "walker_betty_ann",
+   "parents": [
+    "eaton_otho_walter",
+    "walker_betty_ann"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [],
+   "families": [],
+   "parent_family": "F_eaton_otho_walter+walker_betty_ann",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026"
+   ],
+   "notes": [
+    "Adopted daughter of Betty Ann Walker and her first husband, Otho Walter Eaton; her birth family and the surname she uses are not known, and Eaton is assumed from the adoption (Ed Simons, 2026)."
+   ]
+  },
+  {
+   "id": "eaton_otho_walter",
+   "name": "Otho Walter Eaton",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "walker_betty_ann"
+   ],
+   "children": [
+    "eaton_mary_jane"
+   ],
+   "siblings": [],
+   "families": [
+    "F_eaton_otho_walter+walker_betty_ann"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Betty Ann Walker (div. 13 Feb 1970, Franklin County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "FamilySearch, Washington Divorce Index, 1969-2014 (Betty A. Walker and Otho W. Eaton, 13 Feb 1970, Franklin County; ark 1:1:QLC7-WHPS)",
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026"
+   ],
+   "notes": [
+    "First husband of Betty Ann Walker; divorced in Franklin County 13 Feb 1970 (divorce index). With Betty he adopted a daughter, Mary Jane (Ed Simons, 2026)."
+   ]
   },
   {
    "id": "eberhart_gladys",
@@ -34189,6 +34382,196 @@
     "Hamilton family register (The Family of Francis Hamilton and Susan), in Bill Allen’s Further Research (February 2012)"
    ],
    "notes": []
+  },
+  {
+   "id": "hathaway_amy",
+   "name": "Amy Hathaway",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "hathaway_paul_carleton",
+   "mother": "walker_roma_florence",
+   "parents": [
+    "hathaway_paul_carleton",
+    "walker_roma_florence"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hathaway_lisa"
+   ],
+   "families": [],
+   "parent_family": "F_hathaway_paul_carleton+walker_roma_florence",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026"
+   ],
+   "notes": [
+    "Daughter of Paul Hathaway and Roma Florence Walker; a first cousin of Ed Simons, who is close to her (Ed Simons, 2026)."
+   ]
+  },
+  {
+   "id": "hathaway_lisa",
+   "name": "Lisa Hathaway",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "F",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": "hathaway_paul_carleton",
+   "mother": "walker_roma_florence",
+   "parents": [
+    "hathaway_paul_carleton",
+    "walker_roma_florence"
+   ],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "hathaway_amy"
+   ],
+   "families": [],
+   "parent_family": "F_hathaway_paul_carleton+walker_roma_florence",
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026"
+   ],
+   "notes": [
+    "Daughter of Paul Hathaway and Roma Florence Walker; a first cousin of Ed Simons, who is close to her (Ed Simons, 2026)."
+   ]
+  },
+  {
+   "id": "hathaway_paul_carleton",
+   "name": "Paul Carleton Hathaway",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "walker_roma_florence"
+   ],
+   "children": [
+    "hathaway_amy",
+    "hathaway_lisa"
+   ],
+   "siblings": [],
+   "families": [
+    "F_hathaway_paul_carleton+walker_roma_florence"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Franklin County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Roma Florence Walker (m. May 1962, Franklin County, Washington)"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Roma Florence Walker, born 5 Sep 1943, and Paul Carleton Hathaway, Franklin County, May 1962)",
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026"
+   ],
+   "notes": [
+    "Married Roma Florence Walker in Franklin County in May 1962; father of Amy and Lisa Hathaway (county marriage record; Ed Simons, 2026)."
+   ]
   },
   {
    "id": "hawn_walter",
@@ -74810,26 +75193,28 @@
   },
   {
    "id": "walker_betty_ann",
-   "name": "Betty Ann Walker",
+   "name": "Betty Ann Walker (Eaton, Coomes)",
    "aliases": [
-    "Betty A. Walker"
+    "Betty A. Walker",
+    "Betty Coomes",
+    "Betty Eaton"
    ],
    "photo": null,
    "card_name": null,
    "sex": "F",
    "media": [],
    "birth": {
-    "text": "",
-    "year": null,
+    "text": "11 Jun 1945",
+    "year": 1945,
     "qualifier": null
    },
    "death": {
-    "text": "",
-    "year": null,
+    "text": "28 Nov 2011",
+    "year": 2011,
     "qualifier": null
    },
    "living": false,
-   "living_status": "assumed",
+   "living_status": null,
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
@@ -74845,33 +75230,53 @@
    "birth_mother": null,
    "birth_parents": [],
    "birth_children": [],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "eaton_otho_walter",
+    "coomes_george"
+   ],
+   "children": [
+    "eaton_mary_jane"
+   ],
    "siblings": [
     "walker_roma_florence"
    ],
-   "families": [],
+   "families": [
+    "F_coomes_george+walker_betty_ann",
+    "F_eaton_otho_walter+walker_betty_ann"
+   ],
    "parent_family": "F_hinds_marrion_roma+walker_john_william",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
-    "Richland, Washington"
+    "Richland, Washington",
+    "Portland, Oregon",
+    "Richland, Benton County, Washington",
+    "Pasco, Franklin County, Washington",
+    "Burbank, Walla Walla County, Washington",
+    "Kennewick, Benton County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Otho Walter Eaton (div. 13 Feb 1970, Franklin County, Washington)",
+    "Married George Coomes"
+   ],
    "education": [],
    "career": [],
    "sources": [
     "Ancestry.com, 1950 United States Federal Census (Richland, Benton County, Washington; ED 3-26, page 33)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026",
+    "FamilySearch, Washington Divorce Index, 1969-2014 (Betty A. Walker and Otho W. Eaton, 13 Feb 1970, Franklin County; ark 1:1:QLC7-WHPS)",
+    "FamilySearch, Washington Death Index, 1965-2014 (Betty A. Coomes, born 1945, died 28 Nov 2011, Benton County; ark 1:1:QLWS-6F8W); Ancestry.com, Washington, U.S., Death Records, 1907-2017 (resident of Walla Walla County) and Obituary Daily Times index (Betty Ann Coomes, née Walker, born Portland, died Kennewick, 2011); U.S., Public Records Index (Betty A. Coomes, born 11 Jun 1945; Pasco 1993, Burbank, Walla Walla County 1998–2020)"
    ],
    "notes": [
-    "Aged 4 in the 1950 census at Richland. Ed Simons's tree names her husbands as George Coomes and Otho Walter Eaton."
+    "Born 11 Jun 1945 at Portland, Oregon (public-records index; Ed Simons's tree); aged 4 in the 1950 census at Richland. Married first Otho Walter Eaton, whom she divorced in Franklin County on 13 Feb 1970, and then George Coomes; lived at Pasco and Burbank; died 28 Nov 2011 at Kennewick, aged 66, as Betty A. Coomes (divorce index; death index; obituary index).",
+    "She had no children of her own; she and her first husband adopted a daughter, Mary Jane (Ed Simons, 2026)."
    ]
   },
   {
@@ -74951,9 +75356,11 @@
   },
   {
    "id": "walker_roma_florence",
-   "name": "Roma Florence Walker (Hathaway)",
+   "name": "Roma Florence Walker (Hathaway, Walters)",
    "aliases": [
-    "Roma F. Walker"
+    "Roma F. Walker",
+    "Roma Hathaway",
+    "Roma Walters"
    ],
    "photo": null,
    "card_name": null,
@@ -74986,12 +75393,21 @@
    "birth_mother": null,
    "birth_parents": [],
    "birth_children": [],
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "hathaway_paul_carleton",
+    "walters_theodore"
+   ],
+   "children": [
+    "hathaway_amy",
+    "hathaway_lisa"
+   ],
    "siblings": [
     "walker_betty_ann"
    ],
-   "families": [],
+   "families": [
+    "F_hathaway_paul_carleton+walker_roma_florence",
+    "F_walker_roma_florence+walters_theodore"
+   ],
    "parent_family": "F_hinds_marrion_roma+walker_john_william",
    "connected": true,
    "dna_match": false,
@@ -74999,14 +75415,19 @@
    "locations": [
     "Bend, Deschutes County, Oregon",
     "Richland, Washington",
-    "Kennewick, Washington"
+    "Kennewick, Washington",
+    "Richland, Benton County, Washington",
+    "Kennewick, Benton County, Washington"
    ],
    "personality": [],
    "roles": [],
    "childhood_experience": [],
    "notable_stories": [],
    "risk_events": [],
-   "milestones": [],
+   "milestones": [
+    "Married Paul Carleton Hathaway (m. May 1962, Franklin County, Washington)",
+    "Married Theodore \"Ted\" Walters"
+   ],
    "education": [],
    "career": [],
    "sources": [
@@ -75014,11 +75435,14 @@
     "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Roma Florence Walker and Paul Carleton Hathaway, Franklin County, 1962)",
     "Ancestry.com, U.S., School Yearbooks, 1900-2016 (Kennewick, 1961)",
     "Ancestry.com, public member tree of Ed Simons (tree 189265374)",
-    "Ed Simons, family account of Marrion's adoption, relayed by Brendan Adams, 25 Sep 2026"
+    "Ed Simons, family account of Marrion's adoption, relayed by Brendan Adams, 25 Sep 2026",
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026",
+    "Ancestry.com, Washington, U.S., Marriage Records, 1854-2013 (Roma Florence Walker, born 5 Sep 1943, and Paul Carleton Hathaway, Franklin County, May 1962)"
    ],
    "notes": [
-    "Born 5 Sep 1943 (Washington marriage records); Ed Simons's tree gives the place as Bend, Oregon. Aged 6 in the 1950 census at Richland; in the 1961 Kennewick High School yearbook; married Paul Carleton Hathaway in Franklin County in May 1962. Ed Simons's tree also names a husband Theodore Walters.",
-    "Named Roma Florence for her mother's birth mother, Roma Eloise Abernathy, and adoptive mother, Florence (Goodenough) Hinds (family account, 2026)."
+    "Born 5 Sep 1943 (Washington marriage records); Ed Simons's tree gives the place as Bend, Oregon. Aged 6 in the 1950 census at Richland; in the 1961 Kennewick High School yearbook; married Paul Carleton Hathaway in Franklin County in May 1962.",
+    "Named Roma Florence for her mother's birth mother, Roma Eloise Abernathy, and adoptive mother, Florence (Goodenough) Hinds (family account, 2026).",
+    "Married Paul Carleton Hathaway in Franklin County in May 1962 and had two daughters, Amy and Lisa; now married to Theodore \"Ted\" Walters, and living at Kennewick. Ed Simons, her nephew, is close to her and her daughters (Ed Simons, 2026; county marriage record)."
    ]
   },
   {
@@ -75081,6 +75505,71 @@
    ],
    "notes": [
     "Husband of Luzetta Mae Worman (Walter, Swantusch), married 1929 (Find a Grave, memorial 92754908)."
+   ]
+  },
+  {
+   "id": "walters_theodore",
+   "name": "Theodore \"Ted\" Walters",
+   "aliases": [],
+   "photo": null,
+   "card_name": null,
+   "sex": "M",
+   "media": [],
+   "birth": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "death": {
+    "text": "",
+    "year": null,
+    "qualifier": null
+   },
+   "living": false,
+   "living_status": "assumed",
+   "branch": "other",
+   "branch_by_marriage": false,
+   "lineages": [],
+   "adopted": false,
+   "unproven": false,
+   "father": null,
+   "mother": null,
+   "parents": [],
+   "birth_father": null,
+   "birth_mother": null,
+   "birth_parents": [],
+   "birth_children": [],
+   "spouses": [
+    "walker_roma_florence"
+   ],
+   "children": [],
+   "siblings": [],
+   "families": [
+    "F_walker_roma_florence+walters_theodore"
+   ],
+   "parent_family": null,
+   "connected": true,
+   "dna_match": false,
+   "priority": "normal",
+   "locations": [
+    "Kennewick, Benton County, Washington"
+   ],
+   "personality": [],
+   "roles": [],
+   "childhood_experience": [],
+   "notable_stories": [],
+   "risk_events": [],
+   "milestones": [
+    "Married Roma Florence (Walker) Hathaway"
+   ],
+   "education": [],
+   "career": [],
+   "sources": [
+    "Ed Simons, family account of his aunts Roma and Betty Walker, relayed by Brendan Adams, 26 Sep 2026",
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374)"
+   ],
+   "notes": [
+    "Roma (Walker) Hathaway's present husband; they live at Kennewick (Ed Simons, 2026)."
    ]
   },
   {
@@ -80816,6 +81305,15 @@
    "marriage": "12 Mar 1977, Franklin County, Washington"
   },
   {
+   "id": "F_coomes_george+walker_betty_ann",
+   "partners": [
+    "coomes_george",
+    "walker_betty_ann"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
    "id": "F_cox_loren_wayne+forester_dorothy_jean",
    "partners": [
     "cox_loren_wayne",
@@ -81139,6 +81637,17 @@
    ],
    "children": [
     "pfander_dorothy_douthit"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_eaton_otho_walter+walker_betty_ann",
+   "partners": [
+    "eaton_otho_walter",
+    "walker_betty_ann"
+   ],
+   "children": [
+    "eaton_mary_jane"
    ],
    "marriage": null
   },
@@ -82007,6 +82516,18 @@
    ],
    "children": [],
    "marriage": "1921"
+  },
+  {
+   "id": "F_hathaway_paul_carleton+walker_roma_florence",
+   "partners": [
+    "hathaway_paul_carleton",
+    "walker_roma_florence"
+   ],
+   "children": [
+    "hathaway_amy",
+    "hathaway_lisa"
+   ],
+   "marriage": "May 1962, Franklin County, Washington"
   },
   {
    "id": "F_henley_austin+henley_kayla",
@@ -83601,6 +84122,15 @@
    "partners": [
     "urbach_betty_j",
     "urbach_phillip_owen"
+   ],
+   "children": [],
+   "marriage": null
+  },
+  {
+   "id": "F_walker_roma_florence+walters_theodore",
+   "partners": [
+    "walker_roma_florence",
+    "walters_theodore"
    ],
    "children": [],
    "marriage": null
