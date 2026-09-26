@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-26T14:49:10.847Z",
+  "generated": "2026-09-26T14:51:18.236Z",
   "people": 1049,
   "family_members": 1002,
   "dna_matches": 47,
-  "connected_people": 1001,
-  "families": 367,
+  "connected_people": 1002,
+  "families": 368,
   "branches": [
    "adams",
    "hamilton",
@@ -34990,12 +34990,13 @@
     "FamilySearch, United States Census, 1940 (Election Precinct 437 Brentwood, Multnomah County, Oregon; ED 26-58, sheet 8A, line 7; household of Andrew F. Bird; ark 1:1:VRTC-B3T)",
     "Ed Simons, family account of Marrion's adoption, relayed by Brendan Adams, 25 Sep 2026",
     "23andMe DNA match between Mary (Walker) Simons and Nancy Wilkins, at first-cousin level (reported by Ed Simons, 2026)",
-    "Ancestry.com, public member tree of Ed Simons (tree 189265374), Marrion Louise (Roma) Abernathy (Hinds) and Roma Eloise Abernathy"
+    "Ancestry.com, public member tree of Ed Simons (tree 189265374), Marrion Louise (Roma) Abernathy (Hinds) and Roma Eloise Abernathy",
+    "Ed Simons, family account (Nancy Wilkins is Pierre Wilkins's daughter), relayed by Brendan Adams, 26 Sep 2026"
    ],
    "notes": [
     "Born 26 Nov 1920 in St. Louis, Missouri, daughter of Hershel Hinds and Florence C. Goodenough (Social Security record, which lists her as Marrion Roma Dolan in 1942 and Marrion Roma Walker from 1951). She died on 20 Mar 2001 in Kennewick, aged 80, and was buried at Sunset Memorial Gardens, Richland (Washington death index; Find a Grave; an obituary indexed for 21 Mar 2001).",
     "Married Robert (Sheldon) Joseph Dolan at Vancouver, Washington, on 9 Jun 1937, when she was 18; the record names her parents as Hershel and Florence Hinds. Their daughter was Mary. After Sheldon died in 1942 she married John W. Walker, born about 1916 in Colorado; in 1950 they lived at 316 Goethals, Richland, with Mary P., Roma F. and Betty A. Walker. She lived in Kennewick in 1993.",
-    "Adopted. Her birth mother was Roma Eloise Abernathy (1902–1935) of St. Louis, who, by the family's account, \"got into trouble\" at seventeen and had Marrion in a Salvation Army home for unwed mothers; Roma was at home on Shenandoah Avenue, single, in January 1920, and Marrion was born that November. The Hinds, who raised her, are presumed to have known Roma. Roma later married John J. Wilkins and had two sons, and a 23andMe match at first-cousin level between Marrion's daughter Mary and Roma's granddaughter Nancy Wilkins confirms the blood line (Ed Simons, 2026; the tree of Ed Simons, which names her Marrion Louise (Roma) Abernathy). Her birth father is unknown.",
+    "Adopted. Her birth mother was Roma Eloise Abernathy (1902–1935) of St. Louis, who, by the family's account, \"got into trouble\" at seventeen and had Marrion in a Salvation Army home for unwed mothers; Roma was at home on Shenandoah Avenue, single, in January 1920, and Marrion was born that November. The Hinds, who raised her, are presumed to have known Roma. Roma later married John J. Wilkins and had two sons, and a 23andMe match at first-cousin level between Marrion's daughter Mary and Roma's granddaughter Nancy Wilkins, Pierre's daughter, confirms the blood line (Ed Simons, 2026; the tree of Ed Simons, which names her Marrion Louise (Roma) Abernathy). Her birth father is unknown.",
     "Her adoptive parents were Hershel H. Hinds and Florence Clara (Goodenough) Whitney Hinds, later Bird: Marrion named them as her parents at her 1937 marriage and on her 1942 Social Security application, and Florence's 1970 obituary lists \"Mrs John Walker\" among her children. Florence was still the wife of William H. Whitney Jr. in January 1920 and married Lee Herschell Hinds at St. Louis in October 1923, so Marrion was probably taken in as an infant and formally became a Hinds after that marriage. Her adoptive siblings through Florence are Albert Earl, Elmer and Harrell Whitney and Harriet (Andrews). In 1940 the Birds lived in the same Brentwood precinct as Marrion and Sheldon Dolan.",
     "Her middle name Roma is her birth mother's, and she and John Walker named their first daughter Roma Florence, for her birth mother and her adoptive mother together (family account, 2026)."
    ]
@@ -77230,15 +77231,17 @@
     "qualifier": null
    },
    "living": false,
-   "living_status": null,
+   "living_status": "assumed",
    "branch": "other",
    "branch_by_marriage": false,
    "lineages": [],
    "adopted": false,
    "unproven": false,
-   "father": null,
+   "father": "wilkins_pierre_robert",
    "mother": null,
-   "parents": [],
+   "parents": [
+    "wilkins_pierre_robert"
+   ],
    "birth_father": null,
    "birth_mother": null,
    "birth_parents": [],
@@ -77247,8 +77250,8 @@
    "children": [],
    "siblings": [],
    "families": [],
-   "parent_family": null,
-   "connected": false,
+   "parent_family": "F_wilkins_pierre_robert",
+   "connected": true,
    "dna_match": false,
    "priority": "normal",
    "locations": [
@@ -77264,10 +77267,11 @@
    "career": [],
    "sources": [
     "Ed Simons, family account of Marrion's adoption, relayed by Brendan Adams, 25 Sep 2026",
-    "23andMe DNA match between Mary (Walker) Simons and Nancy Wilkins, at first-cousin level (reported by Ed Simons, 2026)"
+    "23andMe DNA match between Mary (Walker) Simons and Nancy Wilkins, at first-cousin level (reported by Ed Simons, 2026)",
+    "Ed Simons, family account (Nancy Wilkins is Pierre Wilkins's daughter), relayed by Brendan Adams, 26 Sep 2026"
    ],
    "notes": [
-    "Granddaughter of Roma Eloise (Abernathy) Wilkins, through one of Roma's sons, John Julien Jr. or Pierre Robert (which is not yet known), and so a half first cousin of Mary (Walker) Simons; a 23andMe match to Mary at first-cousin level. She lives in Portland and had two sisters and a brother, of whom one sister is living (Ed Simons, 2026). Not yet linked to her parents."
+    "Daughter of Pierre Robert Wilkins (1932–1998) and so a granddaughter of Roma Eloise (Abernathy) Wilkins and a half first cousin of Mary (Walker) Simons, whose mother Marrion was Roma's daughter; a 23andMe match to Mary at first-cousin level. She lives in Portland and had two sisters and a brother, of whom one sister is living (Ed Simons, 2026). Her mother is not yet recorded."
    ]
   },
   {
@@ -77308,11 +77312,15 @@
    "birth_parents": [],
    "birth_children": [],
    "spouses": [],
-   "children": [],
+   "children": [
+    "wilkins_nancy"
+   ],
    "siblings": [
     "wilkins_john_julien_jr"
    ],
-   "families": [],
+   "families": [
+    "F_wilkins_pierre_robert"
+   ],
    "parent_family": "F_abernathy_roma_eloise+wilkins_john_j",
    "connected": true,
    "dna_match": false,
@@ -77334,10 +77342,11 @@
     "FamilySearch, United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007 (John Julien Wilkins Jr., born 21 Sep 1923 Kirkwood, died 17 Dec 1994, ark 1:1:6KW4-SFL4; Pierre Robert Wilkins, born 14 Oct 1932 St. Louis, died 6 Oct 1998, ark 1:1:6KWW-R3B4; parents John J. Wilkins and Roma Abernathy)",
     "FamilySearch, United States Census, 1940 (Normandy Township, St. Louis County, Missouri; household of John J. Wilkins with sons Pierre R. and John J.; ark 1:1:K7WD-SLY)",
     "FamilySearch, United States Public Records, 1970-2009 (Pierre R. Wilkins, born 14 Oct 1932, New York City 1993, Brooklyn 2001, Staten Island 2005–2009)",
-    "FamilySearch, United States Social Security Death Index (Pierre Wilkins, 14 Oct 1932 – 6 Oct 1998, Brooklyn, New York)"
+    "FamilySearch, United States Social Security Death Index (Pierre Wilkins, 14 Oct 1932 – 6 Oct 1998, Brooklyn, New York)",
+    "Ed Simons, family account (Nancy Wilkins is Pierre Wilkins's daughter), relayed by Brendan Adams, 26 Sep 2026"
    ],
    "notes": [
-    "Born 14 Oct 1932 at St. Louis, son of John J. Wilkins and Roma Abernathy; died 6 Oct 1998 (Social Security file). Half-brother of Marrion (Hinds) Walker through Roma.",
+    "Born 14 Oct 1932 at St. Louis, son of John J. Wilkins and Roma Abernathy; died 6 Oct 1998 (Social Security file). Half-brother of Marrion (Hinds) Walker through Roma, and father of Nancy Wilkins of Portland, Mary Simons's DNA match, and of her two sisters and brother (Ed Simons, 2026); his wife is not yet recorded.",
     "Lived in New York City from at least 1993, at Brooklyn in 2001 and Staten Island 2005–2009 (public-records index); died 6 Oct 1998 at Brooklyn (Social Security death index; the later public-record entries are stale listings)."
    ]
   },
@@ -83601,6 +83610,16 @@
    ],
    "children": [
     "wells_rosemary"
+   ],
+   "marriage": null
+  },
+  {
+   "id": "F_wilkins_pierre_robert",
+   "partners": [
+    "wilkins_pierre_robert"
+   ],
+   "children": [
+    "wilkins_nancy"
    ],
    "marriage": null
   },
