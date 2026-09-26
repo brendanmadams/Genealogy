@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated": "2026-09-26T03:29:15.123Z",
+  "generated": "2026-09-26T13:44:47.154Z",
   "people": 1015,
   "family_members": 966,
   "dna_matches": 49,
   "connected_people": 965,
-  "families": 349,
+  "families": 348,
   "branches": [
    "adams",
    "hamilton",
@@ -43037,7 +43037,9 @@
    "spouses": [
     "simons_gertrude_nellie"
    ],
-   "children": [],
+   "children": [
+    "simons_raymond_zell"
+   ],
    "siblings": [],
    "families": [
     "F_masters_charles_f+simons_gertrude_nellie"
@@ -43070,8 +43072,9 @@
    ],
    "notes": [
     "First husband of Gertrude Nellie Simons; they divorced on 17 Dec 1901. The 1900 census lists him as Frank C. Masters, living with his parents at South Haven, Michigan.",
-    "Born Mar 1875 in Michigan, son of Richard F. and Sarah Masters, with whom he lived at South Haven in 1900; died 18 May 1928 at Sacramento, aged 53 (1900 census; California death index). Ed Simons's tree gives 17 Mar 1875 at Watertown, Clinton County, and names him as Raymond Zell Simons's father (UNPROVEN); Raymond's birth register names a \"Ray Simonds\", born in Chicago.",
-    "The Berrien County marriage register (12 Sep 1898, page 279) gives him as Charles Frank Masters, 23, son of Richard F. Masters and Sarah A. Prescott, marrying Nellie Gertrude Simons, 19, daughter of Aron Simons and Hattie Michels (Michigan county marriages)."
+    "Born Mar 1875 in Michigan, son of Richard F. and Sarah Masters, with whom he lived at South Haven in 1900; died 18 May 1928 at Sacramento, aged 53 (1900 census; California death index). Ed Simons's tree gives 17 Mar 1875 at Watertown, Clinton County, and names him as Raymond Zell Simons's father, citing only another member tree. UNPROVEN pending DNA: Raymond's birth register names a \"Ray Simonds\", born in Chicago, and no Masters or Prescott match has yet appeared among the family's 23andMe relatives. He is shown as Raymond's father on the chart on that basis.",
+    "The Berrien County marriage register (12 Sep 1898, page 279) gives him as Charles Frank Masters, 23, son of Richard F. Masters and Sarah A. Prescott, marrying Nellie Gertrude Simons, 19, daughter of Aron Simons and Hattie Michels (Michigan county marriages).",
+    "UNPROVEN pending DNA: shown as Raymond Zell Simons's father on Ed Simons's authority only."
    ]
   },
   {
@@ -62003,8 +62006,7 @@
    ],
    "families": [
     "F_groves_dan_harvey+simons_gertrude_nellie",
-    "F_masters_charles_f+simons_gertrude_nellie",
-    "F_simons_gertrude_nellie"
+    "F_masters_charles_f+simons_gertrude_nellie"
    ],
    "parent_family": "F_simons_aaron+simons_harriet_hattie",
    "connected": true,
@@ -64643,10 +64645,11 @@
     "simons"
    ],
    "adopted": false,
-   "unproven": true,
-   "father": null,
+   "unproven": false,
+   "father": "masters_charles_f",
    "mother": "simons_gertrude_nellie",
    "parents": [
+    "masters_charles_f",
     "simons_gertrude_nellie"
    ],
    "birth_father": null,
@@ -64669,7 +64672,7 @@
    "families": [
     "F_kulp_dradie_ellen+simons_raymond_zell"
    ],
-   "parent_family": "F_simons_gertrude_nellie",
+   "parent_family": "F_masters_charles_f+simons_gertrude_nellie",
    "connected": true,
    "dna_match": false,
    "priority": "normal",
@@ -64766,7 +64769,7 @@
     "In 1930 the household at Buffalo Road, Delta, included Dradie's brother Elmer Kulp; in 1940 his daughter Elaine, her husband Les Rinehart and their children Jerry and Janet lived with him near Richland.",
     "CORRECTION: his WWI draft card is dated 26 Aug 1918 (the registration of men who had turned 21 since June 1918; Ray turned 21 on 14 Jun 1918), not 11 Sep 1918.",
     "CORRECTION: his mother was Gertrude Nellie Simons, Aaron and Harriet's eldest daughter, not Harriet. The Michigan state birth register and the Van Buren County register both record Ray, born 14 Jun 1897 at South Haven, to Gertrude Simonds, born in Minnesota, the family living at Covert (state register no. 4556, recorded 5 Aug 1898). Gertrude, born in Minnesota in 1879, was 18 and unmarried. Aaron and Harriet raised him as their son: the 1900 census lists him as their son, and his death certificate names them as his parents. His \"sisters\" Ettie, Lola and Bertha were his aunts, and Dorothy Groves was his half-sister.",
-    "His father is not identified. The birth registers name him as \"Ray Simonds\", born in Chicago, a farmer, which fits neither Aaron (born in Ohio) nor Charles F. Masters, whom Gertrude married in 1898 (born in Michigan). Raymond's 1930 census gives his father's birthplace as Illinois. Ed Simons's Ancestry tree names Masters as his father, citing only another member tree (UNPROVEN). DNA matches could settle it."
+    "His father is not proven. The birth registers name him as \"Ray Simonds\", born in Chicago, a farmer, which fits neither Aaron (born in Ohio) nor Charles F. Masters, whom Gertrude married in 1898 (born in Michigan); Raymond's 1930 census gives his father's birthplace as Illinois. Masters is shown as his father on the chart because Ed Simons's tree names him, citing only another member tree; the link awaits a DNA match to a Masters or Prescott descendant."
    ]
   },
   {
@@ -79660,7 +79663,9 @@
     "masters_charles_f",
     "simons_gertrude_nellie"
    ],
-   "children": [],
+   "children": [
+    "simons_raymond_zell"
+   ],
    "marriage": "12 Sep 1898"
   },
   {
@@ -80313,16 +80318,6 @@
    ],
    "children": [],
    "marriage": "21 Jun 1991"
-  },
-  {
-   "id": "F_simons_gertrude_nellie",
-   "partners": [
-    "simons_gertrude_nellie"
-   ],
-   "children": [
-    "simons_raymond_zell"
-   ],
-   "marriage": null
   },
   {
    "id": "F_simons_glen+simons_mary",
