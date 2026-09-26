@@ -39,6 +39,20 @@ function yearsBetween(a, b) {
   return { n, exact };
 }
 /** Age today, or at death, straight from the record. */
+/** Short age for a chip: "76", "about 33", "died 2016 aged 79", "born 1916, died in infancy". */
+function ageBrief(p, today = new Date()) {
+  const b = calDate(p.birth?.text);
+  if (!b) return 'birth date not recorded';
+  const now = { y: today.getFullYear(), m: today.getMonth(), d: today.getDate() };
+  if (p.death?.text) {
+    const d = calDate(p.death.text);
+    if (!d) return `died ${p.death.text}, age unknown`;
+    const { n, exact } = yearsBetween(b, d);
+    return n === 0 ? `died in infancy, ${d.y}` : `died ${d.y} aged ${exact ? '' : 'about '}${n}`;
+  }
+  const { n, exact } = yearsBetween(b, now);
+  return `${exact ? '' : 'about '}${n}${p.living_status ? '' : ' if living'}`;
+}
 function ageAnswer(p, nm, today = new Date()) {
   const b = calDate(p.birth?.text);
   if (!b) return `<p>No birth date is recorded for <strong>${nm}</strong>, so an age cannot be worked out.</p>`;
@@ -87,6 +101,18 @@ class NameIndex {
       this.map.get(v).add(p.id);
     }
     this.maxWords = Math.max(...[...this.map.keys()].map(k => k.split(' ').length));
+    // every surname in the tree, so "Ray Simons" is not read as a bare "Ray" who is not a Simons
+    this.surnames = new Set();
+    for (const p of D.people.values()) {
+      const w = norm(p.name.replace(/\([^)]*\)/g, ' ').replace(/["“][^"”]*["”]/g, ' ')).split(' ').filter(x => x.length > 1 && !/^(jr|sr|ii|iii|iv)$/.test(x));
+      if (w.length > 1) this.surnames.add(w[w.length - 1]);
+      for (const m of (p.name.match(/\(([^)]*)\)/) || [, ''])[1].split(/,\s*/)) { const s = norm(m); if (s) this.surnames.add(s); }
+    }
+  }
+  /** Does this person carry the surname (birth, married or alias)? */
+  hasSurname(id, s) {
+    const p = this.D.person(id);
+    return norm([p.name, ...(p.aliases || [])].join(' ')).split(' ').includes(s);
   }
   /** People named in `text`, longest matches first, one pick per mention. */
   find(text, scope = new Set(), focus = null) {
@@ -101,7 +127,11 @@ class NameIndex {
         const ids = this.map.get(phrase);
         if (!ids) continue;
         const pick = this.best([...ids], scope, n === 1, caps.has(phrase), focus);
-        if (pick) hit = { id: pick.id, n, text: phrase, of: pick.of };
+        if (!pick) continue;
+        // a bare first name followed by a surname that is not this person's ("Ray Simons" when the only Ray is a Parker)
+        const next = words[i + 1];
+        if (n === 1 && next && this.surnames.has(next) && !this.hasSurname(pick.id, next)) continue;
+        hit = { id: pick.id, n, text: phrase, of: pick.of };
       }
       if (hit) { if (!found.some(f => f.id === hit.id)) found.push(hit); i += hit.n; } else i++;
     }
@@ -276,8 +306,10 @@ function localAnswer(D, names, q, sel, meId) {
   const nm = esc(displayName(p));
   const has = you ? 'You have' : `<strong>${nm}</strong> has`;
 
-  // how old is / was, age, how long did they live
-  if (/\bhow old\b|\byears old\b|\bage\b|\bhow long did\b.*\blive\b/.test(n) && !/\b(marry|married|marriage|wed|wedding)\b/.test(n)) {
+  // how old is / was, age, how long did they live: one person here, a group of relatives below
+  const wantAge = /\bhow old\b|\byears old\b|\bages?\b|\bhow long did\b.*\blive\b/.test(n) && !/\b(marry|married|marriage|wed|wedding)\b/.test(n);
+  const ages = ids => Object.fromEntries(ids.map(id => [id, ageBrief(who(id))]));
+  if (wantAge && !relRequest(n) && !/\b(spouses?|wife|wives|husbands?|married to|partners?)\b/.test(n)) {
     return { html: `${youNote}${ageAnswer(p, nm)}`, people: [p.id] };
   }
   // when did they marry
@@ -318,7 +350,7 @@ function localAnswer(D, names, q, sel, meId) {
   if (/\b(spouses?|wife|wives|husbands?|married to|partners?)\b/.test(n)) {
     const partners = D.partnerFamilies(p).map(f => D.partnerIn(f, p)).filter(Boolean);
     if (!partners.length) return { html: `${youNote}<p>No spouse or partner of <strong>${nm}</strong> is recorded.</p>`, people: [p.id] };
-    return { html: `${youNote}<p>${has} ${partners.length} recorded ${partners.length === 1 ? 'spouse or partner' : 'spouses or partners'}:</p>`, people: partners.map(x => x.id), list: true };
+    return { html: `${youNote}<p>${has} ${partners.length} recorded ${partners.length === 1 ? 'spouse or partner' : 'spouses or partners'}${wantAge ? ', with ages' : ''}:</p>`, people: partners.map(x => x.id), list: true, subs: wantAge ? ages(partners.map(x => x.id)) : null };
   }
   // any blood relationship: parents, great-grandparents, aunts, nieces, second cousins once removed…
   const req = relRequest(n);
@@ -329,7 +361,7 @@ function localAnswer(D, names, q, sel, meId) {
     if (!ids.length) return { html: `${youNote}<p>No ${esc(kinPhrase(req.phrase, 2))} of ${you ? 'yours' : `<strong>${nm}</strong>`} are recorded.</p>`, people: you ? [] : [p.id] };
     const halves = ids.filter(id => found.get(id)).length;
     const shown = ids.slice(0, 60);
-    return { html: `${youNote}<p>${has} <strong>${ids.length}</strong> recorded ${esc(kinPhrase(req.phrase, ids.length))}${halves ? ` (${halves} of them half relations)` : ''}${ids.length > shown.length ? `; the first ${shown.length} by birth` : ''}:</p>`, people: shown, list: true };
+    return { html: `${youNote}<p>${has} <strong>${ids.length}</strong> recorded ${esc(kinPhrase(req.phrase, ids.length))}${halves ? ` (${halves} of them half relations)` : ''}${ids.length > shown.length ? `; the first ${shown.length} by birth` : ''}${wantAge ? ', with their ages today' : ''}:</p>`, people: shown, list: true, subs: wantAge ? ages(shown) : null };
   }
   return null;
 }
@@ -489,9 +521,9 @@ export class Ask {
     this.el.querySelector('.ask-again input').focus();
   }
 
-  chip(id, cls = '') {
+  chip(id, cls = '', sub = null) {
     const p = this.D.person(id); if (!p) return '';
-    const span = lifespan(p, { short: true });
+    const span = sub ?? lifespan(p, { short: true });
     return `<button class="chip${cls}" data-id="${p.id}" style="--branch:${this.D.color(p)}"><span class="chip-name">${esc(displayName(p))}</span>${span ? `<span class="chip-sub">${esc(span)}</span>` : ''}</button>`;
   }
 
@@ -515,7 +547,7 @@ export class Ask {
     const local = localAnswer(this.D, found, this.q, this.sel, this.getMe());
     if (local && guess.length && !local.place) local.html = `<p class="muted">${guess.join(' ')}</p>` + local.html;
     if (local) {
-      const chips = (local.people || []).map(id => this.chip(id, local.highlight?.has(id) ? ' rel-anc' : '')).join(local.path ? '<span class="rel-arrow">›</span>' : '');
+      const chips = (local.people || []).map(id => this.chip(id, local.highlight?.has(id) ? ' rel-anc' : '', local.subs?.[id] ?? null)).join(local.path ? '<span class="rel-arrow">›</span>' : '');
       const shared = local.ancestors?.length ? `<p class="muted">Nearest shared ancestor${local.ancestors.length > 1 ? 's' : ''}: ${local.ancestors.map(id => esc(displayName(this.D.person(id)))).join(' and ')}</p>` : '';
       const more = askEnabled() && local.people?.length ? `<button class="link-btn ask-ai">Ask the AI for more detail</button>` : '';
       const alts = (local.alts || []).map(x => `<p class="ask-also">${x.html}</p><div class="chips rel-path">${x.path.map(id => this.chip(id)).join('<span class="rel-arrow">›</span>')}</div>`).join('');
